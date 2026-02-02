@@ -1,7 +1,12 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--01-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--02-blue)
 
 | Extension ID | Name | Insert Date |
 | ------------- | ---- | ----------- |
+| cjobgkekcenldbaenikebmbhffhhffef | Tetrys | 02/05/25 |
+| imkngaibigegepnlckfcbecjoilcjbhf | Stream Video Downloader | 21/01/21 |
+| clabdidkhcmbhkjnggoeecpldlegflmk | Rainbow Wallpapers HD New Tab | 26/07/19 |
+| hhngeobomadcaamnncdaafhnankmmcic | Guns Wallpapers Guns New Tab HD | 01/02/20 |
+| jejifplcapdlbhjagfeginbledjpggod | Fine Video Tuning | 19/05/22 |
 | ifdinimahpjflpflcgfbbcakpjkjllfo | Exodus Wallet - Ai Assistant | 03/11/25 |
 | pmbfdejmiglahedobjddkhaebpaamkab | Хvеrse: Βіtсоіn WаІІеt | 21/10/25 |
 | obedkjaaifedcfidfdjoinfaphghmbfl | Free image downloader | 10/11/25 |
@@ -32,7 +37,7 @@
 | hjlekdknhjogancdagnndeenmobeofgm | HD Video Downloader | 31/01/26 |
 | dcbikjphkkgmgmjoohmbnhccbndgpmin | PasteReady - Fix ChatGPT Copy-Paste Issues | 31/01/26 |
 | ghoagfhlabpingcilncecimoegncljmd | Ledger AI Quiz | 31/01/26 |
-| bijgggddcklgikhahocbekhhncacpnkj | Web Highlighter | 31/01/26 |
+| bijgggddcklgikhahocbekhhncacpnkj | Web Highlighter | 19/01/26 |
 | pphgdbgldlmicfdkhondlafkiomnelnk | Urban Ad Blocker (Edge) | 29/01/26 |
 | nimlmejbmnecnaghgmbahmbaddhjbecg | Urban Browser Guard (Edge) | 29/01/26 |
 | gcogpdjkkamgkakkjgeefgpcheonclca | 1ClickVPN Proxy (Edge) | 29/01/26 |
@@ -126,7 +131,7 @@
 | ifjimhnbnbniiiaihphlclkpfikcdkab | ChatGPT message navigator, history scroller – ChatGPT Mods | 28/01/26 |
 | kefnabicobeigajdngijnnjmljehknjl | ChatGPT pin chat, bookmark – ChatGPT Mods | 28/01/26 |
 | obdobankihdfckkbfnoglefmdgmblcld | ChatGPT voice download, TTS download – ChatGPT Mods | 28/01/26 |
-| lmiigijnefpkjcenfbinhdpafehaddag | ChatGPT folder, voice download, prompt manager, free tools - ChatGPT Mods | 28/01/26 |
+| lmiigijnefpkjcenfbinhdpafehaddag | ChatGPT folder, voice download, prompt manager, free tools - ChatGPT Mods | 12/01/26 |
 | ejmfemchnobpkbmnidhbbledmajpehnp | YouTube Focus Timer & Stats | 28/01/26 |
 | eagiakjmjnblliacokhcalebgnhellfi | WeTab | 28/01/26 |
 | bbddldccjdblblaoagchfccnpcjinnde | NoteMark | 28/01/26 |
