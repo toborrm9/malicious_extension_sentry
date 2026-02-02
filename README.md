@@ -26,9 +26,9 @@ Each extension entry includes:
 
 The database is updated daily if new malicious extensions are discovered.
 
-**Last Updated:** **2026-02-01**
+**Last Updated:** **2026-02-02**
 
-**Total Extensions:** **309**
+**Total Extensions:** **314**
 
 ## Usage
 
