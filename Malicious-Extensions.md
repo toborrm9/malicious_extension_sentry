@@ -2,6 +2,31 @@
 
 | Extension ID | Name | Insert Date |
 | ------------- | ---- | ----------- |
+| pnmmfplemkekboaalbeeajfidkkepppl | Safe ChatGPT Search | 04/02/26 |
+| lonfhijnhlpehhmhgekhkmdominoiopi | Grok Search | 04/02/26 |
+| nfijbcmjagdmmkchgicfdidblofopkdp | Search with AI on Chrome™ | 04/02/26 |
+| kbkajekcpifoekenleplhefobiponkmp | Deepseek Chat | 04/02/26 |
+| gghdfkafnhfpaooiolhncejnlgglhkhe | AI Sidebar | 04/02/26 |
+| gcdfailafdfjbailcdcbjmeginhncjkb | Grok Chatbot | 04/02/26 |
+| hodafefeincjlgijbiabbmaffambjeaa | Grok Sidebar | 04/02/26 |
+| mkhdiephfhifcgpmkaaboknnbdpjlneg | DeepSeek Assistant: AI Chat, Minibar, SidePanel & Search | 04/02/26 |
+| ifhigdhiifbnjanhacoedbadhmlkjgae | Chat with AI | 04/02/26 |
+| hafhkoalnlpoifpidohfjlmeemfifndi | Grok AI (easytool) | 04/02/26 |
+| fgbieegonkgdlkmeaapmkejdlfalonkb | DeepSeek AI (easytool) | 04/02/26 |
+| aoemlgniakbojcecmjefonjkgnceklpg | Grok 4 (easytool) | 04/02/26 |
+| bdcimkinofohfmldheklgfbjkfehfdhl | Chat GPT 5 (easytool) | 04/02/26 |
+| jlbpahgopcmomkgegpbmopfodolajhbl | ChatGPT for Chrome - GPT Search | 04/02/26 |
+| hiiildgldbpfbegcfgemoliikibfhaeh | ChatGPT to PDF | 04/02/26 |
+| fmncmpginchogfdnjfeopdopoiegjjjp | AI Search GPT for Chrome | 04/02/26 |
+| kblengdlefjpjkekanpoidgoghdngdgl | AI GPT | 04/02/26 |
+| mehpokgiebgcnelgnlfkeldlfnpdhdha | ChatGPT Extension | 04/02/26 |
+| feeonheemodpkdckaljcjogdncpiiban | Zuvu AI: The Ultimate AI Agent Sidebar for Google Search & Beyond | 04/02/26 |
+| llojfncgbabajmdglnkbhmiebiinohek | ChatGPT Sidebar | 04/02/26 |
+| adjiljljjoeielcjmafljkicjncjpbha | DeepSeek app | 04/02/26 |
+| gohgeedemmaohocbaccllpkabadoogpl | DeepSeek Chat | 04/02/26 |
+| giaooddllfkkkblpaedgkhfmhocponbo | DeepSeek v3 | 04/02/26 |
+| npphdmcakmfhllhblkealgkeefamebih | Chat GPT 5 | 04/02/26 |
+| dcbcnpnaccfjoikaofjgcipcfbmfkpmj | H-Chat Assistant | 04/02/26 |
 | ikhpipnkpbedjbmlgppdejmcdnjecded | Bitstamp Wallet | 02/02/26 |
 | llmjkahdkdndnikmnedndgdfbmianaao | Best Web3 Wallet | 02/02/26 |
 | jmlgkeaofknfmnbpmlmadnfnfajdlehn | AliExpress Deals Countdown - Flash Sale Timer | 02/02/26 |
@@ -132,20 +157,20 @@
 | nimnhhcainjoacphlmhbkodofenjgobh | Internet Archive Saver | 28/01/26 |
 | ijhbioflmfpgfmgapjnojopobfncdeif | Extension Canva for Chrome \| Design, Art & AI Editor | 28/01/26 |
 | kbaofbaehfbehifbkhplkifihabcicoi | PhotoExpress Editor | 28/01/26 |
-| fmchencccolmmgjmaahfhpglemdcjfll | # Translate Selected Text with Right Click | 28/01/26 |
-| fcoongackakfdmiincikmjgkedcgjkdp | # Google Translate in Right Click | 28/01/26 |
-| ajbkmeegjnmaggkhmibgckapjkohajim | # Cool Cursor | 28/01/26 |
-| jihipmfmicjjpbpmoceapfjmigmemfam | # One Key Translate | 28/01/26 |
-| knoibjinlbaolannjalfdjiloaadnknj | # Floating Player – PiP Mode | 28/01/26 |
-| bmmchpeggdipgcobjbkcjiifgjdaodng | # Color Enhancer | 28/01/26 |
-| onlofoccaenllpjmalbnilfacjmcfhfk | # AdBlocker | 28/01/26 |
-| fbobegkkdmmcnmoplkgdmfhdlkjfelnb | # Ads Block Ultimate | 28/01/26 |
-| gmciomcaholgmklbfangdjkneihfkddd | # RSS Feed | 28/01/26 |
-| dhnibdhcanplpdkcljgmfhbipehkgdkk | # Youtube Download | 28/01/26 |
-| obocpangfamkffjllmcfnieeoacoheda | # Translate Selected Text with Google | 28/01/26 |
-| ielbkcjohpgmjhoiadncabphkglejgih | # Convert Everything | 28/01/26 |
-| kjkhljbbodkfgbfnhjfdchkjacdhmeaf | # Full Page Screenshot | 28/01/26 |
-| maiackahflfnegibhinjhpbgeoldeklb | # Page Screenshot Clipper | 28/01/26 |
+| fmchencccolmmgjmaahfhpglemdcjfll | Translate Selected Text with Right Click | 28/01/26 |
+| fcoongackakfdmiincikmjgkedcgjkdp | Google Translate in Right Click | 28/01/26 |
+| ajbkmeegjnmaggkhmibgckapjkohajim | Cool Cursor | 28/01/26 |
+| jihipmfmicjjpbpmoceapfjmigmemfam | One Key Translate | 28/01/26 |
+| knoibjinlbaolannjalfdjiloaadnknj | Floating Player – PiP Mode | 28/01/26 |
+| bmmchpeggdipgcobjbkcjiifgjdaodng | Color Enhancer | 28/01/26 |
+| onlofoccaenllpjmalbnilfacjmcfhfk | AdBlocker | 28/01/26 |
+| fbobegkkdmmcnmoplkgdmfhdlkjfelnb | Ads Block Ultimate | 28/01/26 |
+| gmciomcaholgmklbfangdjkneihfkddd | RSS Feed | 28/01/26 |
+| dhnibdhcanplpdkcljgmfhbipehkgdkk | Youtube Download | 28/01/26 |
+| obocpangfamkffjllmcfnieeoacoheda | Translate Selected Text with Google | 28/01/26 |
+| ielbkcjohpgmjhoiadncabphkglejgih | Convert Everything | 28/01/26 |
+| kjkhljbbodkfgbfnhjfdchkjacdhmeaf | Full Page Screenshot | 28/01/26 |
+| maiackahflfnegibhinjhpbgeoldeklb | Page Screenshot Clipper | 28/01/26 |
 | jhohjhmbiakpgedidneeloaoloadlbdj | ChatGPT Mods – Folder Voice Download & More Free Tools | 28/01/26 |
 | ioaeacncbhpmlkediaagefiegegknglc | ChatGPT Prompt Manager, Folder, Library, Auto Send – ChatGPT Mods | 28/01/26 |
 | hfdpdgblphooommgcjdnnmhpglleaafj | ChatGPT Token counter – ChatGPT Mods | 28/01/26 |
@@ -287,7 +312,7 @@
 | dpggmcodlahmljkhlmpgpdcffdaoccni | Internxt VPN |  |
 | oaikpkmjciadfpddlpjjdapglcihgdle | Uvoice |  |
 | kkodiihpgodmdankclfibbiphjkfdenh | VPNCity |  |
-| inhcgfpbfdjbjogdfjbclgolkmhnooop | AI Sidebar with Deepseek, ChatGPT, Claude and more |  |
+| inhcgfpbfdjbjogdfjbclgolkmhnooop | AI Sidebar with Deepseek, ChatGPT, Claude and more. |  |
 | fnmihdojmnkclgjpcoonokmkhjpjechg | Chat GPT for Chrome with GPT-5, Claude Sonnet & DeepSeek AI |  |
 | oliiideaalkijolilhhaibhbjfhbdcnm | Link shortener |  |
 | bhahpmoebdipfoaadcclkcnieeokebnf | Bitcoin price live |  |
