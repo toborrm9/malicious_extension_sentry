@@ -1,3 +1,4 @@
+[!["Buy Me A Coffee"](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=🍺&slug=toborrm9&button_colour=cd5640&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/toborrm9)
 # Malicious Chrome/Edge Extensions Database
 
 An automatically updated database of malicious Chrome extensions removed from the Chrome Web Store.
