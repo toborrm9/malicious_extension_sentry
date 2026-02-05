@@ -23,6 +23,7 @@ The database is updated daily if new malicious extensions are discovered.
 
 ## 📰 Recent Security News
 
+- **2026-01-30**:[Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access](https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html)
 - **2026-01-28**: [Malicious Chrome extensions can spy on your ChatGPT chats](https://www.malwarebytes.com/blog/news/2026/01/malicious-chrome-extensions-can-spy-on-your-chatgpt-chats)
 - **2026-01-27**: [Small Tools, Big Risk: When Browser Extensions Start Stealing API Keys](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys)
 - **2026-01-27**: [Stanley — A $6,000 Russian Malware Toolkit with Chrome Web Store Guarantee](https://www.varonis.com/blog/stanley-malware-kit)
