@@ -1,7 +1,10 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--04-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--05-blue)
 
 | Extension ID | Name | Insert Date |
 | ------------- | ---- | ----------- |
+| pdnhdddkoccchmbockecbohnakddkjip | StatisticsWeb - Website Traffic & SEO Checker | 04/02/26 |
+| npbpfkbnfpblnahogmnjiffoimllllek | OKX One-Click Trade | 04/02/26 |
+| calfkdkldagckidpojjehljcfglhfila | DeepSeek AI \| Free AI Assistant | 04/02/26 |
 | pnmmfplemkekboaalbeeajfidkkepppl | Safe ChatGPT Search | 04/02/26 |
 | lonfhijnhlpehhmhgekhkmdominoiopi | Grok Search | 04/02/26 |
 | nfijbcmjagdmmkchgicfdidblofopkdp | Search with AI on Chrome™ | 04/02/26 |
@@ -82,15 +85,15 @@
 | cklhfdhnbcbcchammllnjbehpjjlcljn | Blockchаіո | 03/11/25 |
 | iocbgfeimcjdcnlppmhjpjonciejmhnp | Κrаκеn РRО Cryptogram | 16/10/25 |
 | lkhbodnngmenbcjdmcdcbpmbkebikgjf | Xaman | 12/12/25 |
-| ljoinkecfhmbfehhdmnbpcdncbgkffgd | Noise-Less | 31/01/26 |
-| hmdhdelmoedfklkgbleddopfgacmhfik | Airdrop Radar | 31/01/26 |
-| pdgghfndbkndiojjojcmbkfianekifna | Ledger Live Pro Extension | 31/01/26 |
-| opkbjlbkejhjmnchhlllccoglphmimdc | Init Revoke Extension | 31/01/26 |
-| aafibkjcplagpjkhkeamkpaellnglepe | AML Scan \| Free Crypto AML Checker | 31/01/26 |
+| ljoinkecfhmbfehhdmnbpcdncbgkffgd | Noise-Less | 06/01/26 |
+| hmdhdelmoedfklkgbleddopfgacmhfik | Airdrop Radar | 06/01/26 |
+| pdgghfndbkndiojjojcmbkfianekifna | Ledger Live Pro Extension | 07/01/26 |
+| opkbjlbkejhjmnchhlllccoglphmimdc | Init Revoke Extension | 07/01/26 |
+| aafibkjcplagpjkhkeamkpaellnglepe | AML Scan \| Free Crypto AML Checker | 08/01/26 |
 | ffodnimfejbfabkkmloghfafjmahejep | Crypto Whales \| Alert of Major Crypto Transactions | 31/01/26 |
 | nfclcncdkemmmhcbfglghbnloenkjjcl | Calendly House \| Meeting Notes | 31/01/26 |
-| hjlekdknhjogancdagnndeenmobeofgm | HD Video Downloader | 31/01/26 |
-| dcbikjphkkgmgmjoohmbnhccbndgpmin | PasteReady - Fix ChatGPT Copy-Paste Issues | 31/01/26 |
+| hjlekdknhjogancdagnndeenmobeofgm | HD Video Downloader | 15/01/26 |
+| dcbikjphkkgmgmjoohmbnhccbndgpmin | PasteReady - Fix ChatGPT Copy-Paste Issues | 13/01/26 |
 | ghoagfhlabpingcilncecimoegncljmd | Ledger AI Quiz | 31/01/26 |
 | bijgggddcklgikhahocbekhhncacpnkj | Web Highlighter | 19/01/26 |
 | pphgdbgldlmicfdkhondlafkiomnelnk | Urban Ad Blocker (Edge) | 29/01/26 |
@@ -200,11 +203,11 @@
 | onobgadjpjdkmghdbigpafcndbndjemj | VBlock | 19/01/26 |
 | ffhcdbebponkjcfbbbbdobicpknmcemf | KeeProx - Digital Gatekeeper | 19/01/26 |
 | gaajcpnkapnemeiohoighjmjknpfcdfd | FreshWipe – Clear Cache & History | 19/01/26 |
-| ffgacbjeplimdnljijmckpmaggjknkgi | JSONLens | 19/01/26 |
-| cpcdkmjddocikjdkbbeiaafnpdbdafmi | NexShield | 18/01/26 |
-| ijapakghdgckgblfgjobhcfglebbkebf | Tool Access 11 | 18/01/26 |
-| bmodapcihjhklpogdpblefpepjolaoij | Software Access | 18/01/26 |
-| blfehknobghonbjigahfbmmjecooeeja | Video Speed Up Controller for Chrome ⏩ | 18/01/26 |
+| ffgacbjeplimdnljijmckpmaggjknkgi | JSONLens | 18/01/26 |
+| cpcdkmjddocikjdkbbeiaafnpdbdafmi | NexShield – Advanced Web Guardian | 16/01/26 |
+| ijapakghdgckgblfgjobhcfglebbkebf | Tool Access 11 | 16/01/26 |
+| bmodapcihjhklpogdpblefpepjolaoij | Software Access | 16/01/26 |
+| blfehknobghonbjigahfbmmjecooeeja | Video Speed Up Controller for Chrome ⏩ | 16/01/26 |
 | bmcnncbmipphlkdmgfbipbanmmfdamkd | FREE VPN - Bypass Site Blocking |  |
 | gfjocjagfinihkkaahliainflifnlnfc | VK Music Downloader |  |
 | mdnmhbnbebabimcjggckeoibchhckemm | friGate Light |  |
@@ -275,7 +278,7 @@
 | mbjjeombjeklkbndcjgmfcdhfbjngcam | Data By Cloud 1 |  |
 | makdmacamkifdldldlelollkkjnoiedg | Data By Cloud 2 |  |
 | oldhjammhkghhahhhdcifmmlefibciph | DataByCloud Access |  |
-| pppdfgkfdemgfknfnhpkibbkabhghhfh | MEXC API Automator |  |
+| pppdfgkfdemgfknfnhpkibbkabhghhfh | MEXC API Automator | 15/01/26 |
 | didhgeamncokiaegffipckhhcpnmlcbl | ChatGPT Quick Access |  |
 | fbmlcbhdmilaggedifpihjgkkmdgeljh | Reader Mode |  |
 | hodiladlefdpcbemnbbcpclbmknkiaem | Visual Effects for Google Meet |  |
