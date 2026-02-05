@@ -1,4 +1,7 @@
-<a href="https://www.buymeacoffee.com/toborrm9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/toborrm9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>   
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--05-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-437-red)
+
 
 # Malicious Chrome/Edge Extensions Database
 
@@ -10,16 +13,6 @@ This repository maintains a current list of Chrome extensions that have been rem
 
 I created this project after searching for an updated list of malicious Chrome extensions and finding that most resources were outdated or incomplete. I'm committed to keeping this database alive and current through automated monitoring and community contributions.
   
-## 📊 Statistics
-
-The database is updated daily if new malicious extensions are discovered.
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--05-blue)
-
-
-
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-437-red)
-
 
 ## 📰 Recent Security News
 
