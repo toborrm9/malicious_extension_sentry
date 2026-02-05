@@ -18,7 +18,7 @@ The database is updated daily if new malicious extensions are discovered.
 
 
 
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-372-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-437-red)
 
 
 ## 📰 Recent Security News
@@ -31,7 +31,7 @@ The database is updated daily if new malicious extensions are discovered.
 - **2026-01-26**: [Chrome Extensions: Are you getting more than you bargained for?](https://www.security.com/threat-intelligence/chrome-extensions-are-you-getting-more-you-bargained)
 - **2025-12-24**: [Silent Takeover: How Purchased Chrome Extensions Became Remote-Controlled Webpage Manipulation Tools](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/)
 - **2025-12-15**: [8 Million Users' AI Conversations Sold for Profit by "Privacy" Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
-
+- **2025-12-01**: [4.3 Million Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign)
 ## Data Sources
 
 
