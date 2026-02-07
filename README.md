@@ -15,14 +15,38 @@ An automatically updated database of malicious Chrome extensions removed from th
 ### Quick Start
 
 **One-line install & scan:**
+
+**Linux & macOS:**
 ```bash
 curl -O https://raw.githubusercontent.com/toborrm9/malicious_extension_sentry/main/malext.py && python3 malext.py
 ```
 
+**Windows PowerShell < v7:**
+```pwsh
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/toborrm9/malicious_extension_sentry/main/malext.py -OutFile malext.py; python3 malext.py
+```
+
+**Windows PowerShell >= v7:**
+```pwsh
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/toborrm9/malicious_extension_sentry/main/malext.py -OutFile malext.py && python3 malext.py
+```
+
 **Or download and run:**
+
+**Linux & macOS:**
 ```bash
 # Download
 curl -O https://raw.githubusercontent.com/toborrm9/malicious_extension_sentry/main/malext.py
+
+# Run
+python3 malext.py
+```
+
+**Windows PowerShell:**
+```pwsh
+#Download
+
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/toborrm9/malicious_extension_sentry/main/malext.py -OutFile malext.py
 
 # Run
 python3 malext.py
