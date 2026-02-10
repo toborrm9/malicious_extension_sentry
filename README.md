@@ -56,7 +56,7 @@ python3 malext.py
 ### ✨ Features
 
 - ✅ **Cross-platform** - Windows, macOS, Linux
-- 🔍 **Instant scan** - Chrome, Edge, Chromium
+- 🔍 **Instant scan** - Chrome, Edge, Chromium, Brave, Vivaldi, Opera + Firefox-family (including Zen) + auto-discovered Chromium-based browsers
 - 🌐 **Auto-updates** - Downloads latest database
 - 🛡️ **Zero install** - Just Python 3
 - 🔒 **Privacy-first** - 100% local scanning
