@@ -10,6 +10,7 @@ import ssl
 import time
 import urllib.request
 import platform
+import os
 from pathlib import Path
 
 # Database URL
@@ -30,28 +31,166 @@ def banner():
     print("╚════════════════════════════════════════════════════════════════════╝\n")
 
 def get_browser_paths():
-    """Get browser paths based on OS"""
+    """Get browser paths based on OS (known + discovered Chromium-style data dirs)"""
     os_name = platform.system()
     paths = []
+    seen = set()
+    local_app_data = Path(os.environ.get("LOCALAPPDATA", Path.home() / "AppData/Local"))
+    roaming_app_data = Path(os.environ.get("APPDATA", Path.home() / "AppData/Roaming"))
     
     if os_name == "Darwin":  # macOS
         paths = [
             ("Chrome", Path.home() / "Library/Application Support/Google/Chrome"),
             ("Edge", Path.home() / "Library/Application Support/Microsoft Edge"),
+            ("Brave", Path.home() / "Library/Application Support/BraveSoftware/Brave-Browser"),
+            ("Chromium", Path.home() / "Library/Application Support/Chromium"),
+            ("Vivaldi", Path.home() / "Library/Application Support/Vivaldi"),
+            ("Opera", Path.home() / "Library/Application Support/com.operasoftware.Opera"),
+            ("Arc", Path.home() / "Library/Application Support/Arc/User Data"),
+            ("Thorium", Path.home() / "Library/Application Support/Thorium/User Data"),
+            ("Helium", Path.home() / "Library/Application Support/Helium/User Data"),
         ]
     elif os_name == "Windows":
         paths = [
-            ("Chrome", Path.home() / "AppData/Local/Google/Chrome/User Data"),
-            ("Edge", Path.home() / "AppData/Local/Microsoft/Edge/User Data"),
+            ("Chrome", local_app_data / "Google/Chrome/User Data"),
+            ("Edge", local_app_data / "Microsoft/Edge/User Data"),
+            ("Brave", local_app_data / "BraveSoftware/Brave-Browser/User Data"),
+            ("Chromium", local_app_data / "Chromium/User Data"),
+            ("Vivaldi", local_app_data / "Vivaldi/User Data"),
+            ("Opera", roaming_app_data / "Opera Software/Opera Stable"),
+            ("Opera GX", roaming_app_data / "Opera Software/Opera GX Stable"),
+            ("Arc", local_app_data / "Arc/User Data"),
+            ("Thorium", local_app_data / "Thorium/User Data"),
+            ("Helium", local_app_data / "Helium/User Data"),
+            ("Comodo Dragon", local_app_data / "Comodo/Dragon/User Data"),
+            ("Avast Secure Browser", local_app_data / "AVAST Software/Browser/User Data"),
+            ("AVG Secure Browser", local_app_data / "AVG/Browser/User Data"),
         ]
     elif os_name == "Linux":
         paths = [
             ("Chrome", Path.home() / ".config/google-chrome"),
             ("Edge", Path.home() / ".config/microsoft-edge"),
             ("Chromium", Path.home() / ".config/chromium"),
+            ("Brave", Path.home() / ".config/BraveSoftware/Brave-Browser"),
+            ("Vivaldi", Path.home() / ".config/vivaldi"),
+            ("Opera", Path.home() / ".config/opera"),
+            ("Thorium", Path.home() / ".config/thorium"),
+            ("Arc", Path.home() / ".config/arc"),
+            ("Helium", Path.home() / ".config/helium"),
+            ("Comodo Dragon", Path.home() / ".config/comodo-dragon"),
+            ("Avast Secure Browser", Path.home() / ".config/avast-browser"),
         ]
-    
-    return paths
+
+    discovered = discover_browser_paths(os_name, local_app_data, roaming_app_data)
+
+    combined = []
+    for browser, path in paths + discovered:
+        key = str(path).lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        combined.append((browser, path))
+
+    return combined
+
+
+def discover_browser_paths(os_name, local_app_data, roaming_app_data):
+    """Discover Chromium-style browser data dirs so less common browsers are included"""
+    roots = []
+    if os_name == "Windows":
+        roots = [local_app_data, roaming_app_data]
+    elif os_name == "Darwin":
+        roots = [Path.home() / "Library/Application Support"]
+    elif os_name == "Linux":
+        roots = [Path.home() / ".config", Path.home() / ".var/app"]
+
+    discovered = []
+    seen = set()
+
+    for root in roots:
+        if not root.exists():
+            continue
+        for data_dir in find_data_dirs(root):
+            if not has_extensions_structure(data_dir):
+                continue
+            key = str(data_dir).lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            discovered.append((infer_browser_name(data_dir), data_dir))
+
+    return discovered
+
+
+def find_data_dirs(root):
+    """Return likely Chromium data directories under a root"""
+    matches = []
+    max_depth = 4
+    stack = [(root, 0)]
+
+    while stack:
+        current, depth = stack.pop()
+        if depth > max_depth:
+            continue
+        try:
+            children = [p for p in current.iterdir() if p.is_dir()]
+        except Exception:
+            continue
+
+        name_lower = current.name.lower()
+        if name_lower == "user data" or "opera" in name_lower:
+            matches.append(current)
+            continue
+
+        for child in children:
+            stack.append((child, depth + 1))
+
+    return matches
+
+
+def has_extensions_structure(data_dir):
+    """Check if directory looks like a Chromium profile root"""
+    if (data_dir / "Extensions").exists():
+        return True
+
+    for name in ("Default", "Profile 1", "Profile 2"):
+        if (data_dir / name / "Extensions").exists():
+            return True
+    return False
+
+
+def infer_browser_name(path):
+    """Infer browser name from path for dynamically discovered directories"""
+    parts = [p.lower() for p in path.parts]
+    tokens = {
+        "brave-browser": "Brave",
+        "bravesoftware": "Brave",
+        "vivaldi": "Vivaldi",
+        "microsoft edge": "Edge",
+        "edge": "Edge",
+        "chrome": "Chrome",
+        "chromium": "Chromium",
+        "arc": "Arc",
+        "thorium": "Thorium",
+        "helium": "Helium",
+        "dragon": "Comodo Dragon",
+        "comodo": "Comodo Dragon",
+        "avast software": "Avast Secure Browser",
+        "avast": "Avast Secure Browser",
+        "avg": "AVG Secure Browser",
+        "opera gx stable": "Opera GX",
+        "opera stable": "Opera",
+        "com.operasoftware.opera": "Opera",
+        "opera": "Opera",
+    }
+
+    for part in reversed(parts):
+        if part in tokens:
+            return tokens[part]
+
+    if path.name.lower() == "user data":
+        return path.parent.name
+    return path.name
 
 def download_database():
     """Download malicious extensions list"""
@@ -71,24 +210,45 @@ def get_extensions():
     """Get all installed extensions"""
     extensions = []
     browsers = get_browser_paths()
+    firefox_profiles = get_firefox_profile_paths()
     
     for browser, path in browsers:
         if not path.exists():
             continue
-        for profile in path.iterdir():
-            if profile.name in ["Default"] or profile.name.startswith("Profile"):
-                ext_path = profile / "Extensions"
-                if ext_path.exists():
-                    for ext in ext_path.iterdir():
-                        if ext.is_dir():
-                            name = get_name(ext)
-                            extensions.append({
-                                'id': ext.name,
-                                'name': name,
-                                'browser': browser,
-                                'profile': profile.name
-                            })
+        for profile in get_profile_dirs(path):
+            ext_path = profile / "Extensions"
+            if ext_path.exists():
+                for ext in ext_path.iterdir():
+                    if ext.is_dir():
+                        name = get_name(ext)
+                        extensions.append({
+                            'id': ext.name,
+                            'name': name,
+                            'browser': browser,
+                            'profile': profile.name
+                        })
+
+    for browser, profiles_root in firefox_profiles:
+        if not profiles_root.exists():
+            continue
+        for profile in profiles_root.iterdir():
+            if not profile.is_dir():
+                continue
+            extensions.extend(get_firefox_extensions(browser, profile))
+
     return extensions
+
+
+def get_profile_dirs(browser_path):
+    """Return profile directories for a browser data path"""
+    if (browser_path / "Extensions").exists():
+        return [browser_path]
+
+    profiles = []
+    for item in browser_path.iterdir():
+        if item.is_dir() and (item.name == "Default" or item.name.startswith("Profile")):
+            profiles.append(item)
+    return profiles
 
 def get_name(ext_path):
     """Get extension name from manifest"""
@@ -104,6 +264,70 @@ def get_name(ext_path):
     except:
         pass
     return "Unknown"
+
+
+def get_firefox_profile_paths():
+    """Return profile root directories for Firefox-family browsers"""
+    os_name = platform.system()
+    local_app_data = Path(os.environ.get("LOCALAPPDATA", Path.home() / "AppData/Local"))
+    roaming_app_data = Path(os.environ.get("APPDATA", Path.home() / "AppData/Roaming"))
+
+    if os_name == "Windows":
+        return [
+            ("Firefox", roaming_app_data / "Mozilla/Firefox/Profiles"),
+            ("Zen", roaming_app_data / "Zen/Profiles"),
+            ("Floorp", roaming_app_data / "Floorp/Profiles"),
+            ("Waterfox", roaming_app_data / "Waterfox/Profiles"),
+            ("LibreWolf", roaming_app_data / "LibreWolf/Profiles"),
+            ("Zen", local_app_data / "Zen/Profiles"),
+        ]
+    if os_name == "Darwin":
+        base = Path.home() / "Library/Application Support"
+        return [
+            ("Firefox", base / "Firefox/Profiles"),
+            ("Zen", base / "Zen/Profiles"),
+            ("Floorp", base / "Floorp/Profiles"),
+            ("Waterfox", base / "Waterfox/Profiles"),
+            ("LibreWolf", base / "LibreWolf/Profiles"),
+        ]
+    if os_name == "Linux":
+        return [
+            ("Firefox", Path.home() / ".mozilla/firefox"),
+            ("Zen", Path.home() / ".zen"),
+            ("Floorp", Path.home() / ".floorp"),
+            ("Waterfox", Path.home() / ".waterfox"),
+            ("LibreWolf", Path.home() / ".librewolf"),
+        ]
+    return []
+
+
+def get_firefox_extensions(browser, profile_path):
+    """Read Firefox-family add-ons from profile extensions.json"""
+    results = []
+    extensions_json = profile_path / "extensions.json"
+    if not extensions_json.exists():
+        return results
+
+    try:
+        with open(extensions_json, 'r', encoding='utf-8') as f:
+            payload = json.load(f)
+    except Exception:
+        return results
+
+    for addon in payload.get("addons", []):
+        if addon.get("type") != "extension" or not addon.get("active", True):
+            continue
+        addon_id = addon.get("id")
+        if not addon_id:
+            continue
+        name = addon.get("defaultLocale", {}).get("name") or addon.get("name") or "Unknown"
+        results.append({
+            'id': addon_id,
+            'name': name,
+            'browser': browser,
+            'profile': profile_path.name
+        })
+    return results
 
 def main():
     """Main function"""
