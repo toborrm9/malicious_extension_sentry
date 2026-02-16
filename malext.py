@@ -16,6 +16,7 @@ from pathlib import Path
 # Database URL
 CSV_URL = "https://raw.githubusercontent.com/toborrm9/malicious_extension_sentry/refs/heads/main/Malicious-Extensions.csv"
 
+
 def banner():
     """Display banner"""
     print("\n╔════════════════════════════════════════════════════════════════════╗")
@@ -30,6 +31,7 @@ def banner():
     print("║         GitHub: github.com/toborrm9/malicious_extension_sentry    ║")
     print("╚════════════════════════════════════════════════════════════════════╝\n")
 
+
 def get_browser_paths():
     """Get browser paths based on OS (known + discovered Chromium-style data dirs)"""
     os_name = platform.system()
@@ -37,15 +39,21 @@ def get_browser_paths():
     seen = set()
     local_app_data = Path(os.environ.get("LOCALAPPDATA", Path.home() / "AppData/Local"))
     roaming_app_data = Path(os.environ.get("APPDATA", Path.home() / "AppData/Roaming"))
-    
+
     if os_name == "Darwin":  # macOS
         paths = [
             ("Chrome", Path.home() / "Library/Application Support/Google/Chrome"),
             ("Edge", Path.home() / "Library/Application Support/Microsoft Edge"),
-            ("Brave", Path.home() / "Library/Application Support/BraveSoftware/Brave-Browser"),
+            (
+                "Brave",
+                Path.home() / "Library/Application Support/BraveSoftware/Brave-Browser",
+            ),
             ("Chromium", Path.home() / "Library/Application Support/Chromium"),
             ("Vivaldi", Path.home() / "Library/Application Support/Vivaldi"),
-            ("Opera", Path.home() / "Library/Application Support/com.operasoftware.Opera"),
+            (
+                "Opera",
+                Path.home() / "Library/Application Support/com.operasoftware.Opera",
+            ),
             ("Arc", Path.home() / "Library/Application Support/Arc/User Data"),
             ("Thorium", Path.home() / "Library/Application Support/Thorium/User Data"),
             ("Helium", Path.home() / "Library/Application Support/Helium/User Data"),
@@ -63,7 +71,10 @@ def get_browser_paths():
             ("Thorium", local_app_data / "Thorium/User Data"),
             ("Helium", local_app_data / "Helium/User Data"),
             ("Comodo Dragon", local_app_data / "Comodo/Dragon/User Data"),
-            ("Avast Secure Browser", local_app_data / "AVAST Software/Browser/User Data"),
+            (
+                "Avast Secure Browser",
+                local_app_data / "AVAST Software/Browser/User Data",
+            ),
             ("AVG Secure Browser", local_app_data / "AVG/Browser/User Data"),
         ]
     elif os_name == "Linux":
@@ -192,26 +203,27 @@ def infer_browser_name(path):
         return path.parent.name
     return path.name
 
+
 def download_database():
     """Download malicious extensions list"""
     print("📥 Downloading latest malicious extensions database...")
     try:
         ctx = ssl._create_unverified_context()
         with urllib.request.urlopen(CSV_URL, timeout=10, context=ctx) as r:
-            content = r.read().decode('utf-8')
-        ids = {x.strip() for x in content.replace('\n', ',').split(',') if x.strip()}
+            content = r.read().decode("utf-8")
+        ids = {x.strip() for x in content.replace("\n", ",").split(",") if x.strip()}
         print(f"✅ Loaded {len(ids)} known malicious extension IDs\n")
         return ids
     except Exception as e:
         print(f"❌ Error: {e}\n")
         return set()
 
+
 def get_extensions():
     """Get all installed extensions"""
     extensions = []
     browsers = get_browser_paths()
-    firefox_profiles = get_firefox_profile_paths()
-    
+
     for browser, path in browsers:
         if not path.exists():
             continue
@@ -221,20 +233,14 @@ def get_extensions():
                 for ext in ext_path.iterdir():
                     if ext.is_dir():
                         name = get_name(ext)
-                        extensions.append({
-                            'id': ext.name,
-                            'name': name,
-                            'browser': browser,
-                            'profile': profile.name
-                        })
-
-    for browser, profiles_root in firefox_profiles:
-        if not profiles_root.exists():
-            continue
-        for profile in profiles_root.iterdir():
-            if not profile.is_dir():
-                continue
-            extensions.extend(get_firefox_extensions(browser, profile))
+                        extensions.append(
+                            {
+                                "id": ext.name,
+                                "name": name,
+                                "browser": browser,
+                                "profile": profile.name,
+                            }
+                        )
 
     return extensions
 
@@ -246,9 +252,12 @@ def get_profile_dirs(browser_path):
 
     profiles = []
     for item in browser_path.iterdir():
-        if item.is_dir() and (item.name == "Default" or item.name.startswith("Profile")):
+        if item.is_dir() and (
+            item.name == "Default" or item.name.startswith("Profile")
+        ):
             profiles.append(item)
     return profiles
+
 
 def get_name(ext_path):
     """Get extension name from manifest"""
@@ -257,117 +266,60 @@ def get_name(ext_path):
         if versions:
             manifest = sorted(versions)[-1] / "manifest.json"
             if manifest.exists():
-                with open(manifest, 'r', encoding='utf-8') as f:
+                with open(manifest, "r", encoding="utf-8") as f:
                     data = json.load(f)
-                    name = data.get('name', 'Unknown')
-                    return name if not name.startswith('__MSG_') else data.get('short_name', 'Unknown')
+                    name = data.get("name", "Unknown")
+                    return (
+                        name
+                        if not name.startswith("__MSG_")
+                        else data.get("short_name", "Unknown")
+                    )
     except:
         pass
     return "Unknown"
 
 
-def get_firefox_profile_paths():
-    """Return profile root directories for Firefox-family browsers"""
-    os_name = platform.system()
-    local_app_data = Path(os.environ.get("LOCALAPPDATA", Path.home() / "AppData/Local"))
-    roaming_app_data = Path(os.environ.get("APPDATA", Path.home() / "AppData/Roaming"))
-
-    if os_name == "Windows":
-        return [
-            ("Firefox", roaming_app_data / "Mozilla/Firefox/Profiles"),
-            ("Zen", roaming_app_data / "Zen/Profiles"),
-            ("Floorp", roaming_app_data / "Floorp/Profiles"),
-            ("Waterfox", roaming_app_data / "Waterfox/Profiles"),
-            ("LibreWolf", roaming_app_data / "LibreWolf/Profiles"),
-            ("Zen", local_app_data / "Zen/Profiles"),
-        ]
-    if os_name == "Darwin":
-        base = Path.home() / "Library/Application Support"
-        return [
-            ("Firefox", base / "Firefox/Profiles"),
-            ("Zen", base / "Zen/Profiles"),
-            ("Floorp", base / "Floorp/Profiles"),
-            ("Waterfox", base / "Waterfox/Profiles"),
-            ("LibreWolf", base / "LibreWolf/Profiles"),
-        ]
-    if os_name == "Linux":
-        return [
-            ("Firefox", Path.home() / ".mozilla/firefox"),
-            ("Zen", Path.home() / ".zen"),
-            ("Floorp", Path.home() / ".floorp"),
-            ("Waterfox", Path.home() / ".waterfox"),
-            ("LibreWolf", Path.home() / ".librewolf"),
-        ]
-    return []
-
-
-def get_firefox_extensions(browser, profile_path):
-    """Read Firefox-family add-ons from profile extensions.json"""
-    results = []
-    extensions_json = profile_path / "extensions.json"
-    if not extensions_json.exists():
-        return results
-
-    try:
-        with open(extensions_json, 'r', encoding='utf-8') as f:
-            payload = json.load(f)
-    except Exception:
-        return results
-
-    for addon in payload.get("addons", []):
-        if addon.get("type") != "extension" or not addon.get("active", True):
-            continue
-        addon_id = addon.get("id")
-        if not addon_id:
-            continue
-        name = addon.get("defaultLocale", {}).get("name") or addon.get("name") or "Unknown"
-        results.append({
-            'id': addon_id,
-            'name': name,
-            'browser': browser,
-            'profile': profile_path.name
-        })
-    return results
-
 def main():
     """Main function"""
     banner()
     time.sleep(1.5)
-    
+
     # Detect OS platform
     os_name = platform.system()
-    os_display = {"Darwin": "macOS", "Windows": "Windows", "Linux": "Linux"}.get(os_name, os_name)
+    os_display = {"Darwin": "macOS", "Windows": "Windows", "Linux": "Linux"}.get(
+        os_name, os_name
+    )
     print(f"💻 Detected OS: {os_display}\n")
-    
+
     # Get database
     malicious = download_database()
     if not malicious:
         return
-    
+
     # Scan extensions
     print("🔎 Scanning installed extensions...")
     extensions = get_extensions()
-    
+
     if not extensions:
         print(f"❌ No extensions found")
         print(f"   Make sure Chrome or Edge is installed on {os_display}\n")
         return
-    
+
     # Count by browser
     browser_counts = {}
     for e in extensions:
-        browser_counts[e['browser']] = browser_counts.get(e['browser'], 0) + 1
-    
+        browser_counts[e["browser"]] = browser_counts.get(e["browser"], 0) + 1
+
     count_str = ", ".join([f"{b}: {c}" for b, c in browser_counts.items()])
     print(f"✅ Found {len(extensions)} extensions ({count_str})\n")
-    
+
     # Check for matches
-    threats = [e for e in extensions if e['id'] in malicious]
-    
+    threats = [e for e in extensions if e["id"] in malicious]
+
     print("=" * 70)
     print("📊 SCAN RESULTS")
     print("=" * 70 + "\n")
-    
+
     if threats:
         print(f"⚠️  WARNING: {len(threats)} MALICIOUS EXTENSION(S) DETECTED!\n")
         print("🔴 REMOVE THESE IMMEDIATELY:")
@@ -377,7 +329,7 @@ def main():
             print(f"   ID: {t['id']}")
             print(f"   Browser: {t['browser']} ({t['profile']})")
             print(f"   URL: https://chromewebstore.google.com/detail/{t['id']}\n")
-        
+
         # OS-specific removal instructions
         if os_name == "Windows":
             print("🛡️  HOW TO REMOVE (Windows):")
@@ -397,13 +349,14 @@ def main():
     else:
         print(f"✅ GOOD NEWS: No malicious extensions detected!\n")
         print(f"   All {len(extensions)} extensions are clear.\n")
-    
+
     print("=" * 70)
     print(f"📊 Database: {len(malicious)} known malicious extensions")
     print(f"🌐 Source: {CSV_URL}")
     print("=" * 70 + "\n")
     print("🙏 Star the repo: github.com/toborrm9/malicious_extension_sentry")
     print("🐛 Report threats: Open an issue on GitHub!\n")
+
 
 if __name__ == "__main__":
     try:
