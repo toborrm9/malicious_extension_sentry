@@ -1,8 +1,10 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--18-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-769-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-771-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| febheipcbpjemgcfelalhpaafdohaaka | Amazon Music Web Player | Store Monitoring | 17/02/26 |
+| fnlnhcbjijmpajeppnnmkeagdmnlgihp | SpongeBob and Gary Sunset Live Wallpaper | Store Monitoring | 17/02/26 |
 | nlogodaofdghipmbdclajkkpheneldjd | Pixel Shield - Your Ad Blocker | Store Monitoring | 16/02/26 |
 | hpamjldgeadmapkdklhndmcdankicnch | Matrix Tunnel VPN - Your Secure Gateway | Store Monitoring | 16/02/26 |
 | cjmhegifablecgkkncjddcgkjmgoacfd | Ask AI - GPT chat | Store Monitoring | 16/02/26 |
