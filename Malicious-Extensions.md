@@ -1,8 +1,13 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--16-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-764-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--18-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-769-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| nlogodaofdghipmbdclajkkpheneldjd | Pixel Shield - Your Ad Blocker | Store Monitoring | 16/02/26 |
+| hpamjldgeadmapkdklhndmcdankicnch | Matrix Tunnel VPN - Your Secure Gateway | Store Monitoring | 16/02/26 |
+| cjmhegifablecgkkncjddcgkjmgoacfd | Ask AI - GPT chat | Store Monitoring | 16/02/26 |
+| fmkcleogbiclpgpfdmnmffhamhkbnifi | CapCut - easy-to-use Video Editor | Store Monitoring | 16/02/26 |
+| kconabncdpbdoapacohccnlgemnnghbp | CapCut - Extension | Store Monitoring | 16/02/26 |
 | mlaonedihngoginmmlaacpihnojcoocl | PageGuard - Phishing Protection | Store Monitoring | 15/02/26 |
 | linflaofbnlhpakjpohmfnkkkmpngnck | Market Owl — Smart Crypto Dashboard | Store Monitoring | 15/02/26 |
 | pmjfbdnpbhfgeioabfahbheefebeiehp | Contrast Flip - Smart Theme Control | Store Monitoring | 16/02/26 |
