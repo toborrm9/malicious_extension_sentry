@@ -1,8 +1,9 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--18-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-771-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--19-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-772-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| pdneeecaedebfjpkhdobgcnapfdffbbk | South Park Cursor - Custom Cartoon Cursor for Chrome | Store Monitoring | 18/02/26 |
 | febheipcbpjemgcfelalhpaafdohaaka | Amazon Music Web Player | Store Monitoring | 17/02/26 |
 | fnlnhcbjijmpajeppnnmkeagdmnlgihp | SpongeBob and Gary Sunset Live Wallpaper | Store Monitoring | 17/02/26 |
 | nlogodaofdghipmbdclajkkpheneldjd | Pixel Shield - Your Ad Blocker | Store Monitoring | 16/02/26 |
