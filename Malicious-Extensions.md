@@ -1,8 +1,12 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--19-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-772-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--20-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-776-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| baaekoloipdmhgffglokngoonljoachp | Super Mario Bros Classic Game | Store Monitoring | 19/02/26 |
+| jdlefhppknmjnjopnlhemlhofecafkhd | Super Mario Unblocked Game | Store Monitoring | 19/02/26 |
+| ojnagfkemdilpdkjehfajjmcnaefhjhn | Super Mario Bros Classic | Store Monitoring | 19/02/26 |
+| dandkcngjnihdeaddffgcmpnccjoojlg | Infinite M B Game | Store Monitoring | 19/02/26 |
 | pdneeecaedebfjpkhdobgcnapfdffbbk | South Park Cursor - Custom Cartoon Cursor for Chrome | Store Monitoring | 18/02/26 |
 | febheipcbpjemgcfelalhpaafdohaaka | Amazon Music Web Player | Store Monitoring | 17/02/26 |
 | fnlnhcbjijmpajeppnnmkeagdmnlgihp | SpongeBob and Gary Sunset Live Wallpaper | Store Monitoring | 17/02/26 |
@@ -544,8 +548,8 @@
 | mdaboflcmhejfihjcbmdiebgfchigjcf | Blipshot: one click full page screenshots |  | 29/01/26 |
 | beifiidafjobphnbhbbgmgnndjolfcho | Stock Informer | [www.security.com](https://www.security.com/threat-intelligence/chrome-extensions-are-you-getting-more-you-bargained) | 29/01/26 |
 | bjoddpbfndnpeohkmpbjfhcppkhgobcg | DPS Websafe | [www.security.com](https://www.security.com/threat-intelligence/chrome-extensions-are-you-getting-more-you-bargained) | 29/01/26 |
-| giecgobdmgdamgffeoankaipjkdjbfep | Children Protection | [www.security.com](https://www.security.com/threat-intelligence/chrome-extensions-are-you-getting-more-you-bargained) | 29/01/26 |
-| glckmpfajbjppappjlnhhlofhdhlcgaj | Good Tab | [www.security.com](https://www.security.com/threat-intelligence/chrome-extensions-are-you-getting-more-you-bargained) | 29/01/26 |
+| giecgobdmgdamgffeoankaipjkdjbfep | Children Protection | Store Monitoring | 19/02/26 |
+| glckmpfajbjppappjlnhhlofhdhlcgaj | Good Tab | Store Monitoring | 19/02/26 |
 | cpigbbjhchinhpamicodkkcpihjjjlia | Meta Ads SuperTool | [www.cybereason.com](https://www.cybereason.com/blog/chrome-extension-campaign-madgicx) | 28/01/26 |
 | pnpchphmplpdimbllknjoiopmfphellj | Amazon Ads Blocker | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 28/01/26 |
 | ncbknoohfjmcfneopnfkapmkblaenokb | Vytal – Spoof Timezone, Geolocation, Locale and security | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 |
