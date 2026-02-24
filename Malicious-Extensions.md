@@ -80,7 +80,7 @@
 | egmlbimojingfmchokcniklnhnecdecf | Unseen - Chat Privacy | Store Monitoring | 11/02/26 |
 | pfaidgdipkpofconnnehlpedhhmfdcoa | Garfield Judges You | Store Monitoring | 11/02/26 |
 | eciaojnpihmgkbacgpjnimcpkfeklgag | Ask AI Browser | Store Monitoring | 11/02/26 |
-| nmaegedpdmepbkahckadmaolllgmogma |  | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
+| nmaegedpdmepbkahckadmaolllgmogma | WeTab-GlobalExchange | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | lefmdgdlhcodbfdcgpobglnbgndcmcpa | Product Review Generator | Store Monitoring | 10/02/26 |
 | pdnhbaibaebmoklmjjpffoohcfohgbbg | Spongebob Squarepants Face | Store Monitoring | 10/02/26 |
 | hdigpgnfpockednepfiinhdjebkmpicn | Delete All Messages | Store Monitoring | 10/02/26 |
@@ -92,11 +92,11 @@
 | dihekmadkkcgnffajefocfamnpimlhah | Zoom.us Always Show "Join From Web" | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | adjoknoacleghaejlggocbakidkoifle | Photon Bot | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | fllcifcfhgmmfpogmpedgbjccnjalpjo | lazy-new-tab/懒标签 | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
-| fmgaogkbodhdhhbgkphhbokciiecllno |  | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
+| fmgaogkbodhdhhbgkphhbokciiecllno | Download Manager Pro | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | bgkdocoihppjkdfaghndpjlfoehjcmka | Pkaaa New Tab | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
-| dkbpkjhegfanacodkmfjeackckmehkfp |  | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
-| dlfjoijnhjeagkenhbililbdiooginng |  | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
-| dekjibpkbhgbnmnfibnibnjoccaphfog |  | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
+| dkbpkjhegfanacodkmfjeackckmehkfp | Open a new tab on the right | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
+| dlfjoijnhjeagkenhbililbdiooginng | WeTab-HotSearch | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
+| dekjibpkbhgbnmnfibnibnjoccaphfog | WeTab-History | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | kfokdmfpdnokpmpbjhjbcabgligoelgp | Chrome Audio Capture | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | ifklcpoenaammhnoddgedlapnodfcjpn | SCSCMS音乐播放器 | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | cicnbbdlbjaoioilpbdioeeaockgbhfi | Tabbs - Instant Search &amp; Tab Management | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
@@ -120,11 +120,11 @@
 | hilgkhepkfjdkkdigphhcgmghefdledg | WeTab Calculator | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | agepkkdokhlaoiaenedmjbfnblfdiboc | One-click reading image (OCR) | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | cfmfokegjjljmdcdpnmlfajlddngkoah | 潮汐 - 极简番茄钟与白噪音 | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
-| hbjeophpjnopmeheabcilmgdhnnjbmbo |  | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
+| hbjeophpjnopmeheabcilmgdhnnjbmbo | WeTab bookmarks | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | aedgpiecagcpmehhelbibfbgpfiafdkm | GoToWebinar &amp; GoToMeeting Download Recordings | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | djkddblnfgendjoklmfmocaboelkmdkm | Zoomcoder Extension | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
-| jdehnhjckcbfdkgnlbfjokofagpbbdgl |  | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
-| gndlcpbcmhbcaadppjjekgbhfhceeikm |  | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
+| jdehnhjckcbfdkgnlbfjokofagpbbdgl | WeTab Notes | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
+| gndlcpbcmhbcaadppjjekgbhfhceeikm | Mytab | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | dakebdbeofhmlnmjlmhjdmmjmfohiicn | Google Meet Tweak (Emojis, Text, Cam Effects) | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | aikflfpejipbpjdlfabpgclhblkpaafo | WeTab 新标签页 | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | bjehnpiidogpaocjjfhnopdjcahigggm | Fantastic Bookmark | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
@@ -135,12 +135,12 @@
 | codgofkgobbmgglciccjabipdlgefnch | Btools | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | eoimljninkkepafoijpgbedkkieobfek | Btools | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | dacliiapfipnlipdmifioaijepgmhdga | Dream Afar New Tab | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
-| jooiimddfkjoomennmpjabdbbpdocjng |  | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
-| lepdjbhbkpfenckechpdfohdmkhogojf |  | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
+| jooiimddfkjoomennmpjabdbbpdocjng | __MSG_extension_name__-calculator | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
+| lepdjbhbkpfenckechpdfohdmkhogojf | OneTab Plus:Tab Manage & Productivity | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | knjgknhkgmedmajpkhooaagjgfgbcndo | 极简Tab | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | eijnkinhnplaekpllmgbbfieecdhcmcp | Github Profile | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | oelcnhfgpdjeocflhhfecinnpjojeokp | QuikProxy | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
-| mnamhmcgcfflfjafflanbhbfffpmkmmm |  | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
+| mnamhmcgcfflfjafflanbhbfffpmkmmm | Dream Afar New Tab | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | mchacgmgddefeohkjobefhihbadocneh | OurTab | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | kljbaedmklfnlgfmmbodnckafhllkjnd | speed test | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
 | kgdjeaonamhfooejllllfpeappcgfpod | 万能复制 | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 |
@@ -562,7 +562,7 @@
 | jocnjcakendmllafpmjailfnlndaaklf | No Game No Life Wallpaper HD HomePage | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) |  |
 | jpoofbjomdefajdjcimmaoildecebkjc | The Last Of Us Part II Wallpaper HD HomePage | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) |  |
 | lfgakdlafdenmaikccbojgcofkkhmolj | Land Rover Wallpaper HD HomePage | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) |  |
-| jbnopeoocgbmnochaadfnhiiimfpbpmf |  | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) |  |
+| jbnopeoocgbmnochaadfnhiiimfpbpmf | Address bar search engine switcher | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) |  |
 | kcpkoopmfjhdpgjohcbgkbjpmbjmhgoi | Tears Of The Kingdom Wallpaper HD HomePage | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) |  |
 | hdpmmcmblgbkllldbccfdejchjlpochf | Hitman 3 Wallpaper HD HomePage | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) |  |
 | ocffbdeldlbilgegmifiakciiicnoaeo | Venom Wallpaper HD HomePage | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) |  |
@@ -764,8 +764,8 @@
 | eckokfcjbjbgjifpcbdmengnabecdakp | Dark Theme — Dark Reader for Chrome |  |  |
 | fdempkefdmgfcogieifmnadjhohaljcb | Google Translate (fake) | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) |  |
 | aeibljandkelbcaaemkdnbaacppjdmom | Manus AI \| Free AI Assistant |  |  |
-| mabloidgodmbnmnhoenmhlcjkfelomgp |  | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) |  |
-| fncbkmmlcehhipmmofdhejcggdapcmon |  | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) |  |
+| mabloidgodmbnmnhoenmhlcjkfelomgp | EasyDocMerge | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) |  |
+| fncbkmmlcehhipmmofdhejcggdapcmon | EasyPDFCombine | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) |  |
 | ojmbbkdflpfjdceflikpkbbmmbfagglg | Blue Messenger | [github.com](https://github.com/mallorybowes/chrome-mal-ids) |  |
 | hlglicejgohbanllnmnjllajhmnhjjel | WeTab Todo | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) |  |
 | pbdpfhmbdldfoioggnphkiocpidecmbp | Clickish fun cursors | [palant.info](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/) |  |
