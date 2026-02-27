@@ -13,8 +13,10 @@ import platform
 import os
 from pathlib import Path
 
-# Database URL
+# Database URLs
 CSV_URL = "https://raw.githubusercontent.com/toborrm9/malicious_extension_sentry/refs/heads/main/Malicious-Extensions.csv"
+# TODO: Update SPY_CSV_URL to the upstream repository owner's URL before merging/publishing
+SPY_CSV_URL = "https://raw.githubusercontent.com/gembleman/malicious_extension_sentry/refs/heads/feature/spy-extensions-detection/Spy-Extensions.csv"
 
 
 def banner():
@@ -219,6 +221,49 @@ def download_database():
         return set()
 
 
+def download_spy_database():
+    """Download spying extensions list (qcontinuum1/spying-extensions IoCs).
+    Falls back to local Spy-Extensions.csv if network is unavailable."""
+    local_csv = Path(__file__).parent / "Spy-Extensions.csv"
+
+    def parse_csv(content):
+        """Parse extension_id,name,source,insert_date_fmt CSV."""
+        result = {}
+        lines = content.splitlines()
+        for line in lines[1:]:  # skip header
+            parts = line.split(",", 3)
+            if len(parts) >= 2:
+                ext_id = parts[0].strip()
+                name = parts[1].strip()
+                if len(ext_id) == 32:
+                    result[ext_id] = name
+        return result
+
+    print("📥 Downloading latest spying extensions database...")
+    try:
+        ctx = ssl._create_unverified_context()
+        with urllib.request.urlopen(SPY_CSV_URL, timeout=10, context=ctx) as r:
+            content = r.read().decode("utf-8")
+        data = parse_csv(content)
+        print(f"✅ Loaded {len(data)} known spying extension IDs\n")
+        return data
+    except Exception:
+        pass
+
+    if local_csv.exists():
+        try:
+            with open(local_csv, encoding="utf-8") as f:
+                content = f.read()
+            data = parse_csv(content)
+            print(f"✅ Loaded {len(data)} known spying extension IDs (local cache)\n")
+            return data
+        except Exception as e:
+            print(f"❌ Failed to load local spy database: {e}\n")
+
+    print("⚠️  Could not load spying extensions database (skipping)\n")
+    return {}
+
+
 def get_extensions():
     """Get all installed extensions"""
     extensions = []
@@ -291,10 +336,11 @@ def main():
     )
     print(f"💻 Detected OS: {os_display}\n")
 
-    # Get database
+    # Get databases
     malicious = download_database()
     if not malicious:
         return
+    spying = download_spy_database()
 
     # Scan extensions
     print("🔎 Scanning installed extensions...")
@@ -350,9 +396,32 @@ def main():
         print(f"✅ GOOD NEWS: No malicious extensions detected!\n")
         print(f"   All {len(extensions)} extensions are clear.\n")
 
+    # Check for spying extension matches
+    if spying:
+        spies = [e for e in extensions if e["id"] in spying]
+        print("=" * 70)
+        print("🕵️  SPY EXTENSION SCAN RESULTS (qcontinuum1/spying-extensions)")
+        print("=" * 70 + "\n")
+
+        if spies:
+            print(f"⚠️  WARNING: {len(spies)} SPYING EXTENSION(S) DETECTED!\n")
+            print("🟡 THESE EXTENSIONS EXFILTRATE YOUR BROWSING HISTORY:")
+            print("-" * 70)
+            for t in spies:
+                ioc_name = spying.get(t["id"], t["name"])
+                print(f"👁️  {ioc_name}")
+                print(f"   ID: {t['id']}")
+                print(f"   Browser: {t['browser']} ({t['profile']})")
+                print(f"   URL: https://chromewebstore.google.com/detail/{t['id']}\n")
+        else:
+            print(f"✅ GOOD NEWS: No spying extensions detected!\n")
+            print(f"   All {len(extensions)} extensions are clear.\n")
+
     print("=" * 70)
-    print(f"📊 Database: {len(malicious)} known malicious extensions")
-    print(f"🌐 Source: {CSV_URL}")
+    print(f"📊 Malicious DB: {len(malicious)} extensions | Spy DB: {len(spying)} extensions")
+    print(f"🌐 Sources:")
+    print(f"   Malicious: {CSV_URL}")
+    print(f"   Spying:    {SPY_CSV_URL}")
     print("=" * 70 + "\n")
     print("🙏 Star the repo: github.com/toborrm9/malicious_extension_sentry")
     print("🐛 Report threats: Open an issue on GitHub!\n")
