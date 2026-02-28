@@ -1,8 +1,7 @@
 <a href="https://www.buymeacoffee.com/toborrm9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>   
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--28-blue)](https://github.com/toborrm9/malicious_extension_sentry/blob/main/Malicious-Extensions.md)
-[![Last Updated](https://img.shields.io/badge/Total%20Extensions-876-red)](https://github.com/toborrm9/malicious_extension_sentry/blob/main/Malicious-Extensions.md)
+[![Last Updated](https://img.shields.io/badge/Total%20Extensions-877-red)](https://github.com/toborrm9/malicious_extension_sentry/blob/main/Malicious-Extensions.md)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/bpohikihiogjgmebpnbgnloipjaddibe?label=MalExt%20Sentry%20Extension&logo=googlechrome&logoColor=white&color=4fcf6c)](https://chromewebstore.google.com/detail/malext-sentry/bpohikihiogjgmebpnbgnloipjaddibe)
-
 
 # Malicious Chrome/Edge Extensions Database
 
@@ -116,7 +115,7 @@ Invoke-WebRequest -Uri https://raw.githubusercontent.com/toborrm9/malicious_exte
 - **2026-02-12**: [AiFrame”- Fake AI Assistant Extensions Targeting 260,000 Chrome Users via injected iframes](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/)
 - **2026-01-28**: [Malicious Chrome extensions can spy on your ChatGPT chats](https://www.malwarebytes.com/blog/news/2026/01/malicious-chrome-extensions-can-spy-on-your-chatgpt-chats)
 - **2026-01-27**: [Small Tools, Big Risk: When Browser Extensions Start Stealing API Keys](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys)
-- **2026-01-27**: [Stanley  A $6,000 Russian Malware Toolkit with Chrome Web Store Guarantee](https://www.varonis.com/blog/stanley-malware-kit)
+- **2026-01-27**: [Stanley — A $6,000 Russian Malware Toolkit with Chrome Web Store Guarantee](https://www.varonis.com/blog/stanley-malware-kit)
 - **2026-01-27**: [Malicious Chrome Extension Performs Hidden Affiliate Hijacking](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking)
 - **2026-01-26**: [How We Discovered A Campaign of 16 Malicious Extensions Built to Steal ChatGPT Accounts](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/)
 - **2026-01-26**: [Chrome Extensions: Are you getting more than you bargained for?](https://www.security.com/threat-intelligence/chrome-extensions-are-you-getting-more-you-bargained)
