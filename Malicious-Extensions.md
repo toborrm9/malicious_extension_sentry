@@ -1,14 +1,18 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--05-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-898-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--06-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-902-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| ljbkcdepalofimjbnckeeikmhlgmijmg | ChatGPT folder, TTS download, prompt manager, free tools - ChatGPT Mods | Store Monitoring | 05/03/26 |
+| lejgjoflhajdmmbmeklmijaboflohhig | TikTok 2x Speed Option | Store Monitoring | 05/03/26 |
+| lmcnkcbaofhmiafapndakpplkenijdek | Powerful Ad Blocker | Store Monitoring | 05/03/26 |
+| gbnjejhgognmdkjeljbpecpnanakcooh | Εxodυs WаІlеt - Leximetrics | Store Monitoring | 05/03/26 |
 | bhcfaglgcebaehogjenjcolacfaanmon | Extreme Car Parking 3D Game | Store Monitoring | 05/03/26 |
 | lmmcnaiigcajhkllkfjhocgekphpepgm | space waves | Store Monitoring | 05/03/26 |
-| olnppmocapoaecjhkiilemmnkjbmabfj | ShieldGuard | Store Monitoring | 05/03/26 |
-| gceoelahanekobagpkcelbhagpoaidij | Free VPN Proxy \| NoName VPN | Store Monitoring | 05/03/26 |
-| pepimjpimedlkcalcikemegmfgbbolla | Robinhood Note | Store Monitoring | 05/03/26 |
-| ohalkmdcakplbfpelgmnegcbdkfigolo | 豆包，数学公式导出Word | Store Monitoring | 05/03/26 |
+| olnppmocapoaecjhkiilemmnkjbmabfj | ShieldGuard | Store Monitoring | 04/03/26 |
+| gceoelahanekobagpkcelbhagpoaidij | Free VPN Proxy \| NoName VPN | Store Monitoring | 04/03/26 |
+| pepimjpimedlkcalcikemegmfgbbolla | Robinhood Note | Store Monitoring | 04/03/26 |
+| ohalkmdcakplbfpelgmnegcbdkfigolo | 豆包，数学公式导出Word | Store Monitoring | 04/03/26 |
 | giofhmdgihebfjkdadokickedgbbglcf | Brave Browser - New Tab Theme | Store Monitoring | 04/03/26 |
 | jbkldgcpnklohmbllpghikjpbookjkfa | Gitlab insert template | Store Monitoring | 05/03/26 |
 | ipijpioemaopkhpjhihdibldodmdpfjl | Smoji - Emoji and Sound Messaging | Store Monitoring | 03/03/26 |
