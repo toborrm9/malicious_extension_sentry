@@ -1,8 +1,11 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--07-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-908-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--08-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-911-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| inbiiigaagjmcbibnecadfgeihghhfja | Trоп Lіnҟ | Store Monitoring | 07/03/26 |
+| pabcjffaondlohboccfkekfjogcgceon | Elyndria Sapphire Plains | Store Monitoring | 07/03/26 |
+| ldohbgcnonoffldimgdngkojkejibina | 塔塔网申神器 | Store Monitoring | 07/03/26 |
 | igahhbkcppaollcjeaaoapkijbnphfhb | Social VPN | Store Monitoring | 06/03/26 |
 | bbhaganppipihlhjgaaeeeefbaoihcgi | lmΤoken Chromophore | Store Monitoring | 06/03/26 |
 | kihfdgpnhlkopkiadeopobhbpeplffam | All Friends Remover | Store Monitoring | 06/03/26 |
