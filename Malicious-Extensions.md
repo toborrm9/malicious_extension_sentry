@@ -1,8 +1,17 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--08-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-911-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--09-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-919-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| gengfhhkjekmlejbhmmopegofnoifnjp | ShotBird - Scrolling Screenshots, Tweet Images & Editor | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
+| ajfanjhcdgaohcbphpaceglgpgaaohod | OmniBar AI Chat and Search | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
+| eeoonfhmbjlmienmmbgapfloddpmoalh | AI Output Algo Tool | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
+| mkkfklcadlnkhgapjeejemflhamcdjld | Chrome
+Consensus - Reddit Comment Summarizer | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
+| akdajpomgjgldidenledjjiemgkjcchc | Giant Coupons Official Extension | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
+| jaioobipjdejpeckgojiojjahmkiaihp | Care.Sale | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
+| hokdpdlchkgcenfpiibjjfkfmleoknkp | Serpey.com official extension | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
+| jljejbnelnechodgbdnomodaliifgaek | Beyond Tally | Store Monitoring | 08/03/26 |
 | inbiiigaagjmcbibnecadfgeihghhfja | Trоп Lіnҟ | Store Monitoring | 07/03/26 |
 | pabcjffaondlohboccfkekfjogcgceon | Elyndria Sapphire Plains | Store Monitoring | 07/03/26 |
 | ldohbgcnonoffldimgdngkojkejibina | 塔塔网申神器 | Store Monitoring | 07/03/26 |
