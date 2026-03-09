@@ -6,7 +6,6 @@
 | dcemmencnfibpboogpedgcpfipbmphnd | Xa‮am‬n - Vault & X‮PR‬ Extension | Store Monitoring | 09/03/26 |
 | hklhhkchffegjfojbofhfkckjidfbjhe | Free VPN for Chrome: Secure VPN Proxy in One Click | Store Monitoring | 09/03/26 |
 | dnajedcbehnncdbmhbpglgacejjjcpic | Pokemon TCG Pocket PC Gacha Game | Store Monitoring | 09/03/26 |
-| jljejbnelnechodgbdnomodaliifgaek | Beyond Tally | Store Monitoring | 09/03/26 |
 | gengfhhkjekmlejbhmmopegofnoifnjp | ShotBird - Scrolling Screenshots, Tweet Images & Editor | Store Monitoring | 09/03/26 |
 | ajfanjhcdgaohcbphpaceglgpgaaohod | OmniBar AI Chat and Search | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
 | eeoonfhmbjlmienmmbgapfloddpmoalh | AI Output Algo Tool | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
@@ -46,6 +45,7 @@ Consensus - Reddit Comment Summarizer | [thehackernews.com](https://thehackernew
 | gohlpddecngpmpoakfmnaegegjnapkla | SpongeBob live wallpapers | Store Monitoring | 09/03/26 |
 | pgcmecpfgehfbogcaajjdnkpmmjgjjdp | Mermaidman and Barnacle Boy Live Wallpaper | Store Monitoring | 09/03/26 |
 | mjebfndkbogmggcbpacbedbcjccoamkk | Extreme Dream Head Soccer | Store Monitoring | 09/03/26 |
+| jljejbnelnechodgbdnomodaliifgaek | Beyond Tally | Store Monitoring | 08/03/26 |
 | fbakofpmbmcodpmbecdimecilceplfll | ChatGPT Turbo: Fix Lag in Long Chats | Store Monitoring | 06/03/26 |
 | ipijpioemaopkhpjhihdibldodmdpfjl | Smoji - Emoji and Sound Messaging | Store Monitoring | 03/03/26 |
 | phngohjapibeemmkofldldedlbbndbag | Image 2 Text by EERIE | Store Monitoring | 01/03/26 |
