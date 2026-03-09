@@ -1,9 +1,13 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--09-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-919-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-922-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
-| gengfhhkjekmlejbhmmopegofnoifnjp | ShotBird - Scrolling Screenshots, Tweet Images & Editor | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
+| dcemmencnfibpboogpedgcpfipbmphnd | Xa‮am‬n - Vault & X‮PR‬ Extension | Store Monitoring | 09/03/26 |
+| hklhhkchffegjfojbofhfkckjidfbjhe | Free VPN for Chrome: Secure VPN Proxy in One Click | Store Monitoring | 09/03/26 |
+| dnajedcbehnncdbmhbpglgacejjjcpic | Pokemon TCG Pocket PC Gacha Game | Store Monitoring | 09/03/26 |
+| jljejbnelnechodgbdnomodaliifgaek | Beyond Tally | Store Monitoring | 09/03/26 |
+| gengfhhkjekmlejbhmmopegofnoifnjp | ShotBird - Scrolling Screenshots, Tweet Images & Editor | Store Monitoring | 09/03/26 |
 | ajfanjhcdgaohcbphpaceglgpgaaohod | OmniBar AI Chat and Search | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
 | eeoonfhmbjlmienmmbgapfloddpmoalh | AI Output Algo Tool | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
 | mkkfklcadlnkhgapjeejemflhamcdjld | Chrome
@@ -11,39 +15,38 @@ Consensus - Reddit Comment Summarizer | [thehackernews.com](https://thehackernew
 | akdajpomgjgldidenledjjiemgkjcchc | Giant Coupons Official Extension | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
 | jaioobipjdejpeckgojiojjahmkiaihp | Care.Sale | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
 | hokdpdlchkgcenfpiibjjfkfmleoknkp | Serpey.com official extension | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
-| jljejbnelnechodgbdnomodaliifgaek | Beyond Tally | Store Monitoring | 08/03/26 |
-| inbiiigaagjmcbibnecadfgeihghhfja | Trоп Lіnҟ | Store Monitoring | 07/03/26 |
-| pabcjffaondlohboccfkekfjogcgceon | Elyndria Sapphire Plains | Store Monitoring | 07/03/26 |
-| ldohbgcnonoffldimgdngkojkejibina | 塔塔网申神器 | Store Monitoring | 07/03/26 |
-| igahhbkcppaollcjeaaoapkijbnphfhb | Social VPN | Store Monitoring | 06/03/26 |
-| bbhaganppipihlhjgaaeeeefbaoihcgi | lmΤoken Chromophore | Store Monitoring | 06/03/26 |
-| kihfdgpnhlkopkiadeopobhbpeplffam | All Friends Remover | Store Monitoring | 06/03/26 |
-| lebaaldhfkhmjcmljacicokgmcfmeofm | Convert PDF to Notion | Store Monitoring | 06/03/26 |
+| inbiiigaagjmcbibnecadfgeihghhfja | Trоп Lіnҟ | Store Monitoring | 09/03/26 |
+| pabcjffaondlohboccfkekfjogcgceon | Elyndria Sapphire Plains | Store Monitoring | 09/03/26 |
+| ldohbgcnonoffldimgdngkojkejibina | 塔塔网申神器 | Store Monitoring | 09/03/26 |
+| igahhbkcppaollcjeaaoapkijbnphfhb | Social VPN | Store Monitoring | 09/03/26 |
+| bbhaganppipihlhjgaaeeeefbaoihcgi | lmΤoken Chromophore | Store Monitoring | 09/03/26 |
+| kihfdgpnhlkopkiadeopobhbpeplffam | All Friends Remover | Store Monitoring | 09/03/26 |
+| lebaaldhfkhmjcmljacicokgmcfmeofm | Convert PDF to Notion | Store Monitoring | 09/03/26 |
+| lfhfenilfjbgcjckhmdpgjdafhoojljl | Top10 Crypto Ticker | Store Monitoring | 09/03/26 |
+| ljbkcdepalofimjbnckeeikmhlgmijmg | ChatGPT folder, TTS download, prompt manager, free tools - ChatGPT Mods | Store Monitoring | 09/03/26 |
+| lejgjoflhajdmmbmeklmijaboflohhig | TikTok 2x Speed Option | Store Monitoring | 09/03/26 |
+| lmcnkcbaofhmiafapndakpplkenijdek | Powerful Ad Blocker | Store Monitoring | 09/03/26 |
+| gbnjejhgognmdkjeljbpecpnanakcooh | Εxodυs WаІlеt - Leximetrics | Store Monitoring | 09/03/26 |
+| bhcfaglgcebaehogjenjcolacfaanmon | Extreme Car Parking 3D Game | Store Monitoring | 09/03/26 |
+| lmmcnaiigcajhkllkfjhocgekphpepgm | space waves | Store Monitoring | 09/03/26 |
+| olnppmocapoaecjhkiilemmnkjbmabfj | ShieldGuard | Store Monitoring | 09/03/26 |
+| gceoelahanekobagpkcelbhagpoaidij | Free VPN Proxy \| NoName VPN | Store Monitoring | 09/03/26 |
+| pepimjpimedlkcalcikemegmfgbbolla | Robinhood Note | Store Monitoring | 09/03/26 |
+| ohalkmdcakplbfpelgmnegcbdkfigolo | 豆包，数学公式导出Word | Store Monitoring | 09/03/26 |
+| giofhmdgihebfjkdadokickedgbbglcf | Brave Browser - New Tab Theme | Store Monitoring | 09/03/26 |
+| jbkldgcpnklohmbllpghikjpbookjkfa | Gitlab insert template | Store Monitoring | 09/03/26 |
+| lllihdpapijpmbfdmbidbnjpblibebee | Sponge Bob Live Wallpaper | Store Monitoring | 09/03/26 |
+| ojdagjoeaaooofmeofppefbnebclnmkh | GitLab Reviewer Auto Add | Store Monitoring | 09/03/26 |
+| fnpejdoiggdgagmdfmkllgfpagjgjfoi | Gemini AI Assistance | Store Monitoring | 09/03/26 |
+| mkmilmgfhonpppngfbfglbhdnicnjacc | Gemini Better UI | Store Monitoring | 09/03/26 |
+| hceobhjokpdbogjkplmfjeomkeckkngi | New Bing Anywhere (Bing Chat GPT-4) | Store Monitoring | 09/03/26 |
+| kpnpeomoodgjlpdaopnapgdiigdkkgim | Gitlab MR shortcuts | Store Monitoring | 09/03/26 |
+| dillgbmlildifnpdejibbbebbhnlhnhf | snipping tool for chrome | Store Monitoring | 09/03/26 |
+| nieoenlddbbedidmgbapeockjjagapjl | Gangster SpongeBob and Patrick to Chrome with Live Wallpaper | Store Monitoring | 09/03/26 |
+| gohlpddecngpmpoakfmnaegegjnapkla | SpongeBob live wallpapers | Store Monitoring | 09/03/26 |
+| pgcmecpfgehfbogcaajjdnkpmmjgjjdp | Mermaidman and Barnacle Boy Live Wallpaper | Store Monitoring | 09/03/26 |
+| mjebfndkbogmggcbpacbedbcjccoamkk | Extreme Dream Head Soccer | Store Monitoring | 09/03/26 |
 | fbakofpmbmcodpmbecdimecilceplfll | ChatGPT Turbo: Fix Lag in Long Chats | Store Monitoring | 06/03/26 |
-| lfhfenilfjbgcjckhmdpgjdafhoojljl | Top10 Crypto Ticker | Store Monitoring | 06/03/26 |
-| ljbkcdepalofimjbnckeeikmhlgmijmg | ChatGPT folder, TTS download, prompt manager, free tools - ChatGPT Mods | Store Monitoring | 05/03/26 |
-| lejgjoflhajdmmbmeklmijaboflohhig | TikTok 2x Speed Option | Store Monitoring | 05/03/26 |
-| lmcnkcbaofhmiafapndakpplkenijdek | Powerful Ad Blocker | Store Monitoring | 05/03/26 |
-| gbnjejhgognmdkjeljbpecpnanakcooh | Εxodυs WаІlеt - Leximetrics | Store Monitoring | 05/03/26 |
-| bhcfaglgcebaehogjenjcolacfaanmon | Extreme Car Parking 3D Game | Store Monitoring | 05/03/26 |
-| lmmcnaiigcajhkllkfjhocgekphpepgm | space waves | Store Monitoring | 05/03/26 |
-| jbkldgcpnklohmbllpghikjpbookjkfa | Gitlab insert template | Store Monitoring | 05/03/26 |
-| lllihdpapijpmbfdmbidbnjpblibebee | Sponge Bob Live Wallpaper | Store Monitoring | 05/03/26 |
-| ojdagjoeaaooofmeofppefbnebclnmkh | GitLab Reviewer Auto Add | Store Monitoring | 05/03/26 |
-| fnpejdoiggdgagmdfmkllgfpagjgjfoi | Gemini AI Assistance | Store Monitoring | 05/03/26 |
-| mkmilmgfhonpppngfbfglbhdnicnjacc | Gemini Better UI | Store Monitoring | 05/03/26 |
-| hceobhjokpdbogjkplmfjeomkeckkngi | New Bing Anywhere (Bing Chat GPT-4) | Store Monitoring | 05/03/26 |
-| kpnpeomoodgjlpdaopnapgdiigdkkgim | Gitlab MR shortcuts | Store Monitoring | 05/03/26 |
-| dillgbmlildifnpdejibbbebbhnlhnhf | snipping tool for chrome | Store Monitoring | 05/03/26 |
-| nieoenlddbbedidmgbapeockjjagapjl | Gangster SpongeBob and Patrick to Chrome with Live Wallpaper | Store Monitoring | 05/03/26 |
-| gohlpddecngpmpoakfmnaegegjnapkla | SpongeBob live wallpapers | Store Monitoring | 05/03/26 |
-| pgcmecpfgehfbogcaajjdnkpmmjgjjdp | Mermaidman and Barnacle Boy Live Wallpaper | Store Monitoring | 05/03/26 |
-| mjebfndkbogmggcbpacbedbcjccoamkk | Extreme Dream Head Soccer | Store Monitoring | 05/03/26 |
-| olnppmocapoaecjhkiilemmnkjbmabfj | ShieldGuard | Store Monitoring | 04/03/26 |
-| gceoelahanekobagpkcelbhagpoaidij | Free VPN Proxy \| NoName VPN | Store Monitoring | 04/03/26 |
-| pepimjpimedlkcalcikemegmfgbbolla | Robinhood Note | Store Monitoring | 04/03/26 |
-| ohalkmdcakplbfpelgmnegcbdkfigolo | 豆包，数学公式导出Word | Store Monitoring | 04/03/26 |
-| giofhmdgihebfjkdadokickedgbbglcf | Brave Browser - New Tab Theme | Store Monitoring | 04/03/26 |
 | ipijpioemaopkhpjhihdibldodmdpfjl | Smoji - Emoji and Sound Messaging | Store Monitoring | 03/03/26 |
 | phngohjapibeemmkofldldedlbbndbag | Image 2 Text by EERIE | Store Monitoring | 01/03/26 |
 | gkoaehhpdkfkjgjbnlahcneebidamclf | Multi Wallet | Store Monitoring | 28/02/26 |
