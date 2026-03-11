@@ -3,8 +3,8 @@
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
-| kjdpnimcnfinmilocccippmododhceol | Gemini Voyager | Store Monitoring | 11/03/26 |
-| mmfmakmndejojblgceefkpinojhiacfk | Brave web browser | Store Monitoring | 11/03/26 |
+| kjdpnimcnfinmilocccippmododhceol | Gemini Voyager | Store Monitoring | 10/03/26 |
+| mmfmakmndejojblgceefkpinojhiacfk | Brave web browser | Store Monitoring | 10/03/26 |
 | hklhhkchffegjfojbofhfkckjidfbjhe | Free VPN for Chrome: Secure VPN Proxy in One Click | Store Monitoring | 10/03/26 |
 | ohalkmdcakplbfpelgmnegcbdkfigolo | 豆包，数学公式导出Word | Store Monitoring | 10/03/26 |
 | mjebfndkbogmggcbpacbedbcjccoamkk | Extreme Dream Head Soccer | Store Monitoring | 10/03/26 |
