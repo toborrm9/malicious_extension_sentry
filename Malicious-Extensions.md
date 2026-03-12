@@ -1,14 +1,18 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--12-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-931-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-935-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| akncjgblpooaigmieecjiigaebgblnaj | SaveFrom.net helper | Store Monitoring | 11/03/26 |
+| pcjlckhhhmlefmobnnoolakplfppdchi | Ad Speedup - Skip Video Ads 16X Faster | Store Monitoring | 11/03/26 |
+| dmfccdhbfjmpgaldefnfeeknjfdnlbhe | SpongeBob Robotic Rampage Chase Live Wallpaper 4K | Store Monitoring | 11/03/26 |
+| pgefggfhmhmndhcdjaleikagdjmmoame | PARROT: Web3 Content Social Protocol | Store Monitoring | 11/03/26 |
 | pfdmleklaejjccgfhoeafapbhkjipcnj | Google AI | Store Monitoring | 11/03/26 |
 | ffocfibjgakneigiajpccfcdmomlbapo | Nano Banana | Store Monitoring | 11/03/26 |
 | kojhnafkiednagnljfgakalcbfbklbdk | Kondo | Store Monitoring | 11/03/26 |
 | khgkcnmepkkccpojldheccpladhflmen | Robinood + | Store Monitoring | 11/03/26 |
-| kjdpnimcnfinmilocccippmododhceol | Gemini Voyager | Store Monitoring | 10/03/26 |
-| mmfmakmndejojblgceefkpinojhiacfk | Brave web browser | Store Monitoring | 10/03/26 |
+| kjdpnimcnfinmilocccippmododhceol | Gemini Voyager | Store Monitoring | 11/03/26 |
+| mmfmakmndejojblgceefkpinojhiacfk | Brave web browser | Store Monitoring | 11/03/26 |
 | ohalkmdcakplbfpelgmnegcbdkfigolo | 豆包，数学公式导出Word | Store Monitoring | 10/03/26 |
 | mjebfndkbogmggcbpacbedbcjccoamkk | Extreme Dream Head Soccer | Store Monitoring | 10/03/26 |
 | aibfeemadfncnhephomomdicckopkgoe | Gemini AI Assistant | Store Monitoring | 09/03/26 |
