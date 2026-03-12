@@ -3,10 +3,10 @@
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
-| akncjgblpooaigmieecjiigaebgblnaj | SaveFrom.net helper | Store Monitoring | 11/03/26 |
-| pcjlckhhhmlefmobnnoolakplfppdchi | Ad Speedup - Skip Video Ads 16X Faster | Store Monitoring | 11/03/26 |
-| dmfccdhbfjmpgaldefnfeeknjfdnlbhe | SpongeBob Robotic Rampage Chase Live Wallpaper 4K | Store Monitoring | 11/03/26 |
-| pgefggfhmhmndhcdjaleikagdjmmoame | PARROT: Web3 Content Social Protocol | Store Monitoring | 11/03/26 |
+| akncjgblpooaigmieecjiigaebgblnaj | SaveFrom.net helper | Store Monitoring | 12/03/26 |
+| pcjlckhhhmlefmobnnoolakplfppdchi | Ad Speedup - Skip Video Ads 16X Faster | Store Monitoring | 12/03/26 |
+| dmfccdhbfjmpgaldefnfeeknjfdnlbhe | SpongeBob Robotic Rampage Chase Live Wallpaper 4K | Store Monitoring | 12/03/26 |
+| pgefggfhmhmndhcdjaleikagdjmmoame | PARROT: Web3 Content Social Protocol | Store Monitoring | 12/03/26 |
 | pfdmleklaejjccgfhoeafapbhkjipcnj | Google AI | Store Monitoring | 11/03/26 |
 | ffocfibjgakneigiajpccfcdmomlbapo | Nano Banana | Store Monitoring | 11/03/26 |
 | kojhnafkiednagnljfgakalcbfbklbdk | Kondo | Store Monitoring | 11/03/26 |
