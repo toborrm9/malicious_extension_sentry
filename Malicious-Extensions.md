@@ -24,8 +24,7 @@
 | gengfhhkjekmlejbhmmopegofnoifnjp | ShotBird - Scrolling Screenshots, Tweet Images & Editor | Store Monitoring | 09/03/26 |
 | ajfanjhcdgaohcbphpaceglgpgaaohod | OmniBar AI Chat and Search | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
 | eeoonfhmbjlmienmmbgapfloddpmoalh | AI Output Algo Tool | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
-| mkkfklcadlnkhgapjeejemflhamcdjld | Chrome
-Consensus - Reddit Comment Summarizer | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
+| mkkfklcadlnkhgapjeejemflhamcdjld | Consensus - Reddit Comment Summarizer | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
 | akdajpomgjgldidenledjjiemgkjcchc | Giant Coupons Official Extension | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
 | jaioobipjdejpeckgojiojjahmkiaihp | Care.Sale | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
 | hokdpdlchkgcenfpiibjjfkfmleoknkp | Serpey.com official extension | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
