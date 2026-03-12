@@ -1,17 +1,21 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--11-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-927-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--12-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-931-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| pfdmleklaejjccgfhoeafapbhkjipcnj | Google AI | Store Monitoring | 11/03/26 |
+| ffocfibjgakneigiajpccfcdmomlbapo | Nano Banana | Store Monitoring | 11/03/26 |
+| kojhnafkiednagnljfgakalcbfbklbdk | Kondo | Store Monitoring | 11/03/26 |
+| khgkcnmepkkccpojldheccpladhflmen | Robinood + | Store Monitoring | 11/03/26 |
 | kjdpnimcnfinmilocccippmododhceol | Gemini Voyager | Store Monitoring | 10/03/26 |
 | mmfmakmndejojblgceefkpinojhiacfk | Brave web browser | Store Monitoring | 10/03/26 |
-| hklhhkchffegjfojbofhfkckjidfbjhe | Free VPN for Chrome: Secure VPN Proxy in One Click | Store Monitoring | 10/03/26 |
 | ohalkmdcakplbfpelgmnegcbdkfigolo | 豆包，数学公式导出Word | Store Monitoring | 10/03/26 |
 | mjebfndkbogmggcbpacbedbcjccoamkk | Extreme Dream Head Soccer | Store Monitoring | 10/03/26 |
 | aibfeemadfncnhephomomdicckopkgoe | Gemini AI Assistant | Store Monitoring | 09/03/26 |
 | dcmpoiccnjppenlhbhhbbkacebmoegoc | NeoNFSe - Download de NFS-e automatizado | Store Monitoring | 09/03/26 |
 | blffnkdfaobeknbcahjppbifklofofhh | Spareroom Message Generator | Store Monitoring | 09/03/26 |
 | dcemmencnfibpboogpedgcpfipbmphnd | Xa‮am‬n - Vault & X‮PR‬ Extension | Store Monitoring | 09/03/26 |
+| hklhhkchffegjfojbofhfkckjidfbjhe | Free VPN for Chrome: Secure VPN Proxy in One Click | Store Monitoring | 09/03/26 |
 | dnajedcbehnncdbmhbpglgacejjjcpic | Pokemon TCG Pocket PC Gacha Game | Store Monitoring | 09/03/26 |
 | gengfhhkjekmlejbhmmopegofnoifnjp | ShotBird - Scrolling Screenshots, Tweet Images & Editor | Store Monitoring | 09/03/26 |
 | ajfanjhcdgaohcbphpaceglgpgaaohod | OmniBar AI Chat and Search | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
