@@ -1,8 +1,12 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--13-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-935-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-939-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| cfmcpcplnfmnihgbpblopbckfffmmada | Geminify | Store Monitoring | 12/03/26 |
+| fiobgijambbbkgndmodakkpajghgnjbe | Daily Garfield Comics | Store Monitoring | 12/03/26 |
+| knchmdddcbnjhgenmgdkaebbmajkblka | SpongeBob SquarePants Game | Store Monitoring | 12/03/26 |
+| pbdgglfabhmhpbfgakckfhdbhjiedmnm | Garfield The Movie | Store Monitoring | 12/03/26 |
 | akncjgblpooaigmieecjiigaebgblnaj | SaveFrom.net helper | Store Monitoring | 12/03/26 |
 | pcjlckhhhmlefmobnnoolakplfppdchi | Ad Speedup - Skip Video Ads 16X Faster | Store Monitoring | 12/03/26 |
 | dmfccdhbfjmpgaldefnfeeknjfdnlbhe | SpongeBob Robotic Rampage Chase Live Wallpaper 4K | Store Monitoring | 12/03/26 |
