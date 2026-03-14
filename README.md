@@ -1,5 +1,5 @@
 <a href="https://www.buymeacoffee.com/toborrm9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>   
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--13-blue)](https://github.com/toborrm9/malicious_extension_sentry/blob/main/Malicious-Extensions.md)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--14-blue)](https://github.com/toborrm9/malicious_extension_sentry/blob/main/Malicious-Extensions.md)
 [![Last Updated](https://img.shields.io/badge/Total%20Extensions-939-red)](https://github.com/toborrm9/malicious_extension_sentry/blob/main/Malicious-Extensions.md)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/bpohikihiogjgmebpnbgnloipjaddibe?label=MalExt%20Sentry%20Extension&logo=googlechrome&logoColor=white&color=4fcf6c)](https://chromewebstore.google.com/detail/malext-sentry/bpohikihiogjgmebpnbgnloipjaddibe)
 
@@ -110,7 +110,6 @@ Invoke-WebRequest -Uri https://raw.githubusercontent.com/toborrm9/malicious_exte
 
 ## 📰 Recent Security News
 
-- **2026-03-09**: [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
 - **2026-02-13**: [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
 - **2026-02-13**: [Malicious Chrome Extension Steals Meta Business Manager Exports and TOTP 2FA Seeds](https://socket.dev/blog/malicious-chrome-extension-steals-meta-business-manager-exports-and-totp-2fa-seeds)
 - **2026-02-12**: [AiFrame”- Fake AI Assistant Extensions Targeting 260,000 Chrome Users via injected iframes](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/)
