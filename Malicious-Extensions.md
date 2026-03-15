@@ -1,8 +1,10 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--14-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-939-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--15-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-941-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| lmopfmpfoonboglmipmjafcnbphgefjb | Crypto Price Coin Tracker | Store Monitoring | 14/03/26 |
+| bgnjnfoiglionjogebklhhhknbmlocpn | Gua­­rda Cr­yp­to W­al­let | Store Monitoring | 14/03/26 |
 | cfmcpcplnfmnihgbpblopbckfffmmada | Geminify | Store Monitoring | 12/03/26 |
 | fiobgijambbbkgndmodakkpajghgnjbe | Daily Garfield Comics | Store Monitoring | 12/03/26 |
 | knchmdddcbnjhgenmgdkaebbmajkblka | SpongeBob SquarePants Game | Store Monitoring | 12/03/26 |
