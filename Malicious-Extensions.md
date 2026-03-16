@@ -1,8 +1,9 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--16-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-946-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-947-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| ekhmddbpfelhdicnhkomdopnnbkchddc | AutoGemini - Gemini/AIStudio/Flow auto creator (Nano Banana Pro/Veo 3.1) | Store Monitoring | 15/03/26 |
 | lmopfmpfoonboglmipmjafcnbphgefjb | Crypto Price Coin Tracker | Store Monitoring | 14/03/26 |
 | bgnjnfoiglionjogebklhhhknbmlocpn | Gua­­rda Cr­yp­to W­al­let | Store Monitoring | 14/03/26 |
 | kekfchafjbmmbdecfepbinjoiceidele | TronLink Pro | Store Monitoring | 13/03/26 |
