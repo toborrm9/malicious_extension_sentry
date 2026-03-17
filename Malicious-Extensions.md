@@ -1,8 +1,9 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--17-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-947-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-950-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| gabfmnliflodkdafenbcpjdlppllnemd | Save image as Type | Store Monitoring | 17/03/26 |
 | ekhmddbpfelhdicnhkomdopnnbkchddc | AutoGemini - Gemini/AIStudio/Flow auto creator (Nano Banana Pro/Veo 3.1) | Store Monitoring | 15/03/26 |
 | lmopfmpfoonboglmipmjafcnbphgefjb | Crypto Price Coin Tracker | Store Monitoring | 14/03/26 |
 | bgnjnfoiglionjogebklhhhknbmlocpn | Gua­­rda Cr­yp­to W­al­let | Store Monitoring | 14/03/26 |
@@ -27,6 +28,8 @@
 | mmfmakmndejojblgceefkpinojhiacfk | Brave web browser | Store Monitoring | 11/03/26 |
 | ohalkmdcakplbfpelgmnegcbdkfigolo | 豆包，数学公式导出Word | Store Monitoring | 10/03/26 |
 | mjebfndkbogmggcbpacbedbcjccoamkk | Extreme Dream Head Soccer | Store Monitoring | 10/03/26 |
+| fpeabamapgecnidibdmjoepaiehokgda | Chrome MCP Server - AI Browser Control | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
+| iofmialeiddolmdlkbheakaefefkjokp | Palette Creator | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
 | aibfeemadfncnhephomomdicckopkgoe | Gemini AI Assistant | Store Monitoring | 09/03/26 |
 | dcmpoiccnjppenlhbhhbbkacebmoegoc | NeoNFSe - Download de NFS-e automatizado | Store Monitoring | 09/03/26 |
 | blffnkdfaobeknbcahjppbifklofofhh | Spareroom Message Generator | Store Monitoring | 09/03/26 |
