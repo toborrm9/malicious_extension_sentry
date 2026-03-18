@@ -1,9 +1,12 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--17-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-950-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--18-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-952-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
-| gabfmnliflodkdafenbcpjdlppllnemd | Save image as Type | Store Monitoring | 17/03/26 |
+| aeljhijhiagepppblonkhhnnmmknmnll | Wallet Connect View Tracker | Store Monitoring | 18/03/26 |
+| aifdgjjifbkmabkfeekkkhdckfbnmnjb | Phantom View Tracker | Store Monitoring | 18/03/26 |
+| gabfmnliflodkdafenbcpjdlppllnemd | Save image as Type | [www.reddit.com](https://www.reddit.com/r/chrome/comments/1rttqf0/any_alternative_of_this_extension_save_image_as/) | 17/03/26 |
+| jdfhogfabmocclgjnkfhokhaoecbmijj | Hill Climb Racing Unblocked | Store Monitoring | 17/03/26 |
 | ekhmddbpfelhdicnhkomdopnnbkchddc | AutoGemini - Gemini/AIStudio/Flow auto creator (Nano Banana Pro/Veo 3.1) | Store Monitoring | 15/03/26 |
 | lmopfmpfoonboglmipmjafcnbphgefjb | Crypto Price Coin Tracker | Store Monitoring | 14/03/26 |
 | bgnjnfoiglionjogebklhhhknbmlocpn | Gua­­rda Cr­yp­to W­al­let | Store Monitoring | 14/03/26 |
@@ -130,7 +133,6 @@
 | hffnjemmnepkggdecfbgmfbmncponjco | Hill Climb Racing Lite Game | Store Monitoring | 13/02/26 |
 | fpafokmkjcnkflboiefkiokbklpjbfpp | Hill Climb Racing Game Online | Store Monitoring | 13/02/26 |
 | dehblkalhcpijgblbakdkofmlfpklkjj | Pokemon Theme | Store Monitoring | 13/02/26 |
-| jdfhogfabmocclgjnkfhokhaoecbmijj | Hill Climb Racing Unblocked | Store Monitoring | 13/02/26 |
 | pcdgkgbadeggbnodegejccjffnoakcoh | VKfeed - Download music and video from VK | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | bndkfmmbidllaiccmpnbdonijmicaafn | vksaver - music saver vk | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | lgakkahjfibfgmacigibnhcgepajgfdb | Music Downloader - VKsaver | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
