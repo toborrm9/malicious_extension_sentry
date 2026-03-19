@@ -1,8 +1,12 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--18-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-952-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--19-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-956-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| idfccnbgfoopaopdddphpfamicdhpioe | MEXC-BUY & SELL | Store Monitoring | 18/03/26 |
+| llmclekdibmbhlgegnenmdifgjdcfnao | Ledger Wallet | Store Monitoring | 18/03/26 |
+| cnfkambgbklnggngkenpfoolbmhoonlc | AmazonSaver - Amazon Europe Price Comparison | Store Monitoring | 18/03/26 |
+| ekfbpedkallblckjgijmibabfcacgjhl | YouTube Search Fixer | Store Monitoring | 18/03/26 |
 | aeljhijhiagepppblonkhhnnmmknmnll | Wallet Connect View Tracker | Store Monitoring | 18/03/26 |
 | aifdgjjifbkmabkfeekkkhdckfbnmnjb | Phantom View Tracker | Store Monitoring | 18/03/26 |
 | gabfmnliflodkdafenbcpjdlppllnemd | Save image as Type | [www.reddit.com](https://www.reddit.com/r/chrome/comments/1rttqf0/any_alternative_of_this_extension_save_image_as/) | 17/03/26 |
