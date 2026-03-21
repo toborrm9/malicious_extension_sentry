@@ -1,8 +1,12 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--21-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-957-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-961-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| jeoigaeiibcpalnemoppabmfecmhfoda | TrustWallet AI Edition | Store Monitoring | 20/03/26 |
+| khoapclcikhbeaggmmfcnckcnhfniijj | Web Bear Search | Store Monitoring | 20/03/26 |
+| pjdnfljplcgepkonnklphjlkclhmlfdn | Auto Nano Banana Pro | Store Monitoring | 20/03/26 |
+| inloipbahbmhelpokmejailbmcegccal | ConnectGenie - Linkedin AI Assistant | Store Monitoring | 20/03/26 |
 | dgncekenlgnneibllkjinpcfccajpjmc | LinkedIn Queens Solver | Store Monitoring | 19/03/26 |
 | idfccnbgfoopaopdddphpfamicdhpioe | MEXC-BUY & SELL | Store Monitoring | 18/03/26 |
 | llmclekdibmbhlgegnenmdifgjdcfnao | Ledger Wallet | Store Monitoring | 18/03/26 |
