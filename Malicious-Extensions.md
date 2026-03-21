@@ -1,8 +1,9 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--20-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-956-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--21-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-957-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| dgncekenlgnneibllkjinpcfccajpjmc | LinkedIn Queens Solver | Store Monitoring | 19/03/26 |
 | idfccnbgfoopaopdddphpfamicdhpioe | MEXC-BUY & SELL | Store Monitoring | 18/03/26 |
 | llmclekdibmbhlgegnenmdifgjdcfnao | Ledger Wallet | Store Monitoring | 18/03/26 |
 | cnfkambgbklnggngkenpfoolbmhoonlc | AmazonSaver - Amazon Europe Price Comparison | Store Monitoring | 18/03/26 |
