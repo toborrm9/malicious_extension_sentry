@@ -110,6 +110,7 @@ Invoke-WebRequest -Uri https://raw.githubusercontent.com/toborrm9/malicious_exte
 
 ## 📰 Recent Security News
 
+- **2026-03-09**: [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
 - **2026-02-13**: [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
 - **2026-02-13**: [Malicious Chrome Extension Steals Meta Business Manager Exports and TOTP 2FA Seeds](https://socket.dev/blog/malicious-chrome-extension-steals-meta-business-manager-exports-and-totp-2fa-seeds)
 - **2026-02-12**: [AiFrame”- Fake AI Assistant Extensions Targeting 260,000 Chrome Users via injected iframes](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/)
