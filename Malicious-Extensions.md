@@ -3,9 +3,9 @@
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| khoapclcikhbeaggmmfcnckcnhfniijj | Web Bear Search | Store Monitoring | 21/03/26 |
+| pjdnfljplcgepkonnklphjlkclhmlfdn | Auto Nano Banana Pro | Store Monitoring | 21/03/26 |
 | jeoigaeiibcpalnemoppabmfecmhfoda | TrustWallet AI Edition | Store Monitoring | 20/03/26 |
-| khoapclcikhbeaggmmfcnckcnhfniijj | Web Bear Search | Store Monitoring | 20/03/26 |
-| pjdnfljplcgepkonnklphjlkclhmlfdn | Auto Nano Banana Pro | Store Monitoring | 20/03/26 |
 | inloipbahbmhelpokmejailbmcegccal | ConnectGenie - Linkedin AI Assistant | Store Monitoring | 20/03/26 |
 | dgncekenlgnneibllkjinpcfccajpjmc | LinkedIn Queens Solver | Store Monitoring | 19/03/26 |
 | idfccnbgfoopaopdddphpfamicdhpioe | MEXC-BUY & SELL | Store Monitoring | 18/03/26 |
