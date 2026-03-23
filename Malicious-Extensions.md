@@ -1,8 +1,9 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--23-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-961-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-962-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| ehjpinnpigaklfnffadlldnadchkaech | Scribd PDF Downloader | Store Monitoring | 22/03/26 |
 | khoapclcikhbeaggmmfcnckcnhfniijj | Web Bear Search | Store Monitoring | 21/03/26 |
 | pjdnfljplcgepkonnklphjlkclhmlfdn | Auto Nano Banana Pro | Store Monitoring | 21/03/26 |
 | jeoigaeiibcpalnemoppabmfecmhfoda | TrustWallet AI Edition | Store Monitoring | 20/03/26 |
