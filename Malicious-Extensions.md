@@ -1,8 +1,13 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--24-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-962-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-967-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| pncclakgimbcblpfdclhkdaepmnepkel | Gru Kids Minions Despicab | Store Monitoring | 24/03/26 |
+| lmenhcepphonnfnjkaofobpamlfolgfl | Black Script | Store Monitoring | 24/03/26 |
+| cabenpmbfkfhfjfkphpajdohklbplbdp | Base Extension Wallet | Store Monitoring | 24/03/26 |
+| jmbegcegjknachdgnichfcnjilebcojn | Minions | Store Monitoring | 24/03/26 |
+| jgjkbmccdkmjecomjfbnkgopgeaaikkc | Despicable Me 2 Laughing | Store Monitoring | 24/03/26 |
 | ehjpinnpigaklfnffadlldnadchkaech | Scribd PDF Downloader | Store Monitoring | 22/03/26 |
 | khoapclcikhbeaggmmfcnckcnhfniijj | Web Bear Search | Store Monitoring | 21/03/26 |
 | pjdnfljplcgepkonnklphjlkclhmlfdn | Auto Nano Banana Pro | Store Monitoring | 21/03/26 |
