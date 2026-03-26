@@ -1,10 +1,12 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--25-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-990-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--26-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-994-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
-| hghdaddeefonkenhdkhjpmlglikaccpd | Tronlink Wallet | Store Monitoring | 25/03/26 |
-| mecbindcphcmdhhihhbagmedefbineob | Minion | Store Monitoring | 25/03/26 |
+| kfkcgdiimmaafjbljhbjejocjignnajn | CharityTree | Store Monitoring | 25/03/26 |
+| edkmbojkflfanganifkkajmldejmhlec | GoCashBack: Deals, Rebates, Savings Extension | Store Monitoring | 25/03/26 |
+| ehplfgnopmpflglfpldjdodaogebfgpe | Laika AI - All in One DefAI Crypto AI Copilot | Store Monitoring | 25/03/26 |
+| dmniogfnhjfaembommeeamffneaobgcd | 篆刻-文字识别 | Store Monitoring | 25/03/26 |
 | celjchjgliegnlalhjegfcaacphgdkij | Blocksi Ai Web Filter | Store Monitoring | 25/03/26 |
 | kfoikllhonpipanjikhgieigdncdhpip | Cute Minions | Store Monitoring | 25/03/26 |
 | ihhnjdagbgkemablkohbinkpokljlbam | Minions | Store Monitoring | 25/03/26 |
@@ -12,21 +14,23 @@
 | fbjjljbajgmgplbdgocnccjegalogbgo | Christmas Santa Minion | Store Monitoring | 25/03/26 |
 | egdcgdpdnnbhfdlinhdfhnjbckmgcgbo | Despicable Me 2 Minions | Store Monitoring | 25/03/26 |
 | jlkbobmppgphpgcnabncnianglgmglkk | Despicable Me Minions Lun | Store Monitoring | 25/03/26 |
-| bejgahhphofnbikpincjaaljmpbjejgk | Despicable Me 2 Minions W | Store Monitoring | 25/03/26 |
 | ehcchdfibajdjlhaifolofbghgomloop | Purple Minions | Store Monitoring | 25/03/26 |
-| bkijbedohmdhdgijneacdbfhcambfoni | Despicable Me Minions | Store Monitoring | 25/03/26 |
-| ecmkkkimiiingcbkhohekhbifaefbmid | Minion | Store Monitoring | 25/03/26 |
 | fjpobenajidogfpilgbjgbglcanfjnoa | Dat Go | Store Monitoring | 25/03/26 |
 | aflgdgiaihhpkimnpjgeokkcpndllejm | Boostvocab | Store Monitoring | 25/03/26 |
 | kadlpmlnemnmcbpginfbbakompmgiahj | Tiktok Bulk Downloader | Store Monitoring | 25/03/26 |
 | bdhomkmlcfplpamlpnimlmmgmnbmhamo | Rewardsbunny | Store Monitoring | 25/03/26 |
 | lpgfobaeiolmbkaocfomdmnggfpaklhm | Avast — Password Manager | Store Monitoring | 25/03/26 |
-| pkhlncgfgeoalinmmhpbfopbkefckaao | Google Calendar For Pcwin | Store Monitoring | 25/03/26 |
+| pkhlncgfgeoalinmmhpbfopbkefckaao | Google Calendar For PC,Windows & Mac(Safe Use) | Store Monitoring | 25/03/26 |
 | aaiolimgbncdaldgbbjkidiijidchhjo | Shoppercom | Store Monitoring | 25/03/26 |
 | hjepnlaapopkiedfendjaieefldndecd | Greenwich | Store Monitoring | 25/03/26 |
 | jhanhfphenjhghflpeldoiklkikkjbpb | Multigual Interpreter Ext | Store Monitoring | 25/03/26 |
 | cpmbdnkbpaabapidllalnfopojfimbno | Top Best Extension | Store Monitoring | 25/03/26 |
 | gabfmnliflodkdafenbcpjdlppllnemd | Save Image As Type | Store Monitoring | 25/03/26 |
+| hghdaddeefonkenhdkhjpmlglikaccpd | Tronlink Wallet | Store Monitoring | 24/03/26 |
+| mecbindcphcmdhhihhbagmedefbineob | Minion | Store Monitoring | 24/03/26 |
+| bejgahhphofnbikpincjaaljmpbjejgk | Despicable Me 2 Minions Wide | Store Monitoring | 24/03/26 |
+| bkijbedohmdhdgijneacdbfhcambfoni | Despicable Me Minions | Store Monitoring | 24/03/26 |
+| ecmkkkimiiingcbkhohekhbifaefbmid | Minion | Store Monitoring | 24/03/26 |
 | pncclakgimbcblpfdclhkdaepmnepkel | Gru Kids Minions Despicab | Store Monitoring | 24/03/26 |
 | lmenhcepphonnfnjkaofobpamlfolgfl | Black Script | Store Monitoring | 24/03/26 |
 | cabenpmbfkfhfjfkphpajdohklbplbdp | Base Extension Wallet | Store Monitoring | 24/03/26 |
