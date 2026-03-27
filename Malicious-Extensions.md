@@ -1,8 +1,15 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--26-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-994-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--27-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1001-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| amomdmnemaieioenimcelcagpdbdbigi | Leadseeder 2.0 | Store Monitoring | 27/03/26 |
+| kkfobcljflnlpbemjicenfkfnplaggkk | WithEden AI - Emoji Comment App | Store Monitoring | 26/03/26 |
+| kdnhehemkjcjffngpngfopegdfabiiin | Τrυst wаllet Cryptogenesis | Store Monitoring | 26/03/26 |
+| fkkgaomifpmmikhigldibldaleglnpme | Twitter Lite | Store Monitoring | 26/03/26 |
+| dcibfpikkfpaogplkmnocfepoliadbeh | Instagram | Store Monitoring | 26/03/26 |
+| lpeocpopopmbhchjndkbhgjgppnlikho | TikTok ToolKit | Store Monitoring | 26/03/26 |
+| eeobggeikihkgiggaekfbceghlcpemfm | Caddi | Store Monitoring | 25/03/26 |
 | kfkcgdiimmaafjbljhbjejocjignnajn | CharityTree | Store Monitoring | 25/03/26 |
 | edkmbojkflfanganifkkajmldejmhlec | GoCashBack: Deals, Rebates, Savings Extension | Store Monitoring | 25/03/26 |
 | ehplfgnopmpflglfpldjdodaogebfgpe | Laika AI - All in One DefAI Crypto AI Copilot | Store Monitoring | 25/03/26 |
