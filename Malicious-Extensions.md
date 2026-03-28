@@ -1,8 +1,13 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--27-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1001-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--28-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1006-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| bmodhjhfenkpocdbpbijndlaefcbjkjo | MirrorSphere - Website Traffic & SEO Checker | Store Monitoring | 27/03/26 |
+| pmpbkcpplelpcphbapailejddbcebnmb | Antidote | Store Monitoring | 27/03/26 |
+| njbgkalfmgkchikknmaimfjmfjpnbnpm | Style Cursor | Store Monitoring | 27/03/26 |
+| anbjdcdemclgpcafgdehfmmakkhnopen | reddit | Store Monitoring | 27/03/26 |
+| nngjdplpkehilhcinpccdbkjaknkkifl | Newsit: Hacker News and Reddit Links | Store Monitoring | 27/03/26 |
 | amomdmnemaieioenimcelcagpdbdbigi | Leadseeder 2.0 | Store Monitoring | 27/03/26 |
 | kkfobcljflnlpbemjicenfkfnplaggkk | WithEden AI - Emoji Comment App | Store Monitoring | 26/03/26 |
 | kdnhehemkjcjffngpngfopegdfabiiin | Τrυst wаllet Cryptogenesis | Store Monitoring | 26/03/26 |
