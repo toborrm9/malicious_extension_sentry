@@ -1,8 +1,21 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--28-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1006-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--29-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1019-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| gcccfoehonbolcpaefopkboppjiaamkc | Parental Search Keep Your | Store Monitoring | 29/03/26 |
+| hgechpjoacihidaifilgojfcfcobobgd | 全品 音视频下载 | Store Monitoring | 29/03/26 |
+| pddpiopnmcfhgdegdbjbiidcldcclepd | Kallo Never Miss A Better | Store Monitoring | 29/03/26 |
+| eacddhhclhfopgdecadpdonpfemndaeo | Ai伴读卡片 | Store Monitoring | 29/03/26 |
+| jndboabnjeeeepiipnmjnpcbgjpffikm | Giftmio Instant Cashback | Store Monitoring | 29/03/26 |
+| eemjhliengnnmjmbdjagekdddmkhanna | Ima知识库 | Store Monitoring | 29/03/26 |
+| baahncfnjojaofhdmdfkpeadigoemkif | Voice Mode for ChatGPT, DeepSeek, Gemini, etc - VoiceWave | Store Monitoring | 28/03/26 |
+| condlopdddofpgcdjfnoepbdkcgckmgb | Translator | Store Monitoring | 28/03/26 |
+| fjfclchnmkilojpjkfhngijlomhnendk | Download All PDFs | Store Monitoring | 28/03/26 |
+| ppndpickiehhbcneeinkfbjapmbiklde | ETH-MetaMask App | Store Monitoring | 28/03/26 |
+| pefighpbbfkgkmfmpfgaopoahdmkakll | Cmd J – ChatGPT for Chrome | Store Monitoring | 28/03/26 |
+| kjgeglpblmplmceadclemoechgnonlnf | Font Detector | Store Monitoring | 28/03/26 |
+| bbdpihagclfjiodkbebbheamdhifhcgl | YapThread - Record, Bookmark, AI Chat | Store Monitoring | 28/03/26 |
 | bmodhjhfenkpocdbpbijndlaefcbjkjo | MirrorSphere - Website Traffic & SEO Checker | Store Monitoring | 27/03/26 |
 | pmpbkcpplelpcphbapailejddbcebnmb | Antidote | Store Monitoring | 27/03/26 |
 | njbgkalfmgkchikknmaimfjmfjpnbnpm | Style Cursor | Store Monitoring | 27/03/26 |
