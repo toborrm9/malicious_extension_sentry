@@ -1,8 +1,15 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--30-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1019-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1026-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| gmjjkabeoioigljnanihcnbpmcplklli | Bikini Bottom | Store Monitoring | 30/03/26 |
+| dcllajlpjeaobemjcplencinnjdkefkc | Queens Game Solver | Store Monitoring | 30/03/26 |
+| hjljmggepgoedlhpmmnnlhgnpnhpciel | Tiny Tycoon Unblocked | Store Monitoring | 30/03/26 |
+| cjpknfonjfjobbfpbhodmenghbpmcgpj | Bitboxapp Nova Wallet | Store Monitoring | 30/03/26 |
+| njoogbpfljihdmoaihdkcbiminaehoed | Bikini Bottom | Store Monitoring | 30/03/26 |
+| dginndbdbpmhpmandgbgghhldoeohcim | Conch Street Spongebob | Store Monitoring | 30/03/26 |
+| nhgghgjhnmlecplemcmlhdgnlijjlmoe | Stories Downloader Coolst | Store Monitoring | 30/03/26 |
 | gcccfoehonbolcpaefopkboppjiaamkc | Parental Search Keep Your | Store Monitoring | 29/03/26 |
 | hgechpjoacihidaifilgojfcfcobobgd | 全品 音视频下载 | Store Monitoring | 29/03/26 |
 | pddpiopnmcfhgdegdbjbiidcldcclepd | Kallo Never Miss A Better | Store Monitoring | 29/03/26 |
