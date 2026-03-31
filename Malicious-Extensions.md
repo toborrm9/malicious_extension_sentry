@@ -1,8 +1,12 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--30-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1026-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--31-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1030-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| fempjaikchbnpfllfkcggplmbnpojbbl | Tetris Game | Store Monitoring | 31/03/26 |
+| felanaboghflckkajcjgoapdebklnmff | Refty Unit Finder | Store Monitoring | 31/03/26 |
+| ddffafnebdedgiaghdjkaifbhaaemdco | Tetris – Block Stack Chal | Store Monitoring | 31/03/26 |
+| edgdjpblkjhdmflbedgmpajminmjljdn | Tetris By Shlok | Store Monitoring | 31/03/26 |
 | gmjjkabeoioigljnanihcnbpmcplklli | Bikini Bottom | Store Monitoring | 30/03/26 |
 | dcllajlpjeaobemjcplencinnjdkefkc | Queens Game Solver | Store Monitoring | 30/03/26 |
 | hjljmggepgoedlhpmmnnlhgnpnhpciel | Tiny Tycoon Unblocked | Store Monitoring | 30/03/26 |
