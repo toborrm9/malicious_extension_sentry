@@ -1,8 +1,16 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--31-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1030-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--01-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1038-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| gfcligffighgnnfljcamdhgppbgfjddb | Boostawaa Social Media Ma | Store Monitoring | 01/04/26 |
+| fbielihbbmdclfpfajglkbioppnlfgfe | Charizard Live Wallpaper | Store Monitoring | 01/04/26 |
+| cmmhaonjjooajkjanjcigoldiicbbkhe | Nidoran Pokemon Tcg Looku | Store Monitoring | 01/04/26 |
+| eonegkecmopidmaknildejfodfccpegg | Pokemon Pikachu Live Wall | Store Monitoring | 01/04/26 |
+| bdmbfahncgochinclblmnaofgmihcmkb | Naruto And Pikachu Live W | Store Monitoring | 01/04/26 |
+| bibpinjdgodiocbghmbclgjmdidlhebl | Pikachu Live Wallpaper | Store Monitoring | 01/04/26 |
+| nmpnccanldgdjchnaanhdagmomgjnbke | Pokemon Theme | Store Monitoring | 01/04/26 |
+| dkdnidbnjihhilbjndnnlfipmbnoaipn | Birdtab Discover Bird Pic | Store Monitoring | 01/04/26 |
 | fempjaikchbnpfllfkcggplmbnpojbbl | Tetris Game | Store Monitoring | 31/03/26 |
 | felanaboghflckkajcjgoapdebklnmff | Refty Unit Finder | Store Monitoring | 31/03/26 |
 | ddffafnebdedgiaghdjkaifbhaaemdco | Tetris – Block Stack Chal | Store Monitoring | 31/03/26 |
