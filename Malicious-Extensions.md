@@ -1,8 +1,12 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--01-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1038-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--02-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1042-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| lfnlgdmddmiidbnaeiibmlbadefcnjhi | Linkinnovaai | Store Monitoring | 02/04/26 |
+| aciamgifeoagmcojlibbdhoabolgdopo | Pn Copilot | Store Monitoring | 02/04/26 |
+| klopidoappccnidjpdnihpdecdkhafll | Gemini Label Manager | Store Monitoring | 02/04/26 |
+| dfblonmbgoohadjjhcoeemcailijfigm | Linkedin Sales Navigator | Store Monitoring | 02/04/26 |
 | gfcligffighgnnfljcamdhgppbgfjddb | Boostawaa Social Media Ma | Store Monitoring | 01/04/26 |
 | fbielihbbmdclfpfajglkbioppnlfgfe | Charizard Live Wallpaper | Store Monitoring | 01/04/26 |
 | cmmhaonjjooajkjanjcigoldiicbbkhe | Nidoran Pokemon Tcg Looku | Store Monitoring | 01/04/26 |
