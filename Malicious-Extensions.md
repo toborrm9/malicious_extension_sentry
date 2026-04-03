@@ -1,8 +1,9 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--03-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1055-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1056-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| ipmmidjikilclkbnglogmgoofbhjikgb | ChatGPT Ad Blocker | [gbhackers.com](https://gbhackers.com/malicious-chrome-extension-targets-chatgpt-users/) | 03/04/26 |
 | empdihaogaehghjmpimnmmjjfjmihcmg | Honey Hive Coupons Promo | Store Monitoring | 03/04/26 |
 | dkbjjfijbnhnibakmpkkfhikmkgphako | Link Extractor | Store Monitoring | 03/04/26 |
 | fjjfjejnceagncobmelafecbpggbmmka | Volume Booster Sound Boos | Store Monitoring | 03/04/26 |
