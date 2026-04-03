@@ -1,8 +1,21 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--02-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1042-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--03-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1055-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| empdihaogaehghjmpimnmmjjfjmihcmg | Honey Hive Coupons Promo | Store Monitoring | 03/04/26 |
+| dkbjjfijbnhnibakmpkkfhikmkgphako | Link Extractor | Store Monitoring | 03/04/26 |
+| fjjfjejnceagncobmelafecbpggbmmka | Volume Booster Sound Boos | Store Monitoring | 03/04/26 |
+| bignmbfbfjbaelmcgkleelnkgnmfniba | Honey Automatic Price Che | Store Monitoring | 03/04/26 |
+| bejlgcijncccchejcppccneebdobhcbd | Facebook Group Extractor | Store Monitoring | 03/04/26 |
+| gbplafaelmgboglkaebmbkjnilcpkklf | Delete History | Store Monitoring | 03/04/26 |
+| onkldlhmegehhokchomfegpebhekaeia | Dual Watch World Clock Ex | Store Monitoring | 03/04/26 |
+| dmjnmnjmddbbkbhkonhmifmdidinmeep | Tiktok Analytics Tool – P | Store Monitoring | 03/04/26 |
+| igcfeiobmdohnoihbbgcehmecnhgnmfe | Pikachu Theme | Store Monitoring | 03/04/26 |
+| gejgekoijpmoplecdpbbnldgcbhnfmpo | İSgpratik Bot | Store Monitoring | 03/04/26 |
+| dkbgoioobcocdfmknmlidebppkfikoeh | Add Balance | Store Monitoring | 03/04/26 |
+| mnnlkapejiegjhhmohmelangkgpmkhci | Near Network Explorer | Store Monitoring | 03/04/26 |
+| pkajffddidnadoaceilnhdfcoamcbnnm | Cute Pikachu Wallpapers | Store Monitoring | 03/04/26 |
 | lfnlgdmddmiidbnaeiibmlbadefcnjhi | Linkinnovaai | Store Monitoring | 02/04/26 |
 | aciamgifeoagmcojlibbdhoabolgdopo | Pn Copilot | Store Monitoring | 02/04/26 |
 | klopidoappccnidjpdnihpdecdkhafll | Gemini Label Manager | Store Monitoring | 02/04/26 |
