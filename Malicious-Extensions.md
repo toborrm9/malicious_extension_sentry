@@ -1,8 +1,14 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--04-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1056-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1062-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| nmcdpmhknbboplhmihbekllplnhfplph | Youtube Shorts To Video | Store Monitoring | 04/04/26 |
+| nippdajkmjpnpnajkafoadeopbjdffjo | Viewelo | Store Monitoring | 04/04/26 |
+| fkogigpebmhlbldifmjngmlooifljnif | Radex | Store Monitoring | 04/04/26 |
+| bakeonpbbnlejfcdgkkdhdagfadmplak | Spotlight Ads Adspy Tool | Store Monitoring | 04/04/26 |
+| nlicmidohjbpkndnlcioehnbefjdpfof | Amber Focus Ai Theme | Store Monitoring | 04/04/26 |
+| kndglddmdlambecafkmijpmehpnbojfn | Tab Time Tracker | Store Monitoring | 04/04/26 |
 | ipmmidjikilclkbnglogmgoofbhjikgb | ChatGPT Ad Blocker | [gbhackers.com](https://gbhackers.com/malicious-chrome-extension-targets-chatgpt-users/) | 03/04/26 |
 | empdihaogaehghjmpimnmmjjfjmihcmg | Honey Hive Coupons Promo | Store Monitoring | 03/04/26 |
 | dkbjjfijbnhnibakmpkkfhikmkgphako | Link Extractor | Store Monitoring | 03/04/26 |
