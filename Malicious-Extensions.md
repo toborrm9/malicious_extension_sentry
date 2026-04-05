@@ -1,8 +1,13 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--04-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1062-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--05-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1067-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| dpmdoefacegagjoifomgchhhppgdkaco | Copy Paste Orders From Eb | Store Monitoring | 05/04/26 |
+| cldllmlmkpkdgmcphohecljfdfbiaoag | Instant Bitcoin Generator | Store Monitoring | 05/04/26 |
+| afiomadkjmmfgknhgkpbmbdffjippidf | Can I Locate It | Store Monitoring | 05/04/26 |
+| lhahofhogpojbfgcejbohlinmhjaodkn | Bitcoin Generator Best Bi | Store Monitoring | 05/04/26 |
+| fldiebelpcgjgdlmkmbohiljpkdeillj | X Countrybadge – Twitter | Store Monitoring | 05/04/26 |
 | nmcdpmhknbboplhmihbekllplnhfplph | Youtube Shorts To Video | Store Monitoring | 04/04/26 |
 | nippdajkmjpnpnajkafoadeopbjdffjo | Viewelo | Store Monitoring | 04/04/26 |
 | fkogigpebmhlbldifmjngmlooifljnif | Radex | Store Monitoring | 04/04/26 |
