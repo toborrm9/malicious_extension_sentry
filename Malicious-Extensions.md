@@ -3,7 +3,7 @@
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
-| gogbiohkminacikoppmljeolgccpmlop | Color Picker - Eyedropper Tool | [x.com](https://x.com/tuckner/status/2039777577452155131) | 07/04/26 |
+| gogbiohkminacikoppmljeolgccpmlop | Color Picker - Eyedropper Tool | [cyberinsider.com](https://cyberinsider.com/author/alexlekander/) | 07/04/26 |
 | ejbieagijpeanlkmjlpdbincpoecfifo | Zynapse | Store Monitoring | 07/04/26 |
 | bgkijgmoikigljbbfokahemdnhilkkma | Shield Linkedin Analytics | Store Monitoring | 07/04/26 |
 | bogbhacoalfapopgbgfoencdpdkmdlpk | 宙斯Zeus回国加速器 海外华人免费回国追剧听歌 | Store Monitoring | 07/04/26 |
