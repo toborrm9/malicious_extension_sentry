@@ -1,8 +1,9 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--07-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1079-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1080-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| gogbiohkminacikoppmljeolgccpmlop | Color Picker - Eyedropper Tool | [x.com](https://x.com/tuckner/status/2039777577452155131) | 07/04/26 |
 | ejbieagijpeanlkmjlpdbincpoecfifo | Zynapse | Store Monitoring | 07/04/26 |
 | bgkijgmoikigljbbfokahemdnhilkkma | Shield Linkedin Analytics | Store Monitoring | 07/04/26 |
 | bogbhacoalfapopgbgfoencdpdkmdlpk | 宙斯Zeus回国加速器 海外华人免费回国追剧听歌 | Store Monitoring | 07/04/26 |
