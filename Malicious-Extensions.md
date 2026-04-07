@@ -1,8 +1,13 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--07-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1080-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1085-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| fbmgcejhoneccecnplfllgkfgheoengm | Buska Linkedin | Store Monitoring | 07/04/26 |
+| kbhhacnmeeljkelinngfddddmgnpfagc | Ai Writing Check | Store Monitoring | 07/04/26 |
+| mjhocphphjjjcabfdcaemfkokegeebbg | Tiktok Leads | Store Monitoring | 07/04/26 |
+| cgnnmgjmhhmemkmdcckoofobpdejpjef | Precision Linkedin Integr | Store Monitoring | 07/04/26 |
+| cghdjcdmopohjlogglcbocjldjhjlddg | Bizwik | Store Monitoring | 07/04/26 |
 | gogbiohkminacikoppmljeolgccpmlop | Color Picker - Eyedropper Tool | [cyberinsider.com](https://cyberinsider.com/author/alexlekander/) | 07/04/26 |
 | ejbieagijpeanlkmjlpdbincpoecfifo | Zynapse | Store Monitoring | 07/04/26 |
 | bgkijgmoikigljbbfokahemdnhilkkma | Shield Linkedin Analytics | Store Monitoring | 07/04/26 |
