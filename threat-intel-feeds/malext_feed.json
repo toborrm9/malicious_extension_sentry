@@ -1,12 +1,19 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-04-07T20:58:00.285Z",
+  "generated": "2026-04-08T08:18:54.849Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1085,
+  "total_indicators": 1086,
   "indicators": [
+    {
+      "extension_id": "cignjngpjdkbiekiblcjnfkmfnelpjnn",
+      "name": "Totalblocker",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-08",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cignjngpjdkbiekiblcjnfkmfnelpjnn"
+    },
     {
       "extension_id": "fbmgcejhoneccecnplfllgkfgheoengm",
       "name": "Buska Linkedin",
@@ -65,7 +72,7 @@
     },
     {
       "extension_id": "bogbhacoalfapopgbgfoencdpdkmdlpk",
-      "name": "\u5b99\u65afZeus\u56de\u56fd\u52a0\u901f\u5668 \u6d77\u5916\u534e\u4eba\u514d\u8d39\u56de\u56fd\u8ffd\u5267\u542c\u6b4c",
+      "name": "\u5b99\u65afzeus\u56de\u56fd\u52a0\u901f\u5668 \u6d77\u5916\u534e\u4eba\u514d\u8d39\u56de\u56fd\u8ffd\u5267\u542c\u6b4c",
       "source": "Store Monitoring",
       "insert_date": "2026-04-07",
       "chrome_store_url": "https://chromewebstore.google.com/detail/bogbhacoalfapopgbgfoencdpdkmdlpk"
