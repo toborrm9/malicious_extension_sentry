@@ -1,8 +1,9 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--07-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1085-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--08-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1086-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| cignjngpjdkbiekiblcjnfkmfnelpjnn | Totalblocker | Store Monitoring | 08/04/26 |
 | fbmgcejhoneccecnplfllgkfgheoengm | Buska Linkedin | Store Monitoring | 07/04/26 |
 | kbhhacnmeeljkelinngfddddmgnpfagc | Ai Writing Check | Store Monitoring | 07/04/26 |
 | mjhocphphjjjcabfdcaemfkokegeebbg | Tiktok Leads | Store Monitoring | 07/04/26 |
@@ -11,7 +12,7 @@
 | gogbiohkminacikoppmljeolgccpmlop | Color Picker - Eyedropper Tool | [cyberinsider.com](https://cyberinsider.com/author/alexlekander/) | 07/04/26 |
 | ejbieagijpeanlkmjlpdbincpoecfifo | Zynapse | Store Monitoring | 07/04/26 |
 | bgkijgmoikigljbbfokahemdnhilkkma | Shield Linkedin Analytics | Store Monitoring | 07/04/26 |
-| bogbhacoalfapopgbgfoencdpdkmdlpk | 宙斯Zeus回国加速器 海外华人免费回国追剧听歌 | Store Monitoring | 07/04/26 |
+| bogbhacoalfapopgbgfoencdpdkmdlpk | 宙斯zeus回国加速器 海外华人免费回国追剧听歌 | Store Monitoring | 07/04/26 |
 | dfpbcakpogbfaohnnjlgghdjkgaoiaik | Taplio X | Store Monitoring | 07/04/26 |
 | cafbjepckpmnmlliiheacibehokblihc | Navwise Prospect List Exp | Store Monitoring | 07/04/26 |
 | bifmakhmlkpkfdinjhopnjggpgagolai | Pipelinepilot | Store Monitoring | 07/04/26 |
