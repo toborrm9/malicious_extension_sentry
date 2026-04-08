@@ -1,26 +1,28 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--08-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1086-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--09-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1088-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
-| cignjngpjdkbiekiblcjnfkmfnelpjnn | Totalblocker | Store Monitoring | 08/04/26 |
-| fbmgcejhoneccecnplfllgkfgheoengm | Buska Linkedin | Store Monitoring | 07/04/26 |
-| kbhhacnmeeljkelinngfddddmgnpfagc | Ai Writing Check | Store Monitoring | 07/04/26 |
-| mjhocphphjjjcabfdcaemfkokegeebbg | Tiktok Leads | Store Monitoring | 07/04/26 |
-| cgnnmgjmhhmemkmdcckoofobpdejpjef | Precision Linkedin Integr | Store Monitoring | 07/04/26 |
-| cghdjcdmopohjlogglcbocjldjhjlddg | Bizwik | Store Monitoring | 07/04/26 |
+| fefodpegbocmidnfphgggnjcicipaibk | Notepad Online | Store Monitoring | 09/04/26 |
+| cignjngpjdkbiekiblcjnfkmfnelpjnn | TotalBlocker | Store Monitoring | 08/04/26 |
+| lgmdiagiphelkdikgjehjpmfaecgmmfl | i‮Tm‬o‮nek‬ W‮tella‬ W‮3be‬ | Store Monitoring | 07/04/26 |
+| fbmgcejhoneccecnplfllgkfgheoengm | Buska LinkedIn | Store Monitoring | 07/04/26 |
+| kbhhacnmeeljkelinngfddddmgnpfagc | AI Writing Check | Store Monitoring | 07/04/26 |
+| mjhocphphjjjcabfdcaemfkokegeebbg | TikTok Leads | Store Monitoring | 07/04/26 |
+| cgnnmgjmhhmemkmdcckoofobpdejpjef | Precision LinkedIn Integration | Store Monitoring | 07/04/26 |
+| cghdjcdmopohjlogglcbocjldjhjlddg | BizWik | Store Monitoring | 07/04/26 |
 | gogbiohkminacikoppmljeolgccpmlop | Color Picker - Eyedropper Tool | [cyberinsider.com](https://cyberinsider.com/author/alexlekander/) | 07/04/26 |
-| ejbieagijpeanlkmjlpdbincpoecfifo | Zynapse | Store Monitoring | 07/04/26 |
 | bgkijgmoikigljbbfokahemdnhilkkma | Shield Linkedin Analytics | Store Monitoring | 07/04/26 |
 | bogbhacoalfapopgbgfoencdpdkmdlpk | 宙斯zeus回国加速器 海外华人免费回国追剧听歌 | Store Monitoring | 07/04/26 |
-| dfpbcakpogbfaohnnjlgghdjkgaoiaik | Taplio X | Store Monitoring | 07/04/26 |
-| cafbjepckpmnmlliiheacibehokblihc | Navwise Prospect List Exp | Store Monitoring | 07/04/26 |
-| bifmakhmlkpkfdinjhopnjggpgagolai | Pipelinepilot | Store Monitoring | 07/04/26 |
-| aojfikafhpoabphhjdogjlkjflgbdmff | Shrek | Store Monitoring | 07/04/26 |
 | cahhjpmdnfhfkgldefihhcgkaalllbld | Fast Delete Messages | Store Monitoring | 07/04/26 |
 | bbdejfjnpbdjbdnibpmiegbdfbngbahn | Minecraft Shrek Riding Pi | Store Monitoring | 07/04/26 |
 | dlanpgfginllefahhibhbeanopbhbkkh | Shrek 5 Live Wallpaper | Store Monitoring | 07/04/26 |
+| ejbieagijpeanlkmjlpdbincpoecfifo | Zynapse | Store Monitoring | 06/04/26 |
+| dfpbcakpogbfaohnnjlgghdjkgaoiaik | Taplio X | Store Monitoring | 06/04/26 |
 | ppmanlakcacopgdpnaaabcjknbeokojl | Quick News Summary | Store Monitoring | 06/04/26 |
+| cafbjepckpmnmlliiheacibehokblihc | NavWise: Prospect List Exporter | Store Monitoring | 06/04/26 |
+| bifmakhmlkpkfdinjhopnjggpgagolai | PipelinePILOT | Store Monitoring | 06/04/26 |
+| aojfikafhpoabphhjdogjlkjflgbdmff | Shrek | Store Monitoring | 06/04/26 |
 | ecglifnnmnjlkemdjbhlofpemidafnin | Review Radar | Store Monitoring | 06/04/26 |
 | dpmdoefacegagjoifomgchhhppgdkaco | Copy - paste orders From ebay to aliexpress | Store Monitoring | 05/04/26 |
 | cldllmlmkpkdgmcphohecljfdfbiaoag | Instant Bitcoin Generator | Store Monitoring | 05/04/26 |
