@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-04-08",
-    "timestamp": "1775636335",
+    "timestamp": "1775687585",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -28,12 +28,38 @@
     ],
     "Attribute": [
       {
+        "uuid": "56441144-1e94-5931-99ad-bb33b9c1c065",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fefodpegbocmidnfphgggnjcicipaibk",
+        "comment": "Notepad Online | Source: Store Monitoring | Added: 2026-04-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bb907c1f-ecb6-5194-90e5-73295a69c778",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fefodpegbocmidnfphgggnjcicipaibk",
+        "comment": "Chrome Web Store entry for Notepad Online (fefodpegbocmidnfphgggnjcicipaibk)",
+        "distribution": "5"
+      },
+      {
         "uuid": "e952a747-f4ae-5fdf-b579-f13542f6e47c",
         "type": "text",
         "category": "Other",
         "to_ids": false,
         "value": "cignjngpjdkbiekiblcjnfkmfnelpjnn",
-        "comment": "Totalblocker | Source: Store Monitoring | Added: 2026-04-08",
+        "comment": "TotalBlocker | Source: Store Monitoring | Added: 2026-04-08",
         "distribution": "5",
         "Tag": [
           {
@@ -50,7 +76,33 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/cignjngpjdkbiekiblcjnfkmfnelpjnn",
-        "comment": "Chrome Web Store entry for Totalblocker (cignjngpjdkbiekiblcjnfkmfnelpjnn)",
+        "comment": "Chrome Web Store entry for TotalBlocker (cignjngpjdkbiekiblcjnfkmfnelpjnn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c95bd265-2406-5ee0-a621-c7c8ffb58076",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lgmdiagiphelkdikgjehjpmfaecgmmfl",
+        "comment": "i\u202eTm\u202co\u202enek\u202c W\u202etella\u202c W\u202e3be\u202c | Source: Store Monitoring | Added: 2026-04-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "52f0e338-a3b0-5f82-a75a-852e9ee67e42",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lgmdiagiphelkdikgjehjpmfaecgmmfl",
+        "comment": "Chrome Web Store entry for i\u202eTm\u202co\u202enek\u202c W\u202etella\u202c W\u202e3be\u202c (lgmdiagiphelkdikgjehjpmfaecgmmfl)",
         "distribution": "5"
       },
       {
@@ -59,7 +111,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "fbmgcejhoneccecnplfllgkfgheoengm",
-        "comment": "Buska Linkedin | Source: Store Monitoring | Added: 2026-04-07",
+        "comment": "Buska LinkedIn | Source: Store Monitoring | Added: 2026-04-07",
         "distribution": "5",
         "Tag": [
           {
@@ -76,7 +128,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/fbmgcejhoneccecnplfllgkfgheoengm",
-        "comment": "Chrome Web Store entry for Buska Linkedin (fbmgcejhoneccecnplfllgkfgheoengm)",
+        "comment": "Chrome Web Store entry for Buska LinkedIn (fbmgcejhoneccecnplfllgkfgheoengm)",
         "distribution": "5"
       },
       {
@@ -85,7 +137,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "kbhhacnmeeljkelinngfddddmgnpfagc",
-        "comment": "Ai Writing Check | Source: Store Monitoring | Added: 2026-04-07",
+        "comment": "AI Writing Check | Source: Store Monitoring | Added: 2026-04-07",
         "distribution": "5",
         "Tag": [
           {
@@ -102,7 +154,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/kbhhacnmeeljkelinngfddddmgnpfagc",
-        "comment": "Chrome Web Store entry for Ai Writing Check (kbhhacnmeeljkelinngfddddmgnpfagc)",
+        "comment": "Chrome Web Store entry for AI Writing Check (kbhhacnmeeljkelinngfddddmgnpfagc)",
         "distribution": "5"
       },
       {
@@ -111,7 +163,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "mjhocphphjjjcabfdcaemfkokegeebbg",
-        "comment": "Tiktok Leads | Source: Store Monitoring | Added: 2026-04-07",
+        "comment": "TikTok Leads | Source: Store Monitoring | Added: 2026-04-07",
         "distribution": "5",
         "Tag": [
           {
@@ -128,7 +180,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/mjhocphphjjjcabfdcaemfkokegeebbg",
-        "comment": "Chrome Web Store entry for Tiktok Leads (mjhocphphjjjcabfdcaemfkokegeebbg)",
+        "comment": "Chrome Web Store entry for TikTok Leads (mjhocphphjjjcabfdcaemfkokegeebbg)",
         "distribution": "5"
       },
       {
@@ -137,7 +189,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "cgnnmgjmhhmemkmdcckoofobpdejpjef",
-        "comment": "Precision Linkedin Integr | Source: Store Monitoring | Added: 2026-04-07",
+        "comment": "Precision LinkedIn Integration | Source: Store Monitoring | Added: 2026-04-07",
         "distribution": "5",
         "Tag": [
           {
@@ -154,7 +206,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/cgnnmgjmhhmemkmdcckoofobpdejpjef",
-        "comment": "Chrome Web Store entry for Precision Linkedin Integr (cgnnmgjmhhmemkmdcckoofobpdejpjef)",
+        "comment": "Chrome Web Store entry for Precision LinkedIn Integration (cgnnmgjmhhmemkmdcckoofobpdejpjef)",
         "distribution": "5"
       },
       {
@@ -163,7 +215,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "cghdjcdmopohjlogglcbocjldjhjlddg",
-        "comment": "Bizwik | Source: Store Monitoring | Added: 2026-04-07",
+        "comment": "BizWik | Source: Store Monitoring | Added: 2026-04-07",
         "distribution": "5",
         "Tag": [
           {
@@ -180,7 +232,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/cghdjcdmopohjlogglcbocjldjhjlddg",
-        "comment": "Chrome Web Store entry for Bizwik (cghdjcdmopohjlogglcbocjldjhjlddg)",
+        "comment": "Chrome Web Store entry for BizWik (cghdjcdmopohjlogglcbocjldjhjlddg)",
         "distribution": "5"
       },
       {
@@ -207,32 +259,6 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/gogbiohkminacikoppmljeolgccpmlop",
         "comment": "Chrome Web Store entry for Color Picker - Eyedropper Tool (gogbiohkminacikoppmljeolgccpmlop)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "e104b880-1a76-5950-b47b-b6d998dfee39",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "ejbieagijpeanlkmjlpdbincpoecfifo",
-        "comment": "Zynapse | Source: Store Monitoring | Added: 2026-04-07",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          }
-        ]
-      },
-      {
-        "uuid": "df983835-709d-5d89-91fd-a326d14722cc",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/ejbieagijpeanlkmjlpdbincpoecfifo",
-        "comment": "Chrome Web Store entry for Zynapse (ejbieagijpeanlkmjlpdbincpoecfifo)",
         "distribution": "5"
       },
       {
@@ -285,110 +311,6 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/bogbhacoalfapopgbgfoencdpdkmdlpk",
         "comment": "Chrome Web Store entry for \u5b99\u65afzeus\u56de\u56fd\u52a0\u901f\u5668 \u6d77\u5916\u534e\u4eba\u514d\u8d39\u56de\u56fd\u8ffd\u5267\u542c\u6b4c (bogbhacoalfapopgbgfoencdpdkmdlpk)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "5e24658a-b6ab-5a90-88e3-9e5ff10422a4",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "dfpbcakpogbfaohnnjlgghdjkgaoiaik",
-        "comment": "Taplio X | Source: Store Monitoring | Added: 2026-04-07",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          }
-        ]
-      },
-      {
-        "uuid": "68021cff-2dd1-53d9-bad2-735bc5e354df",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/dfpbcakpogbfaohnnjlgghdjkgaoiaik",
-        "comment": "Chrome Web Store entry for Taplio X (dfpbcakpogbfaohnnjlgghdjkgaoiaik)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "96f2049c-890a-5d1f-8e52-e80fb5cdb51d",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "cafbjepckpmnmlliiheacibehokblihc",
-        "comment": "Navwise Prospect List Exp | Source: Store Monitoring | Added: 2026-04-07",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          }
-        ]
-      },
-      {
-        "uuid": "79be5f3c-04ae-599d-a473-af6266e6f2c4",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/cafbjepckpmnmlliiheacibehokblihc",
-        "comment": "Chrome Web Store entry for Navwise Prospect List Exp (cafbjepckpmnmlliiheacibehokblihc)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "35425a71-4ff0-5de6-a267-3990ec82999a",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "bifmakhmlkpkfdinjhopnjggpgagolai",
-        "comment": "Pipelinepilot | Source: Store Monitoring | Added: 2026-04-07",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          }
-        ]
-      },
-      {
-        "uuid": "ab1e10de-f56a-56d0-b36b-b99c4b8cf744",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/bifmakhmlkpkfdinjhopnjggpgagolai",
-        "comment": "Chrome Web Store entry for Pipelinepilot (bifmakhmlkpkfdinjhopnjggpgagolai)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "b320129b-9a93-5e18-ba67-111b13e84bcf",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "aojfikafhpoabphhjdogjlkjflgbdmff",
-        "comment": "Shrek | Source: Store Monitoring | Added: 2026-04-07",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          }
-        ]
-      },
-      {
-        "uuid": "21438582-e107-548d-8f29-2a54f69309d9",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/aojfikafhpoabphhjdogjlkjflgbdmff",
-        "comment": "Chrome Web Store entry for Shrek (aojfikafhpoabphhjdogjlkjflgbdmff)",
         "distribution": "5"
       },
       {
@@ -470,6 +392,58 @@
         "distribution": "5"
       },
       {
+        "uuid": "e104b880-1a76-5950-b47b-b6d998dfee39",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ejbieagijpeanlkmjlpdbincpoecfifo",
+        "comment": "Zynapse | Source: Store Monitoring | Added: 2026-04-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "df983835-709d-5d89-91fd-a326d14722cc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ejbieagijpeanlkmjlpdbincpoecfifo",
+        "comment": "Chrome Web Store entry for Zynapse (ejbieagijpeanlkmjlpdbincpoecfifo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5e24658a-b6ab-5a90-88e3-9e5ff10422a4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dfpbcakpogbfaohnnjlgghdjkgaoiaik",
+        "comment": "Taplio X | Source: Store Monitoring | Added: 2026-04-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "68021cff-2dd1-53d9-bad2-735bc5e354df",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dfpbcakpogbfaohnnjlgghdjkgaoiaik",
+        "comment": "Chrome Web Store entry for Taplio X (dfpbcakpogbfaohnnjlgghdjkgaoiaik)",
+        "distribution": "5"
+      },
+      {
         "uuid": "fcdbd20e-9ea9-52ae-80a7-872a4bfeab2e",
         "type": "text",
         "category": "Other",
@@ -493,6 +467,84 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/ppmanlakcacopgdpnaaabcjknbeokojl",
         "comment": "Chrome Web Store entry for Quick News Summary (ppmanlakcacopgdpnaaabcjknbeokojl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "96f2049c-890a-5d1f-8e52-e80fb5cdb51d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cafbjepckpmnmlliiheacibehokblihc",
+        "comment": "NavWise: Prospect List Exporter | Source: Store Monitoring | Added: 2026-04-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "79be5f3c-04ae-599d-a473-af6266e6f2c4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cafbjepckpmnmlliiheacibehokblihc",
+        "comment": "Chrome Web Store entry for NavWise: Prospect List Exporter (cafbjepckpmnmlliiheacibehokblihc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "35425a71-4ff0-5de6-a267-3990ec82999a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bifmakhmlkpkfdinjhopnjggpgagolai",
+        "comment": "PipelinePILOT | Source: Store Monitoring | Added: 2026-04-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ab1e10de-f56a-56d0-b36b-b99c4b8cf744",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bifmakhmlkpkfdinjhopnjggpgagolai",
+        "comment": "Chrome Web Store entry for PipelinePILOT (bifmakhmlkpkfdinjhopnjggpgagolai)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b320129b-9a93-5e18-ba67-111b13e84bcf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aojfikafhpoabphhjdogjlkjflgbdmff",
+        "comment": "Shrek | Source: Store Monitoring | Added: 2026-04-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "21438582-e107-548d-8f29-2a54f69309d9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aojfikafhpoabphhjdogjlkjflgbdmff",
+        "comment": "Chrome Web Store entry for Shrek (aojfikafhpoabphhjdogjlkjflgbdmff)",
         "distribution": "5"
       },
       {
