@@ -1,50 +1,64 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-04-08T08:18:54.849Z",
+  "generated": "2026-04-08T22:33:05.587Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1086,
+  "total_indicators": 1088,
   "indicators": [
     {
+      "extension_id": "fefodpegbocmidnfphgggnjcicipaibk",
+      "name": "Notepad Online",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-09",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fefodpegbocmidnfphgggnjcicipaibk"
+    },
+    {
       "extension_id": "cignjngpjdkbiekiblcjnfkmfnelpjnn",
-      "name": "Totalblocker",
+      "name": "TotalBlocker",
       "source": "Store Monitoring",
       "insert_date": "2026-04-08",
       "chrome_store_url": "https://chromewebstore.google.com/detail/cignjngpjdkbiekiblcjnfkmfnelpjnn"
     },
     {
+      "extension_id": "lgmdiagiphelkdikgjehjpmfaecgmmfl",
+      "name": "i\u202eTm\u202co\u202enek\u202c W\u202etella\u202c W\u202e3be\u202c",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-07",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lgmdiagiphelkdikgjehjpmfaecgmmfl"
+    },
+    {
       "extension_id": "fbmgcejhoneccecnplfllgkfgheoengm",
-      "name": "Buska Linkedin",
+      "name": "Buska LinkedIn",
       "source": "Store Monitoring",
       "insert_date": "2026-04-07",
       "chrome_store_url": "https://chromewebstore.google.com/detail/fbmgcejhoneccecnplfllgkfgheoengm"
     },
     {
       "extension_id": "kbhhacnmeeljkelinngfddddmgnpfagc",
-      "name": "Ai Writing Check",
+      "name": "AI Writing Check",
       "source": "Store Monitoring",
       "insert_date": "2026-04-07",
       "chrome_store_url": "https://chromewebstore.google.com/detail/kbhhacnmeeljkelinngfddddmgnpfagc"
     },
     {
       "extension_id": "mjhocphphjjjcabfdcaemfkokegeebbg",
-      "name": "Tiktok Leads",
+      "name": "TikTok Leads",
       "source": "Store Monitoring",
       "insert_date": "2026-04-07",
       "chrome_store_url": "https://chromewebstore.google.com/detail/mjhocphphjjjcabfdcaemfkokegeebbg"
     },
     {
       "extension_id": "cgnnmgjmhhmemkmdcckoofobpdejpjef",
-      "name": "Precision Linkedin Integr",
+      "name": "Precision LinkedIn Integration",
       "source": "Store Monitoring",
       "insert_date": "2026-04-07",
       "chrome_store_url": "https://chromewebstore.google.com/detail/cgnnmgjmhhmemkmdcckoofobpdejpjef"
     },
     {
       "extension_id": "cghdjcdmopohjlogglcbocjldjhjlddg",
-      "name": "Bizwik",
+      "name": "BizWik",
       "source": "Store Monitoring",
       "insert_date": "2026-04-07",
       "chrome_store_url": "https://chromewebstore.google.com/detail/cghdjcdmopohjlogglcbocjldjhjlddg"
@@ -55,13 +69,6 @@
       "source": "https://cyberinsider.com/author/alexlekander/",
       "insert_date": "2026-04-07",
       "chrome_store_url": "https://chromewebstore.google.com/detail/gogbiohkminacikoppmljeolgccpmlop"
-    },
-    {
-      "extension_id": "ejbieagijpeanlkmjlpdbincpoecfifo",
-      "name": "Zynapse",
-      "source": "Store Monitoring",
-      "insert_date": "2026-04-07",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/ejbieagijpeanlkmjlpdbincpoecfifo"
     },
     {
       "extension_id": "bgkijgmoikigljbbfokahemdnhilkkma",
@@ -76,34 +83,6 @@
       "source": "Store Monitoring",
       "insert_date": "2026-04-07",
       "chrome_store_url": "https://chromewebstore.google.com/detail/bogbhacoalfapopgbgfoencdpdkmdlpk"
-    },
-    {
-      "extension_id": "dfpbcakpogbfaohnnjlgghdjkgaoiaik",
-      "name": "Taplio X",
-      "source": "Store Monitoring",
-      "insert_date": "2026-04-07",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/dfpbcakpogbfaohnnjlgghdjkgaoiaik"
-    },
-    {
-      "extension_id": "cafbjepckpmnmlliiheacibehokblihc",
-      "name": "Navwise Prospect List Exp",
-      "source": "Store Monitoring",
-      "insert_date": "2026-04-07",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/cafbjepckpmnmlliiheacibehokblihc"
-    },
-    {
-      "extension_id": "bifmakhmlkpkfdinjhopnjggpgagolai",
-      "name": "Pipelinepilot",
-      "source": "Store Monitoring",
-      "insert_date": "2026-04-07",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/bifmakhmlkpkfdinjhopnjggpgagolai"
-    },
-    {
-      "extension_id": "aojfikafhpoabphhjdogjlkjflgbdmff",
-      "name": "Shrek",
-      "source": "Store Monitoring",
-      "insert_date": "2026-04-07",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/aojfikafhpoabphhjdogjlkjflgbdmff"
     },
     {
       "extension_id": "cahhjpmdnfhfkgldefihhcgkaalllbld",
@@ -127,11 +106,46 @@
       "chrome_store_url": "https://chromewebstore.google.com/detail/dlanpgfginllefahhibhbeanopbhbkkh"
     },
     {
+      "extension_id": "ejbieagijpeanlkmjlpdbincpoecfifo",
+      "name": "Zynapse",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-06",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ejbieagijpeanlkmjlpdbincpoecfifo"
+    },
+    {
+      "extension_id": "dfpbcakpogbfaohnnjlgghdjkgaoiaik",
+      "name": "Taplio X",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-06",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dfpbcakpogbfaohnnjlgghdjkgaoiaik"
+    },
+    {
       "extension_id": "ppmanlakcacopgdpnaaabcjknbeokojl",
       "name": "Quick News Summary",
       "source": "Store Monitoring",
       "insert_date": "2026-04-06",
       "chrome_store_url": "https://chromewebstore.google.com/detail/ppmanlakcacopgdpnaaabcjknbeokojl"
+    },
+    {
+      "extension_id": "cafbjepckpmnmlliiheacibehokblihc",
+      "name": "NavWise: Prospect List Exporter",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-06",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cafbjepckpmnmlliiheacibehokblihc"
+    },
+    {
+      "extension_id": "bifmakhmlkpkfdinjhopnjggpgagolai",
+      "name": "PipelinePILOT",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-06",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bifmakhmlkpkfdinjhopnjggpgagolai"
+    },
+    {
+      "extension_id": "aojfikafhpoabphhjdogjlkjflgbdmff",
+      "name": "Shrek",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-06",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/aojfikafhpoabphhjdogjlkjflgbdmff"
     },
     {
       "extension_id": "ecglifnnmnjlkemdjbhlofpemidafnin",
