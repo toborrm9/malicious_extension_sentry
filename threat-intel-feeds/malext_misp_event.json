@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-04-07",
-    "timestamp": "1775595480",
+    "date": "2026-04-08",
+    "timestamp": "1775636335",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,32 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "e952a747-f4ae-5fdf-b579-f13542f6e47c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cignjngpjdkbiekiblcjnfkmfnelpjnn",
+        "comment": "Totalblocker | Source: Store Monitoring | Added: 2026-04-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d381750d-cd0d-5e25-873f-4e046619a540",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cignjngpjdkbiekiblcjnfkmfnelpjnn",
+        "comment": "Chrome Web Store entry for Totalblocker (cignjngpjdkbiekiblcjnfkmfnelpjnn)",
+        "distribution": "5"
+      },
       {
         "uuid": "82f306a6-fa86-5e7a-ad32-ed2809023f47",
         "type": "text",
@@ -241,7 +267,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "bogbhacoalfapopgbgfoencdpdkmdlpk",
-        "comment": "\u5b99\u65afZeus\u56de\u56fd\u52a0\u901f\u5668 \u6d77\u5916\u534e\u4eba\u514d\u8d39\u56de\u56fd\u8ffd\u5267\u542c\u6b4c | Source: Store Monitoring | Added: 2026-04-07",
+        "comment": "\u5b99\u65afzeus\u56de\u56fd\u52a0\u901f\u5668 \u6d77\u5916\u534e\u4eba\u514d\u8d39\u56de\u56fd\u8ffd\u5267\u542c\u6b4c | Source: Store Monitoring | Added: 2026-04-07",
         "distribution": "5",
         "Tag": [
           {
@@ -258,7 +284,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/bogbhacoalfapopgbgfoencdpdkmdlpk",
-        "comment": "Chrome Web Store entry for \u5b99\u65afZeus\u56de\u56fd\u52a0\u901f\u5668 \u6d77\u5916\u534e\u4eba\u514d\u8d39\u56de\u56fd\u8ffd\u5267\u542c\u6b4c (bogbhacoalfapopgbgfoencdpdkmdlpk)",
+        "comment": "Chrome Web Store entry for \u5b99\u65afzeus\u56de\u56fd\u52a0\u901f\u5668 \u6d77\u5916\u534e\u4eba\u514d\u8d39\u56de\u56fd\u8ffd\u5267\u542c\u6b4c (bogbhacoalfapopgbgfoencdpdkmdlpk)",
         "distribution": "5"
       },
       {
