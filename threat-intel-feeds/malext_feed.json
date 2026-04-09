@@ -1,18 +1,53 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-04-08T22:33:05.587Z",
+  "generated": "2026-04-09T21:49:09.919Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1088,
+  "total_indicators": 1091,
   "indicators": [
+    {
+      "extension_id": "acojldicjlifbkkfaijnomogffamiadi",
+      "name": "Okto Generator",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-09",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/acojldicjlifbkkfaijnomogffamiadi"
+    },
+    {
+      "extension_id": "dmnhoegpldfpfmfoignpmapmbffgkalj",
+      "name": "Swiftnote",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-09",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dmnhoegpldfpfmfoignpmapmbffgkalj"
+    },
+    {
+      "extension_id": "mgbkajajjhgmhchoajmomhcdmlndkofc",
+      "name": "Brd Wallet Extension",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-09",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mgbkajajjhgmhchoajmomhcdmlndkofc"
+    },
     {
       "extension_id": "fefodpegbocmidnfphgggnjcicipaibk",
       "name": "Notepad Online",
       "source": "Store Monitoring",
       "insert_date": "2026-04-09",
       "chrome_store_url": "https://chromewebstore.google.com/detail/fefodpegbocmidnfphgggnjcicipaibk"
+    },
+    {
+      "extension_id": "fpeabamapgecnidibdmjoepaiehokgda",
+      "name": "Chrome Mcp Server Ai Brow",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-09",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fpeabamapgecnidibdmjoepaiehokgda"
+    },
+    {
+      "extension_id": "pgcmecpfgehfbogcaajjdnkpmmjgjjdp",
+      "name": "Mermaidman And Barnacle Boy Live Wallpaper",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-09",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pgcmecpfgehfbogcaajjdnkpmmjgjjdp"
     },
     {
       "extension_id": "cignjngpjdkbiekiblcjnfkmfnelpjnn",
@@ -1156,13 +1191,6 @@
       "chrome_store_url": "https://chromewebstore.google.com/detail/mjebfndkbogmggcbpacbedbcjccoamkk"
     },
     {
-      "extension_id": "fpeabamapgecnidibdmjoepaiehokgda",
-      "name": "Chrome MCP Server - AI Browser Control",
-      "source": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
-      "insert_date": "2026-03-09",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/fpeabamapgecnidibdmjoepaiehokgda"
-    },
-    {
       "extension_id": "iofmialeiddolmdlkbheakaefefkjokp",
       "name": "Palette Creator",
       "source": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
@@ -1476,13 +1504,6 @@
       "source": "Store Monitoring",
       "insert_date": "2026-03-01",
       "chrome_store_url": "https://chromewebstore.google.com/detail/gohlpddecngpmpoakfmnaegegjnapkla"
-    },
-    {
-      "extension_id": "pgcmecpfgehfbogcaajjdnkpmmjgjjdp",
-      "name": "Mermaidman and Barnacle Boy Live Wallpaper",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-01",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/pgcmecpfgehfbogcaajjdnkpmmjgjjdp"
     },
     {
       "extension_id": "phngohjapibeemmkofldldedlbbndbag",
