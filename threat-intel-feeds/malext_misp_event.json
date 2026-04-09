@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-04-08",
-    "timestamp": "1775687585",
+    "date": "2026-04-09",
+    "timestamp": "1775771350",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,84 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "295e206d-75f0-5470-a6d0-b1e9f33cbc08",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "acojldicjlifbkkfaijnomogffamiadi",
+        "comment": "Okto Generator | Source: Store Monitoring | Added: 2026-04-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7b355fd0-fb23-5ab9-bb19-a7201f69a610",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/acojldicjlifbkkfaijnomogffamiadi",
+        "comment": "Chrome Web Store entry for Okto Generator (acojldicjlifbkkfaijnomogffamiadi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e6c95782-b00d-5b6c-b4b0-0c65b2f7f804",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmnhoegpldfpfmfoignpmapmbffgkalj",
+        "comment": "Swiftnote | Source: Store Monitoring | Added: 2026-04-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "38f854ec-30b3-571a-9211-42f63468a1cb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dmnhoegpldfpfmfoignpmapmbffgkalj",
+        "comment": "Chrome Web Store entry for Swiftnote (dmnhoegpldfpfmfoignpmapmbffgkalj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "746c2353-b357-530c-85ff-1b759f7f44bb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mgbkajajjhgmhchoajmomhcdmlndkofc",
+        "comment": "Brd Wallet Extension | Source: Store Monitoring | Added: 2026-04-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a9542594-2f69-5334-9043-ff64217d9430",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mgbkajajjhgmhchoajmomhcdmlndkofc",
+        "comment": "Chrome Web Store entry for Brd Wallet Extension (mgbkajajjhgmhchoajmomhcdmlndkofc)",
+        "distribution": "5"
+      },
       {
         "uuid": "56441144-1e94-5931-99ad-bb33b9c1c065",
         "type": "text",
@@ -51,6 +129,58 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/fefodpegbocmidnfphgggnjcicipaibk",
         "comment": "Chrome Web Store entry for Notepad Online (fefodpegbocmidnfphgggnjcicipaibk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6147219f-a1da-5730-9110-4fe9d0de0225",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fpeabamapgecnidibdmjoepaiehokgda",
+        "comment": "Chrome Mcp Server Ai Brow | Source: Store Monitoring | Added: 2026-04-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b793aca5-cc54-5352-820f-6c0a47cf73df",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fpeabamapgecnidibdmjoepaiehokgda",
+        "comment": "Chrome Web Store entry for Chrome Mcp Server Ai Brow (fpeabamapgecnidibdmjoepaiehokgda)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4e729fb7-88e7-5512-9aa5-1db7a9f7bfe2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pgcmecpfgehfbogcaajjdnkpmmjgjjdp",
+        "comment": "Mermaidman And Barnacle Boy Live Wallpaper | Source: Store Monitoring | Added: 2026-04-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e82b3cfe-e1a2-5b46-849b-89cb11bd30f5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pgcmecpfgehfbogcaajjdnkpmmjgjjdp",
+        "comment": "Chrome Web Store entry for Mermaidman And Barnacle Boy Live Wallpaper (pgcmecpfgehfbogcaajjdnkpmmjgjjdp)",
         "distribution": "5"
       },
       {
@@ -4292,32 +4422,6 @@
         "distribution": "5"
       },
       {
-        "uuid": "6147219f-a1da-5730-9110-4fe9d0de0225",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "fpeabamapgecnidibdmjoepaiehokgda",
-        "comment": "Chrome MCP Server - AI Browser Control | Source: https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html | Added: 2026-03-09",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html\""
-          }
-        ]
-      },
-      {
-        "uuid": "b793aca5-cc54-5352-820f-6c0a47cf73df",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/fpeabamapgecnidibdmjoepaiehokgda",
-        "comment": "Chrome Web Store entry for Chrome MCP Server - AI Browser Control (fpeabamapgecnidibdmjoepaiehokgda)",
-        "distribution": "5"
-      },
-      {
         "uuid": "6b71e577-284e-553d-9317-7c8534dedb65",
         "type": "text",
         "category": "Other",
@@ -5485,32 +5589,6 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/gohlpddecngpmpoakfmnaegegjnapkla",
         "comment": "Chrome Web Store entry for SpongeBob live wallpapers (gohlpddecngpmpoakfmnaegegjnapkla)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "4e729fb7-88e7-5512-9aa5-1db7a9f7bfe2",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "pgcmecpfgehfbogcaajjdnkpmmjgjjdp",
-        "comment": "Mermaidman and Barnacle Boy Live Wallpaper | Source: Store Monitoring | Added: 2026-03-01",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          }
-        ]
-      },
-      {
-        "uuid": "e82b3cfe-e1a2-5b46-849b-89cb11bd30f5",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/pgcmecpfgehfbogcaajjdnkpmmjgjjdp",
-        "comment": "Chrome Web Store entry for Mermaidman and Barnacle Boy Live Wallpaper (pgcmecpfgehfbogcaajjdnkpmmjgjjdp)",
         "distribution": "5"
       },
       {
