@@ -1,9 +1,14 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--09-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1088-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1091-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| acojldicjlifbkkfaijnomogffamiadi | Okto Generator | Store Monitoring | 09/04/26 |
+| dmnhoegpldfpfmfoignpmapmbffgkalj | Swiftnote | Store Monitoring | 09/04/26 |
+| mgbkajajjhgmhchoajmomhcdmlndkofc | Brd Wallet Extension | Store Monitoring | 09/04/26 |
 | fefodpegbocmidnfphgggnjcicipaibk | Notepad Online | Store Monitoring | 09/04/26 |
+| fpeabamapgecnidibdmjoepaiehokgda | Chrome Mcp Server Ai Brow | Store Monitoring | 09/04/26 |
+| pgcmecpfgehfbogcaajjdnkpmmjgjjdp | Mermaidman And Barnacle Boy Live Wallpaper | Store Monitoring | 09/04/26 |
 | cignjngpjdkbiekiblcjnfkmfnelpjnn | TotalBlocker | Store Monitoring | 08/04/26 |
 | lgmdiagiphelkdikgjehjpmfaecgmmfl | i‮Tm‬o‮nek‬ W‮tella‬ W‮3be‬ | Store Monitoring | 07/04/26 |
 | fbmgcejhoneccecnplfllgkfgheoengm | Buska LinkedIn | Store Monitoring | 07/04/26 |
@@ -167,7 +172,6 @@
 | mmfmakmndejojblgceefkpinojhiacfk | Brave web browser | Store Monitoring | 11/03/26 |
 | ohalkmdcakplbfpelgmnegcbdkfigolo | 豆包，数学公式导出Word | Store Monitoring | 10/03/26 |
 | mjebfndkbogmggcbpacbedbcjccoamkk | Extreme Dream Head Soccer | Store Monitoring | 10/03/26 |
-| fpeabamapgecnidibdmjoepaiehokgda | Chrome MCP Server - AI Browser Control | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
 | iofmialeiddolmdlkbheakaefefkjokp | Palette Creator | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 |
 | aibfeemadfncnhephomomdicckopkgoe | Gemini AI Assistant | Store Monitoring | 09/03/26 |
 | dcmpoiccnjppenlhbhhbbkacebmoegoc | NeoNFSe - Download de NFS-e automatizado | Store Monitoring | 09/03/26 |
@@ -213,7 +217,6 @@
 | kpnpeomoodgjlpdaopnapgdiigdkkgim | Gitlab MR shortcuts | Store Monitoring | 02/03/26 |
 | nieoenlddbbedidmgbapeockjjagapjl | Gangster SpongeBob and Patrick to Chrome with Live Wallpaper | Store Monitoring | 01/03/26 |
 | gohlpddecngpmpoakfmnaegegjnapkla | SpongeBob live wallpapers | Store Monitoring | 01/03/26 |
-| pgcmecpfgehfbogcaajjdnkpmmjgjjdp | Mermaidman and Barnacle Boy Live Wallpaper | Store Monitoring | 01/03/26 |
 | phngohjapibeemmkofldldedlbbndbag | Image 2 Text by EERIE | Store Monitoring | 01/03/26 |
 | gkoaehhpdkfkjgjbnlahcneebidamclf | Multi Wallet | Store Monitoring | 28/02/26 |
 | kdenlnncndfnhkognokgfpabgkgehodd | QuickLens - Search Screen with Google Lens | [www.bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/?utm_source=dlvr.it&utm_medium=linkedin) | 28/02/26 |
