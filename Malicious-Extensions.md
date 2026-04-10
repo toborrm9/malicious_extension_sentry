@@ -1,8 +1,19 @@
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--10-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-1091-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-1102-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| pkkmmmmckhencoamaonbiidanpnhikbc | Brick Falling Blocks | Store Monitoring | 10/04/26 |
+| bobmbfaebhleonnhmcmflajfgnbfokpg | Free Tetris Online Game P | Store Monitoring | 10/04/26 |
+| jfaijficgmogbfdkiihojhjfildgppdf | Flash Tetris Game🏆 | Store Monitoring | 10/04/26 |
+| dipempdapljcdgpmaaoopamccjnconki | Winter Tetris | Store Monitoring | 10/04/26 |
+| efiandhebakfkcgmfjfhemaachelolll | Indian Visa Autofill Free | Store Monitoring | 10/04/26 |
+| ljpfokmdomkbjmnplfigpjefemkcigca | Qr Tetris Screensaver | Store Monitoring | 10/04/26 |
+| kfemlcmefehdnnnfjplhckdndgaglnhc | Trixel Tetris Falling Blo | Store Monitoring | 10/04/26 |
+| jpdhdeabikbmklmacididiaifpcploif | Tetrastack Tetris Style B | Store Monitoring | 10/04/26 |
+| kmjdfdcmhacinpgipgoplfagelaccakl | Youtube View Bot | Store Monitoring | 10/04/26 |
+| fmnadcdniomhekonddamdlciknhnnjfl | Jegtris Free Classic Tetr | Store Monitoring | 10/04/26 |
+| klnndcfpflikaeipgimmbhjhhhcegpoi | Linkedin Queens Puzzle So | Store Monitoring | 10/04/26 |
 | acojldicjlifbkkfaijnomogffamiadi | Okto Generator | Store Monitoring | 09/04/26 |
 | dmnhoegpldfpfmfoignpmapmbffgkalj | Swiftnote | Store Monitoring | 09/04/26 |
 | mgbkajajjhgmhchoajmomhcdmlndkofc | Brd Wallet Extension | Store Monitoring | 09/04/26 |
