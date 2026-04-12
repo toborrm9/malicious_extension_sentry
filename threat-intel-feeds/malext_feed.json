@@ -1,12 +1,33 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-04-10T16:33:47.287Z",
+  "generated": "2026-04-12T16:43:02.391Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1102,
+  "total_indicators": 1105,
   "indicators": [
+    {
+      "extension_id": "nlompoojekdpdjnjledbbahkdhdhjlae",
+      "name": "Claude Chat Search Assist",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-12",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nlompoojekdpdjnjledbbahkdhdhjlae"
+    },
+    {
+      "extension_id": "hnadleianomnjcoeplifgbkiejchjmah",
+      "name": "Search Everywhere With Go",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-11",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hnadleianomnjcoeplifgbkiejchjmah"
+    },
+    {
+      "extension_id": "icgdnaedamjhnmnomlhkifmkjkijnibb",
+      "name": "Replymind",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-11",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/icgdnaedamjhnmnomlhkifmkjkijnibb"
+    },
     {
       "extension_id": "pkkmmmmckhencoamaonbiidanpnhikbc",
       "name": "Brick Falling Blocks",
