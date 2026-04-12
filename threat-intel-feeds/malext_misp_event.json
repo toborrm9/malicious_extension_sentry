@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-04-10",
-    "timestamp": "1775838827",
+    "date": "2026-04-12",
+    "timestamp": "1776012182",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,84 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "4f2119bf-9314-54e6-b87f-74fb201609ac",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nlompoojekdpdjnjledbbahkdhdhjlae",
+        "comment": "Claude Chat Search Assist | Source: Store Monitoring | Added: 2026-04-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ec45a7de-c03e-5529-a93a-37612a1112a2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nlompoojekdpdjnjledbbahkdhdhjlae",
+        "comment": "Chrome Web Store entry for Claude Chat Search Assist (nlompoojekdpdjnjledbbahkdhdhjlae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "95398d27-b6e2-54bd-b706-7293e967e7d7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hnadleianomnjcoeplifgbkiejchjmah",
+        "comment": "Search Everywhere With Go | Source: Store Monitoring | Added: 2026-04-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a8b11b2d-4937-5e37-a0f7-d56acf90d483",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hnadleianomnjcoeplifgbkiejchjmah",
+        "comment": "Chrome Web Store entry for Search Everywhere With Go (hnadleianomnjcoeplifgbkiejchjmah)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cac01f82-b35e-5941-a21f-7a2f14e7d129",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "icgdnaedamjhnmnomlhkifmkjkijnibb",
+        "comment": "Replymind | Source: Store Monitoring | Added: 2026-04-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0da7a40b-c8e7-57e4-826b-d9c8e7fa66b6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/icgdnaedamjhnmnomlhkifmkjkijnibb",
+        "comment": "Chrome Web Store entry for Replymind (icgdnaedamjhnmnomlhkifmkjkijnibb)",
+        "distribution": "5"
+      },
       {
         "uuid": "742bc732-3963-528d-adb9-62295397c9aa",
         "type": "text",
