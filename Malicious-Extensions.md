@@ -1,5 +1,109 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| cbnekafldflkmngbgmbnfmchjaelnhem | Game Skyspeedster | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| clpgopiimdjcilllcjncdkoeikkkcfbi | ﻿billiards Pro | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| jodocbbdcdclkhjkibnlfhbmllcpfkfo | ﻿﻿slot Machine The Fruits | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| phfkdailnomcbcknpdmokejhellbecjb | ﻿swimming Pro | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| akkkopcadaalekbdgpdikhdablkgjagd | ﻿﻿slot Arabian | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| gbaoddbbpompjhmilbgiaapkkakldlpc | Dice King – Classic Craps | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| klglejfbdeipgklgaepnodpjcnhaihkd | ﻿﻿Premium Horse Racing | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| akebbllmckjphjiojeioooidhnddnplj | ﻿formula Rush Racing Game | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| mmecpiobcdbjkaijljohghhpfgngpjmk | Youside Youtube Sidebar | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| fibgndhgobbaaekmnneapojgkcehaeac | Tarot Side Panel | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| hmlnefhgicedcmebmkjdcogieefbaagl | Video Poker Deuces Wild | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| odeccdcabdffpebnfancpkepjeecempn | ﻿﻿slot Machine Mr Chicken | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| eljfpgehlncincemdmmnebmnlcmfamhm | Asia Slot | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ijfmkphjcogaealhjgijjfjlkpdhhojk | ﻿﻿goalkeeper Challenge | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| lfkknbmaifjomagejflmjklcmpadmmdg | Aqua Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| lmcpbhamfpbonaenickjclacodolkbdl | Sherwood Forest Slot Mach | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| lcijkepobdokkgmefebkiejhealgblle | Caribbean Stud Poker | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| dbohcpohlgnhgjmfkakoniiplglpfhcb | Bingo | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| flkdjodmoefccepdihipjdlianmkmhgc | Best Blackjack | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| kmiidcaojgeepjlccoalkdimgpfnbagj | Tanks Game | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ijpgccpmogehkjhdmomckpkfcpbjlmnj | Tropical Beach Slot Machi | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| hbobdcfpgonejphpemijgjddanoipbkj | ﻿Flicking Soccer | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| alkfljfjkpiccfgbeocbbjjladigcleg | ﻿﻿Frogtastic | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| nelbpdjegmhhgpfcjclhdmkcglimkjpp | Rail Maze Puzzle | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| gbhhgipmedccnankkjchgcidiigmioio | ﻿Slot Ramses | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| bbjdlbemjklojnbifkgameepcafflmem | ﻿Crazy Freekick | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ojkbafekojdcedacileemekjdfdpkbkf | ﻿﻿Slot Machine Space Adve | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| pllkanemicadpcmkfodglahcocfdgkhj | Gold Of Egypt Slot Machin | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| cpnfioldnmhaihohppoaebillnambcgn | ﻿rugby Rush | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| hiofkndodabpioiheinoiojjobadpgmj | ﻿﻿Master Checkers | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| oanpifaoclmgmflmddlgkikfaggejobn | Pyramid Solitaire | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| kblomapfkjidbbbdllmofkcakcenkmec | ﻿mini Golf World | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| kjnakdbpijigdbfepipnbafnhbcfdkga | 40 Imperial Crown Slot Ma | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| medkneifmjcpgmmibfppjpfjbkgbgebl | Hidden Kitty Game | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| glofhphmolanicdaddgkmhfmjidjkaem | Greyhound Racing – Dog Ra | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| nkacmelgoeejhjgmmgflbcdhonpaplcg | Red Dog Card Game | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| kahcolfecjbejjjadhjafmihdnifonjf | Baccarat | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| dcamdpfclondppklabgkfaofjccpioil | ﻿web Client For Game Cric | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ldmnhdllijbchflpbmnlgndfnlgmkgif | Page Locker | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| jddinhnhplibccfmniaakhffpjpnaglp | ﻿web Client For Game Clas | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| bdnanfggeppmkfhkgmpojkhanoplkacc | Slot Car Racing | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| hlmdnedepbbihmbddepemmbkenbnoegd | ﻿﻿Car Rush | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| kknakidneabpfgepadgpkibalcnabnnh | ﻿3D Soccer Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| cmlbghnlnbjkdgfjlegkbjmadpbmlgjb | Donuts Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| nodobilhjanebkafmpihkpoabiggnnfl | Black Ninja Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| nbgligggjfgkpphhghhjdoiefbimgooc | Pai Gow Poker | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ndajcmifndknmkckdcdefkpgcodciggk | Farm Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| dlpiookhionidajbiopmaajeckifeehn | Horse Racing | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| mdcfennpfgkngnibjbpnpaafcjnhcjno | Web Client For Telegram T | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| hkbihmjhjmehlocilifheeaeiljabenb | ﻿﻿Watercraft Rush | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| akifdnfipbeoonhoeabdicnlcdhghmpn | Piggy Prizes Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| cdpiopekjeonfjeocbfebemgocjciepp | ﻿﻿Master Chess | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| bpljfbcejldmgeoodnogeefaihjdgbam | Speed Test For Chrome Wif | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| kbmindomjiejdikjaagfdbdfpnlanobi | Gold Rush Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| haochenfmhglpholokliifmlpafilfdc | Hercules Sports Legend | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| mmbkmjmlnhocfcnjmbchmflamalekbnb | ﻿﻿penalty Kicks | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| nmegibgeklckejdlfhoadhhbgcdjnojb | Coin Miner 2 | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| pkghgkfjhjghinikeanecbgjehojfhdg | ﻿Interalt | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| kbnkkecifeppobnemkielnpagifkobki | Pirat Slot | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| lnajjhohknhgemncbaomjjjpmpdigedg | Page Auto Refresh | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| gfhcdakcnpahfdealajmhcapnhhablbp | Battleship War | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| maeccdadgnadblfddcmanhpofobhgfme | Lone Star Jackpots Slot M | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| dohenclhhdfljpjlnpjnephpccbdgmmb | Straight 4 | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ljbgkfbiifhpgpipepnfefijldolkhlm | Game Crypto Merge | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| heljkmdknlfhiecpknceodpbokeipigo | Web Client For Hockey Sho | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| imjmnghlhiimodfkdkgnfplhlobehnpm | ﻿﻿Blackjack 3D | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| hdmppejcahhppjhkncagagopecddokpi | Voodoo Magic Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ogbaedmbbmmipljceodeimlckohbnfan | 3D Roulette Casino Game | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| fddajeklkkggbnppabbhkdmnkdjindlo | ﻿street Basketball | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ejlcbfmhjbkgohopdkijfgggbikgbacb | American Roulette Royale | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| mmbbjakjlpmndjlbhihlddgcdppblpka | Jokers Bonanza Slot Machi | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| bnchgibgpgmlickioneccggfobljmhjc | Galactica Delux Slot Mach | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| hnpbijogiiaegambgpaenjbcbgaeimlf | ﻿Slot Machine Ultimate So | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| lmgenhmehbcolpikplhkoelmagdhoojn | ﻿web Client For Game Fatb | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| cljengcehefhflhoahaambmkknjekjib | Odds Of The Gods Slot Mac | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| cehdkmmfadpplgchnbjgdngdcjmhlfcc | ﻿Hockey Shootout | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| oejhnncfanbaogjlbknmlgjpleachclf | Web Client For French Rou | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| cnibdhllkgidlgmaoanhkemjeklneolk | Archer Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| obifanppcpchlehkjipahhphbcbjekfa | Telegram Multi Account | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| dljlpildgknddpnahppkihgodokfjbnd | ﻿﻿Slot Machine Zeus Treas | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ihbkmfoadnfjgkpdmgcboiehapkiflme | Columbus Voyage Slot Mach | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| dmaibhbbpmdihedidicfeigilkbobcog | Aztec Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| amnaljnjmgajgajelnplfmidgjgbjfhe | ﻿Mahjong Deluxe | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| bfoofgelpmalhcmedaaeogahlmbkopfd | ﻿web Client For Youtube S | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| fjfhejmbhpabkacpoddjbcfandjoacmb | Dragon Slayer Slot Machin | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| dpdemambcedffmnkfmkephnhhnclmcio | ﻿﻿slot The Gold Pot | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| aecccajigpipkpioaidignbgbeekglkd | Web Client For Rugby Rush | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ijccacgjefefdpglhclnbpfjlcbagafm | ﻿﻿high Or Low Casino Game | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ncpdkpcgmdhhnmcjgiiifdhefmekdcnf | ﻿metal Calculator | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| alllblhkgghelnejlggmmgjbkdabidie | Black Beard Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| jnmmbmkmbkcccpihjgnhjmhhkokfdnfe | Classic Backgammon | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| gipmochingljoikdjakkdolfcbphmlom | Gold Miner 2 | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| amkkjdjjgiiamenbopfpdmjcleecjjgg | Indian Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| enmmilgindjmffoljaojkcgloakmloen | ﻿Web Client For Game Driv | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| gaafhblhbnkekenogcjniofhbicchlke | Snake Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| eoklnfefipnjfeknpmigmogeeepddcch | Jurassic Giants Slot Mach | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| jmopjanoebpdbopigcbpjhiigmjolikk | Raging Zeus Mines | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| fmajpchoiahphjiligpmghnhmabolhoh | Book Of Magic Slot Machin | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ocflhkadmmnlbieoiiekfcdcmjcfeahe | Chrome Client For Downhil | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| bgdkbjcdecedfoejdfgeafdodjgfohno | Clear Cache Plus | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| pdgaknahllnfldmclpcllpieafkaibmf | ﻿﻿whack Em All | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| cmeoegkmpbpcoabhlklbamfeidebgmdf | Three Card Poker | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| peflgkmfmoijonfgcjdlpnnfdegnlaji | ﻿video Poker Jacks Or Bet | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| ibelidmkbnjmmpjgfibbdbkamgcbnjdm | Christmas Eve Slot Machin | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
 | hapemhaolkielighkknclgncbaocnclc | Extrato Smiles Em Csv | Policy Violation | Store Monitoring | 13/04/26 |
 | golbngjhpfdobdopaebpdofbmhghfkpm | Urban Dictionary Now | Policy Violation | Store Monitoring | 13/04/26 |
 | bkpgbmjmifkbonccfmpejokfndolikcj | Highperformr Ai Phone Num | Policy Violation | Store Monitoring | 13/04/26 |
@@ -845,7 +949,7 @@
 | nmkpckdpiikfoenhfaognmajhpgpoobg | Animal Crossing Cursor | In store but not whitelisted | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 |
 | ngiaafjblpmiejfgcnfcolhdccmaafjg | Basketball Cursor | In store but Suspicious | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 |
 | lmjocpjbilfamkogfpbecdhefcjffbhb | Soccer Cursor | In store but not whitelisted | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 |
-| lalcmboamkljbdlgjfockddndpfoiojc | One | In store but not whitelisted | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 |
+| lalcmboamkljbdlgjfockddndpfoiojc | One-Punch Man Cursor - Custom Anime Cursor for Chrome | In store but not whitelisted | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 |
 | kkchefmfekacdingcjkgiaggdafolhen | Minecraft Cursor for Chrome | In store but Suspicious | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 |
 | kdnnogfmhpppncphlnecbdhoggpmbkci | Squid Game Cursor | In store but Suspicious | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 |
 | ijccagageaijbfaefkflkepnglppdlnn | Hunter x Hunter Cursor | In store but Suspicious | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 |
