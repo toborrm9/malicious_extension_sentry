@@ -1,12 +1,1384 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-04-12T16:43:02.391Z",
+  "generated": "2026-04-13T23:16:17.571Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1105,
+  "total_indicators": 1269,
   "indicators": [
+    {
+      "extension_id": "cbnekafldflkmngbgmbnfmchjaelnhem",
+      "name": "Game Skyspeedster",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cbnekafldflkmngbgmbnfmchjaelnhem"
+    },
+    {
+      "extension_id": "clpgopiimdjcilllcjncdkoeikkkcfbi",
+      "name": "\ufeffbilliards Pro",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/clpgopiimdjcilllcjncdkoeikkkcfbi"
+    },
+    {
+      "extension_id": "jodocbbdcdclkhjkibnlfhbmllcpfkfo",
+      "name": "\ufeff\ufeffslot Machine The Fruits",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jodocbbdcdclkhjkibnlfhbmllcpfkfo"
+    },
+    {
+      "extension_id": "phfkdailnomcbcknpdmokejhellbecjb",
+      "name": "\ufeffswimming Pro",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/phfkdailnomcbcknpdmokejhellbecjb"
+    },
+    {
+      "extension_id": "akkkopcadaalekbdgpdikhdablkgjagd",
+      "name": "\ufeff\ufeffslot Arabian",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/akkkopcadaalekbdgpdikhdablkgjagd"
+    },
+    {
+      "extension_id": "gbaoddbbpompjhmilbgiaapkkakldlpc",
+      "name": "Dice King \u2013 Classic Craps",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gbaoddbbpompjhmilbgiaapkkakldlpc"
+    },
+    {
+      "extension_id": "klglejfbdeipgklgaepnodpjcnhaihkd",
+      "name": "\ufeff\ufeffPremium Horse Racing",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/klglejfbdeipgklgaepnodpjcnhaihkd"
+    },
+    {
+      "extension_id": "akebbllmckjphjiojeioooidhnddnplj",
+      "name": "\ufeffformula Rush Racing Game",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/akebbllmckjphjiojeioooidhnddnplj"
+    },
+    {
+      "extension_id": "mmecpiobcdbjkaijljohghhpfgngpjmk",
+      "name": "Youside Youtube Sidebar",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mmecpiobcdbjkaijljohghhpfgngpjmk"
+    },
+    {
+      "extension_id": "fibgndhgobbaaekmnneapojgkcehaeac",
+      "name": "Tarot Side Panel",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fibgndhgobbaaekmnneapojgkcehaeac"
+    },
+    {
+      "extension_id": "hmlnefhgicedcmebmkjdcogieefbaagl",
+      "name": "Video Poker Deuces Wild",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hmlnefhgicedcmebmkjdcogieefbaagl"
+    },
+    {
+      "extension_id": "odeccdcabdffpebnfancpkepjeecempn",
+      "name": "\ufeff\ufeffslot Machine Mr Chicken",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/odeccdcabdffpebnfancpkepjeecempn"
+    },
+    {
+      "extension_id": "eljfpgehlncincemdmmnebmnlcmfamhm",
+      "name": "Asia Slot",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eljfpgehlncincemdmmnebmnlcmfamhm"
+    },
+    {
+      "extension_id": "ijfmkphjcogaealhjgijjfjlkpdhhojk",
+      "name": "\ufeff\ufeffgoalkeeper Challenge",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ijfmkphjcogaealhjgijjfjlkpdhhojk"
+    },
+    {
+      "extension_id": "lfkknbmaifjomagejflmjklcmpadmmdg",
+      "name": "Aqua Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lfkknbmaifjomagejflmjklcmpadmmdg"
+    },
+    {
+      "extension_id": "lmcpbhamfpbonaenickjclacodolkbdl",
+      "name": "Sherwood Forest Slot Mach",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lmcpbhamfpbonaenickjclacodolkbdl"
+    },
+    {
+      "extension_id": "lcijkepobdokkgmefebkiejhealgblle",
+      "name": "Caribbean Stud Poker",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lcijkepobdokkgmefebkiejhealgblle"
+    },
+    {
+      "extension_id": "dbohcpohlgnhgjmfkakoniiplglpfhcb",
+      "name": "Bingo",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dbohcpohlgnhgjmfkakoniiplglpfhcb"
+    },
+    {
+      "extension_id": "flkdjodmoefccepdihipjdlianmkmhgc",
+      "name": "Best Blackjack",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/flkdjodmoefccepdihipjdlianmkmhgc"
+    },
+    {
+      "extension_id": "kmiidcaojgeepjlccoalkdimgpfnbagj",
+      "name": "Tanks Game",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kmiidcaojgeepjlccoalkdimgpfnbagj"
+    },
+    {
+      "extension_id": "ijpgccpmogehkjhdmomckpkfcpbjlmnj",
+      "name": "Tropical Beach Slot Machi",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ijpgccpmogehkjhdmomckpkfcpbjlmnj"
+    },
+    {
+      "extension_id": "hbobdcfpgonejphpemijgjddanoipbkj",
+      "name": "\ufeffFlicking Soccer",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hbobdcfpgonejphpemijgjddanoipbkj"
+    },
+    {
+      "extension_id": "alkfljfjkpiccfgbeocbbjjladigcleg",
+      "name": "\ufeff\ufeffFrogtastic",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/alkfljfjkpiccfgbeocbbjjladigcleg"
+    },
+    {
+      "extension_id": "nelbpdjegmhhgpfcjclhdmkcglimkjpp",
+      "name": "Rail Maze Puzzle",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nelbpdjegmhhgpfcjclhdmkcglimkjpp"
+    },
+    {
+      "extension_id": "gbhhgipmedccnankkjchgcidiigmioio",
+      "name": "\ufeffSlot Ramses",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gbhhgipmedccnankkjchgcidiigmioio"
+    },
+    {
+      "extension_id": "bbjdlbemjklojnbifkgameepcafflmem",
+      "name": "\ufeffCrazy Freekick",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bbjdlbemjklojnbifkgameepcafflmem"
+    },
+    {
+      "extension_id": "ojkbafekojdcedacileemekjdfdpkbkf",
+      "name": "\ufeff\ufeffSlot Machine Space Adve",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ojkbafekojdcedacileemekjdfdpkbkf"
+    },
+    {
+      "extension_id": "pllkanemicadpcmkfodglahcocfdgkhj",
+      "name": "Gold Of Egypt Slot Machin",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pllkanemicadpcmkfodglahcocfdgkhj"
+    },
+    {
+      "extension_id": "cpnfioldnmhaihohppoaebillnambcgn",
+      "name": "\ufeffrugby Rush",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cpnfioldnmhaihohppoaebillnambcgn"
+    },
+    {
+      "extension_id": "hiofkndodabpioiheinoiojjobadpgmj",
+      "name": "\ufeff\ufeffMaster Checkers",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hiofkndodabpioiheinoiojjobadpgmj"
+    },
+    {
+      "extension_id": "oanpifaoclmgmflmddlgkikfaggejobn",
+      "name": "Pyramid Solitaire",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/oanpifaoclmgmflmddlgkikfaggejobn"
+    },
+    {
+      "extension_id": "kblomapfkjidbbbdllmofkcakcenkmec",
+      "name": "\ufeffmini Golf World",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kblomapfkjidbbbdllmofkcakcenkmec"
+    },
+    {
+      "extension_id": "kjnakdbpijigdbfepipnbafnhbcfdkga",
+      "name": "40 Imperial Crown Slot Ma",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kjnakdbpijigdbfepipnbafnhbcfdkga"
+    },
+    {
+      "extension_id": "medkneifmjcpgmmibfppjpfjbkgbgebl",
+      "name": "Hidden Kitty Game",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/medkneifmjcpgmmibfppjpfjbkgbgebl"
+    },
+    {
+      "extension_id": "glofhphmolanicdaddgkmhfmjidjkaem",
+      "name": "Greyhound Racing \u2013 Dog Ra",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/glofhphmolanicdaddgkmhfmjidjkaem"
+    },
+    {
+      "extension_id": "nkacmelgoeejhjgmmgflbcdhonpaplcg",
+      "name": "Red Dog Card Game",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nkacmelgoeejhjgmmgflbcdhonpaplcg"
+    },
+    {
+      "extension_id": "kahcolfecjbejjjadhjafmihdnifonjf",
+      "name": "Baccarat",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kahcolfecjbejjjadhjafmihdnifonjf"
+    },
+    {
+      "extension_id": "dcamdpfclondppklabgkfaofjccpioil",
+      "name": "\ufeffweb Client For Game Cric",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dcamdpfclondppklabgkfaofjccpioil"
+    },
+    {
+      "extension_id": "ldmnhdllijbchflpbmnlgndfnlgmkgif",
+      "name": "Page Locker",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ldmnhdllijbchflpbmnlgndfnlgmkgif"
+    },
+    {
+      "extension_id": "jddinhnhplibccfmniaakhffpjpnaglp",
+      "name": "\ufeffweb Client For Game Clas",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jddinhnhplibccfmniaakhffpjpnaglp"
+    },
+    {
+      "extension_id": "bdnanfggeppmkfhkgmpojkhanoplkacc",
+      "name": "Slot Car Racing",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bdnanfggeppmkfhkgmpojkhanoplkacc"
+    },
+    {
+      "extension_id": "hlmdnedepbbihmbddepemmbkenbnoegd",
+      "name": "\ufeff\ufeffCar Rush",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hlmdnedepbbihmbddepemmbkenbnoegd"
+    },
+    {
+      "extension_id": "kknakidneabpfgepadgpkibalcnabnnh",
+      "name": "\ufeff3D Soccer Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kknakidneabpfgepadgpkibalcnabnnh"
+    },
+    {
+      "extension_id": "cmlbghnlnbjkdgfjlegkbjmadpbmlgjb",
+      "name": "Donuts Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cmlbghnlnbjkdgfjlegkbjmadpbmlgjb"
+    },
+    {
+      "extension_id": "nodobilhjanebkafmpihkpoabiggnnfl",
+      "name": "Black Ninja Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nodobilhjanebkafmpihkpoabiggnnfl"
+    },
+    {
+      "extension_id": "nbgligggjfgkpphhghhjdoiefbimgooc",
+      "name": "Pai Gow Poker",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nbgligggjfgkpphhghhjdoiefbimgooc"
+    },
+    {
+      "extension_id": "ndajcmifndknmkckdcdefkpgcodciggk",
+      "name": "Farm Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ndajcmifndknmkckdcdefkpgcodciggk"
+    },
+    {
+      "extension_id": "dlpiookhionidajbiopmaajeckifeehn",
+      "name": "Horse Racing",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dlpiookhionidajbiopmaajeckifeehn"
+    },
+    {
+      "extension_id": "mdcfennpfgkngnibjbpnpaafcjnhcjno",
+      "name": "Web Client For Telegram T",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mdcfennpfgkngnibjbpnpaafcjnhcjno"
+    },
+    {
+      "extension_id": "hkbihmjhjmehlocilifheeaeiljabenb",
+      "name": "\ufeff\ufeffWatercraft Rush",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hkbihmjhjmehlocilifheeaeiljabenb"
+    },
+    {
+      "extension_id": "akifdnfipbeoonhoeabdicnlcdhghmpn",
+      "name": "Piggy Prizes Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/akifdnfipbeoonhoeabdicnlcdhghmpn"
+    },
+    {
+      "extension_id": "cdpiopekjeonfjeocbfebemgocjciepp",
+      "name": "\ufeff\ufeffMaster Chess",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cdpiopekjeonfjeocbfebemgocjciepp"
+    },
+    {
+      "extension_id": "bpljfbcejldmgeoodnogeefaihjdgbam",
+      "name": "Speed Test For Chrome Wif",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bpljfbcejldmgeoodnogeefaihjdgbam"
+    },
+    {
+      "extension_id": "kbmindomjiejdikjaagfdbdfpnlanobi",
+      "name": "Gold Rush Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kbmindomjiejdikjaagfdbdfpnlanobi"
+    },
+    {
+      "extension_id": "haochenfmhglpholokliifmlpafilfdc",
+      "name": "Hercules Sports Legend",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/haochenfmhglpholokliifmlpafilfdc"
+    },
+    {
+      "extension_id": "mmbkmjmlnhocfcnjmbchmflamalekbnb",
+      "name": "\ufeff\ufeffpenalty Kicks",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mmbkmjmlnhocfcnjmbchmflamalekbnb"
+    },
+    {
+      "extension_id": "nmegibgeklckejdlfhoadhhbgcdjnojb",
+      "name": "Coin Miner 2",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nmegibgeklckejdlfhoadhhbgcdjnojb"
+    },
+    {
+      "extension_id": "pkghgkfjhjghinikeanecbgjehojfhdg",
+      "name": "\ufeffInteralt",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pkghgkfjhjghinikeanecbgjehojfhdg"
+    },
+    {
+      "extension_id": "kbnkkecifeppobnemkielnpagifkobki",
+      "name": "Pirat Slot",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kbnkkecifeppobnemkielnpagifkobki"
+    },
+    {
+      "extension_id": "lnajjhohknhgemncbaomjjjpmpdigedg",
+      "name": "Page Auto Refresh",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lnajjhohknhgemncbaomjjjpmpdigedg"
+    },
+    {
+      "extension_id": "gfhcdakcnpahfdealajmhcapnhhablbp",
+      "name": "Battleship War",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gfhcdakcnpahfdealajmhcapnhhablbp"
+    },
+    {
+      "extension_id": "maeccdadgnadblfddcmanhpofobhgfme",
+      "name": "Lone Star Jackpots Slot M",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/maeccdadgnadblfddcmanhpofobhgfme"
+    },
+    {
+      "extension_id": "dohenclhhdfljpjlnpjnephpccbdgmmb",
+      "name": "Straight 4",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dohenclhhdfljpjlnpjnephpccbdgmmb"
+    },
+    {
+      "extension_id": "ljbgkfbiifhpgpipepnfefijldolkhlm",
+      "name": "Game Crypto Merge",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ljbgkfbiifhpgpipepnfefijldolkhlm"
+    },
+    {
+      "extension_id": "heljkmdknlfhiecpknceodpbokeipigo",
+      "name": "Web Client For Hockey Sho",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/heljkmdknlfhiecpknceodpbokeipigo"
+    },
+    {
+      "extension_id": "imjmnghlhiimodfkdkgnfplhlobehnpm",
+      "name": "\ufeff\ufeffBlackjack 3D",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/imjmnghlhiimodfkdkgnfplhlobehnpm"
+    },
+    {
+      "extension_id": "hdmppejcahhppjhkncagagopecddokpi",
+      "name": "Voodoo Magic Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hdmppejcahhppjhkncagagopecddokpi"
+    },
+    {
+      "extension_id": "ogbaedmbbmmipljceodeimlckohbnfan",
+      "name": "3D Roulette Casino Game",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ogbaedmbbmmipljceodeimlckohbnfan"
+    },
+    {
+      "extension_id": "fddajeklkkggbnppabbhkdmnkdjindlo",
+      "name": "\ufeffstreet Basketball",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fddajeklkkggbnppabbhkdmnkdjindlo"
+    },
+    {
+      "extension_id": "ejlcbfmhjbkgohopdkijfgggbikgbacb",
+      "name": "American Roulette Royale",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ejlcbfmhjbkgohopdkijfgggbikgbacb"
+    },
+    {
+      "extension_id": "mmbbjakjlpmndjlbhihlddgcdppblpka",
+      "name": "Jokers Bonanza Slot Machi",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mmbbjakjlpmndjlbhihlddgcdppblpka"
+    },
+    {
+      "extension_id": "bnchgibgpgmlickioneccggfobljmhjc",
+      "name": "Galactica Delux Slot Mach",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bnchgibgpgmlickioneccggfobljmhjc"
+    },
+    {
+      "extension_id": "hnpbijogiiaegambgpaenjbcbgaeimlf",
+      "name": "\ufeffSlot Machine Ultimate So",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hnpbijogiiaegambgpaenjbcbgaeimlf"
+    },
+    {
+      "extension_id": "lmgenhmehbcolpikplhkoelmagdhoojn",
+      "name": "\ufeffweb Client For Game Fatb",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lmgenhmehbcolpikplhkoelmagdhoojn"
+    },
+    {
+      "extension_id": "cljengcehefhflhoahaambmkknjekjib",
+      "name": "Odds Of The Gods Slot Mac",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cljengcehefhflhoahaambmkknjekjib"
+    },
+    {
+      "extension_id": "cehdkmmfadpplgchnbjgdngdcjmhlfcc",
+      "name": "\ufeffHockey Shootout",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cehdkmmfadpplgchnbjgdngdcjmhlfcc"
+    },
+    {
+      "extension_id": "oejhnncfanbaogjlbknmlgjpleachclf",
+      "name": "Web Client For French Rou",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/oejhnncfanbaogjlbknmlgjpleachclf"
+    },
+    {
+      "extension_id": "cnibdhllkgidlgmaoanhkemjeklneolk",
+      "name": "Archer Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cnibdhllkgidlgmaoanhkemjeklneolk"
+    },
+    {
+      "extension_id": "obifanppcpchlehkjipahhphbcbjekfa",
+      "name": "Telegram Multi Account",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/obifanppcpchlehkjipahhphbcbjekfa"
+    },
+    {
+      "extension_id": "dljlpildgknddpnahppkihgodokfjbnd",
+      "name": "\ufeff\ufeffSlot Machine Zeus Treas",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dljlpildgknddpnahppkihgodokfjbnd"
+    },
+    {
+      "extension_id": "ihbkmfoadnfjgkpdmgcboiehapkiflme",
+      "name": "Columbus Voyage Slot Mach",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ihbkmfoadnfjgkpdmgcboiehapkiflme"
+    },
+    {
+      "extension_id": "dmaibhbbpmdihedidicfeigilkbobcog",
+      "name": "Aztec Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dmaibhbbpmdihedidicfeigilkbobcog"
+    },
+    {
+      "extension_id": "amnaljnjmgajgajelnplfmidgjgbjfhe",
+      "name": "\ufeffMahjong Deluxe",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/amnaljnjmgajgajelnplfmidgjgbjfhe"
+    },
+    {
+      "extension_id": "bfoofgelpmalhcmedaaeogahlmbkopfd",
+      "name": "\ufeffweb Client For Youtube S",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bfoofgelpmalhcmedaaeogahlmbkopfd"
+    },
+    {
+      "extension_id": "fjfhejmbhpabkacpoddjbcfandjoacmb",
+      "name": "Dragon Slayer Slot Machin",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fjfhejmbhpabkacpoddjbcfandjoacmb"
+    },
+    {
+      "extension_id": "dpdemambcedffmnkfmkephnhhnclmcio",
+      "name": "\ufeff\ufeffslot The Gold Pot",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dpdemambcedffmnkfmkephnhhnclmcio"
+    },
+    {
+      "extension_id": "aecccajigpipkpioaidignbgbeekglkd",
+      "name": "Web Client For Rugby Rush",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/aecccajigpipkpioaidignbgbeekglkd"
+    },
+    {
+      "extension_id": "ijccacgjefefdpglhclnbpfjlcbagafm",
+      "name": "\ufeff\ufeffhigh Or Low Casino Game",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ijccacgjefefdpglhclnbpfjlcbagafm"
+    },
+    {
+      "extension_id": "ncpdkpcgmdhhnmcjgiiifdhefmekdcnf",
+      "name": "\ufeffmetal Calculator",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ncpdkpcgmdhhnmcjgiiifdhefmekdcnf"
+    },
+    {
+      "extension_id": "alllblhkgghelnejlggmmgjbkdabidie",
+      "name": "Black Beard Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/alllblhkgghelnejlggmmgjbkdabidie"
+    },
+    {
+      "extension_id": "jnmmbmkmbkcccpihjgnhjmhhkokfdnfe",
+      "name": "Classic Backgammon",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jnmmbmkmbkcccpihjgnhjmhhkokfdnfe"
+    },
+    {
+      "extension_id": "gipmochingljoikdjakkdolfcbphmlom",
+      "name": "Gold Miner 2",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gipmochingljoikdjakkdolfcbphmlom"
+    },
+    {
+      "extension_id": "amkkjdjjgiiamenbopfpdmjcleecjjgg",
+      "name": "Indian Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/amkkjdjjgiiamenbopfpdmjcleecjjgg"
+    },
+    {
+      "extension_id": "enmmilgindjmffoljaojkcgloakmloen",
+      "name": "\ufeffWeb Client For Game Driv",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/enmmilgindjmffoljaojkcgloakmloen"
+    },
+    {
+      "extension_id": "gaafhblhbnkekenogcjniofhbicchlke",
+      "name": "Snake Slot Machine",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gaafhblhbnkekenogcjniofhbicchlke"
+    },
+    {
+      "extension_id": "eoklnfefipnjfeknpmigmogeeepddcch",
+      "name": "Jurassic Giants Slot Mach",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eoklnfefipnjfeknpmigmogeeepddcch"
+    },
+    {
+      "extension_id": "jmopjanoebpdbopigcbpjhiigmjolikk",
+      "name": "Raging Zeus Mines",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jmopjanoebpdbopigcbpjhiigmjolikk"
+    },
+    {
+      "extension_id": "fmajpchoiahphjiligpmghnhmabolhoh",
+      "name": "Book Of Magic Slot Machin",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fmajpchoiahphjiligpmghnhmabolhoh"
+    },
+    {
+      "extension_id": "ocflhkadmmnlbieoiiekfcdcmjcfeahe",
+      "name": "Chrome Client For Downhil",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ocflhkadmmnlbieoiiekfcdcmjcfeahe"
+    },
+    {
+      "extension_id": "bgdkbjcdecedfoejdfgeafdodjgfohno",
+      "name": "Clear Cache Plus",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bgdkbjcdecedfoejdfgeafdodjgfohno"
+    },
+    {
+      "extension_id": "pdgaknahllnfldmclpcllpieafkaibmf",
+      "name": "\ufeff\ufeffwhack Em All",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pdgaknahllnfldmclpcllpieafkaibmf"
+    },
+    {
+      "extension_id": "cmeoegkmpbpcoabhlklbamfeidebgmdf",
+      "name": "Three Card Poker",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cmeoegkmpbpcoabhlklbamfeidebgmdf"
+    },
+    {
+      "extension_id": "peflgkmfmoijonfgcjdlpnnfdegnlaji",
+      "name": "\ufeffvideo Poker Jacks Or Bet",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/peflgkmfmoijonfgcjdlpnnfdegnlaji"
+    },
+    {
+      "extension_id": "ibelidmkbnjmmpjgfibbdbkamgcbnjdm",
+      "name": "Christmas Eve Slot Machin",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "insert_date": "2026-04-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ibelidmkbnjmmpjgfibbdbkamgcbnjdm"
+    },
+    {
+      "extension_id": "hapemhaolkielighkknclgncbaocnclc",
+      "name": "Extrato Smiles Em Csv",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hapemhaolkielighkknclgncbaocnclc"
+    },
+    {
+      "extension_id": "golbngjhpfdobdopaebpdofbmhghfkpm",
+      "name": "Urban Dictionary Now",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/golbngjhpfdobdopaebpdofbmhghfkpm"
+    },
+    {
+      "extension_id": "bkpgbmjmifkbonccfmpejokfndolikcj",
+      "name": "Highperformr Ai Phone Num",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bkpgbmjmifkbonccfmpejokfndolikcj"
+    },
+    {
+      "extension_id": "objigmfpcefimjacdbhjcokamcdiakhc",
+      "name": "Pikachu",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/objigmfpcefimjacdbhjcokamcdiakhc"
+    },
+    {
+      "extension_id": "jobfmpppoaapbjmgbejgdfkigomnjihe",
+      "name": "Download Time V2",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jobfmpppoaapbjmgbejgdfkigomnjihe"
+    },
+    {
+      "extension_id": "hegneaniplmfjcmohoclabblbahcbjoe",
+      "name": "Video Ad Blocker Plus For",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hegneaniplmfjcmohoclabblbahcbjoe"
+    },
+    {
+      "extension_id": "fohllhaekplgfcocgdbdaghdaphgekjl",
+      "name": "Aliexplore Aliexpress Sea",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fohllhaekplgfcocgdbdaghdaphgekjl"
+    },
+    {
+      "extension_id": "gglbjeoapomacolgaddjppmbdncglcio",
+      "name": "Detective Pikachu",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gglbjeoapomacolgaddjppmbdncglcio"
+    },
+    {
+      "extension_id": "hogoebkpcnajkkjdidfhojkljppfalip",
+      "name": "Crowdwise",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hogoebkpcnajkkjdidfhojkljppfalip"
+    },
+    {
+      "extension_id": "kjbjbbpjmglncndehlbneolhickdejoa",
+      "name": "Gemini 25 Pro Sidebar",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kjbjbbpjmglncndehlbneolhickdejoa"
+    },
+    {
+      "extension_id": "oahegmgcjlpcachkhdngcjopmflnobci",
+      "name": "Ipchanger Vpn Ip Proxy Fo",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/oahegmgcjlpcachkhdngcjopmflnobci"
+    },
+    {
+      "extension_id": "coegijljhiejhdodjbnlglffjomlbgmi",
+      "name": "Hashdit",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/coegijljhiejhdodjbnlglffjomlbgmi"
+    },
+    {
+      "extension_id": "pbplelndplalkhebhegbmpgkdodknnae",
+      "name": "Charizard Pokemon Live Wa",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pbplelndplalkhebhegbmpgkdodknnae"
+    },
+    {
+      "extension_id": "nlllhibclkoddmfaljpifkfhabmkjjpk",
+      "name": "Reacheazy",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nlllhibclkoddmfaljpifkfhabmkjjpk"
+    },
+    {
+      "extension_id": "hbdodmeapnhejpalnjemjceipcanjdjk",
+      "name": "Movie Downloader 123Movie",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hbdodmeapnhejpalnjemjceipcanjdjk"
+    },
+    {
+      "extension_id": "jcmafjkjpkcdeiehphcopnelbgjeekge",
+      "name": "Linkomatic Reloaded",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jcmafjkjpkcdeiehphcopnelbgjeekge"
+    },
+    {
+      "extension_id": "lgjmjfjpldlhbaeinfjbgokoakpjglbn",
+      "name": "Amazing Auto Refresh",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lgjmjfjpldlhbaeinfjbgokoakpjglbn"
+    },
+    {
+      "extension_id": "hblfamjdifnhiioifbfamlnkjfenhfed",
+      "name": "Ai Powered Dealdazzle Sea",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hblfamjdifnhiioifbfamlnkjfenhfed"
+    },
+    {
+      "extension_id": "addnfehdcokmboamjapbiihagbppejnb",
+      "name": "Pok\u00e9Mon Emerald",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/addnfehdcokmboamjapbiihagbppejnb"
+    },
+    {
+      "extension_id": "cjccjhkpejpnldpmcgpimmdinnaplcmk",
+      "name": "Classic Block Puzzle \u2013 Of",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cjccjhkpejpnldpmcgpimmdinnaplcmk"
+    },
+    {
+      "extension_id": "jbbanajdakjmholbhekdkcfekhibilhg",
+      "name": "Salesmind Ai",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jbbanajdakjmholbhekdkcfekhibilhg"
+    },
+    {
+      "extension_id": "kfihpeckbnofhbnaeeoilcokaaphpcfa",
+      "name": "Email Phone Finder Leadlo",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kfihpeckbnofhbnaeeoilcokaaphpcfa"
+    },
+    {
+      "extension_id": "pdbphgolphciahiepiggnihanajkpnhg",
+      "name": "Better Tetris",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pdbphgolphciahiepiggnihanajkpnhg"
+    },
+    {
+      "extension_id": "pbkadhbnkinljhoilhicdhnehacpfebc",
+      "name": "Origano Surf And Earn",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pbkadhbnkinljhoilhicdhnehacpfebc"
+    },
+    {
+      "extension_id": "flkkgeinabbkomdeamdcdkiojfhmlmgo",
+      "name": "Lead Finder By Emailchase",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/flkkgeinabbkomdeamdcdkiojfhmlmgo"
+    },
+    {
+      "extension_id": "ldfhjpmekioecmhbmefnnjgkhnilcafi",
+      "name": "The Godfather Italian Ver",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ldfhjpmekioecmhbmefnnjgkhnilcafi"
+    },
+    {
+      "extension_id": "cngadogedbklhgelahcpjofagelffgng",
+      "name": "\ub9c8\ubc95\uc758 \uc18c\ub77c\uace0\ub3d9",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cngadogedbklhgelahcpjofagelffgng"
+    },
+    {
+      "extension_id": "mfigkbnmkjidlbdhkbmkpbbmijhcmjkc",
+      "name": "Myjr From Jurisage",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mfigkbnmkjidlbdhkbmkpbbmijhcmjkc"
+    },
+    {
+      "extension_id": "hdhdedfhkdahflplchfiaileigiffpio",
+      "name": "Tiktok Downloader Plus",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hdhdedfhkdahflplchfiaileigiffpio"
+    },
+    {
+      "extension_id": "hopmhonnajbjjdkagglbfmffmdhocbmf",
+      "name": "Goingmed",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hopmhonnajbjjdkagglbfmffmdhocbmf"
+    },
+    {
+      "extension_id": "afipijkhaioeopfolgnagcicgpdlcink",
+      "name": "Pricein Same Product Lowe",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/afipijkhaioeopfolgnagcicgpdlcink"
+    },
+    {
+      "extension_id": "lmjjdicajpllfgekjbnnjobadadidoih",
+      "name": "Finalytic Web Extension",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lmjjdicajpllfgekjbnnjobadadidoih"
+    },
+    {
+      "extension_id": "himipdblnokdafogmdlmajgokiopcbjk",
+      "name": "\u0441\u043b\u043e\u0432\u0430\u0440\u0451\u043a",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/himipdblnokdafogmdlmajgokiopcbjk"
+    },
+    {
+      "extension_id": "achcinfieogfidhjekdbbmapmffifchl",
+      "name": "Warmr",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/achcinfieogfidhjekdbbmapmffifchl"
+    },
+    {
+      "extension_id": "djblghckgfcjfmhhhfnjbiakmmmcmigf",
+      "name": "Offerslove Coupon Finder",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/djblghckgfcjfmhhhfnjbiakmmmcmigf"
+    },
+    {
+      "extension_id": "oedechpcnjolalnpghbibmadgfjgaopm",
+      "name": "Nxtjob Ai Profile Optimiz",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/oedechpcnjolalnpghbibmadgfjgaopm"
+    },
+    {
+      "extension_id": "gibojgncpopnmbjnfdgnfihhkpooodie",
+      "name": "Tiktok Free Video Downloa",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gibojgncpopnmbjnfdgnfihhkpooodie"
+    },
+    {
+      "extension_id": "homgdogceligimmcnljohkohcfbhfokl",
+      "name": "Pokemon Charizard Bulbasa",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/homgdogceligimmcnljohkohcfbhfokl"
+    },
+    {
+      "extension_id": "bcphmaoebeamddbmdiajimehnjmageip",
+      "name": "Dealdazzleai Alternatives",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bcphmaoebeamddbmdiajimehnjmageip"
+    },
+    {
+      "extension_id": "cgmllohkcppmnkfpijpngkplpdbikhlf",
+      "name": "Safe Surf",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cgmllohkcppmnkfpijpngkplpdbikhlf"
+    },
+    {
+      "extension_id": "bhhdblckjkgijhjajngmjdijpmhoeobp",
+      "name": "Incontact Contact Book Fo",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bhhdblckjkgijhjajngmjdijpmhoeobp"
+    },
+    {
+      "extension_id": "jkeolmadidncndcbnajhaojepbolajag",
+      "name": "Lunabot Chatgpt On Any We",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jkeolmadidncndcbnajhaojepbolajag"
+    },
+    {
+      "extension_id": "ldaebepnkfockfedaloedoelkjlmpnnl",
+      "name": "Yadulink Linkedin Prospec",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ldaebepnkfockfedaloedoelkjlmpnnl"
+    },
+    {
+      "extension_id": "fjamdmeidfoiimcdmakidnifokhjdpdc",
+      "name": "Kaspi Price History",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fjamdmeidfoiimcdmakidnifokhjdpdc"
+    },
+    {
+      "extension_id": "eckfhhngfhepmndojbnphnlnemglmojp",
+      "name": "Valley",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eckfhhngfhepmndojbnphnlnemglmojp"
+    },
+    {
+      "extension_id": "hiiahmfpljemgmnhlaepofeldnnhphmi",
+      "name": "Creatant Bookmarking Tool",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hiiahmfpljemgmnhlaepofeldnnhphmi"
+    },
+    {
+      "extension_id": "ebeiohfighdabjhkklnghfofnnfglmad",
+      "name": "Vennbrd Gif + Emoji As Yo",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ebeiohfighdabjhkklnghfofnnfglmad"
+    },
+    {
+      "extension_id": "emppaabanpbeeihodkoikmpopkjkdojc",
+      "name": "6Degrees Linkedin Sync",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/emppaabanpbeeihodkoikmpopkjkdojc"
+    },
+    {
+      "extension_id": "ioofbfcjhabkdfhngedpocamlakdanlk",
+      "name": "Little Pikachu In The Mor",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ioofbfcjhabkdfhngedpocamlakdanlk"
+    },
+    {
+      "extension_id": "gdldfceehpabhcehoglbnfgkdpgnnelo",
+      "name": "Leadspicker",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gdldfceehpabhcehoglbnfgkdpgnnelo"
+    },
+    {
+      "extension_id": "ibnddagnllnjoelaapgbkaelfakcfelb",
+      "name": "Spongebob Is Swimming Liv",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ibnddagnllnjoelaapgbkaelfakcfelb"
+    },
+    {
+      "extension_id": "ailnbbigginhlppdboejnjhcmldkolio",
+      "name": "Linkedin Cookie Importer",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ailnbbigginhlppdboejnjhcmldkolio"
+    },
+    {
+      "extension_id": "mjdnhhajbhoicofpbkoakkflkpnblkjn",
+      "name": "A Cute Explorer Pikachu",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mjdnhhajbhoicofpbkoakkflkpnblkjn"
+    },
+    {
+      "extension_id": "mbpcddfdlcbnfoladjepencmaljimfmg",
+      "name": "\u024dabby\u202c W\u202ella\u202cet",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mbpcddfdlcbnfoladjepencmaljimfmg"
+    },
+    {
+      "extension_id": "fcejkolobdcfbhhakbhajcflakmnhaff",
+      "name": "Knowee Ai Formerly Studyg",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fcejkolobdcfbhhakbhajcflakmnhaff"
+    },
+    {
+      "extension_id": "pnagifhcchoejfbghjhgcfmmmiiampbc",
+      "name": "Data Exporter",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pnagifhcchoejfbghjhgcfmmmiiampbc"
+    },
+    {
+      "extension_id": "kdmcdkanhnbdcmadgljmhdimdlfpgple",
+      "name": "Saywhat",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kdmcdkanhnbdcmadgljmhdimdlfpgple"
+    },
+    {
+      "extension_id": "ellfpjminfaokagphnohegiifhlccbkm",
+      "name": "Omnitool Pro",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ellfpjminfaokagphnohegiifhlccbkm"
+    },
+    {
+      "extension_id": "jfglacfdockpdpbfodkipgcjplgnojel",
+      "name": "Entropy Extension Auto Bl",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jfglacfdockpdpbfodkipgcjplgnojel"
+    },
+    {
+      "extension_id": "aiimlpjcnmhmbdlmkhloapmlookboonb",
+      "name": "Onmanzbien",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/aiimlpjcnmhmbdlmkhloapmlookboonb"
+    },
+    {
+      "extension_id": "lgmdiagiphelkdikgjehjpmfaecgmmfl",
+      "name": "I\u202etm\u202co\u202enek\u202c W\u202etella\u202c W\u202e3B",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lgmdiagiphelkdikgjehjpmfaecgmmfl"
+    },
+    {
+      "extension_id": "condlopdddofpgcdjfnoepbdkcgckmgb",
+      "name": "Translator",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/condlopdddofpgcdjfnoepbdkcgckmgb"
+    },
+    {
+      "extension_id": "fjfclchnmkilojpjkfhngijlomhnendk",
+      "name": "Download All Pdfs",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fjfclchnmkilojpjkfhngijlomhnendk"
+    },
+    {
+      "extension_id": "ppndpickiehhbcneeinkfbjapmbiklde",
+      "name": "Eth Metamask App",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ppndpickiehhbcneeinkfbjapmbiklde"
+    },
+    {
+      "extension_id": "kjgeglpblmplmceadclemoechgnonlnf",
+      "name": "Font Detector",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kjgeglpblmplmceadclemoechgnonlnf"
+    },
+    {
+      "extension_id": "bmodhjhfenkpocdbpbijndlaefcbjkjo",
+      "name": "Mirrorsphere Website Traf",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bmodhjhfenkpocdbpbijndlaefcbjkjo"
+    },
+    {
+      "extension_id": "pmpbkcpplelpcphbapailejddbcebnmb",
+      "name": "Antidote",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pmpbkcpplelpcphbapailejddbcebnmb"
+    },
+    {
+      "extension_id": "anbjdcdemclgpcafgdehfmmakkhnopen",
+      "name": "Reddit",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/anbjdcdemclgpcafgdehfmmakkhnopen"
+    },
+    {
+      "extension_id": "eeobggeikihkgiggaekfbceghlcpemfm",
+      "name": "Caddi",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eeobggeikihkgiggaekfbceghlcpemfm"
+    },
+    {
+      "extension_id": "kdnhehemkjcjffngpngfopegdfabiiin",
+      "name": "\u03c4R\u03c5St W\u0430Llet Cryptogenesi",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kdnhehemkjcjffngpngfopegdfabiiin"
+    },
+    {
+      "extension_id": "fkkgaomifpmmikhigldibldaleglnpme",
+      "name": "Twitter Lite",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fkkgaomifpmmikhigldibldaleglnpme"
+    },
+    {
+      "extension_id": "lpeocpopopmbhchjndkbhgjgppnlikho",
+      "name": "Tiktok Toolkit",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lpeocpopopmbhchjndkbhgjgppnlikho"
+    },
+    {
+      "extension_id": "amomdmnemaieioenimcelcagpdbdbigi",
+      "name": "Leadseeder 20",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/amomdmnemaieioenimcelcagpdbdbigi"
+    },
+    {
+      "extension_id": "kfkcgdiimmaafjbljhbjejocjignnajn",
+      "name": "Charitytree",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kfkcgdiimmaafjbljhbjejocjignnajn"
+    },
+    {
+      "extension_id": "edkmbojkflfanganifkkajmldejmhlec",
+      "name": "Gocashback Deals Rebates",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/edkmbojkflfanganifkkajmldejmhlec"
+    },
+    {
+      "extension_id": "ehplfgnopmpflglfpldjdodaogebfgpe",
+      "name": "Laika Ai All In One Defai",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ehplfgnopmpflglfpldjdodaogebfgpe"
+    },
+    {
+      "extension_id": "jeoigaeiibcpalnemoppabmfecmhfoda",
+      "name": "Trusted Wallet",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jeoigaeiibcpalnemoppabmfecmhfoda"
+    },
+    {
+      "extension_id": "idfccnbgfoopaopdddphpfamicdhpioe",
+      "name": "Mexc Buy Sell",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/idfccnbgfoopaopdddphpfamicdhpioe"
+    },
+    {
+      "extension_id": "llmclekdibmbhlgegnenmdifgjdcfnao",
+      "name": "Ledger Wallet",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/llmclekdibmbhlgegnenmdifgjdcfnao"
+    },
+    {
+      "extension_id": "cnfkambgbklnggngkenpfoolbmhoonlc",
+      "name": "Amazonsaver Amazon Europe",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cnfkambgbklnggngkenpfoolbmhoonlc"
+    },
+    {
+      "extension_id": "eeoonfhmbjlmienmmbgapfloddpmoalh",
+      "name": "Ai Output Algo Tool",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eeoonfhmbjlmienmmbgapfloddpmoalh"
+    },
+    {
+      "extension_id": "jbkldgcpnklohmbllpghikjpbookjkfa",
+      "name": "Gitlab Insert Template",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jbkldgcpnklohmbllpghikjpbookjkfa"
+    },
+    {
+      "extension_id": "lllihdpapijpmbfdmbidbnjpblibebee",
+      "name": "Sponge Bob Live Wallpaper",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lllihdpapijpmbfdmbidbnjpblibebee"
+    },
+    {
+      "extension_id": "fnpejdoiggdgagmdfmkllgfpagjgjfoi",
+      "name": "Gemini Ai Assistance",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fnpejdoiggdgagmdfmkllgfpagjgjfoi"
+    },
+    {
+      "extension_id": "mkmilmgfhonpppngfbfglbhdnicnjacc",
+      "name": "Gemini Better Ui",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mkmilmgfhonpppngfbfglbhdnicnjacc"
+    },
+    {
+      "extension_id": "hceobhjokpdbogjkplmfjeomkeckkngi",
+      "name": "New Bing Anywhere (Bing Chat Gpt 4)",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hceobhjokpdbogjkplmfjeomkeckkngi"
+    },
+    {
+      "extension_id": "kpnpeomoodgjlpdaopnapgdiigdkkgim",
+      "name": "Gitlab Mr Shortcuts",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kpnpeomoodgjlpdaopnapgdiigdkkgim"
+    },
+    {
+      "extension_id": "dillgbmlildifnpdejibbbebbhnlhnhf",
+      "name": "Snipping Tool For Chrome",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dillgbmlildifnpdejibbbebbhnlhnhf"
+    },
+    {
+      "extension_id": "nieoenlddbbedidmgbapeockjjagapjl",
+      "name": "Gangster Spongebob And Patrick To Chrome With Live Wallpaper",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nieoenlddbbedidmgbapeockjjagapjl"
+    },
+    {
+      "extension_id": "gohlpddecngpmpoakfmnaegegjnapkla",
+      "name": "Spongebob Live Wallpapers",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gohlpddecngpmpoakfmnaegegjnapkla"
+    },
+    {
+      "extension_id": "mjebfndkbogmggcbpacbedbcjccoamkk",
+      "name": "Extreme Dream Head Soccer",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mjebfndkbogmggcbpacbedbcjccoamkk"
+    },
+    {
+      "extension_id": "mofnafclpcapghpjdoaanahkgcjfcece",
+      "name": "Swift Proton Vpn Fast Sec",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mofnafclpcapghpjdoaanahkgcjfcece"
+    },
     {
       "extension_id": "nlompoojekdpdjnjledbbahkdhdhjlae",
       "name": "Claude Chat Search Assist",
@@ -153,13 +1525,6 @@
       "source": "Store Monitoring",
       "insert_date": "2026-04-08",
       "chrome_store_url": "https://chromewebstore.google.com/detail/cignjngpjdkbiekiblcjnfkmfnelpjnn"
-    },
-    {
-      "extension_id": "lgmdiagiphelkdikgjehjpmfaecgmmfl",
-      "name": "i\u202eTm\u202co\u202enek\u202c W\u202etella\u202c W\u202e3be\u202c",
-      "source": "Store Monitoring",
-      "insert_date": "2026-04-07",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/lgmdiagiphelkdikgjehjpmfaecgmmfl"
     },
     {
       "extension_id": "fbmgcejhoneccecnplfllgkfgheoengm",
@@ -673,39 +2038,11 @@
       "chrome_store_url": "https://chromewebstore.google.com/detail/baahncfnjojaofhdmdfkpeadigoemkif"
     },
     {
-      "extension_id": "condlopdddofpgcdjfnoepbdkcgckmgb",
-      "name": "Translator",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-28",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/condlopdddofpgcdjfnoepbdkcgckmgb"
-    },
-    {
-      "extension_id": "fjfclchnmkilojpjkfhngijlomhnendk",
-      "name": "Download All PDFs",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-28",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/fjfclchnmkilojpjkfhngijlomhnendk"
-    },
-    {
-      "extension_id": "ppndpickiehhbcneeinkfbjapmbiklde",
-      "name": "ETH-MetaMask App",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-28",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/ppndpickiehhbcneeinkfbjapmbiklde"
-    },
-    {
       "extension_id": "pefighpbbfkgkmfmpfgaopoahdmkakll",
       "name": "Cmd J \u2013 ChatGPT for Chrome",
       "source": "Store Monitoring",
       "insert_date": "2026-03-28",
       "chrome_store_url": "https://chromewebstore.google.com/detail/pefighpbbfkgkmfmpfgaopoahdmkakll"
-    },
-    {
-      "extension_id": "kjgeglpblmplmceadclemoechgnonlnf",
-      "name": "Font Detector",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-28",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/kjgeglpblmplmceadclemoechgnonlnf"
     },
     {
       "extension_id": "bbdpihagclfjiodkbebbheamdhifhcgl",
@@ -715,32 +2052,11 @@
       "chrome_store_url": "https://chromewebstore.google.com/detail/bbdpihagclfjiodkbebbheamdhifhcgl"
     },
     {
-      "extension_id": "bmodhjhfenkpocdbpbijndlaefcbjkjo",
-      "name": "MirrorSphere - Website Traffic & SEO Checker",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-27",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/bmodhjhfenkpocdbpbijndlaefcbjkjo"
-    },
-    {
-      "extension_id": "pmpbkcpplelpcphbapailejddbcebnmb",
-      "name": "Antidote",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-27",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/pmpbkcpplelpcphbapailejddbcebnmb"
-    },
-    {
       "extension_id": "njbgkalfmgkchikknmaimfjmfjpnbnpm",
       "name": "Style Cursor",
       "source": "Store Monitoring",
       "insert_date": "2026-03-27",
       "chrome_store_url": "https://chromewebstore.google.com/detail/njbgkalfmgkchikknmaimfjmfjpnbnpm"
-    },
-    {
-      "extension_id": "anbjdcdemclgpcafgdehfmmakkhnopen",
-      "name": "reddit",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-27",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/anbjdcdemclgpcafgdehfmmakkhnopen"
     },
     {
       "extension_id": "nngjdplpkehilhcinpccdbkjaknkkifl",
@@ -750,13 +2066,6 @@
       "chrome_store_url": "https://chromewebstore.google.com/detail/nngjdplpkehilhcinpccdbkjaknkkifl"
     },
     {
-      "extension_id": "amomdmnemaieioenimcelcagpdbdbigi",
-      "name": "Leadseeder 2.0",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-27",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/amomdmnemaieioenimcelcagpdbdbigi"
-    },
-    {
       "extension_id": "kkfobcljflnlpbemjicenfkfnplaggkk",
       "name": "WithEden AI - Emoji Comment App",
       "source": "Store Monitoring",
@@ -764,60 +2073,11 @@
       "chrome_store_url": "https://chromewebstore.google.com/detail/kkfobcljflnlpbemjicenfkfnplaggkk"
     },
     {
-      "extension_id": "kdnhehemkjcjffngpngfopegdfabiiin",
-      "name": "\u03a4r\u03c5st w\u0430llet Cryptogenesis",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-26",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/kdnhehemkjcjffngpngfopegdfabiiin"
-    },
-    {
-      "extension_id": "fkkgaomifpmmikhigldibldaleglnpme",
-      "name": "Twitter Lite",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-26",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/fkkgaomifpmmikhigldibldaleglnpme"
-    },
-    {
       "extension_id": "dcibfpikkfpaogplkmnocfepoliadbeh",
       "name": "Instagram",
       "source": "Store Monitoring",
       "insert_date": "2026-03-26",
       "chrome_store_url": "https://chromewebstore.google.com/detail/dcibfpikkfpaogplkmnocfepoliadbeh"
-    },
-    {
-      "extension_id": "lpeocpopopmbhchjndkbhgjgppnlikho",
-      "name": "TikTok ToolKit",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-26",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/lpeocpopopmbhchjndkbhgjgppnlikho"
-    },
-    {
-      "extension_id": "eeobggeikihkgiggaekfbceghlcpemfm",
-      "name": "Caddi",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-25",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/eeobggeikihkgiggaekfbceghlcpemfm"
-    },
-    {
-      "extension_id": "kfkcgdiimmaafjbljhbjejocjignnajn",
-      "name": "CharityTree",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-25",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/kfkcgdiimmaafjbljhbjejocjignnajn"
-    },
-    {
-      "extension_id": "edkmbojkflfanganifkkajmldejmhlec",
-      "name": "GoCashBack: Deals, Rebates, Savings Extension",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-25",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/edkmbojkflfanganifkkajmldejmhlec"
-    },
-    {
-      "extension_id": "ehplfgnopmpflglfpldjdodaogebfgpe",
-      "name": "Laika AI - All in One DefAI Crypto AI Copilot",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-25",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/ehplfgnopmpflglfpldjdodaogebfgpe"
     },
     {
       "extension_id": "dmniogfnhjfaembommeeamffneaobgcd",
@@ -1051,13 +2311,6 @@
       "chrome_store_url": "https://chromewebstore.google.com/detail/pjdnfljplcgepkonnklphjlkclhmlfdn"
     },
     {
-      "extension_id": "jeoigaeiibcpalnemoppabmfecmhfoda",
-      "name": "TrustWallet AI Edition",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-20",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/jeoigaeiibcpalnemoppabmfecmhfoda"
-    },
-    {
       "extension_id": "inloipbahbmhelpokmejailbmcegccal",
       "name": "ConnectGenie - Linkedin AI Assistant",
       "source": "Store Monitoring",
@@ -1070,27 +2323,6 @@
       "source": "Store Monitoring",
       "insert_date": "2026-03-19",
       "chrome_store_url": "https://chromewebstore.google.com/detail/dgncekenlgnneibllkjinpcfccajpjmc"
-    },
-    {
-      "extension_id": "idfccnbgfoopaopdddphpfamicdhpioe",
-      "name": "MEXC-BUY & SELL",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-18",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/idfccnbgfoopaopdddphpfamicdhpioe"
-    },
-    {
-      "extension_id": "llmclekdibmbhlgegnenmdifgjdcfnao",
-      "name": "Ledger Wallet",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-18",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/llmclekdibmbhlgegnenmdifgjdcfnao"
-    },
-    {
-      "extension_id": "cnfkambgbklnggngkenpfoolbmhoonlc",
-      "name": "AmazonSaver - Amazon Europe Price Comparison",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-18",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/cnfkambgbklnggngkenpfoolbmhoonlc"
     },
     {
       "extension_id": "ekfbpedkallblckjgijmibabfcacgjhl",
@@ -1282,13 +2514,6 @@
       "chrome_store_url": "https://chromewebstore.google.com/detail/ohalkmdcakplbfpelgmnegcbdkfigolo"
     },
     {
-      "extension_id": "mjebfndkbogmggcbpacbedbcjccoamkk",
-      "name": "Extreme Dream Head Soccer",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-10",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/mjebfndkbogmggcbpacbedbcjccoamkk"
-    },
-    {
       "extension_id": "iofmialeiddolmdlkbheakaefefkjokp",
       "name": "Palette Creator",
       "source": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
@@ -1350,13 +2575,6 @@
       "source": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
       "insert_date": "2026-03-09",
       "chrome_store_url": "https://chromewebstore.google.com/detail/ajfanjhcdgaohcbphpaceglgpgaaohod"
-    },
-    {
-      "extension_id": "eeoonfhmbjlmienmmbgapfloddpmoalh",
-      "name": "AI Output Algo Tool",
-      "source": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
-      "insert_date": "2026-03-09",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/eeoonfhmbjlmienmmbgapfloddpmoalh"
     },
     {
       "extension_id": "mkkfklcadlnkhgapjeejemflhamcdjld",
@@ -1527,13 +2745,6 @@
       "chrome_store_url": "https://chromewebstore.google.com/detail/giofhmdgihebfjkdadokickedgbbglcf"
     },
     {
-      "extension_id": "jbkldgcpnklohmbllpghikjpbookjkfa",
-      "name": "Gitlab insert template",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-03",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/jbkldgcpnklohmbllpghikjpbookjkfa"
-    },
-    {
       "extension_id": "ipijpioemaopkhpjhihdibldodmdpfjl",
       "name": "Smoji - Emoji and Sound Messaging",
       "source": "Store Monitoring",
@@ -1541,67 +2752,11 @@
       "chrome_store_url": "https://chromewebstore.google.com/detail/ipijpioemaopkhpjhihdibldodmdpfjl"
     },
     {
-      "extension_id": "lllihdpapijpmbfdmbidbnjpblibebee",
-      "name": "Sponge Bob Live Wallpaper",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-03",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/lllihdpapijpmbfdmbidbnjpblibebee"
-    },
-    {
-      "extension_id": "dillgbmlildifnpdejibbbebbhnlhnhf",
-      "name": "snipping tool for chrome",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-03",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/dillgbmlildifnpdejibbbebbhnlhnhf"
-    },
-    {
       "extension_id": "ojdagjoeaaooofmeofppefbnebclnmkh",
       "name": "GitLab Reviewer Auto Add",
       "source": "Store Monitoring",
       "insert_date": "2026-03-02",
       "chrome_store_url": "https://chromewebstore.google.com/detail/ojdagjoeaaooofmeofppefbnebclnmkh"
-    },
-    {
-      "extension_id": "fnpejdoiggdgagmdfmkllgfpagjgjfoi",
-      "name": "Gemini AI Assistance",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-02",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/fnpejdoiggdgagmdfmkllgfpagjgjfoi"
-    },
-    {
-      "extension_id": "mkmilmgfhonpppngfbfglbhdnicnjacc",
-      "name": "Gemini Better UI",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-02",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/mkmilmgfhonpppngfbfglbhdnicnjacc"
-    },
-    {
-      "extension_id": "hceobhjokpdbogjkplmfjeomkeckkngi",
-      "name": "New Bing Anywhere (Bing Chat GPT-4)",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-02",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/hceobhjokpdbogjkplmfjeomkeckkngi"
-    },
-    {
-      "extension_id": "kpnpeomoodgjlpdaopnapgdiigdkkgim",
-      "name": "Gitlab MR shortcuts",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-02",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/kpnpeomoodgjlpdaopnapgdiigdkkgim"
-    },
-    {
-      "extension_id": "nieoenlddbbedidmgbapeockjjagapjl",
-      "name": "Gangster SpongeBob and Patrick to Chrome with Live Wallpaper",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-01",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/nieoenlddbbedidmgbapeockjjagapjl"
-    },
-    {
-      "extension_id": "gohlpddecngpmpoakfmnaegegjnapkla",
-      "name": "SpongeBob live wallpapers",
-      "source": "Store Monitoring",
-      "insert_date": "2026-03-01",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/gohlpddecngpmpoakfmnaegegjnapkla"
     },
     {
       "extension_id": "phngohjapibeemmkofldldedlbbndbag",
@@ -3114,13 +4269,6 @@
       "source": "Store Monitoring",
       "insert_date": "2026-02-06",
       "chrome_store_url": "https://chromewebstore.google.com/detail/imdfikikfkflcgioaidldbhhoknmdfee"
-    },
-    {
-      "extension_id": "mofnafclpcapghpjdoaanahkgcjfcece",
-      "name": "Swift Proton VPN: Fast & Secure",
-      "source": "Store Monitoring",
-      "insert_date": "2026-02-06",
-      "chrome_store_url": "https://chromewebstore.google.com/detail/mofnafclpcapghpjdoaanahkgcjfcece"
     },
     {
       "extension_id": "pdadlkbckhinonakkfkdaadceojbekep",
@@ -5504,7 +6652,7 @@
     },
     {
       "extension_id": "lalcmboamkljbdlgjfockddndpfoiojc",
-      "name": "One",
+      "name": "One-Punch Man Cursor - Custom Anime Cursor for Chrome",
       "source": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt",
       "insert_date": "2025-08-19",
       "chrome_store_url": "https://chromewebstore.google.com/detail/lalcmboamkljbdlgjfockddndpfoiojc"
