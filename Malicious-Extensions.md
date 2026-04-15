@@ -1,5 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| bifpenlakfcdhjnagknbhdiangfadfkf | Ca‮k‬e Wa‮ll‬e‮t‬ X‮rm‬ V | Malware | Store Monitoring | 15/04/26 |
+| jcfjkcgmoglkdoljgbenmiijodgjdnof | Tiktok Background Player | Policy Violation | Store Monitoring | 15/04/26 |
+| dngmeofhakepbjelmlikokpilfpjmmgn | Tiktok Block | Policy Violation | Store Monitoring | 15/04/26 |
+| ogghnognjclkbpaeoophcgapbgmgdiok | Tiktok Order Sync By Hubf | Policy Violation | Store Monitoring | 15/04/26 |
+| dfenmdjldedloklnjjkdaaomifnggiio | Tiktok Eradicator | Policy Violation | Store Monitoring | 15/04/26 |
+| hdfjcnbkkbdbapfpmlglnemkjonimkgp | Hyperliquid Extension Per | Malware | Store Monitoring | 15/04/26 |
+| hcicfibkpbfgbiodaliaemhhoodakdco | Tre‮Roz‬ Sui‮Et‬ Vault Sw | Malware | Store Monitoring | 15/04/26 |
+| jdhlmbbkcnblagpianmgafolcpmlmbfa | L‮regde‬ L‮evi‬ Vault Swa | Malware | Store Monitoring | 15/04/26 |
+| jkaafnmmjecejakfanneehifglpdpccp | Cleanify – Social Chat Cl | Policy Violation | Store Monitoring | 15/04/26 |
+| hanfebikglcfkkeoelhdkpiamjmahjen | Tiktok Liker | Policy Violation | Store Monitoring | 15/04/26 |
 | cbnekafldflkmngbgmbnfmchjaelnhem | Game Skyspeedster | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
 | clpgopiimdjcilllcjncdkoeikkkcfbi | ﻿billiards Pro | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
 | jodocbbdcdclkhjkibnlfhbmllcpfkfo | ﻿﻿slot Machine The Fruits | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
