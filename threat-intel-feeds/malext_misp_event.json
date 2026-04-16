@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-04-15",
-    "timestamp": "1776246401",
+    "date": "2026-04-16",
+    "timestamp": "1776369815",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,292 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "62566ee4-a1a2-5f87-9332-a08ced153c52",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pjkgiojffhoepookbhloenffjmelohol",
+        "comment": "Mario Jump Game | Source: Store Monitoring | Added: 2026-04-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e5276292-dd78-5a8b-a434-94e675a16fce",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pjkgiojffhoepookbhloenffjmelohol",
+        "comment": "Chrome Web Store entry for Mario Jump Game (pjkgiojffhoepookbhloenffjmelohol)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "38c57605-faba-5d61-943c-2e9e48b3681f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dkbbbccjifnnkcbkjpnpmaiffllfpnac",
+        "comment": "Iherb Wizard Health | Source: Store Monitoring | Added: 2026-04-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "526ca41c-09c4-5e56-bfec-f03971c53490",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dkbbbccjifnnkcbkjpnpmaiffllfpnac",
+        "comment": "Chrome Web Store entry for Iherb Wizard Health (dkbbbccjifnnkcbkjpnpmaiffllfpnac)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "64d73443-329e-5556-a8d3-e9975f28ef33",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lgknneiodddmfbbpaklighafdocbfnme",
+        "comment": "Email Finder By Scalelist | Source: Store Monitoring | Added: 2026-04-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "736bdf0f-0b6e-58f1-9dbe-8d175463fe06",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lgknneiodddmfbbpaklighafdocbfnme",
+        "comment": "Chrome Web Store entry for Email Finder By Scalelist (lgknneiodddmfbbpaklighafdocbfnme)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2871f66f-5369-5624-95db-7d889c6d02c5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "plljhaecaeecbhjccjhgnhdlnbpfmdbo",
+        "comment": "\u4f18\u60e0\u5238Iherb \u4fc3\u9500\u4ee3\u7801\u7684\u6298\u6263 | Source: Store Monitoring | Added: 2026-04-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "cd192b7e-0a4f-56ee-95f9-3ba7c24a243a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/plljhaecaeecbhjccjhgnhdlnbpfmdbo",
+        "comment": "Chrome Web Store entry for \u4f18\u60e0\u5238Iherb \u4fc3\u9500\u4ee3\u7801\u7684\u6298\u6263 (plljhaecaeecbhjccjhgnhdlnbpfmdbo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7f1d05fc-2f1c-5cea-8f09-e7c004cc95f2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odljclganfccoonaccngnmpfepnjbanm",
+        "comment": "Textbutler Your Chatgpt A | Source: Store Monitoring | Added: 2026-04-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "cf726df1-1732-5031-91bc-86a018d5cab7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/odljclganfccoonaccngnmpfepnjbanm",
+        "comment": "Chrome Web Store entry for Textbutler Your Chatgpt A (odljclganfccoonaccngnmpfepnjbanm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5fad73aa-eabc-5a43-a73b-4caf88ac6e9f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lkgmpcehbonlcpoemnakmamjfpfdakfa",
+        "comment": "Ghostpad | Source: Store Monitoring | Added: 2026-04-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d0702f70-127b-59a5-b3f6-8bc8690b34b0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lkgmpcehbonlcpoemnakmamjfpfdakfa",
+        "comment": "Chrome Web Store entry for Ghostpad (lkgmpcehbonlcpoemnakmamjfpfdakfa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "15bc3da5-b960-50c0-8849-99371c8b7e7a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "paoipkmmfnnifebffghdaefpehhiaamn",
+        "comment": "Mario Vs Luigi Online | Source: Store Monitoring | Added: 2026-04-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "65ffeae4-af93-523a-949d-dfd96c692a3f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/paoipkmmfnnifebffghdaefpehhiaamn",
+        "comment": "Chrome Web Store entry for Mario Vs Luigi Online (paoipkmmfnnifebffghdaefpehhiaamn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "82557c56-8d45-5f97-b911-3cae6bff0ab1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pgcpclmgjicldlndflchojhhbeknmdcc",
+        "comment": "Warm Mocha Ai Theme | Source: Store Monitoring | Added: 2026-04-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "8a9ecc33-0f6e-5576-acbf-ce2d15888191",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pgcpclmgjicldlndflchojhhbeknmdcc",
+        "comment": "Chrome Web Store entry for Warm Mocha Ai Theme (pgcpclmgjicldlndflchojhhbeknmdcc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c5492dfa-b38c-5687-9f52-f56293aa93cd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gklaplooeocndjdlbbadlljfpkdjeiji",
+        "comment": "Deepseek Assistant | Source: Store Monitoring | Added: 2026-04-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "2fbdb10d-aba5-5b42-81b2-6f72cf2a6882",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gklaplooeocndjdlbbadlljfpkdjeiji",
+        "comment": "Chrome Web Store entry for Deepseek Assistant (gklaplooeocndjdlbbadlljfpkdjeiji)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "27411777-188c-5398-b470-a38489788106",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ilhmpmehcagdoeijhdondmidljihohfc",
+        "comment": "Mocking Text Generator | Source: Store Monitoring | Added: 2026-04-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "cde2af9c-aaab-5007-b67a-0f69115f4bad",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ilhmpmehcagdoeijhdondmidljihohfc",
+        "comment": "Chrome Web Store entry for Mocking Text Generator (ilhmpmehcagdoeijhdondmidljihohfc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c29dc8ef-743a-5ea8-bbf7-55b1258e7ce2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "idmmfeifgahenlbokojjpojclkflmdfm",
+        "comment": "Character Ai | Source: Store Monitoring | Added: 2026-04-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e2eb3439-4a8d-5a1e-8e4f-b30627f2c663",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/idmmfeifgahenlbokojjpojclkflmdfm",
+        "comment": "Chrome Web Store entry for Character Ai (idmmfeifgahenlbokojjpojclkflmdfm)",
+        "distribution": "5"
+      },
       {
         "uuid": "4302216d-b0d9-54e4-9bbd-72da3142c701",
         "type": "text",
