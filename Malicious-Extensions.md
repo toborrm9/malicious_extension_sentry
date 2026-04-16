@@ -1,5 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| pjkgiojffhoepookbhloenffjmelohol | Mario Jump Game | Policy Violation | Store Monitoring | 16/04/26 |
+| dkbbbccjifnnkcbkjpnpmaiffllfpnac | Iherb Wizard Health | Policy Violation | Store Monitoring | 16/04/26 |
+| lgknneiodddmfbbpaklighafdocbfnme | Email Finder By Scalelist | Policy Violation | Store Monitoring | 16/04/26 |
+| plljhaecaeecbhjccjhgnhdlnbpfmdbo | 优惠券Iherb 促销代码的折扣 | Policy Violation | Store Monitoring | 16/04/26 |
+| odljclganfccoonaccngnmpfepnjbanm | Textbutler Your Chatgpt A | Malware | Store Monitoring | 16/04/26 |
+| lkgmpcehbonlcpoemnakmamjfpfdakfa | Ghostpad | Malware | Store Monitoring | 16/04/26 |
+| paoipkmmfnnifebffghdaefpehhiaamn | Mario Vs Luigi Online | Policy Violation | Store Monitoring | 16/04/26 |
+| pgcpclmgjicldlndflchojhhbeknmdcc | Warm Mocha Ai Theme | Bundling Unwanted Software | Store Monitoring | 16/04/26 |
+| gklaplooeocndjdlbbadlljfpkdjeiji | Deepseek Assistant | Policy Violation | Store Monitoring | 16/04/26 |
+| ilhmpmehcagdoeijhdondmidljihohfc | Mocking Text Generator | Policy Violation | Store Monitoring | 16/04/26 |
+| idmmfeifgahenlbokojjpojclkflmdfm | Character Ai | Policy Violation | Store Monitoring | 16/04/26 |
 | bifpenlakfcdhjnagknbhdiangfadfkf | Ca‮k‬e Wa‮ll‬e‮t‬ X‮rm‬ V | Malware | Store Monitoring | 15/04/26 |
 | jcfjkcgmoglkdoljgbenmiijodgjdnof | Tiktok Background Player | Policy Violation | Store Monitoring | 15/04/26 |
 | dngmeofhakepbjelmlikokpilfpjmmgn | Tiktok Block | Policy Violation | Store Monitoring | 15/04/26 |
