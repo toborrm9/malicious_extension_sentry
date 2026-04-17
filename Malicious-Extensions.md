@@ -1,5 +1,9 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| gccmamojpfldicdmgjdiacabcmbfmofb | Base Wallet | Bundling Unwanted Software | Store Monitoring | 17/04/26 |
+| mcbhhiafbiafmggccdcpgfldcaeipopg | Enhanced Chatgpt | Policy Violation | Store Monitoring | 17/04/26 |
+| gadbpecoinogdkljjbjffmiijpebooce | Chatgpt Assistant Gpt Sea | Policy Violation | Store Monitoring | 17/04/26 |
+| apejngmlbbanbmfaemoekpbobghbgmem | Online Voice Recorder | Policy Violation | Store Monitoring | 17/04/26 |
 | pjkgiojffhoepookbhloenffjmelohol | Mario Jump Game | Policy Violation | Store Monitoring | 16/04/26 |
 | dkbbbccjifnnkcbkjpnpmaiffllfpnac | Iherb Wizard Health | Policy Violation | Store Monitoring | 16/04/26 |
 | lgknneiodddmfbbpaklighafdocbfnme | Email Finder By Scalelist | Policy Violation | Store Monitoring | 16/04/26 |
