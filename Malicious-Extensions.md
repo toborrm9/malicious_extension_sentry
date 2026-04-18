@@ -1,5 +1,26 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| oogagmfhffbokmlpehpiokadejplchmi | Kung Fu Panda 3 | Policy Violation | Store Monitoring | 18/04/26 |
+| fbbjijdngocdplimineplmdllhjkaece | Chatgpt For Chrome Search | Policy Violation | Store Monitoring | 18/04/26 |
+| kdgiododfaoegcmimpefnhdjcmbepchk | Market View Tracker | Bundling Unwanted Software | Store Monitoring | 18/04/26 |
+| nnpdeoblieaeppbbemdbdbpajcpoogcp | Chatgpt Image Generator | Policy Violation | Store Monitoring | 18/04/26 |
+| kknkkiffjdiapkinkldibnndmnmdccnn | Groww Stock Insights | Policy Violation | Store Monitoring | 18/04/26 |
+| ekmlpfjamlmnfhgiaijcoambbiapljje | Gidget The Secret Life Of | Policy Violation | Store Monitoring | 18/04/26 |
+| gfgpciipppjpfjmjhcjmfnapfilhikdg | Groww Smart Analyzer | Policy Violation | Store Monitoring | 18/04/26 |
+| cfbhkfgfjmfpkppgmnglkegbgkmmmfcf | Blackjack Strategy Adviso | Policy Violation | Store Monitoring | 18/04/26 |
+| ifnhdcdnpkicmmellhmkafcjdgoijail | Wicked | Policy Violation | Store Monitoring | 18/04/26 |
+| ljhnndlmlendhmgedolhgegjhbkjkcbm | Kung Fu Panda 2 | Policy Violation | Store Monitoring | 18/04/26 |
+| kakbikilhofblljdlmnncmicnjhcndmk | Kung Fu Panda 4 Browser T | Policy Violation | Store Monitoring | 18/04/26 |
+| hchjbnccpaonhbbdfaidcohekjnljgjj | Panda Kung Fu 3 | Policy Violation | Store Monitoring | 18/04/26 |
+| bekknnianaobjaamjendcnfjgkjonefm | Kung Fu Panda 3 Movie | Policy Violation | Store Monitoring | 18/04/26 |
+| agmjobjagbllceafphmfgokobflfbbbc | NúñEz Pagos 50% | Bundling Unwanted Software | Store Monitoring | 18/04/26 |
+| gihpjdkaalndncchppfeoeeelkdemfim | Kung Fu Panda 3 | Policy Violation | Store Monitoring | 18/04/26 |
+| iefpkdilnfhogjbkhgnliaomoldgkdlj | Reverse Recruiting Ai Job | Malware | Store Monitoring | 18/04/26 |
+| ajogkbkdomdjamjipaoapkkfkdcbjeom | Kung Fu Panda 2 Hd | Policy Violation | Store Monitoring | 18/04/26 |
+| onkmeilaaocjinfdpkdlpmfhjekaahed | Cv Poet | Policy Violation | Store Monitoring | 18/04/26 |
+| embnfgbapngmmabnniopmpmliafogbnj | Defillama+ | Policy Violation | Store Monitoring | 18/04/26 |
+| nffmdokmgpgbnjdpibbfhhnminiackjg | Kung Fu Panda Tigress | Policy Violation | Store Monitoring | 18/04/26 |
+| ffocfibjgakneigiajpccfcdmomlbapo | Nano Banana | Policy Violation | Store Monitoring | 18/04/26 |
 | gccmamojpfldicdmgjdiacabcmbfmofb | Base Wallet | Bundling Unwanted Software | Store Monitoring | 17/04/26 |
 | mcbhhiafbiafmggccdcpgfldcaeipopg | Enhanced Chatgpt | Policy Violation | Store Monitoring | 17/04/26 |
 | gadbpecoinogdkljjbjffmiijpebooce | Chatgpt Assistant Gpt Sea | Policy Violation | Store Monitoring | 17/04/26 |
@@ -377,7 +398,6 @@
 | dmfccdhbfjmpgaldefnfeeknjfdnlbhe | SpongeBob Robotic Rampage Chase Live Wallpaper 4K | Policy Violation | Store Monitoring | 12/03/26 |
 | pgefggfhmhmndhcdjaleikagdjmmoame | PARROT: Web3 Content Social Protocol | Policy Violation | Store Monitoring | 12/03/26 |
 | pfdmleklaejjccgfhoeafapbhkjipcnj | Google AI | Policy Violation | Store Monitoring | 11/03/26 |
-| ffocfibjgakneigiajpccfcdmomlbapo | Nano Banana | Policy Violation | Store Monitoring | 11/03/26 |
 | kojhnafkiednagnljfgakalcbfbklbdk | Kondo | Policy Violation | Store Monitoring | 11/03/26 |
 | khgkcnmepkkccpojldheccpladhflmen | Robinood + | Policy Violation | Store Monitoring | 11/03/26 |
 | kjdpnimcnfinmilocccippmododhceol | Gemini Voyager | Policy Violation | Store Monitoring | 11/03/26 |
