@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-04-16",
-    "timestamp": "1776369815",
+    "date": "2026-04-18",
+    "timestamp": "1776535542",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,656 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "c89cc557-ab5a-519d-bc44-be8183b52532",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oogagmfhffbokmlpehpiokadejplchmi",
+        "comment": "Kung Fu Panda 3 | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "9bee95b3-3b05-5bec-a34e-43caa43d31b1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oogagmfhffbokmlpehpiokadejplchmi",
+        "comment": "Chrome Web Store entry for Kung Fu Panda 3 (oogagmfhffbokmlpehpiokadejplchmi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "22dc4f65-aae8-521a-880d-551675db7a65",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fbbjijdngocdplimineplmdllhjkaece",
+        "comment": "Chatgpt For Chrome Search | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "41e86f28-4781-5c95-9bb1-79033e4dee6c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fbbjijdngocdplimineplmdllhjkaece",
+        "comment": "Chrome Web Store entry for Chatgpt For Chrome Search (fbbjijdngocdplimineplmdllhjkaece)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "75188319-5df1-5009-91c1-ed230ce31b9d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kdgiododfaoegcmimpefnhdjcmbepchk",
+        "comment": "Market View Tracker | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "13c2d364-247b-58a3-9120-e8e2c667733e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kdgiododfaoegcmimpefnhdjcmbepchk",
+        "comment": "Chrome Web Store entry for Market View Tracker (kdgiododfaoegcmimpefnhdjcmbepchk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "70b41195-a4e4-5219-b671-e5f03d4084eb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nnpdeoblieaeppbbemdbdbpajcpoogcp",
+        "comment": "Chatgpt Image Generator | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "c26ca416-81fa-54ed-a700-5f9b71439d71",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nnpdeoblieaeppbbemdbdbpajcpoogcp",
+        "comment": "Chrome Web Store entry for Chatgpt Image Generator (nnpdeoblieaeppbbemdbdbpajcpoogcp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a01c5be2-4d37-56db-92df-f653acb2b81d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kknkkiffjdiapkinkldibnndmnmdccnn",
+        "comment": "Groww Stock Insights | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d3681c65-191b-5f37-b692-0ed2ef1d665b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kknkkiffjdiapkinkldibnndmnmdccnn",
+        "comment": "Chrome Web Store entry for Groww Stock Insights (kknkkiffjdiapkinkldibnndmnmdccnn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5cd9a9bd-6dbc-5fbb-b7d8-3ac8f08a0d5b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ekmlpfjamlmnfhgiaijcoambbiapljje",
+        "comment": "Gidget The Secret Life Of | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "476f5827-6072-5b23-bf05-a66e8c8d6dbd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ekmlpfjamlmnfhgiaijcoambbiapljje",
+        "comment": "Chrome Web Store entry for Gidget The Secret Life Of (ekmlpfjamlmnfhgiaijcoambbiapljje)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6a7e72d1-8415-5176-9c68-a940a64bed1e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gfgpciipppjpfjmjhcjmfnapfilhikdg",
+        "comment": "Groww Smart Analyzer | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "88b1a75e-7a57-5271-88fb-4aeb36f4a77f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gfgpciipppjpfjmjhcjmfnapfilhikdg",
+        "comment": "Chrome Web Store entry for Groww Smart Analyzer (gfgpciipppjpfjmjhcjmfnapfilhikdg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d603fb3a-ad2e-51a4-841c-31c0f0292a1d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cfbhkfgfjmfpkppgmnglkegbgkmmmfcf",
+        "comment": "Blackjack Strategy Adviso | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bb5c746d-f04d-5735-be0e-79145d134828",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cfbhkfgfjmfpkppgmnglkegbgkmmmfcf",
+        "comment": "Chrome Web Store entry for Blackjack Strategy Adviso (cfbhkfgfjmfpkppgmnglkegbgkmmmfcf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "63c49f7c-dc9b-55fd-8a8e-f846e9a74eb0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ifnhdcdnpkicmmellhmkafcjdgoijail",
+        "comment": "Wicked | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "6e43a983-5e8d-5c7f-b6c2-c5137264aebf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ifnhdcdnpkicmmellhmkafcjdgoijail",
+        "comment": "Chrome Web Store entry for Wicked (ifnhdcdnpkicmmellhmkafcjdgoijail)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c2446def-0833-5523-a3e5-eb9e75568edf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljhnndlmlendhmgedolhgegjhbkjkcbm",
+        "comment": "Kung Fu Panda 2 | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "227e3665-fc46-5335-83f8-d7ee8c4388b2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljhnndlmlendhmgedolhgegjhbkjkcbm",
+        "comment": "Chrome Web Store entry for Kung Fu Panda 2 (ljhnndlmlendhmgedolhgegjhbkjkcbm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "06b1b259-e7ce-50dc-9ed6-8dd608ba2bdc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kakbikilhofblljdlmnncmicnjhcndmk",
+        "comment": "Kung Fu Panda 4 Browser T | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ef85da31-6650-5a60-940e-6245705534e5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kakbikilhofblljdlmnncmicnjhcndmk",
+        "comment": "Chrome Web Store entry for Kung Fu Panda 4 Browser T (kakbikilhofblljdlmnncmicnjhcndmk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "abc497a2-6f2a-5e5f-b778-985d70fa3a6d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hchjbnccpaonhbbdfaidcohekjnljgjj",
+        "comment": "Panda Kung Fu 3 | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b201095e-e1b5-5cf5-8347-16c4c469c4fd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hchjbnccpaonhbbdfaidcohekjnljgjj",
+        "comment": "Chrome Web Store entry for Panda Kung Fu 3 (hchjbnccpaonhbbdfaidcohekjnljgjj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3e8d667a-ce76-5e4b-8b9c-8b532132235b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bekknnianaobjaamjendcnfjgkjonefm",
+        "comment": "Kung Fu Panda 3 Movie | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7f3d1a65-a59b-5de4-a924-0e65d2d0e887",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bekknnianaobjaamjendcnfjgkjonefm",
+        "comment": "Chrome Web Store entry for Kung Fu Panda 3 Movie (bekknnianaobjaamjendcnfjgkjonefm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "81b9e248-faa9-5304-b110-153332accca6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "agmjobjagbllceafphmfgokobflfbbbc",
+        "comment": "N\u00fa\u00f1Ez Pagos 50% | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f1a0d4ee-dcbc-54aa-9e49-f973cd951d7c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/agmjobjagbllceafphmfgokobflfbbbc",
+        "comment": "Chrome Web Store entry for N\u00fa\u00f1Ez Pagos 50% (agmjobjagbllceafphmfgokobflfbbbc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b86ce868-2f82-557d-b49c-0b26cc690a0b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gihpjdkaalndncchppfeoeeelkdemfim",
+        "comment": "Kung Fu Panda 3 | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "83cbb580-675e-5659-abd1-d201bfcbb28d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gihpjdkaalndncchppfeoeeelkdemfim",
+        "comment": "Chrome Web Store entry for Kung Fu Panda 3 (gihpjdkaalndncchppfeoeeelkdemfim)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5e40fa8c-22b2-5cde-93ee-31dad1f88824",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iefpkdilnfhogjbkhgnliaomoldgkdlj",
+        "comment": "Reverse Recruiting Ai Job | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "76ab2f68-6a95-5c75-ba3d-9f24998b9405",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iefpkdilnfhogjbkhgnliaomoldgkdlj",
+        "comment": "Chrome Web Store entry for Reverse Recruiting Ai Job (iefpkdilnfhogjbkhgnliaomoldgkdlj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d3ac088b-6b67-58ed-b45d-cae6d3332830",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ajogkbkdomdjamjipaoapkkfkdcbjeom",
+        "comment": "Kung Fu Panda 2 Hd | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1fd374c8-3eba-542d-b083-0d1d17df3fc6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ajogkbkdomdjamjipaoapkkfkdcbjeom",
+        "comment": "Chrome Web Store entry for Kung Fu Panda 2 Hd (ajogkbkdomdjamjipaoapkkfkdcbjeom)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0f96b458-bb9f-530b-94c5-d5046aff45aa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "onkmeilaaocjinfdpkdlpmfhjekaahed",
+        "comment": "Cv Poet | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "80637339-d60a-553f-af38-38293743e82b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/onkmeilaaocjinfdpkdlpmfhjekaahed",
+        "comment": "Chrome Web Store entry for Cv Poet (onkmeilaaocjinfdpkdlpmfhjekaahed)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f9a936d8-01c0-5a42-b6db-5b7395fcaac9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "embnfgbapngmmabnniopmpmliafogbnj",
+        "comment": "Defillama+ | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "872b8372-403b-5992-b8c8-55857c29333d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/embnfgbapngmmabnniopmpmliafogbnj",
+        "comment": "Chrome Web Store entry for Defillama+ (embnfgbapngmmabnniopmpmliafogbnj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "09c770a4-c066-5193-9416-ddaaaaf6a429",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nffmdokmgpgbnjdpibbfhhnminiackjg",
+        "comment": "Kung Fu Panda Tigress | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ce98453e-2d32-522c-ba7a-f9af23ed3063",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nffmdokmgpgbnjdpibbfhhnminiackjg",
+        "comment": "Chrome Web Store entry for Kung Fu Panda Tigress (nffmdokmgpgbnjdpibbfhhnminiackjg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "31eb5eec-3da0-50d6-9505-26973ad45f6b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ffocfibjgakneigiajpccfcdmomlbapo",
+        "comment": "Nano Banana | Source: Store Monitoring | Added: 2026-04-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1b817d3a-f46f-51f1-a4df-8205dbbbb9d5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ffocfibjgakneigiajpccfcdmomlbapo",
+        "comment": "Chrome Web Store entry for Nano Banana (ffocfibjgakneigiajpccfcdmomlbapo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "805c9d55-c10b-5c98-a2c5-9658d17a3ea0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gccmamojpfldicdmgjdiacabcmbfmofb",
+        "comment": "Base Wallet | Source: Store Monitoring | Added: 2026-04-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "38fd3db5-42fd-57d4-ad7a-f5253275bf56",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gccmamojpfldicdmgjdiacabcmbfmofb",
+        "comment": "Chrome Web Store entry for Base Wallet (gccmamojpfldicdmgjdiacabcmbfmofb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ae666702-962e-5f12-82fa-6e541d4a3fae",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mcbhhiafbiafmggccdcpgfldcaeipopg",
+        "comment": "Enhanced Chatgpt | Source: Store Monitoring | Added: 2026-04-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7966b66b-d5f9-53d1-b4f4-b9b1e1a96fae",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mcbhhiafbiafmggccdcpgfldcaeipopg",
+        "comment": "Chrome Web Store entry for Enhanced Chatgpt (mcbhhiafbiafmggccdcpgfldcaeipopg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b11587e3-0193-56e5-af6b-776d13ac52ce",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gadbpecoinogdkljjbjffmiijpebooce",
+        "comment": "Chatgpt Assistant Gpt Sea | Source: Store Monitoring | Added: 2026-04-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "cee436ef-731c-5d47-8974-6fd2178526a1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gadbpecoinogdkljjbjffmiijpebooce",
+        "comment": "Chrome Web Store entry for Chatgpt Assistant Gpt Sea (gadbpecoinogdkljjbjffmiijpebooce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3a8ddb99-a95a-53e3-857d-b86c263cb898",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "apejngmlbbanbmfaemoekpbobghbgmem",
+        "comment": "Online Voice Recorder | Source: Store Monitoring | Added: 2026-04-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "5345117e-fc76-523c-9cc0-005a70516312",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/apejngmlbbanbmfaemoekpbobghbgmem",
+        "comment": "Chrome Web Store entry for Online Voice Recorder (apejngmlbbanbmfaemoekpbobghbgmem)",
+        "distribution": "5"
+      },
       {
         "uuid": "62566ee4-a1a2-5f87-9332-a08ced153c52",
         "type": "text",
@@ -9723,32 +10373,6 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/pfdmleklaejjccgfhoeafapbhkjipcnj",
         "comment": "Chrome Web Store entry for Google AI (pfdmleklaejjccgfhoeafapbhkjipcnj)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "31eb5eec-3da0-50d6-9505-26973ad45f6b",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "ffocfibjgakneigiajpccfcdmomlbapo",
-        "comment": "Nano Banana | Source: Store Monitoring | Added: 2026-03-11",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          }
-        ]
-      },
-      {
-        "uuid": "1b817d3a-f46f-51f1-a4df-8205dbbbb9d5",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/ffocfibjgakneigiajpccfcdmomlbapo",
-        "comment": "Chrome Web Store entry for Nano Banana (ffocfibjgakneigiajpccfcdmomlbapo)",
         "distribution": "5"
       },
       {
