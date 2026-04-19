@@ -1,12 +1,19 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-04-18T18:05:42.291Z",
+  "generated": "2026-04-19T19:03:49.631Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1314,
+  "total_indicators": 1315,
   "indicators": [
+    {
+      "extension_id": "nfodepdbkedfahdadcglakjdmopkobon",
+      "name": "Amazon Prime Freevee Skipper",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-19",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nfodepdbkedfahdadcglakjdmopkobon"
+    },
     {
       "extension_id": "oogagmfhffbokmlpehpiokadejplchmi",
       "name": "Kung Fu Panda 3",
