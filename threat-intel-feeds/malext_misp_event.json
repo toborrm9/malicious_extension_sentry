@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-04-18",
-    "timestamp": "1776535542",
+    "date": "2026-04-19",
+    "timestamp": "1776625430",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,32 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "1a167a2c-2066-50c0-b032-3972e931a9c9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nfodepdbkedfahdadcglakjdmopkobon",
+        "comment": "Amazon Prime Freevee Skipper | Source: Store Monitoring | Added: 2026-04-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "db58269b-79ed-5fb7-8071-bb9b8028a892",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nfodepdbkedfahdadcglakjdmopkobon",
+        "comment": "Chrome Web Store entry for Amazon Prime Freevee Skipper (nfodepdbkedfahdadcglakjdmopkobon)",
+        "distribution": "5"
+      },
       {
         "uuid": "c89cc557-ab5a-519d-bc44-be8183b52532",
         "type": "text",
