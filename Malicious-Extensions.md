@@ -1,6 +1,6 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
-| nfodepdbkedfahdadcglakjdmopkobon | Amazon Prime Freevee Skipper | malicious | Store Monitoring | 19/04/26 |
+| nfodepdbkedfahdadcglakjdmopkobon | Amazon Prime Freevee Skipper | Bundling Unwanted Software | Store Monitoring | 19/04/26 |
 | oogagmfhffbokmlpehpiokadejplchmi | Kung Fu Panda 3 | Policy Violation | Store Monitoring | 18/04/26 |
 | fbbjijdngocdplimineplmdllhjkaece | Chatgpt For Chrome Search | Policy Violation | Store Monitoring | 18/04/26 |
 | kdgiododfaoegcmimpefnhdjcmbepchk | Market View Tracker | Bundling Unwanted Software | Store Monitoring | 18/04/26 |
