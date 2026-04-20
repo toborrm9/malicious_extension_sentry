@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-04-19",
-    "timestamp": "1776625430",
+    "date": "2026-04-20",
+    "timestamp": "1776703441",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,84 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "eedbef19-c1b0-5399-90bc-29cb4122be66",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "inhliijakcoojghlfgbogapleildhghb",
+        "comment": "Tiktok\u89c6\u9891\u65e0\u6c34\u5370\u4e0b\u8f7d\u5668 | Source: Store Monitoring | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "8b0be609-6291-56bb-b024-deaff5bd59c7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/inhliijakcoojghlfgbogapleildhghb",
+        "comment": "Chrome Web Store entry for Tiktok\u89c6\u9891\u65e0\u6c34\u5370\u4e0b\u8f7d\u5668 (inhliijakcoojghlfgbogapleildhghb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c54ff41a-e1ac-516a-9232-a214271251d7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adjcpjpdmmlcledcenjinjnhnjcnciih",
+        "comment": "Youtube View Bot Increase | Source: Store Monitoring | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f7032f50-edde-5fa1-99e2-33a0ae0fc9aa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/adjcpjpdmmlcledcenjinjnhnjcnciih",
+        "comment": "Chrome Web Store entry for Youtube View Bot Increase (adjcpjpdmmlcledcenjinjnhnjcnciih)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "216f6061-3041-5b2d-8f57-a4f46cd8aa5e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jkmakgpojigahjdalffbkimpnpabelio",
+        "comment": "Netflix Picture in Picture now for Prime & D+ [QVI] | Source: Store Monitoring | Added: 2026-04-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "c92542f8-f675-5ef2-aa83-83a4f64a8d80",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jkmakgpojigahjdalffbkimpnpabelio",
+        "comment": "Chrome Web Store entry for Netflix Picture in Picture now for Prime & D+ [QVI] (jkmakgpojigahjdalffbkimpnpabelio)",
+        "distribution": "5"
+      },
       {
         "uuid": "1a167a2c-2066-50c0-b032-3972e931a9c9",
         "type": "text",
