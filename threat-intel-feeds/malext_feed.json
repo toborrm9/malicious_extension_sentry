@@ -1,12 +1,33 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-04-19T19:03:49.631Z",
+  "generated": "2026-04-20T16:44:00.835Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1315,
+  "total_indicators": 1318,
   "indicators": [
+    {
+      "extension_id": "inhliijakcoojghlfgbogapleildhghb",
+      "name": "Tiktok\u89c6\u9891\u65e0\u6c34\u5370\u4e0b\u8f7d\u5668",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-20",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/inhliijakcoojghlfgbogapleildhghb"
+    },
+    {
+      "extension_id": "adjcpjpdmmlcledcenjinjnhnjcnciih",
+      "name": "Youtube View Bot Increase",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-20",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/adjcpjpdmmlcledcenjinjnhnjcnciih"
+    },
+    {
+      "extension_id": "jkmakgpojigahjdalffbkimpnpabelio",
+      "name": "Netflix Picture in Picture now for Prime & D+ [QVI]",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-19",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jkmakgpojigahjdalffbkimpnpabelio"
+    },
     {
       "extension_id": "nfodepdbkedfahdadcglakjdmopkobon",
       "name": "Amazon Prime Freevee Skipper",
