@@ -1,12 +1,19 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-04-20T16:44:00.835Z",
+  "generated": "2026-04-20T21:23:11.567Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1318,
+  "total_indicators": 1319,
   "indicators": [
+    {
+      "extension_id": "chjdellkkbngmkkdpckgfmpdjfianamb",
+      "name": "Echoweb Website Traffic S",
+      "source": "Store Monitoring",
+      "insert_date": "2026-04-20",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/chjdellkkbngmkkdpckgfmpdjfianamb"
+    },
     {
       "extension_id": "inhliijakcoojghlfgbogapleildhghb",
       "name": "Tiktok\u89c6\u9891\u65e0\u6c34\u5370\u4e0b\u8f7d\u5668",
