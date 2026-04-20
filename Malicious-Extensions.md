@@ -1,5 +1,6 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| chjdellkkbngmkkdpckgfmpdjfianamb | Echoweb Website Traffic S | Malware | Store Monitoring | 20/04/26 |
 | inhliijakcoojghlfgbogapleildhghb | Tiktok视频无水印下载器 | Policy Violation | Store Monitoring | 20/04/26 |
 | adjcpjpdmmlcledcenjinjnhnjcnciih | Youtube View Bot Increase | Malware | Store Monitoring | 20/04/26 |
 | jkmakgpojigahjdalffbkimpnpabelio | Netflix Picture in Picture now for Prime & D+ [QVI] | Bundling Unwanted Software | Store Monitoring | 19/04/26 |
