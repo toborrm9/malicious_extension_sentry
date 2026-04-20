@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-04-20",
-    "timestamp": "1776703441",
+    "timestamp": "1776720191",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,32 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "d262d9dd-853e-5dc2-a86b-6ca573fba9f8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "chjdellkkbngmkkdpckgfmpdjfianamb",
+        "comment": "Echoweb Website Traffic S | Source: Store Monitoring | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f8820129-a31c-543f-9023-122e2e02e33d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/chjdellkkbngmkkdpckgfmpdjfianamb",
+        "comment": "Chrome Web Store entry for Echoweb Website Traffic S (chjdellkkbngmkkdpckgfmpdjfianamb)",
+        "distribution": "5"
+      },
       {
         "uuid": "eedbef19-c1b0-5399-90bc-29cb4122be66",
         "type": "text",
