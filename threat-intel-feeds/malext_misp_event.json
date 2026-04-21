@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-04-20",
-    "timestamp": "1776720191",
+    "date": "2026-04-21",
+    "timestamp": "1776801243",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,188 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "bf43a1fe-1111-5fee-914e-9aaa7a0540d7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cgjlgmcfhoicddhjikmjglhgibchboea",
+        "comment": "Bpuzzle Tetris Game | Source: Store Monitoring | Added: 2026-04-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a12f2c8d-8191-533d-8456-5b9f0265fb11",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cgjlgmcfhoicddhjikmjglhgibchboea",
+        "comment": "Chrome Web Store entry for Bpuzzle Tetris Game (cgjlgmcfhoicddhjikmjglhgibchboea)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b5452004-ee42-5c41-8df3-78d85467121b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "membjdlghnjabalehklnkchehfhplibj",
+        "comment": "Tiktok Downloader | Source: Store Monitoring | Added: 2026-04-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "97bd7e04-1ff6-55c2-8108-8602d25d0650",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/membjdlghnjabalehklnkchehfhplibj",
+        "comment": "Chrome Web Store entry for Tiktok Downloader (membjdlghnjabalehklnkchehfhplibj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "735dbe00-ae59-5e3d-b0d3-693e5c60cad1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "annaoohlkckgfpabedmnbleidfjabnho",
+        "comment": "Tiktok\u8bc4\u8bba\u5bfc\u51fa\u522e\u5200\u5de5\u5177 | Source: Store Monitoring | Added: 2026-04-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d84b3d66-2961-5c1f-aeff-bc7e5facb477",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/annaoohlkckgfpabedmnbleidfjabnho",
+        "comment": "Chrome Web Store entry for Tiktok\u8bc4\u8bba\u5bfc\u51fa\u522e\u5200\u5de5\u5177 (annaoohlkckgfpabedmnbleidfjabnho)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "77155ce8-b9b5-597f-ab35-5b7db78a9269",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iikipimjoiepbfmpiglnkgkcepnkjfie",
+        "comment": "Tetrigame | Source: Store Monitoring | Added: 2026-04-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "48aa1be2-f579-5b66-b9ff-41f7e2b3fa02",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iikipimjoiepbfmpiglnkgkcepnkjfie",
+        "comment": "Chrome Web Store entry for Tetrigame (iikipimjoiepbfmpiglnkgkcepnkjfie)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f77e974c-9f9a-50f8-81b9-15ccdb5f48a0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nllppfnifjiccjacjiaonomhggcgildm",
+        "comment": "Tetrem | Source: Store Monitoring | Added: 2026-04-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "59ea5153-10c8-569c-b48d-6cab24b91fbb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nllppfnifjiccjacjiaonomhggcgildm",
+        "comment": "Chrome Web Store entry for Tetrem (nllppfnifjiccjacjiaonomhggcgildm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fdb8ac12-2a32-5a37-a82c-cee11dcfdc9b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "heehbfcijoikjphilbhaldjgoplpplok",
+        "comment": "Tiktok Extension | Source: Store Monitoring | Added: 2026-04-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ce80fc36-a644-544c-8691-1c92dc04becc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/heehbfcijoikjphilbhaldjgoplpplok",
+        "comment": "Chrome Web Store entry for Tiktok Extension (heehbfcijoikjphilbhaldjgoplpplok)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fdfaec8f-0d34-55ba-ab60-6fff26de12fe",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jpdhdeabikbmklmacididiaifpcploif",
+        "comment": "Tetrastack Tetris Style B | Source: Store Monitoring | Added: 2026-04-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e311b23f-4153-571c-b20a-d6a865e07bf7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jpdhdeabikbmklmacididiaifpcploif",
+        "comment": "Chrome Web Store entry for Tetrastack Tetris Style B (jpdhdeabikbmklmacididiaifpcploif)",
+        "distribution": "5"
+      },
       {
         "uuid": "d262d9dd-853e-5dc2-a86b-6ca573fba9f8",
         "type": "text",
@@ -6707,32 +6889,6 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/kfemlcmefehdnnnfjplhckdndgaglnhc",
         "comment": "Chrome Web Store entry for Trixel Tetris Falling Blo (kfemlcmefehdnnnfjplhckdndgaglnhc)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "fdfaec8f-0d34-55ba-ab60-6fff26de12fe",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "jpdhdeabikbmklmacididiaifpcploif",
-        "comment": "Tetrastack Tetris Style B | Source: Store Monitoring | Added: 2026-04-10",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          }
-        ]
-      },
-      {
-        "uuid": "e311b23f-4153-571c-b20a-d6a865e07bf7",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/jpdhdeabikbmklmacididiaifpcploif",
-        "comment": "Chrome Web Store entry for Tetrastack Tetris Style B (jpdhdeabikbmklmacididiaifpcploif)",
         "distribution": "5"
       },
       {
