@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| cgjlgmcfhoicddhjikmjglhgibchboea | Bpuzzle Tetris Game | Policy Violation | Store Monitoring | 21/04/26 |
+| membjdlghnjabalehklnkchehfhplibj | Tiktok Downloader | Policy Violation | Store Monitoring | 21/04/26 |
+| annaoohlkckgfpabedmnbleidfjabnho | Tiktok评论导出刮刀工具 | Policy Violation | Store Monitoring | 21/04/26 |
+| iikipimjoiepbfmpiglnkgkcepnkjfie | Tetrigame | Policy Violation | Store Monitoring | 21/04/26 |
+| nllppfnifjiccjacjiaonomhggcgildm | Tetrem | Policy Violation | Store Monitoring | 21/04/26 |
+| heehbfcijoikjphilbhaldjgoplpplok | Tiktok Extension | Policy Violation | Store Monitoring | 21/04/26 |
+| jpdhdeabikbmklmacididiaifpcploif | Tetrastack Tetris Style B | Policy Violation | Store Monitoring | 21/04/26 |
 | chjdellkkbngmkkdpckgfmpdjfianamb | Echoweb Website Traffic S | Malware | Store Monitoring | 20/04/26 |
 | inhliijakcoojghlfgbogapleildhghb | Tiktok视频无水印下载器 | Policy Violation | Store Monitoring | 20/04/26 |
 | adjcpjpdmmlcledcenjinjnhnjcnciih | Youtube View Bot Increase | Malware | Store Monitoring | 20/04/26 |
@@ -257,7 +264,6 @@
 | efiandhebakfkcgmfjfhemaachelolll | Indian Visa Autofill Free | Policy Violation | Store Monitoring | 10/04/26 |
 | ljpfokmdomkbjmnplfigpjefemkcigca | Qr Tetris Screensaver | Policy Violation | Store Monitoring | 10/04/26 |
 | kfemlcmefehdnnnfjplhckdndgaglnhc | Trixel Tetris Falling Blo | Policy Violation | Store Monitoring | 10/04/26 |
-| jpdhdeabikbmklmacididiaifpcploif | Tetrastack Tetris Style B | Policy Violation | Store Monitoring | 10/04/26 |
 | kmjdfdcmhacinpgipgoplfagelaccakl | Youtube View Bot | Malware | Store Monitoring | 10/04/26 |
 | fmnadcdniomhekonddamdlciknhnnjfl | Jegtris Free Classic Tetr | Policy Violation | Store Monitoring | 10/04/26 |
 | klnndcfpflikaeipgimmbhjhhhcegpoi | Linkedin Queens Puzzle So | Policy Violation | Store Monitoring | 10/04/26 |
