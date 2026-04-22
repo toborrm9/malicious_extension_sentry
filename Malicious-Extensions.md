@@ -1,5 +1,11 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| jhjomhjgolkejjhnglnammeflgedabbo | Stacker Falling Block | Policy Violation | Store Monitoring | 22/04/26 |
+| lnldeihhegenieijjghchpibcopifadd | Tiktok Video Saver | Policy Violation | Store Monitoring | 22/04/26 |
+| gccmamojpfldicdmgjdiacabcmbfmofb | Base Wallet | Bundling Unwanted Software | Store Monitoring | 22/04/26 |
+| jkaafnmmjecejakfanneehifglpdpccp | Cleanify – Social Chat Cl | Policy Violation | Store Monitoring | 22/04/26 |
+| kjbjbbpjmglncndehlbneolhickdejoa | Gemini 25 Pro Sidebar | Policy Violation | Store Monitoring | 22/04/26 |
+| gdldfceehpabhcehoglbnfgkdpgnnelo | Leadspicker | Policy Violation | Store Monitoring | 22/04/26 |
 | cgjlgmcfhoicddhjikmjglhgibchboea | Bpuzzle Tetris Game | Policy Violation | Store Monitoring | 21/04/26 |
 | membjdlghnjabalehklnkchehfhplibj | Tiktok Downloader | Policy Violation | Store Monitoring | 21/04/26 |
 | annaoohlkckgfpabedmnbleidfjabnho | Tiktok评论导出刮刀工具 | Policy Violation | Store Monitoring | 21/04/26 |
@@ -7,6 +13,18 @@
 | nllppfnifjiccjacjiaonomhggcgildm | Tetrem | Policy Violation | Store Monitoring | 21/04/26 |
 | heehbfcijoikjphilbhaldjgoplpplok | Tiktok Extension | Policy Violation | Store Monitoring | 21/04/26 |
 | jpdhdeabikbmklmacididiaifpcploif | Tetrastack Tetris Style B | Policy Violation | Store Monitoring | 21/04/26 |
+| cgnbfcoeopaehocfdnkkjecibafichje | Video Downloader for Tiktok | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
+| kmobjdioiclamniofdnngmafbhgcniok | TikTok Video Keeper | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
+| ilcjgmjecbhpgpipmkfkibjopafpbcag | TikTok Downloader – Save Videos, No Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
+| oaceepljpkcbcgccnmlepeofkhplkbih | Mass Tiktok Video Downloader | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
+| jacilgchggenbmgbfnehcegalhlgpnhf | Mass Tiktok Video Downloader | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
+| kbifpojhlkdoidmndacedmkbjopeekgl | TikTok Downloader – Save Videos, No Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
+| kkhjihaeddnhknninbekkhaklnailngh | TikTok Video Downloader – Save Without Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
+| mpalaahimeigibehbocnjipjfakekfia | Mass Tiktok Video Downloader | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
+| cfbgdmiobbicgjnaegnenlcgbdabkcli | TikTok Video Downloader – Save Without Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
+| pfpijacnpangmkfdpgodlbokpkhpkeka | Tiktok Downloader | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
+| ehdkeonoccndeaggbnolijnmmeohkbpf | TikTok Video Downloader – Bulk Save | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders) | 20/04/26 |
+| injnjbcogjhcjhnhcbmlahgikemedbko | TikTok Downloader – Save Videos, No Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders) | 20/04/26 |
 | chjdellkkbngmkkdpckgfmpdjfianamb | Echoweb Website Traffic S | Malware | Store Monitoring | 20/04/26 |
 | inhliijakcoojghlfgbogapleildhghb | Tiktok视频无水印下载器 | Policy Violation | Store Monitoring | 20/04/26 |
 | adjcpjpdmmlcledcenjinjnhnjcnciih | Youtube View Bot Increase | Malware | Store Monitoring | 20/04/26 |
@@ -33,7 +51,6 @@
 | embnfgbapngmmabnniopmpmliafogbnj | Defillama+ | Policy Violation | Store Monitoring | 18/04/26 |
 | nffmdokmgpgbnjdpibbfhhnminiackjg | Kung Fu Panda Tigress | Policy Violation | Store Monitoring | 18/04/26 |
 | ffocfibjgakneigiajpccfcdmomlbapo | Nano Banana | Policy Violation | Store Monitoring | 18/04/26 |
-| gccmamojpfldicdmgjdiacabcmbfmofb | Base Wallet | Bundling Unwanted Software | Store Monitoring | 17/04/26 |
 | mcbhhiafbiafmggccdcpgfldcaeipopg | Enhanced Chatgpt | Policy Violation | Store Monitoring | 17/04/26 |
 | gadbpecoinogdkljjbjffmiijpebooce | Chatgpt Assistant Gpt Sea | Policy Violation | Store Monitoring | 17/04/26 |
 | apejngmlbbanbmfaemoekpbobghbgmem | Online Voice Recorder | Policy Violation | Store Monitoring | 17/04/26 |
@@ -56,7 +73,6 @@
 | hdfjcnbkkbdbapfpmlglnemkjonimkgp | Hyperliquid Extension Per | Malware | Store Monitoring | 15/04/26 |
 | hcicfibkpbfgbiodaliaemhhoodakdco | Tre‮Roz‬ Sui‮Et‬ Vault Sw | Malware | Store Monitoring | 15/04/26 |
 | jdhlmbbkcnblagpianmgafolcpmlmbfa | L‮regde‬ L‮evi‬ Vault Swa | Malware | Store Monitoring | 15/04/26 |
-| jkaafnmmjecejakfanneehifglpdpccp | Cleanify – Social Chat Cl | Policy Violation | Store Monitoring | 15/04/26 |
 | hanfebikglcfkkeoelhdkpiamjmahjen | Tiktok Liker | Policy Violation | Store Monitoring | 15/04/26 |
 | cbnekafldflkmngbgmbnfmchjaelnhem | Game Skyspeedster | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
 | clpgopiimdjcilllcjncdkoeikkkcfbi | ﻿billiards Pro | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
@@ -171,7 +187,6 @@
 | fohllhaekplgfcocgdbdaghdaphgekjl | Aliexplore Aliexpress Sea | Policy Violation | Store Monitoring | 13/04/26 |
 | gglbjeoapomacolgaddjppmbdncglcio | Detective Pikachu | Policy Violation | Store Monitoring | 13/04/26 |
 | hogoebkpcnajkkjdidfhojkljppfalip | Crowdwise | Policy Violation | Store Monitoring | 13/04/26 |
-| kjbjbbpjmglncndehlbneolhickdejoa | Gemini 25 Pro Sidebar | Policy Violation | Store Monitoring | 13/04/26 |
 | oahegmgcjlpcachkhdngcjopmflnobci | Ipchanger Vpn Ip Proxy Fo | Policy Violation | Store Monitoring | 13/04/26 |
 | coegijljhiejhdodjbnlglffjomlbgmi | Hashdit | Policy Violation | Store Monitoring | 13/04/26 |
 | pbplelndplalkhebhegbmpgkdodknnae | Charizard Pokemon Live Wa | Policy Violation | Store Monitoring | 13/04/26 |
@@ -211,7 +226,6 @@
 | ebeiohfighdabjhkklnghfofnnfglmad | Vennbrd Gif + Emoji As Yo | Policy Violation | Store Monitoring | 13/04/26 |
 | emppaabanpbeeihodkoikmpopkjkdojc | 6Degrees Linkedin Sync | Policy Violation | Store Monitoring | 13/04/26 |
 | ioofbfcjhabkdfhngedpocamlakdanlk | Little Pikachu In The Mor | Policy Violation | Store Monitoring | 13/04/26 |
-| gdldfceehpabhcehoglbnfgkdpgnnelo | Leadspicker | Policy Violation | Store Monitoring | 13/04/26 |
 | ibnddagnllnjoelaapgbkaelfakcfelb | Spongebob Is Swimming Liv | Policy Violation | Store Monitoring | 13/04/26 |
 | ailnbbigginhlppdboejnjhcmldkolio | Linkedin Cookie Importer | Policy Violation | Store Monitoring | 13/04/26 |
 | mjdnhhajbhoicofpbkoakkflkpnblkjn | A Cute Explorer Pikachu | Policy Violation | Store Monitoring | 13/04/26 |
