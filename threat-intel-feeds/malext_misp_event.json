@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-04-21",
-    "timestamp": "1776801243",
+    "date": "2026-04-22",
+    "timestamp": "1776856995",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,162 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "b21fb43f-7fe4-58fb-9ebb-3382e7b1ec95",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jhjomhjgolkejjhnglnammeflgedabbo",
+        "comment": "Stacker Falling Block | Source: Store Monitoring | Added: 2026-04-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a98c661d-d3d0-5da6-8aec-d7ba20f796b5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jhjomhjgolkejjhnglnammeflgedabbo",
+        "comment": "Chrome Web Store entry for Stacker Falling Block (jhjomhjgolkejjhnglnammeflgedabbo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "aa999271-b85f-5852-97b7-2f1add96646b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lnldeihhegenieijjghchpibcopifadd",
+        "comment": "Tiktok Video Saver | Source: Store Monitoring | Added: 2026-04-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "da9ba1d4-051c-5e70-a4c4-955606520f3a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lnldeihhegenieijjghchpibcopifadd",
+        "comment": "Chrome Web Store entry for Tiktok Video Saver (lnldeihhegenieijjghchpibcopifadd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "805c9d55-c10b-5c98-a2c5-9658d17a3ea0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gccmamojpfldicdmgjdiacabcmbfmofb",
+        "comment": "Base Wallet | Source: Store Monitoring | Added: 2026-04-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "38fd3db5-42fd-57d4-ad7a-f5253275bf56",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gccmamojpfldicdmgjdiacabcmbfmofb",
+        "comment": "Chrome Web Store entry for Base Wallet (gccmamojpfldicdmgjdiacabcmbfmofb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b720172c-75c2-5021-85df-29f0ab655222",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jkaafnmmjecejakfanneehifglpdpccp",
+        "comment": "Cleanify \u2013 Social Chat Cl | Source: Store Monitoring | Added: 2026-04-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "434d04d8-0a83-5e50-96bf-f34d89098958",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jkaafnmmjecejakfanneehifglpdpccp",
+        "comment": "Chrome Web Store entry for Cleanify \u2013 Social Chat Cl (jkaafnmmjecejakfanneehifglpdpccp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "214608bd-f71d-523d-938d-d9ec2a5885d3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kjbjbbpjmglncndehlbneolhickdejoa",
+        "comment": "Gemini 25 Pro Sidebar | Source: Store Monitoring | Added: 2026-04-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "294ae207-812e-54d8-924c-defcb748e872",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kjbjbbpjmglncndehlbneolhickdejoa",
+        "comment": "Chrome Web Store entry for Gemini 25 Pro Sidebar (kjbjbbpjmglncndehlbneolhickdejoa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1ae2648d-9398-5192-a7cf-912da61f7436",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gdldfceehpabhcehoglbnfgkdpgnnelo",
+        "comment": "Leadspicker | Source: Store Monitoring | Added: 2026-04-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bfcb7c21-73bb-53cb-87cc-524983e6501b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gdldfceehpabhcehoglbnfgkdpgnnelo",
+        "comment": "Chrome Web Store entry for Leadspicker (gdldfceehpabhcehoglbnfgkdpgnnelo)",
+        "distribution": "5"
+      },
       {
         "uuid": "bf43a1fe-1111-5fee-914e-9aaa7a0540d7",
         "type": "text",
@@ -207,6 +363,318 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/jpdhdeabikbmklmacididiaifpcploif",
         "comment": "Chrome Web Store entry for Tetrastack Tetris Style B (jpdhdeabikbmklmacididiaifpcploif)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "103d4f58-f0a8-5610-979e-2687ab7c8ae8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cgnbfcoeopaehocfdnkkjecibafichje",
+        "comment": "Video Downloader for Tiktok | Source: https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/ | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/\""
+          }
+        ]
+      },
+      {
+        "uuid": "322efcc0-3b51-5bf6-afc8-ad1ca2716e19",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cgnbfcoeopaehocfdnkkjecibafichje",
+        "comment": "Chrome Web Store entry for Video Downloader for Tiktok (cgnbfcoeopaehocfdnkkjecibafichje)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "38564b01-d313-5667-be75-97404291e80e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kmobjdioiclamniofdnngmafbhgcniok",
+        "comment": "TikTok Video Keeper | Source: https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/ | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/\""
+          }
+        ]
+      },
+      {
+        "uuid": "21d588fd-ed40-5fe9-a5e7-8b79af583dcc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kmobjdioiclamniofdnngmafbhgcniok",
+        "comment": "Chrome Web Store entry for TikTok Video Keeper (kmobjdioiclamniofdnngmafbhgcniok)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8091ac90-9968-5512-96d9-014c59e66590",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ilcjgmjecbhpgpipmkfkibjopafpbcag",
+        "comment": "TikTok Downloader \u2013 Save Videos, No Watermark | Source: https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/ | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/\""
+          }
+        ]
+      },
+      {
+        "uuid": "09628ece-775f-5939-9673-e5f38b855e44",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ilcjgmjecbhpgpipmkfkibjopafpbcag",
+        "comment": "Chrome Web Store entry for TikTok Downloader \u2013 Save Videos, No Watermark (ilcjgmjecbhpgpipmkfkibjopafpbcag)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4b4d2fe3-aeb8-50f5-a22d-d3267eba88e3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oaceepljpkcbcgccnmlepeofkhplkbih",
+        "comment": "Mass Tiktok Video Downloader | Source: https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/ | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/\""
+          }
+        ]
+      },
+      {
+        "uuid": "92424bbb-6418-5b65-9657-9bee4fc6a8b6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oaceepljpkcbcgccnmlepeofkhplkbih",
+        "comment": "Chrome Web Store entry for Mass Tiktok Video Downloader (oaceepljpkcbcgccnmlepeofkhplkbih)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "39497328-d4c4-5dfd-9653-859ba8806953",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jacilgchggenbmgbfnehcegalhlgpnhf",
+        "comment": "Mass Tiktok Video Downloader | Source: https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/ | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2423611-d24f-59e2-9229-f2582e837f70",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jacilgchggenbmgbfnehcegalhlgpnhf",
+        "comment": "Chrome Web Store entry for Mass Tiktok Video Downloader (jacilgchggenbmgbfnehcegalhlgpnhf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "19c3fb2d-b41a-5c43-bfa0-c88f064e31af",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kbifpojhlkdoidmndacedmkbjopeekgl",
+        "comment": "TikTok Downloader \u2013 Save Videos, No Watermark | Source: https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/ | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/\""
+          }
+        ]
+      },
+      {
+        "uuid": "a33dcc04-a68d-5c61-9743-5f3168be4e82",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kbifpojhlkdoidmndacedmkbjopeekgl",
+        "comment": "Chrome Web Store entry for TikTok Downloader \u2013 Save Videos, No Watermark (kbifpojhlkdoidmndacedmkbjopeekgl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "29fdc7d5-59ca-578e-a57b-804864fc2e0d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kkhjihaeddnhknninbekkhaklnailngh",
+        "comment": "TikTok Video Downloader \u2013 Save Without Watermark | Source: https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/ | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/\""
+          }
+        ]
+      },
+      {
+        "uuid": "7284da82-b2b6-54c4-aab8-9ca307233923",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kkhjihaeddnhknninbekkhaklnailngh",
+        "comment": "Chrome Web Store entry for TikTok Video Downloader \u2013 Save Without Watermark (kkhjihaeddnhknninbekkhaklnailngh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1b650955-f68d-56ef-b2c1-b82ba86fb551",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mpalaahimeigibehbocnjipjfakekfia",
+        "comment": "Mass Tiktok Video Downloader | Source: https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/ | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/\""
+          }
+        ]
+      },
+      {
+        "uuid": "b85dae5f-46ce-58e1-8d0d-8ba4379961bf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mpalaahimeigibehbocnjipjfakekfia",
+        "comment": "Chrome Web Store entry for Mass Tiktok Video Downloader (mpalaahimeigibehbocnjipjfakekfia)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "af00e188-8030-5485-a3d2-f3b1ec970f91",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cfbgdmiobbicgjnaegnenlcgbdabkcli",
+        "comment": "TikTok Video Downloader \u2013 Save Without Watermark | Source: https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/ | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/\""
+          }
+        ]
+      },
+      {
+        "uuid": "1c5530f7-3446-5a5d-9e29-3e9a4037a0e3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cfbgdmiobbicgjnaegnenlcgbdabkcli",
+        "comment": "Chrome Web Store entry for TikTok Video Downloader \u2013 Save Without Watermark (cfbgdmiobbicgjnaegnenlcgbdabkcli)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c4059145-4837-5d1f-90c6-622a5e33c0b1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pfpijacnpangmkfdpgodlbokpkhpkeka",
+        "comment": "Tiktok Downloader | Source: https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/ | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/\""
+          }
+        ]
+      },
+      {
+        "uuid": "0eeeebd4-4be0-5e18-bf73-9cb0338c0d22",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pfpijacnpangmkfdpgodlbokpkhpkeka",
+        "comment": "Chrome Web Store entry for Tiktok Downloader (pfpijacnpangmkfdpgodlbokpkhpkeka)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c0e0f6ac-7c7e-5afd-b579-8bf110db3bcd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ehdkeonoccndeaggbnolijnmmeohkbpf",
+        "comment": "TikTok Video Downloader \u2013 Bulk Save | Source: https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders\""
+          }
+        ]
+      },
+      {
+        "uuid": "6e5ecced-4903-5acd-af6c-81d7df16091d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ehdkeonoccndeaggbnolijnmmeohkbpf",
+        "comment": "Chrome Web Store entry for TikTok Video Downloader \u2013 Bulk Save (ehdkeonoccndeaggbnolijnmmeohkbpf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a23d16cb-2611-5f13-91be-51c8313410a1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "injnjbcogjhcjhnhcbmlahgikemedbko",
+        "comment": "TikTok Downloader \u2013 Save Videos, No Watermark | Source: https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders | Added: 2026-04-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders\""
+          }
+        ]
+      },
+      {
+        "uuid": "36092ff6-1b64-5aa5-8ed1-fa6ceb3470bc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/injnjbcogjhcjhnhcbmlahgikemedbko",
+        "comment": "Chrome Web Store entry for TikTok Downloader \u2013 Save Videos, No Watermark (injnjbcogjhcjhnhcbmlahgikemedbko)",
         "distribution": "5"
       },
       {
@@ -886,32 +1354,6 @@
         "distribution": "5"
       },
       {
-        "uuid": "805c9d55-c10b-5c98-a2c5-9658d17a3ea0",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "gccmamojpfldicdmgjdiacabcmbfmofb",
-        "comment": "Base Wallet | Source: Store Monitoring | Added: 2026-04-17",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          }
-        ]
-      },
-      {
-        "uuid": "38fd3db5-42fd-57d4-ad7a-f5253275bf56",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/gccmamojpfldicdmgjdiacabcmbfmofb",
-        "comment": "Chrome Web Store entry for Base Wallet (gccmamojpfldicdmgjdiacabcmbfmofb)",
-        "distribution": "5"
-      },
-      {
         "uuid": "ae666702-962e-5f12-82fa-6e541d4a3fae",
         "type": "text",
         "category": "Other",
@@ -1481,32 +1923,6 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/jdhlmbbkcnblagpianmgafolcpmlmbfa",
         "comment": "Chrome Web Store entry for L\u202eregde\u202c L\u202eevi\u202c Vault Swa (jdhlmbbkcnblagpianmgafolcpmlmbfa)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "b720172c-75c2-5021-85df-29f0ab655222",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "jkaafnmmjecejakfanneehifglpdpccp",
-        "comment": "Cleanify \u2013 Social Chat Cl | Source: Store Monitoring | Added: 2026-04-15",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          }
-        ]
-      },
-      {
-        "uuid": "434d04d8-0a83-5e50-96bf-f34d89098958",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/jkaafnmmjecejakfanneehifglpdpccp",
-        "comment": "Chrome Web Store entry for Cleanify \u2013 Social Chat Cl (jkaafnmmjecejakfanneehifglpdpccp)",
         "distribution": "5"
       },
       {
@@ -4474,32 +4890,6 @@
         "distribution": "5"
       },
       {
-        "uuid": "214608bd-f71d-523d-938d-d9ec2a5885d3",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "kjbjbbpjmglncndehlbneolhickdejoa",
-        "comment": "Gemini 25 Pro Sidebar | Source: Store Monitoring | Added: 2026-04-13",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          }
-        ]
-      },
-      {
-        "uuid": "294ae207-812e-54d8-924c-defcb748e872",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/kjbjbbpjmglncndehlbneolhickdejoa",
-        "comment": "Chrome Web Store entry for Gemini 25 Pro Sidebar (kjbjbbpjmglncndehlbneolhickdejoa)",
-        "distribution": "5"
-      },
-      {
         "uuid": "a846581d-8770-555a-87ed-6cc918c16f61",
         "type": "text",
         "category": "Other",
@@ -5511,32 +5901,6 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/ioofbfcjhabkdfhngedpocamlakdanlk",
         "comment": "Chrome Web Store entry for Little Pikachu In The Mor (ioofbfcjhabkdfhngedpocamlakdanlk)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "1ae2648d-9398-5192-a7cf-912da61f7436",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "gdldfceehpabhcehoglbnfgkdpgnnelo",
-        "comment": "Leadspicker | Source: Store Monitoring | Added: 2026-04-13",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          }
-        ]
-      },
-      {
-        "uuid": "bfcb7c21-73bb-53cb-87cc-524983e6501b",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/gdldfceehpabhcehoglbnfgkdpgnnelo",
-        "comment": "Chrome Web Store entry for Leadspicker (gdldfceehpabhcehoglbnfgkdpgnnelo)",
         "distribution": "5"
       },
       {
