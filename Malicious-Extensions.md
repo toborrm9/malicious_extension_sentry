@@ -1,5 +1,9 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| pclighhhemgemdkhnhejgmdnjnoggfif | Chatgpt Turbo — Fix Lag F | Policy Violation | Store Monitoring | 23/04/26 |
+| hcajdpmoffefpkboepbgggjagedbdolf | Suprik Wallet | Malware | Store Monitoring | 23/04/26 |
+| jjijhajiibghbdnmbkeidhgkafliocja | амнезия — быстрый и надёж | Policy Violation | Store Monitoring | 23/04/26 |
+| lmhnpgogldejgkbmmenhhkfanfhbdogo | Gitlab Dark Theme | Policy Violation | Store Monitoring | 23/04/26 |
 | jhjomhjgolkejjhnglnammeflgedabbo | Stacker Falling Block | Policy Violation | Store Monitoring | 22/04/26 |
 | lnldeihhegenieijjghchpibcopifadd | Tiktok Video Saver | Policy Violation | Store Monitoring | 22/04/26 |
 | gccmamojpfldicdmgjdiacabcmbfmofb | Base Wallet | Bundling Unwanted Software | Store Monitoring | 22/04/26 |
