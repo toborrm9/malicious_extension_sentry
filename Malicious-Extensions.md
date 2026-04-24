@@ -1,5 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| ganbipgooebabahkemagcehplknpffgk | Aztec Treasure | Policy Violation | Store Monitoring | 24/04/26 |
+| mgammpcfhbffogpfceobnpcofaphocap | Tiktok Video Downloader N | Policy Violation | Store Monitoring | 24/04/26 |
+| fdohffmkhlflcpcibkgenbenmnlhjpmf | Muddy Business A Tetris 1 | Policy Violation | Store Monitoring | 24/04/26 |
+| gokcmhknbfbkchaljcbjloaebnoblcnd | Arcade Classics | Policy Violation | Store Monitoring | 24/04/26 |
+| ppmljhamhchjamlmifaboeenhipkoncg | Twilio Flex Click To Dial | Policy Violation | Store Monitoring | 24/04/26 |
+| kgaejbfladhjcnemijfijpppgglhojok | Grok Automation Hiếu TrầN | Policy Violation | Store Monitoring | 24/04/26 |
+| kcpegmldgjanlbchfbjiohlmaahblilj | Tiktok Influencer Finder | Policy Violation | Store Monitoring | 24/04/26 |
+| pnangioakbpgppagachdpfcnjncfncch | Tiktok视频下载批量工具 | Policy Violation | Store Monitoring | 24/04/26 |
+| injnjbcogjhcjhnhcbmlahgikemedbko | Tiktok Downloader – Save | Policy Violation | Store Monitoring | 24/04/26 |
+| lgakkahjfibfgmacigibnhcgepajgfdb | Music Downloader Vksaver | Malware | Store Monitoring | 24/04/26 |
 | pclighhhemgemdkhnhejgmdnjnoggfif | Chatgpt Turbo — Fix Lag F | Policy Violation | Store Monitoring | 23/04/26 |
 | hcajdpmoffefpkboepbgggjagedbdolf | Suprik Wallet | Malware | Store Monitoring | 23/04/26 |
 | jjijhajiibghbdnmbkeidhgkafliocja | амнезия — быстрый и надёж | Policy Violation | Store Monitoring | 23/04/26 |
@@ -28,7 +38,6 @@
 | cfbgdmiobbicgjnaegnenlcgbdabkcli | TikTok Video Downloader – Save Without Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
 | pfpijacnpangmkfdpgodlbokpkhpkeka | Tiktok Downloader | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
 | ehdkeonoccndeaggbnolijnmmeohkbpf | TikTok Video Downloader – Bulk Save | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders) | 20/04/26 |
-| injnjbcogjhcjhnhcbmlahgikemedbko | TikTok Downloader – Save Videos, No Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders) | 20/04/26 |
 | chjdellkkbngmkkdpckgfmpdjfianamb | Echoweb Website Traffic S | Malware | Store Monitoring | 20/04/26 |
 | inhliijakcoojghlfgbogapleildhghb | Tiktok视频无水印下载器 | Policy Violation | Store Monitoring | 20/04/26 |
 | adjcpjpdmmlcledcenjinjnhnjcnciih | Youtube View Bot Increase | Malware | Store Monitoring | 20/04/26 |
@@ -524,7 +533,6 @@
 | dehblkalhcpijgblbakdkofmlfpklkjj | Pokemon Theme | Policy Violation | Store Monitoring | 13/02/26 |
 | pcdgkgbadeggbnodegejccjffnoakcoh | VKfeed - Download music and video from VK | Policy Violation | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | bndkfmmbidllaiccmpnbdonijmicaafn | vksaver - music saver vk | Removal reason Unknown | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
-| lgakkahjfibfgmacigibnhcgepajgfdb | Music Downloader - VKsaver | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | mflibpdjoodmoppignjhciadahapkoch | VK Music - audio saver | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | ceibjdigmfbbgcpkkdpmjokkokklodmc | VK Styles - Themes for vk.com | Removal reason Unknown | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | fpmkabpaklbhbhegegapfkenkmpipick | Chat GPT for Gmail | Removal reason Unknown | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
