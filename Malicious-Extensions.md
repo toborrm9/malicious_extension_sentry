@@ -9,7 +9,6 @@
 | kcpegmldgjanlbchfbjiohlmaahblilj | Tiktok Influencer Finder | Policy Violation | Store Monitoring | 24/04/26 |
 | pnangioakbpgppagachdpfcnjncfncch | Tiktok视频下载批量工具 | Policy Violation | Store Monitoring | 24/04/26 |
 | injnjbcogjhcjhnhcbmlahgikemedbko | Tiktok Downloader – Save | Policy Violation | Store Monitoring | 24/04/26 |
-| lgakkahjfibfgmacigibnhcgepajgfdb | Music Downloader Vksaver | Malware | Store Monitoring | 24/04/26 |
 | pclighhhemgemdkhnhejgmdnjnoggfif | Chatgpt Turbo — Fix Lag F | Policy Violation | Store Monitoring | 23/04/26 |
 | hcajdpmoffefpkboepbgggjagedbdolf | Suprik Wallet | Malware | Store Monitoring | 23/04/26 |
 | jjijhajiibghbdnmbkeidhgkafliocja | амнезия — быстрый и надёж | Policy Violation | Store Monitoring | 23/04/26 |
@@ -533,6 +532,7 @@
 | dehblkalhcpijgblbakdkofmlfpklkjj | Pokemon Theme | Policy Violation | Store Monitoring | 13/02/26 |
 | pcdgkgbadeggbnodegejccjffnoakcoh | VKfeed - Download music and video from VK | Policy Violation | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | bndkfmmbidllaiccmpnbdonijmicaafn | vksaver - music saver vk | Removal reason Unknown | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
+| lgakkahjfibfgmacigibnhcgepajgfdb | Music Downloader Vksaver | Malware | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | mflibpdjoodmoppignjhciadahapkoch | VK Music - audio saver | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | ceibjdigmfbbgcpkkdpmjokkokklodmc | VK Styles - Themes for vk.com | Removal reason Unknown | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | fpmkabpaklbhbhegegapfkenkmpipick | Chat GPT for Gmail | Removal reason Unknown | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
