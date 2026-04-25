@@ -1,5 +1,8 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| ppifedcnnhokhllkjbokkekbggnlbfak | Airbnb 图片下载 | Policy Violation | Store Monitoring | 25/04/26 |
+| lehcglgkjkamolcflammloedahjocbbg | Stream Cleaner | Bundling Unwanted Software | Store Monitoring | 25/04/26 |
+| flkebkiofojicogddingbdmcmkpbplcd | Perplexity Ai | Policy Violation | Store Monitoring | 25/04/26 |
 | ganbipgooebabahkemagcehplknpffgk | Aztec Treasure | Policy Violation | Store Monitoring | 24/04/26 |
 | mgammpcfhbffogpfceobnpcofaphocap | Tiktok Video Downloader N | Policy Violation | Store Monitoring | 24/04/26 |
 | fdohffmkhlflcpcibkgenbenmnlhjpmf | Muddy Business A Tetris 1 | Policy Violation | Store Monitoring | 24/04/26 |
