@@ -1,5 +1,19 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| aeggcdnlgoodafmelonmibaaclbeejol | Chill Super Mario Pixel L | Policy Violation | Store Monitoring | 26/04/26 |
+| jplifhpepfnogkdnmimaoembccjpepmb | Light Gray Minimal Ai The | Bundling Unwanted Software | Store Monitoring | 26/04/26 |
+| hhdndjedmkghgpojgaajgmcjdnhnlejm | Steel Blue Ai Theme | Bundling Unwanted Software | Store Monitoring | 26/04/26 |
+| gjjlblcalfeokfdpnbmgjplphbkacpbd | Iniciar Conversa Whatsapp | Policy Violation | Store Monitoring | 26/04/26 |
+| keeocmalfanaeglbdieodbbpoplbklnb | Snapitfast – Screenshot S | Policy Violation | Store Monitoring | 26/04/26 |
+| ghiknhfdbocjbinidgohlpaccgpjfolj | Netflix Enhanced 20 | Policy Violation | Store Monitoring | 26/04/26 |
+| lhojojjidomkdaccdkpmejlmmbdjlhjo | Netflix Codes | Policy Violation | Store Monitoring | 26/04/26 |
+| kkhajpbefbdihlflckhhahbneaoooeka | Bulk Removal Of Tiktok Li | Policy Violation | Store Monitoring | 26/04/26 |
+| galalkniidllnlfghikjienlfgfbjibj | Grammer Examiner | Policy Violation | Store Monitoring | 26/04/26 |
+| cpopolncdlnofnhahmapebnmmgfibcdk | Amazon Reviews Exporter | Policy Violation | Store Monitoring | 26/04/26 |
+| kckhadoijmchkeomaphocmobgpgmbnek | Show Titles In X Formerly | Policy Violation | Store Monitoring | 26/04/26 |
+| gfjnealmblpoonngajddhaenfebhfajh | Tiktok Ads Manager Refres | Policy Violation | Store Monitoring | 26/04/26 |
+| ecocgofdjmiomgmgnchijbghkikolkkl | Instagram Downloader | Policy Violation | [malext.io](https://malext.io/#reports/ecocgofdjmiomgmgnchijbghkikolkkl) | 26/04/26 |
+| achcinfieogfidhjekdbbmapmffifchl | Warmr | Policy Violation | Store Monitoring | 26/04/26 |
 | ppifedcnnhokhllkjbokkekbggnlbfak | Airbnb 图片下载 | Policy Violation | Store Monitoring | 25/04/26 |
 | lehcglgkjkamolcflammloedahjocbbg | Stream Cleaner | Bundling Unwanted Software | Store Monitoring | 25/04/26 |
 | flkebkiofojicogddingbdmcmkpbplcd | Perplexity Ai | Policy Violation | Store Monitoring | 25/04/26 |
@@ -225,7 +239,6 @@
 | afipijkhaioeopfolgnagcicgpdlcink | Pricein Same Product Lowe | Policy Violation | Store Monitoring | 13/04/26 |
 | lmjjdicajpllfgekjbnnjobadadidoih | Finalytic Web Extension | Policy Violation | Store Monitoring | 13/04/26 |
 | himipdblnokdafogmdlmajgokiopcbjk | словарёк | Policy Violation | Store Monitoring | 13/04/26 |
-| achcinfieogfidhjekdbbmapmffifchl | Warmr | Policy Violation | Store Monitoring | 13/04/26 |
 | djblghckgfcjfmhhhfnjbiakmmmcmigf | Offerslove Coupon Finder | Policy Violation | Store Monitoring | 13/04/26 |
 | oedechpcnjolalnpghbibmadgfjgaopm | Nxtjob Ai Profile Optimiz | Policy Violation | Store Monitoring | 13/04/26 |
 | gibojgncpopnmbjnfdgnfihhkpooodie | Tiktok Free Video Downloa | Policy Violation | Store Monitoring | 13/04/26 |
