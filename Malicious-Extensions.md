@@ -1,5 +1,6 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| kcbmdejmlcdjmfdiaepfblnocimhlnfm | My Location Guard | Policy Violation | Store Monitoring | 27/04/26 |
 | nnjlbhbajbeagngabejdpenghpkglghd | Twitter Token Login | Policy Violation | Store Monitoring | 27/04/26 |
 | milgkhjojahbbkclkppcjpnlcpakneec | Whatsapp Blur Extension | Policy Violation | Store Monitoring | 27/04/26 |
 | jhfipnjkdcnncppbfdplmikdhlppdepd | Twitter Gif Downloader | Policy Violation | Store Monitoring | 27/04/26 |
@@ -10,6 +11,9 @@
 | mpaaggkgjenllbellfknanegfliknidd | Video Downloader For Tikt | Policy Violation | Store Monitoring | 27/04/26 |
 | aijflmhdfglijpfjhoihebemdheglpgd | Twitter Export Followers | Policy Violation | Store Monitoring | 27/04/26 |
 | iojoiocmnkglehhfhfmhobpbikieodle | My Ether Wallet | Malware | Store Monitoring | 27/04/26 |
+| dpkijnoebmekoiafbkledpjhkpgllkfe | Reddit Nav | Policy Violation | Store Monitoring | 26/04/26 |
+| jmklaacdggogjblaiofpikjjhblhicop | Netflix Rewind X Seconds | Policy Violation | Store Monitoring | 26/04/26 |
+| meccdflhmmmohgicamalaakjifgapefn | Whatsapp Remote | Policy Violation | Store Monitoring | 26/04/26 |
 | aeggcdnlgoodafmelonmibaaclbeejol | Chill Super Mario Pixel L | Policy Violation | Store Monitoring | 26/04/26 |
 | jplifhpepfnogkdnmimaoembccjpepmb | Light Gray Minimal Ai The | Bundling Unwanted Software | Store Monitoring | 26/04/26 |
 | hhdndjedmkghgpojgaajgmcjdnhnlejm | Steel Blue Ai Theme | Bundling Unwanted Software | Store Monitoring | 26/04/26 |
@@ -24,6 +28,8 @@
 | gfjnealmblpoonngajddhaenfebhfajh | Tiktok Ads Manager Refres | Policy Violation | Store Monitoring | 26/04/26 |
 | ecocgofdjmiomgmgnchijbghkikolkkl | Instagram Downloader | Policy Violation | [malext.io](https://malext.io/#reports/ecocgofdjmiomgmgnchijbghkikolkkl) | 26/04/26 |
 | achcinfieogfidhjekdbbmapmffifchl | Warmr | Policy Violation | Store Monitoring | 26/04/26 |
+| mielecbcceclacefhdjbbinppnppobba | TronLink Web3 | Malware | Store Monitoring | 25/04/26 |
+| kjnnneekgbdelkncdkjiggebdacocigm | Right Click To Instagram | Policy Violation | Store Monitoring | 25/04/26 |
 | ppifedcnnhokhllkjbokkekbggnlbfak | Airbnb 图片下载 | Policy Violation | Store Monitoring | 25/04/26 |
 | lehcglgkjkamolcflammloedahjocbbg | Stream Cleaner | Bundling Unwanted Software | Store Monitoring | 25/04/26 |
 | flkebkiofojicogddingbdmcmkpbplcd | Perplexity Ai | Policy Violation | Store Monitoring | 25/04/26 |
@@ -36,6 +42,7 @@
 | kcpegmldgjanlbchfbjiohlmaahblilj | Tiktok Influencer Finder | Policy Violation | Store Monitoring | 24/04/26 |
 | pnangioakbpgppagachdpfcnjncfncch | Tiktok视频下载批量工具 | Policy Violation | Store Monitoring | 24/04/26 |
 | injnjbcogjhcjhnhcbmlahgikemedbko | Tiktok Downloader – Save | Policy Violation | Store Monitoring | 24/04/26 |
+| cnhikhicflgjbfnllpmbbdpjcfmfnkii | Chatgpt Rtl | Policy Violation | Store Monitoring | 23/04/26 |
 | pclighhhemgemdkhnhejgmdnjnoggfif | Chatgpt Turbo — Fix Lag F | Policy Violation | Store Monitoring | 23/04/26 |
 | hcajdpmoffefpkboepbgggjagedbdolf | Suprik Wallet | Malware | Store Monitoring | 23/04/26 |
 | jjijhajiibghbdnmbkeidhgkafliocja | амнезия — быстрый и надёж | Policy Violation | Store Monitoring | 23/04/26 |
@@ -90,9 +97,15 @@
 | embnfgbapngmmabnniopmpmliafogbnj | Defillama+ | Policy Violation | Store Monitoring | 18/04/26 |
 | nffmdokmgpgbnjdpibbfhhnminiackjg | Kung Fu Panda Tigress | Policy Violation | Store Monitoring | 18/04/26 |
 | ffocfibjgakneigiajpccfcdmomlbapo | Nano Banana | Policy Violation | Store Monitoring | 18/04/26 |
+| jllebjcjaeddkfhohacafldffhbdpedp | Pokemon Fire Red Version Game | Policy Violation | Store Monitoring | 17/04/26 |
+| khkhnljbiikhodfhkbpfpgeodjmaghek | Kung Fu Panda Movie | Policy Violation | Store Monitoring | 17/04/26 |
+| dofjalblnidfghllaloiojjejmnhjllf | Kung Fu Panda 3 2016 | Policy Violation | Store Monitoring | 17/04/26 |
+| jglpailiijgdhnmgbjbjpcfeecjhjblp | 2011 Kung Fu Panda 2 Hd | Policy Violation | Store Monitoring | 17/04/26 |
+| dockhadmmbmjnenmnibpojimgjpgenbn | The Secret Life Of Pets S | Policy Violation | Store Monitoring | 17/04/26 |
 | mcbhhiafbiafmggccdcpgfldcaeipopg | Enhanced Chatgpt | Policy Violation | Store Monitoring | 17/04/26 |
 | gadbpecoinogdkljjbjffmiijpebooce | Chatgpt Assistant Gpt Sea | Policy Violation | Store Monitoring | 17/04/26 |
 | apejngmlbbanbmfaemoekpbobghbgmem | Online Voice Recorder | Policy Violation | Store Monitoring | 17/04/26 |
+| ecbhmlajeiapbbnooeohibaldjnfmiin | Art Prompt Generator | Policy Violation | Store Monitoring | 16/04/26 |
 | pjkgiojffhoepookbhloenffjmelohol | Mario Jump Game | Policy Violation | Store Monitoring | 16/04/26 |
 | dkbbbccjifnnkcbkjpnpmaiffllfpnac | Iherb Wizard Health | Policy Violation | Store Monitoring | 16/04/26 |
 | lgknneiodddmfbbpaklighafdocbfnme | Email Finder By Scalelist | Policy Violation | Store Monitoring | 16/04/26 |
@@ -104,6 +117,7 @@
 | gklaplooeocndjdlbbadlljfpkdjeiji | Deepseek Assistant | Policy Violation | Store Monitoring | 16/04/26 |
 | ilhmpmehcagdoeijhdondmidljihohfc | Mocking Text Generator | Policy Violation | Store Monitoring | 16/04/26 |
 | idmmfeifgahenlbokojjpojclkflmdfm | Character Ai | Policy Violation | Store Monitoring | 16/04/26 |
+| eeagcbejnemppblnipdpdibnljlocecb | Lingoclip Pro Universal W | Malware | Store Monitoring | 15/04/26 |
 | bifpenlakfcdhjnagknbhdiangfadfkf | Ca‮k‬e Wa‮ll‬e‮t‬ X‮rm‬ V | Malware | Store Monitoring | 15/04/26 |
 | jcfjkcgmoglkdoljgbenmiijodgjdnof | Tiktok Background Player | Policy Violation | Store Monitoring | 15/04/26 |
 | dngmeofhakepbjelmlikokpilfpjmmgn | Tiktok Block | Policy Violation | Store Monitoring | 15/04/26 |
@@ -113,6 +127,7 @@
 | hcicfibkpbfgbiodaliaemhhoodakdco | Tre‮Roz‬ Sui‮Et‬ Vault Sw | Malware | Store Monitoring | 15/04/26 |
 | jdhlmbbkcnblagpianmgafolcpmlmbfa | L‮regde‬ L‮evi‬ Vault Swa | Malware | Store Monitoring | 15/04/26 |
 | hanfebikglcfkkeoelhdkpiamjmahjen | Tiktok Liker | Policy Violation | Store Monitoring | 15/04/26 |
+| jedaibnliemmghjomdaejniddjcdbhom | Tiktok Emojis Helper | Policy Violation | Store Monitoring | 14/04/26 |
 | cbnekafldflkmngbgmbnfmchjaelnhem | Game Skyspeedster | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
 | clpgopiimdjcilllcjncdkoeikkkcfbi | ﻿billiards Pro | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
 | jodocbbdcdclkhjkibnlfhbmllcpfkfo | ﻿﻿slot Machine The Fruits | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
@@ -217,6 +232,15 @@
 | cmeoegkmpbpcoabhlklbamfeidebgmdf | Three Card Poker | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
 | peflgkmfmoijonfgcjdlpnnfdegnlaji | ﻿video Poker Jacks Or Bet | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
 | ibelidmkbnjmmpjgfibbdbkamgcbnjdm | Christmas Eve Slot Machin | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 |
+| bdkogigofdpjbplcphfikldoejopkemf | Tiktok Customer Service H | Policy Violation | Store Monitoring | 13/04/26 |
+| alpceejdpbhambbcjlhjclhgbkpkildc | Xaman - XRP Extension | Malware | Store Monitoring | 13/04/26 |
+| ieeedagihannmmfohjajlhcebkdjhhgn | Tiktok Video Downloader | Policy Violation | Store Monitoring | 13/04/26 |
+| cdfheigdnhiakflhgchemmmpmbeojgfn | Tiktok Video Download | Policy Violation | Store Monitoring | 13/04/26 |
+| bdfejgnkjilbfajogjdjoelflfjjlbce | Robinhood Reports Portfol | Policy Violation | Store Monitoring | 13/04/26 |
+| blbpgfhhhnabbkdbakfibbgkpefpiapj | Tiktok Unfollower | Policy Violation | Store Monitoring | 13/04/26 |
+| ccomccogicclmdabkdblhimkkoljidjb | Tetris | Policy Violation | Store Monitoring | 13/04/26 |
+| ahoephlgjcidmeimpjoikglacolnnoce | Tiktok Follower Checker with Unfollow | Policy Violation | Store Monitoring | 13/04/26 |
+| micijibojadbnadckjmpgkjicelohbil | Base Pro Wallet | Malware | Store Monitoring | 13/04/26 |
 | hapemhaolkielighkknclgncbaocnclc | Extrato Smiles Em Csv | Policy Violation | Store Monitoring | 13/04/26 |
 | golbngjhpfdobdopaebpdofbmhghfkpm | Urban Dictionary Now | Policy Violation | Store Monitoring | 13/04/26 |
 | bkpgbmjmifkbonccfmpejokfndolikcj | Highperformr Ai Phone Num | Policy Violation | Store Monitoring | 13/04/26 |
@@ -306,9 +330,19 @@
 | gohlpddecngpmpoakfmnaegegjnapkla | Spongebob Live Wallpapers | Policy Violation | Store Monitoring | 13/04/26 |
 | mjebfndkbogmggcbpacbedbcjccoamkk | Extreme Dream Head Soccer | Policy Violation | Store Monitoring | 13/04/26 |
 | mofnafclpcapghpjdoaanahkgcjfcece | Swift Proton Vpn Fast Sec | Policy Violation | Store Monitoring | 13/04/26 |
+| fjfphlkdahigapjlfcalofelglelbgpg | Pure Black Ai Theme | Bundling Unwanted Software | Store Monitoring | 12/04/26 |
+| jleoggokcekdenochinmpenphepdnkem | Claude Agent: Claude 4.5 AI Browser Agent, Let Claude Take Action for You | Policy Violation | Store Monitoring | 12/04/26 |
 | nlompoojekdpdjnjledbbahkdhdhjlae | Claude Chat Search Assist | Policy Violation | Store Monitoring | 12/04/26 |
+| nafdjcnfmdcdnebjhehhohfaaffdlkon | Twittergpt Respond To Twe | Policy Violation | Store Monitoring | 11/04/26 |
+| niccnmfnkokileojoalgiinemlekmfoa | Claude 35 Sonnet | Policy Violation | Store Monitoring | 11/04/26 |
+| danplamegmfnfobbhkandimjpepjlcoc | Claude Agent Claude 45 Ai | Policy Violation | Store Monitoring | 11/04/26 |
+| pkcoogcpeheamgkhfhelaifnpmehdgmp | Chatgpt For Google Chrome | Policy Violation | Store Monitoring | 11/04/26 |
 | hnadleianomnjcoeplifgbkiejchjmah | Search Everywhere With Go | Policy Violation | Store Monitoring | 11/04/26 |
 | icgdnaedamjhnmnomlhkifmkjkijnibb | Replymind | Policy Violation | Store Monitoring | 11/04/26 |
+| bnkcabhikeekinpkjckjfkilicpnddcd | Beyond Tally | Policy Violation | Store Monitoring | 10/04/26 |
+| idkdfocppofcdgahffjbehkjiilagofm | Friends Remover | Bundling Unwanted Software | Store Monitoring | 10/04/26 |
+| ajnjbiommbedjhfkihijpojaekbnifno | Server Manager | Bundling Unwanted Software | Store Monitoring | 10/04/26 |
+| fiekhkolnfbmffngblfnpmpbdajofpdm | Tiktok Stacking Blocks Challenge Game 2024 | Policy Violation | Store Monitoring | 10/04/26 |
 | pkkmmmmckhencoamaonbiidanpnhikbc | Brick Falling Blocks | Policy Violation | Store Monitoring | 10/04/26 |
 | bobmbfaebhleonnhmcmflajfgnbfokpg | Free Tetris Online Game P | Policy Violation | Store Monitoring | 10/04/26 |
 | jfaijficgmogbfdkiihojhjfildgppdf | Flash Tetris Game🏆 | Policy Violation | Store Monitoring | 10/04/26 |
@@ -369,6 +403,9 @@
 | dkbgoioobcocdfmknmlidebppkfikoeh | Add Balance | Policy Violation | Store Monitoring | 03/04/26 |
 | mnnlkapejiegjhhmohmelangkgpmkhci | Near Network Explorer | Policy Violation | Store Monitoring | 03/04/26 |
 | pkajffddidnadoaceilnhdfcoamcbnnm | Cute Pikachu Wallpapers | Policy Violation | Store Monitoring | 03/04/26 |
+| nbcaemgdognpbafbkepgnmbbgldombjn | Grok 3 | Bundling Unwanted Software | Store Monitoring | 02/04/26 |
+| cinnpifenmpjfcbdbdmhnndfgcpmfhna | Ad Blocker Extension Chro | Bundling Unwanted Software | Store Monitoring | 02/04/26 |
+| pjmlmmlmdpcbipdmeedomkeomokaljjd | Endless Crossy Road Game | Bundling Unwanted Software | Store Monitoring | 02/04/26 |
 | lfnlgdmddmiidbnaeiibmlbadefcnjhi | Linkinnovaai | Policy Violation | Store Monitoring | 02/04/26 |
 | aciamgifeoagmcojlibbdhoabolgdopo | Pn Copilot | Policy Violation | Store Monitoring | 02/04/26 |
 | klopidoappccnidjpdnihpdecdkhafll | Gemini Label Manager | Policy Violation | Store Monitoring | 02/04/26 |
@@ -435,6 +472,7 @@
 | cabenpmbfkfhfjfkphpajdohklbplbdp | Base Extension Wallet | Malware | Store Monitoring | 24/03/26 |
 | jmbegcegjknachdgnichfcnjilebcojn | Minions | Policy Violation | Store Monitoring | 24/03/26 |
 | jgjkbmccdkmjecomjfbnkgopgeaaikkc | Despicable Me 2 Laughing | Policy Violation | Store Monitoring | 24/03/26 |
+| limaalniodpkiflneglakcpbfgjfipig | TronLink Wallet - CryptoGram | Malware | Store Monitoring | 23/03/26 |
 | ehjpinnpigaklfnffadlldnadchkaech | Scribd PDF Downloader | Policy Violation | Store Monitoring | 22/03/26 |
 | khoapclcikhbeaggmmfcnckcnhfniijj | Web Bear Search | Policy Violation | Store Monitoring | 21/03/26 |
 | pjdnfljplcgepkonnklphjlkclhmlfdn | Auto Nano Banana Pro | Policy Violation | Store Monitoring | 21/03/26 |
@@ -452,6 +490,8 @@
 | mpocopacjjpabphbcapphjljfmffempk | Web Amar / وب آمار | Policy Violation | Store Monitoring | 13/03/26 |
 | ahlaffpjeohpmfhljdoedgccdegnnhga | LinkedIn Zip Solver | Policy Violation | Store Monitoring | 13/03/26 |
 | nmpiemnkagcciheaghfdohdpelhphnoh | colorful fish | Policy Violation | Store Monitoring | 13/03/26 |
+| baoiojchledkgjokogfbhlbjloofkadp | Spongebob Squarepants Wal | Policy Violation | Store Monitoring | 12/03/26 |
+| lfcadnmmmngiljpjpmfnghjdkkockdio | 掰It — 英文阅读助手 | Policy Violation | Store Monitoring | 12/03/26 |
 | cfmcpcplnfmnihgbpblopbckfffmmada | Geminify | Policy Violation | Store Monitoring | 12/03/26 |
 | fiobgijambbbkgndmodakkpajghgnjbe | Daily Garfield Comics | Policy Violation | Store Monitoring | 12/03/26 |
 | knchmdddcbnjhgenmgdkaebbmajkblka | SpongeBob SquarePants Game | Policy Violation | Store Monitoring | 12/03/26 |
@@ -489,6 +529,20 @@
 | kihfdgpnhlkopkiadeopobhbpeplffam | All Friends Remover | Malware | Store Monitoring | 06/03/26 |
 | lebaaldhfkhmjcmljacicokgmcfmeofm | Convert PDF to Notion | Policy Violation | Store Monitoring | 06/03/26 |
 | lfhfenilfjbgcjckhmdpgjdafhoojljl | Top10 Crypto Ticker | Policy Violation | Store Monitoring | 06/03/26 |
+| ncalomlkpjgkcmfbdikdodindkkngjhp | Linkedin Games Solver | Policy Violation | Store Monitoring | 05/03/26 |
+| npifianbfjhobabjjpfdjjihgbdnbojh | Text Summarizer | Malware | Store Monitoring | 05/03/26 |
+| nplljogcholopgphioakbdjfkbkdhomg | Tiktok Video Downloader | Policy Violation | Store Monitoring | 05/03/26 |
+| nbcbdidccniaiigpdiocldgggfeagbog | Reactin | Policy Violation | Store Monitoring | 05/03/26 |
+| apeadjelacokohnkfclnhjlihklpclmp | Ecoindexfr | Policy Violation | Store Monitoring | 05/03/26 |
+| dnclkkkjlabdgfdjngdkaebpaahnohoo | Zoom | Policy Violation | Store Monitoring | 05/03/26 |
+| nlkblacjcdilfdjmmlfemoalcbjjopgf | Netflix Light Mode | Policy Violation | Store Monitoring | 05/03/26 |
+| anklpeamdnlccnkcopainlcdoonggdeo | Pokemon Summer | Policy Violation | Store Monitoring | 05/03/26 |
+| fepkmkdameafkbpknifgfhfmoogdcjck | Whatfix For Google | Policy Violation | Store Monitoring | 05/03/26 |
+| imhlnhlbiencamnbpigopiibddajimep | Leadcontact Phone Number | Policy Violation | Store Monitoring | 05/03/26 |
+| kpmfbehibdfhajhelkcpfbdlibigpndb | Tiktok Video Downloader | Policy Violation | Store Monitoring | 05/03/26 |
+| ilkeadgdlbmabcdkgmiogcamcogbjoii | Volume Booster With Short | Policy Violation | Store Monitoring | 05/03/26 |
+| bonhfflnjgdbnhcpjemkknlhimceckgb | Agent Risk Reminder Remov | Policy Violation | Store Monitoring | 05/03/26 |
+| dghkhbmpagbapkadlehcicngkldfieln | Google Meet Extension | Policy Violation | Store Monitoring | 05/03/26 |
 | ljbkcdepalofimjbnckeeikmhlgmijmg | ChatGPT folder, TTS download, prompt manager, free tools - ChatGPT Mods | Malware | Store Monitoring | 05/03/26 |
 | lejgjoflhajdmmbmeklmijaboflohhig | TikTok 2x Speed Option | Policy Violation | Store Monitoring | 05/03/26 |
 | lmcnkcbaofhmiafapndakpplkenijdek | Powerful Ad Blocker | Policy Violation | Store Monitoring | 05/03/26 |
