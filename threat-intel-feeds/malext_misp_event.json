@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-04-26",
-    "timestamp": "1777235006",
+    "date": "2026-04-27",
+    "timestamp": "1777280195",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,266 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "2ec34510-2c7c-52b9-9745-4dfafefc7d00",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nnjlbhbajbeagngabejdpenghpkglghd",
+        "comment": "Twitter Token Login | Source: Store Monitoring | Added: 2026-04-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "de853a8d-d035-5aa2-8fe9-2e65332316b3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nnjlbhbajbeagngabejdpenghpkglghd",
+        "comment": "Chrome Web Store entry for Twitter Token Login (nnjlbhbajbeagngabejdpenghpkglghd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "19033d1c-d03b-5eef-a7fa-bebddd183430",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "milgkhjojahbbkclkppcjpnlcpakneec",
+        "comment": "Whatsapp Blur Extension | Source: Store Monitoring | Added: 2026-04-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "787208bc-7639-503c-8a9c-e2731bb1a63f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/milgkhjojahbbkclkppcjpnlcpakneec",
+        "comment": "Chrome Web Store entry for Whatsapp Blur Extension (milgkhjojahbbkclkppcjpnlcpakneec)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2549717b-44de-54f2-9f35-2d24b6123b6a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jhfipnjkdcnncppbfdplmikdhlppdepd",
+        "comment": "Twitter Gif Downloader | Source: Store Monitoring | Added: 2026-04-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "37d6e074-8884-50ae-8497-89f789e81d99",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jhfipnjkdcnncppbfdplmikdhlppdepd",
+        "comment": "Chrome Web Store entry for Twitter Gif Downloader (jhfipnjkdcnncppbfdplmikdhlppdepd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cadcbf28-085e-5084-933d-ccef56ffa677",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "omcehnglicpgnjnbiokejdacacnghojj",
+        "comment": "Netflix Anywhere | Source: Store Monitoring | Added: 2026-04-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f8181954-561f-5dac-8943-177af795f347",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/omcehnglicpgnjnbiokejdacacnghojj",
+        "comment": "Chrome Web Store entry for Netflix Anywhere (omcehnglicpgnjnbiokejdacacnghojj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ed1eebd8-05a4-5dad-94da-5771e227909e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ngglldgjkjekfbmbfpankdmmknabbgmp",
+        "comment": "Xtwitter Addons | Source: Store Monitoring | Added: 2026-04-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b413615c-baaa-504f-a2b8-832779d1c3e2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ngglldgjkjekfbmbfpankdmmknabbgmp",
+        "comment": "Chrome Web Store entry for Xtwitter Addons (ngglldgjkjekfbmbfpankdmmknabbgmp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4cc2097f-fa09-5d55-9459-f66ec1e2a76a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oolflnoogpfppiginbmhkghcelpkbllf",
+        "comment": "Enhancer For X Formerly K | Source: Store Monitoring | Added: 2026-04-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "8b5a14d0-e706-5620-b465-58683bedb241",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oolflnoogpfppiginbmhkghcelpkbllf",
+        "comment": "Chrome Web Store entry for Enhancer For X Formerly K (oolflnoogpfppiginbmhkghcelpkbllf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e208fc4e-becd-5e13-b711-e04e2982a955",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "opcjjggkhndcdpedheeilommknkephik",
+        "comment": "Twitterx Minimal Theme | Source: Store Monitoring | Added: 2026-04-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "3e351339-1e1d-5b96-bd0a-f500df6af347",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/opcjjggkhndcdpedheeilommknkephik",
+        "comment": "Chrome Web Store entry for Twitterx Minimal Theme (opcjjggkhndcdpedheeilommknkephik)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8075fbab-54db-5260-a6c6-185ed5ab754a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mpaaggkgjenllbellfknanegfliknidd",
+        "comment": "Video Downloader For Tikt | Source: Store Monitoring | Added: 2026-04-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a63a2c2d-9244-59d9-8662-4d6639378a9f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mpaaggkgjenllbellfknanegfliknidd",
+        "comment": "Chrome Web Store entry for Video Downloader For Tikt (mpaaggkgjenllbellfknanegfliknidd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "56a199f7-b9ca-5c1e-8b3e-4f5d8ed32f55",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aijflmhdfglijpfjhoihebemdheglpgd",
+        "comment": "Twitter Export Followers | Source: Store Monitoring | Added: 2026-04-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "32b7c0fd-432f-53b7-8b65-c78f085c1e8f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aijflmhdfglijpfjhoihebemdheglpgd",
+        "comment": "Chrome Web Store entry for Twitter Export Followers (aijflmhdfglijpfjhoihebemdheglpgd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1803862a-37fa-5239-8d04-2e2b90b16e57",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iojoiocmnkglehhfhfmhobpbikieodle",
+        "comment": "My Ether Wallet | Source: Store Monitoring | Added: 2026-04-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "4936eaf2-ac8a-50d0-9858-5bb3ff6c1935",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iojoiocmnkglehhfhfmhobpbikieodle",
+        "comment": "Chrome Web Store entry for My Ether Wallet (iojoiocmnkglehhfhfmhobpbikieodle)",
+        "distribution": "5"
+      },
       {
         "uuid": "d007e8ca-b0d6-580f-86cc-605b8b56c1e5",
         "type": "text",
