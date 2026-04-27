@@ -1,5 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| nnjlbhbajbeagngabejdpenghpkglghd | Twitter Token Login | Policy Violation | Store Monitoring | 27/04/26 |
+| milgkhjojahbbkclkppcjpnlcpakneec | Whatsapp Blur Extension | Policy Violation | Store Monitoring | 27/04/26 |
+| jhfipnjkdcnncppbfdplmikdhlppdepd | Twitter Gif Downloader | Policy Violation | Store Monitoring | 27/04/26 |
+| omcehnglicpgnjnbiokejdacacnghojj | Netflix Anywhere | Policy Violation | Store Monitoring | 27/04/26 |
+| ngglldgjkjekfbmbfpankdmmknabbgmp | Xtwitter Addons | Policy Violation | Store Monitoring | 27/04/26 |
+| oolflnoogpfppiginbmhkghcelpkbllf | Enhancer For X Formerly K | Policy Violation | Store Monitoring | 27/04/26 |
+| opcjjggkhndcdpedheeilommknkephik | Twitterx Minimal Theme | Policy Violation | Store Monitoring | 27/04/26 |
+| mpaaggkgjenllbellfknanegfliknidd | Video Downloader For Tikt | Policy Violation | Store Monitoring | 27/04/26 |
+| aijflmhdfglijpfjhoihebemdheglpgd | Twitter Export Followers | Policy Violation | Store Monitoring | 27/04/26 |
+| iojoiocmnkglehhfhfmhobpbikieodle | My Ether Wallet | Malware | Store Monitoring | 27/04/26 |
 | aeggcdnlgoodafmelonmibaaclbeejol | Chill Super Mario Pixel L | Policy Violation | Store Monitoring | 26/04/26 |
 | jplifhpepfnogkdnmimaoembccjpepmb | Light Gray Minimal Ai The | Bundling Unwanted Software | Store Monitoring | 26/04/26 |
 | hhdndjedmkghgpojgaajgmcjdnhnlejm | Steel Blue Ai Theme | Bundling Unwanted Software | Store Monitoring | 26/04/26 |
