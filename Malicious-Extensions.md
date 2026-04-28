@@ -1,5 +1,17 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| folibpljgmababjognjpcidiakiffhhj | Whatsify Pro | Malware | Store Monitoring | 28/04/26 |
+| koojeohmgfdkdpbaclkmmaencdchebon | Vk Save Music Downloader | Malware | Store Monitoring | 28/04/26 |
+| ikfmaobmeapnkohnoaflbanhmfocgiob | Bye Bye Cookie Banners — | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
+| hccflbcmekoegenjodacikdoponodeid | Json Viewer Formatter For | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
+| elodfjiipicopkbodboajgkgppophmab | Generate Qr Codes | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
+| kimfknhghkailpllnopclaelfjechldp | Save Image As Jpg Png Web | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
+| ofgghdophhoggnlkgiigooldjblbmkid | Wacgpt | Malware | Store Monitoring | 28/04/26 |
+| kahhommiipafgepbkjpajpmdchjpclml | Bulk Image Downloader | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
+| jnjdjeepcbenfebncaemmboeplmdccaj | Captureo Full Webpage Scr | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
+| ehfmpjdcdldhefieelihdobnjfpalhic | Allow Copy Enable Right C | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
+| nkolcmifaljdigfhefpekacbmfgoamgi | 8X Volume Booster For You | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
+| fjfphlkdahigapjlfcalofelglelbgpg | Pure Black Ai Theme | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
 | kcbmdejmlcdjmfdiaepfblnocimhlnfm | My Location Guard | Policy Violation | Store Monitoring | 27/04/26 |
 | nnjlbhbajbeagngabejdpenghpkglghd | Twitter Token Login | Policy Violation | Store Monitoring | 27/04/26 |
 | milgkhjojahbbkclkppcjpnlcpakneec | Whatsapp Blur Extension | Policy Violation | Store Monitoring | 27/04/26 |
@@ -330,7 +342,6 @@
 | gohlpddecngpmpoakfmnaegegjnapkla | Spongebob Live Wallpapers | Policy Violation | Store Monitoring | 13/04/26 |
 | mjebfndkbogmggcbpacbedbcjccoamkk | Extreme Dream Head Soccer | Policy Violation | Store Monitoring | 13/04/26 |
 | mofnafclpcapghpjdoaanahkgcjfcece | Swift Proton Vpn Fast Sec | Policy Violation | Store Monitoring | 13/04/26 |
-| fjfphlkdahigapjlfcalofelglelbgpg | Pure Black Ai Theme | Bundling Unwanted Software | Store Monitoring | 12/04/26 |
 | jleoggokcekdenochinmpenphepdnkem | Claude Agent: Claude 4.5 AI Browser Agent, Let Claude Take Action for You | Policy Violation | Store Monitoring | 12/04/26 |
 | nlompoojekdpdjnjledbbahkdhdhjlae | Claude Chat Search Assist | Policy Violation | Store Monitoring | 12/04/26 |
 | nafdjcnfmdcdnebjhehhohfaaffdlkon | Twittergpt Respond To Twe | Policy Violation | Store Monitoring | 11/04/26 |
