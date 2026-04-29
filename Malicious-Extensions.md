@@ -4,7 +4,9 @@
 | bimhigeggaekhifnmhhmbjbeahooolig | Tiktok Blockout2024 | Policy Violation | Store Monitoring | 29/04/26 |
 | oefgcfheipblokelgbnnldoolmikeljd | Tiktok Scraper | Policy Violation | Store Monitoring | 29/04/26 |
 | mmadogheddoddplagmdodenehpogllod | Tiktok Follower Exporter | Policy Violation | Store Monitoring | 29/04/26 |
+| cahhjpmdnfhfkgldefihhcgkaalllbld | Fast Delete Messages | Bundling Unwanted Software | Store Monitoring | 29/04/26 |
 | aifdgjjifbkmabkfeekkkhdckfbnmnjb | Phantom View Tracker | Malware | Store Monitoring | 29/04/26 |
+| ncgnipmbmegebkpekikghdffjkmhjgen | Tiktok Tv | Policy Violation | Store Monitoring | 28/04/26 |
 | folibpljgmababjognjpcidiakiffhhj | Whatsify Pro | Malware | Store Monitoring | 28/04/26 |
 | koojeohmgfdkdpbaclkmmaencdchebon | Vk Save Music Downloader | Malware | Store Monitoring | 28/04/26 |
 | ikfmaobmeapnkohnoaflbanhmfocgiob | Bye Bye Cookie Banners — | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
@@ -17,6 +19,7 @@
 | ehfmpjdcdldhefieelihdobnjfpalhic | Allow Copy Enable Right C | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
 | nkolcmifaljdigfhefpekacbmfgoamgi | 8X Volume Booster For You | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
 | fjfphlkdahigapjlfcalofelglelbgpg | Pure Black Ai Theme | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
+| allabgknbmoecnnnnkiddmpapchmhiii | Rabby Plugin App | Malware | Store Monitoring | 27/04/26 |
 | kcbmdejmlcdjmfdiaepfblnocimhlnfm | My Location Guard | Policy Violation | Store Monitoring | 27/04/26 |
 | nnjlbhbajbeagngabejdpenghpkglghd | Twitter Token Login | Policy Violation | Store Monitoring | 27/04/26 |
 | milgkhjojahbbkclkppcjpnlcpakneec | Whatsapp Blur Extension | Policy Violation | Store Monitoring | 27/04/26 |
@@ -384,7 +387,6 @@
 | gogbiohkminacikoppmljeolgccpmlop | Color Picker - Eyedropper Tool | Malware | [cyberinsider.com](https://cyberinsider.com/author/alexlekander/) | 07/04/26 |
 | bgkijgmoikigljbbfokahemdnhilkkma | Shield Linkedin Analytics | Policy Violation | Store Monitoring | 07/04/26 |
 | bogbhacoalfapopgbgfoencdpdkmdlpk | 宙斯zeus回国加速器 海外华人免费回国追剧听歌 | Policy Violation | Store Monitoring | 07/04/26 |
-| cahhjpmdnfhfkgldefihhcgkaalllbld | Fast Delete Messages | Bundling Unwanted Software | Store Monitoring | 07/04/26 |
 | bbdejfjnpbdjbdnibpmiegbdfbngbahn | Minecraft Shrek Riding Pi | Policy Violation | Store Monitoring | 07/04/26 |
 | dlanpgfginllefahhibhbeanopbhbkkh | Shrek 5 Live Wallpaper | Policy Violation | Store Monitoring | 07/04/26 |
 | ejbieagijpeanlkmjlpdbincpoecfifo | Zynapse | Policy Violation | Store Monitoring | 06/04/26 |
@@ -858,6 +860,7 @@
 | fmpgmcidlaojgncjlhjkhfbjchafcfoe | 1-Click Color Picker: Instant Eyedropper (hex, rgb, hsl) | Removal reason Unknown | [palant.info](https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/) | 29/01/26 |
 | beifiidafjobphnbhbbgmgnndjolfcho | Stock Informer | In store but Suspicious | [www.security.com](https://www.security.com/threat-intelligence/chrome-extensions-are-you-getting-more-you-bargained) | 29/01/26 |
 | bjoddpbfndnpeohkmpbjfhcppkhgobcg | DPS Websafe | In store but Suspicious | [www.security.com](https://www.security.com/threat-intelligence/chrome-extensions-are-you-getting-more-you-bargained) | 29/01/26 |
+| lkjkfecdnfjopaeaibboihfkmhdjmanm | Tencent Translator | Potentially Unwanted Software | Store Monitoring | 28/01/26 |
 | cpigbbjhchinhpamicodkkcpihjjjlia | Meta Ads SuperTool | Malware | [www.cybereason.com](https://www.cybereason.com/blog/chrome-extension-campaign-madgicx) | 28/01/26 |
 | pnpchphmplpdimbllknjoiopmfphellj | Amazon Ads Blocker | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 28/01/26 |
 | ncbknoohfjmcfneopnfkapmkblaenokb | Vytal – Spoof Timezone, Geolocation, Locale and security | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 |
