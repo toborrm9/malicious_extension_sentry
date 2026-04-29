@@ -1,5 +1,10 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| oldmglociedkafaafcaoojlmojbfmdpi | Tiktok Token Generator | Policy Violation | Store Monitoring | 29/04/26 |
+| bimhigeggaekhifnmhhmbjbeahooolig | Tiktok Blockout2024 | Policy Violation | Store Monitoring | 29/04/26 |
+| oefgcfheipblokelgbnnldoolmikeljd | Tiktok Scraper | Policy Violation | Store Monitoring | 29/04/26 |
+| mmadogheddoddplagmdodenehpogllod | Tiktok Follower Exporter | Policy Violation | Store Monitoring | 29/04/26 |
+| aifdgjjifbkmabkfeekkkhdckfbnmnjb | Phantom View Tracker | Malware | Store Monitoring | 29/04/26 |
 | folibpljgmababjognjpcidiakiffhhj | Whatsify Pro | Malware | Store Monitoring | 28/04/26 |
 | koojeohmgfdkdpbaclkmmaencdchebon | Vk Save Music Downloader | Malware | Store Monitoring | 28/04/26 |
 | ikfmaobmeapnkohnoaflbanhmfocgiob | Bye Bye Cookie Banners — | Bundling Unwanted Software | Store Monitoring | 28/04/26 |
@@ -491,7 +496,6 @@
 | dgncekenlgnneibllkjinpcfccajpjmc | LinkedIn Queens Solver | Policy Violation | Store Monitoring | 19/03/26 |
 | ekfbpedkallblckjgijmibabfcacgjhl | YouTube Search Fixer | Policy Violation | Store Monitoring | 18/03/26 |
 | aeljhijhiagepppblonkhhnnmmknmnll | Wallet Connect View Tracker | Malware | Store Monitoring | 18/03/26 |
-| aifdgjjifbkmabkfeekkkhdckfbnmnjb | Phantom View Tracker | Malware | Store Monitoring | 18/03/26 |
 | jdfhogfabmocclgjnkfhokhaoecbmijj | Hill Climb Racing Unblocked | Policy Violation | Store Monitoring | 17/03/26 |
 | ekhmddbpfelhdicnhkomdopnnbkchddc | AutoGemini - Gemini/AIStudio/Flow auto creator (Nano Banana Pro/Veo 3.1) | Policy Violation | Store Monitoring | 15/03/26 |
 | lmopfmpfoonboglmipmjafcnbphgefjb | Crypto Price Coin Tracker | Malware | Store Monitoring | 14/03/26 |
