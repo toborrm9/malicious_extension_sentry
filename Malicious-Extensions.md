@@ -1,5 +1,6 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| jiopaphnoebconjcblfkljoedjlplhbd | Tradelog Pro Crypto Track | Malware | Store Monitoring | 30/04/26 |
 | oldmglociedkafaafcaoojlmojbfmdpi | Tiktok Token Generator | Policy Violation | Store Monitoring | 29/04/26 |
 | bimhigeggaekhifnmhhmbjbeahooolig | Tiktok Blockout2024 | Policy Violation | Store Monitoring | 29/04/26 |
 | oefgcfheipblokelgbnnldoolmikeljd | Tiktok Scraper | Policy Violation | Store Monitoring | 29/04/26 |
