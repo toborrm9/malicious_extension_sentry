@@ -1,5 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| fdbiogldjjmedbkbjdnolcifiankgeeo | 即梦Dreamina去水印下载 | Policy Violation | Store Monitoring | 30/04/26 |
+| apkldlbgpmenoilgjldmbkipidboplae | Tiktok Downloader | Policy Violation | Store Monitoring | 30/04/26 |
+| ecdaejiahmgdbfmdjaiilfclnblnjlnn | Android Phones Minimal | Bundling Unwanted Software | Store Monitoring | 30/04/26 |
+| amfamndhbbiaafhpclielacfailgflbi | Cryptotab Pro Dashboard | Malware | Store Monitoring | 30/04/26 |
+| gagalembdijfidddhaajmgfookbakolp | ускорить ютуб обойти заме | Malware | Store Monitoring | 30/04/26 |
+| cllehfhocaopfbkehdoiphpgehffmneh | Eml To Pdf | Bundling Unwanted Software | Store Monitoring | 30/04/26 |
+| fcdaihcgjonhfgninefiejokmgefkmik | Tiktok Video Downloader B | Policy Violation | Store Monitoring | 30/04/26 |
+| ehaknaflbjaphddbdilagpodabmccfce | Prismex — Your Secure Gat | Bundling Unwanted Software | Store Monitoring | 30/04/26 |
 | jiopaphnoebconjcblfkljoedjlplhbd | Tradelog Pro Crypto Track | Malware | Store Monitoring | 30/04/26 |
 | oldmglociedkafaafcaoojlmojbfmdpi | Tiktok Token Generator | Policy Violation | Store Monitoring | 29/04/26 |
 | bimhigeggaekhifnmhhmbjbeahooolig | Tiktok Blockout2024 | Policy Violation | Store Monitoring | 29/04/26 |
