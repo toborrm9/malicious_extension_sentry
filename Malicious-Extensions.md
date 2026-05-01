@@ -1,5 +1,11 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| gpkcecbpfdlbocbkimkmgelaojfkihgh | Advert Tracker Adspy Tool | Bundling Unwanted Software | Store Monitoring | 01/05/26 |
+| aacfibelemnkkbkelbhdbfhokeemfaho | Chatgpt Side Panel | Policy Violation | Store Monitoring | 01/05/26 |
+| aodbopgpdbbeeifnpefojenoaffmpoba | Chatgpt On New Tab | Policy Violation | Store Monitoring | 01/05/26 |
+| gpbnhdjoknjmghjfljgcankdldimokmk | Chatgpt Assistant | Policy Violation | Store Monitoring | 01/05/26 |
+| peiibhfbdkgnbepgobjcgabkcfembndm | Free Chatgpt For Google C | Policy Violation | Store Monitoring | 01/05/26 |
+| kpbihpkcpnfnjddplngmbljcfofjgejh | Chatgpt Notifier | Policy Violation | Store Monitoring | 01/05/26 |
 | fdbiogldjjmedbkbjdnolcifiankgeeo | 即梦Dreamina去水印下载 | Policy Violation | Store Monitoring | 30/04/26 |
 | apkldlbgpmenoilgjldmbkipidboplae | Tiktok Downloader | Policy Violation | Store Monitoring | 30/04/26 |
 | ecdaejiahmgdbfmdjaiilfclnblnjlnn | Android Phones Minimal | Bundling Unwanted Software | Store Monitoring | 30/04/26 |
@@ -89,6 +95,7 @@
 | nllppfnifjiccjacjiaonomhggcgildm | Tetrem | Policy Violation | Store Monitoring | 21/04/26 |
 | heehbfcijoikjphilbhaldjgoplpplok | Tiktok Extension | Policy Violation | Store Monitoring | 21/04/26 |
 | jpdhdeabikbmklmacididiaifpcploif | Tetrastack Tetris Style B | Policy Violation | Store Monitoring | 21/04/26 |
+| jlalnhjkfiogoeonamcnngdndjbneina | Chatgpt Toolbox Folders O | Policy Violation | Store Monitoring | 20/04/26 |
 | cgnbfcoeopaehocfdnkkjecibafichje | Video Downloader for Tiktok | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
 | kmobjdioiclamniofdnngmafbhgcniok | TikTok Video Keeper | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
 | ilcjgmjecbhpgpipmkfkibjopafpbcag | TikTok Downloader – Save Videos, No Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 |
