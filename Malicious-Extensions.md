@@ -1,5 +1,7 @@
 | Extension ID | Name | Reason | Source | Insert Date |
 | ------------- | ---- | ------ | ------ | ----------- |
+| hmldnpigepegofdmmmhbkgjmcnefpgig | Slazzer Free Image Backgr | Policy Violation | Store Monitoring | 02/05/26 |
+| pljbjcehnhcnofmkdbjolghdcjnmekia | Bless | Policy Violation | Store Monitoring | 02/05/26 |
 | gpkcecbpfdlbocbkimkmgelaojfkihgh | Advert Tracker Adspy Tool | Bundling Unwanted Software | Store Monitoring | 01/05/26 |
 | aacfibelemnkkbkelbhdbfhokeemfaho | Chatgpt Side Panel | Policy Violation | Store Monitoring | 01/05/26 |
 | aodbopgpdbbeeifnpefojenoaffmpoba | Chatgpt On New Tab | Policy Violation | Store Monitoring | 01/05/26 |
