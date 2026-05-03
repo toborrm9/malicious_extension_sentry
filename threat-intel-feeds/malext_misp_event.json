@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-01",
-    "timestamp": "1777637256",
+    "date": "2026-05-03",
+    "timestamp": "1777805695",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,58 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "caab0cf0-7e88-5c11-b474-a647b7bb6bf0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hmldnpigepegofdmmmhbkgjmcnefpgig",
+        "comment": "Slazzer Free Image Backgr | Source: Store Monitoring | Added: 2026-05-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1b43b3ad-ccbd-5bc5-a28b-4e413e05d77a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hmldnpigepegofdmmmhbkgjmcnefpgig",
+        "comment": "Chrome Web Store entry for Slazzer Free Image Backgr (hmldnpigepegofdmmmhbkgjmcnefpgig)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e9fe5a2f-e96c-583e-ac47-61f01d8e042e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pljbjcehnhcnofmkdbjolghdcjnmekia",
+        "comment": "Bless | Source: Store Monitoring | Added: 2026-05-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "35c0a6d6-1856-5a7d-9695-f38044104a18",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pljbjcehnhcnofmkdbjolghdcjnmekia",
+        "comment": "Chrome Web Store entry for Bless (pljbjcehnhcnofmkdbjolghdcjnmekia)",
+        "distribution": "5"
+      },
       {
         "uuid": "d8a72258-7185-5641-93b4-6f687172fe02",
         "type": "text",
