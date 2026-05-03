@@ -1,12 +1,26 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-05-01T12:07:35.942Z",
+  "generated": "2026-05-03T10:54:54.603Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1465,
+  "total_indicators": 1467,
   "indicators": [
+    {
+      "extension_id": "hmldnpigepegofdmmmhbkgjmcnefpgig",
+      "name": "Slazzer Free Image Backgr",
+      "source": "Store Monitoring",
+      "insert_date": "2026-05-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hmldnpigepegofdmmmhbkgjmcnefpgig"
+    },
+    {
+      "extension_id": "pljbjcehnhcnofmkdbjolghdcjnmekia",
+      "name": "Bless",
+      "source": "Store Monitoring",
+      "insert_date": "2026-05-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pljbjcehnhcnofmkdbjolghdcjnmekia"
+    },
     {
       "extension_id": "gpkcecbpfdlbocbkimkmgelaojfkihgh",
       "name": "Advert Tracker Adspy Tool",
