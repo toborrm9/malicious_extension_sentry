@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-03",
-    "timestamp": "1777805695",
+    "date": "2026-05-05",
+    "timestamp": "1778009808",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,396 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "4d5fa4f7-f3ec-501d-b681-76cfe1eb0798",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hflemfieklefhnefolpanacemfclbalb",
+        "comment": "CryptoScan \u2014 Cryptocurrency Wallet Scanner | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "fc52c30a-5957-5bef-a5a9-f784a28bc55c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hflemfieklefhnefolpanacemfclbalb",
+        "comment": "Chrome Web Store entry for CryptoScan \u2014 Cryptocurrency Wallet Scanner (hflemfieklefhnefolpanacemfclbalb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2fc3a5c9-899e-5b81-aa7a-4f8f64f3a8fa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kgobkoboekohldheakllmiildfkgbbme",
+        "comment": "Cloud Intelligence Grid | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7dff4d19-743e-5170-915e-7c0547d5f4da",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kgobkoboekohldheakllmiildfkgbbme",
+        "comment": "Chrome Web Store entry for Cloud Intelligence Grid (kgobkoboekohldheakllmiildfkgbbme)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e52870c3-633e-5ae0-95e4-3f1d91ef6a30",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gkelkplbcgjpcalpjeogmceenfkndmoi",
+        "comment": "Chat Gpt 4 | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca59283e-c010-50c1-87bf-cac10ce736c8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gkelkplbcgjpcalpjeogmceenfkndmoi",
+        "comment": "Chrome Web Store entry for Chat Gpt 4 (gkelkplbcgjpcalpjeogmceenfkndmoi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "848a6905-7064-5960-8955-35c94d5c612b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mplfhdalobdlipfjfebkbfpoocpbajae",
+        "comment": "Databycloud | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b45341fd-dbb1-536f-8955-508d255f81be",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mplfhdalobdlipfjfebkbfpoocpbajae",
+        "comment": "Chrome Web Store entry for Databycloud (mplfhdalobdlipfjfebkbfpoocpbajae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dcc86f27-c1bc-59db-9fea-aa5b5ca888af",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kjpccpioamlfbjadkoofkghompkmjjbh",
+        "comment": "Chase Offer Adder | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0e652dd0-afbc-5474-90e3-6f1f75fc9585",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kjpccpioamlfbjadkoofkghompkmjjbh",
+        "comment": "Chrome Web Store entry for Chase Offer Adder (kjpccpioamlfbjadkoofkghompkmjjbh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0307e094-55ba-5566-b714-9b43ceedf627",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kniopgmheioicilhbpfgofgiebicmgkp",
+        "comment": "One Tab Manager | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "109ab7f4-df74-5891-a10b-d91d1d477068",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kniopgmheioicilhbpfgofgiebicmgkp",
+        "comment": "Chrome Web Store entry for One Tab Manager (kniopgmheioicilhbpfgofgiebicmgkp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "987f2c5b-2718-572d-8f1b-dc4680ac6002",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "khoigeopdelmjmimedipaoebcmkoljdg",
+        "comment": "Ask Chatgpt | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "16113404-e339-54ed-b0da-690cd688c08e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/khoigeopdelmjmimedipaoebcmkoljdg",
+        "comment": "Chrome Web Store entry for Ask Chatgpt (khoigeopdelmjmimedipaoebcmkoljdg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f1aedd32-6b13-5a4b-97ff-eee45a73fea8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dhmoflfpggooodhaagcbfdkfkicebbdd",
+        "comment": "Xverse wallet Extension | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "c66d78c7-d255-52a0-9104-eb6e509702b7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dhmoflfpggooodhaagcbfdkfkicebbdd",
+        "comment": "Chrome Web Store entry for Xverse wallet Extension (dhmoflfpggooodhaagcbfdkfkicebbdd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0fadb18d-3430-5f29-af03-1b4bd532bcc6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "inidhkdhmknfjijeokklpobceghknimk",
+        "comment": "Add Balance Tiktok Ads | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ef552ff2-f44b-503e-a057-05908c7cd4ee",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/inidhkdhmknfjijeokklpobceghknimk",
+        "comment": "Chrome Web Store entry for Add Balance Tiktok Ads (inidhkdhmknfjijeokklpobceghknimk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dd971832-9e2c-5d39-a901-4bbb990e0d8c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kgenlgjkglpmbiocphbgnmknalmfacei",
+        "comment": "Chat Gpt | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e2eef51f-c9cf-55ff-a341-c50c634f442c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kgenlgjkglpmbiocphbgnmknalmfacei",
+        "comment": "Chrome Web Store entry for Chat Gpt (kgenlgjkglpmbiocphbgnmknalmfacei)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "534301fd-a46b-54e5-a7b5-b24533837598",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jfjgodhodlbbmchladiboammimaonoea",
+        "comment": "Social Media Turbo Bot | Source: Store Monitoring | Added: 2026-05-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "84e29d01-1b71-5cd7-83ad-1fe2028f6b54",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jfjgodhodlbbmchladiboammimaonoea",
+        "comment": "Chrome Web Store entry for Social Media Turbo Bot (jfjgodhodlbbmchladiboammimaonoea)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a7bb2c5c-e8f6-535d-bc5d-264c6c01514a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pjbcokeiajlkicejjfioeoggjblmhoko",
+        "comment": "Social Aio Bot Auto Click | Source: Store Monitoring | Added: 2026-05-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1cee82d5-ffc8-5f1c-8bd1-5dbe17864a02",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pjbcokeiajlkicejjfioeoggjblmhoko",
+        "comment": "Chrome Web Store entry for Social Aio Bot Auto Click (pjbcokeiajlkicejjfioeoggjblmhoko)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b4e6da65-9451-5eba-bb6c-07aa80542136",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jajikjbellknnfcomfjjinfjokihcfoi",
+        "comment": "Adblock for YouTube & Chrome - All Block | Source: Store Monitoring | Added: 2026-05-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "3f69eed1-f0cd-5a67-af52-eec3ef54e4c3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jajikjbellknnfcomfjjinfjokihcfoi",
+        "comment": "Chrome Web Store entry for Adblock for YouTube & Chrome - All Block (jajikjbellknnfcomfjjinfjokihcfoi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "771983fc-6e39-5dff-8c20-c655465ba62e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pcipiedhfiojjdbooghpmjanbpigcojb",
+        "comment": "Onetab Downloader | Source: Store Monitoring | Added: 2026-05-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "763cd7c9-1e03-5fd2-b6dc-6cc946e15656",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pcipiedhfiojjdbooghpmjanbpigcojb",
+        "comment": "Chrome Web Store entry for Onetab Downloader (pcipiedhfiojjdbooghpmjanbpigcojb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bf2faa69-e0b7-5c90-9575-68d478e63dd0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "phgjgflllnbdebkfocmmhnkaejofegfc",
+        "comment": "Tronlink | Source: Store Monitoring | Added: 2026-05-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bbf6da0a-d9fe-56cb-85e6-52b3832cfbe9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/phgjgflllnbdebkfocmmhnkaejofegfc",
+        "comment": "Chrome Web Store entry for Tronlink (phgjgflllnbdebkfocmmhnkaejofegfc)",
+        "distribution": "5"
+      },
       {
         "uuid": "caab0cf0-7e88-5c11-b474-a647b7bb6bf0",
         "type": "text",
