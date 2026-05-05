@@ -1,5 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| hflemfieklefhnefolpanacemfclbalb | CryptoScan — Cryptocurrency Wallet Scanner | Malware | Store Monitoring | 05/05/26 | No |
+| kgobkoboekohldheakllmiildfkgbbme | Cloud Intelligence Grid | Malware | Store Monitoring | 05/05/26 | No |
+| gkelkplbcgjpcalpjeogmceenfkndmoi | Chat Gpt 4 | Policy Violation | Store Monitoring | 05/05/26 | No |
+| mplfhdalobdlipfjfebkbfpoocpbajae | Databycloud | Malware | Store Monitoring | 05/05/26 | No |
+| kjpccpioamlfbjadkoofkghompkmjjbh | Chase Offer Adder | Policy Violation | Store Monitoring | 05/05/26 | No |
+| kniopgmheioicilhbpfgofgiebicmgkp | One Tab Manager | Policy Violation | Store Monitoring | 05/05/26 | No |
+| khoigeopdelmjmimedipaoebcmkoljdg | Ask Chatgpt | Policy Violation | Store Monitoring | 05/05/26 | No |
+| dhmoflfpggooodhaagcbfdkfkicebbdd | Xverse wallet Extension | Policy Violation | Store Monitoring | 05/05/26 | No |
+| inidhkdhmknfjijeokklpobceghknimk | Add Balance Tiktok Ads | Policy Violation | Store Monitoring | 05/05/26 | No |
+| kgenlgjkglpmbiocphbgnmknalmfacei | Chat Gpt | Policy Violation | Store Monitoring | 05/05/26 | No |
 | jfjgodhodlbbmchladiboammimaonoea | Social Media Turbo Bot | Policy Violation | Store Monitoring | 04/05/26 | No |
 | pjbcokeiajlkicejjfioeoggjblmhoko | Social Aio Bot Auto Click | Policy Violation | Store Monitoring | 04/05/26 | No |
 | jajikjbellknnfcomfjjinfjokihcfoi | Adblock for YouTube & Chrome - All Block | Policy Violation | Store Monitoring | 04/05/26 | No |
