@@ -1,5 +1,7 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| dllpkaoladhieehkbjbifonfblhgkoki | Best AdBlocker | Policy Violation | [www.reddit.com](https://www.reddit.com/r/hacking/comments/1t3euxi/chrome_best_adblocker_trojanized_extension_100k/) | 07/05/26 | No |
+| immheffbkopbhdlaaahedhehiaakkpaj | Grok Ai | Policy Violation | Store Monitoring | 06/05/26 | No |
 | hflemfieklefhnefolpanacemfclbalb | CryptoScan — Cryptocurrency Wallet Scanner | Malware | Store Monitoring | 05/05/26 | No |
 | kgobkoboekohldheakllmiildfkgbbme | Cloud Intelligence Grid | Malware | Store Monitoring | 05/05/26 | No |
 | gkelkplbcgjpcalpjeogmceenfkndmoi | Chat Gpt 4 | Policy Violation | Store Monitoring | 05/05/26 | No |
