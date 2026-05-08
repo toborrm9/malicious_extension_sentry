@@ -1,7 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| ckiogjflpadnbjbdjgecdhncmemglmne | Catfish | Bundling Unwanted Software | Store Monitoring | 08/05/26 | No |
+| gmekdebdabobofpnlcepmakijkokadla | Lucidstat Website Analyti | Bundling Unwanted Software | Store Monitoring | 08/05/26 | No |
+| moighicahighphhhidlpanmnodgjkfjm | Sn Copilot | Policy Violation | Store Monitoring | 08/05/26 | No |
+| jlcfpljmkpplfckldccmccihcpamelki | Viral 247 | Malware | Store Monitoring | 08/05/26 | No |
 | dllpkaoladhieehkbjbifonfblhgkoki | Best AdBlocker | Policy Violation | [www.reddit.com](https://www.reddit.com/r/hacking/comments/1t3euxi/chrome_best_adblocker_trojanized_extension_100k/) | 07/05/26 | No |
+| jedmjcmddadejphppaligbfldbhamnih | Tiktok Coin Calculator | Policy Violation | Store Monitoring | 06/05/26 | No |
+| boilpfehlfccankbapnkhfgdcbhlgnid | Clipboard Manager Free | Malware | Store Monitoring | 06/05/26 | No |
 | immheffbkopbhdlaaahedhehiaakkpaj | Grok Ai | Policy Violation | Store Monitoring | 06/05/26 | No |
+| okanoajihjohgmbifnkiebaobfkgenfa | Chatgpt Toolkit | Policy Violation | Store Monitoring | 05/05/26 | No |
+| inhmbedecadikokanjcblbdaijhpjjln | Phantom Pluggin App | Malware | Store Monitoring | 05/05/26 | No |
 | hflemfieklefhnefolpanacemfclbalb | CryptoScan — Cryptocurrency Wallet Scanner | Malware | Store Monitoring | 05/05/26 | No |
 | kgobkoboekohldheakllmiildfkgbbme | Cloud Intelligence Grid | Malware | Store Monitoring | 05/05/26 | No |
 | gkelkplbcgjpcalpjeogmceenfkndmoi | Chat Gpt 4 | Policy Violation | Store Monitoring | 05/05/26 | No |
@@ -17,6 +25,7 @@
 | jajikjbellknnfcomfjjinfjokihcfoi | Adblock for YouTube & Chrome - All Block | Policy Violation | Store Monitoring | 04/05/26 | No |
 | pcipiedhfiojjdbooghpmjanbpigcojb | Onetab Downloader | Policy Violation | Store Monitoring | 04/05/26 | No |
 | phgjgflllnbdebkfocmmhnkaejofegfc | Tronlink | Malware | Store Monitoring | 04/05/26 | No |
+| mbjjannikkfihddnepoionimbedjnbib | Prodigy Origin Prodigy Mo | Policy Violation | Store Monitoring | 03/05/26 | No |
 | hmldnpigepegofdmmmhbkgjmcnefpgig | Slazzer Free Image Backgr | Policy Violation | Store Monitoring | 02/05/26 | No |
 | pljbjcehnhcnofmkdbjolghdcjnmekia | Bless | Policy Violation | Store Monitoring | 02/05/26 | No |
 | gpkcecbpfdlbocbkimkmgelaojfkihgh | Advert Tracker Adspy Tool | Bundling Unwanted Software | Store Monitoring | 01/05/26 | No |
@@ -552,6 +561,7 @@
 | pcjlckhhhmlefmobnnoolakplfppdchi | Ad Speedup - Skip Video Ads 16X Faster | Malware | Store Monitoring | 12/03/26 | Yes |
 | dmfccdhbfjmpgaldefnfeeknjfdnlbhe | SpongeBob Robotic Rampage Chase Live Wallpaper 4K | Policy Violation | Store Monitoring | 12/03/26 | No |
 | pgefggfhmhmndhcdjaleikagdjmmoame | PARROT: Web3 Content Social Protocol | Policy Violation | Store Monitoring | 12/03/26 | No |
+| blbojpnmaccebncdogamdagnmbpfjnfb | Chromaflow Pro — Color To | Malware | Store Monitoring | 11/03/26 | No |
 | pfdmleklaejjccgfhoeafapbhkjipcnj | Google AI | Policy Violation | Store Monitoring | 11/03/26 | No |
 | kojhnafkiednagnljfgakalcbfbklbdk | Kondo | Policy Violation | Store Monitoring | 11/03/26 | No |
 | khgkcnmepkkccpojldheccpladhflmen | Robinood + | Policy Violation | Store Monitoring | 11/03/26 | No |
@@ -572,6 +582,7 @@
 | jaioobipjdejpeckgojiojjahmkiaihp | Care.Sale | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No |
 | hokdpdlchkgcenfpiibjjfkfmleoknkp | Serpey.com official extension | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No |
 | fbakofpmbmcodpmbecdimecilceplfll | ChatGPT Turbo: Fix Lag in Long Chats | Policy Violation | Store Monitoring | 09/03/26 | No |
+| lollnjcjgkflfjicaijghbkoakeflolo | Webaix | Policy Violation | Store Monitoring | 08/03/26 | No |
 | jljejbnelnechodgbdnomodaliifgaek | Beyond Tally | Policy Violation | Store Monitoring | 08/03/26 | No |
 | inbiiigaagjmcbibnecadfgeihghhfja | Trоп Lіnҟ | Malware | Store Monitoring | 07/03/26 | No |
 | pabcjffaondlohboccfkekfjogcgceon | Elyndria Sapphire Plains | Policy Violation | Store Monitoring | 07/03/26 | No |
