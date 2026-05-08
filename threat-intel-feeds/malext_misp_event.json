@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-05",
-    "timestamp": "1778009808",
+    "date": "2026-05-08",
+    "timestamp": "1778227767",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,266 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "6339f426-9edd-5be6-a1ef-2c95e0752964",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ckiogjflpadnbjbdjgecdhncmemglmne",
+        "comment": "Catfish | Source: Store Monitoring | Added: 2026-05-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "81a85e43-4bf0-51ea-9db2-b4adc626626e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ckiogjflpadnbjbdjgecdhncmemglmne",
+        "comment": "Chrome Web Store entry for Catfish (ckiogjflpadnbjbdjgecdhncmemglmne)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c48b226b-a8f5-5568-b8b8-4aa430c20be8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gmekdebdabobofpnlcepmakijkokadla",
+        "comment": "Lucidstat Website Analyti | Source: Store Monitoring | Added: 2026-05-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "854e19cd-ae2d-553c-a767-9908584d5c5a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gmekdebdabobofpnlcepmakijkokadla",
+        "comment": "Chrome Web Store entry for Lucidstat Website Analyti (gmekdebdabobofpnlcepmakijkokadla)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f38cffed-9d3f-5dcb-a3a2-0acfa807b1a2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "moighicahighphhhidlpanmnodgjkfjm",
+        "comment": "Sn Copilot | Source: Store Monitoring | Added: 2026-05-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "707d73e1-384b-518a-b0f9-bf4c2425ffb6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/moighicahighphhhidlpanmnodgjkfjm",
+        "comment": "Chrome Web Store entry for Sn Copilot (moighicahighphhhidlpanmnodgjkfjm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "71934928-f150-5a48-b631-8199da1443ab",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jlcfpljmkpplfckldccmccihcpamelki",
+        "comment": "Viral 247 | Source: Store Monitoring | Added: 2026-05-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "34b781b2-86e7-5c34-bd93-7f09cbfeaede",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jlcfpljmkpplfckldccmccihcpamelki",
+        "comment": "Chrome Web Store entry for Viral 247 (jlcfpljmkpplfckldccmccihcpamelki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f768acfa-a601-5fef-bd59-ace1537b1d2e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dllpkaoladhieehkbjbifonfblhgkoki",
+        "comment": "Best AdBlocker | Source: https://www.reddit.com/r/hacking/comments/1t3euxi/chrome_best_adblocker_trojanized_extension_100k/ | Added: 2026-05-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://www.reddit.com/r/hacking/comments/1t3euxi/chrome_best_adblocker_trojanized_extension_100k/\""
+          }
+        ]
+      },
+      {
+        "uuid": "9226a9a4-234a-5c18-8a6a-1a92282f804b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dllpkaoladhieehkbjbifonfblhgkoki",
+        "comment": "Chrome Web Store entry for Best AdBlocker (dllpkaoladhieehkbjbifonfblhgkoki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5c273c71-f9bb-56a6-b642-c69bfb685b2a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jedmjcmddadejphppaligbfldbhamnih",
+        "comment": "Tiktok Coin Calculator | Source: Store Monitoring | Added: 2026-05-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ede7dbd8-df99-5f33-a84a-b5a25e406afe",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jedmjcmddadejphppaligbfldbhamnih",
+        "comment": "Chrome Web Store entry for Tiktok Coin Calculator (jedmjcmddadejphppaligbfldbhamnih)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f90f27cc-4c30-5739-8f34-28c21b2cbb10",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "boilpfehlfccankbapnkhfgdcbhlgnid",
+        "comment": "Clipboard Manager Free | Source: Store Monitoring | Added: 2026-05-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "94bef216-5528-575d-937a-86859c49c3a2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/boilpfehlfccankbapnkhfgdcbhlgnid",
+        "comment": "Chrome Web Store entry for Clipboard Manager Free (boilpfehlfccankbapnkhfgdcbhlgnid)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "11a56130-5927-57bf-bd46-7e3a02d66263",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "immheffbkopbhdlaaahedhehiaakkpaj",
+        "comment": "Grok Ai | Source: Store Monitoring | Added: 2026-05-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d738c20c-2ab1-512d-abff-ac18eee051c9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/immheffbkopbhdlaaahedhehiaakkpaj",
+        "comment": "Chrome Web Store entry for Grok Ai (immheffbkopbhdlaaahedhehiaakkpaj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f842b343-b74e-5b0c-a6a9-fa5310ed0941",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "okanoajihjohgmbifnkiebaobfkgenfa",
+        "comment": "Chatgpt Toolkit | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "37c703ba-2980-5c1a-85b2-ff393a840134",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/okanoajihjohgmbifnkiebaobfkgenfa",
+        "comment": "Chrome Web Store entry for Chatgpt Toolkit (okanoajihjohgmbifnkiebaobfkgenfa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b7499dac-7449-5961-ac5d-a90aa20791b6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "inhmbedecadikokanjcblbdaijhpjjln",
+        "comment": "Phantom Pluggin App | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "8a091c9a-02de-5fb6-8b69-067e87afdb4a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/inhmbedecadikokanjcblbdaijhpjjln",
+        "comment": "Chrome Web Store entry for Phantom Pluggin App (inhmbedecadikokanjcblbdaijhpjjln)",
+        "distribution": "5"
+      },
       {
         "uuid": "4d5fa4f7-f3ec-501d-b681-76cfe1eb0798",
         "type": "text",
@@ -415,6 +675,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/phgjgflllnbdebkfocmmhnkaejofegfc",
         "comment": "Chrome Web Store entry for Tronlink (phgjgflllnbdebkfocmmhnkaejofegfc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c7a910fc-399a-5499-9be6-63f25586b6c2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mbjjannikkfihddnepoionimbedjnbib",
+        "comment": "Prodigy Origin Prodigy Mo | Source: Store Monitoring | Added: 2026-05-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "69638ae3-b0ee-58bb-9453-e7d7c9afeff3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mbjjannikkfihddnepoionimbedjnbib",
+        "comment": "Chrome Web Store entry for Prodigy Origin Prodigy Mo (mbjjannikkfihddnepoionimbedjnbib)",
         "distribution": "5"
       },
       {
@@ -14328,6 +14614,32 @@
         "distribution": "5"
       },
       {
+        "uuid": "a543671c-f26a-584d-aa4e-9596dc8bcafb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "blbojpnmaccebncdogamdagnmbpfjnfb",
+        "comment": "Chromaflow Pro \u2014 Color To | Source: Store Monitoring | Added: 2026-03-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "53756557-7101-5a5e-8360-171d4999e71e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/blbojpnmaccebncdogamdagnmbpfjnfb",
+        "comment": "Chrome Web Store entry for Chromaflow Pro \u2014 Color To (blbojpnmaccebncdogamdagnmbpfjnfb)",
+        "distribution": "5"
+      },
+      {
         "uuid": "f590a9ae-1e12-52b1-ade0-90b646626c6d",
         "type": "text",
         "category": "Other",
@@ -14845,6 +15157,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/fbakofpmbmcodpmbecdimecilceplfll",
         "comment": "Chrome Web Store entry for ChatGPT Turbo: Fix Lag in Long Chats (fbakofpmbmcodpmbecdimecilceplfll)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8257eec5-5e63-57b6-8f6e-ce947d272994",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lollnjcjgkflfjicaijghbkoakeflolo",
+        "comment": "Webaix | Source: Store Monitoring | Added: 2026-03-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "fd1dbbfd-02ed-5455-a85b-ac1ca5e3ee37",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lollnjcjgkflfjicaijghbkoakeflolo",
+        "comment": "Chrome Web Store entry for Webaix (lollnjcjgkflfjicaijghbkoakeflolo)",
         "distribution": "5"
       },
       {
