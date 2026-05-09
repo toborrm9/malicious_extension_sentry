@@ -1,9 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| mndcjildkhcbefhicemomejgafmakcfo | Gitlab Confetti | Policy Violation | Store Monitoring | 09/05/26 | No |
+| oaldjcdohhhibelagdhoahbedekfjjjf | Browser Cash | Policy Violation | Store Monitoring | 09/05/26 | No |
 | ckiogjflpadnbjbdjgecdhncmemglmne | Catfish | Bundling Unwanted Software | Store Monitoring | 08/05/26 | No |
 | gmekdebdabobofpnlcepmakijkokadla | Lucidstat Website Analyti | Bundling Unwanted Software | Store Monitoring | 08/05/26 | No |
 | moighicahighphhhidlpanmnodgjkfjm | Sn Copilot | Policy Violation | Store Monitoring | 08/05/26 | No |
 | jlcfpljmkpplfckldccmccihcpamelki | Viral 247 | Malware | Store Monitoring | 08/05/26 | No |
+| joaobbbiagpjnhgbppfdjcbeabbbjokm | Chat Gpt App | Policy Violation | Store Monitoring | 07/05/26 | No |
 | dllpkaoladhieehkbjbifonfblhgkoki | Best AdBlocker | Policy Violation | [www.reddit.com](https://www.reddit.com/r/hacking/comments/1t3euxi/chrome_best_adblocker_trojanized_extension_100k/) | 07/05/26 | No |
 | jedmjcmddadejphppaligbfldbhamnih | Tiktok Coin Calculator | Policy Violation | Store Monitoring | 06/05/26 | No |
 | boilpfehlfccankbapnkhfgdcbhlgnid | Clipboard Manager Free | Malware | Store Monitoring | 06/05/26 | No |
@@ -24,7 +27,7 @@
 | pjbcokeiajlkicejjfioeoggjblmhoko | Social Aio Bot Auto Click | Policy Violation | Store Monitoring | 04/05/26 | No |
 | jajikjbellknnfcomfjjinfjokihcfoi | Adblock for YouTube & Chrome - All Block | Policy Violation | Store Monitoring | 04/05/26 | No |
 | pcipiedhfiojjdbooghpmjanbpigcojb | Onetab Downloader | Policy Violation | Store Monitoring | 04/05/26 | No |
-| phgjgflllnbdebkfocmmhnkaejofegfc | Tronlink | Malware | Store Monitoring | 04/05/26 | No |
+| phgjgflllnbdebkfocmmhnkaejofegfc | Tronlink | Malware | Store Monitoring | 04/05/26 | Yes |
 | mbjjannikkfihddnepoionimbedjnbib | Prodigy Origin Prodigy Mo | Policy Violation | Store Monitoring | 03/05/26 | No |
 | hmldnpigepegofdmmmhbkgjmcnefpgig | Slazzer Free Image Backgr | Policy Violation | Store Monitoring | 02/05/26 | No |
 | pljbjcehnhcnofmkdbjolghdcjnmekia | Bless | Policy Violation | Store Monitoring | 02/05/26 | No |
@@ -34,6 +37,15 @@
 | gpbnhdjoknjmghjfljgcankdldimokmk | Chatgpt Assistant | Policy Violation | Store Monitoring | 01/05/26 | Yes |
 | peiibhfbdkgnbepgobjcgabkcfembndm | Free Chatgpt For Google C | Policy Violation | Store Monitoring | 01/05/26 | No |
 | kpbihpkcpnfnjddplngmbljcfofjgejh | Chatgpt Notifier | Policy Violation | Store Monitoring | 01/05/26 | No |
+| nbflcljmdbibeoaipongjgfmbapanipm | Anker AIME Copilot | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
+| ljlhpcabhpjdlcjhbmgjigfceppgabmk | Notion中文版 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
+| pdahnbohfcekobflehebdkoemnmmempk | Notion中文版 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | Yes |
+| jndldoeopjgmpakgmieaeeelhnjnfgkj | NotionAI插件 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
+| jhhjbaicgmecddbaobeobkikgmfffaeg | Chat AI for Chrome | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
+| hmkcidjcpomiegnklmplkimmbcbklglb | Adobe Express: AI Photo, Video | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
+| dcjfbgppfdokmjgajnnkgdmkdeiloigh | Picsart: AI Photo Video Editor | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
+| eebihieclccoidddmjcencomodomdoei | Supersonic AI | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
+| dgeiaiglmhdhajbpfbmajaajdlfdinpi | 会译:一站式 AI 翻译 Agent｜对照式DeepL翻译｜DeepSeek划词翻译｜免费 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
 | fdbiogldjjmedbkbjdnolcifiankgeeo | 即梦Dreamina去水印下载 | Policy Violation | Store Monitoring | 30/04/26 | No |
 | apkldlbgpmenoilgjldmbkipidboplae | Tiktok Downloader | Policy Violation | Store Monitoring | 30/04/26 | No |
 | ecdaejiahmgdbfmdjaiilfclnblnjlnn | Android Phones Minimal | Bundling Unwanted Software | Store Monitoring | 30/04/26 | No |
@@ -568,6 +580,7 @@
 | kjdpnimcnfinmilocccippmododhceol | Gemini Voyager | Policy Violation | Store Monitoring | 11/03/26 | No |
 | mmfmakmndejojblgceefkpinojhiacfk | Brave web browser | Policy Violation | Store Monitoring | 11/03/26 | No |
 | ohalkmdcakplbfpelgmnegcbdkfigolo | 豆包，数学公式导出Word | Policy Violation | Store Monitoring | 10/03/26 | No |
+| bgabcfjpeeepnhphhgdajhodpfdcnpab | Promo Codes One Couponer | Policy Violation | Store Monitoring | 09/03/26 | No |
 | iofmialeiddolmdlkbheakaefefkjokp | Palette Creator | Malware | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No |
 | aibfeemadfncnhephomomdicckopkgoe | Gemini AI Assistant | Policy Violation | Store Monitoring | 09/03/26 | No |
 | dcmpoiccnjppenlhbhhbbkacebmoegoc | NeoNFSe - Download de NFS-e automatizado | Policy Violation | Store Monitoring | 09/03/26 | No |
