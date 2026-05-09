@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-08",
-    "timestamp": "1778227767",
+    "date": "2026-05-09",
+    "timestamp": "1778352922",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,58 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "6b5a918b-3917-5f1b-b2d9-f15838acb00b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mndcjildkhcbefhicemomejgafmakcfo",
+        "comment": "Gitlab Confetti | Source: Store Monitoring | Added: 2026-05-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "3d8f64cb-04ac-58cf-b849-c8ad4bdf06f0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mndcjildkhcbefhicemomejgafmakcfo",
+        "comment": "Chrome Web Store entry for Gitlab Confetti (mndcjildkhcbefhicemomejgafmakcfo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a616ccbe-b26b-57ea-aa79-3eecf1be3e35",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oaldjcdohhhibelagdhoahbedekfjjjf",
+        "comment": "Browser Cash | Source: Store Monitoring | Added: 2026-05-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e8cfe0b2-f62b-5222-a4cf-a257ad65f191",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oaldjcdohhhibelagdhoahbedekfjjjf",
+        "comment": "Chrome Web Store entry for Browser Cash (oaldjcdohhhibelagdhoahbedekfjjjf)",
+        "distribution": "5"
+      },
       {
         "uuid": "6339f426-9edd-5be6-a1ef-2c95e0752964",
         "type": "text",
@@ -129,6 +181,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/jlcfpljmkpplfckldccmccihcpamelki",
         "comment": "Chrome Web Store entry for Viral 247 (jlcfpljmkpplfckldccmccihcpamelki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c7e5ee96-b9fd-522a-a893-3a2552f5ef6a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "joaobbbiagpjnhgbppfdjcbeabbbjokm",
+        "comment": "Chat Gpt App | Source: Store Monitoring | Added: 2026-05-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7f66e3cf-87e5-5c44-ba4d-ad83417dcc49",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/joaobbbiagpjnhgbppfdjcbeabbbjokm",
+        "comment": "Chrome Web Store entry for Chat Gpt App (joaobbbiagpjnhgbppfdjcbeabbbjokm)",
         "distribution": "5"
       },
       {
@@ -909,6 +987,240 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/kpbihpkcpnfnjddplngmbljcfofjgejh",
         "comment": "Chrome Web Store entry for Chatgpt Notifier (kpbihpkcpnfnjddplngmbljcfofjgejh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f653ba03-b5c5-5b54-b563-6e5ed0b98041",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nbflcljmdbibeoaipongjgfmbapanipm",
+        "comment": "Anker AIME Copilot | Source: https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/ | Added: 2026-04-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/\""
+          }
+        ]
+      },
+      {
+        "uuid": "b1aa0463-5ad4-5b9b-ac58-a694b2e74009",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nbflcljmdbibeoaipongjgfmbapanipm",
+        "comment": "Chrome Web Store entry for Anker AIME Copilot (nbflcljmdbibeoaipongjgfmbapanipm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "187c93c9-8afa-54ae-88de-8d4f0183d877",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljlhpcabhpjdlcjhbmgjigfceppgabmk",
+        "comment": "Notion\u4e2d\u6587\u7248 | Source: https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/ | Added: 2026-04-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/\""
+          }
+        ]
+      },
+      {
+        "uuid": "6b842513-44a4-55ca-b96c-28e9bb1a914b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljlhpcabhpjdlcjhbmgjigfceppgabmk",
+        "comment": "Chrome Web Store entry for Notion\u4e2d\u6587\u7248 (ljlhpcabhpjdlcjhbmgjigfceppgabmk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c96fab36-b0e6-5b38-8428-a8d1a986c32a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pdahnbohfcekobflehebdkoemnmmempk",
+        "comment": "Notion\u4e2d\u6587\u7248 | Source: https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/ | Added: 2026-04-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/\""
+          }
+        ]
+      },
+      {
+        "uuid": "c0a45462-893c-5902-8497-cd39cfb5a383",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pdahnbohfcekobflehebdkoemnmmempk",
+        "comment": "Chrome Web Store entry for Notion\u4e2d\u6587\u7248 (pdahnbohfcekobflehebdkoemnmmempk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "06d5d900-e7d0-5944-a464-7a491e0d1dbe",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jndldoeopjgmpakgmieaeeelhnjnfgkj",
+        "comment": "NotionAI\u63d2\u4ef6 | Source: https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/ | Added: 2026-04-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/\""
+          }
+        ]
+      },
+      {
+        "uuid": "baa49a40-1907-508d-bc7e-5a3b16deaa67",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jndldoeopjgmpakgmieaeeelhnjnfgkj",
+        "comment": "Chrome Web Store entry for NotionAI\u63d2\u4ef6 (jndldoeopjgmpakgmieaeeelhnjnfgkj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "87142163-3767-5336-b236-80c5d2fe91fb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jhhjbaicgmecddbaobeobkikgmfffaeg",
+        "comment": "Chat AI for Chrome | Source: https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/ | Added: 2026-04-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/\""
+          }
+        ]
+      },
+      {
+        "uuid": "cf285fe7-d44b-5a96-8566-469dd240e5b0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jhhjbaicgmecddbaobeobkikgmfffaeg",
+        "comment": "Chrome Web Store entry for Chat AI for Chrome (jhhjbaicgmecddbaobeobkikgmfffaeg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fcc57df7-aa7a-544a-9618-0784a64b3e81",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hmkcidjcpomiegnklmplkimmbcbklglb",
+        "comment": "Adobe Express: AI Photo, Video | Source: https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/ | Added: 2026-04-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/\""
+          }
+        ]
+      },
+      {
+        "uuid": "c6ae4fe5-6873-5f2e-87ad-7fbdb8caed40",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hmkcidjcpomiegnklmplkimmbcbklglb",
+        "comment": "Chrome Web Store entry for Adobe Express: AI Photo, Video (hmkcidjcpomiegnklmplkimmbcbklglb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a91ffcb1-7c80-50c2-8b81-fafa90b4b96b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dcjfbgppfdokmjgajnnkgdmkdeiloigh",
+        "comment": "Picsart: AI Photo Video Editor | Source: https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/ | Added: 2026-04-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/\""
+          }
+        ]
+      },
+      {
+        "uuid": "0ac94ce2-64da-5073-8b86-074921ff3f56",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dcjfbgppfdokmjgajnnkgdmkdeiloigh",
+        "comment": "Chrome Web Store entry for Picsart: AI Photo Video Editor (dcjfbgppfdokmjgajnnkgdmkdeiloigh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ff936db0-5063-5a6f-8270-751a7a8554f0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eebihieclccoidddmjcencomodomdoei",
+        "comment": "Supersonic AI | Source: https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/ | Added: 2026-04-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/\""
+          }
+        ]
+      },
+      {
+        "uuid": "00eae16d-2be0-52a5-8374-23bc2078a9ad",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eebihieclccoidddmjcencomodomdoei",
+        "comment": "Chrome Web Store entry for Supersonic AI (eebihieclccoidddmjcencomodomdoei)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "027085fb-ab49-5a72-a369-18a1d1b35a67",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dgeiaiglmhdhajbpfbmajaajdlfdinpi",
+        "comment": "\u4f1a\u8bd1:\u4e00\u7ad9\u5f0f AI \u7ffb\u8bd1 Agent\uff5c\u5bf9\u7167\u5f0fDeepL\u7ffb\u8bd1\uff5cDeepSeek\u5212\u8bcd\u7ffb\u8bd1\uff5c\u514d\u8d39 | Source: https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/ | Added: 2026-04-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/\""
+          }
+        ]
+      },
+      {
+        "uuid": "132c40b5-e82d-593c-9103-a8c2cabc761d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dgeiaiglmhdhajbpfbmajaajdlfdinpi",
+        "comment": "Chrome Web Store entry for \u4f1a\u8bd1:\u4e00\u7ad9\u5f0f AI \u7ffb\u8bd1 Agent\uff5c\u5bf9\u7167\u5f0fDeepL\u7ffb\u8bd1\uff5cDeepSeek\u5212\u8bcd\u7ffb\u8bd1\uff5c\u514d\u8d39 (dgeiaiglmhdhajbpfbmajaajdlfdinpi)",
         "distribution": "5"
       },
       {
@@ -14793,6 +15105,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/ohalkmdcakplbfpelgmnegcbdkfigolo",
         "comment": "Chrome Web Store entry for \u8c46\u5305\uff0c\u6570\u5b66\u516c\u5f0f\u5bfc\u51faWord (ohalkmdcakplbfpelgmnegcbdkfigolo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a2397356-6f40-5447-9c3e-1415e48891be",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bgabcfjpeeepnhphhgdajhodpfdcnpab",
+        "comment": "Promo Codes One Couponer | Source: Store Monitoring | Added: 2026-03-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f5d28a43-8c03-52e3-af8f-9ffbe5307439",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bgabcfjpeeepnhphhgdajhodpfdcnpab",
+        "comment": "Chrome Web Store entry for Promo Codes One Couponer (bgabcfjpeeepnhphhgdajhodpfdcnpab)",
         "distribution": "5"
       },
       {
