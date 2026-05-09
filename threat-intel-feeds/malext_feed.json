@@ -1,12 +1,26 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-05-08T08:09:26.963Z",
+  "generated": "2026-05-09T18:55:22.372Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1495,
+  "total_indicators": 1508,
   "indicators": [
+    {
+      "extension_id": "mndcjildkhcbefhicemomejgafmakcfo",
+      "name": "Gitlab Confetti",
+      "source": "Store Monitoring",
+      "insert_date": "2026-05-09",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mndcjildkhcbefhicemomejgafmakcfo"
+    },
+    {
+      "extension_id": "oaldjcdohhhibelagdhoahbedekfjjjf",
+      "name": "Browser Cash",
+      "source": "Store Monitoring",
+      "insert_date": "2026-05-09",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/oaldjcdohhhibelagdhoahbedekfjjjf"
+    },
     {
       "extension_id": "ckiogjflpadnbjbdjgecdhncmemglmne",
       "name": "Catfish",
@@ -34,6 +48,13 @@
       "source": "Store Monitoring",
       "insert_date": "2026-05-08",
       "chrome_store_url": "https://chromewebstore.google.com/detail/jlcfpljmkpplfckldccmccihcpamelki"
+    },
+    {
+      "extension_id": "joaobbbiagpjnhgbppfdjcbeabbbjokm",
+      "name": "Chat Gpt App",
+      "source": "Store Monitoring",
+      "insert_date": "2026-05-07",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/joaobbbiagpjnhgbppfdjcbeabbbjokm"
     },
     {
       "extension_id": "dllpkaoladhieehkbjbifonfblhgkoki",
@@ -244,6 +265,69 @@
       "source": "Store Monitoring",
       "insert_date": "2026-05-01",
       "chrome_store_url": "https://chromewebstore.google.com/detail/kpbihpkcpnfnjddplngmbljcfofjgejh"
+    },
+    {
+      "extension_id": "nbflcljmdbibeoaipongjgfmbapanipm",
+      "name": "Anker AIME Copilot",
+      "source": "https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/",
+      "insert_date": "2026-04-30",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nbflcljmdbibeoaipongjgfmbapanipm"
+    },
+    {
+      "extension_id": "ljlhpcabhpjdlcjhbmgjigfceppgabmk",
+      "name": "Notion\u4e2d\u6587\u7248",
+      "source": "https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/",
+      "insert_date": "2026-04-30",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ljlhpcabhpjdlcjhbmgjigfceppgabmk"
+    },
+    {
+      "extension_id": "pdahnbohfcekobflehebdkoemnmmempk",
+      "name": "Notion\u4e2d\u6587\u7248",
+      "source": "https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/",
+      "insert_date": "2026-04-30",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pdahnbohfcekobflehebdkoemnmmempk"
+    },
+    {
+      "extension_id": "jndldoeopjgmpakgmieaeeelhnjnfgkj",
+      "name": "NotionAI\u63d2\u4ef6",
+      "source": "https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/",
+      "insert_date": "2026-04-30",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jndldoeopjgmpakgmieaeeelhnjnfgkj"
+    },
+    {
+      "extension_id": "jhhjbaicgmecddbaobeobkikgmfffaeg",
+      "name": "Chat AI for Chrome",
+      "source": "https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/",
+      "insert_date": "2026-04-30",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jhhjbaicgmecddbaobeobkikgmfffaeg"
+    },
+    {
+      "extension_id": "hmkcidjcpomiegnklmplkimmbcbklglb",
+      "name": "Adobe Express: AI Photo, Video",
+      "source": "https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/",
+      "insert_date": "2026-04-30",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hmkcidjcpomiegnklmplkimmbcbklglb"
+    },
+    {
+      "extension_id": "dcjfbgppfdokmjgajnnkgdmkdeiloigh",
+      "name": "Picsart: AI Photo Video Editor",
+      "source": "https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/",
+      "insert_date": "2026-04-30",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dcjfbgppfdokmjgajnnkgdmkdeiloigh"
+    },
+    {
+      "extension_id": "eebihieclccoidddmjcencomodomdoei",
+      "name": "Supersonic AI",
+      "source": "https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/",
+      "insert_date": "2026-04-30",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eebihieclccoidddmjcencomodomdoei"
+    },
+    {
+      "extension_id": "dgeiaiglmhdhajbpfbmajaajdlfdinpi",
+      "name": "\u4f1a\u8bd1:\u4e00\u7ad9\u5f0f AI \u7ffb\u8bd1 Agent\uff5c\u5bf9\u7167\u5f0fDeepL\u7ffb\u8bd1\uff5cDeepSeek\u5212\u8bcd\u7ffb\u8bd1\uff5c\u514d\u8d39",
+      "source": "https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/",
+      "insert_date": "2026-04-30",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dgeiaiglmhdhajbpfbmajaajdlfdinpi"
     },
     {
       "extension_id": "fdbiogldjjmedbkbjdnolcifiankgeeo",
@@ -3982,6 +4066,13 @@
       "source": "Store Monitoring",
       "insert_date": "2026-03-10",
       "chrome_store_url": "https://chromewebstore.google.com/detail/ohalkmdcakplbfpelgmnegcbdkfigolo"
+    },
+    {
+      "extension_id": "bgabcfjpeeepnhphhgdajhodpfdcnpab",
+      "name": "Promo Codes One Couponer",
+      "source": "Store Monitoring",
+      "insert_date": "2026-03-09",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bgabcfjpeeepnhphhgdajhodpfdcnpab"
     },
     {
       "extension_id": "iofmialeiddolmdlkbheakaefefkjokp",
