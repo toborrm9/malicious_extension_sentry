@@ -1,12 +1,40 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-05-09T18:55:22.372Z",
+  "generated": "2026-05-10T22:39:19.971Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1508,
+  "total_indicators": 1512,
   "indicators": [
+    {
+      "extension_id": "hainageelgfgkahipebbjeefhjnaopkh",
+      "name": "Cat Gatekeeper",
+      "source": "Store Monitoring",
+      "insert_date": "2026-05-10",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hainageelgfgkahipebbjeefhjnaopkh"
+    },
+    {
+      "extension_id": "clehpjldcdennhphcfihphbeoihllbki",
+      "name": "\u202et\u0435Ll\u0430W T\u0435\u0578Kr\u0430Ts \u0578\u0456\u043e\u0441T\u0456\u0432",
+      "source": "Store Monitoring",
+      "insert_date": "2026-05-10",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/clehpjldcdennhphcfihphbeoihllbki"
+    },
+    {
+      "extension_id": "opfppjjpcgojicomghpdjanjpeobaajo",
+      "name": "Image To Prompt",
+      "source": "Store Monitoring",
+      "insert_date": "2026-05-10",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/opfppjjpcgojicomghpdjanjpeobaajo"
+    },
+    {
+      "extension_id": "jfpipjgidnagjbmdfhogcoklclacgnhk",
+      "name": "Image To Text",
+      "source": "Store Monitoring",
+      "insert_date": "2026-05-10",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jfpipjgidnagjbmdfhogcoklclacgnhk"
+    },
     {
       "extension_id": "mndcjildkhcbefhicemomejgafmakcfo",
       "name": "Gitlab Confetti",
