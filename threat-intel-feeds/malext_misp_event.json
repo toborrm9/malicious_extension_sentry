@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-09",
-    "timestamp": "1778352922",
+    "date": "2026-05-10",
+    "timestamp": "1778452760",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,110 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "4c2c7d19-5a46-5a31-a976-c7fc37b124b9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hainageelgfgkahipebbjeefhjnaopkh",
+        "comment": "Cat Gatekeeper | Source: Store Monitoring | Added: 2026-05-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e5bbb130-84ff-50c9-9a26-eeec5477dc86",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hainageelgfgkahipebbjeefhjnaopkh",
+        "comment": "Chrome Web Store entry for Cat Gatekeeper (hainageelgfgkahipebbjeefhjnaopkh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f6f3c2e7-cfce-58a3-a711-92bc1a32a10c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "clehpjldcdennhphcfihphbeoihllbki",
+        "comment": "\u202et\u0435Ll\u0430W T\u0435\u0578Kr\u0430Ts \u0578\u0456\u043e\u0441T\u0456\u0432 | Source: Store Monitoring | Added: 2026-05-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "36247fe9-4d31-5f83-893d-aa71494893f3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/clehpjldcdennhphcfihphbeoihllbki",
+        "comment": "Chrome Web Store entry for \u202et\u0435Ll\u0430W T\u0435\u0578Kr\u0430Ts \u0578\u0456\u043e\u0441T\u0456\u0432 (clehpjldcdennhphcfihphbeoihllbki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "592e7a9e-f534-558b-b09d-bc8c2043d04e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "opfppjjpcgojicomghpdjanjpeobaajo",
+        "comment": "Image To Prompt | Source: Store Monitoring | Added: 2026-05-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "8f28c43f-772f-592f-a540-a5f57004ed56",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/opfppjjpcgojicomghpdjanjpeobaajo",
+        "comment": "Chrome Web Store entry for Image To Prompt (opfppjjpcgojicomghpdjanjpeobaajo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "002a00bc-3edd-5e7b-a48f-2637604f74c6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jfpipjgidnagjbmdfhogcoklclacgnhk",
+        "comment": "Image To Text | Source: Store Monitoring | Added: 2026-05-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "64de57ac-58b5-52d3-8e14-7be21d97ac4b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jfpipjgidnagjbmdfhogcoklclacgnhk",
+        "comment": "Chrome Web Store entry for Image To Text (jfpipjgidnagjbmdfhogcoklclacgnhk)",
+        "distribution": "5"
+      },
       {
         "uuid": "6b5a918b-3917-5f1b-b2d9-f15838acb00b",
         "type": "text",
