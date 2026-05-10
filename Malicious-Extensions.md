@@ -1,12 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| hainageelgfgkahipebbjeefhjnaopkh | Cat Gatekeeper | Policy Violation | Store Monitoring | 10/05/26 | No |
+| clehpjldcdennhphcfihphbeoihllbki | ‮tеLlаW TеոKrаTs ոіосTів | Malware | Store Monitoring | 10/05/26 | No |
+| opfppjjpcgojicomghpdjanjpeobaajo | Image To Prompt | Bundling Unwanted Software | Store Monitoring | 10/05/26 | No |
+| jfpipjgidnagjbmdfhogcoklclacgnhk | Image To Text | Bundling Unwanted Software | Store Monitoring | 10/05/26 | No |
 | mndcjildkhcbefhicemomejgafmakcfo | Gitlab Confetti | Policy Violation | Store Monitoring | 09/05/26 | No |
 | oaldjcdohhhibelagdhoahbedekfjjjf | Browser Cash | Policy Violation | Store Monitoring | 09/05/26 | No |
 | ckiogjflpadnbjbdjgecdhncmemglmne | Catfish | Bundling Unwanted Software | Store Monitoring | 08/05/26 | No |
-| gmekdebdabobofpnlcepmakijkokadla | Lucidstat Website Analyti | Bundling Unwanted Software | Store Monitoring | 08/05/26 | No |
+| gmekdebdabobofpnlcepmakijkokadla | Lucidstat Website Analyti | Bundling Unwanted Software | Store Monitoring | 08/05/26 | Yes |
 | moighicahighphhhidlpanmnodgjkfjm | Sn Copilot | Policy Violation | Store Monitoring | 08/05/26 | No |
 | jlcfpljmkpplfckldccmccihcpamelki | Viral 247 | Malware | Store Monitoring | 08/05/26 | No |
-| joaobbbiagpjnhgbppfdjcbeabbbjokm | Chat Gpt App | Policy Violation | Store Monitoring | 07/05/26 | No |
+| joaobbbiagpjnhgbppfdjcbeabbbjokm | Chat Gpt App | Policy Violation | Store Monitoring | 07/05/26 | Yes |
 | dllpkaoladhieehkbjbifonfblhgkoki | Best AdBlocker | Policy Violation | [www.reddit.com](https://www.reddit.com/r/hacking/comments/1t3euxi/chrome_best_adblocker_trojanized_extension_100k/) | 07/05/26 | No |
 | jedmjcmddadejphppaligbfldbhamnih | Tiktok Coin Calculator | Policy Violation | Store Monitoring | 06/05/26 | No |
 | boilpfehlfccankbapnkhfgdcbhlgnid | Clipboard Manager Free | Malware | Store Monitoring | 06/05/26 | No |
@@ -21,7 +25,7 @@
 | kniopgmheioicilhbpfgofgiebicmgkp | One Tab Manager | Policy Violation | Store Monitoring | 05/05/26 | No |
 | khoigeopdelmjmimedipaoebcmkoljdg | Ask Chatgpt | Policy Violation | Store Monitoring | 05/05/26 | No |
 | dhmoflfpggooodhaagcbfdkfkicebbdd | Xverse wallet Extension | Policy Violation | Store Monitoring | 05/05/26 | No |
-| inidhkdhmknfjijeokklpobceghknimk | Add Balance Tiktok Ads | Policy Violation | Store Monitoring | 05/05/26 | No |
+| inidhkdhmknfjijeokklpobceghknimk | Add Balance Tiktok Ads | Policy Violation | Store Monitoring | 05/05/26 | Yes |
 | kgenlgjkglpmbiocphbgnmknalmfacei | Chat Gpt | Policy Violation | Store Monitoring | 05/05/26 | No |
 | jfjgodhodlbbmchladiboammimaonoea | Social Media Turbo Bot | Policy Violation | Store Monitoring | 04/05/26 | No |
 | pjbcokeiajlkicejjfioeoggjblmhoko | Social Aio Bot Auto Click | Policy Violation | Store Monitoring | 04/05/26 | No |
@@ -440,7 +444,7 @@
 | mjhocphphjjjcabfdcaemfkokegeebbg | TikTok Leads | Policy Violation | Store Monitoring | 07/04/26 | No |
 | cgnnmgjmhhmemkmdcckoofobpdejpjef | Precision LinkedIn Integration | Policy Violation | Store Monitoring | 07/04/26 | No |
 | cghdjcdmopohjlogglcbocjldjhjlddg | BizWik | Policy Violation | Store Monitoring | 07/04/26 | No |
-| gogbiohkminacikoppmljeolgccpmlop | Color Picker - Eyedropper Tool | Malware | [cyberinsider.com](https://cyberinsider.com/author/alexlekander/) | 07/04/26 | No |
+| gogbiohkminacikoppmljeolgccpmlop | Color Picker - Eyedropper Tool | Malware | [cyberinsider.com](https://cyberinsider.com/author/alexlekander/) | 07/04/26 | Yes |
 | bgkijgmoikigljbbfokahemdnhilkkma | Shield Linkedin Analytics | Policy Violation | Store Monitoring | 07/04/26 | No |
 | bogbhacoalfapopgbgfoencdpdkmdlpk | 宙斯zeus回国加速器 海外华人免费回国追剧听歌 | Policy Violation | Store Monitoring | 07/04/26 | No |
 | bbdejfjnpbdjbdnibpmiegbdfbngbahn | Minecraft Shrek Riding Pi | Policy Violation | Store Monitoring | 07/04/26 | No |
@@ -847,7 +851,7 @@
 | domokkifabiamikppmngfikdjjihldln | SpongeBob and Gary’s Undersea Adventure | Policy Violation | Store Monitoring | 06/02/26 | No |
 | abkebhncjihnoblbkcmhogfdpdmdklhg | Garfield Wallpaper | Policy Violation | Store Monitoring | 06/02/26 | No |
 | imdfikikfkflcgioaidldbhhoknmdfee | Spongebob Square Pants | Policy Violation | Store Monitoring | 06/02/26 | No |
-| pdadlkbckhinonakkfkdaadceojbekep | ZED: Zoom Easy Downloader | Policy Violation | Store Monitoring | 05/02/26 | No |
+| pdadlkbckhinonakkfkdaadceojbekep | ZED: Zoom Easy Downloader | Policy Violation | Store Monitoring | 05/02/26 | Yes |
 | kabbfhmcaaodobkfbnnehopcghicgffo | CVR: Chrome Video Recorder | Policy Violation | Store Monitoring | 05/02/26 | No |
 | cphibdhgbdoekmkkcbbaoogedpfibeme | GoToWebinar & GoToMeeting Download Recordings | Policy Violation | Store Monitoring | 05/02/26 | No |
 | ceofheakaalaecnecdkdanhejojkpeai | Meet auto admit | Policy Violation | Store Monitoring | 05/02/26 | No |
