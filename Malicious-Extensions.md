@@ -1,5 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| clglplmhjdibddcnnhdljjpnoaomjgnc | Chatgpt Ai | Policy Violation | Store Monitoring | 12/05/26 | No |
+| hjobpecmhlmolgpmkejgadabjejpjcgm | Tiktok Ad Analyzer | Policy Violation | Store Monitoring | 12/05/26 | No |
+| fnbmdanldjcejflmflooiahjmacbkohh | Tiktok Comment Exporter | Policy Violation | Store Monitoring | 12/05/26 | No |
+| hgnmfhhafegjjcofnbbikgocfcoapmfj | Tiktok Ads Monitor Pro | Policy Violation | Store Monitoring | 12/05/26 | No |
+| ggfemjndlhnpnjinndhpkfnnhdchchde | бебро впн | Policy Violation | Store Monitoring | 12/05/26 | No |
+| cackjmmgcmnkjnffabkabapdkofggpjl | Klue | Policy Violation | Store Monitoring | 12/05/26 | No |
+| pjpmebofipgpjaincgoboibbmicccbne | Chatgpt Rtl فارسی راست‌چی | Policy Violation | Store Monitoring | 11/05/26 | No |
+| njcphhbmfdglhkfegcpflminbhoojefc | Gitlab Swimlanes Chrome P | Policy Violation | Store Monitoring | 11/05/26 | No |
+| inhiciabodleebpfchicllicbijcefhg | Chatgpt Conversation Mana | Policy Violation | Store Monitoring | 11/05/26 | No |
+| pdepablkdfgdadoleeghhajaapcbilio | Gitlab Mr Vulnerability W | Policy Violation | Store Monitoring | 11/05/26 | No |
+| clfocgpnamchmalmdlcacllaembakhob | Base Coinbase Wallet | Bundling Unwanted Software | Store Monitoring | 11/05/26 | No |
 | hainageelgfgkahipebbjeefhjnaopkh | Cat Gatekeeper | Policy Violation | Store Monitoring | 10/05/26 | No |
 | clehpjldcdennhphcfihphbeoihllbki | ‮tеLlаW TеոKrаTs ոіосTів | Malware | Store Monitoring | 10/05/26 | No |
 | opfppjjpcgojicomghpdjanjpeobaajo | Image To Prompt | Bundling Unwanted Software | Store Monitoring | 10/05/26 | No |
@@ -42,7 +53,7 @@
 | peiibhfbdkgnbepgobjcgabkcfembndm | Free Chatgpt For Google C | Policy Violation | Store Monitoring | 01/05/26 | No |
 | kpbihpkcpnfnjddplngmbljcfofjgejh | Chatgpt Notifier | Policy Violation | Store Monitoring | 01/05/26 | No |
 | nbflcljmdbibeoaipongjgfmbapanipm | Anker AIME Copilot | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
-| ljlhpcabhpjdlcjhbmgjigfceppgabmk | Notion中文版 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
+| ljlhpcabhpjdlcjhbmgjigfceppgabmk | Notion中文版 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | Yes |
 | pdahnbohfcekobflehebdkoemnmmempk | Notion中文版 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | Yes |
 | jndldoeopjgmpakgmieaeeelhnjnfgkj | NotionAI插件 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
 | jhhjbaicgmecddbaobeobkikgmfffaeg | Chat AI for Chrome | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
@@ -609,6 +620,7 @@
 | kihfdgpnhlkopkiadeopobhbpeplffam | All Friends Remover | Malware | Store Monitoring | 06/03/26 | Yes |
 | lebaaldhfkhmjcmljacicokgmcfmeofm | Convert PDF to Notion | Policy Violation | Store Monitoring | 06/03/26 | No |
 | lfhfenilfjbgcjckhmdpgjdafhoojljl | Top10 Crypto Ticker | Policy Violation | Store Monitoring | 06/03/26 | No |
+| bankpannefgoifckfjjllibjeaeifpbd | Github Dev Switch | Policy Violation | Store Monitoring | 05/03/26 | No |
 | ncalomlkpjgkcmfbdikdodindkkngjhp | Linkedin Games Solver | Policy Violation | Store Monitoring | 05/03/26 | No |
 | npifianbfjhobabjjpfdjjihgbdnbojh | Text Summarizer | Malware | Store Monitoring | 05/03/26 | Yes |
 | nplljogcholopgphioakbdjfkbkdhomg | Tiktok Video Downloader | Policy Violation | Store Monitoring | 05/03/26 | No |
