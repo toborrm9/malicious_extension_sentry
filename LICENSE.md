@@ -1,7 +1,7 @@
 ## MIT License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Copyright (c) 2025 toborrm9
+Copyright (c) 2025-2026 toborrm9
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
