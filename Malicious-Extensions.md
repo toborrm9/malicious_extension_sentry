@@ -1,5 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| ipnlcfhfdicbfbchfoihipknbaeenenm | Elmo Chat Your Ai Web Cop | Policy Violation | Store Monitoring | 14/05/26 | No |
+| femkdojbljfbenbennpmjmmikmjlgeco | Thailand Journey | Bundling Unwanted Software | Store Monitoring | 14/05/26 | No |
+| ndeejgokieklaealoikgdmbmjdkmaoco | Claude Ai Chrome Extensio | Policy Violation | Store Monitoring | 14/05/26 | No |
+| clajadbbjodhmojbejfhlegbepkpokba | Spk Wallet | Malware | Store Monitoring | 14/05/26 | No |
+| migdegnfalpegigcibhcijackkbgpbif | Video Dwnl Video Download | Bundling Unwanted Software | Store Monitoring | 14/05/26 | No |
+| apfijngnajkcaejadecbcjkgikabibln | Rospin | Malware | Store Monitoring | 13/05/26 | No |
+| inbmcaiilhlpeepmlenjhnblgflmknme | Clipbear | Policy Violation | Store Monitoring | 12/05/26 | No |
+| dhekojmaelacgbmbhfibfgaeinmfmaej | Sol Phantom App | Policy Violation | Store Monitoring | 12/05/26 | No |
 | clglplmhjdibddcnnhdljjpnoaomjgnc | Chatgpt Ai | Policy Violation | Store Monitoring | 12/05/26 | No |
 | hjobpecmhlmolgpmkejgadabjejpjcgm | Tiktok Ad Analyzer | Policy Violation | Store Monitoring | 12/05/26 | No |
 | fnbmdanldjcejflmflooiahjmacbkohh | Tiktok Comment Exporter | Policy Violation | Store Monitoring | 12/05/26 | No |
@@ -43,6 +51,7 @@
 | jajikjbellknnfcomfjjinfjokihcfoi | Adblock for YouTube & Chrome - All Block | Policy Violation | Store Monitoring | 04/05/26 | No |
 | pcipiedhfiojjdbooghpmjanbpigcojb | Onetab Downloader | Policy Violation | Store Monitoring | 04/05/26 | No |
 | phgjgflllnbdebkfocmmhnkaejofegfc | Tronlink | Malware | Store Monitoring | 04/05/26 | Yes |
+| bhpghgoeaedhpmadepoadfbljmbhbikk | Drflare Reloaded | Policy Violation | Store Monitoring | 03/05/26 | No |
 | mbjjannikkfihddnepoionimbedjnbib | Prodigy Origin Prodigy Mo | Policy Violation | Store Monitoring | 03/05/26 | No |
 | hmldnpigepegofdmmmhbkgjmcnefpgig | Slazzer Free Image Backgr | Policy Violation | Store Monitoring | 02/05/26 | No |
 | pljbjcehnhcnofmkdbjolghdcjnmekia | Bless | Policy Violation | Store Monitoring | 02/05/26 | No |
