@@ -7,7 +7,7 @@
 | bamkikhlhhnpdkehbjpepjkjgcdcdlfi | Vieu Chrome Extension Get | Policy Violation | Store Monitoring | 16/05/26 | No |
 | jodgpofgbnifpjpikmagibgcfiipkgkb | Nexusflow Sidebar | Bundling Unwanted Software | Store Monitoring | 15/05/26 | No |
 | okckcmcehmodfocipicdmllmideoobjf | Chat Gpt Extension | Policy Violation | Store Monitoring | 15/05/26 | No |
-| kfnneegkdeoepbhcgbgofeegbjokkjcn | Website Traffic Checker | Malware | Store Monitoring | 15/05/26 | No |
+| kfnneegkdeoepbhcgbgofeegbjokkjcn | Website Traffic Checker | Malware | Store Monitoring | 15/05/26 | Yes |
 | pbaejapbddilgckealiiohfgoncbdhbb | Poly Price Tracker | Bundling Unwanted Software | Store Monitoring | 15/05/26 | No |
 | bnacincmbaknlbegecpioobkfgejlojp | Maxfocus Link Preview Ai | Policy Violation | Store Monitoring | 15/05/26 | No |
 | adjiklnjodbiaioggfpbpkhbfcnhgkfe | Github Web Ide | Policy Violation | Store Monitoring | 15/05/26 | No |
@@ -19,6 +19,132 @@
 | ndeejgokieklaealoikgdmbmjdkmaoco | Claude Ai Chrome Extensio | Policy Violation | Store Monitoring | 14/05/26 | No |
 | clajadbbjodhmojbejfhlegbepkpokba | Spk Wallet | Malware | Store Monitoring | 14/05/26 | No |
 | migdegnfalpegigcibhcijackkbgpbif | Video Dwnl Video Download | Bundling Unwanted Software | Store Monitoring | 14/05/26 | Yes |
+| imgjapefioodjkjipgpnohmceghomkmb | WaClinic | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jkeogjcccehfccanacclmckcdgepkifo | InterZap | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| dfcngbjlmlakepppfaaepideejcbfcjf | WA Envio | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| fhgjdkfbeghkbgjjkkkldiemdcboimmi | Primeira Classe | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| bjhbgbfapjofmjcoonncefneakppmkmo | PRAXATECH SOLUÇÕES | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| fefgeijhenfppagifhlfkjjadijghoea | Win7max - CRM no WhatsApp Web, Chatbot, Automação e Disparo em Massa | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| abkolnpebgghiglkkdjcgjgbpnddmfmp | WAVENDY | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| pppeaodmafhlepccbpnjhobmokplfkjb | YouZapCRM - WhatsApp Web com poder de CRM, automações e muito mais! | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| dfeojjampcncbhemefhadnnokdjdfomd | EAI + | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jaonmiiccahaddjkdhaonhfhdiagfbdh | Waat: CRM e Vendas no WhatsApp Web | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| mleloepbohmmgjcfacngpffcappdcdni | VMSender | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| pdlpnkplaofpdajmgegfnlifmdlejmfp | Nextgo Zap: Seu Whatsapp Turbinado! | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jadgponjpllhepidoclncpogkhcnepac | WaPROdy | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| cbgghdpadjdmlelmkkonkcjiccajaoln | IA do Corretor | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| hcbmcbkjjklkjidikpggmmfpfklcpnmb | ZAPPROFIT CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| pmkbdfddjmnceffcgdgfnenkngkkeheg | WhatsTime CRM for WhatsApp™ Web | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| gadlhgaecbhahkiojnnfnkklomflhifh | WAURA | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| bddkejibhlhebhfpbhjbgfnpkmgoboaj | ZAZMAX | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| nfhbefcgpghdaaebjafocolpadkdedef | WAPIN | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ojpoinccmndjnfhhkgcbjmkfahfmppee | ZAPGYN | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| okhjgjpafhnjbndkojddaicngefobnjn | Feel Up | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| pcjidgpofjkoaelajgfdecebigjiojcn | WATHOR | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| lecapbnkojjbcmpgojanclnilcnemjpk | SmartZap | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| npeoblgjndfpphhdjlanbjalbccifpom | Mais Leads CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| moodoffpaogeijclgpdicfnidnmeeeoe | ViaShopModa | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| hknmlgmbiononigjnihhflhmmmhfbjpl | autozai – Otimize o tempo e multiplique as vendas no WhatsApp | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| aidmcapfnmaopagoclmgncjeegknibpd | KASAPP | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| bijckmbmblabepobmabjcegimlcpilml | DR.FIDELIZA | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| iibldfhmeiipohbjlkhfgnjhcmkknffi | AtendaZap | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jkblcpmoooocmdcfjojdecccejlkicap | MERLIN BOT | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| endfahndaiibchcbfaphnhanpckdhmll | WaMed | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| illemhbijpiebjfilfmgebahaakajkpe | WaSeller - Perder vendas no WhatsApp não é normal | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| pldfelebkfalpldhfbeagfgmmmelajlc | Zapbase | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| bgnkgembgfkfjipflkniiibgcedloekn | MULTIZAP CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ckfolfphmhnhimichgialimbohkfkmpp | KFarias Inovação Tecnologica | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| nlbdmcikemaghcoeoblmlkdlhiggnhin | CRM DE ELITE : CRM no whatsapp, Automações e Ferramentas para venda | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| kiobbadnbgllphgkigmkahaimkmamfln | VUTTI CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| aehakeblnhhdddmglmolkjcdjblghjbm | Agencia Guedes | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| gkkkdobapmhkaihggejlcdbjemfkhdgk | ZappyGO | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ghfhbalboihigmncnabikapdldfdikng | FATURE MAIS | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| gmidblfofjdiajmlnfiagijikmojkhia | SevenSales | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ejenghcfiaehahmeklcojkhpamicfjol | JURIMIND CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| eolijkhfnnodhepiglajhkijjbcndiea | FR VENDAS PRO | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| gjbfdbkfhgdfiieppgdpbglhjhljhhmk | WhaScale - Um passo à frente do seu concorrente | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| cellckcnenolgakggljkichbmgmbibgb | Midia Medica Orientada | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| engjehngfignjpekjkpgjgapnlkndofk | SmartFlow | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jeicljefnlpdoblklfdephbpihhjgphf | ENOCRM \| Gestão de Leads no WhatsAPP | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| gjlfpggiddcminhebiejofeglfjmleli | waTidy : CRM no whatsapp, Automações e Ferramentas para venda | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| mpmccehgdjojicnlcmmdoogohdamlfpp | DigitaZap | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| mkjmckhlecedggnpbefkgehebkickghd | ZAPARETO | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| cplaeebopfpnoebkaimlibpdickcjofa | BALTZ CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| bgaaamckjapoiaiioklgmbknjegdkkhd | CRM-PRO : Transforme seu whatsapp em um sistema de vendas | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| elicjcmfamohcfkpokcdhapngkadckpa | Chat Boost | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| pckoggnahgjephjpcmfnhfolbmenkdjp | SellUP | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| aajdkangkldmljmoaoehmbnchdjkgojk | WAME | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| pdfegaocpmmmomhgodfipbfmbikdajfj | WaPower | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| hecbfkaeblempihjgpoeapkpjnkhlmli | wazippy | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| dagelhckpadaagjpebgjfkccfnljcjmn | Pangeia | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| bpgbjcgkegcecddlnlckjcoddhpmekdh | waSuper | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ekmdldnjhmffdbihkfannnmloccnmemn | Talk Mais | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| dhpgneegbflgangnpfeoafgpabacholj | WaListall \| O Melhor CRM para WhatsApp Web – Teste Grátis | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| dpahdbhekfclimkekdabboefohagelfp | Cliente Flow | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| npcbkljcefmdegcjjghdfgfmnkmfjlba | LEEVO CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| cfbgbmdpdkmdpdpchmhpkkdcolpgnode | Monitora Leads | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ligmikomohkaooecoochfknopalblanl | Bull Lead - Automações e atendimento no WhatsApp para vendedores | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| kmmibpooeblhmpbphojdncfdlfflecab | WaContact | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| bhdaecfcjmipomgngjhacbfmjafjnicl | Smart WA | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ngnffiapbonmlgijfnlcgbdomhgcmmna | Botzom – Vendas, CRM e Chatbot para WhatsApp | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| cbfeaklofemfhdlajmnlbdadcmbfaakc | Gera Cliente - Extensão do Whatsapp para vender até 4x mais | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| nenopmledlfnfcgjdkdefhegeajjpfgf | AmizApp | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| bdcoljfgfbdkmjeabhnpgddpiopccleo | WhatsSelling | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| pgnmegacljodjeioihhjlcajngphbagf | EnZap | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ahiieliljkcgmghicbgidblclkbklmka | Dental Chat - Gestão de leads e pacientes no Whatsapp para Clínicas | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| npfamfonpecnjjbhalhdahlokadlblbm | Chatweb CRM : Transforme seu whatsapp em um sistema de vendas | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| gkdefmghclmhookpgciggdhglejpghoc | Whapro – Automação, CRM e Vendas no WhatsApp Web | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ahgellbcclklfinhliakcdgjnebickel | What Vision | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ikliliinakofoiojghnipegfphmoljla | Kentro | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jhokpeoaapahcoaigkfnienliabeaang | Disparô/Wa - Disparo no WhatsApp, CRM, Automações, Ferramentas para Venda | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ajihoihfamedkfcknpgcelpbhdnadabg | PROSPECTA CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| beeemlkkaejmncamaeeahkbibhapgpeg | Gestor B2B | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jcjodbceolndbhnbljiedcanmglmhmop | ZarpGo | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| abpcbpoghgmfjkkdoeknbldhkklpcmfn | Eddye | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| logefefpibkofniajhdigjnpbmimjelg | KENVIA - Transforme o seu WhatsApp Web numa plataforma de vendas | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| comknamophhecgmcchgcclmcodohlfap | SPEEDYX | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| echacghfmpmedednbkfoalmpccdiajci | CRMSIM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| cbaabfpflhiklcjgkjjhfjelihkgondn | WAction | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jacgfjfdnjamjbdkihblimkekfoiiafi | WAFACIL | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| acncpfocelnijeegfclfigffjgancfod | WhatSeller | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| fnhnkcmbkibeacgbhloapcdgmgfdnpcc | WATSELY | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| lfenojckeamfnllggndghkmfhkheiimc | UpSell | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| cicmfpphdicmiaphcmjpcapphlnooglp | FocusLead | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| okmklmkaficfbcebbggmjmphhipflhme | IronZap | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| deaadbmkldfnondhdbbfoldamngpgahp | CRM TURBINADO | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ghajfmiecdhdkifpapbjngmcdbedjmgg | WaBest | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| gjdchlihfacnabnppldhmnimolipgnmj | SutoflyCRM, WhatsApp Web organizado, automatizado e vendendo | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| kmipafdabbpmampkcconideakdacmaln | BootComp | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| oghollmlfgpfdlailojlcpbbmjoeabhe | MARKETING DE FITNESS | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| pcpdnigabekdogbajcacpbkebdfmaapc | ELITE | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| plahbdekkijmgefopapakkhcogooghlk | JJCA | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| hkdbocoaofpdmbbgpimdkhcafenpkikn | WATEND | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| gollbfedpcfodjgfjddbkfnkkfdedknn | Master Engage | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ldhkdnjdpdknckckaoafnaipmclhnfbf | Salezap | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| adjmmdjciklooaidchgnmbdjmmgobcnc | zapboost | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| mahgiheajijdifhnekeknnkfkjbfjkdh | Acelere CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| deglljpibacfneponmjilaopemcdohle | ZAPFY CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| emhembimlgjkalegifeijlilginlnano | ClickZap | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jkflhidejcmhenikpjhidoofogahicjp | RED Chat CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| olmbfmmlpodikepicechoekmiiejpmel | WA BOOSTER | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| foodgdffkpakghokjoemdblocpijcdgd | To Talk Connect | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| pdckbaohagnmbkfjgobeaiiplolfckhm | wa To you | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ffngpoeegbhbhpbkhbnilghielofekpc | App Vendas CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| afdhcpnimkgccfjcelgkiipidhebddjh | G5 Chat | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| njpegidkheieeecaiaaihggmnhklccjn | DragonChat | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ephepidhbiabcalednafkdpllnnohnph | DGUESTS | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| bbbifilhkmefbakdfjnamkneldmocibp | MI CIERRO | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| bkkcobflaheefjdhejdbogmhpojphhhf | UATZAP CRM | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| nddkllhdjjgopaibekmobibbmoedkdmj | Vluw | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| gnmmfdohfcohcflccikmlodaeignlkce | Whats Expert | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| kknnggmipdieldidejjflfceicjpcgdk | Organize-C Pro | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| elahghcenkbboillglflockiijbkejod | Hchat | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ijdgdpgjggoehifckpmpdmfpnkdakkne | Verk - Direto no whatsapp, Automações e IA para vendas | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| okiccdcmkdhldgbclikganfldepocmmd | Ninja Ads | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| bledopcgjbhnheppjbekbjnjnelmckdl | Wa Elo IA | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| aocojboaoklgedadlpaallelnanhcpgm | YOUSELLER - Facilidade, produtividade em escala. | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| flfjappofhfkljghalmpfnnhllokpami | WORKZAP | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| pihbjpjjgpejkbjmpijpmmolaehlbafc | talkspeed | malicious | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
 | apfijngnajkcaejadecbcjkgikabibln | Rospin | Malware | Store Monitoring | 13/05/26 | No |
 | inbmcaiilhlpeepmlenjhnblgflmknme | Clipbear | Policy Violation | Store Monitoring | 12/05/26 | No |
 | dhekojmaelacgbmbhfibfgaeinmfmaej | Sol Phantom App | Policy Violation | Store Monitoring | 12/05/26 | No |
