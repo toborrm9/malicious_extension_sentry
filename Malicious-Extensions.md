@@ -1,10 +1,24 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| mffnoabholpepnlhglanfdlefgfknjki | Bao Tuyet | Policy Violation | Store Monitoring | 16/05/26 | No |
+| fidehgfkepdjggincehnanpcdeklgopd | Glimpse Ai Gmail Assistan | Policy Violation | Store Monitoring | 16/05/26 | No |
+| mcbdngfmhnadbiehggilloephjhjndpn | Tandem Ai Search Side Pan | Policy Violation | Store Monitoring | 16/05/26 | No |
+| eonhgphmceoiekhbknomhkllnonbccca | Whatsapp For Web | Policy Violation | Store Monitoring | 16/05/26 | No |
+| bamkikhlhhnpdkehbjpepjkjgcdcdlfi | Vieu Chrome Extension Get | Policy Violation | Store Monitoring | 16/05/26 | No |
+| jodgpofgbnifpjpikmagibgcfiipkgkb | Nexusflow Sidebar | Bundling Unwanted Software | Store Monitoring | 15/05/26 | No |
+| okckcmcehmodfocipicdmllmideoobjf | Chat Gpt Extension | Policy Violation | Store Monitoring | 15/05/26 | No |
+| kfnneegkdeoepbhcgbgofeegbjokkjcn | Website Traffic Checker | Malware | Store Monitoring | 15/05/26 | No |
+| pbaejapbddilgckealiiohfgoncbdhbb | Poly Price Tracker | Bundling Unwanted Software | Store Monitoring | 15/05/26 | No |
+| bnacincmbaknlbegecpioobkfgejlojp | Maxfocus Link Preview Ai | Policy Violation | Store Monitoring | 15/05/26 | No |
+| adjiklnjodbiaioggfpbpkhbfcnhgkfe | Github Web Ide | Policy Violation | Store Monitoring | 15/05/26 | No |
+| mijjlcdelglplkibhildchndciaafbep | Surfshark Vpn для Chrome | Policy Violation | Store Monitoring | 15/05/26 | No |
+| chibagmiddeeabiejppmcineoadfgbab | Rakyz Points | Policy Violation | Store Monitoring | 15/05/26 | No |
+| ecjpmdkbllfkofnkmigaofclepamongg | Tonkeeper Extension | Bundling Unwanted Software | Store Monitoring | 15/05/26 | No |
 | ipnlcfhfdicbfbchfoihipknbaeenenm | Elmo Chat Your Ai Web Cop | Policy Violation | Store Monitoring | 14/05/26 | No |
 | femkdojbljfbenbennpmjmmikmjlgeco | Thailand Journey | Bundling Unwanted Software | Store Monitoring | 14/05/26 | No |
 | ndeejgokieklaealoikgdmbmjdkmaoco | Claude Ai Chrome Extensio | Policy Violation | Store Monitoring | 14/05/26 | No |
 | clajadbbjodhmojbejfhlegbepkpokba | Spk Wallet | Malware | Store Monitoring | 14/05/26 | No |
-| migdegnfalpegigcibhcijackkbgpbif | Video Dwnl Video Download | Bundling Unwanted Software | Store Monitoring | 14/05/26 | No |
+| migdegnfalpegigcibhcijackkbgpbif | Video Dwnl Video Download | Bundling Unwanted Software | Store Monitoring | 14/05/26 | Yes |
 | apfijngnajkcaejadecbcjkgikabibln | Rospin | Malware | Store Monitoring | 13/05/26 | No |
 | inbmcaiilhlpeepmlenjhnblgflmknme | Clipbear | Policy Violation | Store Monitoring | 12/05/26 | No |
 | dhekojmaelacgbmbhfibfgaeinmfmaej | Sol Phantom App | Policy Violation | Store Monitoring | 12/05/26 | No |
