@@ -1,5 +1,14 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| mmjhombiehngfpipefodkebphfnblphe | mmjhombiehngfpipefodkebphfnblphe | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No |
+| mkoegjeakpnbjklhimnimkgokbifeaoh | ExtraSound - The Ultimate Volume Booster | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No |
+| pnhkolkelkfnfphohbdnboedhejlfbho | RecItEasy - Screen, Audio & Camera Recorder | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No |
+| jlpchojjamcikhgmedobmfodcefjmccn | SnipCapture - Easy Screenshot & Snipping Tool (Selection,Visible,Full Page) | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No |
+| nbljjljaoanknannhlonmaknhckcoldi | SimpleSnap - Snipping Tool for Screenshot (Full Page, Visible, Selection) | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No |
+| aplhgigkopkholapijailboandapfaim | ColorPickPro - Simple Color Picker & Dropper Tool | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No |
+| jckoejjnaljgkmgblmbodoegoefofhee | MyColorPick: One-Click Color Picker & Dropper Tool | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No |
+| jbdegnmcajkhjemebonejojlgkgcddhc | AdBlock for YouTube - SkipAds: Auto Skip Video Ads | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No |
+| bkknccgnmpcnhppklomdjkphccmpblga | 1-Click Color Picker: Instant... Stats, Downloads &amp; Safety Check \| Chrome-Stats | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No |
 | mffnoabholpepnlhglanfdlefgfknjki | Bao Tuyet | Policy Violation | Store Monitoring | 16/05/26 | No |
 | fidehgfkepdjggincehnanpcdeklgopd | Glimpse Ai Gmail Assistan | Policy Violation | Store Monitoring | 16/05/26 | No |
 | mcbdngfmhnadbiehggilloephjhjndpn | Tandem Ai Search Side Pan | Policy Violation | Store Monitoring | 16/05/26 | No |
