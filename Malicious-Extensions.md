@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| ccdjaehckkiajeegcccoacigphgleipb | Web3 Summary Pro | Policy Violation | Store Monitoring | 17/05/26 | No |
+| gpghckfoffcjppkochpddgpjhifpkfhl | Ai Citation Tracker | Policy Violation | Store Monitoring | 17/05/26 | No |
+| ggijepplmdjopbidkeoeheohojgiclma | Solana Monitor | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt) | 17/05/26 | No |
+| gkcamdgljboohmjlfmogjnbckhcbpdhi | L‮regde‬ L‮evi‬ | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt) | 17/05/26 | No |
+| cdiohdbijdajffgccjmbblbikpnnnkeg | ZAP Wallet | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt) | 17/05/26 | No |
+| pfgpfmdiepmhhhkpnciogjhccppbcfhk | OmniFlow Sidebar | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt) | 17/05/26 | No |
+| koecfhecfkmjkjplbmbclgacdclnnpei | Token Rewards Claim | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt) | 17/05/26 | No |
 | mmjhombiehngfpipefodkebphfnblphe | mmjhombiehngfpipefodkebphfnblphe | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No |
 | mkoegjeakpnbjklhimnimkgokbifeaoh | ExtraSound - The Ultimate Volume Booster | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No |
 | pnhkolkelkfnfphohbdnboedhejlfbho | RecItEasy - Screen, Audio & Camera Recorder | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No |
