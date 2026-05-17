@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-16",
-    "timestamp": "1778961096",
+    "date": "2026-05-17",
+    "timestamp": "1779002324",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,188 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "d54e4bf2-05e0-54b1-9a19-36c14dce57c7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ccdjaehckkiajeegcccoacigphgleipb",
+        "comment": "Web3 Summary Pro | Source: Store Monitoring | Added: 2026-05-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "fe4d5e21-37df-5cfa-96a3-0bade54512f4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ccdjaehckkiajeegcccoacigphgleipb",
+        "comment": "Chrome Web Store entry for Web3 Summary Pro (ccdjaehckkiajeegcccoacigphgleipb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "99b420ca-ad5c-58c0-b0a1-ce2d2e1cbc5b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gpghckfoffcjppkochpddgpjhifpkfhl",
+        "comment": "Ai Citation Tracker | Source: Store Monitoring | Added: 2026-05-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "17ec29e9-cbe2-56c0-89fa-ab05882d3c93",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gpghckfoffcjppkochpddgpjhifpkfhl",
+        "comment": "Chrome Web Store entry for Ai Citation Tracker (gpghckfoffcjppkochpddgpjhifpkfhl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "59dda415-b2c5-5ae3-a3b9-f8d774ccfee9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ggijepplmdjopbidkeoeheohojgiclma",
+        "comment": "Solana Monitor | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt | Added: 2026-05-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt\""
+          }
+        ]
+      },
+      {
+        "uuid": "4eeab4e9-8d45-5416-8e74-317c84ff921e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ggijepplmdjopbidkeoeheohojgiclma",
+        "comment": "Chrome Web Store entry for Solana Monitor (ggijepplmdjopbidkeoeheohojgiclma)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dd25aec2-56bf-507b-b633-2b0fe247629e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gkcamdgljboohmjlfmogjnbckhcbpdhi",
+        "comment": "L\u202eregde\u202c L\u202eevi\u202c | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt | Added: 2026-05-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt\""
+          }
+        ]
+      },
+      {
+        "uuid": "55214540-1ba6-5646-a332-e2f6f148bad8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gkcamdgljboohmjlfmogjnbckhcbpdhi",
+        "comment": "Chrome Web Store entry for L\u202eregde\u202c L\u202eevi\u202c (gkcamdgljboohmjlfmogjnbckhcbpdhi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f3a2e8f9-5bf9-503a-916e-7e542a00ca36",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cdiohdbijdajffgccjmbblbikpnnnkeg",
+        "comment": "ZAP Wallet | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt | Added: 2026-05-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt\""
+          }
+        ]
+      },
+      {
+        "uuid": "8f885e32-a29c-500c-9901-f1711fd578fd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cdiohdbijdajffgccjmbblbikpnnnkeg",
+        "comment": "Chrome Web Store entry for ZAP Wallet (cdiohdbijdajffgccjmbblbikpnnnkeg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1575a0da-9048-5d06-bf88-d277e621e5e8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pfgpfmdiepmhhhkpnciogjhccppbcfhk",
+        "comment": "OmniFlow Sidebar | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt | Added: 2026-05-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt\""
+          }
+        ]
+      },
+      {
+        "uuid": "006b34ff-0ce5-5995-90f5-c616d6c58f87",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pfgpfmdiepmhhhkpnciogjhccppbcfhk",
+        "comment": "Chrome Web Store entry for OmniFlow Sidebar (pfgpfmdiepmhhhkpnciogjhccppbcfhk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "372be2da-1702-5d01-b5c2-bb5c68a35045",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "koecfhecfkmjkjplbmbclgacdclnnpei",
+        "comment": "Token Rewards Claim | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt | Added: 2026-05-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt\""
+          }
+        ]
+      },
+      {
+        "uuid": "d7a7334e-5fd0-5dcb-abf9-091912771c2f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/koecfhecfkmjkjplbmbclgacdclnnpei",
+        "comment": "Chrome Web Store entry for Token Rewards Claim (koecfhecfkmjkjplbmbclgacdclnnpei)",
+        "distribution": "5"
+      },
       {
         "uuid": "3a50eb54-18db-5aca-b401-ddd5ef79f5ae",
         "type": "text",
