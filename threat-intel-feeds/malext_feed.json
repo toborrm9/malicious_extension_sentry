@@ -1,12 +1,61 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-05-16T19:51:35.964Z",
+  "generated": "2026-05-17T07:18:43.645Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1682,
+  "total_indicators": 1689,
   "indicators": [
+    {
+      "extension_id": "ccdjaehckkiajeegcccoacigphgleipb",
+      "name": "Web3 Summary Pro",
+      "source": "Store Monitoring",
+      "insert_date": "2026-05-17",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ccdjaehckkiajeegcccoacigphgleipb"
+    },
+    {
+      "extension_id": "gpghckfoffcjppkochpddgpjhifpkfhl",
+      "name": "Ai Citation Tracker",
+      "source": "Store Monitoring",
+      "insert_date": "2026-05-17",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gpghckfoffcjppkochpddgpjhifpkfhl"
+    },
+    {
+      "extension_id": "ggijepplmdjopbidkeoeheohojgiclma",
+      "name": "Solana Monitor",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
+      "insert_date": "2026-05-17",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ggijepplmdjopbidkeoeheohojgiclma"
+    },
+    {
+      "extension_id": "gkcamdgljboohmjlfmogjnbckhcbpdhi",
+      "name": "L\u202eregde\u202c L\u202eevi\u202c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
+      "insert_date": "2026-05-17",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gkcamdgljboohmjlfmogjnbckhcbpdhi"
+    },
+    {
+      "extension_id": "cdiohdbijdajffgccjmbblbikpnnnkeg",
+      "name": "ZAP Wallet",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
+      "insert_date": "2026-05-17",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cdiohdbijdajffgccjmbblbikpnnnkeg"
+    },
+    {
+      "extension_id": "pfgpfmdiepmhhhkpnciogjhccppbcfhk",
+      "name": "OmniFlow Sidebar",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
+      "insert_date": "2026-05-17",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pfgpfmdiepmhhhkpnciogjhccppbcfhk"
+    },
+    {
+      "extension_id": "koecfhecfkmjkjplbmbclgacdclnnpei",
+      "name": "Token Rewards Claim",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
+      "insert_date": "2026-05-17",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/koecfhecfkmjkjplbmbclgacdclnnpei"
+    },
     {
       "extension_id": "mmjhombiehngfpipefodkebphfnblphe",
       "name": "mmjhombiehngfpipefodkebphfnblphe",
