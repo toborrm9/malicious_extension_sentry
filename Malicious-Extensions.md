@@ -1690,6 +1690,10 @@
 | lklmhefoneonjalpjcnhaidnodopinib | Crystal Ad block | Malware | [palant.info](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/) | 31/05/23 | Yes |
 | chmfnmjfghjpdamlofhlonnnnokkpbao | Soundboost | Malware | [palant.info](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/) | 31/05/23 | Yes |
 | lgjdgmdbfhobkdbcjnpnlmhnplnidkkp | Autoskip for Youtube | Removal reason Unknown | [palant.info](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/) | 31/05/23 | Yes |
+| gbnahglfafmhaehbdmjedfhdmimjcbed | AutoBuy Flash Sales, Deals, and Coupons | Malware | [thehackernews.com](https://thehackernews.com/2022/08/experts-find-malicious-cookie-stuffing.html) | 31/08/22 | No |
+| pojgkmkfincpdkdgjepkmdekcahmckjp | Capture Full Page Screenshots with Screenshotting | Malware | [thehackernews.com](https://thehackernews.com/2022/08/experts-find-malicious-cookie-stuffing.html) | 31/08/22 | No |
+| flijfnhifgdcbhglkneplegafminjnhn | Netflix Party | Malware | [thehackernews.com](https://thehackernews.com/2022/08/experts-find-malicious-cookie-stuffing.html) | 31/08/22 | Yes |
+| mmnbenehknklpbendgmgngeaignppnbe | Netflix Party | Malware | [thehackernews.com](https://thehackernews.com/2022/08/experts-find-malicious-cookie-stuffing.html) | 31/08/22 | No |
 | fdempkefdmgfcogieifmnadjhohaljcb | Google Translate (fake) | Edge Extension | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) | 16/08/22 | No |
 | colgdlijdieibnaccfdcdbpdffofkfeb | Google Translate (fake) | Edge Extension | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) | 16/08/22 | No |
 | oobppndjaabcidladjeehddkgkccfcpn | Y2Mate – Video Downloader | Malware | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) | 16/08/22 | Yes |
@@ -1706,6 +1710,18 @@
 | mallpejgeafdahhflmliiahjdpgbegpk | PDF Viewer & Converter by FromDocToPDF | Removal reason Unknown | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) | 16/08/22 | No |
 | kpocjpoifmommoiiiamepombpeoaehfh | EasyPDFCombine | Malware | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) | 16/08/22 | No |
 | jejifplcapdlbhjagfeginbledjpggod | Fine Video Tuning | Malware | Store Monitoring | 19/05/22 | No |
+| lldibibpehfomjljogedjhaldedlmfck | ott-party | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | Yes |
+| jgofflaejgklikbnoefbfmhfohlnockd | spotify-ad-blocker | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | Yes |
+| flapondhpgmggemifmemcmicjodpmkjb | disney-plus-watch-party | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | Yes |
+| hkanhigmilpgifamljmnfppnllckkpda | hulu-watch-party | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | Yes |
+| pkdpclgpnnfhpapcnffgjbplfbmoejbj | hbo-enhanced | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | No |
+| pfhjfcifolioiddfgicgkapbkfndaodc | blocksite | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | Yes |
+| hacogolfhplehfdeknkjnlblnghglfbp | hotstar-ad-blocker | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | Yes |
+| maolinhbkonpckjldhnocgilkabpfodc | private-watch-party | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | No |
+| hhllgokdpekfchhhiknedpppjhgicfgg | prime-watch-party | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | Yes |
+| dkdjiiihnadmgmmfobidmmegidmmjobi | hbo-max-watch-party | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | Yes |
+| flddpiffdlibegmclipfcnmaibecaobi | teleparty | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | Yes |
+| bncibciebfeopcomdaknelhcohiidaoe | netflix-party | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | Yes |
 | klbibkeccnjlkjkiokjodocebajanakg | The Great Suspender | Malware | [github.com](https://github.com/mallorybowes/chrome-mal-ids) | 04/02/21 | Yes |
 | imkngaibigegepnlckfcbecjoilcjbhf | Stream Video Downloader | Malware | Store Monitoring | 21/01/21 | Yes |
 | aoeacblfmdamdejeiaepojbhohhkmkjh | RadioGaGa | Malware | [github.com](https://github.com/mallorybowes/chrome-mal-ids) | 20/01/21 | Yes |
