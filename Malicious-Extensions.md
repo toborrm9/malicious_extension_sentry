@@ -1,5 +1,38 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| gekkidfpdpfnbdndcomgknkohnpihooh | Agentai Extension | Policy Violation | Store Monitoring | 18/05/26 | No |
+| ongnnmpfdodpfjapmfecfibjighhhnek | Ai Assistant | Policy Violation | Store Monitoring | 18/05/26 | No |
+| khbhbpogabkcfkbjmpenbejldoeciioe | Cubegpt With Gpt 40 | Policy Violation | Store Monitoring | 18/05/26 | No |
+| olikhkphnfenjcgliidepgflkfdmondi | Shakespeare Ai Toolbar Ai | Policy Violation | Store Monitoring | 18/05/26 | No |
+| kjkkejocbgnkfnhiblmfmgancjodcpbm | Panda Ai Article Reader | Policy Violation | Store Monitoring | 18/05/26 | No |
+| bmhjbckmdfphfkeakcgogcblfnfififh | Mightychatai | Policy Violation | Store Monitoring | 18/05/26 | No |
+| bldelmcodcfhifpjpbpepkfcaignelbn | Ai Crf | Policy Violation | Store Monitoring | 18/05/26 | No |
+| gcbffpnpjigagefdgfonginepkpabioi | Jobapai | Bundling Unwanted Software | Store Monitoring | 18/05/26 | No |
+| bbaafnkdoccobnobbnolojjblgofofaa | Greenar Ai Web Security | Policy Violation | Store Monitoring | 18/05/26 | No |
+| fpieoaljohacioniphjfgjhdlgciekdj | Genape Extension | Policy Violation | Store Monitoring | 18/05/26 | No |
+| mjbmnkmkdfhbdkmibahohgipdodaglpp | Airclip | Bundling Unwanted Software | Store Monitoring | 18/05/26 | No |
+| eeejeoomadajikgnoeoljhlkaamaalfn | Twirly Ai – Instant Ai Em | Policy Violation | Store Monitoring | 18/05/26 | No |
+| cbkaaiiccepebadakpfoijbmdilphpop | Forest And Flowers | Policy Violation | Store Monitoring | 18/05/26 | No |
+| paccmmciglpogbjdjkcnndndamcannih | Stream Live News | Malware | Store Monitoring | 18/05/26 | No |
+| imgobajicoilkgmmoolognglaljhokno | 智立方 人人都是 Ai 特种兵 | Policy Violation | Store Monitoring | 18/05/26 | No |
+| fnjnkjpjljhkeoofdjepachfjdagdafb | Localai Browser Ai Assist | Policy Violation | Store Monitoring | 18/05/26 | No |
+| kejmegpogpgcjfnckebjadimhnnbfmlg | Ai переводчик документов | Policy Violation | Store Monitoring | 18/05/26 | No |
+| feeffcliffapnelihbojhppahbdkjhih | Swipemate | Policy Violation | Store Monitoring | 18/05/26 | No |
+| ekpodilfhicbbljplepockanjjnndcai | Unbird Vpn — Free Vpn Pro | Malware | Store Monitoring | 18/05/26 | No |
+| iebajjiigkoboenolgbailggigojofmh | Kuai Link 快连 | Bundling Unwanted Software | Store Monitoring | 18/05/26 | No |
+| jkpmldmclchiccdelednphcmkcaoechb | Sequent Ai Assistant | Policy Violation | Store Monitoring | 18/05/26 | No |
+| fihbjcbnakkkhapcefljgnhfocbmafol | Preprompt | Policy Violation | Store Monitoring | 18/05/26 | No |
+| oaomdgkkllmhepgpkfmbcfpbdocokfel | Hirewall Ai Scam Phishing | Policy Violation | Store Monitoring | 18/05/26 | No |
+| emhdpfcihdomnibaabdmdfaebebfkjdg | Smartprompter – Ai Multil | Policy Violation | Store Monitoring | 18/05/26 | No |
+| ajkecebnopfapmeojaldoikepcdkdeoa | Ai Voiceover For Video Cr | Policy Violation | Store Monitoring | 18/05/26 | No |
+| nbmffmnaecncglmeofodagbafilnokcj | Claros Shopping Assistant | Policy Violation | Store Monitoring | 18/05/26 | No |
+| mankdelieejldehcehkmnngbfnmialki | Sales Ai | Policy Violation | Store Monitoring | 18/05/26 | No |
+| lalgaemhphcggiblnkhfiiifohlmeneg | Bo Sat Da | Policy Violation | Store Monitoring | 18/05/26 | No |
+| dbodeahpplojfmjoiabfkaodjpbblhkc | Intellihunt Streamline Yo | Policy Violation | Store Monitoring | 18/05/26 | No |
+| dangpedgafjilhjmkkphgdloelmmgooj | Llama 31 405B | Policy Violation | Store Monitoring | 18/05/26 | No |
+| pmicalpapmomhbopnbpckepnbdoomboc | Ai Short Video Generator | Policy Violation | Store Monitoring | 18/05/26 | No |
+| bjdadoolmhglopjkfnedihebfalldcfo | Ai Crf | Policy Violation | Store Monitoring | 18/05/26 | No |
+| aofpakobackjejhebnldmfiiglifmnga | Proswipe – Ai Tinder Matc | Policy Violation | Store Monitoring | 18/05/26 | No |
 | ccdjaehckkiajeegcccoacigphgleipb | Web3 Summary Pro | Policy Violation | Store Monitoring | 17/05/26 | No |
 | gpghckfoffcjppkochpddgpjhifpkfhl | Ai Citation Tracker | Policy Violation | Store Monitoring | 17/05/26 | No |
 | ggijepplmdjopbidkeoeheohojgiclma | Solana Monitor | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt) | 17/05/26 | No |
