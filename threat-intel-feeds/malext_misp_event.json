@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-18",
-    "timestamp": "1779110024",
+    "date": "2026-05-19",
+    "timestamp": "1779222795",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,318 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "999ff5b0-aef7-50a3-b5cf-e6743bd571b7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "niknbdnkhfeahkfnhggjpeecgkffpeij",
+        "comment": "Iot Wallet | Source: Store Monitoring | Added: 2026-05-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e70fe8d6-37f6-55ea-a919-0e3834c96265",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/niknbdnkhfeahkfnhggjpeecgkffpeij",
+        "comment": "Chrome Web Store entry for Iot Wallet (niknbdnkhfeahkfnhggjpeecgkffpeij)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d71ec196-feab-5786-896f-ac019bb69fa1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hejdlnmhjmmgjbehibliiamplaenafea",
+        "comment": "\u0430\u043c\u043d\u0435\u0437\u0438\u044f Vpn | Source: Store Monitoring | Added: 2026-05-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "22da8772-95d3-5da1-8485-ba83d3bb8fbc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hejdlnmhjmmgjbehibliiamplaenafea",
+        "comment": "Chrome Web Store entry for \u0430\u043c\u043d\u0435\u0437\u0438\u044f Vpn (hejdlnmhjmmgjbehibliiamplaenafea)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b0ecc473-e51f-5e97-b6e5-a33e52d76304",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cdaiocdmndedefifbgijbmoeglfmbfkf",
+        "comment": "Formgenieai | Source: Store Monitoring | Added: 2026-05-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "19fcf4b6-4e3a-5d91-9818-80e7c4e7e017",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cdaiocdmndedefifbgijbmoeglfmbfkf",
+        "comment": "Chrome Web Store entry for Formgenieai (cdaiocdmndedefifbgijbmoeglfmbfkf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a1f335a1-1b08-5134-8909-27d182c083ff",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bekpomfgdchhlcmjkniohmdgabakdnpp",
+        "comment": "Auto Mcgraw Smartbook | Source: Store Monitoring | Added: 2026-05-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1bf6b623-dd40-5ae3-b428-2fc914b00912",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bekpomfgdchhlcmjkniohmdgabakdnpp",
+        "comment": "Chrome Web Store entry for Auto Mcgraw Smartbook (bekpomfgdchhlcmjkniohmdgabakdnpp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e84d93cb-a192-5935-811a-e1dde619d15a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kmfapfjejnebolngienhgcifhkcldlbj",
+        "comment": "Funpay Bot Litten | Source: Store Monitoring | Added: 2026-05-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "29789b04-b024-590a-bf85-8f6cfe83f9fc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kmfapfjejnebolngienhgcifhkcldlbj",
+        "comment": "Chrome Web Store entry for Funpay Bot Litten (kmfapfjejnebolngienhgcifhkcldlbj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ba9dcf65-490d-5d35-885c-70b193cf89df",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nkgannblnnljljnaodaahgpabpcdfkal",
+        "comment": "Tiktok Watermark Free Dow | Source: Store Monitoring | Added: 2026-05-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "70636ad9-c06d-5d5f-a0b0-c335173f7782",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nkgannblnnljljnaodaahgpabpcdfkal",
+        "comment": "Chrome Web Store entry for Tiktok Watermark Free Dow (nkgannblnnljljnaodaahgpabpcdfkal)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5155f8d2-dd3e-5c69-9c41-a58b63d72021",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "klmifgmjobcbolahmmlheohcnhjjmdlk",
+        "comment": "Tiktok Downloader | Source: Store Monitoring | Added: 2026-05-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7d97d7cf-632b-511f-b982-9e12e3fc5cd4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/klmifgmjobcbolahmmlheohcnhjjmdlk",
+        "comment": "Chrome Web Store entry for Tiktok Downloader (klmifgmjobcbolahmmlheohcnhjjmdlk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "aca015f5-2cf8-5a18-b3e3-c78f1d9ddaa0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kbaibgafcamlpfbhklaigpgemgoifdfe",
+        "comment": "Pokernow Assistant | Source: Store Monitoring | Added: 2026-05-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "75990ed9-b293-551d-a745-18d55d3e08c4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kbaibgafcamlpfbhklaigpgemgoifdfe",
+        "comment": "Chrome Web Store entry for Pokernow Assistant (kbaibgafcamlpfbhklaigpgemgoifdfe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "550cd92b-1170-53e2-a90a-6c3ec7d5de70",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dlekmlommfnniilkjmjobhjdokimbmmo",
+        "comment": "Auto 2Fa Otp | Source: Store Monitoring | Added: 2026-05-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "5dc119f4-d469-52f6-ab0c-9d3002f021dd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dlekmlommfnniilkjmjobhjdokimbmmo",
+        "comment": "Chrome Web Store entry for Auto 2Fa Otp (dlekmlommfnniilkjmjobhjdokimbmmo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d2ec9086-1635-56f6-b09b-845304fe8764",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pladablfphgjljebkeomhjcjdkohcnen",
+        "comment": "Nilai | Source: Store Monitoring | Added: 2026-05-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "653da82c-9a5b-5f01-9a12-d39434573a1b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pladablfphgjljebkeomhjcjdkohcnen",
+        "comment": "Chrome Web Store entry for Nilai (pladablfphgjljebkeomhjcjdkohcnen)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "03f2f54a-06ae-547b-8b28-ada81e36e02d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mnkdcfdccjmcflbmlfhnfhjhhchfhpma",
+        "comment": "Linkedin Ai Automation | Source: Store Monitoring | Added: 2026-05-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "de524b0f-3bd6-5591-a871-ee80c4a78b25",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mnkdcfdccjmcflbmlfhnfhjhhchfhpma",
+        "comment": "Chrome Web Store entry for Linkedin Ai Automation (mnkdcfdccjmcflbmlfhnfhjhhchfhpma)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3e1ffbca-2882-5348-a0f1-45d4a72c0028",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "idnanafggnifgcdleabgkhknojpbkgbf",
+        "comment": "Tiktok Video Downloader H | Source: Store Monitoring | Added: 2026-05-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f67caa00-9b4c-5221-808a-c6d8043abb8e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/idnanafggnifgcdleabgkhknojpbkgbf",
+        "comment": "Chrome Web Store entry for Tiktok Video Downloader H (idnanafggnifgcdleabgkhknojpbkgbf)",
+        "distribution": "5"
+      },
       {
         "uuid": "497b5e18-83d1-513d-b48b-853cf3457504",
         "type": "text",
