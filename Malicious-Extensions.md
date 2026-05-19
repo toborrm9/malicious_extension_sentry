@@ -1,5 +1,17 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| niknbdnkhfeahkfnhggjpeecgkffpeij | Iot Wallet | Bundling Unwanted Software | Store Monitoring | 19/05/26 | No |
+| hejdlnmhjmmgjbehibliiamplaenafea | амнезия Vpn | Policy Violation | Store Monitoring | 19/05/26 | No |
+| cdaiocdmndedefifbgijbmoeglfmbfkf | Formgenieai | Policy Violation | Store Monitoring | 19/05/26 | No |
+| bekpomfgdchhlcmjkniohmdgabakdnpp | Auto Mcgraw Smartbook | Policy Violation | Store Monitoring | 19/05/26 | No |
+| kmfapfjejnebolngienhgcifhkcldlbj | Funpay Bot Litten | Policy Violation | Store Monitoring | 19/05/26 | No |
+| nkgannblnnljljnaodaahgpabpcdfkal | Tiktok Watermark Free Dow | Policy Violation | Store Monitoring | 19/05/26 | No |
+| klmifgmjobcbolahmmlheohcnhjjmdlk | Tiktok Downloader | Policy Violation | Store Monitoring | 19/05/26 | No |
+| kbaibgafcamlpfbhklaigpgemgoifdfe | Pokernow Assistant | Policy Violation | Store Monitoring | 19/05/26 | No |
+| dlekmlommfnniilkjmjobhjdokimbmmo | Auto 2Fa Otp | Policy Violation | Store Monitoring | 19/05/26 | No |
+| pladablfphgjljebkeomhjcjdkohcnen | Nilai | Policy Violation | Store Monitoring | 19/05/26 | No |
+| mnkdcfdccjmcflbmlfhnfhjhhchfhpma | Linkedin Ai Automation | Policy Violation | Store Monitoring | 19/05/26 | No |
+| idnanafggnifgcdleabgkhknojpbkgbf | Tiktok Video Downloader H | Policy Violation | Store Monitoring | 19/05/26 | No |
 | gekkidfpdpfnbdndcomgknkohnpihooh | Agentai Extension | Policy Violation | Store Monitoring | 18/05/26 | No |
 | ongnnmpfdodpfjapmfecfibjighhhnek | Ai Assistant | Policy Violation | Store Monitoring | 18/05/26 | No |
 | khbhbpogabkcfkbjmpenbejldoeciioe | Cubegpt With Gpt 40 | Policy Violation | Store Monitoring | 18/05/26 | No |
@@ -13,12 +25,12 @@
 | mjbmnkmkdfhbdkmibahohgipdodaglpp | Airclip | Bundling Unwanted Software | Store Monitoring | 18/05/26 | No |
 | eeejeoomadajikgnoeoljhlkaamaalfn | Twirly Ai – Instant Ai Em | Policy Violation | Store Monitoring | 18/05/26 | No |
 | cbkaaiiccepebadakpfoijbmdilphpop | Forest And Flowers | Policy Violation | Store Monitoring | 18/05/26 | No |
-| paccmmciglpogbjdjkcnndndamcannih | Stream Live News | Malware | Store Monitoring | 18/05/26 | No |
+| paccmmciglpogbjdjkcnndndamcannih | Stream Live News | Malware | Store Monitoring | 18/05/26 | Yes |
 | imgobajicoilkgmmoolognglaljhokno | 智立方 人人都是 Ai 特种兵 | Policy Violation | Store Monitoring | 18/05/26 | No |
 | fnjnkjpjljhkeoofdjepachfjdagdafb | Localai Browser Ai Assist | Policy Violation | Store Monitoring | 18/05/26 | No |
 | kejmegpogpgcjfnckebjadimhnnbfmlg | Ai переводчик документов | Policy Violation | Store Monitoring | 18/05/26 | No |
 | feeffcliffapnelihbojhppahbdkjhih | Swipemate | Policy Violation | Store Monitoring | 18/05/26 | No |
-| ekpodilfhicbbljplepockanjjnndcai | Unbird Vpn — Free Vpn Pro | Malware | Store Monitoring | 18/05/26 | No |
+| ekpodilfhicbbljplepockanjjnndcai | Unbird Vpn — Free Vpn Pro | Malware | Store Monitoring | 18/05/26 | Yes |
 | iebajjiigkoboenolgbailggigojofmh | Kuai Link 快连 | Bundling Unwanted Software | Store Monitoring | 18/05/26 | No |
 | jkpmldmclchiccdelednphcmkcaoechb | Sequent Ai Assistant | Policy Violation | Store Monitoring | 18/05/26 | No |
 | fihbjcbnakkkhapcefljgnhfocbmafol | Preprompt | Policy Violation | Store Monitoring | 18/05/26 | No |
