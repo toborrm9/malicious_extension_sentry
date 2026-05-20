@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-19",
-    "timestamp": "1779222795",
+    "date": "2026-05-20",
+    "timestamp": "1779279696",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -337,6 +337,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/idnanafggnifgcdleabgkhknojpbkgbf",
         "comment": "Chrome Web Store entry for Tiktok Video Downloader H (idnanafggnifgcdleabgkhknojpbkgbf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "808c6658-1f8e-59ae-95c0-7363e28cca07",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hnppehcgmflfkcdkbkaeemjfngffmeag",
+        "comment": "AI Agent | Source:  | Added: 2026-05-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          }
+        ]
+      },
+      {
+        "uuid": "f5fa9b1d-73be-5081-bcc5-a3bf02adaad4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hnppehcgmflfkcdkbkaeemjfngffmeag",
+        "comment": "Chrome Web Store entry for AI Agent (hnppehcgmflfkcdkbkaeemjfngffmeag)",
         "distribution": "5"
       },
       {
@@ -8920,6 +8946,32 @@
         "distribution": "5"
       },
       {
+        "uuid": "9ac37da8-f1e3-597b-bd81-1732b81892bf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lhokehflammomchbkmpohfeidffnlpmo",
+        "comment": "Sinceerly | Source: https://x.com/nix_eth/status/2047407665211728181 | Added: 2026-04-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://x.com/nix_eth/status/2047407665211728181\""
+          }
+        ]
+      },
+      {
+        "uuid": "1d96a09f-cad6-5f53-a491-1ea748311d3c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lhokehflammomchbkmpohfeidffnlpmo",
+        "comment": "Chrome Web Store entry for Sinceerly (lhokehflammomchbkmpohfeidffnlpmo)",
+        "distribution": "5"
+      },
+      {
         "uuid": "c5a34d87-950b-57d2-8921-63851b4992ad",
         "type": "text",
         "category": "Other",
@@ -11153,6 +11205,58 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/hanfebikglcfkkeoelhdkpiamjmahjen",
         "comment": "Chrome Web Store entry for Tiktok Liker (hanfebikglcfkkeoelhdkpiamjmahjen)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "00905976-9c77-50f2-aec8-aa466aceb5df",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ogogpebnagniggbnkbpjioobomdbmdcj",
+        "comment": "Text Translation | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Added: 2026-04-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          }
+        ]
+      },
+      {
+        "uuid": "097e757c-11bc-57b9-a75e-af7d5d321332",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ogogpebnagniggbnkbpjioobomdbmdcj",
+        "comment": "Chrome Web Store entry for Text Translation (ogogpebnagniggbnkbpjioobomdbmdcj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "831b2d77-3679-5023-91ae-033986f4c7b1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cbfhnceafaenchbefokkngcbnejached",
+        "comment": "Web Client for TikTok | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Added: 2026-04-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          }
+        ]
+      },
+      {
+        "uuid": "2ec85ad0-e8a6-57d6-aa41-b5885060ff84",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cbfhnceafaenchbefokkngcbnejached",
+        "comment": "Chrome Web Store entry for Web Client for TikTok (cbfhnceafaenchbefokkngcbnejached)",
         "distribution": "5"
       },
       {
@@ -23012,6 +23116,32 @@
         "distribution": "5"
       },
       {
+        "uuid": "f868405d-a4a5-5caf-9afe-56f4e093f982",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dkhpgbbhlnmjbkihoeniojpkggkabbbl",
+        "comment": "AI Compare - Multi-AI one-click compare & copy results | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-02-20-%20AI-Accelerated%20Malicious%20Chrome%20Extension%20Campaigns.txt | Added: 2026-02-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-02-20-%20AI-Accelerated%20Malicious%20Chrome%20Extension%20Campaigns.txt\""
+          }
+        ]
+      },
+      {
+        "uuid": "df5a6168-19e9-5383-abc9-b4a79e33c7c9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dkhpgbbhlnmjbkihoeniojpkggkabbbl",
+        "comment": "Chrome Web Store entry for AI Compare - Multi-AI one-click compare & copy results (dkhpgbbhlnmjbkihoeniojpkggkabbbl)",
+        "distribution": "5"
+      },
+      {
         "uuid": "90d0f441-52c6-56d0-aa10-6408de347c76",
         "type": "text",
         "category": "Other",
@@ -34660,6 +34790,58 @@
         "distribution": "5"
       },
       {
+        "uuid": "a768814f-2820-5c59-83d5-557db98430b0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nhiafglcjghpmcipelflfhkckdpcokid",
+        "comment": "Ads Cleaner for Facebook | Source: Store Monitoring | Added: 2025-11-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b482a7e0-b8a0-5212-96a2-9e00c4bdc8ae",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nhiafglcjghpmcipelflfhkckdpcokid",
+        "comment": "Chrome Web Store entry for Ads Cleaner for Facebook (nhiafglcjghpmcipelflfhkckdpcokid)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "55b00e8b-701e-519f-ba4f-300340907300",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fgpecemjbefkjlcgnhjohdonijdkfooj",
+        "comment": "Free Unlimited VPN | Source: Store Monitoring | Added: 2025-11-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ce7b483c-12e0-5d28-911e-3f78bc8ac76b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fgpecemjbefkjlcgnhjohdonijdkfooj",
+        "comment": "Chrome Web Store entry for Free Unlimited VPN (fgpecemjbefkjlcgnhjohdonijdkfooj)",
+        "distribution": "5"
+      },
+      {
         "uuid": "41bf491f-7dfb-5e57-958b-4b8ae8dc7feb",
         "type": "text",
         "category": "Other",
@@ -38560,6 +38742,32 @@
         "distribution": "5"
       },
       {
+        "uuid": "7424db84-17b8-5364-a2fa-f4651687e34e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fahgecbhaoedbchcmhakmjbfbfhgjmbl",
+        "comment": "WhatsApp Message Summary | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2025-08-11-AI-summary-browser-extensions.txt | Added: 2025-08-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2025-08-11-AI-summary-browser-extensions.txt\""
+          }
+        ]
+      },
+      {
+        "uuid": "c301c221-1140-5f0a-83ab-45ceeaa12504",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fahgecbhaoedbchcmhakmjbfbfhgjmbl",
+        "comment": "Chrome Web Store entry for WhatsApp Message Summary (fahgecbhaoedbchcmhakmjbfbfhgjmbl)",
+        "distribution": "5"
+      },
+      {
         "uuid": "fabe978e-2213-59f0-80b9-d529de30438a",
         "type": "text",
         "category": "Other",
@@ -40068,6 +40276,136 @@
         "distribution": "5"
       },
       {
+        "uuid": "3e9f7920-aeca-544e-ab93-00315493c759",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "anlhakiodmebohjmkbciohpglnjifjaa",
+        "comment": "Speed Dial | Bookmarks | New Tab Page | Quick Access | Custom Search | Source: Store Monitoring | Added: 2025-05-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1e4be3f2-4dce-578d-9a98-a033a69b1484",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/anlhakiodmebohjmkbciohpglnjifjaa",
+        "comment": "Chrome Web Store entry for Speed Dial | Bookmarks | New Tab Page | Quick Access | Custom Search (anlhakiodmebohjmkbciohpglnjifjaa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1b59f64d-ee89-5e77-81c5-149df24c10a8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ibibeegnncapfdcgpdnnbjbbojglhlmk",
+        "comment": "OKmusic - \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u043c\u0443\u0437\u044b\u043a\u0443 \u0438 \u0432\u0438\u0434\u0435\u043e \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438 | OK.ru Music Downloader | Source: Store Monitoring | Added: 2025-05-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bc480be0-7707-5ec9-92b8-b1180db412e0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ibibeegnncapfdcgpdnnbjbbojglhlmk",
+        "comment": "Chrome Web Store entry for OKmusic - \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u043c\u0443\u0437\u044b\u043a\u0443 \u0438 \u0432\u0438\u0434\u0435\u043e \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438 | OK.ru Music Downloader (ibibeegnncapfdcgpdnnbjbbojglhlmk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "56f1caf3-93b3-59ab-8c23-4b8851c5d026",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ngahaphlngmdfhbhkplbglnfhehnpgdb",
+        "comment": "Ads Blocker | Source: Store Monitoring | Added: 2025-05-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e67f583d-0645-51b8-8f0d-d4d5d3cac37f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ngahaphlngmdfhbhkplbglnfhehnpgdb",
+        "comment": "Chrome Web Store entry for Ads Blocker (ngahaphlngmdfhbhkplbglnfhehnpgdb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e1abb1c7-012d-595a-9c66-278116e0a362",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bibjcjfmgapbfoljiojpipaooddpkpai",
+        "comment": "VPN-free.pro - Free Unlimited VPN | Source: Store Monitoring | Added: 2025-05-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a031162e-191a-5d91-b24a-8c2636f29b50",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bibjcjfmgapbfoljiojpipaooddpkpai",
+        "comment": "Chrome Web Store entry for VPN-free.pro - Free Unlimited VPN (bibjcjfmgapbfoljiojpipaooddpkpai)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5809cca3-1110-5f94-a61f-1f9b3ce0b8b2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "foiopecknacmiihiocgdjgbjokkpkohc",
+        "comment": "VPN Professional - Free Secure and Unlimited VPN Proxy Chrome Extension | Source: Store Monitoring | Added: 2025-05-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "443d5302-b934-550d-808e-57989a457806",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/foiopecknacmiihiocgdjgbjokkpkohc",
+        "comment": "Chrome Web Store entry for VPN Professional - Free Secure and Unlimited VPN Proxy Chrome Extension (foiopecknacmiihiocgdjgbjokkpkohc)",
+        "distribution": "5"
+      },
+      {
         "uuid": "1ee7e0ca-f66c-5ea4-a0f7-128a180ea98e",
         "type": "text",
         "category": "Other",
@@ -40091,6 +40429,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/cjobgkekcenldbaenikebmbhffhhffef",
         "comment": "Chrome Web Store entry for Tetrys (cjobgkekcenldbaenikebmbhffhhffef)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "53a1c44f-a567-557a-bcf7-2d697d8da4fd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hfofhoffdcfcjgmilkpnhkamcgemaban",
+        "comment": "\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u043c\u0443\u0437\u044b\u043a\u0443 | Source: Store Monitoring | Added: 2025-04-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "563d9db5-9b99-532c-a8ef-d56e4111e293",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hfofhoffdcfcjgmilkpnhkamcgemaban",
+        "comment": "Chrome Web Store entry for \u0421\u043a\u0430\u0447\u0430\u0442\u044c \u043c\u0443\u0437\u044b\u043a\u0443 (hfofhoffdcfcjgmilkpnhkamcgemaban)",
         "distribution": "5"
       },
       {
@@ -41573,6 +41937,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/adjpoipklnhlapjijccnemdhkcphcegd",
         "comment": "Chrome Web Store entry for Website Orientations (adjpoipklnhlapjijccnemdhkcphcegd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a1aedcc0-7064-5e3d-ad45-a67e732065c1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kekfppnajjchccpkfaogiomfcncbgagc",
+        "comment": "VPN Professional - Free Unlimited VPN Proxy | Source: Store Monitoring | Added: 2025-04-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "06e84e4a-508e-58e0-8adf-b68aa509a0ab",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kekfppnajjchccpkfaogiomfcncbgagc",
+        "comment": "Chrome Web Store entry for VPN Professional - Free Unlimited VPN Proxy (kekfppnajjchccpkfaogiomfcncbgagc)",
         "distribution": "5"
       },
       {
@@ -43393,6 +43783,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/nlcebdoehkdiojeahkofcfnolkleembf",
         "comment": "Chrome Web Store entry for Clean Master: the best Edge Cache Cleaner (nlcebdoehkdiojeahkofcfnolkleembf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ea1a01eb-0640-5468-822b-114a1725354f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mljmfnkjmcdmongjnnnbbnajjdbojoci",
+        "comment": "chrome | Source: Store Monitoring | Added: 2023-11-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d7603206-7b55-5093-9466-32c5e487838c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mljmfnkjmcdmongjnnnbbnajjdbojoci",
+        "comment": "Chrome Web Store entry for chrome (mljmfnkjmcdmongjnnnbbnajjdbojoci)",
         "distribution": "5"
       },
       {
