@@ -12,6 +12,7 @@
 | pladablfphgjljebkeomhjcjdkohcnen | Nilai | Policy Violation | Store Monitoring | 19/05/26 | No |
 | mnkdcfdccjmcflbmlfhnfhjhhchfhpma | Linkedin Ai Automation | Policy Violation | Store Monitoring | 19/05/26 | No |
 | idnanafggnifgcdleabgkhknojpbkgbf | Tiktok Video Downloader H | Policy Violation | Store Monitoring | 19/05/26 | No |
+| hnppehcgmflfkcdkbkaeemjfngffmeag | AI Agent | Malware |  | 18/05/26 | No |
 | gekkidfpdpfnbdndcomgknkohnpihooh | Agentai Extension | Policy Violation | Store Monitoring | 18/05/26 | No |
 | ongnnmpfdodpfjapmfecfibjighhhnek | Ai Assistant | Policy Violation | Store Monitoring | 18/05/26 | No |
 | khbhbpogabkcfkbjmpenbejldoeciioe | Cubegpt With Gpt 40 | Policy Violation | Store Monitoring | 18/05/26 | No |
@@ -342,6 +343,7 @@
 | kcpegmldgjanlbchfbjiohlmaahblilj | Tiktok Influencer Finder | Policy Violation | Store Monitoring | 24/04/26 | No |
 | pnangioakbpgppagachdpfcnjncfncch | Tiktok视频下载批量工具 | Policy Violation | Store Monitoring | 24/04/26 | No |
 | injnjbcogjhcjhnhcbmlahgikemedbko | Tiktok Downloader – Save | Policy Violation | Store Monitoring | 24/04/26 | No |
+| lhokehflammomchbkmpohfeidffnlpmo | Sinceerly | Malware | [x.com](https://x.com/nix_eth/status/2047407665211728181) | 23/04/26 | No |
 | cnhikhicflgjbfnllpmbbdpjcfmfnkii | Chatgpt Rtl | Policy Violation | Store Monitoring | 23/04/26 | No |
 | pclighhhemgemdkhnhejgmdnjnoggfif | Chatgpt Turbo — Fix Lag F | Policy Violation | Store Monitoring | 23/04/26 | No |
 | hcajdpmoffefpkboepbgggjagedbdolf | Suprik Wallet | Malware | Store Monitoring | 23/04/26 | No |
@@ -428,6 +430,8 @@
 | hcicfibkpbfgbiodaliaemhhoodakdco | Tre‮Roz‬ Sui‮Et‬ Vault Sw | Malware | Store Monitoring | 15/04/26 | No |
 | jdhlmbbkcnblagpianmgafolcpmlmbfa | L‮regde‬ L‮evi‬ Vault Swa | Malware | Store Monitoring | 15/04/26 | No |
 | hanfebikglcfkkeoelhdkpiamjmahjen | Tiktok Liker | Policy Violation | Store Monitoring | 15/04/26 | No |
+| ogogpebnagniggbnkbpjioobomdbmdcj | Text Translation | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
+| cbfhnceafaenchbefokkngcbnejached | Web Client for TikTok | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
 | jedaibnliemmghjomdaejniddjcdbhom | Tiktok Emojis Helper | Policy Violation | Store Monitoring | 14/04/26 | No |
 | cbnekafldflkmngbgmbnfmchjaelnhem | Game Skyspeedster | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
 | clpgopiimdjcilllcjncdkoeikkkcfbi | ﻿billiards Pro | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
@@ -884,6 +888,7 @@
 | mimplmibgdodhkjnclacjofjbgmhogce | Session Export Tool | In store but not whitelisted | [blog.toborrm.com](https://blog.toborrm.com/findings/boostkey.html) | 22/02/26 | No |
 | ipanmolgobfbmpggfgpjjojjmbndafhn | Google Analytics 4 - Event Monitor | Policy Violation | Store Monitoring | 21/02/26 | No |
 | blnokeghbnokbibmohahmimdfknjcfnf | Private Mv3 90331 | In store but not whitelisted | Store Monitoring | 21/02/26 | No |
+| dkhpgbbhlnmjbkihoeniojpkggkabbbl | AI Compare - Multi-AI one-click compare & copy results | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-02-20-%20AI-Accelerated%20Malicious%20Chrome%20Extension%20Campaigns.txt) | 20/02/26 | No |
 | ofjmbjjbkgdkidhfgjpimepabldligbi | Super Mario Bros Original | Policy Violation | Store Monitoring | 20/02/26 | No |
 | obipeailpaepgenggdakhhickjejjbpe | Super Mario Bros Extension | Policy Violation | Store Monitoring | 20/02/26 | No |
 | ecmbfkkjdimkigglhpfgoaiiokpmdiff | Super Mario Bros Game | Policy Violation | Store Monitoring | 20/02/26 | No |
@@ -1332,6 +1337,8 @@
 | iaemdpdnmdkaphnmcogmcgcmhhafcifd | Crypto Copilot | Malware | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-injects-hidden-sol-fees-into-solana-swaps) | 25/11/25 | No |
 | hbaamilhgknggfanbiceijijemigbbah | Xaman — XRPL Manager | Malware | Store Monitoring | 20/11/25 | No |
 | gcokaajpfngffiofmmgadkjhopjaklhj | Health Reminder | Malware | Store Monitoring | 20/11/25 | Yes |
+| nhiafglcjghpmcipelflfhkckdpcokid | Ads Cleaner for Facebook | Malware | Store Monitoring | 19/11/25 | No |
+| fgpecemjbefkjlcgnhjohdonijdkfooj | Free Unlimited VPN | Malware | Store Monitoring | 19/11/25 | No |
 | mfhjifcieknaihhaidalgcafbnalkdfa | Neuralwriter — AI Text Paraphraser | Malware | Store Monitoring | 14/11/25 | Yes |
 | fibemlnkopkeenmmgcfohhcdbkhgbolo | Safery: Ethereum Wallet | Malware | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-exfiltrates-seed-phrases) | 12/11/25 | No |
 | obedkjaaifedcfidfdjoinfaphghmbfl | Free image downloader | Malware | Store Monitoring | 10/11/25 | Yes |
@@ -1482,6 +1489,7 @@
 | blibecomdmpcndbgkinclhaokmaheild | KPop Demon Hunters Cursor ★ Custom Cursor for Chrome™ | In store but Suspicious | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No |
 | dgfaekieonkobpaklglncjmjibbbpnod | Anime Cursor ★ Custom Cursor for Chrome™ | In store but Suspicious | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No |
 | eoalbaojjblgndkffciljmiddhgjdldh | madgicx-plus-the-superapp | Removal reason Unknown | [www.cybereason.com](https://www.cybereason.com/blog/chrome-extension-campaign-madgicx) | 19/08/25 | No |
+| fahgecbhaoedbchcmhakmjbfbfhgjmbl | WhatsApp Message Summary | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2025-08-11-AI-summary-browser-extensions.txt) | 11/08/25 | No |
 | fnnigcfbmghcefaboigkhfimeolhhbcp | Download Manager Pro | Edge Extension | Store Monitoring | 08/08/25 | No |
 | cbajickflblmpjodnjoldpiicfmecmif | Unblock TikTok — Seamless Access with One-Click Proxy | Malware | [www.malwarebytes.com](https://www.malwarebytes.com/blog/news/2025/07/millions-of-people-spied-on-by-malicious-browser-extensions-in-chrome-and-edge) | 29/07/25 | Yes |
 | acbiaofoeebeinacmcknopaikmecdehl | Wistia Video Downloader | Malware | [www.malwarebytes.com](https://www.malwarebytes.com/blog/news/2025/07/millions-of-people-spied-on-by-malicious-browser-extensions-in-chrome-and-edge) | 09/07/25 | Yes |
@@ -1540,7 +1548,13 @@
 | fcfmhlijjmckglejcgdclfneafoehafm | Site Stats | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No |
 | aeibljandkelbcaaemkdnbaacppjdmom | Manus AI \| Free AI Assistant | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No |
 | ccollcihnnpcbjcgcjfmabegkpbehnip | FortiVPN | Bundling Unwanted Software | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No |
+| anlhakiodmebohjmkbciohpglnjifjaa | Speed Dial \| Bookmarks \| New Tab Page \| Quick Access \| Custom Search | Malware | Store Monitoring | 21/05/25 | No |
+| ibibeegnncapfdcgpdnnbjbbojglhlmk | OKmusic - скачать музыку и видео Одноклассники \| OK.ru Music Downloader | Malware | Store Monitoring | 21/05/25 | No |
+| ngahaphlngmdfhbhkplbglnfhehnpgdb | Ads Blocker | Malware | Store Monitoring | 21/05/25 | No |
+| bibjcjfmgapbfoljiojpipaooddpkpai | VPN-free.pro - Free Unlimited VPN | Malware | Store Monitoring | 21/05/25 | No |
+| foiopecknacmiihiocgdjgbjokkpkohc | VPN Professional - Free Secure and Unlimited VPN Proxy Chrome Extension | Malware | Store Monitoring | 21/05/25 | No |
 | cjobgkekcenldbaenikebmbhffhhffef | Tetrys | Malware | Store Monitoring | 02/05/25 | Yes |
+| hfofhoffdcfcjgmilkpnhkamcgemaban | Скачать музыку | Malware | Store Monitoring | 24/04/25 | No |
 | jmpcodajbcpgkebjipbmjdoboehfiddd | DeepSeek AI Chat | In store but not whitelisted | [dti.domaintools.com](https://dti.domaintools.com/research/deceptive-browser-extensions-google-store-ai-slop) | 22/04/25 | No |
 | fojomppheellamdaddnbgommepnlkooh | Secured Connection by Security Browse / Browse Securely for Chrome | Removal reason Unknown | [arstechnica.com](https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/) | 11/04/25 | No |
 | oaljkhbgbedmfoiieocoenglpaeogjmf | Safe Search for Chrome / Fire Shield Extension Protection | Removal reason Unknown | [arstechnica.com](https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/) | 11/04/25 | No |
@@ -1598,6 +1612,7 @@
 | afefmfbcccnppcaiebpmbpmddhilkkdi | Fire Shield Chrome Safety | Removal reason Unknown | [secureannex.com](https://secureannex.com/blog/searching-for-something-unknow/) | 10/04/25 | No |
 | aehjmdkbfemaefoebbihbfcmhehgimcl | New Tab for Chrome ™ | Removal reason Unknown | [secureannex.com](https://secureannex.com/blog/searching-for-something-unknow/) | 10/04/25 | No |
 | adjpoipklnhlapjijccnemdhkcphcegd | Website Orientations | Removal reason Unknown | [secureannex.com](https://secureannex.com/blog/searching-for-something-unknow/) | 10/04/25 | No |
+| kekfppnajjchccpkfaogiomfcncbgagc | VPN Professional - Free Unlimited VPN Proxy | Malware | Store Monitoring | 06/04/25 | No |
 | pajkjnmeojmbapicmbpliphjmcekeaac | Cyberhaven security extension V3 | In store but Suspicious | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | No |
 | ndlbedplllcgconngcnfmkadhokfaaln | GraphQL Network Inspector | In store but Suspicious | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | No |
 | pkgciiiancapdlpcbppfkmeaieppikkk | Bard AI Chat | Malware | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | Yes |
@@ -1668,6 +1683,7 @@
 | jiofmdifioeejeilfkpegipdjiopiekl | YesCaptcha assistant | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No |
 | hihblcmlaaademjlakdpicchbjnnnkbo | Proxy SwitchyOmega (V3) | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No |
 | nlcebdoehkdiojeahkofcfnolkleembf | Clean Master: the best Edge Cache Cleaner | Edge Extension | Store Monitoring | 17/11/24 | No |
+| mljmfnkjmcdmongjnnnbbnajjdbojoci | chrome | Malware | Store Monitoring | 09/11/23 | No |
 | gcnceeflimggoamelclcbhcdggcmnglm | Light picture-in-picture | Malware | [palant.info](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/) | 31/05/23 | Yes |
 | hinhmojdkodmficpockledafoeodokmc | HyperVolume | Removal reason Unknown | [palant.info](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/) | 31/05/23 | Yes |
 | pcjmcnhpobkjnhajhhleejfmpeoahclc | Qspeed Video Speed Controller | Malware | [palant.info](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/) | 31/05/23 | Yes |
