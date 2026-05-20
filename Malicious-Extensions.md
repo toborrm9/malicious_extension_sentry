@@ -1,5 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| fojokgfmpipggghfmfnnflbaenhffmol | NeatYT – Clean UI & Comment Search for YouTube | Malware | Store Monitoring | 20/05/26 | No |
+| emnggacgjccpjhphgochediffoijlokc | Planet Vpn | Policy Violation | Store Monitoring | 20/05/26 | No |
+| idgbohgppnpfddnhcoikipohdmlpmjmb | бесплатный Turbo Vpn — вы | Policy Violation | Store Monitoring | 20/05/26 | No |
+| coafogciaollloclmjgkliibflkejdon | Urban Vpn рабочий впн в 2 | Policy Violation | Store Monitoring | 20/05/26 | No |
+| gffafiabcifddagoobhnapcambklhmkh | Hola Vpn рабочий Vpn в 20 | Policy Violation | Store Monitoring | 20/05/26 | No |
+| mocbcncbleebmmnmhafgppnaocmpafne | Proton Vpn | Policy Violation | Store Monitoring | 20/05/26 | No |
+| mephkmedpjhgihgboeiodaglkdghfppi | Vpnly — стабильный Vpn дл | Policy Violation | Store Monitoring | 20/05/26 | No |
+| dmmfddnfemidgpbeepkbhgnfpelofome | 即梦Dreamina去水印下载 | Policy Violation | Store Monitoring | 20/05/26 | No |
 | niknbdnkhfeahkfnhggjpeecgkffpeij | Iot Wallet | Bundling Unwanted Software | Store Monitoring | 19/05/26 | No |
 | hejdlnmhjmmgjbehibliiamplaenafea | амнезия Vpn | Policy Violation | Store Monitoring | 19/05/26 | No |
 | cdaiocdmndedefifbgijbmoeglfmbfkf | Formgenieai | Policy Violation | Store Monitoring | 19/05/26 | No |
@@ -81,6 +89,26 @@
 | ndeejgokieklaealoikgdmbmjdkmaoco | Claude Ai Chrome Extensio | Policy Violation | Store Monitoring | 14/05/26 | No |
 | clajadbbjodhmojbejfhlegbepkpokba | Spk Wallet | Malware | Store Monitoring | 14/05/26 | No |
 | migdegnfalpegigcibhcijackkbgpbif | Video Dwnl Video Download | Bundling Unwanted Software | Store Monitoring | 14/05/26 | Yes |
+| balkfdkhbcjjmhndnblgmlmcabnapogp | WaSpeed: Superpoderes para o seu WhatsApp, CRM e muito mais. | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| balbfiejpjgneifaaidphbjikcagbmci | ZAPSUPREMO | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ebnoicngibkinocfemedifbollfpficb | Escale Chat | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ebbhncadikjgpblegighhmfkecimfioa | Z Turbinado | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| kagkfihfjjijllckobgjgklgabaabipd | guruwa | Malware |  | 13/05/26 | No |
+| kafolfcddfckcjockfmahogjkfeoibdf | TALKNEXUS | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jngekpmpoljpeflhnobadfokbmmoflfg | W10X | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jlplnjdjnhkdigmpooonjmjppdkahljh | EaseZap | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jloncnggofbpceamlmbpchpkhdkejcbi | Altus Leads - WhatsApp Turbinado, mais vendas, menos esforço | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| jljogmnmbomgnjhcicakcfmgfkkgmnbp | WhatsJud | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| laahjimkfmcdknlcmpdlndipjiaklgjj | Econectada - CRM WhatsApp Web | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| lackhjbdjbnbbhbpoaloegokakncjfeg | Fronty Leads | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| likkccegmkoonimkjnmgpadngedknpdk | CLINICHAT | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ljhmflggieimegekmjjbhplndnlhlmbj | WhaBoost CRM para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| lkgllnlahmlafcjpbbfhgmjfidibkado | Vecta Hub - Tecnologia que ajuda sua empresa a vender mais | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| ohlghhgckmkaflhepflfaghhidhbhgdd | NP | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| dmclpdnkojpjgeacajcaichgkkhfbeim | EnVimassa | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| cndhimkfgeclaohdjgnbcllhadhcmidm | Wotimiza | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| pfmiilkeiipiiibodoolglmbgpcchcgl | Zap Machine | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
+| mnhdancdipddlfcmfkfkdfcejcnippij | Sender Up: Automações para WhatsApp Web, dê um Up nas suas vendas! | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
 | imgjapefioodjkjipgpnohmceghomkmb | WaClinic | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
 | jkeogjcccehfccanacclmckcdgepkifo | InterZap | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
 | dfcngbjlmlakepppfaaepideejcbfcjf | WA Envio | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
@@ -1231,6 +1259,7 @@
 | nlidfclccabaghacejpnbofmpghieacn | Export LinkedIn™ Contacts to Excel (Extract Leads from Comments) | Malware | Store Monitoring | 20/12/25 | No |
 | fbfldogmkadejddihifklefknmikncaj | Phantom Shuttle | Malware | Store Monitoring | 15/12/25 | Yes |
 | lkhbodnngmenbcjdmcdcbpmbkebikgjf | Xaman | Malware | Store Monitoring | 12/12/25 | No |
+| mheomooihiffmcgldolenemmplpgoahn | Keno | Malware | Store Monitoring | 05/12/25 | No |
 | pphgdbgldlmicfdkhondlafkiomnelnk | Urban Ad Blocker | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection) | 05/12/25 | No |
 | nimlmejbmnecnaghgmbahmbaddhjbecg | Urban Browser Guard (Edge) | Edge Extension | [www.koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection) | 05/12/25 | No |
 | gcogpdjkkamgkakkjgeefgpcheonclca | 1ClickVPN Proxy (Edge) | Edge Extension | [www.koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection) | 05/12/25 | No |
@@ -1337,8 +1366,8 @@
 | iaemdpdnmdkaphnmcogmcgcmhhafcifd | Crypto Copilot | Malware | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-injects-hidden-sol-fees-into-solana-swaps) | 25/11/25 | No |
 | hbaamilhgknggfanbiceijijemigbbah | Xaman — XRPL Manager | Malware | Store Monitoring | 20/11/25 | No |
 | gcokaajpfngffiofmmgadkjhopjaklhj | Health Reminder | Malware | Store Monitoring | 20/11/25 | Yes |
-| nhiafglcjghpmcipelflfhkckdpcokid | Ads Cleaner for Facebook | Malware | Store Monitoring | 19/11/25 | No |
-| fgpecemjbefkjlcgnhjohdonijdkfooj | Free Unlimited VPN | Malware | Store Monitoring | 19/11/25 | No |
+| nhiafglcjghpmcipelflfhkckdpcokid | Ads Cleaner for Facebook | Malware | Store Monitoring | 19/11/25 | Yes |
+| fgpecemjbefkjlcgnhjohdonijdkfooj | Free Unlimited VPN | Malware | Store Monitoring | 19/11/25 | Yes |
 | mfhjifcieknaihhaidalgcafbnalkdfa | Neuralwriter — AI Text Paraphraser | Malware | Store Monitoring | 14/11/25 | Yes |
 | fibemlnkopkeenmmgcfohhcdbkhgbolo | Safery: Ethereum Wallet | Malware | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-exfiltrates-seed-phrases) | 12/11/25 | No |
 | obedkjaaifedcfidfdjoinfaphghmbfl | Free image downloader | Malware | Store Monitoring | 10/11/25 | Yes |
@@ -1356,6 +1385,7 @@
 | iocbgfeimcjdcnlppmhjpjonciejmhnp | Κrаκеn РRО Cryptogram | Malware | Store Monitoring | 16/10/25 | No |
 | cmjnkgaaeahkhgefpggmogipaljelajk | GMGN AI | Malware | Store Monitoring | 14/10/25 | No |
 | gjmaklcpjjoobahngamchjbimnofiigm | CWALLET Network - Dashboard | Malware | Store Monitoring | 09/10/25 | No |
+| lefndgfmmbdklidbkeifpgclmpnhcilg | Wild Buffalo - Slot Machine | Malware | Store Monitoring | 29/08/25 | No |
 | fjioinpkgmlcioajfnncgldldcnabffe | The Witcher3 Wallpaper HD HomePage | Edge Extension | Store Monitoring | 26/08/25 | No |
 | bdhjinjoglaijpffoamhhnhooeimgoap | One-Punch Man Wallpaper HD HomePage | Edge Extension | Store Monitoring | 26/08/25 | No |
 | ikgaleggljchgbihlaanjbkekmmgccam | Totoro Wallpaper HD HomePage | Edge Extension | Store Monitoring | 26/08/25 | No |
@@ -1548,13 +1578,13 @@
 | fcfmhlijjmckglejcgdclfneafoehafm | Site Stats | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No |
 | aeibljandkelbcaaemkdnbaacppjdmom | Manus AI \| Free AI Assistant | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No |
 | ccollcihnnpcbjcgcjfmabegkpbehnip | FortiVPN | Bundling Unwanted Software | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No |
-| anlhakiodmebohjmkbciohpglnjifjaa | Speed Dial \| Bookmarks \| New Tab Page \| Quick Access \| Custom Search | Malware | Store Monitoring | 21/05/25 | No |
-| ibibeegnncapfdcgpdnnbjbbojglhlmk | OKmusic - скачать музыку и видео Одноклассники \| OK.ru Music Downloader | Malware | Store Monitoring | 21/05/25 | No |
-| ngahaphlngmdfhbhkplbglnfhehnpgdb | Ads Blocker | Malware | Store Monitoring | 21/05/25 | No |
-| bibjcjfmgapbfoljiojpipaooddpkpai | VPN-free.pro - Free Unlimited VPN | Malware | Store Monitoring | 21/05/25 | No |
-| foiopecknacmiihiocgdjgbjokkpkohc | VPN Professional - Free Secure and Unlimited VPN Proxy Chrome Extension | Malware | Store Monitoring | 21/05/25 | No |
+| anlhakiodmebohjmkbciohpglnjifjaa | Speed Dial \| Bookmarks \| New Tab Page \| Quick Access \| Custom Search | Malware | Store Monitoring | 21/05/25 | Yes |
+| ibibeegnncapfdcgpdnnbjbbojglhlmk | OKmusic - скачать музыку и видео Одноклассники \| OK.ru Music Downloader | Malware | Store Monitoring | 21/05/25 | Yes |
+| ngahaphlngmdfhbhkplbglnfhehnpgdb | Ads Blocker | Malware | Store Monitoring | 21/05/25 | Yes |
+| bibjcjfmgapbfoljiojpipaooddpkpai | VPN-free.pro - Free Unlimited VPN | Malware | Store Monitoring | 21/05/25 | Yes |
+| foiopecknacmiihiocgdjgbjokkpkohc | VPN Professional - Free Secure and Unlimited VPN Proxy Chrome Extension | Malware | Store Monitoring | 21/05/25 | Yes |
 | cjobgkekcenldbaenikebmbhffhhffef | Tetrys | Malware | Store Monitoring | 02/05/25 | Yes |
-| hfofhoffdcfcjgmilkpnhkamcgemaban | Скачать музыку | Malware | Store Monitoring | 24/04/25 | No |
+| hfofhoffdcfcjgmilkpnhkamcgemaban | Скачать музыку | Malware | Store Monitoring | 24/04/25 | Yes |
 | jmpcodajbcpgkebjipbmjdoboehfiddd | DeepSeek AI Chat | In store but not whitelisted | [dti.domaintools.com](https://dti.domaintools.com/research/deceptive-browser-extensions-google-store-ai-slop) | 22/04/25 | No |
 | fojomppheellamdaddnbgommepnlkooh | Secured Connection by Security Browse / Browse Securely for Chrome | Removal reason Unknown | [arstechnica.com](https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/) | 11/04/25 | No |
 | oaljkhbgbedmfoiieocoenglpaeogjmf | Safe Search for Chrome / Fire Shield Extension Protection | Removal reason Unknown | [arstechnica.com](https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/) | 11/04/25 | No |
