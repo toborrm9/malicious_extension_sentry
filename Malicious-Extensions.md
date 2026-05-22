@@ -1,6 +1,21 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
-| fojokgfmpipggghfmfnnflbaenhffmol | NeatYT – Clean UI & Comment Search for YouTube | Malware | Store Monitoring | 20/05/26 | No |
+| pilbcinjaiiakenphpkificnicboojgf | Risk Management Tool For | Malware | Store Monitoring | 22/05/26 | No |
+| hadlljkdicfniihfhcacmgbblmokfccg | Planet Vpn – Proxy сеть с | Policy Violation | Store Monitoring | 22/05/26 | No |
+| fkbfgkdkgmeijekneekinafjmnbdpgdp | G​em Xrpl Wal​let Extensi | Bundling Unwanted Software | Store Monitoring | 22/05/26 | No |
+| ekcbjgijlngdoflejfilndnggclfnnmk | Coinpulse — Crypto Price | Malware | Store Monitoring | 22/05/26 | No |
+| ccnplnlglcgmpageepmemnfkolonindp | 1Vpn рабочий Vpn для Chro | Policy Violation | Store Monitoring | 22/05/26 | No |
+| ejekojhheikibfdlbplhcomeadfgiefl | Sn Copilot | Policy Violation | Store Monitoring | 22/05/26 | No |
+| nddeioahdlioinjagdedpagnfmddbjne | Turbo Vpn для Chrome ютуб | Policy Violation | Store Monitoring | 22/05/26 | No |
+| cbncafcknnohpfgdklkogjibjogiodpi | разблокировать рутрекер O | Policy Violation | Store Monitoring | 22/05/26 | No |
+| fbadpdfcnifjhnbihohlihcfgghoaadc | Aurora Nord Vpn — ледяной | Policy Violation | Store Monitoring | 22/05/26 | No |
+| hjekkieemfepgdjjhhbhbhkgapjfpgfc | Bitbox02 App Nova Wallet | Malware | Store Monitoring | 22/05/26 | No |
+| onenadolihhojkmdlicomeoekmmcnegh | Aliexpress Free Invoice A | Policy Violation | Store Monitoring | 22/05/26 | No |
+| ckjmdbiojfmelogdnplmikiodgjlfpha | Sn Copilot | Policy Violation | Store Monitoring | 22/05/26 | No |
+| dhpfidchcjjoicmmikaneognhiohnphe | Quicksee – Peek At Your W | Bundling Unwanted Software | Store Monitoring | 22/05/26 | No |
+| kdbnddcohpommffaklpgklhglnpnmkhj | C​oin St​ats Wal​let Ulti | Bundling Unwanted Software | Store Monitoring | 22/05/26 | No |
+| pbkbidhlmeindcajhnohfgljlhkbkhfg | Browsec Vpn рабочий в рф | Policy Violation | Store Monitoring | 22/05/26 | No |
+| fojokgfmpipggghfmfnnflbaenhffmol | NeatYT – Clean UI & Comment Search for YouTube | Malware | Store Monitoring | 20/05/26 | Yes |
 | emnggacgjccpjhphgochediffoijlokc | Planet Vpn | Policy Violation | Store Monitoring | 20/05/26 | No |
 | idgbohgppnpfddnhcoikipohdmlpmjmb | бесплатный Turbo Vpn — вы | Policy Violation | Store Monitoring | 20/05/26 | No |
 | coafogciaollloclmjgkliibflkejdon | Urban Vpn рабочий впн в 2 | Policy Violation | Store Monitoring | 20/05/26 | No |
