@@ -1,5 +1,54 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| ackibjdmcolfjjdpabnfjipaolkkpagp | Bloxd Io Original | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| cofdkjlleejhgmhacajalbhedbdncgki | Patreon Scraper | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| encombjcejjemnlienalodhndnmhkbei | Tower Building Unblocked | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| nijnkgiblphhmlodoocdahedieakejaj | Homes R Us كود خصم هوم ار | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| cddelmfealiejgocenpeoddnpghhhkhd | كود خصم جيني السعودية اول | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| cochhogbgjdippajielcnibciofehabe | Drive Mad 3 | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| kecnnjleenjkdgemjhdjmlbgbooengen | Monkey Friends | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| monokhkbflaecfhdneifdhndjaiddclk | Mergis Game | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| oplcfhebmbbmakfpjnpkjfjgffmbblnf | Suika Game | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| pdjclflancfeeklibghhedhggipdcopb | Retro Bowl Unblocked Free | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| mohlgbjlnjoapphcfgmllpkoogabdhjc | Happy Wheels Unblocked Fr | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| okcfkmfllmnckdeibjikkafajliondca | Rumble Downloader | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| nfocihmlmhenkgiopgffdcmidppofgae | Death Run 3D Official | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| aibjfbcpaaaaoopdffdfjnllodjehcjg | D19كود خصم لولوليمون Lulu | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| fhgepkcoifnmeeglogflapanfajfpakd | Fancy Girls Dress Up | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| ojlejpbpkmiemidpnpiikmlkmnnfbjnn | Block Blast Match 3 Littl | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| bcfofkiahdjbphfahbkdbgjcjlahepdo | Papas Freezeria Unblocked | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| pdbnijkgbcahmiijbahpnnhiocpjmmfe | Candy Diamond Game | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| kbfchkfgpjlgkbblponkmpjgffoekhdp | Candy Crush For Pcwindows | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| oiajfnpkjplaplljpndjlkleohiidlle | Web Client For Bridge Run | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| gabomfhfghccdcgjllidfalkgjmipgcn | Pac Circle Game | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| neknfaddjhokmoajmhadjikdlieknmbk | Facebook Groups Bulk Post | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| pighfkoggjeehadnjihpjoncmplcdbhd | Redboy And Bluegirl Origi | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| fhndilegplkppplbmkfikjdoeoimceam | Flyin كود خصم فلاي ان حتى | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| nnfbhpgppkmampmhepfhddklndhglafa | Fnp كود خصم فيرنز اند بيت | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| ncjainkblnpjoljebgkhpmkmfgcopefk | Rogre | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| fokjicplplekicdnkdaagllgmejbednd | Coinview Tracker | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| cnhmgdfidmnmjepklhbeckjmaaojofob | Doodle Jump For Chrome Ga | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| cbfamilfacjghhlomcbjjjeccjflbifc | Age Of War Rush Game | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| mmjchmcfkinnlhomhgjjobkfphbejebe | Catch Cat Game | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| lnjjcckgbpppdjcijhakcbnkggbdhccj | Facebook Groups Bulk Post | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| fmgjknnbhgfkpahjdigplnocloopfbdh | Retro Bowl Classic | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| bnddmkedjhbdkcofemggolloamdfbcfc | B5 كود خصم كريت اند باريل | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| lmhbioocpeiccnhhljkcpoblacefkbcg | Pawsome Browser Kitties | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| kcalbmhcjdlocbnbfebpjlgdjphmhanp | Duck Hunt Original | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| mmloilclhhghfcebifdchbbpahcpgklm | Threads For Pc Windows An | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| khgpimcjkelfpbaejbfkpolgameimfoa | Drive Mad Winter | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| gcfpjolndpefkilcnoknopmciohpjmlk | Real Flight Simulator Gam | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| ljhcefpabennjmljfinafoamneckblhb | Papas Cheeseria Go Unbloc | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| obmffbaomlcohkhdjakaonllppeidpeb | Stickman Td Game Defendin | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| fmhfjfbanjpdholknniijnodmlcohhca | Haraer كود خصم عبايات حرا | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| cadnonplijegfkmokpnjcgnogkbbiklh | Flappy Bird For Chrome | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| mlicfekpbjigampkojlcpmofljooimkp | Mothercare كود خصم مذركير | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| jeidbjmmapdnnabckapgagcnfaimibcg | Doodle Jump Official | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| opieiflijklfdmodelmjcbadicknbaec | 2024 كود خصم اوناس | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| copapdokdidobjjmkcpkalbgkiiafeja | Pong For Chrome | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| ljdefddhnjendpanilhlajjegofdghbj | Doodle Jump For Chrome Ga | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| jebhlopnnnlifcnkfgijcpldohiiaggc | Tankoio Game | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
+| bhpdlpehipajhaaooifneiklkknifjjj | Hm كود خصم إتش أند إم حتى | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
 | pilbcinjaiiakenphpkificnicboojgf | Risk Management Tool For | Malware | Store Monitoring | 22/05/26 | No |
 | hadlljkdicfniihfhcacmgbblmokfccg | Planet Vpn – Proxy сеть с | Policy Violation | Store Monitoring | 22/05/26 | No |
 | fkbfgkdkgmeijekneekinafjmnbdpgdp | G​em Xrpl Wal​let Extensi | Bundling Unwanted Software | Store Monitoring | 22/05/26 | No |
@@ -410,7 +459,7 @@
 | kmobjdioiclamniofdnngmafbhgcniok | TikTok Video Keeper | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | Yes |
 | ilcjgmjecbhpgpipmkfkibjopafpbcag | TikTok Downloader – Save Videos, No Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | Yes |
 | oaceepljpkcbcgccnmlepeofkhplkbih | Mass Tiktok Video Downloader | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | Yes |
-| jacilgchggenbmgbfnehcegalhlgpnhf | Mass Tiktok Video Downloader | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | No |
+| jacilgchggenbmgbfnehcegalhlgpnhf | Mass Tiktok Video Downloader | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | Yes |
 | kbifpojhlkdoidmndacedmkbjopeekgl | TikTok Downloader – Save Videos, No Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | No |
 | kkhjihaeddnhknninbekkhaklnailngh | TikTok Video Downloader – Save Without Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | No |
 | mpalaahimeigibehbocnjipjfakekfia | Mass Tiktok Video Downloader | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | No |
