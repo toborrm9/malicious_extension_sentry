@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-22",
-    "timestamp": "1779492928",
+    "date": "2026-05-23",
+    "timestamp": "1779560373",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,1280 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "3033dc3c-3ca7-54be-ada8-0f2888d3e95c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ackibjdmcolfjjdpabnfjipaolkkpagp",
+        "comment": "Bloxd Io Original | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "44589469-8fc4-5cd6-b1d3-51d878fc5d30",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ackibjdmcolfjjdpabnfjipaolkkpagp",
+        "comment": "Chrome Web Store entry for Bloxd Io Original (ackibjdmcolfjjdpabnfjipaolkkpagp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "12601963-ff7d-5722-838b-53079cc3dcfe",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cofdkjlleejhgmhacajalbhedbdncgki",
+        "comment": "Patreon Scraper | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "93e342d3-5976-53c3-b0ce-e33e03b4f568",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cofdkjlleejhgmhacajalbhedbdncgki",
+        "comment": "Chrome Web Store entry for Patreon Scraper (cofdkjlleejhgmhacajalbhedbdncgki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e01b3fc0-36a9-5576-b257-93b163b736cb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "encombjcejjemnlienalodhndnmhkbei",
+        "comment": "Tower Building Unblocked | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "68e56724-f779-5cf8-ba4b-a6bae3136237",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/encombjcejjemnlienalodhndnmhkbei",
+        "comment": "Chrome Web Store entry for Tower Building Unblocked (encombjcejjemnlienalodhndnmhkbei)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1f027ccf-9d53-5271-8400-55629338b8cb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nijnkgiblphhmlodoocdahedieakejaj",
+        "comment": "Homes R Us \u0643\u0648\u062f \u062e\u0635\u0645 \u0647\u0648\u0645 \u0627\u0631 | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "9ac8c3a1-4e09-5a72-b392-34fd68cca17f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nijnkgiblphhmlodoocdahedieakejaj",
+        "comment": "Chrome Web Store entry for Homes R Us \u0643\u0648\u062f \u062e\u0635\u0645 \u0647\u0648\u0645 \u0627\u0631 (nijnkgiblphhmlodoocdahedieakejaj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e9a51a55-e5e8-554a-becd-b44ad564a180",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cddelmfealiejgocenpeoddnpghhhkhd",
+        "comment": "\u0643\u0648\u062f \u062e\u0635\u0645 \u062c\u064a\u0646\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0627\u0648\u0644 | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b691f1cd-e3ac-555c-8f21-02ed484327f7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cddelmfealiejgocenpeoddnpghhhkhd",
+        "comment": "Chrome Web Store entry for \u0643\u0648\u062f \u062e\u0635\u0645 \u062c\u064a\u0646\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0627\u0648\u0644 (cddelmfealiejgocenpeoddnpghhhkhd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "92afc7af-9182-5734-a4a6-d0168207ce08",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cochhogbgjdippajielcnibciofehabe",
+        "comment": "Drive Mad 3 | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "4222c307-73c6-5799-84a6-ddbba0e3f75d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cochhogbgjdippajielcnibciofehabe",
+        "comment": "Chrome Web Store entry for Drive Mad 3 (cochhogbgjdippajielcnibciofehabe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "48ae3f19-4807-51b7-b9db-c1c6f6df33f7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kecnnjleenjkdgemjhdjmlbgbooengen",
+        "comment": "Monkey Friends | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "985e7d05-a35a-5a60-97ba-107ff491c941",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kecnnjleenjkdgemjhdjmlbgbooengen",
+        "comment": "Chrome Web Store entry for Monkey Friends (kecnnjleenjkdgemjhdjmlbgbooengen)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ceb60a67-08c4-5081-8e2c-ee23272e6506",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "monokhkbflaecfhdneifdhndjaiddclk",
+        "comment": "Mergis Game | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "fcec6b56-6761-5587-98b2-ef06bf4bfa30",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/monokhkbflaecfhdneifdhndjaiddclk",
+        "comment": "Chrome Web Store entry for Mergis Game (monokhkbflaecfhdneifdhndjaiddclk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1dc2153f-55ef-5b1d-97b1-a35deb393c14",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oplcfhebmbbmakfpjnpkjfjgffmbblnf",
+        "comment": "Suika Game | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "04897d38-b328-5e17-961b-f6900538f0be",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oplcfhebmbbmakfpjnpkjfjgffmbblnf",
+        "comment": "Chrome Web Store entry for Suika Game (oplcfhebmbbmakfpjnpkjfjgffmbblnf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d83b3e19-3c3f-5f08-a3b7-7b69ca66eb24",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pdjclflancfeeklibghhedhggipdcopb",
+        "comment": "Retro Bowl Unblocked Free | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "560e54ed-5f97-5170-8b46-2f91a676f87a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pdjclflancfeeklibghhedhggipdcopb",
+        "comment": "Chrome Web Store entry for Retro Bowl Unblocked Free (pdjclflancfeeklibghhedhggipdcopb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1718c011-510c-5121-8658-1246459bb753",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mohlgbjlnjoapphcfgmllpkoogabdhjc",
+        "comment": "Happy Wheels Unblocked Fr | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "29da2192-ea91-5687-bf9e-87ef31656f9a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mohlgbjlnjoapphcfgmllpkoogabdhjc",
+        "comment": "Chrome Web Store entry for Happy Wheels Unblocked Fr (mohlgbjlnjoapphcfgmllpkoogabdhjc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a0ae11fc-3dcf-5180-8004-0ec0764f7241",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "okcfkmfllmnckdeibjikkafajliondca",
+        "comment": "Rumble Downloader | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a8ac2787-edce-5a24-85c1-3ab146c31f6d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/okcfkmfllmnckdeibjikkafajliondca",
+        "comment": "Chrome Web Store entry for Rumble Downloader (okcfkmfllmnckdeibjikkafajliondca)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4056d26e-21d7-5690-a944-7320afffeb1a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nfocihmlmhenkgiopgffdcmidppofgae",
+        "comment": "Death Run 3D Official | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "6a6a5a62-e514-53fd-ab0c-4ca4703a51e4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nfocihmlmhenkgiopgffdcmidppofgae",
+        "comment": "Chrome Web Store entry for Death Run 3D Official (nfocihmlmhenkgiopgffdcmidppofgae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e1830f7d-723d-5ad0-af63-ad2766bc2ea9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aibjfbcpaaaaoopdffdfjnllodjehcjg",
+        "comment": "D19\u0643\u0648\u062f \u062e\u0635\u0645 \u0644\u0648\u0644\u0648\u0644\u064a\u0645\u0648\u0646 Lulu | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "83fcfbd8-f26e-53a4-a424-fc6b1f2bd5b0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aibjfbcpaaaaoopdffdfjnllodjehcjg",
+        "comment": "Chrome Web Store entry for D19\u0643\u0648\u062f \u062e\u0635\u0645 \u0644\u0648\u0644\u0648\u0644\u064a\u0645\u0648\u0646 Lulu (aibjfbcpaaaaoopdffdfjnllodjehcjg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a444c288-deba-59be-9614-8fd0e0eeb3ca",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fhgepkcoifnmeeglogflapanfajfpakd",
+        "comment": "Fancy Girls Dress Up | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ffdf2580-59bf-572d-96a8-3a978a2b919b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fhgepkcoifnmeeglogflapanfajfpakd",
+        "comment": "Chrome Web Store entry for Fancy Girls Dress Up (fhgepkcoifnmeeglogflapanfajfpakd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "de7b9d1e-15ef-52e2-852d-7a2fa2ab4785",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ojlejpbpkmiemidpnpiikmlkmnnfbjnn",
+        "comment": "Block Blast Match 3 Littl | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b0a90193-b514-57ad-a850-094cdf617053",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ojlejpbpkmiemidpnpiikmlkmnnfbjnn",
+        "comment": "Chrome Web Store entry for Block Blast Match 3 Littl (ojlejpbpkmiemidpnpiikmlkmnnfbjnn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f6482c50-c7d0-5bec-8104-39650fb4f39f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bcfofkiahdjbphfahbkdbgjcjlahepdo",
+        "comment": "Papas Freezeria Unblocked | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "4d364625-bd99-54ac-af24-854d839fd34d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bcfofkiahdjbphfahbkdbgjcjlahepdo",
+        "comment": "Chrome Web Store entry for Papas Freezeria Unblocked (bcfofkiahdjbphfahbkdbgjcjlahepdo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3f1dbe11-b559-503d-99ae-8dd9b10dfcf4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pdbnijkgbcahmiijbahpnnhiocpjmmfe",
+        "comment": "Candy Diamond Game | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0f9b9eeb-bf4f-5d28-8202-9e566fbec298",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pdbnijkgbcahmiijbahpnnhiocpjmmfe",
+        "comment": "Chrome Web Store entry for Candy Diamond Game (pdbnijkgbcahmiijbahpnnhiocpjmmfe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "511ccdab-fd3b-56c0-b99f-8c785ca40f86",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kbfchkfgpjlgkbblponkmpjgffoekhdp",
+        "comment": "Candy Crush For Pcwindows | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "9b6b3e92-2572-50f4-aeed-6cc9a5215449",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kbfchkfgpjlgkbblponkmpjgffoekhdp",
+        "comment": "Chrome Web Store entry for Candy Crush For Pcwindows (kbfchkfgpjlgkbblponkmpjgffoekhdp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "609e26c2-faf4-513e-831d-fc746c6d4898",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oiajfnpkjplaplljpndjlkleohiidlle",
+        "comment": "Web Client For Bridge Run | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca0e7e43-b1e7-556a-8c32-eb0104e5a467",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oiajfnpkjplaplljpndjlkleohiidlle",
+        "comment": "Chrome Web Store entry for Web Client For Bridge Run (oiajfnpkjplaplljpndjlkleohiidlle)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "26f1732d-695e-540d-a146-75fe63cebfb9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gabomfhfghccdcgjllidfalkgjmipgcn",
+        "comment": "Pac Circle Game | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "8eb65bd0-757d-5cfc-8784-9df626ef51ac",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gabomfhfghccdcgjllidfalkgjmipgcn",
+        "comment": "Chrome Web Store entry for Pac Circle Game (gabomfhfghccdcgjllidfalkgjmipgcn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "255f2057-538e-5481-bafb-4ce0093e81f6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "neknfaddjhokmoajmhadjikdlieknmbk",
+        "comment": "Facebook Groups Bulk Post | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "093e8033-dbdf-5c08-958f-e082a90b8b0b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/neknfaddjhokmoajmhadjikdlieknmbk",
+        "comment": "Chrome Web Store entry for Facebook Groups Bulk Post (neknfaddjhokmoajmhadjikdlieknmbk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a7f36a71-3f5a-5ccb-93cd-63d917d51769",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pighfkoggjeehadnjihpjoncmplcdbhd",
+        "comment": "Redboy And Bluegirl Origi | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "2a1b3aaa-3a4d-50bd-b0ca-7416eacef339",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pighfkoggjeehadnjihpjoncmplcdbhd",
+        "comment": "Chrome Web Store entry for Redboy And Bluegirl Origi (pighfkoggjeehadnjihpjoncmplcdbhd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2138c2ba-839c-5bbf-a67b-c4d5a7238484",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fhndilegplkppplbmkfikjdoeoimceam",
+        "comment": "Flyin \u0643\u0648\u062f \u062e\u0635\u0645 \u0641\u0644\u0627\u064a \u0627\u0646 \u062d\u062a\u0649 | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "5e130e8a-47b5-5362-b026-80bd6b111cf3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fhndilegplkppplbmkfikjdoeoimceam",
+        "comment": "Chrome Web Store entry for Flyin \u0643\u0648\u062f \u062e\u0635\u0645 \u0641\u0644\u0627\u064a \u0627\u0646 \u062d\u062a\u0649 (fhndilegplkppplbmkfikjdoeoimceam)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c7f785a7-e447-57ba-8927-3877879680ef",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nnfbhpgppkmampmhepfhddklndhglafa",
+        "comment": "Fnp \u0643\u0648\u062f \u062e\u0635\u0645 \u0641\u064a\u0631\u0646\u0632 \u0627\u0646\u062f \u0628\u064a\u062a | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ffd61097-acf3-5034-ba7f-4a3d55711d21",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nnfbhpgppkmampmhepfhddklndhglafa",
+        "comment": "Chrome Web Store entry for Fnp \u0643\u0648\u062f \u062e\u0635\u0645 \u0641\u064a\u0631\u0646\u0632 \u0627\u0646\u062f \u0628\u064a\u062a (nnfbhpgppkmampmhepfhddklndhglafa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "484d2c96-3b84-5619-8c3b-ca106e369907",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ncjainkblnpjoljebgkhpmkmfgcopefk",
+        "comment": "Rogre | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b5da2908-1a39-57a3-92f5-f44650bc687a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ncjainkblnpjoljebgkhpmkmfgcopefk",
+        "comment": "Chrome Web Store entry for Rogre (ncjainkblnpjoljebgkhpmkmfgcopefk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e8dc6074-f73f-54fe-b4a4-37cfdfb6b33a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fokjicplplekicdnkdaagllgmejbednd",
+        "comment": "Coinview Tracker | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7e48e09c-077c-51c1-8847-86e390de59ef",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fokjicplplekicdnkdaagllgmejbednd",
+        "comment": "Chrome Web Store entry for Coinview Tracker (fokjicplplekicdnkdaagllgmejbednd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c89d6522-bde3-5bac-8cb8-d23971059710",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cnhmgdfidmnmjepklhbeckjmaaojofob",
+        "comment": "Doodle Jump For Chrome Ga | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "616ad878-46fb-5bd2-afa6-719cdb6e05c3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cnhmgdfidmnmjepklhbeckjmaaojofob",
+        "comment": "Chrome Web Store entry for Doodle Jump For Chrome Ga (cnhmgdfidmnmjepklhbeckjmaaojofob)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "70fd26f1-c28e-5615-bf3f-475f1e721b7e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cbfamilfacjghhlomcbjjjeccjflbifc",
+        "comment": "Age Of War Rush Game | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "782777fd-e36e-5a5e-93f6-cbc37aaec458",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cbfamilfacjghhlomcbjjjeccjflbifc",
+        "comment": "Chrome Web Store entry for Age Of War Rush Game (cbfamilfacjghhlomcbjjjeccjflbifc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f7cf5201-add9-5927-86b8-c6fb49e52dc4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mmjchmcfkinnlhomhgjjobkfphbejebe",
+        "comment": "Catch Cat Game | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "c415b91a-d653-5431-98fd-7cf99bcb52ad",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mmjchmcfkinnlhomhgjjobkfphbejebe",
+        "comment": "Chrome Web Store entry for Catch Cat Game (mmjchmcfkinnlhomhgjjobkfphbejebe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "91cc2b9d-5805-53cb-a557-dbb4d19ce702",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lnjjcckgbpppdjcijhakcbnkggbdhccj",
+        "comment": "Facebook Groups Bulk Post | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d469347f-0e34-5767-9e41-e48ac9a4e785",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lnjjcckgbpppdjcijhakcbnkggbdhccj",
+        "comment": "Chrome Web Store entry for Facebook Groups Bulk Post (lnjjcckgbpppdjcijhakcbnkggbdhccj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9cadcb33-f908-568a-91c8-1d2cf07af62f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fmgjknnbhgfkpahjdigplnocloopfbdh",
+        "comment": "Retro Bowl Classic | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "27933560-4a26-5155-8c89-5c7764b0cbb7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fmgjknnbhgfkpahjdigplnocloopfbdh",
+        "comment": "Chrome Web Store entry for Retro Bowl Classic (fmgjknnbhgfkpahjdigplnocloopfbdh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3efe06c6-dfbe-5c0c-871f-9dc175dbca2b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bnddmkedjhbdkcofemggolloamdfbcfc",
+        "comment": "B5 \u0643\u0648\u062f \u062e\u0635\u0645 \u0643\u0631\u064a\u062a \u0627\u0646\u062f \u0628\u0627\u0631\u064a\u0644 | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ffaef0e8-6ef3-5720-8398-4b2bae320a37",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bnddmkedjhbdkcofemggolloamdfbcfc",
+        "comment": "Chrome Web Store entry for B5 \u0643\u0648\u062f \u062e\u0635\u0645 \u0643\u0631\u064a\u062a \u0627\u0646\u062f \u0628\u0627\u0631\u064a\u0644 (bnddmkedjhbdkcofemggolloamdfbcfc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b0374888-6150-5817-b03c-9b6674bdb1b2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lmhbioocpeiccnhhljkcpoblacefkbcg",
+        "comment": "Pawsome Browser Kitties | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "536c3e52-8539-5765-ae6b-264e97086625",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lmhbioocpeiccnhhljkcpoblacefkbcg",
+        "comment": "Chrome Web Store entry for Pawsome Browser Kitties (lmhbioocpeiccnhhljkcpoblacefkbcg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e488c290-ad34-53e0-892f-6aed835359d8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kcalbmhcjdlocbnbfebpjlgdjphmhanp",
+        "comment": "Duck Hunt Original | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "9fcdf560-a3a9-59ef-b0f1-37585aea5e2f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kcalbmhcjdlocbnbfebpjlgdjphmhanp",
+        "comment": "Chrome Web Store entry for Duck Hunt Original (kcalbmhcjdlocbnbfebpjlgdjphmhanp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e4c52c8b-ffdb-51cd-b8f7-c37f2972c656",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mmloilclhhghfcebifdchbbpahcpgklm",
+        "comment": "Threads For Pc Windows An | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ffe6080b-f5ab-5b5f-a749-1298c0c1147f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mmloilclhhghfcebifdchbbpahcpgklm",
+        "comment": "Chrome Web Store entry for Threads For Pc Windows An (mmloilclhhghfcebifdchbbpahcpgklm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "63e00301-4de5-5a10-b1ba-e5f0e377e98b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "khgpimcjkelfpbaejbfkpolgameimfoa",
+        "comment": "Drive Mad Winter | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "9a190654-9cf0-57a2-a0a4-6bce8f75cf24",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/khgpimcjkelfpbaejbfkpolgameimfoa",
+        "comment": "Chrome Web Store entry for Drive Mad Winter (khgpimcjkelfpbaejbfkpolgameimfoa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a3f7dca7-20a3-57b7-bc34-451503cdbee3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gcfpjolndpefkilcnoknopmciohpjmlk",
+        "comment": "Real Flight Simulator Gam | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "5f6a6fdc-25c5-5b40-8956-1724b2326596",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gcfpjolndpefkilcnoknopmciohpjmlk",
+        "comment": "Chrome Web Store entry for Real Flight Simulator Gam (gcfpjolndpefkilcnoknopmciohpjmlk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4ae8866a-010c-5dee-94f8-f55c44dcd0e9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljhcefpabennjmljfinafoamneckblhb",
+        "comment": "Papas Cheeseria Go Unbloc | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "873011a7-1fa4-50a1-9f07-68865cc42bf2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljhcefpabennjmljfinafoamneckblhb",
+        "comment": "Chrome Web Store entry for Papas Cheeseria Go Unbloc (ljhcefpabennjmljfinafoamneckblhb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fca289e1-7b99-5ea8-b7ef-adecf380d889",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "obmffbaomlcohkhdjakaonllppeidpeb",
+        "comment": "Stickman Td Game Defendin | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "2910aca9-ee16-56a5-af82-11e5a41b69d6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/obmffbaomlcohkhdjakaonllppeidpeb",
+        "comment": "Chrome Web Store entry for Stickman Td Game Defendin (obmffbaomlcohkhdjakaonllppeidpeb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "354e2137-7324-5b3e-a817-252e69757349",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fmhfjfbanjpdholknniijnodmlcohhca",
+        "comment": "Haraer \u0643\u0648\u062f \u062e\u0635\u0645 \u0639\u0628\u0627\u064a\u0627\u062a \u062d\u0631\u0627 | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "73266b05-3028-53db-8871-c491d300a0ea",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fmhfjfbanjpdholknniijnodmlcohhca",
+        "comment": "Chrome Web Store entry for Haraer \u0643\u0648\u062f \u062e\u0635\u0645 \u0639\u0628\u0627\u064a\u0627\u062a \u062d\u0631\u0627 (fmhfjfbanjpdholknniijnodmlcohhca)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3865e427-194e-5da7-843b-8950172eb404",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cadnonplijegfkmokpnjcgnogkbbiklh",
+        "comment": "Flappy Bird For Chrome | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "26eafcd5-6b1b-51dd-9ca2-b9191ee349bd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cadnonplijegfkmokpnjcgnogkbbiklh",
+        "comment": "Chrome Web Store entry for Flappy Bird For Chrome (cadnonplijegfkmokpnjcgnogkbbiklh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bf6d21de-6a86-5f32-9162-a628ac2c32ed",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mlicfekpbjigampkojlcpmofljooimkp",
+        "comment": "Mothercare \u0643\u0648\u062f \u062e\u0635\u0645 \u0645\u0630\u0631\u0643\u064a\u0631 | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e0224515-5814-58f8-8840-c0ac1af89bb4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mlicfekpbjigampkojlcpmofljooimkp",
+        "comment": "Chrome Web Store entry for Mothercare \u0643\u0648\u062f \u062e\u0635\u0645 \u0645\u0630\u0631\u0643\u064a\u0631 (mlicfekpbjigampkojlcpmofljooimkp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "47d40b1e-58c5-53ff-ade4-da7ae0fa941e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jeidbjmmapdnnabckapgagcnfaimibcg",
+        "comment": "Doodle Jump Official | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "26f596b1-67cc-52f3-b043-925f3da1024b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jeidbjmmapdnnabckapgagcnfaimibcg",
+        "comment": "Chrome Web Store entry for Doodle Jump Official (jeidbjmmapdnnabckapgagcnfaimibcg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d6554fe2-79cc-5673-af20-f0c88e8509c9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "opieiflijklfdmodelmjcbadicknbaec",
+        "comment": "2024 \u0643\u0648\u062f \u062e\u0635\u0645 \u0627\u0648\u0646\u0627\u0633 | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "9eff25d4-c99f-5e42-881b-bc7bccac25ad",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/opieiflijklfdmodelmjcbadicknbaec",
+        "comment": "Chrome Web Store entry for 2024 \u0643\u0648\u062f \u062e\u0635\u0645 \u0627\u0648\u0646\u0627\u0633 (opieiflijklfdmodelmjcbadicknbaec)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "33c984b9-1a36-5d9a-b9aa-2e17297244de",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "copapdokdidobjjmkcpkalbgkiiafeja",
+        "comment": "Pong For Chrome | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e9f43cbe-f383-57cd-adc1-8626fc82520f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/copapdokdidobjjmkcpkalbgkiiafeja",
+        "comment": "Chrome Web Store entry for Pong For Chrome (copapdokdidobjjmkcpkalbgkiiafeja)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "84d6f900-796f-5844-a191-dad6881f2814",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljdefddhnjendpanilhlajjegofdghbj",
+        "comment": "Doodle Jump For Chrome Ga | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d47b16d1-88c8-5d02-b62c-87d91f62b3bd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljdefddhnjendpanilhlajjegofdghbj",
+        "comment": "Chrome Web Store entry for Doodle Jump For Chrome Ga (ljdefddhnjendpanilhlajjegofdghbj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5842ab24-fbd3-5835-b593-c6a344aa3b6c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jebhlopnnnlifcnkfgijcpldohiiaggc",
+        "comment": "Tankoio Game | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "4a9497ff-5bc1-5da8-9081-9f8372b7a161",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jebhlopnnnlifcnkfgijcpldohiiaggc",
+        "comment": "Chrome Web Store entry for Tankoio Game (jebhlopnnnlifcnkfgijcpldohiiaggc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2514dc42-5497-5c9a-bade-6aa288ea8e0d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bhpdlpehipajhaaooifneiklkknifjjj",
+        "comment": "Hm \u0643\u0648\u062f \u062e\u0635\u0645 \u0625\u062a\u0634 \u0623\u0646\u062f \u0625\u0645 \u062d\u062a\u0649 | Source: Store Monitoring | Added: 2026-05-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "976cac81-9ef1-5848-840d-0f71b971dbb2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bhpdlpehipajhaaooifneiklkknifjjj",
+        "comment": "Chrome Web Store entry for Hm \u0643\u0648\u062f \u062e\u0635\u0645 \u0625\u062a\u0634 \u0623\u0646\u062f \u0625\u0645 \u062d\u062a\u0649 (bhpdlpehipajhaaooifneiklkknifjjj)",
+        "distribution": "5"
+      },
       {
         "uuid": "14d62893-7c87-5a42-9294-85733575c834",
         "type": "text",
