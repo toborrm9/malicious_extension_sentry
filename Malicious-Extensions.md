@@ -1,5 +1,23 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| lfoapagiglbbmpaoibnhbpcofpnaipff | Fnaf Five Nights At Fredd | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| odclgeagcoikcdkolkjnmafjcfocmnjk | 2048 Cupcakes Game | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| bngplmckfmcbblkahgadbpodjjjfbmph | Shooting Ships Game | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| bmngojcddjipokbdadbminojolebinbl | Bubble Shooter Unblocked | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| akbdpijbdinhefkdmlejcejnnlhloadh | Flappy Bird Reborn | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| dkhphblbcfigaakffhpmdnldfcnpfkmj | Dino Rush T Rex | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| enjhobkjefepjmmikomihdapcdilanai | Merge Coffee Game | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| flllchpbmahciemkedlbhmgojgfkpndo | Your Speech Factory | Policy Violation | Store Monitoring | 24/05/26 | No |
+| hmfgmmmbceccgdheokklfgeagdmaeaoe | Gun Mayhem Unblocked | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| lggkajpnihaenfdkekebaegnjcknlied | бесплатный Vpn впн 1Vpn д | Policy Violation | Store Monitoring | 24/05/26 | No |
+| ncbmhlhkeigdflmfnkjpihhmdmdmebmc | Dinosaur Run Dinosaur Gam | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| njlgoioohijdnoiodblkhmodkkmgkcig | Web Client For Master Che | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| bpjmjdhainlajgjpaedjihnicngdaobb | Smartzy Learning Agent | Policy Violation | Store Monitoring | 24/05/26 | No |
+| pfkbaiflhbkegpmgjkghebcocpdlljna | Bn37كود خصم سيتروس حتى 50 | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| begnkfeikebdelojdklgfkbhbeboilne | Alibaba Search By Image | Policy Violation | Store Monitoring | 24/05/26 | No |
+| fjbpccjakcncgogehcjbecabehamcjmm | Calculator Extension App | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| habaaobnclljeaifmhlaimngklnieedl | Website Blocker For Chrom | Bundling Unwanted Software | Store Monitoring | 24/05/26 | No |
+| ldgfbmnjkfncahaljnceanjaabkbjnca | Indutiva CRM | Malware | [chromewebstore.google.com](https://chromewebstore.google.com/detail/ldgfbmnjkfncahaljnceanjaabkbjnca) | 24/05/26 | No |
 | ackibjdmcolfjjdpabnfjipaolkkpagp | Bloxd Io Original | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
 | cofdkjlleejhgmhacajalbhedbdncgki | Patreon Scraper | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
 | encombjcejjemnlienalodhndnmhkbei | Tower Building Unblocked | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No |
