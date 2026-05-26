@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-24",
-    "timestamp": "1779660645",
+    "date": "2026-05-26",
+    "timestamp": "1779774497",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,292 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "f665b4b4-5bbd-51f9-b1a0-1706e751e1f8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "alckjegiejadcodpcjfcicmcpnpoilbd",
+        "comment": "Discord Grabber Extension | Source: Store Monitoring | Added: 2026-05-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "db67e3b8-dfd8-5202-b8be-177e3317be5b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/alckjegiejadcodpcjfcicmcpnpoilbd",
+        "comment": "Chrome Web Store entry for Discord Grabber Extension (alckjegiejadcodpcjfcicmcpnpoilbd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "863be9fc-ffe6-57f4-b429-aa6ab0407da4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aapdalkmclfaahehnmicbglkohkldhne",
+        "comment": "Website Traffic Checker M | Source: Store Monitoring | Added: 2026-05-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0899168c-45f7-589c-b888-7a902e708f5e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aapdalkmclfaahehnmicbglkohkldhne",
+        "comment": "Chrome Web Store entry for Website Traffic Checker M (aapdalkmclfaahehnmicbglkohkldhne)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7c550177-1c3c-563b-8406-0fb2d9d5ba3d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kabdengckniajpklimedikipkkheefjj",
+        "comment": "Gpt X | Source: Store Monitoring | Added: 2026-05-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e8f2cd13-40df-5ce4-9050-e40067095193",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kabdengckniajpklimedikipkkheefjj",
+        "comment": "Chrome Web Store entry for Gpt X (kabdengckniajpklimedikipkkheefjj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "72888d3c-a22b-5858-8b7a-53c51ab94f1a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mmcpfohhfeomglnlfilelojkchefajip",
+        "comment": "Tiktok Analytics | Source: Store Monitoring | Added: 2026-05-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "cdd32d7c-d02f-57c2-a966-90a4a4ede830",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mmcpfohhfeomglnlfilelojkchefajip",
+        "comment": "Chrome Web Store entry for Tiktok Analytics (mmcpfohhfeomglnlfilelojkchefajip)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9bc96706-1a85-516e-83ab-4f03928e9bb7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gbfiadncpbcjhahkbdfglobhocjgmhfi",
+        "comment": "Tiktok Comment Exporter E | Source: Store Monitoring | Added: 2026-05-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "48e133bb-f519-5b22-998d-8ecbe58d2ec8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gbfiadncpbcjhahkbdfglobhocjgmhfi",
+        "comment": "Chrome Web Store entry for Tiktok Comment Exporter E (gbfiadncpbcjhahkbdfglobhocjgmhfi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "510cf801-e0fd-5422-91cf-c1fa692c102a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "neknljghdeiainlifcalpnkfbdicnghc",
+        "comment": "Tiktok Video Downloader | Source: Store Monitoring | Added: 2026-05-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f0668d11-4c3e-5d7f-8188-8f34c6225929",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/neknljghdeiainlifcalpnkfbdicnghc",
+        "comment": "Chrome Web Store entry for Tiktok Video Downloader (neknljghdeiainlifcalpnkfbdicnghc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "49c71d67-b8a9-5622-b68d-30852d34a723",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "elfbigacoidmjleehfjhgkahdndopcfj",
+        "comment": "Trust Wallet Secure Notes | Source: Store Monitoring | Added: 2026-05-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "fd2406b7-bb52-51e3-b825-3228798bc77d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/elfbigacoidmjleehfjhgkahdndopcfj",
+        "comment": "Chrome Web Store entry for Trust Wallet Secure Notes (elfbigacoidmjleehfjhgkahdndopcfj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "771a7b08-e3a1-57cd-bdc1-9f3ee961ebf2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bbjafcjmegfefhlhkcanahpomdcmmibn",
+        "comment": "Final Fantasy Stormblood | Source: Store Monitoring | Added: 2026-05-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "56e923d8-69f8-5e43-917d-1985935737d9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bbjafcjmegfefhlhkcanahpomdcmmibn",
+        "comment": "Chrome Web Store entry for Final Fantasy Stormblood (bbjafcjmegfefhlhkcanahpomdcmmibn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "be79f39d-c649-5fb1-9e80-c2cf81b9ce00",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pfonmpmfmkbamnpckphpghoagglnenad",
+        "comment": "Safepal Wallet Secure Not | Source: Store Monitoring | Added: 2026-05-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "c2d9f934-50c7-5fa7-8e70-26ad8da5b2f9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pfonmpmfmkbamnpckphpghoagglnenad",
+        "comment": "Chrome Web Store entry for Safepal Wallet Secure Not (pfonmpmfmkbamnpckphpghoagglnenad)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1f3639b0-83f2-5d96-8898-895ed6dc2d39",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jjjehgebfecefmkfahdcmggghohnkddj",
+        "comment": "Linguafranca | Source: Store Monitoring | Added: 2026-05-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "288a6b18-ed53-5996-ad3f-532e5511ae13",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jjjehgebfecefmkfahdcmggghohnkddj",
+        "comment": "Chrome Web Store entry for Linguafranca (jjjehgebfecefmkfahdcmggghohnkddj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "da94b021-cc47-5c45-85ef-2f298c1744d0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "apjappedjeldbandppbcigamkkhoooka",
+        "comment": "\u05e4\u05d9\u05e0\u05d5\u05e7\u05d9\u05dd \u05d7\u05d9\u05e4\u05d5\u05e9 \u05d1\u05d8\u05d5\u05d7 \u05d5\u05de\u05d4\u05d9\u05e8 | Source: Store Monitoring | Added: 2026-05-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "c23d0397-9ad2-5038-8731-0fe685362bb9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/apjappedjeldbandppbcigamkkhoooka",
+        "comment": "Chrome Web Store entry for \u05e4\u05d9\u05e0\u05d5\u05e7\u05d9\u05dd \u05d7\u05d9\u05e4\u05d5\u05e9 \u05d1\u05d8\u05d5\u05d7 \u05d5\u05de\u05d4\u05d9\u05e8 (apjappedjeldbandppbcigamkkhoooka)",
+        "distribution": "5"
+      },
       {
         "uuid": "cbad5383-6320-5947-8440-9221bc965471",
         "type": "text",
