@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| hohmldahlhbnckmkdilgflcmpcanabmh | Vimup Video Downloader | Malware | Store Monitoring | 27/05/26 | No |
+| ogonnpiabgolmonfpfbnkbjkaljgkeok | Unblock Youtube Discord C | Malware | Store Monitoring | 27/05/26 | No |
+| pncjgkkkojifceghhpengahpkckghlhk | Simplesflow | Bundling Unwanted Software | Store Monitoring | 27/05/26 | No |
+| lddaoiilonccpbomblnacdhhhnjdpkol | амнезия Vpn – работает в | Policy Violation | Store Monitoring | 27/05/26 | No |
+| mpjhffojikehlgkaoagnacmjbeifhbhp | Pocket To Podcast | Policy Violation | Store Monitoring | 27/05/26 | No |
+| jmnbkagmgippahjaaebhcgldlnadmhee | Video Downloader For Face | Malware | Store Monitoring | 27/05/26 | No |
+| konhegkdbiicoapggdjdjlgncoecgleg | Nsp Onetab | Policy Violation | Store Monitoring | 27/05/26 | No |
 | alckjegiejadcodpcjfcicmcpnpoilbd | Discord Grabber Extension | Policy Violation | Store Monitoring | 26/05/26 | No |
 | aapdalkmclfaahehnmicbglkohkldhne | Website Traffic Checker M | Malware | Store Monitoring | 26/05/26 | No |
 | kabdengckniajpklimedikipkkheefjj | Gpt X | Malware | Store Monitoring | 26/05/26 | No |
