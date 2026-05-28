@@ -1,5 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| lbgfcdjklmgkaogjkkbkleeepndmbnja | Glanceai | Policy Violation | Store Monitoring | 28/05/26 | No |
+| onmpecpdikhopjbmjajcjcnfdjdmbbfd | Tiktok Unban Ban Pass | Malware | Store Monitoring | 28/05/26 | No |
+| bfobpdekijjlmjndakaogdbfoajedioi | Ai For Amazon Listings Co | Policy Violation | Store Monitoring | 28/05/26 | No |
+| mkjjckchdfhjbpckippbnipkdnlidbeb | Video Downloader Unlimite | Malware | Store Monitoring | 28/05/26 | No |
+| gceehiicnbpehbbdaloolaanlnddailm | Web Sound Equalizer | Malware | Store Monitoring | 28/05/26 | No |
+| beelllgidjaklbnacknjkghfibfpjhac | Clipkeeper Download Gamec | Policy Violation | Store Monitoring | 28/05/26 | No |
+| dheopmpgpkokbdjjlhpphcichjdgjgoh | Vipsa Nature Theme | Bundling Unwanted Software | Store Monitoring | 28/05/26 | No |
+| foffcafkphimgepdldlhedjmhciagfkm | Target Ghost Ad Spy Tool | Malware | Store Monitoring | 28/05/26 | No |
 | hohmldahlhbnckmkdilgflcmpcanabmh | Vimup Video Downloader | Malware | Store Monitoring | 27/05/26 | No |
 | ogonnpiabgolmonfpfbnkbjkaljgkeok | Unblock Youtube Discord C | Malware | Store Monitoring | 27/05/26 | No |
 | pncjgkkkojifceghhpengahpkckghlhk | Simplesflow | Bundling Unwanted Software | Store Monitoring | 27/05/26 | No |
