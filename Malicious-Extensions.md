@@ -1,5 +1,10 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| dhfpejbmiipgjeghceccgkamnmpkmign | Tab Clear | Policy Violation | Store Monitoring | 29/05/26 | No |
+| kmdlofehocppnlkpokdbiaalcelhedef | Shortcut Assistant | Policy Violation | Store Monitoring | 29/05/26 | No |
+| gololdhijpcaicpllcjmlcfdhjfclolh | Chat Gpt Translation | Policy Violation | Store Monitoring | 29/05/26 | No |
+| onomhajljlbeneekipoigcehjngdajec | Gitlab Diff Collapse All | Policy Violation | Store Monitoring | 29/05/26 | No |
+| hemccdpfndbjdbheddegacchifgolnpg | 懒人自助托管 | Policy Violation | Store Monitoring | 29/05/26 | No |
 | lbgfcdjklmgkaogjkkbkleeepndmbnja | Glanceai | Policy Violation | Store Monitoring | 28/05/26 | No |
 | onmpecpdikhopjbmjajcjcnfdjdmbbfd | Tiktok Unban Ban Pass | Malware | Store Monitoring | 28/05/26 | No |
 | bfobpdekijjlmjndakaogdbfoajedioi | Ai For Amazon Listings Co | Policy Violation | Store Monitoring | 28/05/26 | No |
@@ -491,6 +496,7 @@
 | jkaafnmmjecejakfanneehifglpdpccp | Cleanify – Social Chat Cl | Policy Violation | Store Monitoring | 22/04/26 | No |
 | kjbjbbpjmglncndehlbneolhickdejoa | Gemini 25 Pro Sidebar | Policy Violation | Store Monitoring | 22/04/26 | No |
 | gdldfceehpabhcehoglbnfgkdpgnnelo | Leadspicker | Policy Violation | Store Monitoring | 22/04/26 | No |
+| jminnpalmlnicgodjhgijindkijibiil | CốC CốC Search | Policy Violation | Store Monitoring | 21/04/26 | No |
 | cgjlgmcfhoicddhjikmjglhgibchboea | Bpuzzle Tetris Game | Policy Violation | Store Monitoring | 21/04/26 | No |
 | membjdlghnjabalehklnkchehfhplibj | Tiktok Downloader | Policy Violation | Store Monitoring | 21/04/26 | No |
 | annaoohlkckgfpabedmnbleidfjabnho | Tiktok评论导出刮刀工具 | Policy Violation | Store Monitoring | 21/04/26 | No |
@@ -771,6 +777,7 @@
 | gohlpddecngpmpoakfmnaegegjnapkla | Spongebob Live Wallpapers | Policy Violation | Store Monitoring | 13/04/26 | No |
 | mjebfndkbogmggcbpacbedbcjccoamkk | Extreme Dream Head Soccer | Policy Violation | Store Monitoring | 13/04/26 | No |
 | mofnafclpcapghpjdoaanahkgcjfcece | Swift Proton Vpn Fast Sec | Policy Violation | Store Monitoring | 13/04/26 | No |
+| caeppcjbpjohbcpcpohjicfdcaglgabf | Catch Cat Super Game | Policy Violation | Store Monitoring | 12/04/26 | No |
 | jleoggokcekdenochinmpenphepdnkem | Claude Agent: Claude 4.5 AI Browser Agent, Let Claude Take Action for You | Policy Violation | Store Monitoring | 12/04/26 | No |
 | nlompoojekdpdjnjledbbahkdhdhjlae | Claude Chat Search Assist | Policy Violation | Store Monitoring | 12/04/26 | No |
 | nafdjcnfmdcdnebjhehhohfaaffdlkon | Twittergpt Respond To Twe | Policy Violation | Store Monitoring | 11/04/26 | No |
