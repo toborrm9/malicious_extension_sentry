@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-28",
-    "timestamp": "1779944510",
+    "date": "2026-05-29",
+    "timestamp": "1780035854",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,136 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "44bde81e-5c30-5eab-8bd3-3a41f2299742",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dhfpejbmiipgjeghceccgkamnmpkmign",
+        "comment": "Tab Clear | Source: Store Monitoring | Added: 2026-05-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "102ebf7f-73c2-5558-99f2-4c0388399692",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dhfpejbmiipgjeghceccgkamnmpkmign",
+        "comment": "Chrome Web Store entry for Tab Clear (dhfpejbmiipgjeghceccgkamnmpkmign)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cdcf2013-2887-5ae1-a3c9-d91a8b89af98",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kmdlofehocppnlkpokdbiaalcelhedef",
+        "comment": "Shortcut Assistant | Source: Store Monitoring | Added: 2026-05-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "4a2a0143-4a34-5d36-b6c1-657e166ae198",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kmdlofehocppnlkpokdbiaalcelhedef",
+        "comment": "Chrome Web Store entry for Shortcut Assistant (kmdlofehocppnlkpokdbiaalcelhedef)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bfa043a7-bfa0-52e5-9874-473c9d93cffe",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gololdhijpcaicpllcjmlcfdhjfclolh",
+        "comment": "Chat Gpt Translation | Source: Store Monitoring | Added: 2026-05-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7c87f365-3e6b-5515-b3f0-55f29cb1b0ee",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gololdhijpcaicpllcjmlcfdhjfclolh",
+        "comment": "Chrome Web Store entry for Chat Gpt Translation (gololdhijpcaicpllcjmlcfdhjfclolh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cd5df741-46ad-5952-bc0b-77a9005c5396",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "onomhajljlbeneekipoigcehjngdajec",
+        "comment": "Gitlab Diff Collapse All | Source: Store Monitoring | Added: 2026-05-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "6eb98f95-9c01-5dc9-b9f2-0303ab65fc28",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/onomhajljlbeneekipoigcehjngdajec",
+        "comment": "Chrome Web Store entry for Gitlab Diff Collapse All (onomhajljlbeneekipoigcehjngdajec)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "41dff28a-ca44-55b8-8ba5-44b64840b55f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hemccdpfndbjdbheddegacchifgolnpg",
+        "comment": "\u61d2\u4eba\u81ea\u52a9\u6258\u7ba1 | Source: Store Monitoring | Added: 2026-05-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e607b1a8-80a6-5cde-ab0e-6023e68b6b35",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hemccdpfndbjdbheddegacchifgolnpg",
+        "comment": "Chrome Web Store entry for \u61d2\u4eba\u81ea\u52a9\u6258\u7ba1 (hemccdpfndbjdbheddegacchifgolnpg)",
+        "distribution": "5"
+      },
       {
         "uuid": "e4b4de2f-9912-5384-9ccd-db041d6eb8ce",
         "type": "text",
@@ -12794,6 +12924,32 @@
         "distribution": "5"
       },
       {
+        "uuid": "e1208895-8241-5ef2-9131-9d7eb1dca305",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jminnpalmlnicgodjhgijindkijibiil",
+        "comment": "C\u1ed1C C\u1ed1C Search | Source: Store Monitoring | Added: 2026-04-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "88594371-ca21-563f-a6d0-23a215fc5fe7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jminnpalmlnicgodjhgijindkijibiil",
+        "comment": "Chrome Web Store entry for C\u1ed1C C\u1ed1C Search (jminnpalmlnicgodjhgijindkijibiil)",
+        "distribution": "5"
+      },
+      {
         "uuid": "bf43a1fe-1111-5fee-914e-9aaa7a0540d7",
         "type": "text",
         "category": "Other",
@@ -20071,6 +20227,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/mofnafclpcapghpjdoaanahkgcjfcece",
         "comment": "Chrome Web Store entry for Swift Proton Vpn Fast Sec (mofnafclpcapghpjdoaanahkgcjfcece)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "255ce6c0-fc90-5d92-9c52-2cbbd2940b8b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "caeppcjbpjohbcpcpohjicfdcaglgabf",
+        "comment": "Catch Cat Super Game | Source: Store Monitoring | Added: 2026-04-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0c67e935-5b74-5e36-9425-95e640b76f5a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/caeppcjbpjohbcpcpohjicfdcaglgabf",
+        "comment": "Chrome Web Store entry for Catch Cat Super Game (caeppcjbpjohbcpcpohjicfdcaglgabf)",
         "distribution": "5"
       },
       {
