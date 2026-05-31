@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-29",
-    "timestamp": "1780035854",
+    "date": "2026-05-31",
+    "timestamp": "1780201454",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,344 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "3a6bd65d-e864-57d2-8323-0095178e6d3e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "amlpnkfionniifnajgcalfndolieichk",
+        "comment": "Dex For Chrome Personal C | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "db0c8e74-df88-5a9d-833b-49dd5a60a006",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/amlpnkfionniifnajgcalfndolieichk",
+        "comment": "Chrome Web Store entry for Dex For Chrome Personal C (amlpnkfionniifnajgcalfndolieichk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "89067233-b291-5213-b345-809c83f1a8c9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ceplokfhfeekddamgoaojabdhkggafnk",
+        "comment": "Lix B2B Email Finder | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a4d036a6-249e-5ffa-a243-c094ce26054f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ceplokfhfeekddamgoaojabdhkggafnk",
+        "comment": "Chrome Web Store entry for Lix B2B Email Finder (ceplokfhfeekddamgoaojabdhkggafnk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "61ab9c2c-b0d9-5c84-a676-9430597c87b3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ibhbpdmaejlapiadekfdmlklaojbkemb",
+        "comment": "Trust Wallet Secure Notes | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7d44a5ab-89b9-5ccd-b390-26e99155c5e2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ibhbpdmaejlapiadekfdmlklaojbkemb",
+        "comment": "Chrome Web Store entry for Trust Wallet Secure Notes (ibhbpdmaejlapiadekfdmlklaojbkemb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e6e2fd05-5412-5ce7-826a-3bc090138fe9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hoagaedakmopbokhnbjhoakgpdijahpg",
+        "comment": "Mangalens | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "866bcc5a-46b4-5250-a5ed-cb70d92f678b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hoagaedakmopbokhnbjhoakgpdijahpg",
+        "comment": "Chrome Web Store entry for Mangalens (hoagaedakmopbokhnbjhoakgpdijahpg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ef6b8923-a917-5c5c-a8a2-effedcbfe789",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ngapflacofkdghjldnkhhgfnkdlgcmel",
+        "comment": "Tiktaklab Tiktok Video Do | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "5b3b9908-1990-54f0-9f16-0ef85c52a95c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ngapflacofkdghjldnkhhgfnkdlgcmel",
+        "comment": "Chrome Web Store entry for Tiktaklab Tiktok Video Do (ngapflacofkdghjldnkhhgfnkdlgcmel)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bbbffb98-aa65-5624-b6e1-8e4025db8391",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hpfndbeelpjpdgeaoknoeggagglgelhp",
+        "comment": "Humanlinker | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "28565121-5e0a-5dac-a57c-e7008002f338",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hpfndbeelpjpdgeaoknoeggagglgelhp",
+        "comment": "Chrome Web Store entry for Humanlinker (hpfndbeelpjpdgeaoknoeggagglgelhp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a76d892a-6683-5aab-ac81-9eb5486b1710",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cgclhkbaopocbigfahclandepkfhnnnf",
+        "comment": "Close All Tabs | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "33231fb3-45d0-5324-adb6-f278a1bd6aee",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cgclhkbaopocbigfahclandepkfhnnnf",
+        "comment": "Chrome Web Store entry for Close All Tabs (cgclhkbaopocbigfahclandepkfhnnnf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "88187a50-1248-5558-b60b-449817a04dc4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nnlfomimmbmbkanlkadkelfphhfidhak",
+        "comment": "Prolead Scout | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "71a2321d-682a-5ae3-8cb7-0866b49e5511",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nnlfomimmbmbkanlkadkelfphhfidhak",
+        "comment": "Chrome Web Store entry for Prolead Scout (nnlfomimmbmbkanlkadkelfphhfidhak)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eb496e66-8f46-5a4c-b9e3-90c6a990d7ec",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bhfnifoebenbpbnlmaddnkniocoaagfg",
+        "comment": "Trust Wallet Secure Notes | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "37a6ed70-1116-5ef4-8bd4-4713fff4f3b7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bhfnifoebenbpbnlmaddnkniocoaagfg",
+        "comment": "Chrome Web Store entry for Trust Wallet Secure Notes (bhfnifoebenbpbnlmaddnkniocoaagfg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1772fe3d-e110-5269-baa1-e44914e0059d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ccdhnjoomjlnbkiponkhookaamafikll",
+        "comment": "Extensi\u00f3N Patmos | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1de71016-7b8e-5223-9854-deb59eabea5b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ccdhnjoomjlnbkiponkhookaamafikll",
+        "comment": "Chrome Web Store entry for Extensi\u00f3N Patmos (ccdhnjoomjlnbkiponkhookaamafikll)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "438a7fd4-3a3a-5ca4-b092-c09688d19244",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "acjkfmnbignocfakclealmabijofkaba",
+        "comment": "Zileo Linkedin Cookie Con | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "916d69a5-bddc-5aa9-897a-9693b57a4412",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/acjkfmnbignocfakclealmabijofkaba",
+        "comment": "Chrome Web Store entry for Zileo Linkedin Cookie Con (acjkfmnbignocfakclealmabijofkaba)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b1019453-44df-5521-a053-f58bdf38ab1f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hcnegdhonfnijjmiidinppcigdpchdlk",
+        "comment": "Aegisvectro Client Side S | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7b396102-fbff-50fb-8a87-ba239272b3c5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hcnegdhonfnijjmiidinppcigdpchdlk",
+        "comment": "Chrome Web Store entry for Aegisvectro Client Side S (hcnegdhonfnijjmiidinppcigdpchdlk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "89897216-0050-55f6-810e-5c510527634e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gijdlcgcmadappinmgdgiihiepcgboaf",
+        "comment": "Trust Wallet Secure Notes | Source: Store Monitoring | Added: 2026-05-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "2126fdee-2296-5906-b224-26816660c8ce",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gijdlcgcmadappinmgdgiihiepcgboaf",
+        "comment": "Chrome Web Store entry for Trust Wallet Secure Notes (gijdlcgcmadappinmgdgiihiepcgboaf)",
+        "distribution": "5"
+      },
       {
         "uuid": "44bde81e-5c30-5eab-8bd3-3a41f2299742",
         "type": "text",
@@ -2963,6 +3301,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/pbkbidhlmeindcajhnohfgljlhkbkhfg",
         "comment": "Chrome Web Store entry for Browsec Vpn \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0432 \u0440\u0444 (pbkbidhlmeindcajhnohfgljlhkbkhfg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "31ac5043-ca17-59b4-8529-ef1a9078e526",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "igphhgfjnebcafoiplfpkgadlbhdpmnm",
+        "comment": "Chat Flow Crm Automate Yo | Source: Store Monitoring | Added: 2026-05-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "5c503236-1e47-58e0-971e-773ecc7bb666",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/igphhgfjnebcafoiplfpkgadlbhdpmnm",
+        "comment": "Chrome Web Store entry for Chat Flow Crm Automate Yo (igphhgfjnebcafoiplfpkgadlbhdpmnm)",
         "distribution": "5"
       },
       {
@@ -25427,6 +25791,110 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/lfhfenilfjbgcjckhmdpgjdafhoojljl",
         "comment": "Chrome Web Store entry for Top10 Crypto Ticker (lfhfenilfjbgcjckhmdpgjdafhoojljl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2f850385-cc3c-50e2-b690-6d0fb1426329",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ddojedanlfphhidganiompkcdodcbkpg",
+        "comment": "Lazy Statistics | Source: Store Monitoring | Added: 2026-03-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7b57d6f9-a244-502f-b987-d3dbc623ce2f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ddojedanlfphhidganiompkcdodcbkpg",
+        "comment": "Chrome Web Store entry for Lazy Statistics (ddojedanlfphhidganiompkcdodcbkpg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "366a8a98-bd97-531e-8eb1-71f67530ee18",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "imgjdmafnohpidfpbggfccpmmcnofmlh",
+        "comment": "Clicksit Crm Automate You | Source: Store Monitoring | Added: 2026-03-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "07e50a9f-1a90-5e6d-a828-dea26ec07f7c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/imgjdmafnohpidfpbggfccpmmcnofmlh",
+        "comment": "Chrome Web Store entry for Clicksit Crm Automate You (imgjdmafnohpidfpbggfccpmmcnofmlh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "82e5e90f-e5f1-5cfb-ace6-b0c1b17ad00c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dllplfhjknghhdneiblmkolbjappecbe",
+        "comment": "Multi Chat Messenger For | Source: Store Monitoring | Added: 2026-03-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1a43ceac-dca7-5c8d-b2c7-80e1b4c4f6ab",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dllplfhjknghhdneiblmkolbjappecbe",
+        "comment": "Chrome Web Store entry for Multi Chat Messenger For (dllplfhjknghhdneiblmkolbjappecbe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fb687a59-b83f-5074-8faa-f74612e8038d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fdecgdiklaikdmgbglpjhcndphplbpbl",
+        "comment": "Telegram Booster | Source: Store Monitoring | Added: 2026-03-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "4135da9b-f219-5b3f-9923-d11f17d8122b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fdecgdiklaikdmgbglpjhcndphplbpbl",
+        "comment": "Chrome Web Store entry for Telegram Booster (fdecgdiklaikdmgbglpjhcndphplbpbl)",
         "distribution": "5"
       },
       {
