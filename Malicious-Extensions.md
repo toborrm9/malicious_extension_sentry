@@ -1,5 +1,18 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| amlpnkfionniifnajgcalfndolieichk | Dex For Chrome Personal C | Policy Violation | Store Monitoring | 31/05/26 | No |
+| ceplokfhfeekddamgoaojabdhkggafnk | Lix B2B Email Finder | Policy Violation | Store Monitoring | 31/05/26 | No |
+| ibhbpdmaejlapiadekfdmlklaojbkemb | Trust Wallet Secure Notes | Policy Violation | Store Monitoring | 31/05/26 | No |
+| hoagaedakmopbokhnbjhoakgpdijahpg | Mangalens | Policy Violation | Store Monitoring | 31/05/26 | No |
+| ngapflacofkdghjldnkhhgfnkdlgcmel | Tiktaklab Tiktok Video Do | Policy Violation | Store Monitoring | 31/05/26 | No |
+| hpfndbeelpjpdgeaoknoeggagglgelhp | Humanlinker | Policy Violation | Store Monitoring | 31/05/26 | No |
+| cgclhkbaopocbigfahclandepkfhnnnf | Close All Tabs | Policy Violation | Store Monitoring | 31/05/26 | No |
+| nnlfomimmbmbkanlkadkelfphhfidhak | Prolead Scout | Policy Violation | Store Monitoring | 31/05/26 | No |
+| bhfnifoebenbpbnlmaddnkniocoaagfg | Trust Wallet Secure Notes | Policy Violation | Store Monitoring | 31/05/26 | No |
+| ccdhnjoomjlnbkiponkhookaamafikll | ExtensióN Patmos | Policy Violation | Store Monitoring | 31/05/26 | No |
+| acjkfmnbignocfakclealmabijofkaba | Zileo Linkedin Cookie Con | Policy Violation | Store Monitoring | 31/05/26 | No |
+| hcnegdhonfnijjmiidinppcigdpchdlk | Aegisvectro Client Side S | Policy Violation | Store Monitoring | 31/05/26 | No |
+| gijdlcgcmadappinmgdgiihiepcgboaf | Trust Wallet Secure Notes | Policy Violation | Store Monitoring | 31/05/26 | No |
 | dhfpejbmiipgjeghceccgkamnmpkmign | Tab Clear | Policy Violation | Store Monitoring | 29/05/26 | No |
 | kmdlofehocppnlkpokdbiaalcelhedef | Shortcut Assistant | Policy Violation | Store Monitoring | 29/05/26 | No |
 | gololdhijpcaicpllcjmlcfdhjfclolh | Chat Gpt Translation | Policy Violation | Store Monitoring | 29/05/26 | No |
@@ -113,6 +126,7 @@
 | dhpfidchcjjoicmmikaneognhiohnphe | Quicksee – Peek At Your W | Bundling Unwanted Software | Store Monitoring | 22/05/26 | No |
 | kdbnddcohpommffaklpgklhglnpnmkhj | C​oin St​ats Wal​let Ulti | Bundling Unwanted Software | Store Monitoring | 22/05/26 | No |
 | pbkbidhlmeindcajhnohfgljlhkbkhfg | Browsec Vpn рабочий в рф | Policy Violation | Store Monitoring | 22/05/26 | No |
+| igphhgfjnebcafoiplfpkgadlbhdpmnm | Chat Flow Crm Automate Yo | Policy Violation | Store Monitoring | 20/05/26 | No |
 | fojokgfmpipggghfmfnnflbaenhffmol | NeatYT – Clean UI & Comment Search for YouTube | Malware | Store Monitoring | 20/05/26 | Yes |
 | emnggacgjccpjhphgochediffoijlokc | Planet Vpn | Policy Violation | Store Monitoring | 20/05/26 | No |
 | idgbohgppnpfddnhcoikipohdmlpmjmb | бесплатный Turbo Vpn — вы | Policy Violation | Store Monitoring | 20/05/26 | No |
@@ -977,6 +991,10 @@
 | kihfdgpnhlkopkiadeopobhbpeplffam | All Friends Remover | Malware | Store Monitoring | 06/03/26 | Yes |
 | lebaaldhfkhmjcmljacicokgmcfmeofm | Convert PDF to Notion | Policy Violation | Store Monitoring | 06/03/26 | No |
 | lfhfenilfjbgcjckhmdpgjdafhoojljl | Top10 Crypto Ticker | Policy Violation | Store Monitoring | 06/03/26 | No |
+| ddojedanlfphhidganiompkcdodcbkpg | Lazy Statistics | Policy Violation | Store Monitoring | 05/03/26 | No |
+| imgjdmafnohpidfpbggfccpmmcnofmlh | Clicksit Crm Automate You | Policy Violation | Store Monitoring | 05/03/26 | No |
+| dllplfhjknghhdneiblmkolbjappecbe | Multi Chat Messenger For | Policy Violation | Store Monitoring | 05/03/26 | No |
+| fdecgdiklaikdmgbglpjhcndphplbpbl | Telegram Booster | Policy Violation | Store Monitoring | 05/03/26 | No |
 | bankpannefgoifckfjjllibjeaeifpbd | Github Dev Switch | Policy Violation | Store Monitoring | 05/03/26 | No |
 | ncalomlkpjgkcmfbdikdodindkkngjhp | Linkedin Games Solver | Policy Violation | Store Monitoring | 05/03/26 | No |
 | npifianbfjhobabjjpfdjjihgbdnbojh | Text Summarizer | Malware | Store Monitoring | 05/03/26 | Yes |
