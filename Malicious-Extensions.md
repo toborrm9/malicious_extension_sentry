@@ -1,11 +1,68 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| jnghfafinjlkhgfbphnldgchmbahkjma | WhatsBlast — WhatsApp Bulk Sender + CRM \| Leadgrabr | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| infdfjcbjihebhibnkohpfpclobngahk | LoqueFácil - WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| ojhkplldlhhldmdfdpcmnfjmkbokplom | Iagents - WhatsApp Marketing | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| ikkmnmgiakiinjgfpfenaipjhmdioplj | fbsender | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| odccbnfjaebhpnplgkodpmkjkffkalfe | WAEVA | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| ecimbckphddmmgndcogbedhflgefdkfl | Kastemer | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| gncblcnmhnfgfbbkhlppaagagclgcbng | Oh Mago CRM para Whatsapp | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| giinnpfogdnpckecjdcobinfjcdnhbbg | Sistema ZapPlus | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| glpjihohaedmlggmhpicpecpjnkdmndp | HBS CONNECT | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| gbofnmhbadjcjmhknjamkagckgnpbdgb | MiqueCRM PRO | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| ieinlppbiopehpocmjjkkemalajklfel | DragonChat - Potencia tu WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| oehggdajkadeihebdokeglnofplebcde | SOFTZAPP | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| glcnfenofhiojbncadgjocladkdeacep | MagisAtende | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| jmjcgjmipjiklbnfbdclkdikplgajhgc | WAPlus CRM - Best AI-Powered Messaging CRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| cfabdclfflljnmdmckicdalpfhhlfgma | WASend – Bulk WhatsApp Messages | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| opfakiefjdnefefeaacamdpnipefflkp | ZACRM🦁 | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| pjlcincdocmbnfjhgbklmagilpmdefdo | WAPremium MultiWeb | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| fpeeookideimkcgcaodgekbgomnbkdkk | WhatsApp Contacts Downloader — Free & Unlimited | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| hhphfjpehbkbgcgbhnlbdndcmaaapgdi | WATools Hub | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| hcpnjfcfcmnapbikeclkplnnacgbmeee | Transcribe by FabriScribe: áudio WhatsApp em texto | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| ockelnmgipmhmcjedaekchaodpdegneb | Wapes - CRM & Marketing para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| cijobdncciemcimkomiehfanikkldjej | WAPI PREMIUM - Jaguar | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| ioimkgpmigbhaddpgmbjjddoaagialah | InfinyZap | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| injehaoimkkdminimmmcmbfhcmppjpdf | Topease - AI Assistant for Foreign Trade Client Development | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| cpficbpjnbekidkijhpbofgncpfolmeb | WhatSender PRO - WhatsApp Bulk Sender | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| cjohlejpoalcdnnfelllhdcflepblfgm | WAPlugin - WhatsApp AI 助手 | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| dmehhcjdoejcpoffjpfnhfglcacofmdn | Whats Auto Send | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| imhedlpapnopjkbnhojdcknleolmjnbg | Cubo Conecta | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| dlplljmhphnabhmlhjplfgpakefmfhho | WhatsApp Contact Exporter | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| ioeplhdifdmcgooibcibjlaoacbldocc | WA Media Saver | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| iofcjnefopghplghojjpglnjakejkein | Comunidade ZDG FREE | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| bgpkfameamammnookomiamhokkhcihjd | Easy WhatsApp contact export | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| hfdhodfhhlplgghhjbphhehaaglbacom | Bot Fenix - Chatbot - Marketing - Conversation Flows | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| micbejknmlmdembjamkhplmdnfccfihk | Izza Bot | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| bhdkkcffcbililblmbhhgbalkilpgjnn | ChatSac Whats | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| kcdlihaidnmkenhlnofkjfoachidbnif | WTF | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| jhbncicneonbpacmomkjlglpfiepoieb | SlimSender | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| bhdphfffaglgjelmkjocdmcpkidgiehm | crmNOW | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| hehicfbdkgpbmffddekaehekgoeledae | Vision - WhatsApp Marketing | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| kcedhobjnadhpeodbfmikooippmcbehb | Filapay Atende | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| meophpndbjjojmledlkjganjiijhlleo | Vucazap | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| mehipcdhalmoecjhhfcgmiodeokllnno | Wischat | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| kieakfgdeiflalkbfpflmbddoobcggek | WhatsApp Voice to Text and Translate - ExtBoost | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| endmmacdmacjnonhdkkbgkhofmhigamg | Whatsapp Plus | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| joogpadibghkgkeppmomggdbigikofpb | DEEP WHATS | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| hoeeojgceocplocgolojeblocambibnn | Easy Wapi - Api fácil para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| jojmbeahedfacpmljblmcdddlncbafii | Dialogfy | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| jpifkbikhaakajfklldhhhfpakaflndi | B2Cor CRM e Funil de Vendas - agencialink.com | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| hochhggfcmeejhlnflabcpligajohjne | Wasubot - Chatbot - Marketing - Conversation Flows | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| jancnnilpjlicmdjocnihnmpfiocmnoo | Lexchatbot | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| agjeofhaaekfnaalgjihiolgfmekhbhd | BulkifyWA | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| hnfnnjohofgmlfmaplpnmedompbglnai | WA Manager - Contacts management | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| ngecmgoblhegkdghknpfbkeehhefpdhc | SendPro X12 | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| pokenhlckhaoenaipopidoddgdbhlegh | Run Whats Sender | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| ikaghjdimdplapmfhnjnjmepnjnlmpdd | BC ZAP | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| fipcjgnajmkjnnofhejohblljnifhldi | WaLeads | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
+| ndhmbgnnienbmkefelhnaodahpjgpnnk | Easy Group Contact Extractor for WhatsApp© | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
 | miopoagbelhjmaaebgmckcggcopegdfd | Rolodex | Policy Violation | Store Monitoring | 01/06/26 | No |
 | dhlkplajpmgbhoekgkojenhkkchfcdlm | Tiktok To Mp3 | Policy Violation | Store Monitoring | 01/06/26 | No |
 | clemjlmoafddhamjmokmbkjooodmgldd | Tiktok Watermelon Games | Policy Violation | Store Monitoring | 01/06/26 | No |
 | jdhjanilphebgemhhbcaihffabfegbae | Tiktok One Review Downloa | Policy Violation | Store Monitoring | 01/06/26 | No |
 | abekedpmkgndeflcidpkkddapnjnocjp | Open Ai Chatgpt For Email | Policy Violation | Store Monitoring | 01/06/26 | No |
-| kcffejiafhmhliiemlmmonfildnhjhhb | ShortURL.pt - Gerar URL reduzido (gratuito) | Malware | [chromewebstore.google.com](https://chromewebstore.google.com/detail/kcffejiafhmhliiemlmmonfildnhjhhb) | 01/06/26 | No |
+| kcffejiafhmhliiemlmmonfildnhjhhb | ShortURL.pt - Gerar URL reduzido (gratuito) | Malware | Store Monitoring | 01/06/26 | No |
 | amlpnkfionniifnajgcalfndolieichk | Dex For Chrome Personal C | Policy Violation | Store Monitoring | 31/05/26 | No |
 | ceplokfhfeekddamgoaojabdhkggafnk | Lix B2B Email Finder | Policy Violation | Store Monitoring | 31/05/26 | No |
 | ibhbpdmaejlapiadekfdmlklaojbkemb | Trust Wallet Secure Notes | Policy Violation | Store Monitoring | 31/05/26 | No |
