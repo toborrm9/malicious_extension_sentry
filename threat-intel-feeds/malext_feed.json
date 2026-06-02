@@ -1,12 +1,411 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-02T16:28:01.916Z",
+  "generated": "2026-06-02T20:30:35.071Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 1935,
+  "total_indicators": 1992,
   "indicators": [
+    {
+      "extension_id": "jnghfafinjlkhgfbphnldgchmbahkjma",
+      "name": "WhatsBlast \u2014 WhatsApp Bulk Sender + CRM | Leadgrabr",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jnghfafinjlkhgfbphnldgchmbahkjma"
+    },
+    {
+      "extension_id": "infdfjcbjihebhibnkohpfpclobngahk",
+      "name": "LoqueF\u00e1cil - WhatsApp",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/infdfjcbjihebhibnkohpfpclobngahk"
+    },
+    {
+      "extension_id": "ojhkplldlhhldmdfdpcmnfjmkbokplom",
+      "name": "Iagents - WhatsApp Marketing",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ojhkplldlhhldmdfdpcmnfjmkbokplom"
+    },
+    {
+      "extension_id": "ikkmnmgiakiinjgfpfenaipjhmdioplj",
+      "name": "fbsender",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ikkmnmgiakiinjgfpfenaipjhmdioplj"
+    },
+    {
+      "extension_id": "odccbnfjaebhpnplgkodpmkjkffkalfe",
+      "name": "WAEVA",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/odccbnfjaebhpnplgkodpmkjkffkalfe"
+    },
+    {
+      "extension_id": "ecimbckphddmmgndcogbedhflgefdkfl",
+      "name": "Kastemer",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ecimbckphddmmgndcogbedhflgefdkfl"
+    },
+    {
+      "extension_id": "gncblcnmhnfgfbbkhlppaagagclgcbng",
+      "name": "Oh Mago CRM para Whatsapp",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gncblcnmhnfgfbbkhlppaagagclgcbng"
+    },
+    {
+      "extension_id": "giinnpfogdnpckecjdcobinfjcdnhbbg",
+      "name": "Sistema ZapPlus",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/giinnpfogdnpckecjdcobinfjcdnhbbg"
+    },
+    {
+      "extension_id": "glpjihohaedmlggmhpicpecpjnkdmndp",
+      "name": "HBS CONNECT",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/glpjihohaedmlggmhpicpecpjnkdmndp"
+    },
+    {
+      "extension_id": "gbofnmhbadjcjmhknjamkagckgnpbdgb",
+      "name": "MiqueCRM PRO",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gbofnmhbadjcjmhknjamkagckgnpbdgb"
+    },
+    {
+      "extension_id": "ieinlppbiopehpocmjjkkemalajklfel",
+      "name": "DragonChat - Potencia tu WhatsApp",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ieinlppbiopehpocmjjkkemalajklfel"
+    },
+    {
+      "extension_id": "oehggdajkadeihebdokeglnofplebcde",
+      "name": "SOFTZAPP",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/oehggdajkadeihebdokeglnofplebcde"
+    },
+    {
+      "extension_id": "glcnfenofhiojbncadgjocladkdeacep",
+      "name": "MagisAtende",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/glcnfenofhiojbncadgjocladkdeacep"
+    },
+    {
+      "extension_id": "jmjcgjmipjiklbnfbdclkdikplgajhgc",
+      "name": "WAPlus CRM - Best AI-Powered Messaging CRM",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jmjcgjmipjiklbnfbdclkdikplgajhgc"
+    },
+    {
+      "extension_id": "cfabdclfflljnmdmckicdalpfhhlfgma",
+      "name": "WASend \u2013 Bulk WhatsApp Messages",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cfabdclfflljnmdmckicdalpfhhlfgma"
+    },
+    {
+      "extension_id": "opfakiefjdnefefeaacamdpnipefflkp",
+      "name": "ZACRM\ud83e\udd81",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/opfakiefjdnefefeaacamdpnipefflkp"
+    },
+    {
+      "extension_id": "pjlcincdocmbnfjhgbklmagilpmdefdo",
+      "name": "WAPremium MultiWeb",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pjlcincdocmbnfjhgbklmagilpmdefdo"
+    },
+    {
+      "extension_id": "fpeeookideimkcgcaodgekbgomnbkdkk",
+      "name": "WhatsApp Contacts Downloader \u2014 Free & Unlimited",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fpeeookideimkcgcaodgekbgomnbkdkk"
+    },
+    {
+      "extension_id": "hhphfjpehbkbgcgbhnlbdndcmaaapgdi",
+      "name": "WATools Hub",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hhphfjpehbkbgcgbhnlbdndcmaaapgdi"
+    },
+    {
+      "extension_id": "hcpnjfcfcmnapbikeclkplnnacgbmeee",
+      "name": "Transcribe by FabriScribe: \u00e1udio WhatsApp em texto",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hcpnjfcfcmnapbikeclkplnnacgbmeee"
+    },
+    {
+      "extension_id": "ockelnmgipmhmcjedaekchaodpdegneb",
+      "name": "Wapes - CRM & Marketing para WhatsApp",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ockelnmgipmhmcjedaekchaodpdegneb"
+    },
+    {
+      "extension_id": "cijobdncciemcimkomiehfanikkldjej",
+      "name": "WAPI PREMIUM - Jaguar",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cijobdncciemcimkomiehfanikkldjej"
+    },
+    {
+      "extension_id": "ioimkgpmigbhaddpgmbjjddoaagialah",
+      "name": "InfinyZap",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ioimkgpmigbhaddpgmbjjddoaagialah"
+    },
+    {
+      "extension_id": "injehaoimkkdminimmmcmbfhcmppjpdf",
+      "name": "Topease - AI Assistant for Foreign Trade Client Development",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/injehaoimkkdminimmmcmbfhcmppjpdf"
+    },
+    {
+      "extension_id": "cpficbpjnbekidkijhpbofgncpfolmeb",
+      "name": "WhatSender PRO - WhatsApp Bulk Sender",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cpficbpjnbekidkijhpbofgncpfolmeb"
+    },
+    {
+      "extension_id": "cjohlejpoalcdnnfelllhdcflepblfgm",
+      "name": "WAPlugin - WhatsApp AI \u52a9\u624b",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cjohlejpoalcdnnfelllhdcflepblfgm"
+    },
+    {
+      "extension_id": "dmehhcjdoejcpoffjpfnhfglcacofmdn",
+      "name": "Whats Auto Send",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dmehhcjdoejcpoffjpfnhfglcacofmdn"
+    },
+    {
+      "extension_id": "imhedlpapnopjkbnhojdcknleolmjnbg",
+      "name": "Cubo Conecta",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/imhedlpapnopjkbnhojdcknleolmjnbg"
+    },
+    {
+      "extension_id": "dlplljmhphnabhmlhjplfgpakefmfhho",
+      "name": "WhatsApp Contact Exporter",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dlplljmhphnabhmlhjplfgpakefmfhho"
+    },
+    {
+      "extension_id": "ioeplhdifdmcgooibcibjlaoacbldocc",
+      "name": "WA Media Saver",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ioeplhdifdmcgooibcibjlaoacbldocc"
+    },
+    {
+      "extension_id": "iofcjnefopghplghojjpglnjakejkein",
+      "name": "Comunidade ZDG FREE",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/iofcjnefopghplghojjpglnjakejkein"
+    },
+    {
+      "extension_id": "bgpkfameamammnookomiamhokkhcihjd",
+      "name": "Easy WhatsApp contact export",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bgpkfameamammnookomiamhokkhcihjd"
+    },
+    {
+      "extension_id": "hfdhodfhhlplgghhjbphhehaaglbacom",
+      "name": "Bot Fenix - Chatbot - Marketing - Conversation Flows",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hfdhodfhhlplgghhjbphhehaaglbacom"
+    },
+    {
+      "extension_id": "micbejknmlmdembjamkhplmdnfccfihk",
+      "name": "Izza Bot",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/micbejknmlmdembjamkhplmdnfccfihk"
+    },
+    {
+      "extension_id": "bhdkkcffcbililblmbhhgbalkilpgjnn",
+      "name": "ChatSac Whats",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bhdkkcffcbililblmbhhgbalkilpgjnn"
+    },
+    {
+      "extension_id": "kcdlihaidnmkenhlnofkjfoachidbnif",
+      "name": "WTF",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kcdlihaidnmkenhlnofkjfoachidbnif"
+    },
+    {
+      "extension_id": "jhbncicneonbpacmomkjlglpfiepoieb",
+      "name": "SlimSender",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jhbncicneonbpacmomkjlglpfiepoieb"
+    },
+    {
+      "extension_id": "bhdphfffaglgjelmkjocdmcpkidgiehm",
+      "name": "crmNOW",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bhdphfffaglgjelmkjocdmcpkidgiehm"
+    },
+    {
+      "extension_id": "hehicfbdkgpbmffddekaehekgoeledae",
+      "name": "Vision - WhatsApp Marketing",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hehicfbdkgpbmffddekaehekgoeledae"
+    },
+    {
+      "extension_id": "kcedhobjnadhpeodbfmikooippmcbehb",
+      "name": "Filapay Atende",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kcedhobjnadhpeodbfmikooippmcbehb"
+    },
+    {
+      "extension_id": "meophpndbjjojmledlkjganjiijhlleo",
+      "name": "Vucazap",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/meophpndbjjojmledlkjganjiijhlleo"
+    },
+    {
+      "extension_id": "mehipcdhalmoecjhhfcgmiodeokllnno",
+      "name": "Wischat",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mehipcdhalmoecjhhfcgmiodeokllnno"
+    },
+    {
+      "extension_id": "kieakfgdeiflalkbfpflmbddoobcggek",
+      "name": "WhatsApp Voice to Text and Translate - ExtBoost",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kieakfgdeiflalkbfpflmbddoobcggek"
+    },
+    {
+      "extension_id": "endmmacdmacjnonhdkkbgkhofmhigamg",
+      "name": "Whatsapp Plus",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/endmmacdmacjnonhdkkbgkhofmhigamg"
+    },
+    {
+      "extension_id": "joogpadibghkgkeppmomggdbigikofpb",
+      "name": "DEEP WHATS",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/joogpadibghkgkeppmomggdbigikofpb"
+    },
+    {
+      "extension_id": "hoeeojgceocplocgolojeblocambibnn",
+      "name": "Easy Wapi - Api f\u00e1cil para WhatsApp",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hoeeojgceocplocgolojeblocambibnn"
+    },
+    {
+      "extension_id": "jojmbeahedfacpmljblmcdddlncbafii",
+      "name": "Dialogfy",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jojmbeahedfacpmljblmcdddlncbafii"
+    },
+    {
+      "extension_id": "jpifkbikhaakajfklldhhhfpakaflndi",
+      "name": "B2Cor CRM e Funil de Vendas - agencialink.com",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jpifkbikhaakajfklldhhhfpakaflndi"
+    },
+    {
+      "extension_id": "hochhggfcmeejhlnflabcpligajohjne",
+      "name": "Wasubot - Chatbot - Marketing - Conversation Flows",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hochhggfcmeejhlnflabcpligajohjne"
+    },
+    {
+      "extension_id": "jancnnilpjlicmdjocnihnmpfiocmnoo",
+      "name": "Lexchatbot",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jancnnilpjlicmdjocnihnmpfiocmnoo"
+    },
+    {
+      "extension_id": "agjeofhaaekfnaalgjihiolgfmekhbhd",
+      "name": "BulkifyWA",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/agjeofhaaekfnaalgjihiolgfmekhbhd"
+    },
+    {
+      "extension_id": "hnfnnjohofgmlfmaplpnmedompbglnai",
+      "name": "WA Manager - Contacts management",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hnfnnjohofgmlfmaplpnmedompbglnai"
+    },
+    {
+      "extension_id": "ngecmgoblhegkdghknpfbkeehhefpdhc",
+      "name": "SendPro X12",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ngecmgoblhegkdghknpfbkeehhefpdhc"
+    },
+    {
+      "extension_id": "pokenhlckhaoenaipopidoddgdbhlegh",
+      "name": "Run Whats Sender",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pokenhlckhaoenaipopidoddgdbhlegh"
+    },
+    {
+      "extension_id": "ikaghjdimdplapmfhnjnjmepnjnlmpdd",
+      "name": "BC ZAP",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ikaghjdimdplapmfhnjnjmepnjnlmpdd"
+    },
+    {
+      "extension_id": "fipcjgnajmkjnnofhejohblljnifhldi",
+      "name": "WaLeads",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fipcjgnajmkjnnofhejohblljnifhldi"
+    },
+    {
+      "extension_id": "ndhmbgnnienbmkefelhnaodahpjgpnnk",
+      "name": "Easy Group Contact Extractor for WhatsApp\u00a9",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ndhmbgnnienbmkefelhnaodahpjgpnnk"
+    },
     {
       "extension_id": "miopoagbelhjmaaebgmckcggcopegdfd",
       "name": "Rolodex",
@@ -45,7 +444,7 @@
     {
       "extension_id": "kcffejiafhmhliiemlmmonfildnhjhhb",
       "name": "ShortURL.pt - Gerar URL reduzido (gratuito)",
-      "source": "https://chromewebstore.google.com/detail/kcffejiafhmhliiemlmmonfildnhjhhb",
+      "source": "Store Monitoring",
       "insert_date": "2026-06-01",
       "chrome_store_url": "https://chromewebstore.google.com/detail/kcffejiafhmhliiemlmmonfildnhjhhb"
     },
