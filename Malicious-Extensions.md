@@ -1,5 +1,11 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| miopoagbelhjmaaebgmckcggcopegdfd | Rolodex | Policy Violation | Store Monitoring | 01/06/26 | No |
+| dhlkplajpmgbhoekgkojenhkkchfcdlm | Tiktok To Mp3 | Policy Violation | Store Monitoring | 01/06/26 | No |
+| clemjlmoafddhamjmokmbkjooodmgldd | Tiktok Watermelon Games | Policy Violation | Store Monitoring | 01/06/26 | No |
+| jdhjanilphebgemhhbcaihffabfegbae | Tiktok One Review Downloa | Policy Violation | Store Monitoring | 01/06/26 | No |
+| abekedpmkgndeflcidpkkddapnjnocjp | Open Ai Chatgpt For Email | Policy Violation | Store Monitoring | 01/06/26 | No |
+| kcffejiafhmhliiemlmmonfildnhjhhb | ShortURL.pt - Gerar URL reduzido (gratuito) | Malware | [chromewebstore.google.com](https://chromewebstore.google.com/detail/kcffejiafhmhliiemlmmonfildnhjhhb) | 01/06/26 | No |
 | amlpnkfionniifnajgcalfndolieichk | Dex For Chrome Personal C | Policy Violation | Store Monitoring | 31/05/26 | No |
 | ceplokfhfeekddamgoaojabdhkggafnk | Lix B2B Email Finder | Policy Violation | Store Monitoring | 31/05/26 | No |
 | ibhbpdmaejlapiadekfdmlklaojbkemb | Trust Wallet Secure Notes | Policy Violation | Store Monitoring | 31/05/26 | No |
