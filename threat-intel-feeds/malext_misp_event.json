@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-05-31",
-    "timestamp": "1780201454",
+    "date": "2026-06-02",
+    "timestamp": "1780417682",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,162 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "20b0837c-8f85-53c2-8dbf-30da58815483",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "miopoagbelhjmaaebgmckcggcopegdfd",
+        "comment": "Rolodex | Source: Store Monitoring | Added: 2026-06-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "378b2eed-0f61-58fa-bad2-820770d08fa2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/miopoagbelhjmaaebgmckcggcopegdfd",
+        "comment": "Chrome Web Store entry for Rolodex (miopoagbelhjmaaebgmckcggcopegdfd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "458da414-5a3e-5ceb-87e4-bb4e265a2ac9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dhlkplajpmgbhoekgkojenhkkchfcdlm",
+        "comment": "Tiktok To Mp3 | Source: Store Monitoring | Added: 2026-06-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "74461982-8ddc-5634-9f9d-2b4b0a2bc571",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dhlkplajpmgbhoekgkojenhkkchfcdlm",
+        "comment": "Chrome Web Store entry for Tiktok To Mp3 (dhlkplajpmgbhoekgkojenhkkchfcdlm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6af4f997-2608-5ba4-b12f-f30f173bdfde",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "clemjlmoafddhamjmokmbkjooodmgldd",
+        "comment": "Tiktok Watermelon Games | Source: Store Monitoring | Added: 2026-06-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f6f305ef-6368-5653-9dc8-4f64ce70cc63",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/clemjlmoafddhamjmokmbkjooodmgldd",
+        "comment": "Chrome Web Store entry for Tiktok Watermelon Games (clemjlmoafddhamjmokmbkjooodmgldd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ac5afa19-6b49-596d-9ecb-f44217af3fd1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jdhjanilphebgemhhbcaihffabfegbae",
+        "comment": "Tiktok One Review Downloa | Source: Store Monitoring | Added: 2026-06-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d88451c7-ed95-5ee3-80a3-e4dad96d4585",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jdhjanilphebgemhhbcaihffabfegbae",
+        "comment": "Chrome Web Store entry for Tiktok One Review Downloa (jdhjanilphebgemhhbcaihffabfegbae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "76ea4d07-cc4f-5b93-b922-cd6658ae59bf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abekedpmkgndeflcidpkkddapnjnocjp",
+        "comment": "Open Ai Chatgpt For Email | Source: Store Monitoring | Added: 2026-06-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0d5ec7a2-0587-555e-aab5-de8370899977",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abekedpmkgndeflcidpkkddapnjnocjp",
+        "comment": "Chrome Web Store entry for Open Ai Chatgpt For Email (abekedpmkgndeflcidpkkddapnjnocjp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e2b16506-c970-5bd3-bee2-f018b90ddf61",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kcffejiafhmhliiemlmmonfildnhjhhb",
+        "comment": "ShortURL.pt - Gerar URL reduzido (gratuito) | Source: https://chromewebstore.google.com/detail/kcffejiafhmhliiemlmmonfildnhjhhb | Added: 2026-06-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://chromewebstore.google.com/detail/kcffejiafhmhliiemlmmonfildnhjhhb\""
+          }
+        ]
+      },
+      {
+        "uuid": "0f6f3062-4435-5e2f-a75e-328bcf82fab1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kcffejiafhmhliiemlmmonfildnhjhhb",
+        "comment": "Chrome Web Store entry for ShortURL.pt - Gerar URL reduzido (gratuito) (kcffejiafhmhliiemlmmonfildnhjhhb)",
+        "distribution": "5"
+      },
       {
         "uuid": "3a6bd65d-e864-57d2-8323-0095178e6d3e",
         "type": "text",
