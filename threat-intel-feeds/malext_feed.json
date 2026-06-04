@@ -1,12 +1,110 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-04T12:38:57.746Z",
+  "generated": "2026-06-04T16:50:34.669Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 2093,
+  "total_indicators": 2108,
   "indicators": [
+    {
+      "extension_id": "ileiafapndbljebaglgblndmmmkgeeni",
+      "name": "Stitch Ocean Adventure Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ileiafapndbljebaglgblndmmmkgeeni"
+    },
+    {
+      "extension_id": "pegankphhgbnfbbmbjliblimedfknngn",
+      "name": "Stitch Horror House Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pegankphhgbnfbbmbjliblimedfknngn"
+    },
+    {
+      "extension_id": "bffpnolcolmhnpobpninklkefbcfnfcb",
+      "name": "Stitch Cyberpunk City Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bffpnolcolmhnpobpninklkefbcfnfcb"
+    },
+    {
+      "extension_id": "mcllnmedlkkppeicibkpgoflbgcbikkk",
+      "name": "Stitch Sky Explorer Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mcllnmedlkkppeicibkpgoflbgcbikkk"
+    },
+    {
+      "extension_id": "jdefbooiojcicffaodmdoajbdjbfhffb",
+      "name": "Stitch Cosmic Adventure Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jdefbooiojcicffaodmdoajbdjbfhffb"
+    },
+    {
+      "extension_id": "fncopfjbkmiibmdoccplnmmdnadmbnej",
+      "name": "Stitch Magical Forest Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fncopfjbkmiibmdoccplnmmdnadmbnej"
+    },
+    {
+      "extension_id": "ddpdbjhgfpkdkjpjplfdfcohcolofpik",
+      "name": "Stitch Galactic Journey Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ddpdbjhgfpkdkjpjplfdfcohcolofpik"
+    },
+    {
+      "extension_id": "hpdhjfiohokjkalmpebpikdbjopindhl",
+      "name": "Kaneki Ken Ghoul Awakening Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hpdhjfiohokjkalmpebpikdbjopindhl"
+    },
+    {
+      "extension_id": "hknohgfkdplfanfeaoeenibilkllofcd",
+      "name": "Lilo & Stitch Elvis Style Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hknohgfkdplfanfeaoeenibilkllofcd"
+    },
+    {
+      "extension_id": "gbdamjbjihmdfifjnpinooofipibgahj",
+      "name": "Call of Duty: Black Ops 6 Stitch Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gbdamjbjihmdfifjnpinooofipibgahj"
+    },
+    {
+      "extension_id": "knjlljcpgcmcgaamhgcihkfcglgdmpfp",
+      "name": "WhatsApp CRM with AI Sales Agents",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/knjlljcpgcmcgaamhgcihkfcglgdmpfp"
+    },
+    {
+      "extension_id": "lobljgjhoaceknahaaijoelcebpchmii",
+      "name": "BotPlugin",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lobljgjhoaceknahaaijoelcebpchmii"
+    },
+    {
+      "extension_id": "khfmfdepnleebhonomgihppncahojfig",
+      "name": "WA Self Sender & Easy Sender - Personalized WhatsApp Messages & Group Tools",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/khfmfdepnleebhonomgihppncahojfig"
+    },
+    {
+      "extension_id": "affifnliolaibgojgliojpifcebcopla",
+      "name": "Rise Zap",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-04",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/affifnliolaibgojgliojpifcebcopla"
+    },
     {
       "extension_id": "mcbbpdlminhbedndepodljlmfohoekgo",
       "name": "Watchcartoononline Minion",
@@ -230,6 +328,13 @@
       "source": "Store Monitoring",
       "insert_date": "2026-06-04",
       "chrome_store_url": "https://chromewebstore.google.com/detail/nblmojeghhciehfmjondiechgchfdfea"
+    },
+    {
+      "extension_id": "fmhjcgenmdfimclabejelnekafngjlia",
+      "name": "Safe Suggest for Chrome",
+      "source": "https://x.com/tuckner/status/2062185526803792363",
+      "insert_date": "2026-06-03",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fmhjcgenmdfimclabejelnekafngjlia"
     },
     {
       "extension_id": "fecehalniaflikmpfadpiniiaocckhpd",
