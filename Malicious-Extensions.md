@@ -1,5 +1,19 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| ileiafapndbljebaglgblndmmmkgeeni | Stitch Ocean Adventure Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
+| pegankphhgbnfbbmbjliblimedfknngn | Stitch Horror House Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
+| bffpnolcolmhnpobpninklkefbcfnfcb | Stitch Cyberpunk City Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
+| mcllnmedlkkppeicibkpgoflbgcbikkk | Stitch Sky Explorer Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
+| jdefbooiojcicffaodmdoajbdjbfhffb | Stitch Cosmic Adventure Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
+| fncopfjbkmiibmdoccplnmmdnadmbnej | Stitch Magical Forest Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
+| ddpdbjhgfpkdkjpjplfdfcohcolofpik | Stitch Galactic Journey Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
+| hpdhjfiohokjkalmpebpikdbjopindhl | Kaneki Ken Ghoul Awakening Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
+| hknohgfkdplfanfeaoeenibilkllofcd | Lilo & Stitch Elvis Style Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
+| gbdamjbjihmdfifjnpinooofipibgahj | Call of Duty: Black Ops 6 Stitch Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
+| knjlljcpgcmcgaamhgcihkfcglgdmpfp | WhatsApp CRM with AI Sales Agents | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 04/06/26 | No |
+| lobljgjhoaceknahaaijoelcebpchmii | BotPlugin | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 04/06/26 | No |
+| khfmfdepnleebhonomgihppncahojfig | WA Self Sender & Easy Sender - Personalized WhatsApp Messages & Group Tools | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 04/06/26 | No |
+| affifnliolaibgojgliojpifcebcopla | Rise Zap | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 04/06/26 | No |
 | mcbbpdlminhbedndepodljlmfohoekgo | Watchcartoononline Minion | Policy Violation | Store Monitoring | 04/06/26 | No |
 | iclfkbamijaanemcmoaahfkhfbpmmdhj | Instagram Downloader Down | Policy Violation | Store Monitoring | 04/06/26 | No |
 | dfdkfkighakfgihcffnpboebfifbeddl | Easy How To | Malware | Store Monitoring | 04/06/26 | Yes |
@@ -32,6 +46,7 @@
 | nidohejabglninpoocnnofnaelpanemm | Flappy Bird Unblocked Gam | Bundling Unwanted Software | Store Monitoring | 04/06/26 | No |
 | ifefblgoeemkijmgkhpgncjejdelepbn | Gangster Spongebob Live W | Policy Violation | Store Monitoring | 04/06/26 | No |
 | nblmojeghhciehfmjondiechgchfdfea | Wilds Ai Universal Ai Cha | Policy Violation | Store Monitoring | 04/06/26 | No |
+| fmhjcgenmdfimclabejelnekafngjlia | Safe Suggest for Chrome | Adware | [x.com](https://x.com/tuckner/status/2062185526803792363) | 03/06/26 | No |
 | fecehalniaflikmpfadpiniiaocckhpd | Tyrannosaurus Rex | Policy Violation | Store Monitoring | 03/06/26 | No |
 | pkmjadcejhbaahnlaooacmfkfflpkcic | Outer Space Wallpaper: Stunning Galaxy New Tab | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
 | gpkgjopaiakcnokecmocecnbpghkkjhg | Brook One Piece Neon Requiem Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
