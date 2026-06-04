@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-03",
-    "timestamp": "1780498379",
+    "date": "2026-06-04",
+    "timestamp": "1780576738",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,838 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "1059c5c6-9e2c-558b-8597-e634c25a7cbc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mcbbpdlminhbedndepodljlmfohoekgo",
+        "comment": "Watchcartoononline Minion | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a675cdb3-6b9a-5cff-a79a-8a5a4d655789",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mcbbpdlminhbedndepodljlmfohoekgo",
+        "comment": "Chrome Web Store entry for Watchcartoononline Minion (mcbbpdlminhbedndepodljlmfohoekgo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "71b5c3fd-f22d-5e7d-b9a2-43ea1a3331b1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iclfkbamijaanemcmoaahfkhfbpmmdhj",
+        "comment": "Instagram Downloader Down | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d76a0ce8-e6f2-5125-b32d-e2d4de3d2f94",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iclfkbamijaanemcmoaahfkhfbpmmdhj",
+        "comment": "Chrome Web Store entry for Instagram Downloader Down (iclfkbamijaanemcmoaahfkhfbpmmdhj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "17b2ec06-1b87-5433-bea5-a0e5a2531e3c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dfdkfkighakfgihcffnpboebfifbeddl",
+        "comment": "Easy How To | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1a1b78e7-bc09-5fa1-b12f-c7c8932876be",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dfdkfkighakfgihcffnpboebfifbeddl",
+        "comment": "Chrome Web Store entry for Easy How To (dfdkfkighakfgihcffnpboebfifbeddl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e6f2081a-25ab-5084-aa12-5a790b0551b3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "loafphcnankpdfgcmfhkibjmbnknjmah",
+        "comment": "Despicable Me Minions | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b533d451-985c-530c-a52b-550cb1faa211",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/loafphcnankpdfgcmfhkibjmbnknjmah",
+        "comment": "Chrome Web Store entry for Despicable Me Minions (loafphcnankpdfgcmfhkibjmbnknjmah)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d814e891-c09b-5a00-83ea-8dc3ff30c0c6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pjfbjgmjonkfdjkgplflnaeojcjeoimn",
+        "comment": "Image Resizer Extension | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ad1be520-01dc-538a-948e-4f44612c9ec4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pjfbjgmjonkfdjkgplflnaeojcjeoimn",
+        "comment": "Chrome Web Store entry for Image Resizer Extension (pjfbjgmjonkfdjkgplflnaeojcjeoimn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b6457b6d-ddcb-59ad-85da-d0d90ab960c2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "clfjacfgjppajgdkmajekadnogojplco",
+        "comment": "Despicable Me Minions Liv | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "43022620-0303-5c67-b687-cd400b45e5cb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/clfjacfgjppajgdkmajekadnogojplco",
+        "comment": "Chrome Web Store entry for Despicable Me Minions Liv (clfjacfgjppajgdkmajekadnogojplco)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "27943a72-0415-58ed-bad4-2d7c8e62d3a5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fmnoahnonldkmeeojccociiofmeaokcn",
+        "comment": "Minions Wallpaper | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "55fdf314-13de-5a38-944b-07b129ebdce4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fmnoahnonldkmeeojccociiofmeaokcn",
+        "comment": "Chrome Web Store entry for Minions Wallpaper (fmnoahnonldkmeeojccociiofmeaokcn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1816ff04-3767-5788-a6eb-5cae208cfd18",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mgpjmlcdhjpoimnedpjmognfaheemggo",
+        "comment": "Databycloud New | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b511485b-478e-5332-9fc8-052ae794da3a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mgpjmlcdhjpoimnedpjmognfaheemggo",
+        "comment": "Chrome Web Store entry for Databycloud New (mgpjmlcdhjpoimnedpjmognfaheemggo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4d871db9-0d2a-505d-b09d-5c848111aff7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cikekgdidokdcbkdfakccbofbnlcjllg",
+        "comment": "Spongebob Squarepants Wal | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "2a1c938c-4bc6-5d93-a670-94d78fd4e70a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cikekgdidokdcbkdfakccbofbnlcjllg",
+        "comment": "Chrome Web Store entry for Spongebob Squarepants Wal (cikekgdidokdcbkdfakccbofbnlcjllg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6ecdc12d-5366-5c9d-9aec-88174a132c74",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dkpgnhhmldhhndckjklccljdddgjmgbf",
+        "comment": "Doodle Jump Unblocked | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "65b0a8bc-05b3-50ae-b8eb-7498dc0a415a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dkpgnhhmldhhndckjklccljdddgjmgbf",
+        "comment": "Chrome Web Store entry for Doodle Jump Unblocked (dkpgnhhmldhhndckjklccljdddgjmgbf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ec370d78-22ec-5578-a84c-57a2150fd026",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dbbajmagdecghmglljkjojloeadcpglc",
+        "comment": "Downloader For Instagram | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "4bd0f58d-faed-5b05-8af2-e8228fab9ef7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dbbajmagdecghmglljkjojloeadcpglc",
+        "comment": "Chrome Web Store entry for Downloader For Instagram (dbbajmagdecghmglljkjojloeadcpglc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "67ebcac6-6570-560c-9972-e5e727c570e9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ocmgdkkdgcpjmamplkahollgddihpgge",
+        "comment": "Wallmaster | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f131cb85-ff47-50bb-ba26-40593e4ba24c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ocmgdkkdgcpjmamplkahollgddihpgge",
+        "comment": "Chrome Web Store entry for Wallmaster (ocmgdkkdgcpjmamplkahollgddihpgge)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f39cf8c4-4eb6-57b9-8f93-98cae1446f01",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gehadamnihncolfbpjdiboaadagpglbf",
+        "comment": "Offline Games To Play | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1a2f4c5c-6929-54e4-bed9-6fac758d9ad7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gehadamnihncolfbpjdiboaadagpglbf",
+        "comment": "Chrome Web Store entry for Offline Games To Play (gehadamnihncolfbpjdiboaadagpglbf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "05c4f2a8-73c4-5a74-8c94-1e4b31760e56",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eddehnkimbchcgmbpbpmfiomedigjjki",
+        "comment": "Despicable Me Minions Par | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "82da4209-b75d-5551-a7fb-8232c63b1258",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eddehnkimbchcgmbpbpmfiomedigjjki",
+        "comment": "Chrome Web Store entry for Despicable Me Minions Par (eddehnkimbchcgmbpbpmfiomedigjjki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8f6f4ffc-5d5e-5ef7-83df-0751d01089e5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "okhfdikdjelekopikhhihjimihifgagh",
+        "comment": "Despicable Me Minions Par | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ddd6f2d3-b989-5eba-a986-5441b6bc46ae",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/okhfdikdjelekopikhhihjimihifgagh",
+        "comment": "Chrome Web Store entry for Despicable Me Minions Par (okhfdikdjelekopikhhihjimihifgagh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a84816ff-21d1-58bd-bc2f-d8b4311b9343",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ldidcdpplnfcbobmbmnohcaljkaigabi",
+        "comment": "Raft Wars Game | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bb78e728-3560-52ca-9940-ead4d065dc35",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ldidcdpplnfcbobmbmnohcaljkaigabi",
+        "comment": "Chrome Web Store entry for Raft Wars Game (ldidcdpplnfcbobmbmnohcaljkaigabi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b8c32e8e-0752-5424-b900-e8f9e0f02937",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jfeemlljlgfhbahdlpjaldohmlgjdkik",
+        "comment": "Bing Chat For Chrome Bing | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "6f418d7f-76c1-56cf-9a2c-6f34488efde2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jfeemlljlgfhbahdlpjaldohmlgjdkik",
+        "comment": "Chrome Web Store entry for Bing Chat For Chrome Bing (jfeemlljlgfhbahdlpjaldohmlgjdkik)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cbef84fd-9a3f-5df8-8557-871e825ec57a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "edmbemgdldgpaopfpodijnpnaanfdehk",
+        "comment": "Editthiscookie Origin | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0c46cce5-37cd-5a9e-9baf-14b927b571d4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/edmbemgdldgpaopfpodijnpnaanfdehk",
+        "comment": "Chrome Web Store entry for Editthiscookie Origin (edmbemgdldgpaopfpodijnpnaanfdehk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "632861c1-67fd-5d9d-8597-5ae6225c3a21",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mfigakagknfcjecgbgohiflodhdojmie",
+        "comment": "Codia Ai Web To Psdphotos | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bfa55b10-96f3-5a13-8856-6486c0f042fc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mfigakagknfcjecgbgohiflodhdojmie",
+        "comment": "Chrome Web Store entry for Codia Ai Web To Psdphotos (mfigakagknfcjecgbgohiflodhdojmie)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1b531ccc-ec6f-591f-ae4e-e6ed1d6f024d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cealpkapgiobhiafgnmgjkaeifcleabm",
+        "comment": "Focus Time Tracker | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca15fec2-4ea8-5bd8-9ddb-7ceb2490b4a9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cealpkapgiobhiafgnmgjkaeifcleabm",
+        "comment": "Chrome Web Store entry for Focus Time Tracker (cealpkapgiobhiafgnmgjkaeifcleabm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b902b5c4-49a4-5cd9-905c-a48499cb3867",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cpadpjmlbomfjegpjefpbemaacclaelh",
+        "comment": "Wa Incognito Turn Off Rea | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bada54bf-2517-5201-ab9e-381eb9fa7d3c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cpadpjmlbomfjegpjefpbemaacclaelh",
+        "comment": "Chrome Web Store entry for Wa Incognito Turn Off Rea (cpadpjmlbomfjegpjefpbemaacclaelh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d103c419-a10e-5f5f-8701-5905160f8cbc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ibjnnlfdmkpfjodmnbglmdpmeffgbhpb",
+        "comment": "Slope 3 Unblocked | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "83e63619-a84b-5b40-8199-2d1f3e149a35",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ibjnnlfdmkpfjodmnbglmdpmeffgbhpb",
+        "comment": "Chrome Web Store entry for Slope 3 Unblocked (ibjnnlfdmkpfjodmnbglmdpmeffgbhpb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f5ab5264-de35-5f1c-8a1e-521034cd04c5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "alelmnjggpochdkhhmonkpidkcfbldco",
+        "comment": "Auto Reload Tabs | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b9d5c007-d61d-54fe-b9af-c4070698c5f3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/alelmnjggpochdkhhmonkpidkcfbldco",
+        "comment": "Chrome Web Store entry for Auto Reload Tabs (alelmnjggpochdkhhmonkpidkcfbldco)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c952fc4b-a1fb-5054-bb5e-f8216c3c242b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "efkjdmpmpemgoaoolpngkhldkboigdck",
+        "comment": "Tiktok Video Exporter | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ee6db321-0f37-507f-8d95-a8453d42d207",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/efkjdmpmpemgoaoolpngkhldkboigdck",
+        "comment": "Chrome Web Store entry for Tiktok Video Exporter (efkjdmpmpemgoaoolpngkhldkboigdck)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9a944f27-a880-5d5c-a6a8-694525ae837a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "knhbdafodefjgeihoachbjheaeecghln",
+        "comment": "Minion Laughs Happily | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "42d53433-7460-5523-bd69-33710edb8aac",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/knhbdafodefjgeihoachbjheaeecghln",
+        "comment": "Chrome Web Store entry for Minion Laughs Happily (knhbdafodefjgeihoachbjheaeecghln)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ba3077c7-7c59-5692-bcbf-78facb901ce4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "docihlhbibacgklaifdcadpejalpodpd",
+        "comment": "Pok\u00e9Mon Sun And Pok\u00e9Mon M | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a7c2f91e-34c0-5bdb-9200-26f5c179cdc4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/docihlhbibacgklaifdcadpejalpodpd",
+        "comment": "Chrome Web Store entry for Pok\u00e9Mon Sun And Pok\u00e9Mon M (docihlhbibacgklaifdcadpejalpodpd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4b5b9498-73a9-5055-98a9-1cd3facdc1a5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gadpciddpmkbaonnnibnnflncaanmgnm",
+        "comment": "Pacman Original | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "8a966e74-2438-523f-9b73-674986438f2e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gadpciddpmkbaonnnibnnflncaanmgnm",
+        "comment": "Chrome Web Store entry for Pacman Original (gadpciddpmkbaonnnibnnflncaanmgnm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "abf9e4d5-3d3b-524d-970a-87b0fe0331ae",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ojcmkmkcflaepekipppjnfaeidkcbohe",
+        "comment": "Lamborghini Revuelto Hd W | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f37cb929-49ba-58eb-9b6f-87ff7f65fac6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ojcmkmkcflaepekipppjnfaeidkcbohe",
+        "comment": "Chrome Web Store entry for Lamborghini Revuelto Hd W (ojcmkmkcflaepekipppjnfaeidkcbohe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "57f3e527-fb9f-5c8f-b977-942cf1246abb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nagcmbgoldfkmkiennnjpmfkfcpdgmbk",
+        "comment": "Vpn Unlimited Free Vpn Wi | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bf84f9f9-e49c-5cc4-9e91-a6e83e0a6fa3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nagcmbgoldfkmkiennnjpmfkfcpdgmbk",
+        "comment": "Chrome Web Store entry for Vpn Unlimited Free Vpn Wi (nagcmbgoldfkmkiennnjpmfkfcpdgmbk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1cd62931-3b8a-5d72-bb74-c2b294e2f9c1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nidohejabglninpoocnnofnaelpanemm",
+        "comment": "Flappy Bird Unblocked Gam | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "9245904a-4489-5812-aa9d-82bb0ba9b9c6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nidohejabglninpoocnnofnaelpanemm",
+        "comment": "Chrome Web Store entry for Flappy Bird Unblocked Gam (nidohejabglninpoocnnofnaelpanemm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b475edf5-464e-5f97-81be-62b6b513d175",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ifefblgoeemkijmgkhpgncjejdelepbn",
+        "comment": "Gangster Spongebob Live W | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "c083ecb1-b3e0-52b9-8da6-ffe68a071ceb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ifefblgoeemkijmgkhpgncjejdelepbn",
+        "comment": "Chrome Web Store entry for Gangster Spongebob Live W (ifefblgoeemkijmgkhpgncjejdelepbn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "52784f0e-f9b6-54f4-be5a-407b31a81d0f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nblmojeghhciehfmjondiechgchfdfea",
+        "comment": "Wilds Ai Universal Ai Cha | Source: Store Monitoring | Added: 2026-06-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bb2fa86f-fa12-51aa-b50b-2bc79eaa81c8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nblmojeghhciehfmjondiechgchfdfea",
+        "comment": "Chrome Web Store entry for Wilds Ai Universal Ai Cha (nblmojeghhciehfmjondiechgchfdfea)",
+        "distribution": "5"
+      },
       {
         "uuid": "d756e468-2268-565b-8227-418937cff3b0",
         "type": "text",
