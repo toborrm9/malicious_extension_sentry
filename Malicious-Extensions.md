@@ -1,5 +1,37 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| mcbbpdlminhbedndepodljlmfohoekgo | Watchcartoononline Minion | Policy Violation | Store Monitoring | 04/06/26 | No |
+| iclfkbamijaanemcmoaahfkhfbpmmdhj | Instagram Downloader Down | Policy Violation | Store Monitoring | 04/06/26 | No |
+| dfdkfkighakfgihcffnpboebfifbeddl | Easy How To | Malware | Store Monitoring | 04/06/26 | Yes |
+| loafphcnankpdfgcmfhkibjmbnknjmah | Despicable Me Minions | Policy Violation | Store Monitoring | 04/06/26 | No |
+| pjfbjgmjonkfdjkgplflnaeojcjeoimn | Image Resizer Extension | Policy Violation | Store Monitoring | 04/06/26 | No |
+| clfjacfgjppajgdkmajekadnogojplco | Despicable Me Minions Liv | Policy Violation | Store Monitoring | 04/06/26 | No |
+| fmnoahnonldkmeeojccociiofmeaokcn | Minions Wallpaper | Policy Violation | Store Monitoring | 04/06/26 | No |
+| mgpjmlcdhjpoimnedpjmognfaheemggo | Databycloud New | Bundling Unwanted Software | Store Monitoring | 04/06/26 | No |
+| cikekgdidokdcbkdfakccbofbnlcjllg | Spongebob Squarepants Wal | Policy Violation | Store Monitoring | 04/06/26 | No |
+| dkpgnhhmldhhndckjklccljdddgjmgbf | Doodle Jump Unblocked | Malware | Store Monitoring | 04/06/26 | Yes |
+| dbbajmagdecghmglljkjojloeadcpglc | Downloader For Instagram | Policy Violation | Store Monitoring | 04/06/26 | No |
+| ocmgdkkdgcpjmamplkahollgddihpgge | Wallmaster | Malware | Store Monitoring | 04/06/26 | No |
+| gehadamnihncolfbpjdiboaadagpglbf | Offline Games To Play | Malware | Store Monitoring | 04/06/26 | Yes |
+| eddehnkimbchcgmbpbpmfiomedigjjki | Despicable Me Minions Par | Policy Violation | Store Monitoring | 04/06/26 | No |
+| okhfdikdjelekopikhhihjimihifgagh | Despicable Me Minions Par | Policy Violation | Store Monitoring | 04/06/26 | No |
+| ldidcdpplnfcbobmbmnohcaljkaigabi | Raft Wars Game | Bundling Unwanted Software | Store Monitoring | 04/06/26 | No |
+| jfeemlljlgfhbahdlpjaldohmlgjdkik | Bing Chat For Chrome Bing | Malware | Store Monitoring | 04/06/26 | No |
+| edmbemgdldgpaopfpodijnpnaanfdehk | Editthiscookie Origin | Malware | Store Monitoring | 04/06/26 | No |
+| mfigakagknfcjecgbgohiflodhdojmie | Codia Ai Web To Psdphotos | Policy Violation | Store Monitoring | 04/06/26 | No |
+| cealpkapgiobhiafgnmgjkaeifcleabm | Focus Time Tracker | Malware | Store Monitoring | 04/06/26 | No |
+| cpadpjmlbomfjegpjefpbemaacclaelh | Wa Incognito Turn Off Rea | Policy Violation | Store Monitoring | 04/06/26 | No |
+| ibjnnlfdmkpfjodmnbglmdpmeffgbhpb | Slope 3 Unblocked | Bundling Unwanted Software | Store Monitoring | 04/06/26 | No |
+| alelmnjggpochdkhhmonkpidkcfbldco | Auto Reload Tabs | Bundling Unwanted Software | Store Monitoring | 04/06/26 | No |
+| efkjdmpmpemgoaoolpngkhldkboigdck | Tiktok Video Exporter | Policy Violation | Store Monitoring | 04/06/26 | No |
+| knhbdafodefjgeihoachbjheaeecghln | Minion Laughs Happily | Policy Violation | Store Monitoring | 04/06/26 | No |
+| docihlhbibacgklaifdcadpejalpodpd | PokéMon Sun And PokéMon M | Policy Violation | Store Monitoring | 04/06/26 | No |
+| gadpciddpmkbaonnnibnnflncaanmgnm | Pacman Original | Malware | Store Monitoring | 04/06/26 | No |
+| ojcmkmkcflaepekipppjnfaeidkcbohe | Lamborghini Revuelto Hd W | Malware | Store Monitoring | 04/06/26 | No |
+| nagcmbgoldfkmkiennnjpmfkfcpdgmbk | Vpn Unlimited Free Vpn Wi | Malware | Store Monitoring | 04/06/26 | No |
+| nidohejabglninpoocnnofnaelpanemm | Flappy Bird Unblocked Gam | Bundling Unwanted Software | Store Monitoring | 04/06/26 | No |
+| ifefblgoeemkijmgkhpgncjejdelepbn | Gangster Spongebob Live W | Policy Violation | Store Monitoring | 04/06/26 | No |
+| nblmojeghhciehfmjondiechgchfdfea | Wilds Ai Universal Ai Cha | Policy Violation | Store Monitoring | 04/06/26 | No |
 | fecehalniaflikmpfadpiniiaocckhpd | Tyrannosaurus Rex | Policy Violation | Store Monitoring | 03/06/26 | No |
 | pkmjadcejhbaahnlaooacmfkfflpkcic | Outer Space Wallpaper: Stunning Galaxy New Tab | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
 | gpkgjopaiakcnokecmocecnbpghkkjhg | Brook One Piece Neon Requiem Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
