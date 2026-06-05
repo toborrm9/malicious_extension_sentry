@@ -1,5 +1,8 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| mdkfhjdleemhhfjmoblgkghkpbbfnilk | Cloud Intelligence Grid N | Bundling Unwanted Software | Store Monitoring | 05/06/26 | No |
+| jjeopjhdomaogejikcibjjomdkeeeljj | Microsoft Copilot Sidepan | Policy Violation | Store Monitoring | 05/06/26 | No |
+| mdjiaknaobbkjkmcedepibnmkelcocpn | Zikka Helper | Policy Violation | Store Monitoring | 05/06/26 | No |
 | ileiafapndbljebaglgblndmmmkgeeni | Stitch Ocean Adventure Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
 | pegankphhgbnfbbmbjliblimedfknngn | Stitch Horror House Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
 | bffpnolcolmhnpobpninklkefbcfnfcb | Stitch Cyberpunk City Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 04/06/26 | No |
@@ -30,7 +33,7 @@
 | eddehnkimbchcgmbpbpmfiomedigjjki | Despicable Me Minions Par | Policy Violation | Store Monitoring | 04/06/26 | No |
 | okhfdikdjelekopikhhihjimihifgagh | Despicable Me Minions Par | Policy Violation | Store Monitoring | 04/06/26 | No |
 | ldidcdpplnfcbobmbmnohcaljkaigabi | Raft Wars Game | Bundling Unwanted Software | Store Monitoring | 04/06/26 | No |
-| jfeemlljlgfhbahdlpjaldohmlgjdkik | Bing Chat For Chrome Bing | Malware | Store Monitoring | 04/06/26 | No |
+| jfeemlljlgfhbahdlpjaldohmlgjdkik | Bing Chat For Chrome Bing | Malware | Store Monitoring | 04/06/26 | Yes |
 | edmbemgdldgpaopfpodijnpnaanfdehk | Editthiscookie Origin | Malware | Store Monitoring | 04/06/26 | No |
 | mfigakagknfcjecgbgohiflodhdojmie | Codia Ai Web To Psdphotos | Policy Violation | Store Monitoring | 04/06/26 | No |
 | cealpkapgiobhiafgnmgjkaeifcleabm | Focus Time Tracker | Malware | Store Monitoring | 04/06/26 | No |
@@ -40,9 +43,9 @@
 | efkjdmpmpemgoaoolpngkhldkboigdck | Tiktok Video Exporter | Policy Violation | Store Monitoring | 04/06/26 | No |
 | knhbdafodefjgeihoachbjheaeecghln | Minion Laughs Happily | Policy Violation | Store Monitoring | 04/06/26 | No |
 | docihlhbibacgklaifdcadpejalpodpd | PokéMon Sun And PokéMon M | Policy Violation | Store Monitoring | 04/06/26 | No |
-| gadpciddpmkbaonnnibnnflncaanmgnm | Pacman Original | Malware | Store Monitoring | 04/06/26 | No |
+| gadpciddpmkbaonnnibnnflncaanmgnm | Pacman Original | Malware | Store Monitoring | 04/06/26 | Yes |
 | ojcmkmkcflaepekipppjnfaeidkcbohe | Lamborghini Revuelto Hd W | Malware | Store Monitoring | 04/06/26 | No |
-| nagcmbgoldfkmkiennnjpmfkfcpdgmbk | Vpn Unlimited Free Vpn Wi | Malware | Store Monitoring | 04/06/26 | No |
+| nagcmbgoldfkmkiennnjpmfkfcpdgmbk | Vpn Unlimited Free Vpn Wi | Malware | Store Monitoring | 04/06/26 | Yes |
 | nidohejabglninpoocnnofnaelpanemm | Flappy Bird Unblocked Gam | Bundling Unwanted Software | Store Monitoring | 04/06/26 | No |
 | ifefblgoeemkijmgkhpgncjejdelepbn | Gangster Spongebob Live W | Policy Violation | Store Monitoring | 04/06/26 | No |
 | nblmojeghhciehfmjondiechgchfdfea | Wilds Ai Universal Ai Cha | Policy Violation | Store Monitoring | 04/06/26 | No |
@@ -591,6 +594,7 @@
 | mbjjannikkfihddnepoionimbedjnbib | Prodigy Origin Prodigy Mo | Policy Violation | Store Monitoring | 03/05/26 | No |
 | hmldnpigepegofdmmmhbkgjmcnefpgig | Slazzer Free Image Backgr | Policy Violation | Store Monitoring | 02/05/26 | No |
 | pljbjcehnhcnofmkdbjolghdcjnmekia | Bless | Policy Violation | Store Monitoring | 02/05/26 | No |
+| kofdhccjlmfceakkllbenajnnpjdepde | Doodle Jump Trump | Malware | Store Monitoring | 01/05/26 | No |
 | gpkcecbpfdlbocbkimkmgelaojfkihgh | Advert Tracker Adspy Tool | Bundling Unwanted Software | Store Monitoring | 01/05/26 | No |
 | aacfibelemnkkbkelbhdbfhokeemfaho | Chatgpt Side Panel | Policy Violation | Store Monitoring | 01/05/26 | No |
 | aodbopgpdbbeeifnpefojenoaffmpoba | Chatgpt On New Tab | Policy Violation | Store Monitoring | 01/05/26 | No |
@@ -1170,6 +1174,14 @@
 | kihfdgpnhlkopkiadeopobhbpeplffam | All Friends Remover | Malware | Store Monitoring | 06/03/26 | Yes |
 | lebaaldhfkhmjcmljacicokgmcfmeofm | Convert PDF to Notion | Policy Violation | Store Monitoring | 06/03/26 | No |
 | lfhfenilfjbgcjckhmdpgjdafhoojljl | Top10 Crypto Ticker | Policy Violation | Store Monitoring | 06/03/26 | No |
+| dfmkhhcagfkikpadgccaoiiappmcmcbb | Basketball Legends Funny | Malware | Store Monitoring | 05/03/26 | No |
+| acigamgkhbdgmhjgblcliidogdlnbfff | Free Vpn For Chrome Free | Malware | Store Monitoring | 05/03/26 | No |
+| henbbiimeenaicppoafibkbhcbhkjbng | Vpn Unblocker For Instagr | Malware | Store Monitoring | 05/03/26 | No |
+| boodjjhonmkkacdfkagfdilfbhbfcdmh | Vex 7 Unblocked | Malware | Store Monitoring | 05/03/26 | No |
+| acfjniffcmahollkfpmbafogeknigieg | Drift Boss Original | Malware | Store Monitoring | 05/03/26 | No |
+| amoilkdbdljhjepahbkimfapimcifinp | Rooftop Snipers Funny Gam | Malware | Store Monitoring | 05/03/26 | No |
+| bpgbfkajlonopecnbdldjffkefhkoljb | Cyber Guardian | Malware | Store Monitoring | 05/03/26 | No |
+| lhnakmicdcknofabdbnokbfcnmbifcln | Vex 6 Unblocked Game | Malware | Store Monitoring | 05/03/26 | No |
 | ddojedanlfphhidganiompkcdodcbkpg | Lazy Statistics | Policy Violation | Store Monitoring | 05/03/26 | No |
 | imgjdmafnohpidfpbggfccpmmcnofmlh | Clicksit Crm Automate You | Policy Violation | Store Monitoring | 05/03/26 | No |
 | dllplfhjknghhdneiblmkolbjappecbe | Multi Chat Messenger For | Policy Violation | Store Monitoring | 05/03/26 | Yes |
