@@ -1,6 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
-| dfmkhhcagfkikpadgccaoiiappmcmcbb | Basketball Legends Funny | Malware | dfmkhhcagfkikpadgccaoiiappmcmcbb | 05/06/26 | No |
+| pdipfjbbcpjhjmopccfelpnddghaignh | Bloomhaven Floral Calm | Bundling Unwanted Software | Store Monitoring | 06/06/26 | No |
+| haknfnkmocppagbbdbppekffejheablk | Aqtos E Faktura Signing B | Policy Violation | Store Monitoring | 06/06/26 | No |
+| nnmjhnkpkefolheeofehedminbjjeojl | Neon Dusk Cyberpunk | Bundling Unwanted Software | Store Monitoring | 06/06/26 | No |
+| jigafbdbpkblnjimhcoihaejnbkjpkbo | Captain Data | Policy Violation | Store Monitoring | 06/06/26 | No |
+| lnlnmakbcalkajlmhnnpokhgmidhcomo | flacher bauch | Adware | Store Monitoring | 05/06/26 | No |
+| bjbkmkelnglblbphoiljogikjkjgfebf | Author Pics Default Search | Adware | Store Monitoring | 05/06/26 | No |
+| dfmkhhcagfkikpadgccaoiiappmcmcbb | Basketball Legends Funny | Malware | Store Monitoring | 05/06/26 | No |
 | acigamgkhbdgmhjgblcliidogdlnbfff | Free Vpn For Chrome Free | Malware | Store Monitoring | 05/06/26 | Yes |
 | henbbiimeenaicppoafibkbhcbhkjbng | Vpn Unblocker For Instagr | Malware | Store Monitoring | 05/06/26 | Yes |
 | mdkfhjdleemhhfjmoblgkghkpbbfnilk | Cloud Intelligence Grid N | Bundling Unwanted Software | Store Monitoring | 05/06/26 | No |
