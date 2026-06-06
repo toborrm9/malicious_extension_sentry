@@ -1,6 +1,6 @@
 <a href="https://www.buymeacoffee.com/toborrm9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>   
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--05-blue)](https://github.com/toborrm9/malicious_extension_sentry/blob/main/Malicious-Extensions.md)
-[![Last Updated](https://img.shields.io/badge/Total%20Extensions-2120-red)](https://github.com/toborrm9/malicious_extension_sentry/blob/main/Malicious-Extensions.md)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--06-blue)](https://github.com/toborrm9/malicious_extension_sentry/blob/main/Malicious-Extensions.md)
+[![Last Updated](https://img.shields.io/badge/Total%20Extensions-2126-red)](https://github.com/toborrm9/malicious_extension_sentry/blob/main/Malicious-Extensions.md)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/bpohikihiogjgmebpnbgnloipjaddibe?label=MalExt%20Sentry%20Extension&logo=googlechrome&logoColor=white&color=4fcf6c)](https://chromewebstore.google.com/detail/malext-sentry/bpohikihiogjgmebpnbgnloipjaddibe)
 
 # Malicious Chrome/Edge Extensions Database
