@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-05",
-    "timestamp": "1780662354",
+    "date": "2026-06-06",
+    "timestamp": "1780745532",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -28,19 +28,175 @@
     ],
     "Attribute": [
       {
-        "uuid": "ee9520a9-f494-5c3a-9eac-deaef35b9f1e",
+        "uuid": "1f7934a5-8cd0-5822-a415-fd4a7cceb833",
         "type": "text",
         "category": "Other",
         "to_ids": false,
-        "value": "dfmkhhcagfkikpadgccaoiiappmcmcbb",
-        "comment": "Basketball Legends Funny | Source: dfmkhhcagfkikpadgccaoiiappmcmcbb | Added: 2026-06-05",
+        "value": "pdipfjbbcpjhjmopccfelpnddghaignh",
+        "comment": "Bloomhaven Floral Calm | Source: Store Monitoring | Added: 2026-06-06",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"dfmkhhcagfkikpadgccaoiiappmcmcbb\""
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f5f42817-5a2b-5eac-a7f6-feda2a259391",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pdipfjbbcpjhjmopccfelpnddghaignh",
+        "comment": "Chrome Web Store entry for Bloomhaven Floral Calm (pdipfjbbcpjhjmopccfelpnddghaignh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "aa31a303-a30c-53a7-b012-901e965807fd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "haknfnkmocppagbbdbppekffejheablk",
+        "comment": "Aqtos E Faktura Signing B | Source: Store Monitoring | Added: 2026-06-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7b122fff-0cf1-5906-992b-b51814d8597e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/haknfnkmocppagbbdbppekffejheablk",
+        "comment": "Chrome Web Store entry for Aqtos E Faktura Signing B (haknfnkmocppagbbdbppekffejheablk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "763cb1b4-9519-59b2-9deb-0a2e8e62a30d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nnmjhnkpkefolheeofehedminbjjeojl",
+        "comment": "Neon Dusk Cyberpunk | Source: Store Monitoring | Added: 2026-06-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "08f9fb27-1b2a-52e2-b16f-3b5f7f602dc0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nnmjhnkpkefolheeofehedminbjjeojl",
+        "comment": "Chrome Web Store entry for Neon Dusk Cyberpunk (nnmjhnkpkefolheeofehedminbjjeojl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "744ed89c-2a85-53fd-b9e8-cd182e0535c7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jigafbdbpkblnjimhcoihaejnbkjpkbo",
+        "comment": "Captain Data | Source: Store Monitoring | Added: 2026-06-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1021caf5-8374-5f1c-a79a-04aa83a23b4f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jigafbdbpkblnjimhcoihaejnbkjpkbo",
+        "comment": "Chrome Web Store entry for Captain Data (jigafbdbpkblnjimhcoihaejnbkjpkbo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2849b0dc-ae47-5b8c-8e46-94300ae0a9d9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lnlnmakbcalkajlmhnnpokhgmidhcomo",
+        "comment": "flacher bauch | Source: Store Monitoring | Added: 2026-06-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "fb72fa17-5a73-54e7-a883-09caac767cc2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lnlnmakbcalkajlmhnnpokhgmidhcomo",
+        "comment": "Chrome Web Store entry for flacher bauch (lnlnmakbcalkajlmhnnpokhgmidhcomo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6630a76d-1736-5277-bf03-eee569075988",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bjbkmkelnglblbphoiljogikjkjgfebf",
+        "comment": "Author Pics Default Search | Source: Store Monitoring | Added: 2026-06-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ade25e32-1796-5938-a6d9-a887afff69c7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bjbkmkelnglblbphoiljogikjkjgfebf",
+        "comment": "Chrome Web Store entry for Author Pics Default Search (bjbkmkelnglblbphoiljogikjkjgfebf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ee9520a9-f494-5c3a-9eac-deaef35b9f1e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dfmkhhcagfkikpadgccaoiiappmcmcbb",
+        "comment": "Basketball Legends Funny | Source: Store Monitoring | Added: 2026-06-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
           }
         ]
       },
