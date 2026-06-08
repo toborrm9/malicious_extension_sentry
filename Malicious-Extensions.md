@@ -1,9 +1,44 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| ambejdgmdngkcklopenkibdlfcdepeda | Cold Horizon – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| kikfbiidffiafdopccfloamajafffloh | Alpine Night – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| ofnmhfegfjgdcjjincbcgmpkenncahcg | Nordic Summit – Privacy M | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| cccpokpffmobcbklekhfkjnckelfhbno | Tiktok Game | Policy Violation | Store Monitoring | 08/06/26 | No |
+| pcedmalaofpmdbgfocdkdbhdcbbfpkne | Polar Drift – Privacy Min | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| iamjhalpnodikaglinlkipgdbgppkhaf | Frozen Echo – Privacy Min | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| pcinhgkmoiaocgaafdfbifiicoiklmma | Aurora Glass Frosted Auro | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| enbbchbofoaomiepjgdjdboopbnaecbk | Inkstone Blue – Crisp Min | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| ojelphmnldddikoacjcfoonfchlcgdak | Alpine Still – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| aedfdmfnjanaoolahgoiokffojfcmjni | Crystal Tundra – Privacy | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| diemfnamcadcbnpokadljkcmehcllgjj | Douyin Downloader | Policy Violation | Store Monitoring | 08/06/26 | No |
+| lggbbeebphidldagkpajkogjnmcalijp | Tiktok Douyin Batch Downl | Policy Violation | Store Monitoring | 08/06/26 | No |
+| bokgcpcpbhendbkepnmdklpdhpffcogk | ‮orp Tellawnort | Malware | Store Monitoring | 08/06/26 | No |
+| gldeicgnjlmcjagmogpccoikbbpngail | Gitlab Notifications | Policy Violation | Store Monitoring | 08/06/26 | No |
+| jgpmpckadbgpmghclinkeeggioimoagf | Minimal Light | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| mffdofhadnnjdngfemfnehheeejpokic | Graphite Moss – Clean Min | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| dedohjkifionogppcgkphokgkkdmmaoe | Nordic Depth – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| ilfjcahdnehenecjignhabdcnnhiphfa | Indigo Grid – Clean Minim | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| igkjnhjilbfhhieoedffddpgoiokkhen | Polar Sand – Clean Minima | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| aaddmojoibcjdlghmeeeenlgenaogcif | Silent Glacier Ii – Priva | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| nfdmlpnoffiblmlmgpokmkpogbofcnpe | Glacier Mint – Crisp Mini | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| ejmchodobpmalkpilpokleikpbikpnma | Arctic Plain – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| fegckejpfnlmfgkfjpinlbgmeeijjkel | Rapidlens Google Lens For | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| cjkcloaoljficalpjnfcfhlobidchoee | Muted Peak – Privacy Mini | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| oondabmhecdagnndhjhgnhhhnninpagc | Gemini Studio App | Policy Violation | Store Monitoring | 08/06/26 | No |
+| kkncndflgbbnkghpcgfffocholgapjdn | Cherry Quartz – Crisp Min | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| jbchggkplbejdkfjmjmljlennabobicd | Arctic Light – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| ohkakacjaddkccagpciddgcjjbbpcgfl | ohkakacjaddkccagpciddgcjjbbpcgfl | Malware | [malext.io](https://malext.io/reports/WaSteal) | 08/06/26 | No |
+| kpmanggilaiabhnclachbaiichkmefgd | kpmanggilaiabhnclachbaiichkmefgd | Malware | [malext.io](https://malext.io/reports/WaSteal) | 08/06/26 | No |
+| olhagmdfojhfdbfgmiofiofnifcmehdb | Backlink Generator | Bundling Unwanted Software | Store Monitoring | 07/06/26 | No |
+| ifjpckpobbeicleibehpnibjbedkccgc | Viral247 20 | Bundling Unwanted Software | Store Monitoring | 07/06/26 | No |
+| dhghkolonchibindgpmlhobbpeicncin | Etivi: Inteligencia Artificial para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal) | 07/06/26 | No |
+| bpjhhjboiagpamldnmjdmjadhajipicf | ChatzyCRM: Todo lo que necesitas en un solo CRM para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal) | 07/06/26 | No |
+| eelhhhonggaobhpgighgkoggopilndpe | Kentro | Malware | Store Monitoring | 07/06/26 | No |
+| aihkhafnbpomjadbkobpnojmojgcilah | Pdf Forge | Policy Violation | Store Monitoring | 06/06/26 | No |
 | pdipfjbbcpjhjmopccfelpnddghaignh | Bloomhaven Floral Calm | Bundling Unwanted Software | Store Monitoring | 06/06/26 | No |
 | haknfnkmocppagbbdbppekffejheablk | Aqtos E Faktura Signing B | Policy Violation | Store Monitoring | 06/06/26 | No |
 | nnmjhnkpkefolheeofehedminbjjeojl | Neon Dusk Cyberpunk | Bundling Unwanted Software | Store Monitoring | 06/06/26 | No |
-| jigafbdbpkblnjimhcoihaejnbkjpkbo | Captain Data | Policy Violation | Store Monitoring | 06/06/26 | No |
+| jigafbdbpkblnjimhcoihaejnbkjpkbo | Captain Data | Policy Violation | Store Monitoring | 06/06/26 | Yes |
 | lnlnmakbcalkajlmhnnpokhgmidhcomo | flacher bauch | Adware | Store Monitoring | 05/06/26 | No |
 | bjbkmkelnglblbphoiljogikjkjgfebf | Author Pics Default Search | Adware | Store Monitoring | 05/06/26 | No |
 | dfmkhhcagfkikpadgccaoiiappmcmcbb | Basketball Legends Funny | Malware | Store Monitoring | 05/06/26 | No |
@@ -320,6 +355,16 @@
 | dhpfidchcjjoicmmikaneognhiohnphe | Quicksee – Peek At Your W | Bundling Unwanted Software | Store Monitoring | 22/05/26 | No |
 | kdbnddcohpommffaklpgklhglnpnmkhj | C​oin St​ats Wal​let Ulti | Bundling Unwanted Software | Store Monitoring | 22/05/26 | No |
 | pbkbidhlmeindcajhnohfgljlhkbkhfg | Browsec Vpn рабочий в рф | Policy Violation | Store Monitoring | 22/05/26 | No |
+| ppiakigckgnocnmoenndpgbehmccapjb | Outline VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No |
+| iooeakemgpdekfapiejcmolppjfggide | Window VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No |
+| cjdafpdojamncegfmbconlicklgepidc | Amnezia VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No |
+| bmmklkcamkknmajnhcmigbhgpahapodk | Paper VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No |
+| beadcellenlepfbkpoggklacilaealbb | RAdmin VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No |
+| cmfbmehojkikkfdellcpieaapccgemdl | Happ VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No |
+| jjbjcelpjgagfgdpobjkpjnkhffmnlda | Sota VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No |
+| jageecdigmlcciccgcbifiidgfoafjke | HideMyName VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No |
+| oapdfflamjpbpphjjlmejjgljiiajkcf | BrowSec VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No |
+| kfhghjkddbnaphdgnajhenaacpekbdmg | AdGuard VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No |
 | igphhgfjnebcafoiplfpkgadlbhdpmnm | Chat Flow Crm Automate Yo | Policy Violation | Store Monitoring | 20/05/26 | No |
 | fojokgfmpipggghfmfnnflbaenhffmol | NeatYT – Clean UI & Comment Search for YouTube | Malware | Store Monitoring | 20/05/26 | Yes |
 | emnggacgjccpjhphgochediffoijlokc | Planet Vpn | Policy Violation | Store Monitoring | 20/05/26 | No |
