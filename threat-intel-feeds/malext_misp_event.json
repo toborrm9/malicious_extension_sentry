@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-06-08",
-    "timestamp": "1780905581",
+    "timestamp": "1780933972",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,32 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "8946b265-7b58-5234-94fe-d31a41d8dd77",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ododhdcefemfdbnidbeipjpjaehadjen",
+        "comment": "Fusebase Search | Source: https://x.com/toborrm9/status/2064010945672753239 | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://x.com/toborrm9/status/2064010945672753239\""
+          }
+        ]
+      },
+      {
+        "uuid": "e512095c-1000-5ac9-aa10-47145f9f278b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ododhdcefemfdbnidbeipjpjaehadjen",
+        "comment": "Chrome Web Store entry for Fusebase Search (ododhdcefemfdbnidbeipjpjaehadjen)",
+        "distribution": "5"
+      },
       {
         "uuid": "b3920267-1cc1-5198-8fad-29b68f330aec",
         "type": "text",
