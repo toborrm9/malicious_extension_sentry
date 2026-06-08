@@ -1,6 +1,6 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
-| ododhdcefemfdbnidbeipjpjaehadjen | Fusebase Search | Potentially Unwanted Software | [x.com](https://x.com/toborrm9/status/2064010194682610121) | 08/06/26 | No |
+| ododhdcefemfdbnidbeipjpjaehadjen | Fusebase Search | Potentially Unwanted Software | [x.com](https://x.com/toborrm9/status/2064010945672753239) | 08/06/26 | No |
 | ambejdgmdngkcklopenkibdlfcdepeda | Cold Horizon – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
 | kikfbiidffiafdopccfloamajafffloh | Alpine Night – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
 | ofnmhfegfjgdcjjincbcgmpkenncahcg | Nordic Summit – Privacy M | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
