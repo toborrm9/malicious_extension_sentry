@@ -1,12 +1,19 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-08T07:59:41.381Z",
+  "generated": "2026-06-08T15:52:52.031Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 2171,
+  "total_indicators": 2172,
   "indicators": [
+    {
+      "extension_id": "ododhdcefemfdbnidbeipjpjaehadjen",
+      "name": "Fusebase Search",
+      "source": "https://x.com/toborrm9/status/2064010945672753239",
+      "insert_date": "2026-06-08",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ododhdcefemfdbnidbeipjpjaehadjen"
+    },
     {
       "extension_id": "ambejdgmdngkcklopenkibdlfcdepeda",
       "name": "Cold Horizon \u2013 Privacy Mi",
