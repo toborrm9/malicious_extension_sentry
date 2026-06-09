@@ -1,6 +1,21 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
-| ododhdcefemfdbnidbeipjpjaehadjen | Fusebase Search | Potentially Unwanted Software | [x.com](https://x.com/toborrm9/status/2064010945672753239) | 08/06/26 | No |
+| lapaplcnainnabmnkocbhdbnfgiiaglc | Tx Tron Wallet | Malware | Store Monitoring | 09/06/26 | No |
+| apglfhacdngonkdngnoneiacjjlmcmfn | Traffic Pulse Website Tra | Bundling Unwanted Software | Store Monitoring | 09/06/26 | No |
+| napnmdhmhlfpopiapoogcbpbeekfepnk | Tether Land Usdttoman Rat | Policy Violation | Store Monitoring | 09/06/26 | No |
+| pnjifegilbcoeffpbfickagedipiepcc | Usdt Local Currency Conve | Policy Violation | Store Monitoring | 09/06/26 | No |
+| olceochjkfofojkjjbgmjlbhcclgfegi | Metric Flow Website Traff | Bundling Unwanted Software | Store Monitoring | 09/06/26 | No |
+| hodgcolihbmeagfcfpdfpnapfflmpbkb | Search Toggler | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/hodgcolihbmeagfcfpdfpnapfflmpbkb) | 08/06/26 | No |
+| ijbmkpeacbkgpfkomjbionjgdhbmlpfp | View Menu with Prices | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/ijbmkpeacbkgpfkomjbionjgdhbmlpfp) | 08/06/26 | No |
+| jeookppofphgjnhjkifeejcmjbpiogka | Fresh Fruit Search | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/jeookppofphgjnhjkifeejcmjbpiogka) | 08/06/26 | No |
+| kbobdmmjbaljcombpliahadgoafgohcd | Earth 3D | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/kbobdmmjbaljcombpliahadgoafgohcd) | 08/06/26 | No |
+| keadechokmcohlcampccppbjjeabghcd | Quick Search Tool | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/keadechokmcohlcampccppbjjeabghcd) | 08/06/26 | No |
+| mccmkaicbneobeclkbloeoopcfeipmio | Great Start | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/mccmkaicbneobeclkbloeoopcfeipmio) | 08/06/26 | No |
+| hohedjmdoemgcpgdapepfhnilbedldnm | PerfecTab Search | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/hohedjmdoemgcpgdapepfhnilbedldnm) | 08/06/26 | No |
+| flcaigefphghbcgbmfngbfdgipdflfpn | Nautilus Search | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/flcaigefphghbcgbmfngbfdgipdflfpn) | 08/06/26 | No |
+| elamodccgcmdfkhnbfipinlfcedfpkjd | Web Translator | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/elamodccgcmdfkhnbfipinlfcedfpkjd) | 08/06/26 | No |
+| pookachmhghnpgjhebhilcidgdphdlhi | NewTab. Search | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/pookachmhghnpgjhebhilcidgdphdlhi) | 08/06/26 | No |
+| ododhdcefemfdbnidbeipjpjaehadjen | Fusebase Search | Search-Hijacker | [x.com](https://x.com/toborrm9/status/2064010945672753239) | 08/06/26 | No |
 | ambejdgmdngkcklopenkibdlfcdepeda | Cold Horizon – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
 | kikfbiidffiafdopccfloamajafffloh | Alpine Night – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
 | ofnmhfegfjgdcjjincbcgmpkenncahcg | Nordic Summit – Privacy M | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
@@ -23,13 +38,13 @@
 | aaddmojoibcjdlghmeeeenlgenaogcif | Silent Glacier Ii – Priva | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
 | nfdmlpnoffiblmlmgpokmkpogbofcnpe | Glacier Mint – Crisp Mini | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
 | ejmchodobpmalkpilpokleikpbikpnma | Arctic Plain – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
-| fegckejpfnlmfgkfjpinlbgmeeijjkel | Rapidlens Google Lens For | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
+| fegckejpfnlmfgkfjpinlbgmeeijjkel | Rapidlens Google Lens For | Bundling Unwanted Software | Store Monitoring | 08/06/26 | Yes |
 | cjkcloaoljficalpjnfcfhlobidchoee | Muted Peak – Privacy Mini | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
 | oondabmhecdagnndhjhgnhhhnninpagc | Gemini Studio App | Policy Violation | Store Monitoring | 08/06/26 | No |
 | kkncndflgbbnkghpcgfffocholgapjdn | Cherry Quartz – Crisp Min | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
 | jbchggkplbejdkfjmjmljlennabobicd | Arctic Light – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
-| ohkakacjaddkccagpciddgcjjbbpcgfl | ohkakacjaddkccagpciddgcjjbbpcgfl | Malware | [malext.io](https://malext.io/reports/WaSteal) | 08/06/26 | No |
-| kpmanggilaiabhnclachbaiichkmefgd | kpmanggilaiabhnclachbaiichkmefgd | Malware | [malext.io](https://malext.io/reports/WaSteal) | 08/06/26 | No |
+| ohkakacjaddkccagpciddgcjjbbpcgfl | Lightiius CRM una herramienta que los equipos de ventas aman usar | Malware | [malext.io](https://malext.io/reports/WaSteal) | 08/06/26 | No |
+| kpmanggilaiabhnclachbaiichkmefgd | waCluster : Organize, automatize e decole nas vendas | Malware | [malext.io](https://malext.io/reports/WaSteal) | 08/06/26 | No |
 | olhagmdfojhfdbfgmiofiofnifcmehdb | Backlink Generator | Bundling Unwanted Software | Store Monitoring | 07/06/26 | No |
 | ifjpckpobbeicleibehpnibjbedkccgc | Viral247 20 | Bundling Unwanted Software | Store Monitoring | 07/06/26 | No |
 | dhghkolonchibindgpmlhobbpeicncin | Etivi: Inteligencia Artificial para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal) | 07/06/26 | No |
@@ -98,7 +113,7 @@
 | nidohejabglninpoocnnofnaelpanemm | Flappy Bird Unblocked Gam | Bundling Unwanted Software | Store Monitoring | 04/06/26 | No |
 | ifefblgoeemkijmgkhpgncjejdelepbn | Gangster Spongebob Live W | Policy Violation | Store Monitoring | 04/06/26 | No |
 | nblmojeghhciehfmjondiechgchfdfea | Wilds Ai Universal Ai Cha | Policy Violation | Store Monitoring | 04/06/26 | No |
-| fmhjcgenmdfimclabejelnekafngjlia | Safe Suggest for Chrome | Adware | [x.com](https://x.com/tuckner/status/2062185526803792363) | 03/06/26 | No |
+| fmhjcgenmdfimclabejelnekafngjlia | Safe Suggest for Chrome | Search-Hijacker | [x.com](https://x.com/tuckner/status/2062185526803792363) | 03/06/26 | No |
 | fecehalniaflikmpfadpiniiaocckhpd | Tyrannosaurus Rex | Policy Violation | Store Monitoring | 03/06/26 | No |
 | pkmjadcejhbaahnlaooacmfkfflpkcic | Outer Space Wallpaper: Stunning Galaxy New Tab | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
 | gpkgjopaiakcnokecmocecnbpghkkjhg | Brook One Piece Neon Requiem Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
