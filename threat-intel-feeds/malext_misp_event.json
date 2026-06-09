@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-06-09",
-    "timestamp": "1780993825",
+    "timestamp": "1780998452",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -158,19 +158,279 @@
         "distribution": "5"
       },
       {
-        "uuid": "16b6d0dd-8d63-5835-8b54-8df6f5c729e0",
+        "uuid": "eee9fc69-265f-52d2-b43e-00fc58866c58",
         "type": "text",
         "category": "Other",
         "to_ids": false,
-        "value": "hodgcolihbmeagfcfpdfpnapfflmpbkb",
-        "comment": "Search Toggler | Source: https://chromewebstore.google.com/detail/hodgcolihbmeagfcfpdfpnapfflmpbkb | Added: 2026-06-08",
+        "value": "efakcomgmimcekdejnoafmmbgnpdhdfm",
+        "comment": "Video Search Extension | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://chromewebstore.google.com/detail/hodgcolihbmeagfcfpdfpnapfflmpbkb\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "8597cfec-34c0-54d8-8741-d8c5f98e87f7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/efakcomgmimcekdejnoafmmbgnpdhdfm",
+        "comment": "Chrome Web Store entry for Video Search Extension (efakcomgmimcekdejnoafmmbgnpdhdfm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a2ddf1e7-370d-5e74-a699-12dad5b86493",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dllhnjhfilgcjopkgdekmdmfilpfceig",
+        "comment": "Surfer Search | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "19684230-9708-535c-8a06-4455ba892496",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dllhnjhfilgcjopkgdekmdmfilpfceig",
+        "comment": "Chrome Web Store entry for Surfer Search (dllhnjhfilgcjopkgdekmdmfilpfceig)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "397ef100-d1b4-5a6e-aac3-97418bbdc04c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "akimdaijebpdfojiohhimbebkdigkccj",
+        "comment": "SearchThatWeb | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "b14601ff-95fa-5318-ac5f-e7990a2417ac",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/akimdaijebpdfojiohhimbebkdigkccj",
+        "comment": "Chrome Web Store entry for SearchThatWeb (akimdaijebpdfojiohhimbebkdigkccj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2bc5af16-e4e0-59d3-937a-e82fc54f683f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bgliakflmjnofiolfmnbncdmgfnibgnj",
+        "comment": "Wanderlustar | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "b2617c07-d4be-5f4b-a765-f2f763e8d8a9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bgliakflmjnofiolfmnbncdmgfnibgnj",
+        "comment": "Chrome Web Store entry for Wanderlustar (bgliakflmjnofiolfmnbncdmgfnibgnj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "59220bf4-6043-5574-875f-bdbda88729f5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cpmjnpalighpdecgankobogpcmbceaig",
+        "comment": "Easy Login | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "7b2cccd9-e6ec-526b-b5c6-ccf6abc3b5bf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cpmjnpalighpdecgankobogpcmbceaig",
+        "comment": "Chrome Web Store entry for Easy Login (cpmjnpalighpdecgankobogpcmbceaig)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a4af80d9-69bf-56ad-8f3d-d86aad4f9cd5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eeejfmalgedffijdepcdmgemfnadjefe",
+        "comment": "My Focal Find | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "b4642cf1-a2fd-5fe1-9cf5-a5ed285fd481",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eeejfmalgedffijdepcdmgemfnadjefe",
+        "comment": "Chrome Web Store entry for My Focal Find (eeejfmalgedffijdepcdmgemfnadjefe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ec6c62bc-dc22-55cc-a52c-08b2f74f6325",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gmapdckphdmbafmmcfoahhgoogdjeell",
+        "comment": "Get Maps & Driving Directions | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "744b637c-29ec-50b8-bc5a-39b254129f2a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gmapdckphdmbafmmcfoahhgoogdjeell",
+        "comment": "Chrome Web Store entry for Get Maps & Driving Directions (gmapdckphdmbafmmcfoahhgoogdjeell)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "21624c02-0a83-522c-9133-2e016aeefe73",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odafhekandnacimkenmaagnoemnpaakk",
+        "comment": "Search Anything | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "8144c1f8-e90a-5f36-96f6-dcc6d09c1770",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/odafhekandnacimkenmaagnoemnpaakk",
+        "comment": "Chrome Web Store entry for Search Anything (odafhekandnacimkenmaagnoemnpaakk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "53eee5a1-4a86-5092-b2ff-b762f1999d54",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jgoihmjphghpnjedflgemmhjdaogimad",
+        "comment": "Satelliten Earth | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "f5ec2368-735d-57fa-a074-c0ef845132c9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jgoihmjphghpnjedflgemmhjdaogimad",
+        "comment": "Chrome Web Store entry for Satelliten Earth (jgoihmjphghpnjedflgemmhjdaogimad)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c7558fd7-9493-5366-960f-d57e0af8ea01",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hnfdneofpohlkoeljnmkdocokcdkjiaa",
+        "comment": "Earth | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "2a7ade53-0b75-56a3-b809-647ec66c176a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hnfdneofpohlkoeljnmkdocokcdkjiaa",
+        "comment": "Chrome Web Store entry for Earth (hnfdneofpohlkoeljnmkdocokcdkjiaa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "16b6d0dd-8d63-5835-8b54-8df6f5c729e0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hodgcolihbmeagfcfpdfpnapfflmpbkb",
+        "comment": "Search Toggler | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
           }
         ]
       },
@@ -189,14 +449,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "ijbmkpeacbkgpfkomjbionjgdhbmlpfp",
-        "comment": "View Menu with Prices | Source: https://chromewebstore.google.com/detail/ijbmkpeacbkgpfkomjbionjgdhbmlpfp | Added: 2026-06-08",
+        "comment": "View Menu with Prices | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://chromewebstore.google.com/detail/ijbmkpeacbkgpfkomjbionjgdhbmlpfp\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
           }
         ]
       },
@@ -215,14 +475,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "jeookppofphgjnhjkifeejcmjbpiogka",
-        "comment": "Fresh Fruit Search | Source: https://chromewebstore.google.com/detail/jeookppofphgjnhjkifeejcmjbpiogka | Added: 2026-06-08",
+        "comment": "Fresh Fruit Search | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://chromewebstore.google.com/detail/jeookppofphgjnhjkifeejcmjbpiogka\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
           }
         ]
       },
@@ -241,14 +501,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "kbobdmmjbaljcombpliahadgoafgohcd",
-        "comment": "Earth 3D | Source: https://chromewebstore.google.com/detail/kbobdmmjbaljcombpliahadgoafgohcd | Added: 2026-06-08",
+        "comment": "Earth 3D | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://chromewebstore.google.com/detail/kbobdmmjbaljcombpliahadgoafgohcd\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
           }
         ]
       },
@@ -267,14 +527,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "keadechokmcohlcampccppbjjeabghcd",
-        "comment": "Quick Search Tool | Source: https://chromewebstore.google.com/detail/keadechokmcohlcampccppbjjeabghcd | Added: 2026-06-08",
+        "comment": "Quick Search Tool | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://chromewebstore.google.com/detail/keadechokmcohlcampccppbjjeabghcd\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
           }
         ]
       },
@@ -293,14 +553,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "mccmkaicbneobeclkbloeoopcfeipmio",
-        "comment": "Great Start | Source: https://chromewebstore.google.com/detail/mccmkaicbneobeclkbloeoopcfeipmio | Added: 2026-06-08",
+        "comment": "Great Start | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://chromewebstore.google.com/detail/mccmkaicbneobeclkbloeoopcfeipmio\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
           }
         ]
       },
@@ -319,14 +579,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "hohedjmdoemgcpgdapepfhnilbedldnm",
-        "comment": "PerfecTab Search | Source: https://chromewebstore.google.com/detail/hohedjmdoemgcpgdapepfhnilbedldnm | Added: 2026-06-08",
+        "comment": "PerfecTab Search | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://chromewebstore.google.com/detail/hohedjmdoemgcpgdapepfhnilbedldnm\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
           }
         ]
       },
@@ -345,14 +605,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "flcaigefphghbcgbmfngbfdgipdflfpn",
-        "comment": "Nautilus Search | Source: https://chromewebstore.google.com/detail/flcaigefphghbcgbmfngbfdgipdflfpn | Added: 2026-06-08",
+        "comment": "Nautilus Search | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://chromewebstore.google.com/detail/flcaigefphghbcgbmfngbfdgipdflfpn\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
           }
         ]
       },
@@ -371,14 +631,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "elamodccgcmdfkhnbfipinlfcedfpkjd",
-        "comment": "Web Translator | Source: https://chromewebstore.google.com/detail/elamodccgcmdfkhnbfipinlfcedfpkjd | Added: 2026-06-08",
+        "comment": "Web Translator | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://chromewebstore.google.com/detail/elamodccgcmdfkhnbfipinlfcedfpkjd\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
           }
         ]
       },
@@ -397,14 +657,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "pookachmhghnpgjhebhilcidgdphdlhi",
-        "comment": "NewTab. Search | Source: https://chromewebstore.google.com/detail/pookachmhghnpgjhebhilcidgdphdlhi | Added: 2026-06-08",
+        "comment": "NewTab. Search | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-08",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://chromewebstore.google.com/detail/pookachmhghnpgjhebhilcidgdphdlhi\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
           }
         ]
       },
