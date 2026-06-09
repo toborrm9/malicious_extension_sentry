@@ -5,16 +5,26 @@
 | napnmdhmhlfpopiapoogcbpbeekfepnk | Tether Land Usdttoman Rat | Policy Violation | Store Monitoring | 09/06/26 | No |
 | pnjifegilbcoeffpbfickagedipiepcc | Usdt Local Currency Conve | Policy Violation | Store Monitoring | 09/06/26 | No |
 | olceochjkfofojkjjbgmjlbhcclgfegi | Metric Flow Website Traff | Bundling Unwanted Software | Store Monitoring | 09/06/26 | No |
-| hodgcolihbmeagfcfpdfpnapfflmpbkb | Search Toggler | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/hodgcolihbmeagfcfpdfpnapfflmpbkb) | 08/06/26 | No |
-| ijbmkpeacbkgpfkomjbionjgdhbmlpfp | View Menu with Prices | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/ijbmkpeacbkgpfkomjbionjgdhbmlpfp) | 08/06/26 | No |
-| jeookppofphgjnhjkifeejcmjbpiogka | Fresh Fruit Search | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/jeookppofphgjnhjkifeejcmjbpiogka) | 08/06/26 | No |
-| kbobdmmjbaljcombpliahadgoafgohcd | Earth 3D | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/kbobdmmjbaljcombpliahadgoafgohcd) | 08/06/26 | No |
-| keadechokmcohlcampccppbjjeabghcd | Quick Search Tool | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/keadechokmcohlcampccppbjjeabghcd) | 08/06/26 | No |
-| mccmkaicbneobeclkbloeoopcfeipmio | Great Start | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/mccmkaicbneobeclkbloeoopcfeipmio) | 08/06/26 | No |
-| hohedjmdoemgcpgdapepfhnilbedldnm | PerfecTab Search | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/hohedjmdoemgcpgdapepfhnilbedldnm) | 08/06/26 | No |
-| flcaigefphghbcgbmfngbfdgipdflfpn | Nautilus Search | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/flcaigefphghbcgbmfngbfdgipdflfpn) | 08/06/26 | No |
-| elamodccgcmdfkhnbfipinlfcedfpkjd | Web Translator | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/elamodccgcmdfkhnbfipinlfcedfpkjd) | 08/06/26 | No |
-| pookachmhghnpgjhebhilcidgdphdlhi | NewTab. Search | Search-Hijacker | [chromewebstore.google.com](https://chromewebstore.google.com/detail/pookachmhghnpgjhebhilcidgdphdlhi) | 08/06/26 | No |
+| efakcomgmimcekdejnoafmmbgnpdhdfm | Video Search Extension | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| dllhnjhfilgcjopkgdekmdmfilpfceig | Surfer Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| akimdaijebpdfojiohhimbebkdigkccj | SearchThatWeb | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| bgliakflmjnofiolfmnbncdmgfnibgnj | Wanderlustar | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| cpmjnpalighpdecgankobogpcmbceaig | Easy Login | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| eeejfmalgedffijdepcdmgemfnadjefe | My Focal Find | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| gmapdckphdmbafmmcfoahhgoogdjeell | Get Maps & Driving Directions | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| odafhekandnacimkenmaagnoemnpaakk | Search Anything | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| jgoihmjphghpnjedflgemmhjdaogimad | Satelliten Earth | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| hnfdneofpohlkoeljnmkdocokcdkjiaa | Earth | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| hodgcolihbmeagfcfpdfpnapfflmpbkb | Search Toggler | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| ijbmkpeacbkgpfkomjbionjgdhbmlpfp | View Menu with Prices | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| jeookppofphgjnhjkifeejcmjbpiogka | Fresh Fruit Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| kbobdmmjbaljcombpliahadgoafgohcd | Earth 3D | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| keadechokmcohlcampccppbjjeabghcd | Quick Search Tool | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| mccmkaicbneobeclkbloeoopcfeipmio | Great Start | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| hohedjmdoemgcpgdapepfhnilbedldnm | PerfecTab Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| flcaigefphghbcgbmfngbfdgipdflfpn | Nautilus Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| elamodccgcmdfkhnbfipinlfcedfpkjd | Web Translator | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
+| pookachmhghnpgjhebhilcidgdphdlhi | NewTab. Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
 | ododhdcefemfdbnidbeipjpjaehadjen | Fusebase Search | Search-Hijacker | [x.com](https://x.com/toborrm9/status/2064010945672753239) | 08/06/26 | No |
 | ambejdgmdngkcklopenkibdlfcdepeda | Cold Horizon – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
 | kikfbiidffiafdopccfloamajafffloh | Alpine Night – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No |
