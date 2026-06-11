@@ -1,9 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| foclfgnekdbdnbgmcppbjcomfjlkkend | Gojo Hollow Purple Unlimi | Policy Violation | Store Monitoring | 11/06/26 | No |
+| dnecbjafdbhglkjafmmecbbgnnmnjgcl | Bouga Forest Nature Theme | Bundling Unwanted Software | Store Monitoring | 11/06/26 | No |
+| bjohakfbbmdcjemnfhiamldincebhahd | Whatsapp Ai Assistant | Policy Violation | Store Monitoring | 11/06/26 | No |
+| hnojbocihedjebbgklomegaaacgnppnb | Shades Of Sea Foam Chrome | Policy Violation | Store Monitoring | 11/06/26 | No |
+| ohldfpiabdaaplbckgelngaafjnnfooa | Akra Forest Nature Theme | Bundling Unwanted Software | Store Monitoring | 11/06/26 | No |
+| fbjchilklljgiblhnginnnnbkidahlpp | Gia DụNg ThôNg Minh | Policy Violation | Store Monitoring | 11/06/26 | No |
 | lflpoohnikdcjjphblgklcdepmdppodc | Ocean Floor | Bundling Unwanted Software | Store Monitoring | 10/06/26 | No |
 | ddgpfibimgakpgiocpcmjamaeonmdekk | Bupper | Malware | Store Monitoring | 10/06/26 | No |
 | mkogghicjhcnifdeifdmookogkgkgkpl | Phantom Evm Wallet | Malware | Store Monitoring | 10/06/26 | No |
-| joglkiagmlpbmicjghnmogafgdkpocdj | Whato Crm Para Whatsapp A | Malware | Store Monitoring | 10/06/26 | No |
+| joglkiagmlpbmicjghnmogafgdkpocdj | Whato Crm Para Whatsapp A | Malware | Store Monitoring | 10/06/26 | Yes |
 | klcmflffoclcdanbppbncklcmijhheei | Trust Wallet Crypto Bitco | Malware | Store Monitoring | 10/06/26 | No |
 | dpjlbppflmbpeeckamkijciappghoecf | Silent Ridge – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 10/06/26 | No |
 | lfgghinmeolmgfjhiagapdjfgcaepnlg | Glacier Path – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 10/06/26 | No |
@@ -24,6 +30,7 @@
 | napnmdhmhlfpopiapoogcbpbeekfepnk | Tether Land Usdttoman Rat | Policy Violation | Store Monitoring | 09/06/26 | No |
 | pnjifegilbcoeffpbfickagedipiepcc | Usdt Local Currency Conve | Policy Violation | Store Monitoring | 09/06/26 | No |
 | olceochjkfofojkjjbgmjlbhcclgfegi | Metric Flow Website Traff | Bundling Unwanted Software | Store Monitoring | 09/06/26 | No |
+| ajeffabgdodbbdngakbpafbggnoegdjd | Wellshared Ai | Policy Violation | Store Monitoring | 08/06/26 | No |
 | efakcomgmimcekdejnoafmmbgnpdhdfm | Video Search Extension | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
 | dllhnjhfilgcjopkgdekmdmfilpfceig | Surfer Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
 | akimdaijebpdfojiohhimbebkdigkccj | SearchThatWeb | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
@@ -79,7 +86,8 @@
 | dhghkolonchibindgpmlhobbpeicncin | Etivi: Inteligencia Artificial para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal) | 07/06/26 | No |
 | bpjhhjboiagpamldnmjdmjadhajipicf | ChatzyCRM: Todo lo que necesitas en un solo CRM para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal) | 07/06/26 | No |
 | eelhhhonggaobhpgighgkoggopilndpe | Kentro | Malware | Store Monitoring | 07/06/26 | No |
-| ppjmnaahknldjkafeameogglnioejdek | First Vpn – ücretsiz Vpn | Malware | Store Monitoring | 06/06/26 | No |
+| mnionjbkgmjkplejhkadhcpkipilhfbn | Gmail Ai Email Optimizer | Policy Violation | Store Monitoring | 06/06/26 | No |
+| ppjmnaahknldjkafeameogglnioejdek | First Vpn – ücretsiz Vpn | Malware | Store Monitoring | 06/06/26 | Yes |
 | aihkhafnbpomjadbkobpnojmojgcilah | Pdf Forge | Policy Violation | Store Monitoring | 06/06/26 | No |
 | pdipfjbbcpjhjmopccfelpnddghaignh | Bloomhaven Floral Calm | Bundling Unwanted Software | Store Monitoring | 06/06/26 | No |
 | haknfnkmocppagbbdbppekffejheablk | Aqtos E Faktura Signing B | Policy Violation | Store Monitoring | 06/06/26 | No |
@@ -212,6 +220,7 @@
 | dligcnabijlnmgbamdiakeoencoomaef | K-Pop Demon Huntrix Males Greeting You Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
 | adiolfenpimdeonhngpkbjbjjcopdfdp | Fushiguro Toji Hanging Jujutsu Kaisen Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
 | enbiohidhjmepichhkjgbgppabjembml | The Iconic Power of Spiderman Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
+| odojhfjdjpdnmpljdmnchekhgjjfjfap | Analyse Ai | Policy Violation | Store Monitoring | 02/06/26 | No |
 | jnghfafinjlkhgfbphnldgchmbahkjma | WhatsBlast — WhatsApp Bulk Sender + CRM \| Leadgrabr | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
 | infdfjcbjihebhibnkohpfpclobngahk | LoqueFácil - WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
 | ojhkplldlhhldmdfdpcmnfjmkbokplom | Iagents - WhatsApp Marketing | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
@@ -269,7 +278,7 @@
 | ikaghjdimdplapmfhnjnjmepnjnlmpdd | BC ZAP | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
 | fipcjgnajmkjnnofhejohblljnifhldi | WaLeads | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
 | ndhmbgnnienbmkefelhnaodahpjgpnnk | Easy Group Contact Extractor for WhatsApp© | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
-| gjpbfemadlcjhmadmmamocpapdacpmci | Wa Workflow | Malware | Store Monitoring | 01/06/26 | No |
+| gjpbfemadlcjhmadmmamocpapdacpmci | Wa Workflow | Malware | Store Monitoring | 01/06/26 | Yes |
 | miopoagbelhjmaaebgmckcggcopegdfd | Rolodex | Policy Violation | Store Monitoring | 01/06/26 | No |
 | dhlkplajpmgbhoekgkojenhkkchfcdlm | Tiktok To Mp3 | Policy Violation | Store Monitoring | 01/06/26 | No |
 | clemjlmoafddhamjmokmbkjooodmgldd | Tiktok Watermelon Games | Policy Violation | Store Monitoring | 01/06/26 | No |
@@ -649,7 +658,7 @@
 | flfjappofhfkljghalmpfnnhllokpami | WORKZAP | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
 | pihbjpjjgpejkbjmpijpmmolaehlbafc | talkspeed | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
 | apfijngnajkcaejadecbcjkgikabibln | Rospin | Malware | Store Monitoring | 13/05/26 | No |
-| fahikdbdkkgmmfdiljkjghllmdbfbjem | Botstar Crm | Malware | Store Monitoring | 12/05/26 | No |
+| fahikdbdkkgmmfdiljkjghllmdbfbjem | Botstar Crm | Malware | Store Monitoring | 12/05/26 | Yes |
 | inbmcaiilhlpeepmlenjhnblgflmknme | Clipbear | Policy Violation | Store Monitoring | 12/05/26 | No |
 | dhekojmaelacgbmbhfibfgaeinmfmaej | Sol Phantom App | Policy Violation | Store Monitoring | 12/05/26 | No |
 | clglplmhjdibddcnnhdljjpnoaomjgnc | Chatgpt Ai | Policy Violation | Store Monitoring | 12/05/26 | No |
@@ -1248,6 +1257,7 @@
 | pcjlckhhhmlefmobnnoolakplfppdchi | Ad Speedup - Skip Video Ads 16X Faster | Malware | Store Monitoring | 12/03/26 | Yes |
 | dmfccdhbfjmpgaldefnfeeknjfdnlbhe | SpongeBob Robotic Rampage Chase Live Wallpaper 4K | Policy Violation | Store Monitoring | 12/03/26 | No |
 | pgefggfhmhmndhcdjaleikagdjmmoame | PARROT: Web3 Content Social Protocol | Policy Violation | Store Monitoring | 12/03/26 | No |
+| giiedinejlhaaeibpbbjfdfhbieidffb | Toyota Supra Mk4 Jdm Drif | Policy Violation | Store Monitoring | 11/03/26 | No |
 | blbojpnmaccebncdogamdagnmbpfjnfb | Chromaflow Pro — Color To | Malware | Store Monitoring | 11/03/26 | No |
 | pfdmleklaejjccgfhoeafapbhkjipcnj | Google AI | Policy Violation | Store Monitoring | 11/03/26 | No |
 | kojhnafkiednagnljfgakalcbfbklbdk | Kondo | Policy Violation | Store Monitoring | 11/03/26 | No |
