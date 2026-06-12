@@ -1,5 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| bnpijdddmeckfgcfffkjmdegiacmnbjf | Neon Goku Power Aura Live | Policy Violation | Store Monitoring | 12/06/26 | No |
+| bdlholhlpkomooecbhclfnmjkilldepk | Jedi Pikachu Live Wallpap | Policy Violation | Store Monitoring | 12/06/26 | No |
+| hmendgjdcgeibkblgdafglfphbofodgb | Arctic White | Bundling Unwanted Software | Store Monitoring | 12/06/26 | No |
+| hjickfkihmdpamkngfnfooagdnmeapam | Ellen Joe Graffiti Zenles | Policy Violation | Store Monitoring | 12/06/26 | No |
+| gcniiodebhmkkehgbbdnjcaahphhmcje | Ai 标签页自动分类 | Policy Violation | Store Monitoring | 12/06/26 | No |
+| nicpggfmdkbholadekhjlilmmiegdgep | Vemai Extension | Policy Violation | Store Monitoring | 12/06/26 | No |
+| ikbdmojhlcompeelbpbhdaiomfgdeanf | Cherry Red | Bundling Unwanted Software | Store Monitoring | 12/06/26 | No |
+| cimdidfalaihjffeflblihcahdmlomca | Ai Assistant Sidebar | Policy Violation | Store Monitoring | 12/06/26 | No |
+| kmmdmkjgkonecmjmgffhkompeccbocak | Yoda Vs Pikachu Battle Li | Policy Violation | Store Monitoring | 12/06/26 | No |
+| nfckcgaifmoekimpjclcchlmdbpiincb | Txt Encryptdecrypt | Bundling Unwanted Software | Store Monitoring | 12/06/26 | No |
+| icodfpiopeekhmcjohmglciaipnlobmi | Ciao | Policy Violation | Store Monitoring | 11/06/26 | No |
 | foclfgnekdbdnbgmcppbjcomfjlkkend | Gojo Hollow Purple Unlimi | Policy Violation | Store Monitoring | 11/06/26 | No |
 | dnecbjafdbhglkjafmmecbbgnnmnjgcl | Bouga Forest Nature Theme | Bundling Unwanted Software | Store Monitoring | 11/06/26 | No |
 | bjohakfbbmdcjemnfhiamldincebhahd | Whatsapp Ai Assistant | Policy Violation | Store Monitoring | 11/06/26 | No |
@@ -30,6 +41,7 @@
 | napnmdhmhlfpopiapoogcbpbeekfepnk | Tether Land Usdttoman Rat | Policy Violation | Store Monitoring | 09/06/26 | No |
 | pnjifegilbcoeffpbfickagedipiepcc | Usdt Local Currency Conve | Policy Violation | Store Monitoring | 09/06/26 | No |
 | olceochjkfofojkjjbgmjlbhcclgfegi | Metric Flow Website Traff | Bundling Unwanted Software | Store Monitoring | 09/06/26 | No |
+| hijojcbgihiflicpigcjnigfookfgfnl | Linkedin Thought Partner | Policy Violation | Store Monitoring | 08/06/26 | No |
 | ajeffabgdodbbdngakbpafbggnoegdjd | Wellshared Ai | Policy Violation | Store Monitoring | 08/06/26 | No |
 | efakcomgmimcekdejnoafmmbgnpdhdfm | Video Search Extension | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
 | dllhnjhfilgcjopkgdekmdmfilpfceig | Surfer Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
@@ -717,9 +729,9 @@
 | peiibhfbdkgnbepgobjcgabkcfembndm | Free Chatgpt For Google C | Policy Violation | Store Monitoring | 01/05/26 | No |
 | kpbihpkcpnfnjddplngmbljcfofjgejh | Chatgpt Notifier | Policy Violation | Store Monitoring | 01/05/26 | No |
 | nbflcljmdbibeoaipongjgfmbapanipm | Anker AIME Copilot | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
-| ljlhpcabhpjdlcjhbmgjigfceppgabmk | Notion中文版 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | Yes |
+| ljlhpcabhpjdlcjhbmgjigfceppgabmk | Notion中文版 | Policy Violation | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | Yes |
 | pdahnbohfcekobflehebdkoemnmmempk | Notion中文版 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | Yes |
-| jndldoeopjgmpakgmieaeeelhnjnfgkj | NotionAI插件 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
+| jndldoeopjgmpakgmieaeeelhnjnfgkj | NotionAI插件 | Policy Violation | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
 | jhhjbaicgmecddbaobeobkikgmfffaeg | Chat AI for Chrome | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
 | hmkcidjcpomiegnklmplkimmbcbklglb | Adobe Express: AI Photo, Video | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
 | dcjfbgppfdokmjgajnnkgdmkdeiloigh | Picsart: AI Photo Video Editor | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
@@ -1124,7 +1136,7 @@
 | mjhocphphjjjcabfdcaemfkokegeebbg | TikTok Leads | Policy Violation | Store Monitoring | 07/04/26 | No |
 | cgnnmgjmhhmemkmdcckoofobpdejpjef | Precision LinkedIn Integration | Policy Violation | Store Monitoring | 07/04/26 | No |
 | cghdjcdmopohjlogglcbocjldjhjlddg | BizWik | Policy Violation | Store Monitoring | 07/04/26 | No |
-| gogbiohkminacikoppmljeolgccpmlop | Color Picker - Eyedropper Tool | Malware | [cyberinsider.com](https://cyberinsider.com/author/alexlekander/) | 07/04/26 | Yes |
+| gogbiohkminacikoppmljeolgccpmlop | Color Picker - Eyedropper Tool | Malware | [x.com](https://x.com/tuckner/status/2039777577452155131) | 07/04/26 | Yes |
 | bgkijgmoikigljbbfokahemdnhilkkma | Shield Linkedin Analytics | Policy Violation | Store Monitoring | 07/04/26 | No |
 | bogbhacoalfapopgbgfoencdpdkmdlpk | 宙斯zeus回国加速器 海外华人免费回国追剧听歌 | Policy Violation | Store Monitoring | 07/04/26 | No |
 | bbdejfjnpbdjbdnibpmiegbdfbngbahn | Minecraft Shrek Riding Pi | Policy Violation | Store Monitoring | 07/04/26 | No |
@@ -1239,6 +1251,9 @@
 | ekfbpedkallblckjgijmibabfcacgjhl | YouTube Search Fixer | Policy Violation | Store Monitoring | 18/03/26 | No |
 | aeljhijhiagepppblonkhhnnmmknmnll | Wallet Connect View Tracker | Malware | Store Monitoring | 18/03/26 | No |
 | jdfhogfabmocclgjnkfhokhaoecbmijj | Hill Climb Racing Unblocked | Policy Violation | Store Monitoring | 17/03/26 | No |
+| ngmilafilmgaaakgpfidkemhgnkpjhgp | My Neighbor Totoro Miminz | Policy Violation | Store Monitoring | 16/03/26 | No |
+| cebmijijkjemmegifoadaanhodfeddcg | Kit Migration Ia | Policy Violation | Store Monitoring | 16/03/26 | No |
+| nafnnninigileeoadpbggkmnodiiefjp | Leon Resident Evil 9 Requ | Policy Violation | Store Monitoring | 16/03/26 | No |
 | ekhmddbpfelhdicnhkomdopnnbkchddc | AutoGemini - Gemini/AIStudio/Flow auto creator (Nano Banana Pro/Veo 3.1) | Policy Violation | Store Monitoring | 15/03/26 | No |
 | lmopfmpfoonboglmipmjafcnbphgefjb | Crypto Price Coin Tracker | Malware | Store Monitoring | 14/03/26 | No |
 | bgnjnfoiglionjogebklhhhknbmlocpn | Gua­­rda Cr­yp­to W­al­let | Malware | Store Monitoring | 14/03/26 | No |
@@ -1257,6 +1272,7 @@
 | pcjlckhhhmlefmobnnoolakplfppdchi | Ad Speedup - Skip Video Ads 16X Faster | Malware | Store Monitoring | 12/03/26 | Yes |
 | dmfccdhbfjmpgaldefnfeeknjfdnlbhe | SpongeBob Robotic Rampage Chase Live Wallpaper 4K | Policy Violation | Store Monitoring | 12/03/26 | No |
 | pgefggfhmhmndhcdjaleikagdjmmoame | PARROT: Web3 Content Social Protocol | Policy Violation | Store Monitoring | 12/03/26 | No |
+| jonfhhejejpomjihccjdknlpfjjggohd | Bmw I7 Neon Red Cyberpunk | Policy Violation | Store Monitoring | 11/03/26 | No |
 | giiedinejlhaaeibpbbjfdfhbieidffb | Toyota Supra Mk4 Jdm Drif | Policy Violation | Store Monitoring | 11/03/26 | No |
 | blbojpnmaccebncdogamdagnmbpfjnfb | Chromaflow Pro — Color To | Malware | Store Monitoring | 11/03/26 | No |
 | pfdmleklaejjccgfhoeafapbhkjipcnj | Google AI | Policy Violation | Store Monitoring | 11/03/26 | No |
@@ -1508,7 +1524,7 @@
 | cmckpheolajgbmhlfhgelajhhfgjbhpk | WeTab Notes | Edge Extension | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No |
 | ckdbfeccfocmhdclmmofmheljglmhhne | 网盘资源全网搜索 | Edge Extension | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No |
 | cjlabngphhjjdapemkdnpgkpebkpjbbe | 答岸 | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No |
-| cicnbbdlbjaoioilpbdioeeaockgbhfi | Tabbs - Instant Search &amp; Tab Management | In store but Suspicious | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No |
+| cicnbbdlbjaoioilpbdioeeaockgbhfi | Tabbs - Instant Search & Tab Management | Bundling Unwanted Software | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No |
 | cfmfokegjjljmdcdpnmlfajlddngkoah | 潮汐 - 极简番茄钟与白噪音 | Edge Extension | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No |
 | cfgiodgnkinmacjkgjgdejeciohojglp | Webvideo FullScreen | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No |
 | cahdpfhnokmnnjhoaoliabdbcbbokmgc | Bing Rewards Assistant | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No |
@@ -1563,11 +1579,11 @@
 | hafhkoalnlpoifpidohfjlmeemfifndi | Grok AI | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | fgbieegonkgdlkmeaapmkejdlfalonkb | DeepSeek AI | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | aoemlgniakbojcecmjefonjkgnceklpg | Grok 4 | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
-| bdcimkinofohfmldheklgfbjkfehfdhl | Chat GPT 5 | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
+| bdcimkinofohfmldheklgfbjkfehfdhl | Chat GPT 5 | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | jlbpahgopcmomkgegpbmopfodolajhbl | ChatGPT for Chrome - GPT Search | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | hiiildgldbpfbegcfgemoliikibfhaeh | ChatGPT to PDF | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | fmncmpginchogfdnjfeopdopoiegjjjp | Search GPT for Chrome | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
-| mehpokgiebgcnelgnlfkeldlfnpdhdha | ChatGPT Extension | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
+| mehpokgiebgcnelgnlfkeldlfnpdhdha | ChatGPT Extension | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | feeonheemodpkdckaljcjogdncpiiban | Zuvu AI: The Ultimate AI Agent Sidebar for Google Search &amp; Beyond | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | adjiljljjoeielcjmafljkicjncjpbha | DeepSeek app | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | giaooddllfkkkblpaedgkhfmhocponbo | DeepSeek v3 | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
