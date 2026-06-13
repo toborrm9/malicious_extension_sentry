@@ -1,12 +1,40 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-12T15:56:46.802Z",
+  "generated": "2026-06-13T06:54:51.948Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 2245,
+  "total_indicators": 2251,
   "indicators": [
+    {
+      "extension_id": "dkkiccfndjjicfhjaoeeeiobbibnidmg",
+      "name": "Timeforge",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dkkiccfndjjicfhjaoeeeiobbibnidmg"
+    },
+    {
+      "extension_id": "hniliminddkboapeeogjbggeejepfmja",
+      "name": "Voyena",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hniliminddkboapeeogjbggeejepfmja"
+    },
+    {
+      "extension_id": "adlghoabcpmomlommpcemnobcpinjcgi",
+      "name": "Llm Ad Blocker",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/adlghoabcpmomlommpcemnobcpinjcgi"
+    },
+    {
+      "extension_id": "dabldgicbpmigbnfediggldlgdhcoljn",
+      "name": "Claude Mythos \u2014 AI Chat",
+      "source": "https://x.com/tuckner/status/2065614681880858908",
+      "insert_date": "2026-06-13",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dabldgicbpmigbnfediggldlgdhcoljn"
+    },
     {
       "extension_id": "bnpijdddmeckfgcfffkjmdegiacmnbjf",
       "name": "Neon Goku Power Aura Live",
@@ -1630,6 +1658,13 @@
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "insert_date": "2026-06-03",
       "chrome_store_url": "https://chromewebstore.google.com/detail/enbiohidhjmepichhkjgbgppabjembml"
+    },
+    {
+      "extension_id": "llngbpopjpkkcfighjknlaidcljibikm",
+      "name": "Clinicscribe Ai Soap Note",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-02",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/llngbpopjpkkcfighjknlaidcljibikm"
     },
     {
       "extension_id": "odojhfjdjpdnmpljdmnchekhgjjfjfap",
@@ -5025,6 +5060,13 @@
       "source": "Store Monitoring",
       "insert_date": "2026-05-04",
       "chrome_store_url": "https://chromewebstore.google.com/detail/phgjgflllnbdebkfocmmhnkaejofegfc"
+    },
+    {
+      "extension_id": "feijchaleglhnlfpjohapmbamlgcjeen",
+      "name": "Yin Yang Goth Girl Live W",
+      "source": "Store Monitoring",
+      "insert_date": "2026-05-03",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/feijchaleglhnlfpjohapmbamlgcjeen"
     },
     {
       "extension_id": "bhpghgoeaedhpmadepoadfbljmbhbikk",
