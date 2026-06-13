@@ -1,5 +1,9 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| dkkiccfndjjicfhjaoeeeiobbibnidmg | Timeforge | Malware | Store Monitoring | 13/06/26 | No |
+| hniliminddkboapeeogjbggeejepfmja | Voyena | Policy Violation | Store Monitoring | 13/06/26 | No |
+| adlghoabcpmomlommpcemnobcpinjcgi | Llm Ad Blocker | Policy Violation | Store Monitoring | 13/06/26 | No |
+| dabldgicbpmigbnfediggldlgdhcoljn | Claude Mythos — AI Chat | Policy Violation | [x.com](https://x.com/tuckner/status/2065614681880858908) | 13/06/26 | No |
 | bnpijdddmeckfgcfffkjmdegiacmnbjf | Neon Goku Power Aura Live | Policy Violation | Store Monitoring | 12/06/26 | No |
 | bdlholhlpkomooecbhclfnmjkilldepk | Jedi Pikachu Live Wallpap | Policy Violation | Store Monitoring | 12/06/26 | No |
 | hmendgjdcgeibkblgdafglfphbofodgb | Arctic White | Bundling Unwanted Software | Store Monitoring | 12/06/26 | No |
@@ -232,6 +236,7 @@
 | dligcnabijlnmgbamdiakeoencoomaef | K-Pop Demon Huntrix Males Greeting You Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
 | adiolfenpimdeonhngpkbjbjjcopdfdp | Fushiguro Toji Hanging Jujutsu Kaisen Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
 | enbiohidhjmepichhkjgbgppabjembml | The Iconic Power of Spiderman Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
+| llngbpopjpkkcfighjknlaidcljibikm | Clinicscribe Ai Soap Note | Policy Violation | Store Monitoring | 02/06/26 | No |
 | odojhfjdjpdnmpljdmnchekhgjjfjfap | Analyse Ai | Policy Violation | Store Monitoring | 02/06/26 | No |
 | jnghfafinjlkhgfbphnldgchmbahkjma | WhatsBlast — WhatsApp Bulk Sender + CRM \| Leadgrabr | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
 | infdfjcbjihebhibnkohpfpclobngahk | LoqueFácil - WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 02/06/26 | No |
@@ -717,6 +722,7 @@
 | jajikjbellknnfcomfjjinfjokihcfoi | Adblock for YouTube & Chrome - All Block | Policy Violation | Store Monitoring | 04/05/26 | No |
 | pcipiedhfiojjdbooghpmjanbpigcojb | Onetab Downloader | Policy Violation | Store Monitoring | 04/05/26 | No |
 | phgjgflllnbdebkfocmmhnkaejofegfc | Tronlink | Malware | Store Monitoring | 04/05/26 | Yes |
+| feijchaleglhnlfpjohapmbamlgcjeen | Yin Yang Goth Girl Live W | Policy Violation | Store Monitoring | 03/05/26 | No |
 | bhpghgoeaedhpmadepoadfbljmbhbikk | Drflare Reloaded | Policy Violation | Store Monitoring | 03/05/26 | No |
 | mbjjannikkfihddnepoionimbedjnbib | Prodigy Origin Prodigy Mo | Policy Violation | Store Monitoring | 03/05/26 | No |
 | hmldnpigepegofdmmmhbkgjmcnefpgig | Slazzer Free Image Backgr | Policy Violation | Store Monitoring | 02/05/26 | No |
