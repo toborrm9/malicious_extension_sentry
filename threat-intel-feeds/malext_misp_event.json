@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-12",
-    "timestamp": "1781279807",
+    "date": "2026-06-13",
+    "timestamp": "1781333692",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,110 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "6db7976a-de35-5cd0-9d0c-1a428a830a20",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dkkiccfndjjicfhjaoeeeiobbibnidmg",
+        "comment": "Timeforge | Source: Store Monitoring | Added: 2026-06-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1c8126cd-69e2-589c-a5ac-3aea1b090037",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dkkiccfndjjicfhjaoeeeiobbibnidmg",
+        "comment": "Chrome Web Store entry for Timeforge (dkkiccfndjjicfhjaoeeeiobbibnidmg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4a5a482f-0340-5a1b-b2d2-50bca37d0ed0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hniliminddkboapeeogjbggeejepfmja",
+        "comment": "Voyena | Source: Store Monitoring | Added: 2026-06-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "70004dee-8fef-5663-b3d1-ba8c580b97cb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hniliminddkboapeeogjbggeejepfmja",
+        "comment": "Chrome Web Store entry for Voyena (hniliminddkboapeeogjbggeejepfmja)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f4558d4b-9578-571b-a92d-145d19b59703",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adlghoabcpmomlommpcemnobcpinjcgi",
+        "comment": "Llm Ad Blocker | Source: Store Monitoring | Added: 2026-06-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ed73cbf0-9bbf-52a9-a28d-e85038bb77ab",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/adlghoabcpmomlommpcemnobcpinjcgi",
+        "comment": "Chrome Web Store entry for Llm Ad Blocker (adlghoabcpmomlommpcemnobcpinjcgi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2dc63dd1-20bd-5857-8c1f-7cf62e4bf6bc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dabldgicbpmigbnfediggldlgdhcoljn",
+        "comment": "Claude Mythos \u2014 AI Chat | Source: https://x.com/tuckner/status/2065614681880858908 | Added: 2026-06-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://x.com/tuckner/status/2065614681880858908\""
+          }
+        ]
+      },
+      {
+        "uuid": "53f565f7-74b0-5899-acb9-e10a8fd851e4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dabldgicbpmigbnfediggldlgdhcoljn",
+        "comment": "Chrome Web Store entry for Claude Mythos \u2014 AI Chat (dabldgicbpmigbnfediggldlgdhcoljn)",
+        "distribution": "5"
+      },
       {
         "uuid": "76f49fdf-5e27-59be-8931-10a8ff306c21",
         "type": "text",
@@ -6057,6 +6161,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/enbiohidhjmepichhkjgbgppabjembml",
         "comment": "Chrome Web Store entry for The Iconic Power of Spiderman Live Wallpaper (enbiohidhjmepichhkjgbgppabjembml)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ae5982fb-ec1c-5d85-80f8-ce51fff26fe9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "llngbpopjpkkcfighjknlaidcljibikm",
+        "comment": "Clinicscribe Ai Soap Note | Source: Store Monitoring | Added: 2026-06-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "69b34252-a780-53c5-a601-1707aad2a49a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/llngbpopjpkkcfighjknlaidcljibikm",
+        "comment": "Chrome Web Store entry for Clinicscribe Ai Soap Note (llngbpopjpkkcfighjknlaidcljibikm)",
         "distribution": "5"
       },
       {
@@ -18667,6 +18797,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/phgjgflllnbdebkfocmmhnkaejofegfc",
         "comment": "Chrome Web Store entry for Tronlink (phgjgflllnbdebkfocmmhnkaejofegfc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f0594628-86ce-599e-9ad0-f6c8aaa2a55f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "feijchaleglhnlfpjohapmbamlgcjeen",
+        "comment": "Yin Yang Goth Girl Live W | Source: Store Monitoring | Added: 2026-05-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b6e4a6cb-4d7b-5f44-936a-b08c635e42c4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/feijchaleglhnlfpjohapmbamlgcjeen",
+        "comment": "Chrome Web Store entry for Yin Yang Goth Girl Live W (feijchaleglhnlfpjohapmbamlgcjeen)",
         "distribution": "5"
       },
       {
