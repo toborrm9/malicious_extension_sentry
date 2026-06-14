@@ -1,5 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| gfkoidkeemcmjlckbceipakoibbhjnlm | Linkforce | Policy Violation | Store Monitoring | 14/06/26 | No |
+| eeeobhebgmpinalacmdmjhcpllniobok | Pikachu Wall Live Wallpaper | Policy Violation | Store Monitoring | 14/06/26 | No |
+| nccjanflkknfaflafkckpikdklmknacl | Pr Assistant | Policy Violation | Store Monitoring | 14/06/26 | No |
+| ccbogfjhjlbclkgglnmdjommgndhaack | Pokemon Wallpapers New Tab - Pikachu Backgrounds | Policy Violation | Store Monitoring | 14/06/26 | No |
+| dbndkjnehadiehfcodlmefnkapnfjfag | Bandlab音乐下载助手 | Policy Violation | Store Monitoring | 14/06/26 | No |
+| lhdmddhaknipdmjomnehlgkdggemjgcp | Anime Midnight Eyes Live Wallpaper | Policy Violation | Store Monitoring | 14/06/26 | No |
+| kicbgbfbjfmmbjaencmdomehodefcjbo | Bloom Water | Bundling Unwanted Software | Store Monitoring | 14/06/26 | No |
+| hkhnmndmapchnkaadlkmnjdfbpaiciop | PokéWeb - Cattura i Pokémon! | Policy Violation | Store Monitoring | 14/06/26 | No |
+| nlpigbgjblaooanffpingebmpnhaacoe | Popup Calculator — quick & modern | Bundling Unwanted Software | Store Monitoring | 14/06/26 | No |
+| konlobcfnmegfpfkcbifjmmpkpoffahp | BestSwipe – Best Card for Every Purchase | Policy Violation | Store Monitoring | 14/06/26 | No |
+| odbanhjffpnjgcbldodeakkmcafnhema | One Click Image Search | Search Hijacking | [github.com](https://github.com/toborrm9/malicious_extension_sentry/issues/23) | 14/06/26 | No |
 | jcbjcocinigpbgfpnhlpagidbmlngnnn | Adblock for Browser | Malware | [malext.io](https://malext.io/reports/PromptSnatcher/) | 13/06/26 | No |
 | iojpcjjdfhlcbgjnpngcmaojmlokmeii | Smart Adblocker | Malware | [malext.io](https://malext.io/reports/PromptSnatcher/) | 13/06/26 | No |
 | lfmanjgjccjkajbppaccimngmgfkoplf | lfmanjgjccjkajbppaccimngmgfkoplf | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/06/26 | No |
@@ -237,7 +248,7 @@
 | nidohejabglninpoocnnofnaelpanemm | Flappy Bird Unblocked Gam | Bundling Unwanted Software | Store Monitoring | 04/06/26 | No |
 | ifefblgoeemkijmgkhpgncjejdelepbn | Gangster Spongebob Live W | Policy Violation | Store Monitoring | 04/06/26 | No |
 | nblmojeghhciehfmjondiechgchfdfea | Wilds Ai Universal Ai Cha | Policy Violation | Store Monitoring | 04/06/26 | No |
-| fmhjcgenmdfimclabejelnekafngjlia | Safe Suggest for Chrome | Search-Hijacker | [x.com](https://x.com/tuckner/status/2062185526803792363) | 03/06/26 | No |
+| fmhjcgenmdfimclabejelnekafngjlia | Safe Suggest for Chrome | Search Hijacking | [x.com](https://x.com/tuckner/status/2062185526803792363) | 03/06/26 | No |
 | fecehalniaflikmpfadpiniiaocckhpd | Tyrannosaurus Rex | Policy Violation | Store Monitoring | 03/06/26 | No |
 | pkmjadcejhbaahnlaooacmfkfflpkcic | Outer Space Wallpaper: Stunning Galaxy New Tab | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
 | gpkgjopaiakcnokecmocecnbpghkkjhg | Brook One Piece Neon Requiem Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
@@ -267,7 +278,7 @@
 | ecbkfpnhjofeoimpihdlbcjcedjdllin | Bart Simpson Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
 | dhllmgbdfgblbeckhcidmbcamonplgmg | Sumikko Gurashi Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
 | klgebnlgcgpinhblnheofececjjaaofd | Lamborghini Veneno Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
-| liimhladbmdgppodfomkkcppkfbkmjbm | Assassin's Creed Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
+| liimhladbmdgppodfomkkcppkfbkmjbm | Assassin's Creed Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | Yes |
 | bfkaeaehpekfmfkbindbledlfcbammaa | Peach and Goma Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
 | hnhdhliichckphekkkgpopiicfdbcocc | Cristiano Ronaldo Ghibli Style Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
 | kocbandikoadlapjnhpgbimaoncpnkpi | Cinnamoroll Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 03/06/26 | No |
