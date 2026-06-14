@@ -74,6 +74,7 @@
 | nlpigbgjblaooanffpingebmpnhaacoe | Popup Calculator — quick & modern | Bundling Unwanted Software | Store Monitoring | 14/06/26 | No |
 | konlobcfnmegfpfkcbifjmmpkpoffahp | BestSwipe – Best Card for Every Purchase | Policy Violation | Store Monitoring | 14/06/26 | No |
 | odbanhjffpnjgcbldodeakkmcafnhema | One Click Image Search | Search Hijacking | [github.com](https://github.com/toborrm9/malicious_extension_sentry/issues/23) | 14/06/26 | No |
+| dbdepagkighkbanfbekijlemngklnnkc | Spider Solitaire Card Game online | Adware | [x.com](https://x.com/toborrm9/status/2066260684288016879) | 14/06/26 | No |
 | jcbjcocinigpbgfpnhlpagidbmlngnnn | Adblock for Browser | Malware | [malext.io](https://malext.io/reports/PromptSnatcher/) | 13/06/26 | No |
 | iojpcjjdfhlcbgjnpngcmaojmlokmeii | Smart Adblocker | Malware | [malext.io](https://malext.io/reports/PromptSnatcher/) | 13/06/26 | No |
 | lfmanjgjccjkajbppaccimngmgfkoplf | lfmanjgjccjkajbppaccimngmgfkoplf | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/06/26 | No |
@@ -99,7 +100,6 @@
 | dfobafbobbopdioajlmegdhjdddmahgo | Witch Hat Atelier Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/06/26 | No |
 | dfnmijehfiknkcddjpchgaikklmocfhi | Breezy Beach Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/06/26 | No |
 | dfnhdhcepihlpmnlfdogndjknbhjcmie | Sasuke Uchiha vs Naruto Uzumaki Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/06/26 | No |
-| dbdepagkighkbanfbekijlemngklnnkc | Spider Solitaire Card Game online | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/06/26 | No |
 | dadbcjjekodkjcbnlamfofljldfledia | Boston Bruins New Tab Extension | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/06/26 | No |
 | dabmofbfhddildficlpkhecknggdghip | Cyberpunk 2077 Samurai Jacket Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/06/26 | No |
 | colpdkhabhjnckcephjnceoijdppodjf | Frieren and Himmel Winter Journey Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/06/26 | No |
