@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-13",
-    "timestamp": "1781387668",
+    "date": "2026-06-14",
+    "timestamp": "1781458859",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,292 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "a6ecd691-8701-598d-959d-7ce3eed3748d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gfkoidkeemcmjlckbceipakoibbhjnlm",
+        "comment": "Linkforce | Source: Store Monitoring | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "00ca37b7-2ee6-5e74-9686-270d5adde52f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gfkoidkeemcmjlckbceipakoibbhjnlm",
+        "comment": "Chrome Web Store entry for Linkforce (gfkoidkeemcmjlckbceipakoibbhjnlm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2415466f-1979-5c83-bf3c-2c5ac0012b6e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eeeobhebgmpinalacmdmjhcpllniobok",
+        "comment": "Pikachu Wall Live Wallpaper | Source: Store Monitoring | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a4651dee-7d6a-52b0-a346-db3e48e442d6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eeeobhebgmpinalacmdmjhcpllniobok",
+        "comment": "Chrome Web Store entry for Pikachu Wall Live Wallpaper (eeeobhebgmpinalacmdmjhcpllniobok)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a9bc9b81-6d3a-5b78-8b17-70e175e3d281",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nccjanflkknfaflafkckpikdklmknacl",
+        "comment": "Pr Assistant | Source: Store Monitoring | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "2409f23a-84da-58a1-aaed-c9aa024c26f3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nccjanflkknfaflafkckpikdklmknacl",
+        "comment": "Chrome Web Store entry for Pr Assistant (nccjanflkknfaflafkckpikdklmknacl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f2d90778-87e9-50c7-883f-5ba447d1d4a5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ccbogfjhjlbclkgglnmdjommgndhaack",
+        "comment": "Pokemon Wallpapers New Tab - Pikachu Backgrounds | Source: Store Monitoring | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "26e9d8ac-2b28-5ebc-a57e-022aecb42830",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ccbogfjhjlbclkgglnmdjommgndhaack",
+        "comment": "Chrome Web Store entry for Pokemon Wallpapers New Tab - Pikachu Backgrounds (ccbogfjhjlbclkgglnmdjommgndhaack)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f9083331-6fe2-558a-b679-6ae28abc2fc9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dbndkjnehadiehfcodlmefnkapnfjfag",
+        "comment": "Bandlab\u97f3\u4e50\u4e0b\u8f7d\u52a9\u624b | Source: Store Monitoring | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b3017a89-fae2-5192-8343-37921dd49f78",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dbndkjnehadiehfcodlmefnkapnfjfag",
+        "comment": "Chrome Web Store entry for Bandlab\u97f3\u4e50\u4e0b\u8f7d\u52a9\u624b (dbndkjnehadiehfcodlmefnkapnfjfag)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cc4e3235-be0f-50b6-a560-ac1290b305c4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lhdmddhaknipdmjomnehlgkdggemjgcp",
+        "comment": "Anime Midnight Eyes Live Wallpaper | Source: Store Monitoring | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "2849171c-c20b-5920-aee6-739675fcd226",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lhdmddhaknipdmjomnehlgkdggemjgcp",
+        "comment": "Chrome Web Store entry for Anime Midnight Eyes Live Wallpaper (lhdmddhaknipdmjomnehlgkdggemjgcp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "07e9020f-4a8d-5169-8efa-3798a3a7ada8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kicbgbfbjfmmbjaencmdomehodefcjbo",
+        "comment": "Bloom Water | Source: Store Monitoring | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0fc70bce-3c36-5c28-80d1-c19f742f590e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kicbgbfbjfmmbjaencmdomehodefcjbo",
+        "comment": "Chrome Web Store entry for Bloom Water (kicbgbfbjfmmbjaencmdomehodefcjbo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a101f720-397d-5764-9376-4eb5ac651e94",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hkhnmndmapchnkaadlkmnjdfbpaiciop",
+        "comment": "Pok\u00e9Web - Cattura i Pok\u00e9mon! | Source: Store Monitoring | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0ea4cd6c-ed0e-5870-adcc-5be33a1379bf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hkhnmndmapchnkaadlkmnjdfbpaiciop",
+        "comment": "Chrome Web Store entry for Pok\u00e9Web - Cattura i Pok\u00e9mon! (hkhnmndmapchnkaadlkmnjdfbpaiciop)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "20cc0059-d020-512c-bcc7-92e73e754092",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nlpigbgjblaooanffpingebmpnhaacoe",
+        "comment": "Popup Calculator \u2014 quick & modern | Source: Store Monitoring | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "4534d9a8-fb35-5eed-bd9c-543376c734ab",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nlpigbgjblaooanffpingebmpnhaacoe",
+        "comment": "Chrome Web Store entry for Popup Calculator \u2014 quick & modern (nlpigbgjblaooanffpingebmpnhaacoe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4394a069-91e9-59e4-8b94-0db3cef25ce4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "konlobcfnmegfpfkcbifjmmpkpoffahp",
+        "comment": "BestSwipe \u2013 Best Card for Every Purchase | Source: Store Monitoring | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e7d6ce80-868f-5273-abeb-7d876e8f744a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/konlobcfnmegfpfkcbifjmmpkpoffahp",
+        "comment": "Chrome Web Store entry for BestSwipe \u2013 Best Card for Every Purchase (konlobcfnmegfpfkcbifjmmpkpoffahp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3822b9a8-6d38-50b4-a8e2-4ddda390d7f9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odbanhjffpnjgcbldodeakkmcafnhema",
+        "comment": "One Click Image Search | Source: https://github.com/toborrm9/malicious_extension_sentry/issues/23 | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/toborrm9/malicious_extension_sentry/issues/23\""
+          }
+        ]
+      },
+      {
+        "uuid": "0e2d4787-d8ac-50b7-868f-76290ba2b8c7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/odbanhjffpnjgcbldodeakkmcafnhema",
+        "comment": "Chrome Web Store entry for One Click Image Search (odbanhjffpnjgcbldodeakkmcafnhema)",
+        "distribution": "5"
+      },
       {
         "uuid": "2bfc4cc2-8ee1-57b7-b37b-76fdc2daad75",
         "type": "text",
