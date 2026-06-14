@@ -1,12 +1,26 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-14T20:58:52.618Z",
+  "generated": "2026-06-14T21:15:59.274Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 2397,
+  "total_indicators": 2399,
   "indicators": [
+    {
+      "extension_id": "mhnlakgilnojmhinhkckjpncpbhabphi",
+      "name": "MaxAI: Ask AI anything as you browse (GPT, Gemini, Claude, Grok, etc.)",
+      "source": "https://rebora.io/blog/spyder-and-maxss-chrome-extension-vulnerabilities-put-millions-at-risk",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mhnlakgilnojmhinhkckjpncpbhabphi"
+    },
+    {
+      "extension_id": "difoiogjjojoaoomphldepapgpbgkhkb",
+      "name": "Sider: Chat with all AI: GPT-5, Claude, DeepSeek, Gemini, Grok",
+      "source": "https://rebora.io/blog/spyder-and-maxss-chrome-extension-vulnerabilities-put-millions-at-risk",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/difoiogjjojoaoomphldepapgpbgkhkb"
+    },
     {
       "extension_id": "oampnnmakfpmmfdhlelijkggaeiiijdi",
       "name": "Mahjong \u00c7evrimi\u00e7i Ba\u011flan",
