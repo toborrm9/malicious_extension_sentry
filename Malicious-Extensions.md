@@ -1,5 +1,7 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| mhnlakgilnojmhinhkckjpncpbhabphi | MaxAI: Ask AI anything as you browse (GPT, Gemini, Claude, Grok, etc.) | Critical Vulnerability | [rebora.io](https://rebora.io/blog/spyder-and-maxss-chrome-extension-vulnerabilities-put-millions-at-risk) | 14/06/26 | No |
+| difoiogjjojoaoomphldepapgpbgkhkb | Sider: Chat with all AI: GPT-5, Claude, DeepSeek, Gemini, Grok | Critical Vulnerability | [rebora.io](https://rebora.io/blog/spyder-and-maxss-chrome-extension-vulnerabilities-put-millions-at-risk) | 14/06/26 | No |
 | oampnnmakfpmmfdhlelijkggaeiiijdi | Mahjong Çevrimiçi Bağlan | Malware | [x.com](https://x.com/toborrm9/status/2066260684288016879) | 14/06/26 | No |
 | mnnnhjdoengpicjmnoldbdncnoheknhd | Jujutsu Infinite Script [♾️Spin+ KILL] (March 2025) | Malware | [x.com](https://x.com/toborrm9/status/2066260684288016879) | 14/06/26 | No |
 | moooomjnjdmhilaabhdkappiecdggnje | Aub's Omnipotent Image Translator | Potentially Unwanted Software | [chromewebstore.google.com](https://chromewebstore.google.com/detail/moooomjnjdmhilaabhdkappiecdggnje) | 14/06/26 | No |
