@@ -1,5 +1,7 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| moooomjnjdmhilaabhdkappiecdggnje | Aub's Omnipotent Image Translator | Potentially Unwanted Software | [chromewebstore.google.com](https://chromewebstore.google.com/detail/moooomjnjdmhilaabhdkappiecdggnje) | 14/06/26 | No |
+| binegohghebdmajnfnfgjijikalfhhec | Manga Translator | Potentially Unwanted Software | [chromewebstore.google.com](https://chromewebstore.google.com/detail/binegohghebdmajnfnfgjijikalfhhec) | 14/06/26 | No |
 | opflecpkfjfdaeaodnnmhggbgknjhjbe | Chibi Root Warrior Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 14/06/26 | No |
 | pdiefefijkkmacbfhckegoicgcbmejce | Little Twin Stars Cute Unicorn Live Wallpaper Sanrio | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 14/06/26 | No |
 | pgiegfmlhpkecmbaecjoonlpkanacaab | Anime Girl Audi R8 Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 14/06/26 | No |
