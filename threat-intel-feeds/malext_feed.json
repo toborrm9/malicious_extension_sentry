@@ -1,12 +1,89 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-13T21:54:27.533Z",
+  "generated": "2026-06-14T17:40:59.003Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 2321,
+  "total_indicators": 2332,
   "indicators": [
+    {
+      "extension_id": "gfkoidkeemcmjlckbceipakoibbhjnlm",
+      "name": "Linkforce",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gfkoidkeemcmjlckbceipakoibbhjnlm"
+    },
+    {
+      "extension_id": "eeeobhebgmpinalacmdmjhcpllniobok",
+      "name": "Pikachu Wall Live Wallpaper",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eeeobhebgmpinalacmdmjhcpllniobok"
+    },
+    {
+      "extension_id": "nccjanflkknfaflafkckpikdklmknacl",
+      "name": "Pr Assistant",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nccjanflkknfaflafkckpikdklmknacl"
+    },
+    {
+      "extension_id": "ccbogfjhjlbclkgglnmdjommgndhaack",
+      "name": "Pokemon Wallpapers New Tab - Pikachu Backgrounds",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ccbogfjhjlbclkgglnmdjommgndhaack"
+    },
+    {
+      "extension_id": "dbndkjnehadiehfcodlmefnkapnfjfag",
+      "name": "Bandlab\u97f3\u4e50\u4e0b\u8f7d\u52a9\u624b",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dbndkjnehadiehfcodlmefnkapnfjfag"
+    },
+    {
+      "extension_id": "lhdmddhaknipdmjomnehlgkdggemjgcp",
+      "name": "Anime Midnight Eyes Live Wallpaper",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lhdmddhaknipdmjomnehlgkdggemjgcp"
+    },
+    {
+      "extension_id": "kicbgbfbjfmmbjaencmdomehodefcjbo",
+      "name": "Bloom Water",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kicbgbfbjfmmbjaencmdomehodefcjbo"
+    },
+    {
+      "extension_id": "hkhnmndmapchnkaadlkmnjdfbpaiciop",
+      "name": "Pok\u00e9Web - Cattura i Pok\u00e9mon!",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hkhnmndmapchnkaadlkmnjdfbpaiciop"
+    },
+    {
+      "extension_id": "nlpigbgjblaooanffpingebmpnhaacoe",
+      "name": "Popup Calculator \u2014 quick & modern",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nlpigbgjblaooanffpingebmpnhaacoe"
+    },
+    {
+      "extension_id": "konlobcfnmegfpfkcbifjmmpkpoffahp",
+      "name": "BestSwipe \u2013 Best Card for Every Purchase",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/konlobcfnmegfpfkcbifjmmpkpoffahp"
+    },
+    {
+      "extension_id": "odbanhjffpnjgcbldodeakkmcafnhema",
+      "name": "One Click Image Search",
+      "source": "https://github.com/toborrm9/malicious_extension_sentry/issues/23",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/odbanhjffpnjgcbldodeakkmcafnhema"
+    },
     {
       "extension_id": "jcbjcocinigpbgfpnhlpagidbmlngnnn",
       "name": "Adblock for Browser",
