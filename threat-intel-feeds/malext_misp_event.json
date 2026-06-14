@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-06-14",
-    "timestamp": "1781469298",
+    "timestamp": "1781470336",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -1952,6 +1952,32 @@
         "distribution": "5"
       },
       {
+        "uuid": "524240e5-4006-5af4-a656-d5728fa8db78",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dbdepagkighkbanfbekijlemngklnnkc",
+        "comment": "Spider Solitaire Card Game online | Source: https://x.com/toborrm9/status/2066260684288016879 | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://x.com/toborrm9/status/2066260684288016879\""
+          }
+        ]
+      },
+      {
+        "uuid": "913e85ea-1878-52c3-95f7-e2372a280338",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dbdepagkighkbanfbekijlemngklnnkc",
+        "comment": "Chrome Web Store entry for Spider Solitaire Card Game online (dbdepagkighkbanfbekijlemngklnnkc)",
+        "distribution": "5"
+      },
+      {
         "uuid": "2bfc4cc2-8ee1-57b7-b37b-76fdc2daad75",
         "type": "text",
         "category": "Other",
@@ -2599,32 +2625,6 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/dfnhdhcepihlpmnlfdogndjknbhjcmie",
         "comment": "Chrome Web Store entry for Sasuke Uchiha vs Naruto Uzumaki Live Wallpaper (dfnhdhcepihlpmnlfdogndjknbhjcmie)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "524240e5-4006-5af4-a656-d5728fa8db78",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "dbdepagkighkbanfbekijlemngklnnkc",
-        "comment": "Spider Solitaire Card Game online | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Added: 2026-06-13",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
-          }
-        ]
-      },
-      {
-        "uuid": "913e85ea-1878-52c3-95f7-e2372a280338",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/dbdepagkighkbanfbekijlemngklnnkc",
-        "comment": "Chrome Web Store entry for Spider Solitaire Card Game online (dbdepagkighkbanfbekijlemngklnnkc)",
         "distribution": "5"
       },
       {
