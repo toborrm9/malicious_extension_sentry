@@ -1,12 +1,26 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-14T18:46:26.711Z",
+  "generated": "2026-06-14T20:34:57.631Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 2393,
+  "total_indicators": 2395,
   "indicators": [
+    {
+      "extension_id": "moooomjnjdmhilaabhdkappiecdggnje",
+      "name": "Aub's Omnipotent Image Translator",
+      "source": "https://chromewebstore.google.com/detail/moooomjnjdmhilaabhdkappiecdggnje",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/moooomjnjdmhilaabhdkappiecdggnje"
+    },
+    {
+      "extension_id": "binegohghebdmajnfnfgjijikalfhhec",
+      "name": "Manga Translator",
+      "source": "https://chromewebstore.google.com/detail/binegohghebdmajnfnfgjijikalfhhec",
+      "insert_date": "2026-06-14",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/binegohghebdmajnfnfgjijikalfhhec"
+    },
     {
       "extension_id": "opflecpkfjfdaeaodnnmhggbgknjhjbe",
       "name": "Chibi Root Warrior Live Wallpaper",
