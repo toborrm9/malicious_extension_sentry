@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-06-14",
-    "timestamp": "1781470733",
+    "timestamp": "1781471759",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,58 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "c77d4414-eb6d-5047-90cf-ca66fcf31be5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mhnlakgilnojmhinhkckjpncpbhabphi",
+        "comment": "MaxAI: Ask AI anything as you browse (GPT, Gemini, Claude, Grok, etc.) | Source: https://rebora.io/blog/spyder-and-maxss-chrome-extension-vulnerabilities-put-millions-at-risk | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://rebora.io/blog/spyder-and-maxss-chrome-extension-vulnerabilities-put-millions-at-risk\""
+          }
+        ]
+      },
+      {
+        "uuid": "2e68831b-881f-5750-b460-e88702883fd7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mhnlakgilnojmhinhkckjpncpbhabphi",
+        "comment": "Chrome Web Store entry for MaxAI: Ask AI anything as you browse (GPT, Gemini, Claude, Grok, etc.) (mhnlakgilnojmhinhkckjpncpbhabphi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ac1fed85-653d-5d7a-93ec-8b95a6bd4e87",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "difoiogjjojoaoomphldepapgpbgkhkb",
+        "comment": "Sider: Chat with all AI: GPT-5, Claude, DeepSeek, Gemini, Grok | Source: https://rebora.io/blog/spyder-and-maxss-chrome-extension-vulnerabilities-put-millions-at-risk | Added: 2026-06-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://rebora.io/blog/spyder-and-maxss-chrome-extension-vulnerabilities-put-millions-at-risk\""
+          }
+        ]
+      },
+      {
+        "uuid": "a01901ba-55e9-52c9-9070-b834b548e5d3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/difoiogjjojoaoomphldepapgpbgkhkb",
+        "comment": "Chrome Web Store entry for Sider: Chat with all AI: GPT-5, Claude, DeepSeek, Gemini, Grok (difoiogjjojoaoomphldepapgpbgkhkb)",
+        "distribution": "5"
+      },
       {
         "uuid": "f44d2734-910c-5986-a214-01b48fd8bc66",
         "type": "text",
