@@ -1,5 +1,22 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| lcnfmelmklejahfjfeafjlmfbbbeppgd | Zephyracore | Policy Violation | Store Monitoring | 15/06/26 | No |
+| acejnkocmhhdeepejldlchcpcokmomia | Agent Pocket | Policy Violation | Store Monitoring | 15/06/26 | No |
+| kgkegdboambilcjgcpjjabnbfbgnhkfj | Chatgpt For Google | Policy Violation | Store Monitoring | 15/06/26 | No |
+| idfihpinagmbpjoonfkekcnflihfibeg | Secure Password Generator | Policy Violation | Store Monitoring | 15/06/26 | No |
+| apoolaigpomccfpofkhcbfniogicjiai | Chatgpt For Google | Policy Violation | Store Monitoring | 15/06/26 | No |
+| odfeaaojippababpabanhkfjbepkokde | Meesho Supplier Panel Cat | Policy Violation | Store Monitoring | 15/06/26 | No |
+| mkdnblkbhdfmohnnbdkkjagcdacpiejn | Gitlab Merge Requests Dif | Policy Violation | Store Monitoring | 15/06/26 | No |
+| lpaefogpeigedginpjafcbeicpckiema | Audio File To Text Conver | Bundling Unwanted Software | Store Monitoring | 15/06/26 | No |
+| ocmkgfnifakgckfeofcoakiniljdjcfp | Gitlab Link To Lark | Policy Violation | Store Monitoring | 15/06/26 | No |
+| mlmkacgklkgmnhmlebmceijmfkmdimma | Whopper Clicker Click Gam | Policy Violation | Store Monitoring | 15/06/26 | No |
+| bfifcfpjcppememgknkmcleklmckkhhl | Rutranslate | Policy Violation | Store Monitoring | 15/06/26 | No |
+| eilnokagjcobmnnnaicapmilobojlheh | Tetrys Game | Policy Violation | Store Monitoring | 15/06/26 | No |
+| oidbgopakikjnjpfiehphenkflmckmbo | The Loud House Cursor Car | Policy Violation | Store Monitoring | 15/06/26 | No |
+| ifhljofcibhcacnpmjmanbnhkegoabfk | Github F4F Detecter | Policy Violation | Store Monitoring | 15/06/26 | No |
+| ljooallmbcilimbdbhbcoiamfhncinfb | Garfield Live Wallpaper | Policy Violation | Store Monitoring | 15/06/26 | No |
+| cmknchgdgbkhmfdkageknhpgfeenekch | Chatgpt For Google | Policy Violation | Store Monitoring | 15/06/26 | No |
+| dmofoifjfjgaodoanlloenbjdjcibhdb | Chatgpt For Chrome | Policy Violation | Store Monitoring | 15/06/26 | No |
 | mhnlakgilnojmhinhkckjpncpbhabphi | MaxAI: Ask AI anything as you browse (GPT, Gemini, Claude, Grok, etc.) | Critical Vulnerability | [rebora.io](https://rebora.io/blog/spyder-and-maxss-chrome-extension-vulnerabilities-put-millions-at-risk) | 14/06/26 | No |
 | difoiogjjojoaoomphldepapgpbgkhkb | Sider: Chat with all AI: GPT-5, Claude, DeepSeek, Gemini, Grok | Critical Vulnerability | [rebora.io](https://rebora.io/blog/spyder-and-maxss-chrome-extension-vulnerabilities-put-millions-at-risk) | 14/06/26 | No |
 | oampnnmakfpmmfdhlelijkggaeiiijdi | Mahjong Çevrimiçi Bağlan | Malware | [x.com](https://x.com/toborrm9/status/2066260684288016879) | 14/06/26 | No |
