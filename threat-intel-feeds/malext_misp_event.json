@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-14",
-    "timestamp": "1781472433",
+    "date": "2026-06-15",
+    "timestamp": "1781561536",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,448 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "dcaaa5e7-9c49-5f71-a7a6-7ccf0168c0f2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lcnfmelmklejahfjfeafjlmfbbbeppgd",
+        "comment": "Zephyracore | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f8b4a664-0de2-59c9-bdd3-6eca26f3a4db",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lcnfmelmklejahfjfeafjlmfbbbeppgd",
+        "comment": "Chrome Web Store entry for Zephyracore (lcnfmelmklejahfjfeafjlmfbbbeppgd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "468e5a84-8e8e-5ed3-bffe-31c31fd0b951",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "acejnkocmhhdeepejldlchcpcokmomia",
+        "comment": "Agent Pocket | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "5742ce7e-1308-545f-b3c2-58c289cf3054",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/acejnkocmhhdeepejldlchcpcokmomia",
+        "comment": "Chrome Web Store entry for Agent Pocket (acejnkocmhhdeepejldlchcpcokmomia)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9ba86bc1-b584-5162-bdfe-ebe44228a026",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kgkegdboambilcjgcpjjabnbfbgnhkfj",
+        "comment": "Chatgpt For Google | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a1beb122-f63a-5000-a8b2-dcd25c6d30e0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kgkegdboambilcjgcpjjabnbfbgnhkfj",
+        "comment": "Chrome Web Store entry for Chatgpt For Google (kgkegdboambilcjgcpjjabnbfbgnhkfj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1a3d63ab-6a75-5135-bdbe-7123f23525c9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "idfihpinagmbpjoonfkekcnflihfibeg",
+        "comment": "Secure Password Generator | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "6daf2ffa-022d-5fad-b285-a28f8438fea7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/idfihpinagmbpjoonfkekcnflihfibeg",
+        "comment": "Chrome Web Store entry for Secure Password Generator (idfihpinagmbpjoonfkekcnflihfibeg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3be84fab-396f-5a38-aef6-b41d7cd2ae76",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "apoolaigpomccfpofkhcbfniogicjiai",
+        "comment": "Chatgpt For Google | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f1eeac70-5e10-58a2-bc0d-ff7d3b924186",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/apoolaigpomccfpofkhcbfniogicjiai",
+        "comment": "Chrome Web Store entry for Chatgpt For Google (apoolaigpomccfpofkhcbfniogicjiai)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b9f3f186-83de-5dc5-9ff2-1d15ca7fbd83",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odfeaaojippababpabanhkfjbepkokde",
+        "comment": "Meesho Supplier Panel Cat | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bee0f30e-cc21-5065-8e1f-3d5eb61e9bac",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/odfeaaojippababpabanhkfjbepkokde",
+        "comment": "Chrome Web Store entry for Meesho Supplier Panel Cat (odfeaaojippababpabanhkfjbepkokde)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c82d7f34-7e16-5852-b024-dc76e8542598",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mkdnblkbhdfmohnnbdkkjagcdacpiejn",
+        "comment": "Gitlab Merge Requests Dif | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "5b36341c-5e83-57e4-b7c8-411f8c16a57e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mkdnblkbhdfmohnnbdkkjagcdacpiejn",
+        "comment": "Chrome Web Store entry for Gitlab Merge Requests Dif (mkdnblkbhdfmohnnbdkkjagcdacpiejn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "af7c4b46-3049-5b26-b4ae-98abeb418de1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lpaefogpeigedginpjafcbeicpckiema",
+        "comment": "Audio File To Text Conver | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "165868c6-3b76-5f5f-89db-5bff311829ef",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lpaefogpeigedginpjafcbeicpckiema",
+        "comment": "Chrome Web Store entry for Audio File To Text Conver (lpaefogpeigedginpjafcbeicpckiema)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2cb759cc-679f-58e8-8605-b60653ca4bde",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ocmkgfnifakgckfeofcoakiniljdjcfp",
+        "comment": "Gitlab Link To Lark | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "96bef3e2-b93a-5741-b31e-1b85cc29b23e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ocmkgfnifakgckfeofcoakiniljdjcfp",
+        "comment": "Chrome Web Store entry for Gitlab Link To Lark (ocmkgfnifakgckfeofcoakiniljdjcfp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b7478e8b-e5de-589c-934f-869a32d8dd77",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mlmkacgklkgmnhmlebmceijmfkmdimma",
+        "comment": "Whopper Clicker Click Gam | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "308577a4-c405-581e-bcd1-224696abf3e3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mlmkacgklkgmnhmlebmceijmfkmdimma",
+        "comment": "Chrome Web Store entry for Whopper Clicker Click Gam (mlmkacgklkgmnhmlebmceijmfkmdimma)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eaf9c2e4-e026-5b63-a797-ee30957f1ecb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bfifcfpjcppememgknkmcleklmckkhhl",
+        "comment": "Rutranslate | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bcfa7279-d8a7-5635-8d4b-bd9632b348f6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bfifcfpjcppememgknkmcleklmckkhhl",
+        "comment": "Chrome Web Store entry for Rutranslate (bfifcfpjcppememgknkmcleklmckkhhl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2bf9a01a-281e-5394-a14e-84fcc65c28d9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eilnokagjcobmnnnaicapmilobojlheh",
+        "comment": "Tetrys Game | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "fcb543d5-b974-59cf-a211-69f592f44d80",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eilnokagjcobmnnnaicapmilobojlheh",
+        "comment": "Chrome Web Store entry for Tetrys Game (eilnokagjcobmnnnaicapmilobojlheh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "db177e84-e797-55c6-9ed3-8d03a4655dde",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oidbgopakikjnjpfiehphenkflmckmbo",
+        "comment": "The Loud House Cursor Car | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "74e0b219-5a07-588a-88c8-f7bfe703cc44",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oidbgopakikjnjpfiehphenkflmckmbo",
+        "comment": "Chrome Web Store entry for The Loud House Cursor Car (oidbgopakikjnjpfiehphenkflmckmbo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0cefe3c3-f7eb-5161-bc41-f567634d041f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ifhljofcibhcacnpmjmanbnhkegoabfk",
+        "comment": "Github F4F Detecter | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e4f7af16-fb38-50b9-b13a-7a50b7dfd457",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ifhljofcibhcacnpmjmanbnhkegoabfk",
+        "comment": "Chrome Web Store entry for Github F4F Detecter (ifhljofcibhcacnpmjmanbnhkegoabfk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "55e2b7a6-8505-5de2-ab8e-fb4f6d085a40",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljooallmbcilimbdbhbcoiamfhncinfb",
+        "comment": "Garfield Live Wallpaper | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "939db1e5-cd6e-53ee-a54b-5c1aa5e61bc6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljooallmbcilimbdbhbcoiamfhncinfb",
+        "comment": "Chrome Web Store entry for Garfield Live Wallpaper (ljooallmbcilimbdbhbcoiamfhncinfb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "84192aaf-eeb3-5dcd-8f86-f913861d0cc5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cmknchgdgbkhmfdkageknhpgfeenekch",
+        "comment": "Chatgpt For Google | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "bd0479e9-dc22-599a-88d8-813b3b90ee7e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cmknchgdgbkhmfdkageknhpgfeenekch",
+        "comment": "Chrome Web Store entry for Chatgpt For Google (cmknchgdgbkhmfdkageknhpgfeenekch)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c563cf53-323e-534d-b8c5-4b4cf1556abf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmofoifjfjgaodoanlloenbjdjcibhdb",
+        "comment": "Chatgpt For Chrome | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a3920ce1-c532-5568-b334-e77ca3120323",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dmofoifjfjgaodoanlloenbjdjcibhdb",
+        "comment": "Chrome Web Store entry for Chatgpt For Chrome (dmofoifjfjgaodoanlloenbjdjcibhdb)",
+        "distribution": "5"
+      },
       {
         "uuid": "c77d4414-eb6d-5047-90cf-ca66fcf31be5",
         "type": "text",
