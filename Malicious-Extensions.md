@@ -1,5 +1,25 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| abpppenajdmdganodlmoeocldojbbjgp | Kahoot Hacker Auto Answer | Malware | Store Monitoring | 17/06/26 | No |
+| cbnedplnkdejpbelaggjkffdpilpflcc | Cold Messenger | Policy Violation | Store Monitoring | 17/06/26 | No |
+| aljnlpmcjfncelhooaacnokmibhoobce | Cu Gay | Policy Violation | Store Monitoring | 17/06/26 | No |
+| djoaahciiaicopcelcnkggeclplonejg | Market Sniper | Policy Violation | Store Monitoring | 16/06/26 | No |
+| dhgoaepphgohphpmokdeamakegaljiip | Screenshot Capture | Malware | Store Monitoring | 16/06/26 | No |
+| gcjbmolkgmamhpjfhofgolkoioojpobf | Text Highlighter | Policy Violation | Store Monitoring | 16/06/26 | No |
+| afaffkclfboojpilnloeanmcnmgadjkm | Zillow Scraper | Policy Violation | Store Monitoring | 16/06/26 | No |
+| ioidaljicanjeoeailnbhnlebgmfkcln | Bing Search Automator Bic | Policy Violation | Store Monitoring | 16/06/26 | No |
+| faokdcbkhaommllbpffgplpmlkhjkkag | Flock Fantasy Draft Overl | Policy Violation | Store Monitoring | 16/06/26 | No |
+| elaekhpgbmapglaicephmgmpmimnjmpb | One Tab Manager | Policy Violation | Store Monitoring | 16/06/26 | No |
+| khekacodmefnfjghngdambikhmnbmken | Abrir Aba AnôNima | Bundling Unwanted Software | Store Monitoring | 16/06/26 | No |
+| oacbhidomdgbneojogfeimenfgcobfjo | Live Stream Recorder | Bundling Unwanted Software | Store Monitoring | 16/06/26 | No |
+| gcafjcggmmppkihkdmjcmcncencocfob | Metashields | Malware | Store Monitoring | 16/06/26 | No |
+| pegbfjhhaifipofpkfecmilaplcdhopg | ELIA IA CRM: WhatsApp, Automações e Ferramentas para venda | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 16/06/26 | No |
+| oigfpjciikeohdlpddnekohneanpjfnk | wlojas | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 16/06/26 | No |
+| lmoiokdhmchhgefcojdpcakkggejccdc | Was Hub | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 16/06/26 | No |
+| jhmokkkndhlngbphddmpipnjpnoklpdb | SellerHub360 | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 16/06/26 | No |
+| oikgbpcmdphfkhplgkfngjilemlolann | Freshy Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 15/06/26 | No |
+| cnkcgoiimpncbonlilkekbigfhchcbgb | Template Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 15/06/26 | No |
+| epdmngmgidehpmhjamdjcaecpligmcfh | Better Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 15/06/26 | No |
 | lcnfmelmklejahfjfeafjlmfbbbeppgd | Zephyracore | Policy Violation | Store Monitoring | 15/06/26 | No |
 | acejnkocmhhdeepejldlchcpcokmomia | Agent Pocket | Policy Violation | Store Monitoring | 15/06/26 | No |
 | kgkegdboambilcjgcpjjabnbfbgnhkfj | Chatgpt For Google | Policy Violation | Store Monitoring | 15/06/26 | No |
@@ -7,7 +27,7 @@
 | apoolaigpomccfpofkhcbfniogicjiai | Chatgpt For Google | Policy Violation | Store Monitoring | 15/06/26 | No |
 | odfeaaojippababpabanhkfjbepkokde | Meesho Supplier Panel Cat | Policy Violation | Store Monitoring | 15/06/26 | No |
 | mkdnblkbhdfmohnnbdkkjagcdacpiejn | Gitlab Merge Requests Dif | Policy Violation | Store Monitoring | 15/06/26 | No |
-| lpaefogpeigedginpjafcbeicpckiema | Audio File To Text Conver | Bundling Unwanted Software | Store Monitoring | 15/06/26 | No |
+| lpaefogpeigedginpjafcbeicpckiema | Audio File To Text Conver | Bundling Unwanted Software | Store Monitoring | 15/06/26 | Yes |
 | ocmkgfnifakgckfeofcoakiniljdjcfp | Gitlab Link To Lark | Policy Violation | Store Monitoring | 15/06/26 | No |
 | mlmkacgklkgmnhmlebmceijmfkmdimma | Whopper Clicker Click Gam | Policy Violation | Store Monitoring | 15/06/26 | No |
 | bfifcfpjcppememgknkmcleklmckkhhl | Rutranslate | Policy Violation | Store Monitoring | 15/06/26 | No |
@@ -267,6 +287,7 @@
 | dhghkolonchibindgpmlhobbpeicncin | Etivi: Inteligencia Artificial para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal) | 07/06/26 | No |
 | bpjhhjboiagpamldnmjdmjadhajipicf | ChatzyCRM: Todo lo que necesitas en un solo CRM para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal) | 07/06/26 | No |
 | eelhhhonggaobhpgighgkoggopilndpe | Kentro | Malware | Store Monitoring | 07/06/26 | No |
+| kppmfkiklcbbjegkbmfnohoidobhgimj | Vidava | Policy Violation | Store Monitoring | 06/06/26 | No |
 | mnionjbkgmjkplejhkadhcpkipilhfbn | Gmail Ai Email Optimizer | Policy Violation | Store Monitoring | 06/06/26 | No |
 | ppjmnaahknldjkafeameogglnioejdek | First Vpn – ücretsiz Vpn | Malware | Store Monitoring | 06/06/26 | Yes |
 | aihkhafnbpomjadbkobpnojmojgcilah | Pdf Forge | Policy Violation | Store Monitoring | 06/06/26 | No |
@@ -905,7 +926,7 @@
 | jhhjbaicgmecddbaobeobkikgmfffaeg | Chat AI for Chrome | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
 | hmkcidjcpomiegnklmplkimmbcbklglb | Adobe Express: AI Photo, Video | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
 | dcjfbgppfdokmjgajnnkgdmkdeiloigh | Picsart: AI Photo Video Editor | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
-| eebihieclccoidddmjcencomodomdoei | Supersonic AI | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
+| eebihieclccoidddmjcencomodomdoei | Supersonic AI | Policy Violation | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
 | dgeiaiglmhdhajbpfbmajaajdlfdinpi | 会译:一站式 AI 翻译 Agent｜对照式DeepL翻译｜DeepSeek划词翻译｜免费 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
 | fdbiogldjjmedbkbjdnolcifiankgeeo | 即梦Dreamina去水印下载 | Policy Violation | Store Monitoring | 30/04/26 | No |
 | apkldlbgpmenoilgjldmbkipidboplae | Tiktok Downloader | Policy Violation | Store Monitoring | 30/04/26 | No |
@@ -1078,7 +1099,7 @@
 | klglejfbdeipgklgaepnodpjcnhaihkd | ﻿﻿Premium Horse Racing | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
 | akebbllmckjphjiojeioooidhnddnplj | ﻿formula Rush Racing Game | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
 | mmecpiobcdbjkaijljohghhpfgngpjmk | Youside Youtube Sidebar | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
-| fibgndhgobbaaekmnneapojgkcehaeac | Tarot Side Panel | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
+| fibgndhgobbaaekmnneapojgkcehaeac | Tarot Side Panel | Policy Violation | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
 | hmlnefhgicedcmebmkjdcogieefbaagl | Video Poker Deuces Wild | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
 | odeccdcabdffpebnfancpkepjeecempn | ﻿﻿slot Machine Mr Chicken | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
 | eljfpgehlncincemdmmnebmnlcmfamhm | Asia Slot | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
