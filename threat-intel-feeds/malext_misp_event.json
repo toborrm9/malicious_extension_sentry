@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-15",
-    "timestamp": "1781561536",
+    "date": "2026-06-17",
+    "timestamp": "1781689793",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,526 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "6ec5a66c-1866-51f3-84b8-ea60c462de6e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abpppenajdmdganodlmoeocldojbbjgp",
+        "comment": "Kahoot Hacker Auto Answer | Source: Store Monitoring | Added: 2026-06-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "acb12090-b618-59e2-b42b-64951fc97754",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abpppenajdmdganodlmoeocldojbbjgp",
+        "comment": "Chrome Web Store entry for Kahoot Hacker Auto Answer (abpppenajdmdganodlmoeocldojbbjgp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3125d246-e5f2-5c7c-b435-36b405870274",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cbnedplnkdejpbelaggjkffdpilpflcc",
+        "comment": "Cold Messenger | Source: Store Monitoring | Added: 2026-06-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "301e6967-4ea3-55e9-9f62-fba152a011b5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cbnedplnkdejpbelaggjkffdpilpflcc",
+        "comment": "Chrome Web Store entry for Cold Messenger (cbnedplnkdejpbelaggjkffdpilpflcc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5bae299f-aa72-5dbb-a59d-d60e8cb202a9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aljnlpmcjfncelhooaacnokmibhoobce",
+        "comment": "Cu Gay | Source: Store Monitoring | Added: 2026-06-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d7748e67-0cbe-5370-8d28-613d57958506",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aljnlpmcjfncelhooaacnokmibhoobce",
+        "comment": "Chrome Web Store entry for Cu Gay (aljnlpmcjfncelhooaacnokmibhoobce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "aff0cae7-200b-5aca-9b1c-1fcddbc080b8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "djoaahciiaicopcelcnkggeclplonejg",
+        "comment": "Market Sniper | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "6657f0d6-4394-53e7-bafd-77ab68151a71",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/djoaahciiaicopcelcnkggeclplonejg",
+        "comment": "Chrome Web Store entry for Market Sniper (djoaahciiaicopcelcnkggeclplonejg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d948dc2b-e2fb-5820-80e5-36554ac5686c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dhgoaepphgohphpmokdeamakegaljiip",
+        "comment": "Screenshot Capture | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "5d85646b-c61a-53c2-a30e-d967140a8d1b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dhgoaepphgohphpmokdeamakegaljiip",
+        "comment": "Chrome Web Store entry for Screenshot Capture (dhgoaepphgohphpmokdeamakegaljiip)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "943b6619-e150-5a58-8ab6-0e5492c9549e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gcjbmolkgmamhpjfhofgolkoioojpobf",
+        "comment": "Text Highlighter | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ec77056a-0ffa-5973-b88b-541341c7f683",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gcjbmolkgmamhpjfhofgolkoioojpobf",
+        "comment": "Chrome Web Store entry for Text Highlighter (gcjbmolkgmamhpjfhofgolkoioojpobf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b87727a3-64a4-5546-abe7-ea4b2890664e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "afaffkclfboojpilnloeanmcnmgadjkm",
+        "comment": "Zillow Scraper | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a13e4a15-0fe4-5589-b06e-a63c59c9c8dc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/afaffkclfboojpilnloeanmcnmgadjkm",
+        "comment": "Chrome Web Store entry for Zillow Scraper (afaffkclfboojpilnloeanmcnmgadjkm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "119da3da-9b96-51c6-9847-0ca282633c5d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ioidaljicanjeoeailnbhnlebgmfkcln",
+        "comment": "Bing Search Automator Bic | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "6b8f814a-61d6-512d-a0ba-a1ec1cf23cf0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ioidaljicanjeoeailnbhnlebgmfkcln",
+        "comment": "Chrome Web Store entry for Bing Search Automator Bic (ioidaljicanjeoeailnbhnlebgmfkcln)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "278461d3-5074-58d4-82cc-d53b4054aa2c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "faokdcbkhaommllbpffgplpmlkhjkkag",
+        "comment": "Flock Fantasy Draft Overl | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a7e8de4f-350f-54a8-8984-1ebde31d249b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/faokdcbkhaommllbpffgplpmlkhjkkag",
+        "comment": "Chrome Web Store entry for Flock Fantasy Draft Overl (faokdcbkhaommllbpffgplpmlkhjkkag)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "da5a6cad-6ba9-523c-b1ac-cc4422083261",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "elaekhpgbmapglaicephmgmpmimnjmpb",
+        "comment": "One Tab Manager | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d5fe9ae4-ed46-550c-af76-4f02dd62ec14",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/elaekhpgbmapglaicephmgmpmimnjmpb",
+        "comment": "Chrome Web Store entry for One Tab Manager (elaekhpgbmapglaicephmgmpmimnjmpb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "03ded538-91ac-5055-9596-4498960ffe25",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "khekacodmefnfjghngdambikhmnbmken",
+        "comment": "Abrir Aba An\u00f4Nima | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "c1481620-70ed-5a76-aac8-a5531a1bcc9f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/khekacodmefnfjghngdambikhmnbmken",
+        "comment": "Chrome Web Store entry for Abrir Aba An\u00f4Nima (khekacodmefnfjghngdambikhmnbmken)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "aca37ce3-e4d0-5fb4-befb-adf50fac5004",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oacbhidomdgbneojogfeimenfgcobfjo",
+        "comment": "Live Stream Recorder | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e12746e9-2b5b-549e-b809-14371da5fe2d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oacbhidomdgbneojogfeimenfgcobfjo",
+        "comment": "Chrome Web Store entry for Live Stream Recorder (oacbhidomdgbneojogfeimenfgcobfjo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ce34ab0b-68f6-51dc-897b-5dea33908521",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gcafjcggmmppkihkdmjcmcncencocfob",
+        "comment": "Metashields | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "3acf1a6f-059c-5738-8e5d-fe8afb080a49",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gcafjcggmmppkihkdmjcmcncencocfob",
+        "comment": "Chrome Web Store entry for Metashields (gcafjcggmmppkihkdmjcmcncencocfob)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b216a4b2-fafd-568b-8268-73a7f2fb1baa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pegbfjhhaifipofpkfecmilaplcdhopg",
+        "comment": "ELIA IA CRM: WhatsApp, Automa\u00e7\u00f5es e Ferramentas para venda | Source: https://malext.io/reports/WaSteal/ | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          }
+        ]
+      },
+      {
+        "uuid": "627ea70e-c136-517a-8b6a-a7ef118d9256",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pegbfjhhaifipofpkfecmilaplcdhopg",
+        "comment": "Chrome Web Store entry for ELIA IA CRM: WhatsApp, Automa\u00e7\u00f5es e Ferramentas para venda (pegbfjhhaifipofpkfecmilaplcdhopg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3e1a09f8-dfd8-54b2-a5c6-7f16840c944e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oigfpjciikeohdlpddnekohneanpjfnk",
+        "comment": "wlojas | Source: https://malext.io/reports/WaSteal/ | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          }
+        ]
+      },
+      {
+        "uuid": "9f86c8a3-965f-5fbb-8b06-77b5d5b14b96",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oigfpjciikeohdlpddnekohneanpjfnk",
+        "comment": "Chrome Web Store entry for wlojas (oigfpjciikeohdlpddnekohneanpjfnk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7a2598e7-dcb5-5674-be3d-0d1b680520a2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lmoiokdhmchhgefcojdpcakkggejccdc",
+        "comment": "Was Hub | Source: https://malext.io/reports/WaSteal/ | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          }
+        ]
+      },
+      {
+        "uuid": "09426451-ed61-5440-8181-e658a05fe29f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lmoiokdhmchhgefcojdpcakkggejccdc",
+        "comment": "Chrome Web Store entry for Was Hub (lmoiokdhmchhgefcojdpcakkggejccdc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "82763713-2f65-53b8-bd25-f7f2da988f09",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jhmokkkndhlngbphddmpipnjpnoklpdb",
+        "comment": "SellerHub360 | Source: https://malext.io/reports/WaSteal/ | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          }
+        ]
+      },
+      {
+        "uuid": "830aa390-364e-561e-9088-f4a75c03d546",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jhmokkkndhlngbphddmpipnjpnoklpdb",
+        "comment": "Chrome Web Store entry for SellerHub360 (jhmokkkndhlngbphddmpipnjpnoklpdb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a50e4ddf-c564-5dc9-b783-2efb771e2436",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oikgbpcmdphfkhplgkfngjilemlolann",
+        "comment": "Freshy Search | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "3d812633-3a50-516f-8b18-c51512aa5b2b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oikgbpcmdphfkhplgkfngjilemlolann",
+        "comment": "Chrome Web Store entry for Freshy Search (oikgbpcmdphfkhplgkfngjilemlolann)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "12f11e84-5e8e-5ce6-a4f4-be6f3cf562b4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cnkcgoiimpncbonlilkekbigfhchcbgb",
+        "comment": "Template Search | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "c9d9acf6-76d4-59a0-9c4c-b71dec62aa78",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cnkcgoiimpncbonlilkekbigfhchcbgb",
+        "comment": "Chrome Web Store entry for Template Search (cnkcgoiimpncbonlilkekbigfhchcbgb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "52058233-6e06-52fd-8cc2-c695bdb164b9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "epdmngmgidehpmhjamdjcaecpligmcfh",
+        "comment": "Better Search | Source: https://malext.io/reports/SearchJack/ | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          }
+        ]
+      },
+      {
+        "uuid": "944dfae1-6595-5c95-b773-2b0e93ab549b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/epdmngmgidehpmhjamdjcaecpligmcfh",
+        "comment": "Chrome Web Store entry for Better Search (epdmngmgidehpmhjamdjcaecpligmcfh)",
+        "distribution": "5"
+      },
       {
         "uuid": "dcaaa5e7-9c49-5f71-a7a6-7ccf0168c0f2",
         "type": "text",
@@ -6967,6 +7487,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/eelhhhonggaobhpgighgkoggopilndpe",
         "comment": "Chrome Web Store entry for Kentro (eelhhhonggaobhpgighgkoggopilndpe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b2c97280-3a78-5860-9437-7881569a4b87",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kppmfkiklcbbjegkbmfnohoidobhgimj",
+        "comment": "Vidava | Source: Store Monitoring | Added: 2026-06-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "73b83cd8-1101-594b-b8ce-a77d401b712e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kppmfkiklcbbjegkbmfnohoidobhgimj",
+        "comment": "Chrome Web Store entry for Vidava (kppmfkiklcbbjegkbmfnohoidobhgimj)",
         "distribution": "5"
       },
       {
