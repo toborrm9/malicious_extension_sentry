@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-06-19",
-    "timestamp": "1781858528",
+    "timestamp": "1781872321",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,32 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "23bcd27c-1981-5f46-abda-a93b81170199",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "momcknbmamjofcmgiinlopbgidneinej",
+        "comment": "Luffy & Spiderman Epic Duo Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Added: 2026-06-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          }
+        ]
+      },
+      {
+        "uuid": "78b835b5-4018-54bf-8b7c-b04446e5bbfd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/momcknbmamjofcmgiinlopbgidneinej",
+        "comment": "Chrome Web Store entry for Luffy & Spiderman Epic Duo Live Wallpaper (momcknbmamjofcmgiinlopbgidneinej)",
+        "distribution": "5"
+      },
       {
         "uuid": "1bfda684-05c4-5d97-bfa2-7c39b5431371",
         "type": "text",
