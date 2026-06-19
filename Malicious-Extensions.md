@@ -1,5 +1,6 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| momcknbmamjofcmgiinlopbgidneinej | Luffy & Spiderman Epic Duo Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 19/06/26 | No |
 | okmnfbglccjhbkgmpdhpogaenhemegbn | Roblox Play Button Color | Bundling Unwanted Software | Store Monitoring | 19/06/26 | No |
 | keekjnolaokcibijmijjccpafcgagbdm | Atlas Mens Chain Length G | Policy Violation | Store Monitoring | 19/06/26 | No |
 | pahfjgdhbjfpmeanibapkglolhkocoaj | V Video Downloader Povim | Malware | Store Monitoring | 19/06/26 | No |
@@ -1171,7 +1172,7 @@
 | maeccdadgnadblfddcmanhpofobhgfme | Lone Star Jackpots Slot M | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
 | dohenclhhdfljpjlnpjnephpccbdgmmb | Straight 4 | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
 | ljbgkfbiifhpgpipepnfefijldolkhlm | Game Crypto Merge | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
-| heljkmdknlfhiecpknceodpbokeipigo | Web Client For Hockey Sho | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
+| heljkmdknlfhiecpknceodpbokeipigo | Web Client For Hockey Sho | Potentially Unwanted | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
 | imjmnghlhiimodfkdkgnfplhlobehnpm | ﻿﻿Blackjack 3D | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
 | hdmppejcahhppjhkncagagopecddokpi | Voodoo Magic Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | Yes |
 | ogbaedmbbmmipljceodeimlckohbnfan | 3D Roulette Casino Game | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No |
@@ -1498,7 +1499,7 @@
 | hklhhkchffegjfojbofhfkckjidfbjhe | Free VPN for Chrome: Secure VPN Proxy in One Click | Policy Violation | Store Monitoring | 09/03/26 | No |
 | dnajedcbehnncdbmhbpglgacejjjcpic | Pokemon TCG Pocket PC Gacha Game | Policy Violation | Store Monitoring | 09/03/26 | No |
 | gengfhhkjekmlejbhmmopegofnoifnjp | ShotBird - Scrolling Screenshots, Tweet Images & Editor | Malware | Store Monitoring | 09/03/26 | Yes |
-| ajfanjhcdgaohcbphpaceglgpgaaohod | OmniBar AI Chat and Search | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No |
+| ajfanjhcdgaohcbphpaceglgpgaaohod | OmniBar AI Chat and Search | Policy Violation | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No |
 | mkkfklcadlnkhgapjeejemflhamcdjld | Consensus - Reddit Comment Summarizer | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No |
 | akdajpomgjgldidenledjjiemgkjcchc | Giant Coupons Official Extension | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No |
 | jaioobipjdejpeckgojiojjahmkiaihp | Care.Sale | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No |
@@ -1796,7 +1797,7 @@
 | mehpokgiebgcnelgnlfkeldlfnpdhdha | ChatGPT Extension | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | feeonheemodpkdckaljcjogdncpiiban | Zuvu AI: The Ultimate AI Agent Sidebar for Google Search &amp; Beyond | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | adjiljljjoeielcjmafljkicjncjpbha | DeepSeek app | Removal reason Unknown | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
-| giaooddllfkkkblpaedgkhfmhocponbo | DeepSeek v3 | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
+| giaooddllfkkkblpaedgkhfmhocponbo | DeepSeek v3 | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | npphdmcakmfhllhblkealgkeefamebih | AI Chatbot | Removal reason Unknown | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | dcbcnpnaccfjoikaofjgcipcfbmfkpmj | H-Chat Assistant | In store but not whitelisted | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No |
 | ikhpipnkpbedjbmlgppdejmcdnjecded | Bitstamp Wallet | Malware | Store Monitoring | 02/02/26 | No |
