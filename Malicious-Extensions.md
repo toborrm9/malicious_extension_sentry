@@ -1,6 +1,17 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
-| abpppenajdmdganodlmoeocldojbbjgp | Kahoot Hacker Auto Answer | Malware | Store Monitoring | 17/06/26 | No |
+| okmnfbglccjhbkgmpdhpogaenhemegbn | Roblox Play Button Color | Bundling Unwanted Software | Store Monitoring | 19/06/26 | No |
+| keekjnolaokcibijmijjccpafcgagbdm | Atlas Mens Chain Length G | Policy Violation | Store Monitoring | 19/06/26 | No |
+| pahfjgdhbjfpmeanibapkglolhkocoaj | V Video Downloader Povim | Malware | Store Monitoring | 19/06/26 | No |
+| pidecmcfddeipddmjobnpgddcimbmbfh | Universal Video Downloade | Malware | Store Monitoring | 19/06/26 | No |
+| lchhpalladedljmelclgfhdhecmmkajo | Downloader For Instagram | Malware | Store Monitoring | 19/06/26 | No |
+| aebkmibbbnflibdpfmbcpppopjgmljaf | X Downloader Download Vid | Bundling Unwanted Software | Store Monitoring | 18/06/26 | No |
+| nkoangijendgbdllmjfahacemiappmom | Waflow Crm Agente Ia + Fl | Policy Violation | Store Monitoring | 18/06/26 | No |
+| cjbgpofiokeepomjjajmenhhohdnpdkd | Elarislab | Policy Violation | Store Monitoring | 18/06/26 | No |
+| mhkikbkjfjlolobgoaaahjemlcdekbca | Stickman Ping Pong Game | Policy Violation | Store Monitoring | 18/06/26 | No |
+| fkbpmiepdabkjnjagkdmiidkppbddhmn | Text Case Converter Pro | Malware | Store Monitoring | 18/06/26 | No |
+| ephgolildffkkeoaidgaokpjapjoiilg | Tube Fetch | Policy Violation | Store Monitoring | 18/06/26 | No |
+| abpppenajdmdganodlmoeocldojbbjgp | Kahoot Hacker Auto Answer | Malware | Store Monitoring | 17/06/26 | Yes |
 | cbnedplnkdejpbelaggjkffdpilpflcc | Cold Messenger | Policy Violation | Store Monitoring | 17/06/26 | No |
 | aljnlpmcjfncelhooaacnokmibhoobce | Cu Gay | Policy Violation | Store Monitoring | 17/06/26 | No |
 | djoaahciiaicopcelcnkggeclplonejg | Market Sniper | Policy Violation | Store Monitoring | 16/06/26 | No |
@@ -11,7 +22,7 @@
 | faokdcbkhaommllbpffgplpmlkhjkkag | Flock Fantasy Draft Overl | Policy Violation | Store Monitoring | 16/06/26 | No |
 | elaekhpgbmapglaicephmgmpmimnjmpb | One Tab Manager | Policy Violation | Store Monitoring | 16/06/26 | No |
 | khekacodmefnfjghngdambikhmnbmken | Abrir Aba AnôNima | Bundling Unwanted Software | Store Monitoring | 16/06/26 | No |
-| oacbhidomdgbneojogfeimenfgcobfjo | Live Stream Recorder | Bundling Unwanted Software | Store Monitoring | 16/06/26 | No |
+| oacbhidomdgbneojogfeimenfgcobfjo | Live Stream Recorder | Bundling Unwanted Software | Store Monitoring | 16/06/26 | Yes |
 | gcafjcggmmppkihkdmjcmcncencocfob | Metashields | Malware | Store Monitoring | 16/06/26 | No |
 | pegbfjhhaifipofpkfecmilaplcdhopg | ELIA IA CRM: WhatsApp, Automações e Ferramentas para venda | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 16/06/26 | No |
 | oigfpjciikeohdlpddnekohneanpjfnk | wlojas | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 16/06/26 | No |
@@ -116,6 +127,7 @@
 | konlobcfnmegfpfkcbifjmmpkpoffahp | BestSwipe – Best Card for Every Purchase | Policy Violation | Store Monitoring | 14/06/26 | No |
 | odbanhjffpnjgcbldodeakkmcafnhema | One Click Image Search | Search Hijacking | [github.com](https://github.com/toborrm9/malicious_extension_sentry/issues/23) | 14/06/26 | No |
 | dbdepagkighkbanfbekijlemngklnnkc | Spider Solitaire Card Game online | Malware | [x.com](https://x.com/toborrm9/status/2066260684288016879) | 14/06/26 | No |
+| ogkhkgoakclmbjbhbdpbapmjflflmhnc | Lunethwatch | Policy Violation | Store Monitoring | 13/06/26 | No |
 | jcbjcocinigpbgfpnhlpagidbmlngnnn | Adblock for Browser | Malware | [malext.io](https://malext.io/reports/PromptSnatcher/) | 13/06/26 | No |
 | iojpcjjdfhlcbgjnpngcmaojmlokmeii | Smart Adblocker | Malware | [malext.io](https://malext.io/reports/PromptSnatcher/) | 13/06/26 | No |
 | lfmanjgjccjkajbppaccimngmgfkoplf | lfmanjgjccjkajbppaccimngmgfkoplf | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/06/26 | No |
@@ -230,6 +242,7 @@
 | napnmdhmhlfpopiapoogcbpbeekfepnk | Tether Land Usdttoman Rat | Policy Violation | Store Monitoring | 09/06/26 | No |
 | pnjifegilbcoeffpbfickagedipiepcc | Usdt Local Currency Conve | Policy Violation | Store Monitoring | 09/06/26 | No |
 | olceochjkfofojkjjbgmjlbhcclgfegi | Metric Flow Website Traff | Bundling Unwanted Software | Store Monitoring | 09/06/26 | No |
+| apilbemmclgnmkedclgpolikeofmlicn | лингворус — проверка на а | Policy Violation | Store Monitoring | 08/06/26 | No |
 | hijojcbgihiflicpigcjnigfookfgfnl | Linkedin Thought Partner | Policy Violation | Store Monitoring | 08/06/26 | No |
 | ajeffabgdodbbdngakbpafbggnoegdjd | Wellshared Ai | Policy Violation | Store Monitoring | 08/06/26 | No |
 | efakcomgmimcekdejnoafmmbgnpdhdfm | Video Search Extension | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 08/06/26 | No |
@@ -287,6 +300,7 @@
 | dhghkolonchibindgpmlhobbpeicncin | Etivi: Inteligencia Artificial para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal) | 07/06/26 | No |
 | bpjhhjboiagpamldnmjdmjadhajipicf | ChatzyCRM: Todo lo que necesitas en un solo CRM para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal) | 07/06/26 | No |
 | eelhhhonggaobhpgighgkoggopilndpe | Kentro | Malware | Store Monitoring | 07/06/26 | No |
+| gpjbmpcpkjgedjleoogmdpmbfmfghkei | What Font | Policy Violation | Store Monitoring | 06/06/26 | No |
 | kppmfkiklcbbjegkbmfnohoidobhgimj | Vidava | Policy Violation | Store Monitoring | 06/06/26 | No |
 | mnionjbkgmjkplejhkadhcpkipilhfbn | Gmail Ai Email Optimizer | Policy Violation | Store Monitoring | 06/06/26 | No |
 | ppjmnaahknldjkafeameogglnioejdek | First Vpn – ücretsiz Vpn | Malware | Store Monitoring | 06/06/26 | Yes |
@@ -506,6 +520,7 @@
 | gololdhijpcaicpllcjmlcfdhjfclolh | Chat Gpt Translation | Policy Violation | Store Monitoring | 29/05/26 | No |
 | onomhajljlbeneekipoigcehjngdajec | Gitlab Diff Collapse All | Policy Violation | Store Monitoring | 29/05/26 | No |
 | hemccdpfndbjdbheddegacchifgolnpg | 懒人自助托管 | Policy Violation | Store Monitoring | 29/05/26 | No |
+| egabpkinlpdcimbopmegnngdbaglanmk | Exta Pro Downloader For I | Malware | Store Monitoring | 28/05/26 | No |
 | lbgfcdjklmgkaogjkkbkleeepndmbnja | Glanceai | Policy Violation | Store Monitoring | 28/05/26 | No |
 | onmpecpdikhopjbmjajcjcnfdjdmbbfd | Tiktok Unban Ban Pass | Malware | Store Monitoring | 28/05/26 | Yes |
 | bfobpdekijjlmjndakaogdbfoajedioi | Ai For Amazon Listings Co | Policy Violation | Store Monitoring | 28/05/26 | No |
@@ -919,6 +934,7 @@
 | gpbnhdjoknjmghjfljgcankdldimokmk | Chatgpt Assistant | Policy Violation | Store Monitoring | 01/05/26 | Yes |
 | peiibhfbdkgnbepgobjcgabkcfembndm | Free Chatgpt For Google C | Policy Violation | Store Monitoring | 01/05/26 | No |
 | kpbihpkcpnfnjddplngmbljcfofjgejh | Chatgpt Notifier | Policy Violation | Store Monitoring | 01/05/26 | No |
+| nejbppbbepmcpjohaelhlidllpfailgg | Video Downloader Free Vid | Malware | Store Monitoring | 30/04/26 | No |
 | nbflcljmdbibeoaipongjgfmbapanipm | Anker AIME Copilot | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No |
 | ljlhpcabhpjdlcjhbmgjigfceppgabmk | Notion中文版 | Policy Violation | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | Yes |
 | pdahnbohfcekobflehebdkoemnmmempk | Notion中文版 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | Yes |
@@ -1028,7 +1044,7 @@
 | kbifpojhlkdoidmndacedmkbjopeekgl | TikTok Downloader – Save Videos, No Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | No |
 | kkhjihaeddnhknninbekkhaklnailngh | TikTok Video Downloader – Save Without Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | No |
 | mpalaahimeigibehbocnjipjfakekfia | Mass Tiktok Video Downloader | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | No |
-| cfbgdmiobbicgjnaegnenlcgbdabkcli | TikTok Video Downloader – Save Without Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | No |
+| cfbgdmiobbicgjnaegnenlcgbdabkcli | TikTok Video Downloader – Save Without Watermark | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | Yes |
 | pfpijacnpangmkfdpgodlbokpkhpkeka | Tiktok Downloader | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/) | 20/04/26 | No |
 | ehdkeonoccndeaggbnolijnmmeohkbpf | TikTok Video Downloader – Bulk Save | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders) | 20/04/26 | No |
 | chjdellkkbngmkkdpckgfmpdjfianamb | Echoweb Website Traffic S | Malware | Store Monitoring | 20/04/26 | No |
@@ -1057,6 +1073,7 @@
 | embnfgbapngmmabnniopmpmliafogbnj | Defillama+ | Policy Violation | Store Monitoring | 18/04/26 | No |
 | nffmdokmgpgbnjdpibbfhhnminiackjg | Kung Fu Panda Tigress | Policy Violation | Store Monitoring | 18/04/26 | No |
 | ffocfibjgakneigiajpccfcdmomlbapo | Nano Banana | Policy Violation | Store Monitoring | 18/04/26 | No |
+| nmbgmmidnmpoebaopgafhmomioefilof | Vpn Master | Malware | Store Monitoring | 17/04/26 | No |
 | jllebjcjaeddkfhohacafldffhbdpedp | Pokemon Fire Red Version Game | Policy Violation | Store Monitoring | 17/04/26 | No |
 | khkhnljbiikhodfhkbpfpgeodjmaghek | Kung Fu Panda Movie | Policy Violation | Store Monitoring | 17/04/26 | No |
 | dofjalblnidfghllaloiojjejmnhjllf | Kung Fu Panda 3 2016 | Policy Violation | Store Monitoring | 17/04/26 | No |
@@ -1497,6 +1514,8 @@
 | kihfdgpnhlkopkiadeopobhbpeplffam | All Friends Remover | Malware | Store Monitoring | 06/03/26 | Yes |
 | lebaaldhfkhmjcmljacicokgmcfmeofm | Convert PDF to Notion | Policy Violation | Store Monitoring | 06/03/26 | No |
 | lfhfenilfjbgcjckhmdpgjdafhoojljl | Top10 Crypto Ticker | Policy Violation | Store Monitoring | 06/03/26 | No |
+| emelhlogkdeaceidhnigjiiimaiodkcl | Auroratrace | Policy Violation | Store Monitoring | 05/03/26 | No |
+| bfdfgeapdnmbniejglgknmocmenffngd | Gitlab Issue Timer | Policy Violation | Store Monitoring | 05/03/26 | No |
 | lhnakmicdcknofabdbnokbfcnmbifcln | Vex 6 Unblocked Game | Malware | Store Monitoring | 05/03/26 | Yes |
 | ddojedanlfphhidganiompkcdodcbkpg | Lazy Statistics | Policy Violation | Store Monitoring | 05/03/26 | No |
 | imgjdmafnohpidfpbggfccpmmcnofmlh | Clicksit Crm Automate You | Policy Violation | Store Monitoring | 05/03/26 | No |
