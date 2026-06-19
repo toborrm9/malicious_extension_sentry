@@ -1,12 +1,19 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-19T08:42:08.329Z",
+  "generated": "2026-06-19T12:32:00.903Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 2456,
+  "total_indicators": 2457,
   "indicators": [
+    {
+      "extension_id": "momcknbmamjofcmgiinlopbgidneinej",
+      "name": "Luffy & Spiderman Epic Duo Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-19",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/momcknbmamjofcmgiinlopbgidneinej"
+    },
     {
       "extension_id": "okmnfbglccjhbkgmpdhpogaenhemegbn",
       "name": "Roblox Play Button Color",
