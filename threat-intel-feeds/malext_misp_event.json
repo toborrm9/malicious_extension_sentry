@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-19",
-    "timestamp": "1781872321",
+    "date": "2026-06-20",
+    "timestamp": "1781986651",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,240 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "483e0068-32e2-5d44-93b1-ada9a65079f2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "giolfdhelhkknfnplanblpbjeaiojikm",
+        "comment": "Recordbro Screen Recorder | Source: Store Monitoring | Added: 2026-06-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "475e8fce-120a-5336-a608-3cc26291f478",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/giolfdhelhkknfnplanblpbjeaiojikm",
+        "comment": "Chrome Web Store entry for Recordbro Screen Recorder (giolfdhelhkknfnplanblpbjeaiojikm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "80c49bae-8cbe-524f-a940-1bed3dd255f9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pjkbaekgkeighjmnlpbfelckdnclgdmg",
+        "comment": "Southpark Avengers Live W | Source: Store Monitoring | Added: 2026-06-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "12972c38-c376-5eb4-b01c-7058a06e0a95",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pjkbaekgkeighjmnlpbfelckdnclgdmg",
+        "comment": "Chrome Web Store entry for Southpark Avengers Live W (pjkbaekgkeighjmnlpbfelckdnclgdmg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "df46111f-c307-5231-b6a2-7ef7c0f12a7a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mmlfjoaojechkiaplclbfbggnblhhcmf",
+        "comment": "Ama Citation Generator | Source: Store Monitoring | Added: 2026-06-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "5167b0a7-55d8-5188-8e04-59d7dd9573e8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mmlfjoaojechkiaplclbfbggnblhhcmf",
+        "comment": "Chrome Web Store entry for Ama Citation Generator (mmlfjoaojechkiaplclbfbggnblhhcmf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "903be8e6-4ad9-5f81-a0cc-b7bce5b38cfb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kpamdlioiocdedfbjmmicgbcdmebpkli",
+        "comment": "Tiktok Pro Tools | Source: Store Monitoring | Added: 2026-06-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1b8ca2f1-eab9-5b7a-b575-f5bb7763cc1c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kpamdlioiocdedfbjmmicgbcdmebpkli",
+        "comment": "Chrome Web Store entry for Tiktok Pro Tools (kpamdlioiocdedfbjmmicgbcdmebpkli)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "02679d32-1ebc-5c4a-aaaa-03e3dfec77fa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aahjpoblnboigndgjiijcnbahniepnbo",
+        "comment": "Tiktok Seller Assistant B | Source: Store Monitoring | Added: 2026-06-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "5ae94f8b-47a7-505a-b758-f9d64d87014c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aahjpoblnboigndgjiijcnbahniepnbo",
+        "comment": "Chrome Web Store entry for Tiktok Seller Assistant B (aahjpoblnboigndgjiijcnbahniepnbo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cf42a18c-9f7a-53c9-9908-28d497047b9a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ocinkpohajgdakbmkehodgoelekmmlkf",
+        "comment": "Tiktok Shot | Source: Store Monitoring | Added: 2026-06-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "37c95661-f7bf-56ba-8e76-75865e499faa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ocinkpohajgdakbmkehodgoelekmmlkf",
+        "comment": "Chrome Web Store entry for Tiktok Shot (ocinkpohajgdakbmkehodgoelekmmlkf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b38b4a39-6c94-5599-8ef7-29af4d5d4d62",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ipodflffnbipcddaanmkanbdfamfafnb",
+        "comment": "Tiktok Power | Source: Store Monitoring | Added: 2026-06-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "9763b672-1c5c-5d8b-b308-999663744090",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ipodflffnbipcddaanmkanbdfamfafnb",
+        "comment": "Chrome Web Store entry for Tiktok Power (ipodflffnbipcddaanmkanbdfamfafnb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bcfa5b46-a451-5b73-877f-ca97741af149",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bhpjnepmecojnfbecoamagcmnpkahgag",
+        "comment": "Kawaak | Source: Store Monitoring | Added: 2026-06-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "08edee7b-818a-53c0-b188-d52b5c87480b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bhpjnepmecojnfbecoamagcmnpkahgag",
+        "comment": "Chrome Web Store entry for Kawaak (bhpjnepmecojnfbecoamagcmnpkahgag)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3b62d65f-b9a2-5615-b33b-14c745b2649c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "clkpnpahbfgiceeodekphakjodhlllip",
+        "comment": "Traffic Scope \u2014 Website T | Source: Store Monitoring | Added: 2026-06-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "553b26cb-4ee2-54fa-8deb-2c2a4cca08e9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/clkpnpahbfgiceeodekphakjodhlllip",
+        "comment": "Chrome Web Store entry for Traffic Scope \u2014 Website T (clkpnpahbfgiceeodekphakjodhlllip)",
+        "distribution": "5"
+      },
       {
         "uuid": "23bcd27c-1981-5f46-abda-a93b81170199",
         "type": "text",
@@ -415,6 +649,58 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/aljnlpmcjfncelhooaacnokmibhoobce",
         "comment": "Chrome Web Store entry for Cu Gay (aljnlpmcjfncelhooaacnokmibhoobce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "00e10f10-768b-5bbf-99ca-405e3198f83a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lanidlcmpddcaiklhhmcinmmmmgoombp",
+        "comment": "Tiktok Studio Pro | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "738273bd-41c6-5377-b505-08b2589144a2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lanidlcmpddcaiklhhmcinmmmmgoombp",
+        "comment": "Chrome Web Store entry for Tiktok Studio Pro (lanidlcmpddcaiklhhmcinmmmmgoombp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "493c6026-6755-5010-bd58-1923216cd3d3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iefgnpnmmdcegahdlcakfhmkdnedgkeh",
+        "comment": "Punkcam Virtual Camera | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "34888a6a-cee3-5900-ac5d-8ad648382481",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iefgnpnmmdcegahdlcakfhmkdnedgkeh",
+        "comment": "Chrome Web Store entry for Punkcam Virtual Camera (iefgnpnmmdcegahdlcakfhmkdnedgkeh)",
         "distribution": "5"
       },
       {
@@ -7721,6 +8007,58 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/kpmanggilaiabhnclachbaiichkmefgd",
         "comment": "Chrome Web Store entry for waCluster : Organize, automatize e decole nas vendas (kpmanggilaiabhnclachbaiichkmefgd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "17aa22cc-b89a-52cd-b262-2e0a89b16189",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nomiidbifingbifefkjcincfomeijnpd",
+        "comment": "Whastup Automa\u00e7\u00e3O Crm | Source: Store Monitoring | Added: 2026-06-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "947628d9-eb9d-55a2-b390-891cf59b04a0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nomiidbifingbifefkjcincfomeijnpd",
+        "comment": "Chrome Web Store entry for Whastup Automa\u00e7\u00e3O Crm (nomiidbifingbifefkjcincfomeijnpd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "710dd896-eec5-59f4-bc0b-032bf2b65918",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gmiabmjbibonhgpdbgoinabillaeonpk",
+        "comment": "Meshy Downloader | Source: Store Monitoring | Added: 2026-06-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "c95b3bbe-d81c-58c6-91f4-94b1a3c3f100",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gmiabmjbibonhgpdbgoinabillaeonpk",
+        "comment": "Chrome Web Store entry for Meshy Downloader (gmiabmjbibonhgpdbgoinabillaeonpk)",
         "distribution": "5"
       },
       {
@@ -23347,6 +23685,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/oaldjcdohhhibelagdhoahbedekfjjjf",
         "comment": "Chrome Web Store entry for Browser Cash (oaldjcdohhhibelagdhoahbedekfjjjf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "53969d73-0135-5822-bbea-80a27efd30ba",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bgdcaohapbjnmgcajplkhccfkjfjpclm",
+        "comment": "Mla Citation Generator | Source: Store Monitoring | Added: 2026-05-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "9381a71f-3165-533a-a053-e60862da9a5a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bgdcaohapbjnmgcajplkhccfkjfjpclm",
+        "comment": "Chrome Web Store entry for Mla Citation Generator (bgdcaohapbjnmgcajplkhccfkjfjpclm)",
         "distribution": "5"
       },
       {
