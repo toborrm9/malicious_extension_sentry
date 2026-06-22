@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| gbbbbdklmljipijohmolcddaghjccfaa | Kpoint Screen Recorder An | Policy Violation | Store Monitoring | 22/06/26 | No |
+| hlkiignknimkfafapmgpbnbnmkajgljh | Waalaxy Linkedin Automati | Policy Violation | Store Monitoring | 22/06/26 | No |
+| aohfenpemkefcdchmonkodnkdnkejegd | Screen Recorder | Policy Violation | Store Monitoring | 22/06/26 | No |
+| hmmikoignbdlgkhmnfjpjhalaohnmibb | Screensend Advanced Scree | Policy Violation | Store Monitoring | 22/06/26 | No |
+| lnjjhgpndmgkccabcamfkbiljnehmcac | Pratik Not Analizi E Okul | Policy Violation | Store Monitoring | 22/06/26 | No |
+| knofmaclamhbkdhobcookjbanlhkinjp | Crypto Price Tracker | Bundling Unwanted Software | Store Monitoring | 22/06/26 | No |
+| ejkiikneibegknkgimmihdpcbcedgmpo | Volume Booster | Potentially Unwanted Software | [malext.io](https://malext.io/reports/QuietBoost) | 21/06/26 | No |
 | giolfdhelhkknfnplanblpbjeaiojikm | Recordbro Screen Recorder | Policy Violation | Store Monitoring | 20/06/26 | No |
 | pjkbaekgkeighjmnlpbfelckdnclgdmg | Southpark Avengers Live W | Policy Violation | Store Monitoring | 20/06/26 | No |
 | mmlfjoaojechkiaplclbfbggnblhhcmf | Ama Citation Generator | Policy Violation | Store Monitoring | 20/06/26 | No |
