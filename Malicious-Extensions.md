@@ -1,11 +1,96 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| aelkdabnghkghhdachppjmmmegalboob | PowerTab - 新标签页 | Malware | [chromewebstore.google.com](https://chromewebstore.google.com/detail/aelkdabnghkghhdachppjmmmegalboob) | 22/06/26 | No |
+| pgdajjngmjfhnoghgoddckkikijklaib | Ref Schedule Sync | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| oaenllollgdmpdfhohchhnalkjpogepl | SearchGPT for Chrome | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| nkbgidaebkndnjnndagnfbphcjnljjbh | Mathbox | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| mnbalckdejcnmigjgihahifcmjfgijnc | SearchThatNow - Efficient Search History Extension | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| mfgnpbldopkbgphddaifenkolikoepbe | Void - The most customizable portal to the web | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| mcdelifedlnefhghhkheadefejbfhidi | Video Search Pro | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| lhhgjkddhnhehgllghamgflemdggibdd | Initial | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| kpbdaaemjmcpnacfkdjiohoifagldhml | Launch Extension | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| kpagedgbkhgklmnplkeppfnoemllamom | Smart New Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| kpabhcileaggdidcbpolkkgmggklkpdn | Free Search Engine Launcher | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| kopmmbdfjbjfnnkhgknhebonbabnkjhd | Remover | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| kopkhpmgfpeogomppmnbibhfgpohhami | Alibay | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| klbmallgiemiofpknobjmpbpjndphedc | Spotify Web Player Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| kedbaefjfjpplphppofakpfldhimhcio | NsLookup - Find DNS Records | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| kbfihlonhdjhlmdpkcfkiflibabpcgag | Kerra Connect | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| kaokicfgdcecmhpllkgbfikkihicaokh | Fast Weather & Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| jkhkimeccaklhnefcjdjfgblaohadjlf | Search Online | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| jepcdjidlnpjfdblhhkkfhgbgdgphile | Recipes Stash | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| jdbelhlllpkdmeoopdhanocdfdcnaejd | Pointcoin - Search & Earn | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| ijhddpligbebbnkemgmobmgjcdhkgnhk | Telegram Index | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| hbbnpmeaffahpelnnmgbdondpfkihope | One Global Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| gjfllojpkdnjaiaokblkmjlebiagbphd | MetaGer Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| ghfpmfejffpjebfokeikjimnommbpaon | Beamo Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| gbdafbdgpjfdajombdfefkmdiopjcobl | PandaTab 新标签页 | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| gakmegiabfkcldknhpamdcflkofdpljk | Satellite Earth Maps | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| fmhohpnoklemblfiefcmaimondboemkj | Safe Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| fkfilegpkbdejgolppocomljgjmfllim | VnChatGPT | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| fjjlanpalmagenpageablaphkfcchado | NoSearchBar | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| fgmeehhcnbaijfgkjemphaeciiiifhdh | webtagger | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| ffegaofjeccmmgfignjlomkipbhjnkni | SearchGPT | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| fbgcedjacmlbgleddnoacbnijgmiolem | Microsoft Bing Search with Rewards | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| faoilnlkccdjdkpljainiiimmijofmpd | DuckDuckGo No-AI Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| famklkiljmbebjohjekddkmpicoepojf | פינוקים - חיפוש סרטים וסדרות | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| eoonjagfcinffmfjlaghfppbgimlkbbk | Easy Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| eokkbmoflgpfigececbpdndmfjilhgoo | ArkheVault Realm Resolver | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| eojpcomhenokfoodcdcbejifiepjbbcd | EAB Omnibox | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| eojfoigempgjbpppohfaapklfllbcidk | SearchFort | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| ejpgchjcnlcgngfcomaoappdaemngghl | View Package Tracking | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| ejkbdfbleeojdmijgmdkmgojnmjbdgpj | Simple & Quick SEO Tools | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| ejcfepkfckglbgocfkanmcdngdijcgld | ChatGPT search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| eeiiknnphladbapfamiamfimnnnodife | Search for a Cause | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| dngnjfahakikicmhbjmgokapebkejjnb | 迷鹿起始页 | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| dlpfglcloancbgmfiohmbgicgjmmpbih | Tifferet | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| dgehhbnnldekfdjkndgmahagcjppompb | Tracking Package | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| cpolfpnoogkfiijmnchanammleopfioi | Time & Date Extension | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| dccgcgjcffbbgdnjligcknlghafeamgp | Search Lotto Browser Extension | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| copobeiecgdaejfmkgadefmhhhbohike | YouNativefy | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| dapfcbdbmlllhlikiddnomgohaadjjof | MyShopSearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| dafaeffkjlknkjdcdalddcjggdngomih | Sexy Tab | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| cpkkfaafbdlmbapnncigbndjohnapimh | Premier Search \| Default Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| cooagkhjpjaoljncieegiefgphelgjhm | Search'n Give | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| cnfbamhcjfindhfkglepjieieiiahlje | Inici | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| clmigbgloakbibldceoocjibnnmpcgoo | Boom Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| ckidilnpdjdfnmooolmhihpijpchofcl | My Search Easy | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| cjkpabimmgbbommbopohkcokdmnghioj | UniBo Lessons to Google Calendar | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| cjainfpclhpohjeekmackkebfelacpab | Symbaloo Homepage | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| cemhbhdbggdannbdmajoldjnnnlhaghf | StartXXL - Search Engine | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| ccodppdikeappapgcfaikfnnljpgkgcm | myTensai Search Provider | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| bpeipmghmalpblacdelkhbnjkfnlhkhe | YouTube AI Chapters | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| ccncieedlifdlmckgmlcdfjehofcgoei | UpSearches | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| cckdnkffddcifghhlecfhdkaohikjnca | Audio Recorder \| Voice Recorder Search Addon | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| cbojomnehgiadpclibfpidkipekmeldd | AiSenseUs - AI Meeting Notes, Transcription & Summaries Assistant | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| bfpmblbobcdklnmfabbolldpjbpkhekn | GreenPanthera Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| bfkgpokiagcanmjfaahdenfngaacogce | Time for Price – See How Long You’d Work for It | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| bficdbgmiiecnmoldiffehkhcafobnkl | PDF Search Helper | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| bfhdkhapcgcedkenlmilgpdnedhnmbpl | SearchLock \| Default Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| bffkjdkbmldjgfibfhggllfpldoepcld | Direct Search Online | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| bfdoibhpaoodkgapgiblgebjfohjalij | Andi: AI-Powered Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| bfceiliamdeooandjankfooimmabkedp | Surf Safely | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| bbckbjajkalablcljkhpbkceikplcfam | ChatGPT Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| banfcjdifkjgmbbbpobnephgghccbkhf | Mycool | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| apajbjmfhhnbgpjjnhlhnhciammcnbag | Pinukim - חיפוש סרטים וסדרות | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| angljchkijbgfnlhahcmoibfijjihhjh | AI Chat for Chrome | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| alfncdbejemgdldbcomdohpjjfbnmknk | Lycos Extension | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| alepdkfogdlaehmdljdlipmomgipcbom | Remover | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| abclkepfnkmfkhohoogobbekdcdghaoi | EchoSearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
+| fpopfchojdfnaoolfpnpbkancfpbjold | Cubbie | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 22/06/26 | No |
+| ddpfnhhogibgeebicainblakehdiobcj | Pure Safety | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
 | gbbbbdklmljipijohmolcddaghjccfaa | Kpoint Screen Recorder An | Policy Violation | Store Monitoring | 22/06/26 | No |
 | hlkiignknimkfafapmgpbnbnmkajgljh | Waalaxy Linkedin Automati | Policy Violation | Store Monitoring | 22/06/26 | No |
 | aohfenpemkefcdchmonkodnkdnkejegd | Screen Recorder | Policy Violation | Store Monitoring | 22/06/26 | No |
 | hmmikoignbdlgkhmnfjpjhalaohnmibb | Screensend Advanced Scree | Policy Violation | Store Monitoring | 22/06/26 | No |
 | lnjjhgpndmgkccabcamfkbiljnehmcac | Pratik Not Analizi E Okul | Policy Violation | Store Monitoring | 22/06/26 | No |
 | knofmaclamhbkdhobcookjbanlhkinjp | Crypto Price Tracker | Bundling Unwanted Software | Store Monitoring | 22/06/26 | No |
+| pbfcgfapdapgdmhcfbmejjpjbmjdjfjd | Anime Girl With Ruby Eyes Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/06/26 | No |
+| oijnoanhjlfkgadnnhojmajbdfipkgno | Cute Black Kitten Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/06/26 | No |
+| mlojnemihkomcpmgceilgdabhnfibdae | RDR2 Arthur Morgan Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/06/26 | No |
+| lckpmabinkgpdckkehjfljbadihllkem | Pac-Man Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/06/26 | No |
+| gbkljgfdoehfkoeoncdokchfgpkjaicp | Satoru Gojo Jujutsu Kaisen JJK Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/06/26 | No |
+| didkbnopbicmboieomdidfieccdklabd | Hello Kitty Cute Halloween Pumpkins Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/06/26 | No |
 | ejkiikneibegknkgimmihdpcbcedgmpo | Volume Booster | Potentially Unwanted Software | [malext.io](https://malext.io/reports/QuietBoost) | 21/06/26 | No |
 | giolfdhelhkknfnplanblpbjeaiojikm | Recordbro Screen Recorder | Policy Violation | Store Monitoring | 20/06/26 | No |
 | pjkbaekgkeighjmnlpbfelckdnclgdmg | Southpark Avengers Live W | Policy Violation | Store Monitoring | 20/06/26 | No |
