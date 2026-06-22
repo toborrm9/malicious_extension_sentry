@@ -1,12 +1,565 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-22T16:50:29.169Z",
+  "generated": "2026-06-22T21:30:34.275Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 2478,
+  "total_indicators": 2563,
   "indicators": [
+    {
+      "extension_id": "aelkdabnghkghhdachppjmmmegalboob",
+      "name": "PowerTab - \u65b0\u6807\u7b7e\u9875",
+      "source": "https://chromewebstore.google.com/detail/aelkdabnghkghhdachppjmmmegalboob",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/aelkdabnghkghhdachppjmmmegalboob"
+    },
+    {
+      "extension_id": "pgdajjngmjfhnoghgoddckkikijklaib",
+      "name": "Ref Schedule Sync",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pgdajjngmjfhnoghgoddckkikijklaib"
+    },
+    {
+      "extension_id": "oaenllollgdmpdfhohchhnalkjpogepl",
+      "name": "SearchGPT for Chrome",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/oaenllollgdmpdfhohchhnalkjpogepl"
+    },
+    {
+      "extension_id": "nkbgidaebkndnjnndagnfbphcjnljjbh",
+      "name": "Mathbox",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nkbgidaebkndnjnndagnfbphcjnljjbh"
+    },
+    {
+      "extension_id": "mnbalckdejcnmigjgihahifcmjfgijnc",
+      "name": "SearchThatNow - Efficient Search History Extension",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mnbalckdejcnmigjgihahifcmjfgijnc"
+    },
+    {
+      "extension_id": "mfgnpbldopkbgphddaifenkolikoepbe",
+      "name": "Void - The most customizable portal to the web",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mfgnpbldopkbgphddaifenkolikoepbe"
+    },
+    {
+      "extension_id": "mcdelifedlnefhghhkheadefejbfhidi",
+      "name": "Video Search Pro",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mcdelifedlnefhghhkheadefejbfhidi"
+    },
+    {
+      "extension_id": "lhhgjkddhnhehgllghamgflemdggibdd",
+      "name": "Initial",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lhhgjkddhnhehgllghamgflemdggibdd"
+    },
+    {
+      "extension_id": "kpbdaaemjmcpnacfkdjiohoifagldhml",
+      "name": "Launch Extension",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kpbdaaemjmcpnacfkdjiohoifagldhml"
+    },
+    {
+      "extension_id": "kpagedgbkhgklmnplkeppfnoemllamom",
+      "name": "Smart New Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kpagedgbkhgklmnplkeppfnoemllamom"
+    },
+    {
+      "extension_id": "kpabhcileaggdidcbpolkkgmggklkpdn",
+      "name": "Free Search Engine Launcher",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kpabhcileaggdidcbpolkkgmggklkpdn"
+    },
+    {
+      "extension_id": "kopmmbdfjbjfnnkhgknhebonbabnkjhd",
+      "name": "Remover",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kopmmbdfjbjfnnkhgknhebonbabnkjhd"
+    },
+    {
+      "extension_id": "kopkhpmgfpeogomppmnbibhfgpohhami",
+      "name": "Alibay",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kopkhpmgfpeogomppmnbibhfgpohhami"
+    },
+    {
+      "extension_id": "klbmallgiemiofpknobjmpbpjndphedc",
+      "name": "Spotify Web Player Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/klbmallgiemiofpknobjmpbpjndphedc"
+    },
+    {
+      "extension_id": "kedbaefjfjpplphppofakpfldhimhcio",
+      "name": "NsLookup - Find DNS Records",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kedbaefjfjpplphppofakpfldhimhcio"
+    },
+    {
+      "extension_id": "kbfihlonhdjhlmdpkcfkiflibabpcgag",
+      "name": "Kerra Connect",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kbfihlonhdjhlmdpkcfkiflibabpcgag"
+    },
+    {
+      "extension_id": "kaokicfgdcecmhpllkgbfikkihicaokh",
+      "name": "Fast Weather & Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kaokicfgdcecmhpllkgbfikkihicaokh"
+    },
+    {
+      "extension_id": "jkhkimeccaklhnefcjdjfgblaohadjlf",
+      "name": "Search Online",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jkhkimeccaklhnefcjdjfgblaohadjlf"
+    },
+    {
+      "extension_id": "jepcdjidlnpjfdblhhkkfhgbgdgphile",
+      "name": "Recipes Stash",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jepcdjidlnpjfdblhhkkfhgbgdgphile"
+    },
+    {
+      "extension_id": "jdbelhlllpkdmeoopdhanocdfdcnaejd",
+      "name": "Pointcoin - Search & Earn",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jdbelhlllpkdmeoopdhanocdfdcnaejd"
+    },
+    {
+      "extension_id": "ijhddpligbebbnkemgmobmgjcdhkgnhk",
+      "name": "Telegram Index",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ijhddpligbebbnkemgmobmgjcdhkgnhk"
+    },
+    {
+      "extension_id": "hbbnpmeaffahpelnnmgbdondpfkihope",
+      "name": "One Global Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hbbnpmeaffahpelnnmgbdondpfkihope"
+    },
+    {
+      "extension_id": "gjfllojpkdnjaiaokblkmjlebiagbphd",
+      "name": "MetaGer Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gjfllojpkdnjaiaokblkmjlebiagbphd"
+    },
+    {
+      "extension_id": "ghfpmfejffpjebfokeikjimnommbpaon",
+      "name": "Beamo Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ghfpmfejffpjebfokeikjimnommbpaon"
+    },
+    {
+      "extension_id": "gbdafbdgpjfdajombdfefkmdiopjcobl",
+      "name": "PandaTab \u65b0\u6807\u7b7e\u9875",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gbdafbdgpjfdajombdfefkmdiopjcobl"
+    },
+    {
+      "extension_id": "gakmegiabfkcldknhpamdcflkofdpljk",
+      "name": "Satellite Earth Maps",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gakmegiabfkcldknhpamdcflkofdpljk"
+    },
+    {
+      "extension_id": "fmhohpnoklemblfiefcmaimondboemkj",
+      "name": "Safe Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fmhohpnoklemblfiefcmaimondboemkj"
+    },
+    {
+      "extension_id": "fkfilegpkbdejgolppocomljgjmfllim",
+      "name": "VnChatGPT",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fkfilegpkbdejgolppocomljgjmfllim"
+    },
+    {
+      "extension_id": "fjjlanpalmagenpageablaphkfcchado",
+      "name": "NoSearchBar",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fjjlanpalmagenpageablaphkfcchado"
+    },
+    {
+      "extension_id": "fgmeehhcnbaijfgkjemphaeciiiifhdh",
+      "name": "webtagger",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fgmeehhcnbaijfgkjemphaeciiiifhdh"
+    },
+    {
+      "extension_id": "ffegaofjeccmmgfignjlomkipbhjnkni",
+      "name": "SearchGPT",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ffegaofjeccmmgfignjlomkipbhjnkni"
+    },
+    {
+      "extension_id": "fbgcedjacmlbgleddnoacbnijgmiolem",
+      "name": "Microsoft Bing Search with Rewards",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fbgcedjacmlbgleddnoacbnijgmiolem"
+    },
+    {
+      "extension_id": "faoilnlkccdjdkpljainiiimmijofmpd",
+      "name": "DuckDuckGo No-AI Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/faoilnlkccdjdkpljainiiimmijofmpd"
+    },
+    {
+      "extension_id": "famklkiljmbebjohjekddkmpicoepojf",
+      "name": "\u05e4\u05d9\u05e0\u05d5\u05e7\u05d9\u05dd - \u05d7\u05d9\u05e4\u05d5\u05e9 \u05e1\u05e8\u05d8\u05d9\u05dd \u05d5\u05e1\u05d3\u05e8\u05d5\u05ea",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/famklkiljmbebjohjekddkmpicoepojf"
+    },
+    {
+      "extension_id": "eoonjagfcinffmfjlaghfppbgimlkbbk",
+      "name": "Easy Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eoonjagfcinffmfjlaghfppbgimlkbbk"
+    },
+    {
+      "extension_id": "eokkbmoflgpfigececbpdndmfjilhgoo",
+      "name": "ArkheVault Realm Resolver",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eokkbmoflgpfigececbpdndmfjilhgoo"
+    },
+    {
+      "extension_id": "eojpcomhenokfoodcdcbejifiepjbbcd",
+      "name": "EAB Omnibox",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eojpcomhenokfoodcdcbejifiepjbbcd"
+    },
+    {
+      "extension_id": "eojfoigempgjbpppohfaapklfllbcidk",
+      "name": "SearchFort",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eojfoigempgjbpppohfaapklfllbcidk"
+    },
+    {
+      "extension_id": "ejpgchjcnlcgngfcomaoappdaemngghl",
+      "name": "View Package Tracking",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ejpgchjcnlcgngfcomaoappdaemngghl"
+    },
+    {
+      "extension_id": "ejkbdfbleeojdmijgmdkmgojnmjbdgpj",
+      "name": "Simple & Quick SEO Tools",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ejkbdfbleeojdmijgmdkmgojnmjbdgpj"
+    },
+    {
+      "extension_id": "ejcfepkfckglbgocfkanmcdngdijcgld",
+      "name": "ChatGPT search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ejcfepkfckglbgocfkanmcdngdijcgld"
+    },
+    {
+      "extension_id": "eeiiknnphladbapfamiamfimnnnodife",
+      "name": "Search for a Cause",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eeiiknnphladbapfamiamfimnnnodife"
+    },
+    {
+      "extension_id": "dngnjfahakikicmhbjmgokapebkejjnb",
+      "name": "\u8ff7\u9e7f\u8d77\u59cb\u9875",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dngnjfahakikicmhbjmgokapebkejjnb"
+    },
+    {
+      "extension_id": "dlpfglcloancbgmfiohmbgicgjmmpbih",
+      "name": "Tifferet",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dlpfglcloancbgmfiohmbgicgjmmpbih"
+    },
+    {
+      "extension_id": "dgehhbnnldekfdjkndgmahagcjppompb",
+      "name": "Tracking Package",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dgehhbnnldekfdjkndgmahagcjppompb"
+    },
+    {
+      "extension_id": "cpolfpnoogkfiijmnchanammleopfioi",
+      "name": "Time & Date Extension",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cpolfpnoogkfiijmnchanammleopfioi"
+    },
+    {
+      "extension_id": "dccgcgjcffbbgdnjligcknlghafeamgp",
+      "name": "Search Lotto Browser Extension",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dccgcgjcffbbgdnjligcknlghafeamgp"
+    },
+    {
+      "extension_id": "copobeiecgdaejfmkgadefmhhhbohike",
+      "name": "YouNativefy",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/copobeiecgdaejfmkgadefmhhhbohike"
+    },
+    {
+      "extension_id": "dapfcbdbmlllhlikiddnomgohaadjjof",
+      "name": "MyShopSearch",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dapfcbdbmlllhlikiddnomgohaadjjof"
+    },
+    {
+      "extension_id": "dafaeffkjlknkjdcdalddcjggdngomih",
+      "name": "Sexy Tab",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dafaeffkjlknkjdcdalddcjggdngomih"
+    },
+    {
+      "extension_id": "cpkkfaafbdlmbapnncigbndjohnapimh",
+      "name": "Premier Search | Default Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cpkkfaafbdlmbapnncigbndjohnapimh"
+    },
+    {
+      "extension_id": "cooagkhjpjaoljncieegiefgphelgjhm",
+      "name": "Search'n Give",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cooagkhjpjaoljncieegiefgphelgjhm"
+    },
+    {
+      "extension_id": "cnfbamhcjfindhfkglepjieieiiahlje",
+      "name": "Inici",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cnfbamhcjfindhfkglepjieieiiahlje"
+    },
+    {
+      "extension_id": "clmigbgloakbibldceoocjibnnmpcgoo",
+      "name": "Boom Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/clmigbgloakbibldceoocjibnnmpcgoo"
+    },
+    {
+      "extension_id": "ckidilnpdjdfnmooolmhihpijpchofcl",
+      "name": "My Search Easy",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ckidilnpdjdfnmooolmhihpijpchofcl"
+    },
+    {
+      "extension_id": "cjkpabimmgbbommbopohkcokdmnghioj",
+      "name": "UniBo Lessons to Google Calendar",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cjkpabimmgbbommbopohkcokdmnghioj"
+    },
+    {
+      "extension_id": "cjainfpclhpohjeekmackkebfelacpab",
+      "name": "Symbaloo Homepage",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cjainfpclhpohjeekmackkebfelacpab"
+    },
+    {
+      "extension_id": "cemhbhdbggdannbdmajoldjnnnlhaghf",
+      "name": "StartXXL - Search Engine",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cemhbhdbggdannbdmajoldjnnnlhaghf"
+    },
+    {
+      "extension_id": "ccodppdikeappapgcfaikfnnljpgkgcm",
+      "name": "myTensai Search Provider",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ccodppdikeappapgcfaikfnnljpgkgcm"
+    },
+    {
+      "extension_id": "bpeipmghmalpblacdelkhbnjkfnlhkhe",
+      "name": "YouTube AI Chapters",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bpeipmghmalpblacdelkhbnjkfnlhkhe"
+    },
+    {
+      "extension_id": "ccncieedlifdlmckgmlcdfjehofcgoei",
+      "name": "UpSearches",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ccncieedlifdlmckgmlcdfjehofcgoei"
+    },
+    {
+      "extension_id": "cckdnkffddcifghhlecfhdkaohikjnca",
+      "name": "Audio Recorder | Voice Recorder Search Addon",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cckdnkffddcifghhlecfhdkaohikjnca"
+    },
+    {
+      "extension_id": "cbojomnehgiadpclibfpidkipekmeldd",
+      "name": "AiSenseUs - AI Meeting Notes, Transcription & Summaries Assistant",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cbojomnehgiadpclibfpidkipekmeldd"
+    },
+    {
+      "extension_id": "bfpmblbobcdklnmfabbolldpjbpkhekn",
+      "name": "GreenPanthera Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bfpmblbobcdklnmfabbolldpjbpkhekn"
+    },
+    {
+      "extension_id": "bfkgpokiagcanmjfaahdenfngaacogce",
+      "name": "Time for Price \u2013 See How Long You\u2019d Work for It",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bfkgpokiagcanmjfaahdenfngaacogce"
+    },
+    {
+      "extension_id": "bficdbgmiiecnmoldiffehkhcafobnkl",
+      "name": "PDF Search Helper",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bficdbgmiiecnmoldiffehkhcafobnkl"
+    },
+    {
+      "extension_id": "bfhdkhapcgcedkenlmilgpdnedhnmbpl",
+      "name": "SearchLock | Default Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bfhdkhapcgcedkenlmilgpdnedhnmbpl"
+    },
+    {
+      "extension_id": "bffkjdkbmldjgfibfhggllfpldoepcld",
+      "name": "Direct Search Online",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bffkjdkbmldjgfibfhggllfpldoepcld"
+    },
+    {
+      "extension_id": "bfdoibhpaoodkgapgiblgebjfohjalij",
+      "name": "Andi: AI-Powered Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bfdoibhpaoodkgapgiblgebjfohjalij"
+    },
+    {
+      "extension_id": "bfceiliamdeooandjankfooimmabkedp",
+      "name": "Surf Safely",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bfceiliamdeooandjankfooimmabkedp"
+    },
+    {
+      "extension_id": "bbckbjajkalablcljkhpbkceikplcfam",
+      "name": "ChatGPT Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bbckbjajkalablcljkhpbkceikplcfam"
+    },
+    {
+      "extension_id": "banfcjdifkjgmbbbpobnephgghccbkhf",
+      "name": "Mycool",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/banfcjdifkjgmbbbpobnephgghccbkhf"
+    },
+    {
+      "extension_id": "apajbjmfhhnbgpjjnhlhnhciammcnbag",
+      "name": "Pinukim - \u05d7\u05d9\u05e4\u05d5\u05e9 \u05e1\u05e8\u05d8\u05d9\u05dd \u05d5\u05e1\u05d3\u05e8\u05d5\u05ea",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/apajbjmfhhnbgpjjnhlhnhciammcnbag"
+    },
+    {
+      "extension_id": "angljchkijbgfnlhahcmoibfijjihhjh",
+      "name": "AI Chat for Chrome",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/angljchkijbgfnlhahcmoibfijjihhjh"
+    },
+    {
+      "extension_id": "alfncdbejemgdldbcomdohpjjfbnmknk",
+      "name": "Lycos Extension",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/alfncdbejemgdldbcomdohpjjfbnmknk"
+    },
+    {
+      "extension_id": "alepdkfogdlaehmdljdlipmomgipcbom",
+      "name": "Remover",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/alepdkfogdlaehmdljdlipmomgipcbom"
+    },
+    {
+      "extension_id": "abclkepfnkmfkhohoogobbekdcdghaoi",
+      "name": "EchoSearch",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/abclkepfnkmfkhohoogobbekdcdghaoi"
+    },
+    {
+      "extension_id": "fpopfchojdfnaoolfpnpbkancfpbjold",
+      "name": "Cubbie",
+      "source": "https://malext.io/reports/SearchJack",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fpopfchojdfnaoolfpnpbkancfpbjold"
+    },
+    {
+      "extension_id": "ddpfnhhogibgeebicainblakehdiobcj",
+      "name": "Pure Safety",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-22",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ddpfnhhogibgeebicainblakehdiobcj"
+    },
     {
       "extension_id": "gbbbbdklmljipijohmolcddaghjccfaa",
       "name": "Kpoint Screen Recorder An",
@@ -48,6 +601,48 @@
       "source": "Store Monitoring",
       "insert_date": "2026-06-22",
       "chrome_store_url": "https://chromewebstore.google.com/detail/knofmaclamhbkdhobcookjbanlhkinjp"
+    },
+    {
+      "extension_id": "pbfcgfapdapgdmhcfbmejjpjbmjdjfjd",
+      "name": "Anime Girl With Ruby Eyes Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-21",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pbfcgfapdapgdmhcfbmejjpjbmjdjfjd"
+    },
+    {
+      "extension_id": "oijnoanhjlfkgadnnhojmajbdfipkgno",
+      "name": "Cute Black Kitten Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-21",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/oijnoanhjlfkgadnnhojmajbdfipkgno"
+    },
+    {
+      "extension_id": "mlojnemihkomcpmgceilgdabhnfibdae",
+      "name": "RDR2 Arthur Morgan Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-21",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mlojnemihkomcpmgceilgdabhnfibdae"
+    },
+    {
+      "extension_id": "lckpmabinkgpdckkehjfljbadihllkem",
+      "name": "Pac-Man Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-21",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lckpmabinkgpdckkehjfljbadihllkem"
+    },
+    {
+      "extension_id": "gbkljgfdoehfkoeoncdokchfgpkjaicp",
+      "name": "Satoru Gojo Jujutsu Kaisen JJK Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-21",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gbkljgfdoehfkoeoncdokchfgpkjaicp"
+    },
+    {
+      "extension_id": "didkbnopbicmboieomdidfieccdklabd",
+      "name": "Hello Kitty Cute Halloween Pumpkins Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-21",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/didkbnopbicmboieomdidfieccdklabd"
     },
     {
       "extension_id": "ejkiikneibegknkgimmihdpcbcedgmpo",
