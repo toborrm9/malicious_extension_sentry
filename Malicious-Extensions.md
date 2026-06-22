@@ -31,7 +31,6 @@
 | fjjlanpalmagenpageablaphkfcchado | NoSearchBar | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
 | fgmeehhcnbaijfgkjemphaeciiiifhdh | webtagger | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
 | ffegaofjeccmmgfignjlomkipbhjnkni | SearchGPT | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
-| fbgcedjacmlbgleddnoacbnijgmiolem | Microsoft Bing Search with Rewards | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
 | faoilnlkccdjdkpljainiiimmijofmpd | DuckDuckGo No-AI Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
 | famklkiljmbebjohjekddkmpicoepojf | פינוקים - חיפוש סרטים וסדרות | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
 | eoonjagfcinffmfjlaghfppbgimlkbbk | Easy Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
