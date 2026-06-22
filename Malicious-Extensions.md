@@ -14,7 +14,6 @@
 | kopmmbdfjbjfnnkhgknhebonbabnkjhd | Remover | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
 | kopkhpmgfpeogomppmnbibhfgpohhami | Alibay | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
 | klbmallgiemiofpknobjmpbpjndphedc | Spotify Web Player Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
-| kedbaefjfjpplphppofakpfldhimhcio | NsLookup - Find DNS Records | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
 | kbfihlonhdjhlmdpkcfkiflibabpcgag | Kerra Connect | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
 | kaokicfgdcecmhpllkgbfikkihicaokh | Fast Weather & Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
 | jkhkimeccaklhnefcjdjfgblaohadjlf | Search Online | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
