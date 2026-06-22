@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-20",
-    "timestamp": "1781986651",
+    "date": "2026-06-22",
+    "timestamp": "1782147029",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,188 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "fba93652-2752-59d6-bebd-06e08566d523",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gbbbbdklmljipijohmolcddaghjccfaa",
+        "comment": "Kpoint Screen Recorder An | Source: Store Monitoring | Added: 2026-06-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "dc90814c-4921-5598-b329-81744e512347",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gbbbbdklmljipijohmolcddaghjccfaa",
+        "comment": "Chrome Web Store entry for Kpoint Screen Recorder An (gbbbbdklmljipijohmolcddaghjccfaa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8196ff7f-6ee0-50ef-8656-46737bc23491",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hlkiignknimkfafapmgpbnbnmkajgljh",
+        "comment": "Waalaxy Linkedin Automati | Source: Store Monitoring | Added: 2026-06-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "c28edf67-cff5-5558-98d8-98a112853d2c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hlkiignknimkfafapmgpbnbnmkajgljh",
+        "comment": "Chrome Web Store entry for Waalaxy Linkedin Automati (hlkiignknimkfafapmgpbnbnmkajgljh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "edb01712-d60d-5fac-bf6c-b11d6145ee11",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aohfenpemkefcdchmonkodnkdnkejegd",
+        "comment": "Screen Recorder | Source: Store Monitoring | Added: 2026-06-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0404ea71-11a0-5929-af7b-24c472dd691f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aohfenpemkefcdchmonkodnkdnkejegd",
+        "comment": "Chrome Web Store entry for Screen Recorder (aohfenpemkefcdchmonkodnkdnkejegd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "974000f2-03b4-5bba-9735-8e0ce1782d89",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hmmikoignbdlgkhmnfjpjhalaohnmibb",
+        "comment": "Screensend Advanced Scree | Source: Store Monitoring | Added: 2026-06-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "2057f4f9-85ae-53bc-9d87-78a86d348605",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hmmikoignbdlgkhmnfjpjhalaohnmibb",
+        "comment": "Chrome Web Store entry for Screensend Advanced Scree (hmmikoignbdlgkhmnfjpjhalaohnmibb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8c2db960-bdb4-5595-afe5-2e60e6be4092",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lnjjhgpndmgkccabcamfkbiljnehmcac",
+        "comment": "Pratik Not Analizi E Okul | Source: Store Monitoring | Added: 2026-06-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "122896e4-d759-58f6-92ef-51d8b1f995e7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lnjjhgpndmgkccabcamfkbiljnehmcac",
+        "comment": "Chrome Web Store entry for Pratik Not Analizi E Okul (lnjjhgpndmgkccabcamfkbiljnehmcac)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "316bbb82-c8f1-549a-ac66-e877909f1119",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "knofmaclamhbkdhobcookjbanlhkinjp",
+        "comment": "Crypto Price Tracker | Source: Store Monitoring | Added: 2026-06-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "f6635d3a-7f87-5a77-b75c-b8bceb230d68",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/knofmaclamhbkdhobcookjbanlhkinjp",
+        "comment": "Chrome Web Store entry for Crypto Price Tracker (knofmaclamhbkdhobcookjbanlhkinjp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6e73463f-788a-5125-a9e6-0ffe9197db3e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ejkiikneibegknkgimmihdpcbcedgmpo",
+        "comment": "Volume Booster | Source: https://malext.io/reports/QuietBoost | Added: 2026-06-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/QuietBoost\""
+          }
+        ]
+      },
+      {
+        "uuid": "588b52f8-c8bf-53d0-842b-945843ef4704",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ejkiikneibegknkgimmihdpcbcedgmpo",
+        "comment": "Chrome Web Store entry for Volume Booster (ejkiikneibegknkgimmihdpcbcedgmpo)",
+        "distribution": "5"
+      },
       {
         "uuid": "483e0068-32e2-5d44-93b1-ada9a65079f2",
         "type": "text",
