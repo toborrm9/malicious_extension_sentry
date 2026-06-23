@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| kfankbmlcehilkaccoalojfpmbnhfbdb | Video Downloader For Chro | Malware | Store Monitoring | 23/06/26 | No |
+| hfghaecalgpfelanimgdmdjkjigjkill | Video Downloader For All | Malware | Store Monitoring | 23/06/26 | No |
+| gcoohkloihojlopdgldfdcggmanhiopg | Popup Blocker Prime | Malware | Store Monitoring | 23/06/26 | No |
+| daadoogoflilmegfelmfebagacpemepg | Porn Blocker Block Adult | Policy Violation | Store Monitoring | 23/06/26 | No |
+| hadgldgnglbhjbcoaaihkifphdhfjpbg | Ai Customer Service Assis | Policy Violation | Store Monitoring | 23/06/26 | No |
+| ielglcemhgmhgfhhlegnnmjknjhpdjom | Tiktok Video Downloader – | Policy Violation | Store Monitoring | 23/06/26 | No |
+| pfbaaiabnelbhonjhjhdbihdigkehoml | Whatsapp Ai Writer | Policy Violation | Store Monitoring | 23/06/26 | No |
 | aelkdabnghkghhdachppjmmmegalboob | PowerTab - 新标签页 | Malware | [chromewebstore.google.com](https://chromewebstore.google.com/detail/aelkdabnghkghhdachppjmmmegalboob) | 22/06/26 | No |
 | pgdajjngmjfhnoghgoddckkikijklaib | Ref Schedule Sync | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
 | oaenllollgdmpdfhohchhnalkjpogepl | SearchGPT for Chrome | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No |
