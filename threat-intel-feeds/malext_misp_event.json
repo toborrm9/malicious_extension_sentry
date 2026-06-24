@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-23",
-    "timestamp": "1782233040",
+    "date": "2026-06-24",
+    "timestamp": "1782287254",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,188 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "3146a789-e618-5cbe-a549-0aaabc3f319c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ibamlakmcmfbgepecpbglcmfpeipibdj",
+        "comment": "Chatgpt Email Ai Email Wr | Source: Store Monitoring | Added: 2026-06-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7b39097e-e386-54dc-9347-8403310708fd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ibamlakmcmfbgepecpbglcmfpeipibdj",
+        "comment": "Chrome Web Store entry for Chatgpt Email Ai Email Wr (ibamlakmcmfbgepecpbglcmfpeipibdj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d8f2cf65-94b7-59ec-b35f-fd9232c4724b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odojigmbjnkkomnigjjhmlnkfofalaoj",
+        "comment": "Okmewmew Wallet | Source: Store Monitoring | Added: 2026-06-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "502e15d0-59d4-5e0d-97f7-865a92f51469",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/odojigmbjnkkomnigjjhmlnkfofalaoj",
+        "comment": "Chrome Web Store entry for Okmewmew Wallet (odojigmbjnkkomnigjjhmlnkfofalaoj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4442c372-31d2-574f-b7c8-55cc28d623cd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mlkjjjmhjijlmafgjlpkiobpdocdbncj",
+        "comment": "Chatgpt For Google Search | Source: Store Monitoring | Added: 2026-06-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "81b09fd2-aae3-58a8-92af-58539ae4c7ce",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mlkjjjmhjijlmafgjlpkiobpdocdbncj",
+        "comment": "Chrome Web Store entry for Chatgpt For Google Search (mlkjjjmhjijlmafgjlpkiobpdocdbncj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ac83cdda-c0e6-5cb7-af99-8236271df9f0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "edidjiopihkmleojnaeeajnabokhnmon",
+        "comment": "Video Downloader Platinum | Source: Store Monitoring | Added: 2026-06-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "54b3f7d6-db6f-5332-8e76-022220d08bb6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/edidjiopihkmleojnaeeajnabokhnmon",
+        "comment": "Chrome Web Store entry for Video Downloader Platinum (edidjiopihkmleojnaeeajnabokhnmon)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2994b8ca-7288-5a9d-9623-d18137a80508",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hpenifmighhhffcibppgcfbghnaliamn",
+        "comment": "Creativespy \u2014 Facebook Ad | Source: Store Monitoring | Added: 2026-06-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e4549903-53e7-5e90-8d66-bf39176a3062",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hpenifmighhhffcibppgcfbghnaliamn",
+        "comment": "Chrome Web Store entry for Creativespy \u2014 Facebook Ad (hpenifmighhhffcibppgcfbghnaliamn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "758e3012-719b-5a25-b46b-a09511719b9a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "igafolbmoanjcgficglfgpkklpaemaie",
+        "comment": "Grok Ai | Source: Store Monitoring | Added: 2026-06-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b679ecc6-bf9c-5e84-bca4-c4282b1317e7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/igafolbmoanjcgficglfgpkklpaemaie",
+        "comment": "Chrome Web Store entry for Grok Ai (igafolbmoanjcgficglfgpkklpaemaie)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "539d0296-7acc-5e1b-9fa5-9dd7cba44d8d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abagnmodnolifefngjhfedfafmheafgm",
+        "comment": "Adshield For Youtube | Source: Store Monitoring | Added: 2026-06-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "1f4494fc-5201-5ac2-9ff7-9ae9518a706a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abagnmodnolifefngjhfedfafmheafgm",
+        "comment": "Chrome Web Store entry for Adshield For Youtube (abagnmodnolifefngjhfedfafmheafgm)",
+        "distribution": "5"
+      },
       {
         "uuid": "0bd5290f-5f65-5ae8-9e15-e92950b0928c",
         "type": "text",
@@ -3174,6 +3356,32 @@
         "distribution": "5"
       },
       {
+        "uuid": "b4341594-4bb5-5508-b011-b966ab19e598",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fiefnifmddhoiaanpnffbdhjbbdjelec",
+        "comment": "Do Wallet | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e125d7f0-5ce9-5455-90f1-522077839f1a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fiefnifmddhoiaanpnffbdhjbbdjelec",
+        "comment": "Chrome Web Store entry for Do Wallet (fiefnifmddhoiaanpnffbdhjbbdjelec)",
+        "distribution": "5"
+      },
+      {
         "uuid": "00e10f10-768b-5bbf-99ca-405e3198f83a",
         "type": "text",
         "category": "Other",
@@ -3587,6 +3795,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/jhmokkkndhlngbphddmpipnjpnoklpdb",
         "comment": "Chrome Web Store entry for SellerHub360 (jhmokkkndhlngbphddmpipnjpnoklpdb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a4f8bb99-65a5-5654-92b8-dc9ac62a3f6b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eicibdbdaedbgaoikodgpoikeegncpag",
+        "comment": "Woobie | Source: Store Monitoring | Added: 2026-06-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "01843523-39f4-5908-a491-346d7de6debb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eicibdbdaedbgaoikodgpoikeegncpag",
+        "comment": "Chrome Web Store entry for Woobie (eicibdbdaedbgaoikodgpoikeegncpag)",
         "distribution": "5"
       },
       {
@@ -37569,6 +37803,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/klnndcfpflikaeipgimmbhjhhhcegpoi",
         "comment": "Chrome Web Store entry for Linkedin Queens Puzzle So (klnndcfpflikaeipgimmbhjhhhcegpoi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7208ad26-3393-5eea-90c8-4517758d0b14",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pebepmghabmlgimamkfeoobcggkeleeg",
+        "comment": "Coincap Elite | Source: Store Monitoring | Added: 2026-04-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0512149a-4c70-5555-b58a-fdd9cda22d0f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pebepmghabmlgimamkfeoobcggkeleeg",
+        "comment": "Chrome Web Store entry for Coincap Elite (pebepmghabmlgimamkfeoobcggkeleeg)",
         "distribution": "5"
       },
       {
