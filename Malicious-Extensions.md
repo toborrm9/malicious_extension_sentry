@@ -1,7 +1,14 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
-| kfankbmlcehilkaccoalojfpmbnhfbdb | Video Downloader For Chro | Malware | Store Monitoring | 23/06/26 | No |
-| hfghaecalgpfelanimgdmdjkjigjkill | Video Downloader For All | Malware | Store Monitoring | 23/06/26 | No |
+| ibamlakmcmfbgepecpbglcmfpeipibdj | Chatgpt Email Ai Email Wr | Policy Violation | Store Monitoring | 24/06/26 | No |
+| odojigmbjnkkomnigjjhmlnkfofalaoj | Okmewmew Wallet | Malware | Store Monitoring | 24/06/26 | No |
+| mlkjjjmhjijlmafgjlpkiobpdocdbncj | Chatgpt For Google Search | Policy Violation | Store Monitoring | 24/06/26 | No |
+| edidjiopihkmleojnaeeajnabokhnmon | Video Downloader Platinum | Malware | Store Monitoring | 24/06/26 | No |
+| hpenifmighhhffcibppgcfbghnaliamn | Creativespy — Facebook Ad | Bundling Unwanted Software | Store Monitoring | 24/06/26 | No |
+| igafolbmoanjcgficglfgpkklpaemaie | Grok Ai | Policy Violation | Store Monitoring | 24/06/26 | No |
+| abagnmodnolifefngjhfedfafmheafgm | Adshield For Youtube | Malware | Store Monitoring | 23/06/26 | No |
+| kfankbmlcehilkaccoalojfpmbnhfbdb | Video Downloader For Chro | Malware | Store Monitoring | 23/06/26 | Yes |
+| hfghaecalgpfelanimgdmdjkjigjkill | Video Downloader For All | Malware | Store Monitoring | 23/06/26 | Yes |
 | gcoohkloihojlopdgldfdcggmanhiopg | Popup Blocker Prime | Malware | Store Monitoring | 23/06/26 | No |
 | daadoogoflilmegfelmfebagacpemepg | Porn Blocker Block Adult | Policy Violation | Store Monitoring | 23/06/26 | No |
 | hadgldgnglbhjbcoaaihkifphdhfjpbg | Ai Customer Service Assis | Policy Violation | Store Monitoring | 23/06/26 | No |
@@ -121,6 +128,7 @@
 | abpppenajdmdganodlmoeocldojbbjgp | Kahoot Hacker Auto Answer | Malware | Store Monitoring | 17/06/26 | Yes |
 | cbnedplnkdejpbelaggjkffdpilpflcc | Cold Messenger | Policy Violation | Store Monitoring | 17/06/26 | No |
 | aljnlpmcjfncelhooaacnokmibhoobce | Cu Gay | Policy Violation | Store Monitoring | 17/06/26 | No |
+| fiefnifmddhoiaanpnffbdhjbbdjelec | Do Wallet | Policy Violation | Store Monitoring | 16/06/26 | No |
 | lanidlcmpddcaiklhhmcinmmmmgoombp | Tiktok Studio Pro | Policy Violation | Store Monitoring | 16/06/26 | No |
 | iefgnpnmmdcegahdlcakfhmkdnedgkeh | Punkcam Virtual Camera | Policy Violation | Store Monitoring | 16/06/26 | No |
 | djoaahciiaicopcelcnkggeclplonejg | Market Sniper | Policy Violation | Store Monitoring | 16/06/26 | No |
@@ -137,6 +145,7 @@
 | oigfpjciikeohdlpddnekohneanpjfnk | wlojas | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 16/06/26 | No |
 | lmoiokdhmchhgefcojdpcakkggejccdc | Was Hub | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 16/06/26 | No |
 | jhmokkkndhlngbphddmpipnjpnoklpdb | SellerHub360 | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 16/06/26 | No |
+| eicibdbdaedbgaoikodgpoikeegncpag | Woobie | Policy Violation | Store Monitoring | 15/06/26 | No |
 | oikgbpcmdphfkhplgkfngjilemlolann | Freshy Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 15/06/26 | No |
 | cnkcgoiimpncbonlilkekbigfhchcbgb | Template Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 15/06/26 | No |
 | epdmngmgidehpmhjamdjcaecpligmcfh | Better Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 15/06/26 | No |
@@ -1444,6 +1453,7 @@
 | kmjdfdcmhacinpgipgoplfagelaccakl | Youtube View Bot | Malware | Store Monitoring | 10/04/26 | Yes |
 | fmnadcdniomhekonddamdlciknhnnjfl | Jegtris Free Classic Tetr | Policy Violation | Store Monitoring | 10/04/26 | No |
 | klnndcfpflikaeipgimmbhjhhhcegpoi | Linkedin Queens Puzzle So | Policy Violation | Store Monitoring | 10/04/26 | No |
+| pebepmghabmlgimamkfeoobcggkeleeg | Coincap Elite | Malware | Store Monitoring | 09/04/26 | No |
 | acojldicjlifbkkfaijnomogffamiadi | Okto Generator | Bundling Unwanted Software | Store Monitoring | 09/04/26 | No |
 | dmnhoegpldfpfmfoignpmapmbffgkalj | Swiftnote | Malware | Store Monitoring | 09/04/26 | No |
 | mgbkajajjhgmhchoajmomhcdmlndkofc | Brd Wallet Extension | Malware | Store Monitoring | 09/04/26 | No |
