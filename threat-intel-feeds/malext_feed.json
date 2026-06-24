@@ -1,12 +1,215 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-24T07:47:33.705Z",
+  "generated": "2026-06-24T19:05:34.372Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 2578,
+  "total_indicators": 2607,
   "indicators": [
+    {
+      "extension_id": "onjaegfaigiefjodacjpeigblaifalab",
+      "name": "Ferrari Formula 1 Car SF-24 Wallpapers New Tab by Gameograf",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/onjaegfaigiefjodacjpeigblaifalab"
+    },
+    {
+      "extension_id": "koenojhenlpkdgenlddhkdaanmbjodaf",
+      "name": "Dodge Challenger Near Neon Gas station Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/koenojhenlpkdgenlddhkdaanmbjodaf"
+    },
+    {
+      "extension_id": "kodaloakchjhcakljbgmmldaieipmhbm",
+      "name": "Kimetsu no Yaiba Live Wallpaper Chrome OS Theme",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kodaloakchjhcakljbgmmldaieipmhbm"
+    },
+    {
+      "extension_id": "jidabhjlngckpjebpndahcjaieafpmnn",
+      "name": "Pochita - Chainsaw Man Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jidabhjlngckpjebpndahcjaieafpmnn"
+    },
+    {
+      "extension_id": "jhpneloilpkaplpafmfcdnjmhkpckkhl",
+      "name": "Among Us Play Game",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jhpneloilpkaplpafmfcdnjmhkpckkhl"
+    },
+    {
+      "extension_id": "jhpfhafmpiddmdpckmkloalhicjeaebi",
+      "name": "Luffy Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jhpfhafmpiddmdpckmkloalhicjeaebi"
+    },
+    {
+      "extension_id": "hpbggdgnlhghkghechobpofkjmnjamnj",
+      "name": "Space Portal Blue Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hpbggdgnlhghkghechobpofkjmnjamnj"
+    },
+    {
+      "extension_id": "hmokjfomkbkhmojjgmopeccjphlmmomg",
+      "name": "Fortnite Doublecross Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hmokjfomkbkhmojjgmopeccjphlmmomg"
+    },
+    {
+      "extension_id": "hieoamgbieejanfaokbikjndeknlpmgj",
+      "name": "Audi R8 Parked at Night Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hieoamgbieejanfaokbikjndeknlpmgj"
+    },
+    {
+      "extension_id": "hbfmkfagbfhnhjbkaabfnpoachabbdfc",
+      "name": "Hello Kitty in the Forest Cottage Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hbfmkfagbfhnhjbkaabfnpoachabbdfc"
+    },
+    {
+      "extension_id": "gmmndimhbecadcblkmhejbpkaedpbmgd",
+      "name": "Spider Gwen Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gmmndimhbecadcblkmhejbpkaedpbmgd"
+    },
+    {
+      "extension_id": "gkgndalkkgbmighjaohfchbjgmcdgmlo",
+      "name": "Ninetales pokemon",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gkgndalkkgbmighjaohfchbjgmcdgmlo"
+    },
+    {
+      "extension_id": "fmfoaknbjjaciohlbaknfomidjcnjjnp",
+      "name": "Bugatti Desert Drive Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fmfoaknbjjaciohlbaknfomidjcnjjnp"
+    },
+    {
+      "extension_id": "fmfllnggangdnmibbikdioepfgigllkh",
+      "name": "Naruto Live Wallpaper New Tab",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fmfllnggangdnmibbikdioepfgigllkh"
+    },
+    {
+      "extension_id": "ffladngmmcjnohcplndpnadlempeieek",
+      "name": "Kaiju No.8 Mission Recon Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ffladngmmcjnohcplndpnadlempeieek"
+    },
+    {
+      "extension_id": "ffkdngggjmkjjnllenlipapibhdjaifa",
+      "name": "Dark Goth Girl Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ffkdngggjmkjjnllenlipapibhdjaifa"
+    },
+    {
+      "extension_id": "ffjjdanjeagfhifbclljppppkcnhbibf",
+      "name": "BMW M5 F90 Live Wallpaper Features",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ffjjdanjeagfhifbclljppppkcnhbibf"
+    },
+    {
+      "extension_id": "ebfgjccbecpnelogemipakeafclbmmin",
+      "name": "Anime JDM Car Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ebfgjccbecpnelogemipakeafclbmmin"
+    },
+    {
+      "extension_id": "celeneigbbjdiefdbpiakeoinhlfilda",
+      "name": "Super Bowl Live Wallpaper New Tab",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/celeneigbbjdiefdbpiakeoinhlfilda"
+    },
+    {
+      "extension_id": "cblcineigpljnifohknkeeglblnccggc",
+      "name": "Demon Slayer Kimetsu No Yaiba Wallpaper New Tab",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cblcineigpljnifohknkeeglblnccggc"
+    },
+    {
+      "extension_id": "cbkaacjfboiijjkojeodihmpldbjndbp",
+      "name": "Sanrio Cinnamoroll Halloween Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cbkaacjfboiijjkojeodihmpldbjndbp"
+    },
+    {
+      "extension_id": "aoobaoajoehiehaimbmbjocbmejemkgo",
+      "name": "Sunlit Spring Cat on a Flowered Fence Live Wallpaperr",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/aoobaoajoehiehaimbmbjocbmejemkgo"
+    },
+    {
+      "extension_id": "lajilhjggagbmlbkhllkeobbpgkghdmb",
+      "name": "SearchVPN",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lajilhjggagbmlbkhllkeobbpgkghdmb"
+    },
+    {
+      "extension_id": "kfpgdllicalahckijjnlidfejgfenghp",
+      "name": "Best House Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kfpgdllicalahckijjnlidfejgfenghp"
+    },
+    {
+      "extension_id": "klkckidpelgokgleimknappemeclljlk",
+      "name": "FedEx Tracking",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/klkckidpelgokgleimknappemeclljlk"
+    },
+    {
+      "extension_id": "jgagnmeahcjljcckcgedgkacbblogmld",
+      "name": "Online AntiVirus Protection",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jgagnmeahcjljcckcgedgkacbblogmld"
+    },
+    {
+      "extension_id": "ebgcanfjipfcdnjgpbagblmgebkpbhoo",
+      "name": "Print Easily",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ebgcanfjipfcdnjgpbagblmgebkpbhoo"
+    },
+    {
+      "extension_id": "eoocajkneconnfeilldjbnemnlbckfef",
+      "name": "Bing Search Microsoft Rewards",
+      "source": "https://malext.io/reports/SearchJack/",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eoocajkneconnfeilldjbnemnlbckfef"
+    },
+    {
+      "extension_id": "chkcigcgceapplbpikclbgalhpiakafg",
+      "name": "WA",
+      "source": "https://malext.io/reports/WaSteal/",
+      "insert_date": "2026-06-24",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/chkcigcgceapplbpikclbgalhpiakafg"
+    },
     {
       "extension_id": "ibamlakmcmfbgepecpbglcmfpeipibdj",
       "name": "Chatgpt Email Ai Email Wr",
