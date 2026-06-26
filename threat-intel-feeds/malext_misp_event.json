@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-24",
-    "timestamp": "1782327934",
+    "date": "2026-06-26",
+    "timestamp": "1782461598",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,474 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "643250f5-b9e3-5381-bb0a-74616f0c3885",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "inllflnokfkadlfjmdimlngdniccmodp",
+        "comment": "Chatgpt Explain | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "8d0cf3a8-0a30-537e-9a89-0fa180409dbf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/inllflnokfkadlfjmdimlngdniccmodp",
+        "comment": "Chrome Web Store entry for Chatgpt Explain (inllflnokfkadlfjmdimlngdniccmodp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d8660bb3-6c4d-5f0e-957a-01ec7085388a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lpiopkapohkgdchmhhiandamejecamfk",
+        "comment": "Discord Token Managerlogi | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "6b68a82d-b9e4-55b5-ba1d-d892c6871876",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lpiopkapohkgdchmhhiandamejecamfk",
+        "comment": "Chrome Web Store entry for Discord Token Managerlogi (lpiopkapohkgdchmhhiandamejecamfk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3f63b41e-9d21-504e-b9c2-801590ad5fa4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ojieddljfamhogokiffpcolhlibonacp",
+        "comment": "Linkedin Scraper \u2013 Sales | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "53bcdd9f-89d6-564f-a0ae-06f057ef351b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ojieddljfamhogokiffpcolhlibonacp",
+        "comment": "Chrome Web Store entry for Linkedin Scraper \u2013 Sales (ojieddljfamhogokiffpcolhlibonacp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f1d72a47-ee55-5b3f-a7f0-be344dcac792",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fpdbhcocghgfobllfholkeeilepcnbmp",
+        "comment": "Instagram Enhancement Sui | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e4106035-607c-507b-b231-91dea8279492",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fpdbhcocghgfobllfholkeeilepcnbmp",
+        "comment": "Chrome Web Store entry for Instagram Enhancement Sui (fpdbhcocghgfobllfholkeeilepcnbmp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9aa04479-6f5d-5592-9d31-b31255983342",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pfakejmdafokengfknddnhoccmpnimbi",
+        "comment": "Meshyai Easy Download | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "238f18a2-f52f-5bda-96fc-e5ea0d345c7a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pfakejmdafokengfknddnhoccmpnimbi",
+        "comment": "Chrome Web Store entry for Meshyai Easy Download (pfakejmdafokengfknddnhoccmpnimbi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f6b811ba-71cf-50b9-ae14-423f608267c8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kflflcpnnkojolplllfgcjobkgjmpdon",
+        "comment": "Tiktok Enhancer Editing N | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e0d453a5-a800-506d-a8d5-4f2a64caa39a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kflflcpnnkojolplllfgcjobkgjmpdon",
+        "comment": "Chrome Web Store entry for Tiktok Enhancer Editing N (kflflcpnnkojolplllfgcjobkgjmpdon)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f0280420-6b85-5730-a61f-d9d3837f746a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oilfpkgoibdejfdpedhejpgkojdbbakn",
+        "comment": "Bonusbank Horsepower | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "184010a5-1721-58be-a4d9-33426bcd5fc0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oilfpkgoibdejfdpedhejpgkojdbbakn",
+        "comment": "Chrome Web Store entry for Bonusbank Horsepower (oilfpkgoibdejfdpedhejpgkojdbbakn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7cbb6e3e-f514-50c1-a2ec-41dd4c018d02",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "omhiplognfcppbkbamjgkeinomnchiol",
+        "comment": "Pure Vpn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u0430\u044f \u0437\u0430\u0449\u0438\u0442 | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "4ac6de23-4d34-5a30-b1f0-12bb6879d724",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/omhiplognfcppbkbamjgkeinomnchiol",
+        "comment": "Chrome Web Store entry for Pure Vpn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u0430\u044f \u0437\u0430\u0449\u0438\u0442 (omhiplognfcppbkbamjgkeinomnchiol)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0d3a527b-93c4-5cc5-bcca-a054fca0be17",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "okhldklkmbfaipmmdnhhiadgakeahkbk",
+        "comment": "Init Revoke Web3 Shield | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "06e5d7d2-0f3d-5d99-a563-6cd6339a960d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/okhldklkmbfaipmmdnhhiadgakeahkbk",
+        "comment": "Chrome Web Store entry for Init Revoke Web3 Shield (okhldklkmbfaipmmdnhhiadgakeahkbk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7d71bb68-c66e-5232-9037-083b1a8a4f24",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bfeolpjiobccfnlcglfmdofnhfkceane",
+        "comment": "\u0456M\u202en\u0435K\u03bf\u03c4\u202c Cr\u202e\u03bft\u0440Y\u202c D\u202e\u0456F\u0435 | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "3e51f3bd-c12f-5b1d-bf5d-dc516360a9e5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bfeolpjiobccfnlcglfmdofnhfkceane",
+        "comment": "Chrome Web Store entry for \u0456M\u202en\u0435K\u03bf\u03c4\u202c Cr\u202e\u03bft\u0440Y\u202c D\u202e\u0456F\u0435 (bfeolpjiobccfnlcglfmdofnhfkceane)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "acc07c95-262b-55d1-9cc0-0a93e197d9c8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dndehckjnkmpdcpmnpplphcklpialekb",
+        "comment": "Adradar Fb Ad Spy Tool | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "341e4bd6-7541-5174-b2ce-05a9c36f211c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dndehckjnkmpdcpmnpplphcklpialekb",
+        "comment": "Chrome Web Store entry for Adradar Fb Ad Spy Tool (dndehckjnkmpdcpmnpplphcklpialekb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f1cc5d40-423c-5b4e-9170-b09f1c0593c4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pjhdflpjemjalkidecigcjcamkbllhoj",
+        "comment": "Chatgpt For Google | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7966979f-24b7-5e4c-9fdb-1d4e77689084",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pjhdflpjemjalkidecigcjcamkbllhoj",
+        "comment": "Chrome Web Store entry for Chatgpt For Google (pjhdflpjemjalkidecigcjcamkbllhoj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d40113b4-9b18-5724-a190-16ccdee2c00e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "koaogippnbgpegnloihppehpaimilfae",
+        "comment": "Kity Chatgpt Navigator | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "009c7db7-a2e2-5f6c-95e0-125484515854",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/koaogippnbgpegnloihppehpaimilfae",
+        "comment": "Chrome Web Store entry for Kity Chatgpt Navigator (koaogippnbgpegnloihppehpaimilfae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "76d5fa8d-33e8-5187-bbcd-bb2c507651e7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ddblhcgjpnmjlbkpndackhohbdbknobi",
+        "comment": "Safe Wallet Extension | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "98d6132f-1812-5e61-b702-6044244d2464",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ddblhcgjpnmjlbkpndackhohbdbknobi",
+        "comment": "Chrome Web Store entry for Safe Wallet Extension (ddblhcgjpnmjlbkpndackhohbdbknobi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d43d710d-5edb-557f-a0c6-e8c47dacc070",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mlpjhambancjofgkidpblmepnebegpom",
+        "comment": "Mychatpilot | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "e2a4fab2-888a-54a4-a18b-c30018d5d52d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mlpjhambancjofgkidpblmepnebegpom",
+        "comment": "Chrome Web Store entry for Mychatpilot (mlpjhambancjofgkidpblmepnebegpom)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6dff8033-33db-5228-8ca7-08c1752ced38",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kbcpkngbpapbplochkndihgcpdabkkok",
+        "comment": "Mgx Wallet | Source: Store Monitoring | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "ebbfb284-6bb7-5ff6-9fe2-92219551fc2c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kbcpkngbpapbplochkndihgcpdabkkok",
+        "comment": "Chrome Web Store entry for Mgx Wallet (kbcpkngbpapbplochkndihgcpdabkkok)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "02147698-231e-5c83-aac0-dee58bf9c7d1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "glbpkhkogoangfbjlgfdklajfhenjeld",
+        "comment": "Retro Vibe Wallpaper | Source: MalExt Code Analysis | Added: 2026-06-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Code Analysis\""
+          }
+        ]
+      },
+      {
+        "uuid": "e364441b-a141-5911-b41c-066ddaa36d8c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/glbpkhkogoangfbjlgfdklajfhenjeld",
+        "comment": "Chrome Web Store entry for Retro Vibe Wallpaper (glbpkhkogoangfbjlgfdklajfhenjeld)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fa9e5a53-89db-5d7c-b3b7-f09671999db3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mijgckjdimoofbfpaahpgfnmnbnaahhe",
+        "comment": "HARMONY | Source: https://malext.io/reports/WaSteal | Added: 2026-06-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal\""
+          }
+        ]
+      },
+      {
+        "uuid": "160d169b-77c2-5299-ab5f-8d91a796fe44",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mijgckjdimoofbfpaahpgfnmnbnaahhe",
+        "comment": "Chrome Web Store entry for HARMONY (mijgckjdimoofbfpaahpgfnmnbnaahhe)",
+        "distribution": "5"
+      },
       {
         "uuid": "ebfc8e7e-2cf3-5fb2-b32f-0f51e5143d54",
         "type": "text",
