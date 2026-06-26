@@ -1,5 +1,23 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| inllflnokfkadlfjmdimlngdniccmodp | Chatgpt Explain | Policy Violation | Store Monitoring | 26/06/26 | No |
+| lpiopkapohkgdchmhhiandamejecamfk | Discord Token Managerlogi | Bundling Unwanted Software | Store Monitoring | 26/06/26 | No |
+| ojieddljfamhogokiffpcolhlibonacp | Linkedin Scraper – Sales | Policy Violation | Store Monitoring | 26/06/26 | No |
+| fpdbhcocghgfobllfholkeeilepcnbmp | Instagram Enhancement Sui | Policy Violation | Store Monitoring | 26/06/26 | No |
+| pfakejmdafokengfknddnhoccmpnimbi | Meshyai Easy Download | Policy Violation | Store Monitoring | 26/06/26 | No |
+| kflflcpnnkojolplllfgcjobkgjmpdon | Tiktok Enhancer Editing N | Policy Violation | Store Monitoring | 26/06/26 | No |
+| oilfpkgoibdejfdpedhejpgkojdbbakn | Bonusbank Horsepower | Policy Violation | Store Monitoring | 26/06/26 | No |
+| omhiplognfcppbkbamjgkeinomnchiol | Pure Vpn — надежная защит | Policy Violation | Store Monitoring | 26/06/26 | No |
+| okhldklkmbfaipmmdnhhiadgakeahkbk | Init Revoke Web3 Shield | Malware | Store Monitoring | 26/06/26 | No |
+| bfeolpjiobccfnlcglfmdofnhfkceane | іM‮nеKοτ‬ Cr‮οtрY‬ D‮іFе | Malware | Store Monitoring | 26/06/26 | No |
+| dndehckjnkmpdcpmnpplphcklpialekb | Adradar Fb Ad Spy Tool | Bundling Unwanted Software | Store Monitoring | 26/06/26 | No |
+| pjhdflpjemjalkidecigcjcamkbllhoj | Chatgpt For Google | Policy Violation | Store Monitoring | 26/06/26 | No |
+| koaogippnbgpegnloihppehpaimilfae | Kity Chatgpt Navigator | Policy Violation | Store Monitoring | 26/06/26 | No |
+| ddblhcgjpnmjlbkpndackhohbdbknobi | Safe Wallet Extension | Malware | Store Monitoring | 26/06/26 | No |
+| mlpjhambancjofgkidpblmepnebegpom | Mychatpilot | Policy Violation | Store Monitoring | 26/06/26 | No |
+| kbcpkngbpapbplochkndihgcpdabkkok | Mgx Wallet | Malware | Store Monitoring | 26/06/26 | No |
+| glbpkhkogoangfbjlgfdklajfhenjeld | Retro Vibe Wallpaper | Search-Hijacker | MalExt Code Analysis | 25/06/26 | No |
+| mijgckjdimoofbfpaahpgfnmnbnaahhe | HARMONY | Malware | [malext.io](https://malext.io/reports/WaSteal) | 25/06/26 | No |
 | onjaegfaigiefjodacjpeigblaifalab | Ferrari Formula 1 Car SF-24 Wallpapers New Tab by Gameograf | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 24/06/26 | No |
 | koenojhenlpkdgenlddhkdaanmbjodaf | Dodge Challenger Near Neon Gas station Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 24/06/26 | No |
 | kodaloakchjhcakljbgmmldaieipmhbm | Kimetsu no Yaiba Live Wallpaper Chrome OS Theme | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 24/06/26 | No |
@@ -32,10 +50,10 @@
 | ibamlakmcmfbgepecpbglcmfpeipibdj | Chatgpt Email Ai Email Wr | Policy Violation | Store Monitoring | 24/06/26 | No |
 | odojigmbjnkkomnigjjhmlnkfofalaoj | Okmewmew Wallet | Malware | Store Monitoring | 24/06/26 | No |
 | mlkjjjmhjijlmafgjlpkiobpdocdbncj | Chatgpt For Google Search | Policy Violation | Store Monitoring | 24/06/26 | No |
-| edidjiopihkmleojnaeeajnabokhnmon | Video Downloader Platinum | Malware | Store Monitoring | 24/06/26 | No |
+| edidjiopihkmleojnaeeajnabokhnmon | Video Downloader Platinum | Malware | Store Monitoring | 24/06/26 | Yes |
 | hpenifmighhhffcibppgcfbghnaliamn | Creativespy — Facebook Ad | Bundling Unwanted Software | Store Monitoring | 24/06/26 | No |
 | igafolbmoanjcgficglfgpkklpaemaie | Grok Ai | Policy Violation | Store Monitoring | 24/06/26 | No |
-| abagnmodnolifefngjhfedfafmheafgm | Adshield For Youtube | Malware | Store Monitoring | 23/06/26 | No |
+| abagnmodnolifefngjhfedfafmheafgm | Adshield For Youtube | Malware | Store Monitoring | 23/06/26 | Yes |
 | kfankbmlcehilkaccoalojfpmbnhfbdb | Video Downloader For Chro | Malware | Store Monitoring | 23/06/26 | Yes |
 | hfghaecalgpfelanimgdmdjkjigjkill | Video Downloader For All | Malware | Store Monitoring | 23/06/26 | Yes |
 | gcoohkloihojlopdgldfdcggmanhiopg | Popup Blocker Prime | Malware | Store Monitoring | 23/06/26 | No |
