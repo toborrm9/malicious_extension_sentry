@@ -1,12 +1,26 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-26T10:38:01.342Z",
+  "generated": "2026-06-26T11:38:00.932Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 2641,
+  "total_indicators": 2643,
   "indicators": [
+    {
+      "extension_id": "gekoepiplklhniacchbbgbhilidiojmb",
+      "name": "AdBlock Suite - Block all ads on websites for a cleaner browsing",
+      "source": "https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise",
+      "insert_date": "2026-06-26",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gekoepiplklhniacchbbgbhilidiojmb"
+    },
+    {
+      "extension_id": "cmedhionkhpnakcndndgjdbohmhepckk",
+      "name": "Adblock for Youtube\u2122",
+      "source": "https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise",
+      "insert_date": "2026-06-26",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cmedhionkhpnakcndndgjdbohmhepckk"
+    },
     {
       "extension_id": "akacljehjekfjgedpgpdjbdnmfgacikj",
       "name": "TechSmith Snagit - Screen Capture & Recorder",
