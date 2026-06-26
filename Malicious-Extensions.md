@@ -1,5 +1,7 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| gekoepiplklhniacchbbgbhilidiojmb | AdBlock Suite - Block all ads on websites for a cleaner browsing | Malware | [www.island.io](https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise) | 26/06/26 | No |
+| cmedhionkhpnakcndndgjdbohmhepckk | Adblock for Youtube™ | Malware | [www.island.io](https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise) | 26/06/26 | No |
 | akacljehjekfjgedpgpdjbdnmfgacikj | TechSmith Snagit - Screen Capture & Recorder | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-24-affiliate-marketing-fraud-via-brand-impersonation-extension-farm.txt) | 26/06/26 | No |
 | pogmledndpkjkliejlcdbgkfkoblickb | Picsart: Photo & Editor - Creative Studio | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-24-affiliate-marketing-fraud-via-brand-impersonation-extension-farm.txt) | 26/06/26 | No |
 | oooajbapompagfednbkpmaicgpcdmlok | Deezer Music & Podcast Player Customizer - Dark Mode & Themes | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-24-affiliate-marketing-fraud-via-brand-impersonation-extension-farm.txt) | 26/06/26 | No |
