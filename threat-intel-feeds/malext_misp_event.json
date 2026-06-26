@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-06-26",
-    "timestamp": "1782470281",
+    "timestamp": "1782473881",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,58 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "bfb5cbb1-0421-5b54-a94a-9b00fe6bad6a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gekoepiplklhniacchbbgbhilidiojmb",
+        "comment": "AdBlock Suite - Block all ads on websites for a cleaner browsing | Source: https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise\""
+          }
+        ]
+      },
+      {
+        "uuid": "da55c61e-aa7e-535d-8c5f-fb28df1b1fd5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gekoepiplklhniacchbbgbhilidiojmb",
+        "comment": "Chrome Web Store entry for AdBlock Suite - Block all ads on websites for a cleaner browsing (gekoepiplklhniacchbbgbhilidiojmb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "74423986-382c-514c-a70f-a6e22d7b9017",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cmedhionkhpnakcndndgjdbohmhepckk",
+        "comment": "Adblock for Youtube\u2122 | Source: https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise | Added: 2026-06-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca9a34f9-dd01-5208-9b0a-9507f0492484",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cmedhionkhpnakcndndgjdbohmhepckk",
+        "comment": "Chrome Web Store entry for Adblock for Youtube\u2122 (cmedhionkhpnakcndndgjdbohmhepckk)",
+        "distribution": "5"
+      },
       {
         "uuid": "9d736525-599f-5f16-96fb-bea09332969d",
         "type": "text",
