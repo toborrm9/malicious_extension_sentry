@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-26",
-    "timestamp": "1782473881",
+    "date": "2026-06-27",
+    "timestamp": "1782604340",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,1254 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "3ebaa10e-9083-5c7c-a9c3-70d50b2cdc15",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nebcaefoifldbbidkgfigijgbdbhdhee",
+        "comment": "Wallet Connect Pay | Source: Store Monitoring | Added: 2026-06-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "54c9fb52-e173-5ccb-b9fa-7c80518642ec",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nebcaefoifldbbidkgfigijgbdbhdhee",
+        "comment": "Chrome Web Store entry for Wallet Connect Pay (nebcaefoifldbbidkgfigijgbdbhdhee)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "22f1da77-09f8-52e0-81e5-17d8bcf88b9d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "okhibkagcfjdiphcbpepgkcgpbeehmlf",
+        "comment": "Disparador WhatsApp WL | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "2963cc27-0908-51ca-abc7-2ea9e145979a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/okhibkagcfjdiphcbpepgkcgpbeehmlf",
+        "comment": "Chrome Web Store entry for Disparador WhatsApp WL (okhibkagcfjdiphcbpepgkcgpbeehmlf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "387375a8-c8a3-5b2e-a08d-f2a7efb78847",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cceigfcfocnmimfpodinldgghgeijjci",
+        "comment": "CRM multiatendimento Zap | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "d3589845-5f2f-5aad-acd1-a8241e0a5797",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cceigfcfocnmimfpodinldgghgeijjci",
+        "comment": "Chrome Web Store entry for CRM multiatendimento Zap (cceigfcfocnmimfpodinldgghgeijjci)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7d5d2906-71a9-5958-bdcb-55e8c79b8788",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eibohmejgabkbblnepndeajbgeefkcai",
+        "comment": "Whatsapp CRM | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "0b450c0f-d05f-5820-a62a-930ae92725c7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eibohmejgabkbblnepndeajbgeefkcai",
+        "comment": "Chrome Web Store entry for Whatsapp CRM (eibohmejgabkbblnepndeajbgeefkcai)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "23a8639d-0789-54a1-bb0e-329fd2852b9f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ihcekhkenpafgnlnppeldehaidbplopb",
+        "comment": "CRM no Whatsapp para corretores de seguro | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "47e6f5e8-a236-554d-a889-1bc34c60c00f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ihcekhkenpafgnlnppeldehaidbplopb",
+        "comment": "Chrome Web Store entry for CRM no Whatsapp para corretores de seguro (ihcekhkenpafgnlnppeldehaidbplopb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "86febeda-1cf1-5e7f-a07d-6729036e58a0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljdglkbjbimcfogoknmggdcjlnddamil",
+        "comment": "Crm Gr\u00e1tis | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "b25b59b4-c4b6-5d4a-bfb7-753f35c8d190",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljdglkbjbimcfogoknmggdcjlnddamil",
+        "comment": "Chrome Web Store entry for Crm Gr\u00e1tis (ljdglkbjbimcfogoknmggdcjlnddamil)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9d14d071-d9e1-52c5-ad07-e565fdb3eeb2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ppmggmlbijhmfdpbmeghdbjajehilcjm",
+        "comment": "CRM no Whatsapp para Barbearia | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "c7a749f9-d966-5bfd-9914-30fdc578936b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ppmggmlbijhmfdpbmeghdbjajehilcjm",
+        "comment": "Chrome Web Store entry for CRM no Whatsapp para Barbearia (ppmggmlbijhmfdpbmeghdbjajehilcjm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "17a28e66-4127-558f-8c0c-45d3b391856e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pmhbkempoiednaeamhilkcpelemmcfic",
+        "comment": "Assis Hub | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "609f049b-8879-5926-a778-a1761b7769a4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pmhbkempoiednaeamhilkcpelemmcfic",
+        "comment": "Chrome Web Store entry for Assis Hub (pmhbkempoiednaeamhilkcpelemmcfic)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d38d1e4d-59d8-5880-b3b5-3fca698ae0c3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "plnegmjdlomnfjhkjpigbcbbmajfkecj",
+        "comment": "Zapeiro | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "edecfa24-d03b-505f-9615-3a24bf23f7df",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/plnegmjdlomnfjhkjpigbcbbmajfkecj",
+        "comment": "Chrome Web Store entry for Zapeiro (plnegmjdlomnfjhkjpigbcbbmajfkecj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ddd5be1c-ac2f-5f12-b76a-98e75e8587ef",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "plmcopimgohpohinmoeejlahpdappepa",
+        "comment": "Sales Prime CRM | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "06c01447-f63f-57ff-af8a-e1d916010078",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/plmcopimgohpohinmoeejlahpdappepa",
+        "comment": "Chrome Web Store entry for Sales Prime CRM (plmcopimgohpohinmoeejlahpdappepa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8ce461e7-0f46-5512-b65e-30b35f49b99c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pgahbfgpejdkcnhkehniglkjkmidgifg",
+        "comment": "Claude Chat WhatsApp | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "d0da9591-cbc9-5769-9a0a-fb5346d0b053",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pgahbfgpejdkcnhkehniglkjkmidgifg",
+        "comment": "Chrome Web Store entry for Claude Chat WhatsApp (pgahbfgpejdkcnhkehniglkjkmidgifg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7033ce5a-775a-5139-afb6-bc963a93a507",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pbkjioocakemejdodfdebnnmmliiamfe",
+        "comment": "WebZapp | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "04a5f7dc-13a2-5fcf-b342-8b095a69fb20",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pbkjioocakemejdodfdebnnmmliiamfe",
+        "comment": "Chrome Web Store entry for WebZapp (pbkjioocakemejdodfdebnnmmliiamfe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6e8ad515-ade4-573f-8687-1fe7fdc5d6f5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "opocafnnojhngbheikamlpdmijhbobfj",
+        "comment": "Super Chat CRM | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "1740ae7c-d63b-5365-ad33-d7e05b5aacd0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/opocafnnojhngbheikamlpdmijhbobfj",
+        "comment": "Chrome Web Store entry for Super Chat CRM (opocafnnojhngbheikamlpdmijhbobfj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0d705ebc-00a7-5059-8e34-46bc00001343",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "opnjhckoecaeicgkkpkjgleelangmmmj",
+        "comment": "Whatsapp GB | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "b9cbaaf0-109f-5b10-84ce-341c890671c6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/opnjhckoecaeicgkkpkjgleelangmmmj",
+        "comment": "Chrome Web Store entry for Whatsapp GB (opnjhckoecaeicgkkpkjgleelangmmmj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9fe3558c-bfcd-5023-84d9-6ae8d07003d6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oplhgdalokikdokdnfbiendocdkcjhjo",
+        "comment": "VENDE-C ZAP | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "1a36bab5-10ff-598c-a0f8-a58896ad54c5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oplhgdalokikdokdnfbiendocdkcjhjo",
+        "comment": "Chrome Web Store entry for VENDE-C ZAP (oplhgdalokikdokdnfbiendocdkcjhjo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "95ba2ab7-2d92-53d1-ae61-a06da6968a47",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aoolkbdpfgbocamjjciiiholdakmldag",
+        "comment": "CRM do PAI | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "ea5cbd0c-e737-5499-8fcf-a8723b59ac6b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aoolkbdpfgbocamjjciiiholdakmldag",
+        "comment": "Chrome Web Store entry for CRM do PAI (aoolkbdpfgbocamjjciiiholdakmldag)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a2d73dd2-be99-5b3d-9341-41a0b1e3edfa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "agmfmnkgednafkcifhahflfbemfcbcbc",
+        "comment": "GestorChat | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "44b40a95-2fdb-504d-8174-5a5ab3bf0cb5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/agmfmnkgednafkcifhahflfbemfcbcbc",
+        "comment": "Chrome Web Store entry for GestorChat (agmfmnkgednafkcifhahflfbemfcbcbc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "291a5fba-9777-5e54-9e7b-e3a7e836c6e4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "omfdlfboihlkfebdcbnblmiepdchghic",
+        "comment": "EXD CRM | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "da27b5c2-58cb-5041-9988-fcf8bcccda54",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/omfdlfboihlkfebdcbnblmiepdchghic",
+        "comment": "Chrome Web Store entry for EXD CRM (omfdlfboihlkfebdcbnblmiepdchghic)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5fc2ffb6-022a-5528-a9d8-7fe24d06cef6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "neelgaajhioohpoenjbjhfldmlfpiocf",
+        "comment": "CRM no Whatsapp para Delivery | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "38b704b3-45e8-5aa7-96a8-0f9a88102b41",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/neelgaajhioohpoenjbjhfldmlfpiocf",
+        "comment": "Chrome Web Store entry for CRM no Whatsapp para Delivery (neelgaajhioohpoenjbjhfldmlfpiocf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eed21dc3-0884-583e-8a31-12d8d4be3e08",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nbenjijhmfecggfipnlkpbplcgnbfgeo",
+        "comment": "Zyntri CRM Conversa | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "bee9c1ca-5c71-5e76-a96c-dc594c806c12",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nbenjijhmfecggfipnlkpbplcgnbfgeo",
+        "comment": "Chrome Web Store entry for Zyntri CRM Conversa (nbenjijhmfecggfipnlkpbplcgnbfgeo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8198fd13-904f-56a6-83ad-beb256e63adf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nbbgapgjdeggafgiphoamapigagdfboj",
+        "comment": "Sheep WA CRM | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "15dce4b5-8e33-5bc9-9a05-6124762f89e2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nbbgapgjdeggafgiphoamapigagdfboj",
+        "comment": "Chrome Web Store entry for Sheep WA CRM (nbbgapgjdeggafgiphoamapigagdfboj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9490c737-0424-50b7-b069-6780d426c203",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mjfmhlphlfkknhobikllanpdedcjbdfc",
+        "comment": "WhatsMais Web Plugin | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "9288ed86-3153-5089-8d94-662959a701cd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mjfmhlphlfkknhobikllanpdedcjbdfc",
+        "comment": "Chrome Web Store entry for WhatsMais Web Plugin (mjfmhlphlfkknhobikllanpdedcjbdfc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "08f2ab09-9092-5a1b-8b42-87ed48822f63",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mgbobhkfodjphgkopodimphkelhlckdk",
+        "comment": "MAXI ZAP CRM PLUS | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "b0ba10d1-859d-5166-acf2-16191dcf3420",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mgbobhkfodjphgkopodimphkelhlckdk",
+        "comment": "Chrome Web Store entry for MAXI ZAP CRM PLUS (mgbobhkfodjphgkopodimphkelhlckdk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e171ed84-7e50-5218-8ca0-6b2d98f9a414",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lbcfbjpjhighachiefcllehigodnlokm",
+        "comment": "Brasilbot | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "4e1ed2c9-196b-5a88-8362-6a89d96ed46e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lbcfbjpjhighachiefcllehigodnlokm",
+        "comment": "Chrome Web Store entry for Brasilbot (lbcfbjpjhighachiefcllehigodnlokm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2a4990d8-ddfe-5781-a4ee-dc51419d3e5b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kpopbifbpphkfmkcebplinclpbcmophm",
+        "comment": "Leads Zap | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "32d49c8c-1aa1-50b0-b2e3-d7dc8c7a2c4d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kpopbifbpphkfmkcebplinclpbcmophm",
+        "comment": "Chrome Web Store entry for Leads Zap (kpopbifbpphkfmkcebplinclpbcmophm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "37d09ef1-f198-5645-bd1e-01f1524ed5ec",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kkmebcfnkhkhfajdieajelcpaelpcpde",
+        "comment": "WHATSAPP BUSINESS CRM | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "c64d0ebe-ee7b-5277-ab5d-b74bf2610020",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kkmebcfnkhkhfajdieajelcpaelpcpde",
+        "comment": "Chrome Web Store entry for WHATSAPP BUSINESS CRM (kkmebcfnkhkhfajdieajelcpaelpcpde)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e2728fc7-e475-5aec-b873-d894036dd624",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jbjpfhemoolhegecihahbkfhaohohacd",
+        "comment": "PharmaZap | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "c169cef6-ec9c-57f2-8253-862507f0499c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jbjpfhemoolhegecihahbkfhaohohacd",
+        "comment": "Chrome Web Store entry for PharmaZap (jbjpfhemoolhegecihahbkfhaohohacd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eb17abf1-2a94-5d39-8b5f-d0fde63bc99f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ioplkfchkjdlkoobflfibdbbpjaodefk",
+        "comment": "WHIZFLOW | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "12ee43a0-27b9-5f71-acf7-2629b4f617ea",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ioplkfchkjdlkoobflfibdbbpjaodefk",
+        "comment": "Chrome Web Store entry for WHIZFLOW (ioplkfchkjdlkoobflfibdbbpjaodefk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "47ba7b23-119f-5ed5-b9dc-e671e97a1e64",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ikacabonlldjhidajbjbpjnbcilhokdi",
+        "comment": "Zap Web | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "9129edca-f0d3-5c12-92db-18aa96287bc4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ikacabonlldjhidajbjbpjnbcilhokdi",
+        "comment": "Chrome Web Store entry for Zap Web (ikacabonlldjhidajbjbpjnbcilhokdi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "495b1413-c7a5-5d33-8b6d-c49272da2ed9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hlnimicjpkabphllleeilfpkohnnicnl",
+        "comment": "WA WEB GR\u00c1TIS | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "3cd2a783-cb91-5702-935a-64f44ef63b61",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hlnimicjpkabphllleeilfpkohnnicnl",
+        "comment": "Chrome Web Store entry for WA WEB GR\u00c1TIS (hlnimicjpkabphllleeilfpkohnnicnl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f35c4514-4b33-5db5-b9cc-50676b30da9b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gkgjbghnckmfiggkeaopkhpjepniohia",
+        "comment": "WA Sales | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "17a984c3-36ed-56f0-a6fc-cd9f72996945",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gkgjbghnckmfiggkeaopkhpjepniohia",
+        "comment": "Chrome Web Store entry for WA Sales (gkgjbghnckmfiggkeaopkhpjepniohia)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1261a5b3-f2ff-5dbe-800f-346f72af8fe9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gieknbijdgenofgbmlaileokekmldfjl",
+        "comment": "Azbot CRM | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "641f3fe8-874c-5416-bc64-e0fbdda724c9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gieknbijdgenofgbmlaileokekmldfjl",
+        "comment": "Chrome Web Store entry for Azbot CRM (gieknbijdgenofgbmlaileokekmldfjl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "551252d3-516a-5865-89d9-b94fe66cbae8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fkcifkeeglocoaekandppmecohhhjjld",
+        "comment": "Veltora CRM Platform | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "a25df5a3-f36e-581a-92c2-6805d9ab4e9e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fkcifkeeglocoaekandppmecohhhjjld",
+        "comment": "Chrome Web Store entry for Veltora CRM Platform (fkcifkeeglocoaekandppmecohhhjjld)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e921e169-174a-5fe8-ac0d-6df89ed5be17",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fflpfdjngdljkleamadabbmiklhlafil",
+        "comment": "CRM Turbo | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "ce298f93-0f62-52aa-a104-cf89bacf4d26",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fflpfdjngdljkleamadabbmiklhlafil",
+        "comment": "Chrome Web Store entry for CRM Turbo (fflpfdjngdljkleamadabbmiklhlafil)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2ab6f3bd-ea3f-5412-b629-238ec85e14b8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fcmjkjmkpgfhchcekjdgolldhnmacpfa",
+        "comment": "GL MEDLEAD CRM | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "1e7ce7e7-8129-5303-99b5-254731a1f18e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fcmjkjmkpgfhchcekjdgolldhnmacpfa",
+        "comment": "Chrome Web Store entry for GL MEDLEAD CRM (fcmjkjmkpgfhchcekjdgolldhnmacpfa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eb96d2b3-ebdd-5921-a274-af31dd33edd5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "epkmpmhaolchgpikglgiijomelhebpji",
+        "comment": "APOLLO CRM | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "91547fa1-8c73-5b28-9c83-57f3654ae4ac",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/epkmpmhaolchgpikglgiijomelhebpji",
+        "comment": "Chrome Web Store entry for APOLLO CRM (epkmpmhaolchgpikglgiijomelhebpji)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1dcfa45c-c712-5290-8f8b-855926a44fea",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ehombimaojbcpfkkdhfioafllllnijdp",
+        "comment": "TriadeFlux WEB ZAP | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "323e5f28-9ddf-5e5e-9b85-1945fa07874e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ehombimaojbcpfkkdhfioafllllnijdp",
+        "comment": "Chrome Web Store entry for TriadeFlux WEB ZAP (ehombimaojbcpfkkdhfioafllllnijdp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2ba6748a-8745-5414-acee-e858ff1f521e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmdfchhkeohpjnagfhiocgomohapneeh",
+        "comment": "Teams CRM | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "bce5bc23-6f16-5785-9177-68ef16aa7e84",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dmdfchhkeohpjnagfhiocgomohapneeh",
+        "comment": "Chrome Web Store entry for Teams CRM (dmdfchhkeohpjnagfhiocgomohapneeh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "95cb5f55-bc24-50cc-b5eb-e0d94cce25d9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "djdbpbcemdndgmlkbbediigefocfndke",
+        "comment": "SOWAT | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "26f9d1ed-ef04-5007-a1d5-a814801aadbd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/djdbpbcemdndgmlkbbediigefocfndke",
+        "comment": "Chrome Web Store entry for SOWAT (djdbpbcemdndgmlkbbediigefocfndke)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c90b8134-bd78-5134-9c14-bb853e384ed4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dblphenlokhhmnbmbaoiplccileiheld",
+        "comment": "DCLeads Web Plus | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "73ddd1c0-bb18-545d-a705-2cc47ef3e306",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dblphenlokhhmnbmbaoiplccileiheld",
+        "comment": "Chrome Web Store entry for DCLeads Web Plus (dblphenlokhhmnbmbaoiplccileiheld)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b0ffb10e-d545-5649-99fa-b59885fd8545",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "chelfnnanccmicmndeocfanamfakmgap",
+        "comment": "Segsmart Web Plus | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "a1a5d1e8-2471-5f5a-9c9a-c11d46b15495",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/chelfnnanccmicmndeocfanamfakmgap",
+        "comment": "Chrome Web Store entry for Segsmart Web Plus (chelfnnanccmicmndeocfanamfakmgap)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9e5b1445-fe71-5d07-ac23-a5ef0a2565a6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cfhoklhgomgfghpjamadhngdiaailanj",
+        "comment": "CRM no WhatsApp para Corban | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "7f85e9bd-c0a4-5e45-a118-756ee129aeda",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cfhoklhgomgfghpjamadhngdiaailanj",
+        "comment": "Chrome Web Store entry for CRM no WhatsApp para Corban (cfhoklhgomgfghpjamadhngdiaailanj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c0cd7488-438a-59e6-ae7e-a65c5e4c24f7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "blojddhpgddmnljfblkaijcfcekmfpnb",
+        "comment": "weCRM | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "ce33dd84-3429-5f4d-b145-e1088140fafa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/blojddhpgddmnljfblkaijcfcekmfpnb",
+        "comment": "Chrome Web Store entry for weCRM (blojddhpgddmnljfblkaijcfcekmfpnb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "57f866f9-3619-5422-996a-9f38d3d8c335",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bkealjndjhdhlmefbebgegpfjfeddihi",
+        "comment": "Anjos Zap | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "d0380385-d2bf-553a-8a09-b1d74013c3b5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bkealjndjhdhlmefbebgegpfjfeddihi",
+        "comment": "Chrome Web Store entry for Anjos Zap (bkealjndjhdhlmefbebgegpfjfeddihi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0f780a9d-a914-5f6e-8149-99544a217036",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bhmlcmjhmffnmnegjlniekihhklgbbpl",
+        "comment": "Venda Mais CRM | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "f7482a80-5ef8-5a0d-afd2-80c1a52d6930",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bhmlcmjhmffnmnegjlniekihhklgbbpl",
+        "comment": "Chrome Web Store entry for Venda Mais CRM (bhmlcmjhmffnmnegjlniekihhklgbbpl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a9296581-f21a-5bcc-bb92-c565cf25e8e7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bidgllfieacmghieipmhgabodmljimfh",
+        "comment": "WA Business | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "ccd2caa0-05ba-5409-a376-b3c5f80a9c2b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bidgllfieacmghieipmhgabodmljimfh",
+        "comment": "Chrome Web Store entry for WA Business (bidgllfieacmghieipmhgabodmljimfh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f207af5a-0339-58b9-92da-cac7176d1efa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bhdknmehbgghahemaeconebkkffihmio",
+        "comment": "WhaTalk | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "62fbe9fc-79cf-5720-8dc0-800ac62babf7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bhdknmehbgghahemaeconebkkffihmio",
+        "comment": "Chrome Web Store entry for WhaTalk (bhdknmehbgghahemaeconebkkffihmio)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1f83d52a-d9cd-5028-927e-3fbed99a37e9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bbdgdjakedkbcjcnogbpmimfdolmodnb",
+        "comment": "LBCPRO | Source: https://malext.io/reports/WhatsCluster | Added: 2026-06-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+          }
+        ]
+      },
+      {
+        "uuid": "9b2107af-1767-558f-9cf8-ee83ba2fd596",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bbdgdjakedkbcjcnogbpmimfdolmodnb",
+        "comment": "Chrome Web Store entry for LBCPRO (bbdgdjakedkbcjcnogbpmimfdolmodnb)",
+        "distribution": "5"
+      },
       {
         "uuid": "bfb5cbb1-0421-5b54-a94a-9b00fe6bad6a",
         "type": "text",
