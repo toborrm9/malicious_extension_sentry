@@ -1,6 +1,54 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
-| gekoepiplklhniacchbbgbhilidiojmb | AdBlock Suite - Block all ads on websites for a cleaner browsing | Malware | [www.island.io](https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise) | 26/06/26 | No |
+| nebcaefoifldbbidkgfigijgbdbhdhee | Wallet Connect Pay | Policy Violation | Store Monitoring | 28/06/26 | No |
+| okhibkagcfjdiphcbpepgkcgpbeehmlf | Disparador WhatsApp WL | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| cceigfcfocnmimfpodinldgghgeijjci | CRM multiatendimento Zap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| eibohmejgabkbblnepndeajbgeefkcai | Whatsapp CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| ihcekhkenpafgnlnppeldehaidbplopb | CRM no Whatsapp para corretores de seguro | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| ljdglkbjbimcfogoknmggdcjlnddamil | Crm Grátis | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| ppmggmlbijhmfdpbmeghdbjajehilcjm | CRM no Whatsapp para Barbearia | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| pmhbkempoiednaeamhilkcpelemmcfic | Assis Hub | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| plnegmjdlomnfjhkjpigbcbbmajfkecj | Zapeiro | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| plmcopimgohpohinmoeejlahpdappepa | Sales Prime CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| pgahbfgpejdkcnhkehniglkjkmidgifg | Claude Chat WhatsApp | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| pbkjioocakemejdodfdebnnmmliiamfe | WebZapp | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| opocafnnojhngbheikamlpdmijhbobfj | Super Chat CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| opnjhckoecaeicgkkpkjgleelangmmmj | Whatsapp GB | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| oplhgdalokikdokdnfbiendocdkcjhjo | VENDE-C ZAP | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| aoolkbdpfgbocamjjciiiholdakmldag | CRM do PAI | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| agmfmnkgednafkcifhahflfbemfcbcbc | GestorChat | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| omfdlfboihlkfebdcbnblmiepdchghic | EXD CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| neelgaajhioohpoenjbjhfldmlfpiocf | CRM no Whatsapp para Delivery | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| nbenjijhmfecggfipnlkpbplcgnbfgeo | Zyntri CRM Conversa | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| nbbgapgjdeggafgiphoamapigagdfboj | Sheep WA CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| mjfmhlphlfkknhobikllanpdedcjbdfc | WhatsMais Web Plugin | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| mgbobhkfodjphgkopodimphkelhlckdk | MAXI ZAP CRM PLUS | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| lbcfbjpjhighachiefcllehigodnlokm | Brasilbot | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| kpopbifbpphkfmkcebplinclpbcmophm | Leads Zap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| kkmebcfnkhkhfajdieajelcpaelpcpde | WHATSAPP BUSINESS CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| jbjpfhemoolhegecihahbkfhaohohacd | PharmaZap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| ioplkfchkjdlkoobflfibdbbpjaodefk | WHIZFLOW | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| ikacabonlldjhidajbjbpjnbcilhokdi | Zap Web | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| hlnimicjpkabphllleeilfpkohnnicnl | WA WEB GRÁTIS | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| gkgjbghnckmfiggkeaopkhpjepniohia | WA Sales | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| gieknbijdgenofgbmlaileokekmldfjl | Azbot CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| fkcifkeeglocoaekandppmecohhhjjld | Veltora CRM Platform | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| fflpfdjngdljkleamadabbmiklhlafil | CRM Turbo | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| fcmjkjmkpgfhchcekjdgolldhnmacpfa | GL MEDLEAD CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| epkmpmhaolchgpikglgiijomelhebpji | APOLLO CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| ehombimaojbcpfkkdhfioafllllnijdp | TriadeFlux WEB ZAP | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| dmdfchhkeohpjnagfhiocgomohapneeh | Teams CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| djdbpbcemdndgmlkbbediigefocfndke | SOWAT | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| dblphenlokhhmnbmbaoiplccileiheld | DCLeads Web Plus | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| chelfnnanccmicmndeocfanamfakmgap | Segsmart Web Plus | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| cfhoklhgomgfghpjamadhngdiaailanj | CRM no WhatsApp para Corban | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| blojddhpgddmnljfblkaijcfcekmfpnb | weCRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| bkealjndjhdhlmefbebgegpfjfeddihi | Anjos Zap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| bhmlcmjhmffnmnegjlniekihhklgbbpl | Venda Mais CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| bidgllfieacmghieipmhgabodmljimfh | WA Business | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| bhdknmehbgghahemaeconebkkffihmio | WhaTalk | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| bbdgdjakedkbcjcnogbpmimfdolmodnb | LBCPRO | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
+| gekoepiplklhniacchbbgbhilidiojmb | AdBlock Suite - Block all ads on websites for a cleaner browsing | Malware | [www.island.io](https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise) | 26/06/26 | Yes |
 | cmedhionkhpnakcndndgjdbohmhepckk | Adblock for Youtube™ | Malware | [www.island.io](https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise) | 26/06/26 | No |
 | akacljehjekfjgedpgpdjbdnmfgacikj | TechSmith Snagit - Screen Capture & Recorder | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-24-affiliate-marketing-fraud-via-brand-impersonation-extension-farm.txt) | 26/06/26 | No |
 | pogmledndpkjkliejlcdbgkfkoblickb | Picsart: Photo & Editor - Creative Studio | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-24-affiliate-marketing-fraud-via-brand-impersonation-extension-farm.txt) | 26/06/26 | No |
@@ -32,7 +80,7 @@
 | dndehckjnkmpdcpmnpplphcklpialekb | Adradar Fb Ad Spy Tool | Bundling Unwanted Software | Store Monitoring | 26/06/26 | No |
 | pjhdflpjemjalkidecigcjcamkbllhoj | Chatgpt For Google | Policy Violation | Store Monitoring | 26/06/26 | No |
 | koaogippnbgpegnloihppehpaimilfae | Kity Chatgpt Navigator | Policy Violation | Store Monitoring | 26/06/26 | No |
-| ddblhcgjpnmjlbkpndackhohbdbknobi | Safe Wallet Extension | Malware | Store Monitoring | 26/06/26 | No |
+| ddblhcgjpnmjlbkpndackhohbdbknobi | Safe Wallet Extension | Malware | Store Monitoring | 26/06/26 | Yes |
 | mlpjhambancjofgkidpblmepnebegpom | Mychatpilot | Policy Violation | Store Monitoring | 26/06/26 | No |
 | kbcpkngbpapbplochkndihgcpdabkkok | Mgx Wallet | Malware | Store Monitoring | 26/06/26 | No |
 | glbpkhkogoangfbjlgfdklajfhenjeld | Retro Vibe Wallpaper | Search-Hijacker | MalExt Code Analysis | 25/06/26 | No |
