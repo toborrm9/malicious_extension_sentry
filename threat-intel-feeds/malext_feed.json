@@ -1,12 +1,348 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-26T11:38:00.932Z",
+  "generated": "2026-06-27T23:52:20.334Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 2643,
+  "total_indicators": 2691,
   "indicators": [
+    {
+      "extension_id": "nebcaefoifldbbidkgfigijgbdbhdhee",
+      "name": "Wallet Connect Pay",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-28",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nebcaefoifldbbidkgfigijgbdbhdhee"
+    },
+    {
+      "extension_id": "okhibkagcfjdiphcbpepgkcgpbeehmlf",
+      "name": "Disparador WhatsApp WL",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/okhibkagcfjdiphcbpepgkcgpbeehmlf"
+    },
+    {
+      "extension_id": "cceigfcfocnmimfpodinldgghgeijjci",
+      "name": "CRM multiatendimento Zap",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cceigfcfocnmimfpodinldgghgeijjci"
+    },
+    {
+      "extension_id": "eibohmejgabkbblnepndeajbgeefkcai",
+      "name": "Whatsapp CRM",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/eibohmejgabkbblnepndeajbgeefkcai"
+    },
+    {
+      "extension_id": "ihcekhkenpafgnlnppeldehaidbplopb",
+      "name": "CRM no Whatsapp para corretores de seguro",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ihcekhkenpafgnlnppeldehaidbplopb"
+    },
+    {
+      "extension_id": "ljdglkbjbimcfogoknmggdcjlnddamil",
+      "name": "Crm Gr\u00e1tis",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ljdglkbjbimcfogoknmggdcjlnddamil"
+    },
+    {
+      "extension_id": "ppmggmlbijhmfdpbmeghdbjajehilcjm",
+      "name": "CRM no Whatsapp para Barbearia",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ppmggmlbijhmfdpbmeghdbjajehilcjm"
+    },
+    {
+      "extension_id": "pmhbkempoiednaeamhilkcpelemmcfic",
+      "name": "Assis Hub",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pmhbkempoiednaeamhilkcpelemmcfic"
+    },
+    {
+      "extension_id": "plnegmjdlomnfjhkjpigbcbbmajfkecj",
+      "name": "Zapeiro",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/plnegmjdlomnfjhkjpigbcbbmajfkecj"
+    },
+    {
+      "extension_id": "plmcopimgohpohinmoeejlahpdappepa",
+      "name": "Sales Prime CRM",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/plmcopimgohpohinmoeejlahpdappepa"
+    },
+    {
+      "extension_id": "pgahbfgpejdkcnhkehniglkjkmidgifg",
+      "name": "Claude Chat WhatsApp",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pgahbfgpejdkcnhkehniglkjkmidgifg"
+    },
+    {
+      "extension_id": "pbkjioocakemejdodfdebnnmmliiamfe",
+      "name": "WebZapp",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/pbkjioocakemejdodfdebnnmmliiamfe"
+    },
+    {
+      "extension_id": "opocafnnojhngbheikamlpdmijhbobfj",
+      "name": "Super Chat CRM",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/opocafnnojhngbheikamlpdmijhbobfj"
+    },
+    {
+      "extension_id": "opnjhckoecaeicgkkpkjgleelangmmmj",
+      "name": "Whatsapp GB",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/opnjhckoecaeicgkkpkjgleelangmmmj"
+    },
+    {
+      "extension_id": "oplhgdalokikdokdnfbiendocdkcjhjo",
+      "name": "VENDE-C ZAP",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/oplhgdalokikdokdnfbiendocdkcjhjo"
+    },
+    {
+      "extension_id": "aoolkbdpfgbocamjjciiiholdakmldag",
+      "name": "CRM do PAI",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/aoolkbdpfgbocamjjciiiholdakmldag"
+    },
+    {
+      "extension_id": "agmfmnkgednafkcifhahflfbemfcbcbc",
+      "name": "GestorChat",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/agmfmnkgednafkcifhahflfbemfcbcbc"
+    },
+    {
+      "extension_id": "omfdlfboihlkfebdcbnblmiepdchghic",
+      "name": "EXD CRM",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/omfdlfboihlkfebdcbnblmiepdchghic"
+    },
+    {
+      "extension_id": "neelgaajhioohpoenjbjhfldmlfpiocf",
+      "name": "CRM no Whatsapp para Delivery",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/neelgaajhioohpoenjbjhfldmlfpiocf"
+    },
+    {
+      "extension_id": "nbenjijhmfecggfipnlkpbplcgnbfgeo",
+      "name": "Zyntri CRM Conversa",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nbenjijhmfecggfipnlkpbplcgnbfgeo"
+    },
+    {
+      "extension_id": "nbbgapgjdeggafgiphoamapigagdfboj",
+      "name": "Sheep WA CRM",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/nbbgapgjdeggafgiphoamapigagdfboj"
+    },
+    {
+      "extension_id": "mjfmhlphlfkknhobikllanpdedcjbdfc",
+      "name": "WhatsMais Web Plugin",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mjfmhlphlfkknhobikllanpdedcjbdfc"
+    },
+    {
+      "extension_id": "mgbobhkfodjphgkopodimphkelhlckdk",
+      "name": "MAXI ZAP CRM PLUS",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mgbobhkfodjphgkopodimphkelhlckdk"
+    },
+    {
+      "extension_id": "lbcfbjpjhighachiefcllehigodnlokm",
+      "name": "Brasilbot",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/lbcfbjpjhighachiefcllehigodnlokm"
+    },
+    {
+      "extension_id": "kpopbifbpphkfmkcebplinclpbcmophm",
+      "name": "Leads Zap",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kpopbifbpphkfmkcebplinclpbcmophm"
+    },
+    {
+      "extension_id": "kkmebcfnkhkhfajdieajelcpaelpcpde",
+      "name": "WHATSAPP BUSINESS CRM",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kkmebcfnkhkhfajdieajelcpaelpcpde"
+    },
+    {
+      "extension_id": "jbjpfhemoolhegecihahbkfhaohohacd",
+      "name": "PharmaZap",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jbjpfhemoolhegecihahbkfhaohohacd"
+    },
+    {
+      "extension_id": "ioplkfchkjdlkoobflfibdbbpjaodefk",
+      "name": "WHIZFLOW",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ioplkfchkjdlkoobflfibdbbpjaodefk"
+    },
+    {
+      "extension_id": "ikacabonlldjhidajbjbpjnbcilhokdi",
+      "name": "Zap Web",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ikacabonlldjhidajbjbpjnbcilhokdi"
+    },
+    {
+      "extension_id": "hlnimicjpkabphllleeilfpkohnnicnl",
+      "name": "WA WEB GR\u00c1TIS",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hlnimicjpkabphllleeilfpkohnnicnl"
+    },
+    {
+      "extension_id": "gkgjbghnckmfiggkeaopkhpjepniohia",
+      "name": "WA Sales",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gkgjbghnckmfiggkeaopkhpjepniohia"
+    },
+    {
+      "extension_id": "gieknbijdgenofgbmlaileokekmldfjl",
+      "name": "Azbot CRM",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gieknbijdgenofgbmlaileokekmldfjl"
+    },
+    {
+      "extension_id": "fkcifkeeglocoaekandppmecohhhjjld",
+      "name": "Veltora CRM Platform",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fkcifkeeglocoaekandppmecohhhjjld"
+    },
+    {
+      "extension_id": "fflpfdjngdljkleamadabbmiklhlafil",
+      "name": "CRM Turbo",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fflpfdjngdljkleamadabbmiklhlafil"
+    },
+    {
+      "extension_id": "fcmjkjmkpgfhchcekjdgolldhnmacpfa",
+      "name": "GL MEDLEAD CRM",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/fcmjkjmkpgfhchcekjdgolldhnmacpfa"
+    },
+    {
+      "extension_id": "epkmpmhaolchgpikglgiijomelhebpji",
+      "name": "APOLLO CRM",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/epkmpmhaolchgpikglgiijomelhebpji"
+    },
+    {
+      "extension_id": "ehombimaojbcpfkkdhfioafllllnijdp",
+      "name": "TriadeFlux WEB ZAP",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ehombimaojbcpfkkdhfioafllllnijdp"
+    },
+    {
+      "extension_id": "dmdfchhkeohpjnagfhiocgomohapneeh",
+      "name": "Teams CRM",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dmdfchhkeohpjnagfhiocgomohapneeh"
+    },
+    {
+      "extension_id": "djdbpbcemdndgmlkbbediigefocfndke",
+      "name": "SOWAT",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/djdbpbcemdndgmlkbbediigefocfndke"
+    },
+    {
+      "extension_id": "dblphenlokhhmnbmbaoiplccileiheld",
+      "name": "DCLeads Web Plus",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/dblphenlokhhmnbmbaoiplccileiheld"
+    },
+    {
+      "extension_id": "chelfnnanccmicmndeocfanamfakmgap",
+      "name": "Segsmart Web Plus",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/chelfnnanccmicmndeocfanamfakmgap"
+    },
+    {
+      "extension_id": "cfhoklhgomgfghpjamadhngdiaailanj",
+      "name": "CRM no WhatsApp para Corban",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/cfhoklhgomgfghpjamadhngdiaailanj"
+    },
+    {
+      "extension_id": "blojddhpgddmnljfblkaijcfcekmfpnb",
+      "name": "weCRM",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/blojddhpgddmnljfblkaijcfcekmfpnb"
+    },
+    {
+      "extension_id": "bkealjndjhdhlmefbebgegpfjfeddihi",
+      "name": "Anjos Zap",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bkealjndjhdhlmefbebgegpfjfeddihi"
+    },
+    {
+      "extension_id": "bhmlcmjhmffnmnegjlniekihhklgbbpl",
+      "name": "Venda Mais CRM",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bhmlcmjhmffnmnegjlniekihhklgbbpl"
+    },
+    {
+      "extension_id": "bidgllfieacmghieipmhgabodmljimfh",
+      "name": "WA Business",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bidgllfieacmghieipmhgabodmljimfh"
+    },
+    {
+      "extension_id": "bhdknmehbgghahemaeconebkkffihmio",
+      "name": "WhaTalk",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bhdknmehbgghahemaeconebkkffihmio"
+    },
+    {
+      "extension_id": "bbdgdjakedkbcjcnogbpmimfdolmodnb",
+      "name": "LBCPRO",
+      "source": "https://malext.io/reports/WhatsCluster",
+      "insert_date": "2026-06-27",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/bbdgdjakedkbcjcnogbpmimfdolmodnb"
+    },
     {
       "extension_id": "gekoepiplklhniacchbbgbhilidiojmb",
       "name": "AdBlock Suite - Block all ads on websites for a cleaner browsing",
