@@ -1,5 +1,10 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| ipnjloolnfhadaamlcjnabbgkaakpfaa | Adblocker For Youtube – B | Bundling Unwanted Software | Store Monitoring | 29/06/26 | No |
+| kkjlpklkmfhjdibjoipaonabfdhdgonc | Scroll Scope – Facebook A | Bundling Unwanted Software | Store Monitoring | 29/06/26 | No |
+| hmagoojnoelenmjkdofmbdklgipcpmkg | Walead Extension | Policy Violation | Store Monitoring | 29/06/26 | No |
+| hdfbcoinblihoiopfkajcnojdlinbmhp | AirSearch | Malware | [malext.io](https://malext.io/reports/SearchJacker) | 28/06/26 | No |
+| djgflnccplcmifemnpgnkkdblihncpmm | OmniSearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJacker/) | 28/06/26 | No |
 | nebcaefoifldbbidkgfigijgbdbhdhee | Wallet Connect Pay | Policy Violation | Store Monitoring | 28/06/26 | No |
 | okhibkagcfjdiphcbpepgkcgpbeehmlf | Disparador WhatsApp WL | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
 | cceigfcfocnmimfpodinldgghgeijjci | CRM multiatendimento Zap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No |
@@ -83,7 +88,7 @@
 | ddblhcgjpnmjlbkpndackhohbdbknobi | Safe Wallet Extension | Malware | Store Monitoring | 26/06/26 | Yes |
 | mlpjhambancjofgkidpblmepnebegpom | Mychatpilot | Policy Violation | Store Monitoring | 26/06/26 | No |
 | kbcpkngbpapbplochkndihgcpdabkkok | Mgx Wallet | Malware | Store Monitoring | 26/06/26 | No |
-| glbpkhkogoangfbjlgfdklajfhenjeld | Retro Vibe Wallpaper | Search-Hijacker | MalExt Code Analysis | 25/06/26 | No |
+| glbpkhkogoangfbjlgfdklajfhenjeld | Retro Vibe Wallpaper | Search Hijacking | MalExt Code Analysis | 25/06/26 | No |
 | mijgckjdimoofbfpaahpgfnmnbnaahhe | HARMONY | Malware | [malext.io](https://malext.io/reports/WaSteal) | 25/06/26 | No |
 | onjaegfaigiefjodacjpeigblaifalab | Ferrari Formula 1 Car SF-24 Wallpapers New Tab by Gameograf | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 24/06/26 | No |
 | koenojhenlpkdgenlddhkdaanmbjodaf | Dodge Challenger Near Neon Gas station Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 24/06/26 | No |
@@ -241,6 +246,8 @@
 | abpppenajdmdganodlmoeocldojbbjgp | Kahoot Hacker Auto Answer | Malware | Store Monitoring | 17/06/26 | Yes |
 | cbnedplnkdejpbelaggjkffdpilpflcc | Cold Messenger | Policy Violation | Store Monitoring | 17/06/26 | No |
 | aljnlpmcjfncelhooaacnokmibhoobce | Cu Gay | Policy Violation | Store Monitoring | 17/06/26 | No |
+| jekdpdcpbhahidpjcbfbbmbmldbpjbhl | Enable Right Click | Policy Violation | Store Monitoring | 16/06/26 | No |
+| gcoblkekjbplafeafmdgcghlcnenfdfp | Youtube 期間別人気動画ソーター | Policy Violation | Store Monitoring | 16/06/26 | No |
 | fiefnifmddhoiaanpnffbdhjbbdjelec | Do Wallet | Policy Violation | Store Monitoring | 16/06/26 | No |
 | lanidlcmpddcaiklhhmcinmmmmgoombp | Tiktok Studio Pro | Policy Violation | Store Monitoring | 16/06/26 | No |
 | iefgnpnmmdcegahdlcakfhmkdnedgkeh | Punkcam Virtual Camera | Policy Violation | Store Monitoring | 16/06/26 | No |
