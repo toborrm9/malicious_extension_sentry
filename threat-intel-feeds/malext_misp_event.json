@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-27",
-    "timestamp": "1782604340",
+    "date": "2026-06-29",
+    "timestamp": "1782739068",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,136 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "54666557-962e-5a39-969d-887a822ae124",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ipnjloolnfhadaamlcjnabbgkaakpfaa",
+        "comment": "Adblocker For Youtube \u2013 B | Source: Store Monitoring | Added: 2026-06-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "8845d1ad-4cd0-5df1-bc38-691ffb5e603d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ipnjloolnfhadaamlcjnabbgkaakpfaa",
+        "comment": "Chrome Web Store entry for Adblocker For Youtube \u2013 B (ipnjloolnfhadaamlcjnabbgkaakpfaa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f5756b6d-7fa4-52ad-9c93-1ac8f748888e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kkjlpklkmfhjdibjoipaonabfdhdgonc",
+        "comment": "Scroll Scope \u2013 Facebook A | Source: Store Monitoring | Added: 2026-06-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "4211535f-b402-5f7b-a5c6-023a32e34050",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kkjlpklkmfhjdibjoipaonabfdhdgonc",
+        "comment": "Chrome Web Store entry for Scroll Scope \u2013 Facebook A (kkjlpklkmfhjdibjoipaonabfdhdgonc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "93cf11a6-ddbd-5f41-b41b-0401bed797d0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hmagoojnoelenmjkdofmbdklgipcpmkg",
+        "comment": "Walead Extension | Source: Store Monitoring | Added: 2026-06-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "71f34141-33e1-50ea-bdaf-2deeeae4a002",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hmagoojnoelenmjkdofmbdklgipcpmkg",
+        "comment": "Chrome Web Store entry for Walead Extension (hmagoojnoelenmjkdofmbdklgipcpmkg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4d185f0c-ab1b-5100-8710-92c14d65f5f5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hdfbcoinblihoiopfkajcnojdlinbmhp",
+        "comment": "AirSearch | Source: https://malext.io/reports/SearchJacker | Added: 2026-06-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJacker\""
+          }
+        ]
+      },
+      {
+        "uuid": "a5ae558b-6a1d-52a8-aa4f-88eee08289dc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hdfbcoinblihoiopfkajcnojdlinbmhp",
+        "comment": "Chrome Web Store entry for AirSearch (hdfbcoinblihoiopfkajcnojdlinbmhp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "faa09c04-a3bb-5867-a822-cffcfb423a7c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "djgflnccplcmifemnpgnkkdblihncpmm",
+        "comment": "OmniSearch | Source: https://malext.io/reports/SearchJacker/ | Added: 2026-06-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJacker/\""
+          }
+        ]
+      },
+      {
+        "uuid": "6825832e-93cc-53fb-938a-0a9b3b937b6c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/djgflnccplcmifemnpgnkkdblihncpmm",
+        "comment": "Chrome Web Store entry for OmniSearch (djgflnccplcmifemnpgnkkdblihncpmm)",
+        "distribution": "5"
+      },
       {
         "uuid": "3ebaa10e-9083-5c7c-a9c3-70d50b2cdc15",
         "type": "text",
@@ -6291,6 +6421,58 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/aljnlpmcjfncelhooaacnokmibhoobce",
         "comment": "Chrome Web Store entry for Cu Gay (aljnlpmcjfncelhooaacnokmibhoobce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "053fe190-b78b-5620-8e20-cacbcbd27011",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jekdpdcpbhahidpjcbfbbmbmldbpjbhl",
+        "comment": "Enable Right Click | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "52ac2089-6502-5d8b-b4fc-3e1a2bb363c6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jekdpdcpbhahidpjcbfbbmbmldbpjbhl",
+        "comment": "Chrome Web Store entry for Enable Right Click (jekdpdcpbhahidpjcbfbbmbmldbpjbhl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7ec0b990-d4dc-5995-947d-89680cd0a28b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gcoblkekjbplafeafmdgcghlcnenfdfp",
+        "comment": "Youtube \u671f\u9593\u5225\u4eba\u6c17\u52d5\u753b\u30bd\u30fc\u30bf\u30fc | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "fbe97745-589b-5a36-8f17-a4bf3efdb75d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gcoblkekjbplafeafmdgcghlcnenfdfp",
+        "comment": "Chrome Web Store entry for Youtube \u671f\u9593\u5225\u4eba\u6c17\u52d5\u753b\u30bd\u30fc\u30bf\u30fc (gcoblkekjbplafeafmdgcghlcnenfdfp)",
         "distribution": "5"
       },
       {
