@@ -1,12 +1,47 @@
 {
   "feed_name": "MalExt Sentry - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-06-27T23:52:20.334Z",
+  "generated": "2026-06-29T13:17:47.447Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 2691,
+  "total_indicators": 2698,
   "indicators": [
+    {
+      "extension_id": "ipnjloolnfhadaamlcjnabbgkaakpfaa",
+      "name": "Adblocker For Youtube \u2013 B",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-29",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/ipnjloolnfhadaamlcjnabbgkaakpfaa"
+    },
+    {
+      "extension_id": "kkjlpklkmfhjdibjoipaonabfdhdgonc",
+      "name": "Scroll Scope \u2013 Facebook A",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-29",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kkjlpklkmfhjdibjoipaonabfdhdgonc"
+    },
+    {
+      "extension_id": "hmagoojnoelenmjkdofmbdklgipcpmkg",
+      "name": "Walead Extension",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-29",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hmagoojnoelenmjkdofmbdklgipcpmkg"
+    },
+    {
+      "extension_id": "hdfbcoinblihoiopfkajcnojdlinbmhp",
+      "name": "AirSearch",
+      "source": "https://malext.io/reports/SearchJacker",
+      "insert_date": "2026-06-28",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/hdfbcoinblihoiopfkajcnojdlinbmhp"
+    },
+    {
+      "extension_id": "djgflnccplcmifemnpgnkkdblihncpmm",
+      "name": "OmniSearch",
+      "source": "https://malext.io/reports/SearchJacker/",
+      "insert_date": "2026-06-28",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/djgflnccplcmifemnpgnkkdblihncpmm"
+    },
     {
       "extension_id": "nebcaefoifldbbidkgfigijgbdbhdhee",
       "name": "Wallet Connect Pay",
@@ -1693,6 +1728,20 @@
       "source": "Store Monitoring",
       "insert_date": "2026-06-17",
       "chrome_store_url": "https://chromewebstore.google.com/detail/aljnlpmcjfncelhooaacnokmibhoobce"
+    },
+    {
+      "extension_id": "jekdpdcpbhahidpjcbfbbmbmldbpjbhl",
+      "name": "Enable Right Click",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-16",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/jekdpdcpbhahidpjcbfbbmbmldbpjbhl"
+    },
+    {
+      "extension_id": "gcoblkekjbplafeafmdgcghlcnenfdfp",
+      "name": "Youtube \u671f\u9593\u5225\u4eba\u6c17\u52d5\u753b\u30bd\u30fc\u30bf\u30fc",
+      "source": "Store Monitoring",
+      "insert_date": "2026-06-16",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/gcoblkekjbplafeafmdgcghlcnenfdfp"
     },
     {
       "extension_id": "fiefnifmddhoiaanpnffbdhjbbdjelec",
