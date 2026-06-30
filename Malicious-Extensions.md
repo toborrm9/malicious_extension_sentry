@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| ekgjfkbcajecaoanallijokmgaocmfhk | Simplia PRO - O seu WhatsApp no modo PRO. | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 30/06/26 | No |
+| lajjhcjblgkhjgkllefjinccdmappgej | Routenplaner & Karten Holen | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 30/06/26 | No |
+| mcimolmhbjhlcppdedjnbpoibacknlna | Audio Search Pro | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 30/06/26 | No |
+| jgdddeonphekfhicmnpffkfpboalmcjd | Easy PDF Viewer | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 30/06/26 | No |
+| poohgclikepabkobiifeemnidjdffoip | Option Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 30/06/26 | No |
+| kfnpaphhpnngikfmnofpkakbaekbafil | Handy Tab Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 30/06/26 | No |
+| nhioomapcdomjekmegdnnlbcnjgnodon | Earth Satellite | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 30/06/26 | No |
 | kdkoofnpjboodmojoebcoliekojhhgdh | Pn Copilot | Policy Violation | Store Monitoring | 30/06/26 | No |
 | efmpgidgifbalboaickehkifaalpkflg | Sendpilot | Policy Violation | Store Monitoring | 30/06/26 | No |
 | pjopechaafjcfmkloklfibjaplacjkcg | Kawaak | Policy Violation | Store Monitoring | 30/06/26 | No |
