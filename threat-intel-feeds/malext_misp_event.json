@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-29",
-    "timestamp": "1782739068",
+    "date": "2026-06-30",
+    "timestamp": "1782822691",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -28,12 +28,246 @@
     ],
     "Attribute": [
       {
+        "uuid": "5955ae9a-c1f1-5f1e-91fa-aa0eb637cd24",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kdkoofnpjboodmojoebcoliekojhhgdh",
+        "comment": "Pn Copilot | Source: Store Monitoring | Added: 2026-06-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "668e3f3d-6906-5950-aa7d-7860c3911376",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kdkoofnpjboodmojoebcoliekojhhgdh",
+        "comment": "Chrome Web Store entry for Pn Copilot (kdkoofnpjboodmojoebcoliekojhhgdh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e5f4fa92-9b87-5880-88a1-7cf146fd202f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "efmpgidgifbalboaickehkifaalpkflg",
+        "comment": "Sendpilot | Source: Store Monitoring | Added: 2026-06-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0a608b8f-1fbc-5d9b-85b5-d83fc2ffaaf9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/efmpgidgifbalboaickehkifaalpkflg",
+        "comment": "Chrome Web Store entry for Sendpilot (efmpgidgifbalboaickehkifaalpkflg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5342bac4-895e-51bb-8810-a2902123ff84",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pjopechaafjcfmkloklfibjaplacjkcg",
+        "comment": "Kawaak | Source: Store Monitoring | Added: 2026-06-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b4d77b07-2269-58e9-a428-66bb8c0347f3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pjopechaafjcfmkloklfibjaplacjkcg",
+        "comment": "Chrome Web Store entry for Kawaak (pjopechaafjcfmkloklfibjaplacjkcg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1e79924b-c82a-56f4-adb8-e4ffd3757da3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pfoooimebemiebfhllemjellhafmeigh",
+        "comment": "Forge Prototype | Source: Store Monitoring | Added: 2026-06-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "7724f91f-c86b-5325-8694-fd1ca2c3043c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pfoooimebemiebfhllemjellhafmeigh",
+        "comment": "Chrome Web Store entry for Forge Prototype (pfoooimebemiebfhllemjellhafmeigh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "43e0ff35-070c-5271-b1cc-c330ae395e8f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hldplblidcbjfbdhpiegmgimhkcfhakm",
+        "comment": "Ivpn | Source: Store Monitoring | Added: 2026-06-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "594f9f8d-bb37-5423-9153-e753033e23df",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hldplblidcbjfbdhpiegmgimhkcfhakm",
+        "comment": "Chrome Web Store entry for Ivpn (hldplblidcbjfbdhpiegmgimhkcfhakm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6925fb40-98f0-544a-a208-b01be81e8544",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmgmeikmlhmmannflgejmdonbefmkiif",
+        "comment": "Search Control for Chrome. | Source: https://malext.io/reports/SearchJack | Added: 2026-06-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          }
+        ]
+      },
+      {
+        "uuid": "e1599f35-e8f3-51c9-ad4f-9f4aa200ac21",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dmgmeikmlhmmannflgejmdonbefmkiif",
+        "comment": "Chrome Web Store entry for Search Control for Chrome. (dmgmeikmlhmmannflgejmdonbefmkiif)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "590232b0-47c7-59d0-9a2d-8c3291dc7ebc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pogifpdbhckbplbmkbcanocicellkghc",
+        "comment": "TurtleWave Search | Source: https://malext.io/reports/SearchJack | Added: 2026-06-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          }
+        ]
+      },
+      {
+        "uuid": "8b623d6f-317e-5b0e-83f6-e2d143c52046",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pogifpdbhckbplbmkbcanocicellkghc",
+        "comment": "Chrome Web Store entry for TurtleWave Search (pogifpdbhckbplbmkbcanocicellkghc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3d2f7b1a-a2f2-52d3-b405-9dff253fc361",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "chehnecjgklcemkmaehihhlgfogiompb",
+        "comment": "Prospio Connector | Source: Store Monitoring | Added: 2026-06-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "6f41e56e-0d49-5389-ba87-74b63316c47b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/chehnecjgklcemkmaehihhlgfogiompb",
+        "comment": "Chrome Web Store entry for Prospio Connector (chehnecjgklcemkmaehihhlgfogiompb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "24a2522e-fd41-53d4-bfd5-403b52afe8f5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "plbciefohpijcidomfaenockkecnglff",
+        "comment": "Phishscope \u2014 Url Risk Ana | Source: Store Monitoring | Added: 2026-06-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "2bd58f3d-e638-555a-839c-1a0831c4593f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/plbciefohpijcidomfaenockkecnglff",
+        "comment": "Chrome Web Store entry for Phishscope \u2014 Url Risk Ana (plbciefohpijcidomfaenockkecnglff)",
+        "distribution": "5"
+      },
+      {
         "uuid": "54666557-962e-5a39-969d-887a822ae124",
         "type": "text",
         "category": "Other",
         "to_ids": false,
         "value": "ipnjloolnfhadaamlcjnabbgkaakpfaa",
-        "comment": "Adblocker For Youtube \u2013 B | Source: Store Monitoring | Added: 2026-06-29",
+        "comment": "AdBlocker for YouTube\u2122 \u2013 Block All Video Ads | Source: Store Monitoring | Added: 2026-06-29",
         "distribution": "5",
         "Tag": [
           {
@@ -50,7 +284,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/ipnjloolnfhadaamlcjnabbgkaakpfaa",
-        "comment": "Chrome Web Store entry for Adblocker For Youtube \u2013 B (ipnjloolnfhadaamlcjnabbgkaakpfaa)",
+        "comment": "Chrome Web Store entry for AdBlocker for YouTube\u2122 \u2013 Block All Video Ads (ipnjloolnfhadaamlcjnabbgkaakpfaa)",
         "distribution": "5"
       },
       {
@@ -59,7 +293,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "kkjlpklkmfhjdibjoipaonabfdhdgonc",
-        "comment": "Scroll Scope \u2013 Facebook A | Source: Store Monitoring | Added: 2026-06-29",
+        "comment": "Scroll Scope \u2013 Facebook Ads Spy & Ad Library Saver | Source: Store Monitoring | Added: 2026-06-29",
         "distribution": "5",
         "Tag": [
           {
@@ -76,7 +310,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/kkjlpklkmfhjdibjoipaonabfdhdgonc",
-        "comment": "Chrome Web Store entry for Scroll Scope \u2013 Facebook A (kkjlpklkmfhjdibjoipaonabfdhdgonc)",
+        "comment": "Chrome Web Store entry for Scroll Scope \u2013 Facebook Ads Spy & Ad Library Saver (kkjlpklkmfhjdibjoipaonabfdhdgonc)",
         "distribution": "5"
       },
       {
@@ -103,6 +337,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/hmagoojnoelenmjkdofmbdklgipcpmkg",
         "comment": "Chrome Web Store entry for Walead Extension (hmagoojnoelenmjkdofmbdklgipcpmkg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5c61679d-c903-5b6a-8be4-f2db7d77865b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lodchmjigmbiibplfmagekadbpomglad",
+        "comment": "Prospeo Contact Finder \u2013 | Source: Store Monitoring | Added: 2026-06-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "8fb061f5-77e0-5982-841e-477de670fcb0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lodchmjigmbiibplfmagekadbpomglad",
+        "comment": "Chrome Web Store entry for Prospeo Contact Finder \u2013 (lodchmjigmbiibplfmagekadbpomglad)",
         "distribution": "5"
       },
       {
@@ -14065,6 +14325,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/eelhhhonggaobhpgighgkoggopilndpe",
         "comment": "Chrome Web Store entry for Kentro (eelhhhonggaobhpgighgkoggopilndpe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b14868e0-7e96-54cd-ae85-b913a7214518",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fnfjobgkepeolimkplmkpifohdabioho",
+        "comment": "Heyreach | Source: Store Monitoring | Added: 2026-06-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "da3147bd-8f22-519b-a140-a25b3515ccef",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fnfjobgkepeolimkplmkpifohdabioho",
+        "comment": "Chrome Web Store entry for Heyreach (fnfjobgkepeolimkplmkpifohdabioho)",
         "distribution": "5"
       },
       {
@@ -29746,6 +30032,32 @@
         "distribution": "5"
       },
       {
+        "uuid": "af6f5912-d98a-523b-95a5-0afb33252054",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bhcielkibmaibfcjjmolgpapmlpooaph",
+        "comment": "Volume Booster For Chrome | Source: Store Monitoring | Added: 2026-05-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "a39204e4-91a9-5560-87f6-0be0b6557e78",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bhcielkibmaibfcjjmolgpapmlpooaph",
+        "comment": "Chrome Web Store entry for Volume Booster For Chrome (bhcielkibmaibfcjjmolgpapmlpooaph)",
+        "distribution": "5"
+      },
+      {
         "uuid": "5c273c71-f9bb-56a6-b642-c69bfb685b2a",
         "type": "text",
         "category": "Other",
@@ -29821,6 +30133,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/immheffbkopbhdlaaahedhehiaakkpaj",
         "comment": "Chrome Web Store entry for Grok Ai (immheffbkopbhdlaaahedhehiaakkpaj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0ba942c9-bc52-5bb5-b8b1-652248472377",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mfeglpankepoebhgolkpepjbihmhmedf",
+        "comment": "Blackfy | Source: Store Monitoring | Added: 2026-05-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "6e44c6ed-0a28-5a84-abbe-eab22dc5fd28",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mfeglpankepoebhgolkpepjbihmhmedf",
+        "comment": "Chrome Web Store entry for Blackfy (mfeglpankepoebhgolkpepjbihmhmedf)",
         "distribution": "5"
       },
       {
@@ -32447,6 +32785,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/flkebkiofojicogddingbdmcmkpbplcd",
         "comment": "Chrome Web Store entry for Perplexity Ai (flkebkiofojicogddingbdmcmkpbplcd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3a790a04-f966-535b-bbf1-fa72ddb779f9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hpoamafhefaahkmghebfnbbhpjjohgeh",
+        "comment": "Dark Mode Ultra | Source: Store Monitoring | Added: 2026-04-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "0cee4a26-d1c0-5b43-9bbf-f68bcec30f99",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hpoamafhefaahkmghebfnbbhpjjohgeh",
+        "comment": "Chrome Web Store entry for Dark Mode Ultra (hpoamafhefaahkmghebfnbbhpjjohgeh)",
         "distribution": "5"
       },
       {
