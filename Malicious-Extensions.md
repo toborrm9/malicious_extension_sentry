@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| dmaffnlngibdeccckickgkahgnnoehgc | Hit Vpn — прокси серверы | Policy Violation | Store Monitoring | 01/07/26 | No |
+| dkdadldmiefjldmegbjbnhhfddnkhlhm | Site Signal Website Traff | Malware | Store Monitoring | 01/07/26 | No |
+| aodkjdeghbjiaienipfjkbpcikkacbcp | Meta Facebook Ad Library | Bundling Unwanted Software | Store Monitoring | 01/07/26 | No |
+| laaokndehoihidaebpdnknlngflfghie | Salesnavsplit — Linkedin | Policy Violation | Store Monitoring | 01/07/26 | No |
+| cfpnjdbpojpcongfaefcamjbaolpelcd | Creative Library Ad Spy T | Malware | Store Monitoring | 01/07/26 | No |
+| gflhcillomcadgghkpjineeogahgjodm | Nina Redgifs | Policy Violation | Store Monitoring | 01/07/26 | No |
+| aacohfnaledmdjfckpncddkgaaopjhda | Outmatched Horses | Policy Violation | Store Monitoring | 30/06/26 | No |
 | ekgjfkbcajecaoanallijokmgaocmfhk | Simplia PRO - O seu WhatsApp no modo PRO. | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 30/06/26 | No |
 | lajjhcjblgkhjgkllefjinccdmappgej | Routenplaner & Karten Holen | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 30/06/26 | No |
 | mcimolmhbjhlcppdedjnbpoibacknlna | Audio Search Pro | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 30/06/26 | No |
@@ -263,6 +270,7 @@
 | abpppenajdmdganodlmoeocldojbbjgp | Kahoot Hacker Auto Answer | Malware | Store Monitoring | 17/06/26 | Yes |
 | cbnedplnkdejpbelaggjkffdpilpflcc | Cold Messenger | Policy Violation | Store Monitoring | 17/06/26 | No |
 | aljnlpmcjfncelhooaacnokmibhoobce | Cu Gay | Policy Violation | Store Monitoring | 17/06/26 | No |
+| jgpfgonjjolillilkjfkiddakagkkpoj | Vpn Go Free Vpn | Malware | Store Monitoring | 16/06/26 | No |
 | jekdpdcpbhahidpjcbfbbmbmldbpjbhl | Enable Right Click | Policy Violation | Store Monitoring | 16/06/26 | No |
 | gcoblkekjbplafeafmdgcghlcnenfdfp | Youtube 期間別人気動画ソーター | Policy Violation | Store Monitoring | 16/06/26 | No |
 | fiefnifmddhoiaanpnffbdhjbbdjelec | Do Wallet | Policy Violation | Store Monitoring | 16/06/26 | No |
@@ -972,6 +980,7 @@
 | mcbdngfmhnadbiehggilloephjhjndpn | Tandem Ai Search Side Pan | Policy Violation | Store Monitoring | 16/05/26 | No |
 | eonhgphmceoiekhbknomhkllnonbccca | Whatsapp For Web | Policy Violation | Store Monitoring | 16/05/26 | No |
 | bamkikhlhhnpdkehbjpepjkjgcdcdlfi | Vieu Chrome Extension Get | Policy Violation | Store Monitoring | 16/05/26 | No |
+| ppncfaedcgdfijjdmdglmadjiglfgkha | Linkedhub | Policy Violation | Store Monitoring | 15/05/26 | No |
 | jodgpofgbnifpjpikmagibgcfiipkgkb | Nexusflow Sidebar | Bundling Unwanted Software | Store Monitoring | 15/05/26 | No |
 | okckcmcehmodfocipicdmllmideoobjf | Chat Gpt Extension | Policy Violation | Store Monitoring | 15/05/26 | No |
 | kfnneegkdeoepbhcgbgofeegbjokkjcn | Website Traffic Checker | Malware | Store Monitoring | 15/05/26 | Yes |
@@ -986,6 +995,7 @@
 | ndeejgokieklaealoikgdmbmjdkmaoco | Claude Ai Chrome Extensio | Policy Violation | Store Monitoring | 14/05/26 | No |
 | clajadbbjodhmojbejfhlegbepkpokba | Spk Wallet | Malware | Store Monitoring | 14/05/26 | No |
 | migdegnfalpegigcibhcijackkbgpbif | Video Dwnl Video Download | Bundling Unwanted Software | Store Monitoring | 14/05/26 | Yes |
+| hhldcfhioabacdbbaggcllphmmfkeioi | Ad Blocking Youtube Websi | Malware | Store Monitoring | 13/05/26 | No |
 | balkfdkhbcjjmhndnblgmlmcabnapogp | WaSpeed: Superpoderes para o seu WhatsApp, CRM e muito mais. | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
 | balbfiejpjgneifaaidphbjikcagbmci | ZAPSUPREMO | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
 | ebnoicngibkinocfemedifbollfpficb | Escale Chat | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
@@ -1161,11 +1171,11 @@
 | jlcfpljmkpplfckldccmccihcpamelki | Viral 247 | Malware | Store Monitoring | 08/05/26 | No |
 | joaobbbiagpjnhgbppfdjcbeabbbjokm | Chat Gpt App | Policy Violation | Store Monitoring | 07/05/26 | Yes |
 | dllpkaoladhieehkbjbifonfblhgkoki | Best AdBlocker | Policy Violation | [www.reddit.com](https://www.reddit.com/r/hacking/comments/1t3euxi/chrome_best_adblocker_trojanized_extension_100k/) | 07/05/26 | No |
-| bhcielkibmaibfcjjmolgpapmlpooaph | Volume Booster For Chrome | Malware | Store Monitoring | 06/05/26 | No |
+| bhcielkibmaibfcjjmolgpapmlpooaph | Volume Booster For Chrome | Malware | Store Monitoring | 06/05/26 | Yes |
 | jedmjcmddadejphppaligbfldbhamnih | Tiktok Coin Calculator | Policy Violation | Store Monitoring | 06/05/26 | No |
 | boilpfehlfccankbapnkhfgdcbhlgnid | Clipboard Manager Free | Malware | Store Monitoring | 06/05/26 | No |
 | immheffbkopbhdlaaahedhehiaakkpaj | Grok Ai | Policy Violation | Store Monitoring | 06/05/26 | No |
-| mfeglpankepoebhgolkpepjbihmhmedf | Blackfy | Malware | Store Monitoring | 05/05/26 | No |
+| mfeglpankepoebhgolkpepjbihmhmedf | Blackfy | Malware | Store Monitoring | 05/05/26 | Yes |
 | okanoajihjohgmbifnkiebaobfkgenfa | Chatgpt Toolkit | Policy Violation | Store Monitoring | 05/05/26 | No |
 | inhmbedecadikokanjcblbdaijhpjjln | Phantom Pluggin App | Malware | Store Monitoring | 05/05/26 | No |
 | hflemfieklefhnefolpanacemfclbalb | CryptoScan — Cryptocurrency Wallet Scanner | Malware | Store Monitoring | 05/05/26 | No |
@@ -1267,7 +1277,7 @@
 | ppifedcnnhokhllkjbokkekbggnlbfak | Airbnb 图片下载 | Policy Violation | Store Monitoring | 25/04/26 | No |
 | lehcglgkjkamolcflammloedahjocbbg | Stream Cleaner | Bundling Unwanted Software | Store Monitoring | 25/04/26 | Yes |
 | flkebkiofojicogddingbdmcmkpbplcd | Perplexity Ai | Policy Violation | Store Monitoring | 25/04/26 | No |
-| hpoamafhefaahkmghebfnbbhpjjohgeh | Dark Mode Ultra | Malware | Store Monitoring | 24/04/26 | No |
+| hpoamafhefaahkmghebfnbbhpjjohgeh | Dark Mode Ultra | Malware | Store Monitoring | 24/04/26 | Yes |
 | ganbipgooebabahkemagcehplknpffgk | Aztec Treasure | Policy Violation | Store Monitoring | 24/04/26 | No |
 | mgammpcfhbffogpfceobnpcofaphocap | Tiktok Video Downloader N | Policy Violation | Store Monitoring | 24/04/26 | No |
 | fdohffmkhlflcpcibkgenbenmnlhjpmf | Muddy Business A Tetris 1 | Policy Violation | Store Monitoring | 24/04/26 | No |
