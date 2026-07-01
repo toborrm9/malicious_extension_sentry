@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-06-30",
-    "timestamp": "1782854528",
+    "date": "2026-07-01",
+    "timestamp": "1782905585",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,188 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "96c835b3-63e4-5b4c-91da-e74b1ff569ec",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmaffnlngibdeccckickgkahgnnoehgc",
+        "comment": "Hit Vpn \u2014 \u043f\u0440\u043e\u043a\u0441\u0438 \u0441\u0435\u0440\u0432\u0435\u0440\u044b | Source: Store Monitoring | Added: 2026-07-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "9a9ca227-96b7-585c-ad51-e60b0af72b9c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dmaffnlngibdeccckickgkahgnnoehgc",
+        "comment": "Chrome Web Store entry for Hit Vpn \u2014 \u043f\u0440\u043e\u043a\u0441\u0438 \u0441\u0435\u0440\u0432\u0435\u0440\u044b (dmaffnlngibdeccckickgkahgnnoehgc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "49b945cd-fc54-5110-a49a-685acd23411b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dkdadldmiefjldmegbjbnhhfddnkhlhm",
+        "comment": "Site Signal Website Traff | Source: Store Monitoring | Added: 2026-07-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "d184292b-b56f-594d-8f51-218eb38e5627",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dkdadldmiefjldmegbjbnhhfddnkhlhm",
+        "comment": "Chrome Web Store entry for Site Signal Website Traff (dkdadldmiefjldmegbjbnhhfddnkhlhm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b7122517-5d9d-539a-98df-cc633d900413",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aodkjdeghbjiaienipfjkbpcikkacbcp",
+        "comment": "Meta Facebook Ad Library | Source: Store Monitoring | Added: 2026-07-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "b49fb6cf-c471-527a-920f-97f2ab358ef2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aodkjdeghbjiaienipfjkbpcikkacbcp",
+        "comment": "Chrome Web Store entry for Meta Facebook Ad Library (aodkjdeghbjiaienipfjkbpcikkacbcp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "24f2e8b0-12fb-5d5e-be71-e3607cf45bcb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "laaokndehoihidaebpdnknlngflfghie",
+        "comment": "Salesnavsplit \u2014 Linkedin | Source: Store Monitoring | Added: 2026-07-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "dd69aec4-1cbc-5dbf-898b-b9d3411c2d2f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/laaokndehoihidaebpdnknlngflfghie",
+        "comment": "Chrome Web Store entry for Salesnavsplit \u2014 Linkedin (laaokndehoihidaebpdnknlngflfghie)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a273175d-5f8d-5e49-8e1b-081ade27fd44",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cfpnjdbpojpcongfaefcamjbaolpelcd",
+        "comment": "Creative Library Ad Spy T | Source: Store Monitoring | Added: 2026-07-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "da3f64c2-0cca-5c86-b767-488a6434f899",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cfpnjdbpojpcongfaefcamjbaolpelcd",
+        "comment": "Chrome Web Store entry for Creative Library Ad Spy T (cfpnjdbpojpcongfaefcamjbaolpelcd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bbfba862-d5e6-5db0-a7dd-5e5c33b903c0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gflhcillomcadgghkpjineeogahgjodm",
+        "comment": "Nina Redgifs | Source: Store Monitoring | Added: 2026-07-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "88445a31-e6ce-54d9-823e-4e18853c715a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gflhcillomcadgghkpjineeogahgjodm",
+        "comment": "Chrome Web Store entry for Nina Redgifs (gflhcillomcadgghkpjineeogahgjodm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "afd59e31-5af4-5779-a34d-a7e8f41646f7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aacohfnaledmdjfckpncddkgaaopjhda",
+        "comment": "Outmatched Horses | Source: Store Monitoring | Added: 2026-06-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "66f6728f-aa39-5656-b534-2f8c3957fc0c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aacohfnaledmdjfckpncddkgaaopjhda",
+        "comment": "Chrome Web Store entry for Outmatched Horses (aacohfnaledmdjfckpncddkgaaopjhda)",
+        "distribution": "5"
+      },
       {
         "uuid": "5e3aadbd-4fc4-5607-8f0f-e84dccdc451b",
         "type": "text",
@@ -6863,6 +7045,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/aljnlpmcjfncelhooaacnokmibhoobce",
         "comment": "Chrome Web Store entry for Cu Gay (aljnlpmcjfncelhooaacnokmibhoobce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0bb82b2e-1549-5912-b812-889f02a2e9ab",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jgpfgonjjolillilkjfkiddakagkkpoj",
+        "comment": "Vpn Go Free Vpn | Source: Store Monitoring | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "aae4ece1-f81c-5163-8430-b1a3a27ade1f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jgpfgonjjolillilkjfkiddakagkkpoj",
+        "comment": "Chrome Web Store entry for Vpn Go Free Vpn (jgpfgonjjolillilkjfkiddakagkkpoj)",
         "distribution": "5"
       },
       {
@@ -25300,6 +25508,32 @@
         "distribution": "5"
       },
       {
+        "uuid": "4b1bd3e7-29c4-5e4d-90ed-9e2f5cc28db6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ppncfaedcgdfijjdmdglmadjiglfgkha",
+        "comment": "Linkedhub | Source: Store Monitoring | Added: 2026-05-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "9e8e2339-bd3f-5685-9912-3416d47c6ee3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ppncfaedcgdfijjdmdglmadjiglfgkha",
+        "comment": "Chrome Web Store entry for Linkedhub (ppncfaedcgdfijjdmdglmadjiglfgkha)",
+        "distribution": "5"
+      },
+      {
         "uuid": "fe7bfa69-4d05-5668-af18-f108b2a9efee",
         "type": "text",
         "category": "Other",
@@ -25661,6 +25895,32 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/migdegnfalpegigcibhcijackkbgpbif",
         "comment": "Chrome Web Store entry for Video Dwnl Video Download (migdegnfalpegigcibhcijackkbgpbif)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1b3c423b-fa9a-5603-bd78-4ad93adbc1e8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hhldcfhioabacdbbaggcllphmmfkeioi",
+        "comment": "Ad Blocking Youtube Websi | Source: Store Monitoring | Added: 2026-05-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          }
+        ]
+      },
+      {
+        "uuid": "4040ffb9-09bc-54c8-95b5-a66ba89be3af",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hhldcfhioabacdbbaggcllphmmfkeioi",
+        "comment": "Chrome Web Store entry for Ad Blocking Youtube Websi (hhldcfhioabacdbbaggcllphmmfkeioi)",
         "distribution": "5"
       },
       {
