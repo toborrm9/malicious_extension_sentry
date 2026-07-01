@@ -1,10 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
 | dmaffnlngibdeccckickgkahgnnoehgc | Hit Vpn — прокси серверы | Policy Violation | Store Monitoring | 01/07/26 | No |
-| dkdadldmiefjldmegbjbnhhfddnkhlhm | Site Signal Website Traff | Malware | Store Monitoring | 01/07/26 | No |
+| jgpfgonjjolillilkjfkiddakagkkpoj | Vpn Go Free Vpn | Malware | Store Monitoring | 01/07/26 | No |
+| dkdadldmiefjldmegbjbnhhfddnkhlhm | ite Signal - Website Traffic & SEO Checker | Malware | Store Monitoring | 01/07/26 | No |
 | aodkjdeghbjiaienipfjkbpcikkacbcp | Meta Facebook Ad Library | Bundling Unwanted Software | Store Monitoring | 01/07/26 | No |
-| laaokndehoihidaebpdnknlngflfghie | Salesnavsplit — Linkedin | Policy Violation | Store Monitoring | 01/07/26 | No |
-| cfpnjdbpojpcongfaefcamjbaolpelcd | Creative Library Ad Spy T | Malware | Store Monitoring | 01/07/26 | No |
+| ppncfaedcgdfijjdmdglmadjiglfgkha | Linkedhub | Policy Violation | Store Monitoring | 01/07/26 | No |
+| laaokndehoihidaebpdnknlngflfghie | SalesNavSplit — LinkedIn Premium & Sales Navigator Activation | Policy Violation | Store Monitoring | 01/07/26 | No |
+| cfpnjdbpojpcongfaefcamjbaolpelcd | Creative Library - Ad Spy Tool | Malware | Store Monitoring | 01/07/26 | No |
+| hhldcfhioabacdbbaggcllphmmfkeioi | Ad-Blocking - YouTube & Websites | Malware | Store Monitoring | 01/07/26 | No |
 | gflhcillomcadgghkpjineeogahgjodm | Nina Redgifs | Policy Violation | Store Monitoring | 01/07/26 | No |
 | aacohfnaledmdjfckpncddkgaaopjhda | Outmatched Horses | Policy Violation | Store Monitoring | 30/06/26 | No |
 | ekgjfkbcajecaoanallijokmgaocmfhk | Simplia PRO - O seu WhatsApp no modo PRO. | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 30/06/26 | No |
@@ -22,7 +25,7 @@
 | dmgmeikmlhmmannflgejmdonbefmkiif | Search Control for Chrome. | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 30/06/26 | No |
 | pogifpdbhckbplbmkbcanocicellkghc | TurtleWave Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 30/06/26 | No |
 | chehnecjgklcemkmaehihhlgfogiompb | Prospio Connector | Policy Violation | Store Monitoring | 29/06/26 | No |
-| plbciefohpijcidomfaenockkecnglff | Phishscope — Url Risk Ana | Policy Violation | Store Monitoring | 29/06/26 | No |
+| plbciefohpijcidomfaenockkecnglff | PhishScope — URL Risk Analyzer | Policy Violation | Store Monitoring | 29/06/26 | No |
 | ipnjloolnfhadaamlcjnabbgkaakpfaa | AdBlocker for YouTube™ – Block All Video Ads | Bundling Unwanted Software | Store Monitoring | 29/06/26 | Yes |
 | kkjlpklkmfhjdibjoipaonabfdhdgonc | Scroll Scope – Facebook Ads Spy & Ad Library Saver | Bundling Unwanted Software | Store Monitoring | 29/06/26 | No |
 | hmagoojnoelenmjkdofmbdklgipcpmkg | Walead Extension | Policy Violation | Store Monitoring | 29/06/26 | No |
@@ -270,7 +273,6 @@
 | abpppenajdmdganodlmoeocldojbbjgp | Kahoot Hacker Auto Answer | Malware | Store Monitoring | 17/06/26 | Yes |
 | cbnedplnkdejpbelaggjkffdpilpflcc | Cold Messenger | Policy Violation | Store Monitoring | 17/06/26 | No |
 | aljnlpmcjfncelhooaacnokmibhoobce | Cu Gay | Policy Violation | Store Monitoring | 17/06/26 | No |
-| jgpfgonjjolillilkjfkiddakagkkpoj | Vpn Go Free Vpn | Malware | Store Monitoring | 16/06/26 | No |
 | jekdpdcpbhahidpjcbfbbmbmldbpjbhl | Enable Right Click | Policy Violation | Store Monitoring | 16/06/26 | No |
 | gcoblkekjbplafeafmdgcghlcnenfdfp | Youtube 期間別人気動画ソーター | Policy Violation | Store Monitoring | 16/06/26 | No |
 | fiefnifmddhoiaanpnffbdhjbbdjelec | Do Wallet | Policy Violation | Store Monitoring | 16/06/26 | No |
@@ -980,7 +982,6 @@
 | mcbdngfmhnadbiehggilloephjhjndpn | Tandem Ai Search Side Pan | Policy Violation | Store Monitoring | 16/05/26 | No |
 | eonhgphmceoiekhbknomhkllnonbccca | Whatsapp For Web | Policy Violation | Store Monitoring | 16/05/26 | No |
 | bamkikhlhhnpdkehbjpepjkjgcdcdlfi | Vieu Chrome Extension Get | Policy Violation | Store Monitoring | 16/05/26 | No |
-| ppncfaedcgdfijjdmdglmadjiglfgkha | Linkedhub | Policy Violation | Store Monitoring | 15/05/26 | No |
 | jodgpofgbnifpjpikmagibgcfiipkgkb | Nexusflow Sidebar | Bundling Unwanted Software | Store Monitoring | 15/05/26 | No |
 | okckcmcehmodfocipicdmllmideoobjf | Chat Gpt Extension | Policy Violation | Store Monitoring | 15/05/26 | No |
 | kfnneegkdeoepbhcgbgofeegbjokkjcn | Website Traffic Checker | Malware | Store Monitoring | 15/05/26 | Yes |
@@ -995,7 +996,6 @@
 | ndeejgokieklaealoikgdmbmjdkmaoco | Claude Ai Chrome Extensio | Policy Violation | Store Monitoring | 14/05/26 | No |
 | clajadbbjodhmojbejfhlegbepkpokba | Spk Wallet | Malware | Store Monitoring | 14/05/26 | No |
 | migdegnfalpegigcibhcijackkbgpbif | Video Dwnl Video Download | Bundling Unwanted Software | Store Monitoring | 14/05/26 | Yes |
-| hhldcfhioabacdbbaggcllphmmfkeioi | Ad Blocking Youtube Websi | Malware | Store Monitoring | 13/05/26 | No |
 | balkfdkhbcjjmhndnblgmlmcabnapogp | WaSpeed: Superpoderes para o seu WhatsApp, CRM e muito mais. | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
 | balbfiejpjgneifaaidphbjikcagbmci | ZAPSUPREMO | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
 | ebnoicngibkinocfemedifbollfpficb | Escale Chat | Malware | [malext.io](https://malext.io/reports/WaSteal) | 13/05/26 | No |
