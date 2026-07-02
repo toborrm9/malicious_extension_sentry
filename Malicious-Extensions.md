@@ -1,13 +1,23 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist |
 | ------------- | ---- | ------ | ------ | ----------- |--------| 
+| djjocjgglhbkcfclclilmamlcoggoole | простоjpg | Policy Violation | Store Monitoring | 02/07/26 | No |
+| empabhhbjnhkffjodokdpobhjfakdobj | Horror Snake Skeleton Cha | Policy Violation | Store Monitoring | 02/07/26 | No |
+| bcenodacmkbidnjkinmjlppcdjijkkhf | Extrovert | Policy Violation | Store Monitoring | 02/07/26 | No |
+| nbdkaflpnoblhgopilbgibneifjgcojp | Notebooklm Pdf Summariser | Policy Violation | Store Monitoring | 02/07/26 | No |
+| gpfdgpikbndcmbfnemoplnkcepogomkl | Satoru Gojo Vs Suguru Get | Policy Violation | Store Monitoring | 02/07/26 | No |
+| nfelknjakpojmdnobefebknmijjgclnp | Check Bm KiểM Tra Business | Policy Violation | Store Monitoring | 02/07/26 | No |
+| fpmnfjfoeiobbchodjmhpjgghcmbobki | Leadcontact | Policy Violation | Store Monitoring | 02/07/26 | No |
+| kdpdoiamibcalpokkiifgekjnnkijmac | Slope 2 Unblocked | Policy Violation | Store Monitoring | 02/07/26 | No |
+| mfnljogecbnceopaipfejiphkgnbfnip | 도비블로그 네이버 블로그 도우미 | Policy Violation | Store Monitoring | 02/07/26 | No |
+| hilpchhlogijamlemmggobblmfcdkomg | Buscapé | Policy Violation | Store Monitoring | 02/07/26 | No |
 | dmaffnlngibdeccckickgkahgnnoehgc | Hit Vpn — прокси серверы | Policy Violation | Store Monitoring | 01/07/26 | No |
 | jgpfgonjjolillilkjfkiddakagkkpoj | Vpn Go Free Vpn | Malware | Store Monitoring | 01/07/26 | No |
-| dkdadldmiefjldmegbjbnhhfddnkhlhm | ite Signal - Website Traffic & SEO Checker | Malware | Store Monitoring | 01/07/26 | No |
+| dkdadldmiefjldmegbjbnhhfddnkhlhm | ite Signal - Website Traffic & SEO Checker | Malware | Store Monitoring | 01/07/26 | Yes |
 | aodkjdeghbjiaienipfjkbpcikkacbcp | Meta Facebook Ad Library | Bundling Unwanted Software | Store Monitoring | 01/07/26 | No |
 | ppncfaedcgdfijjdmdglmadjiglfgkha | Linkedhub | Policy Violation | Store Monitoring | 01/07/26 | No |
 | laaokndehoihidaebpdnknlngflfghie | SalesNavSplit — LinkedIn Premium & Sales Navigator Activation | Policy Violation | Store Monitoring | 01/07/26 | No |
 | cfpnjdbpojpcongfaefcamjbaolpelcd | Creative Library - Ad Spy Tool | Malware | Store Monitoring | 01/07/26 | No |
-| hhldcfhioabacdbbaggcllphmmfkeioi | Ad-Blocking - YouTube & Websites | Malware | Store Monitoring | 01/07/26 | No |
+| hhldcfhioabacdbbaggcllphmmfkeioi | Ad-Blocking - YouTube & Websites | Malware | Store Monitoring | 01/07/26 | Yes |
 | gflhcillomcadgghkpjineeogahgjodm | Nina Redgifs | Policy Violation | Store Monitoring | 01/07/26 | No |
 | aacohfnaledmdjfckpncddkgaaopjhda | Outmatched Horses | Policy Violation | Store Monitoring | 30/06/26 | No |
 | ekgjfkbcajecaoanallijokmgaocmfhk | Simplia PRO - O seu WhatsApp no modo PRO. | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 30/06/26 | No |
