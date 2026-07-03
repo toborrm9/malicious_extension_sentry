@@ -1,5 +1,5 @@
-| Extension ID | Name | Reason | Source | Insert Date | Blocklist |
-| ------------- | ---- | ------ | ------ | ----------- |--------| 
+| Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
+| ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
 | neognhojdkfklkjdfipmkljomnbpekjg | Youtube Activity Cleaner | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
 | jaibghbhaadfcjmfeacllhgdkbpmcloi | Derrick Helper | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
 | imgcgklkfabbpaafpjnkelmfdfnckeph | Mossy | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
