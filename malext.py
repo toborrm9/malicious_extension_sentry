@@ -16,6 +16,22 @@ from pathlib import Path
 # Database URL
 CSV_URL = "https://raw.githubusercontent.com/toborrm9/malicious_extension_sentry/refs/heads/main/Malicious-Extensions.csv"
 
+# Chrome/Chromium built-in "component" extensions that ship with the browser.
+# These are not user-installed and only add noise to the scan.
+INTERNAL_EXTENSION_IDS = {
+    "nmmhkkegccagdldgiimedpiccmgmieda",  # Chrome Web Store Payments
+    "ghbmnnjooekpmoecnnnilnnbdlolhkhi",  # Google Docs Offline
+    "pkedcjkdefgpdelpbcmbmeomcjbeemfm",  # Chrome Media Router / Cast
+    "mhjfbmdgcfjbbpaeojofohoefgiehjai",  # Chrome PDF Viewer
+    "neajdppkdcdipfabeoofebfddakdcjhd",  # Google Network Speech
+    "aapocclcgogkmnckokdopfmhonfmgoek",  # Slides (bundled)
+    "aohghmighlieiainnegkcijnfilokake",  # Docs (bundled)
+    "apdfllckaahabafndbhieahigkjlhalf",  # Google Drive (bundled)
+    "blpcfgokakmgnkcojhhkbfbldkacnbeo",  # YouTube (bundled)
+    "pjkljhegncpnkpknbcohdijeoejaedia",  # Gmail (bundled)
+    "coobgpohoikkiipiblmjeljniedjpjpf",  # Search by Image (bundled)
+}
+
 
 def banner():
     """Display banner"""
@@ -219,9 +235,24 @@ def download_database():
         return set()
 
 
+def is_extension_id(name):
+    """Chrome extension IDs are exactly 32 chars in the range a-p.
+
+    This filters out non-extension directories (e.g. "Temp") that Chrome
+    leaves inside the Extensions folder.
+    """
+    return len(name) == 32 and all("a" <= c <= "p" for c in name)
+
+
 def get_extensions():
-    """Get all installed extensions"""
-    extensions = []
+    """Get all installed extensions, deduplicated across profiles.
+
+    The same extension appears under every Chrome profile it is installed in
+    (Default, Profile 1, ...). We collapse those into a single entry per
+    (browser, id) and record which profiles it was found in, so the reported
+    count reflects distinct extensions rather than profile copies.
+    """
+    unique = {}
     browsers = get_browser_paths()
 
     for browser, path in browsers:
@@ -229,20 +260,29 @@ def get_extensions():
             continue
         for profile in get_profile_dirs(path):
             ext_path = profile / "Extensions"
-            if ext_path.exists():
-                for ext in ext_path.iterdir():
-                    if ext.is_dir():
-                        name = get_name(ext)
-                        extensions.append(
-                            {
-                                "id": ext.name,
-                                "name": name,
-                                "browser": browser,
-                                "profile": profile.name,
-                            }
-                        )
+            if not ext_path.exists():
+                continue
+            for ext in ext_path.iterdir():
+                if not ext.is_dir():
+                    continue
+                # Skip non-extension dirs and Chrome's built-in components
+                if not is_extension_id(ext.name):
+                    continue
+                if ext.name in INTERNAL_EXTENSION_IDS:
+                    continue
 
-    return extensions
+                key = (browser, ext.name)
+                if key in unique:
+                    unique[key]["profiles"].append(profile.name)
+                else:
+                    unique[key] = {
+                        "id": ext.name,
+                        "name": get_name(ext),
+                        "browser": browser,
+                        "profiles": [profile.name],
+                    }
+
+    return list(unique.values())
 
 
 def get_profile_dirs(browser_path):
@@ -259,22 +299,68 @@ def get_profile_dirs(browser_path):
     return profiles
 
 
+def resolve_message(value, version_dir, default_locale):
+    """Resolve a Chrome __MSG_key__ placeholder to a human-readable string.
+
+    Localized manifest fields use the form "__MSG_someKey__" which maps to an
+    entry in _locales/<locale>/messages.json. Message keys are case-insensitive
+    per the Chrome spec. Returns the resolved string, or None if it can't be
+    resolved.
+    """
+    if not (value.startswith("__MSG_") and value.endswith("__")):
+        return value
+
+    key = value[len("__MSG_") : -len("__")].lower()
+
+    # Try the manifest's default locale first, then common fallbacks.
+    locales_dir = version_dir / "_locales"
+    candidates = [default_locale, "en", "en_US"]
+    seen = set()
+    for locale in candidates:
+        if not locale or locale in seen:
+            continue
+        seen.add(locale)
+        messages_file = locales_dir / locale / "messages.json"
+        if not messages_file.exists():
+            continue
+        try:
+            with open(messages_file, "r", encoding="utf-8") as f:
+                messages = json.load(f)
+        except Exception:
+            continue
+        # Match key case-insensitively
+        for msg_key, entry in messages.items():
+            if msg_key.lower() == key and isinstance(entry, dict):
+                msg = entry.get("message")
+                if msg:
+                    return msg
+
+    return None
+
+
 def get_name(ext_path):
-    """Get extension name from manifest"""
+    """Get extension name from manifest, resolving localized names."""
     try:
         versions = [f for f in ext_path.iterdir() if f.is_dir()]
-        if versions:
-            manifest = sorted(versions)[-1] / "manifest.json"
-            if manifest.exists():
-                with open(manifest, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    name = data.get("name", "Unknown")
-                    return (
-                        name
-                        if not name.startswith("__MSG_")
-                        else data.get("short_name", "Unknown")
-                    )
-    except:
+        if not versions:
+            return "Unknown"
+        version_dir = sorted(versions)[-1]
+        manifest = version_dir / "manifest.json"
+        if not manifest.exists():
+            return "Unknown"
+
+        with open(manifest, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        default_locale = data.get("default_locale")
+        for field in ("name", "short_name"):
+            value = data.get(field)
+            if not value:
+                continue
+            resolved = resolve_message(value, version_dir, default_locale)
+            if resolved and not resolved.startswith("__MSG_"):
+                return resolved
+    except Exception:
         pass
     return "Unknown"
 
@@ -325,9 +411,10 @@ def main():
         print("🔴 REMOVE THESE IMMEDIATELY:")
         print("-" * 70)
         for t in threats:
+            profiles = ", ".join(dict.fromkeys(t["profiles"]))
             print(f"❌ {t['name']}")
             print(f"   ID: {t['id']}")
-            print(f"   Browser: {t['browser']} ({t['profile']})")
+            print(f"   Browser: {t['browser']} ({profiles})")
             print(f"   URL: https://chromewebstore.google.com/detail/{t['id']}\n")
 
         # OS-specific removal instructions
@@ -354,7 +441,8 @@ def main():
     print(f"📊 Database: {len(malicious)} known malicious extensions")
     print(f"🌐 Source: {CSV_URL}")
     print("=" * 70 + "\n")
-    print("🙏 Star the repo: github.com/toborrm9/malicious_extension_sentry")
+    print("🙏 Star the repo: github.com/toborrm9/malicious_extension_sentry \n")
+    print("🌐 Check the live dashboard at https://malext.io\n")
     print("🐛 Report threats: Open an issue on GitHub!\n")
 
 
