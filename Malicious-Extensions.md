@@ -1,10 +1,25 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| bjocdocblhajndcmcfnckbjbkjnjebio | Ocai 采集插件 | Policy Violation | Store Monitoring | 05/07/26 | No | Google Chrome
+| adckfinclpmhjnijmeeejkdhocikacgd | Cnote – Web Notes Clippin | Policy Violation | Store Monitoring | 05/07/26 | No | Google Chrome
+| jdjngncampfhkckgofiigkjbpblkipgg | Vision Pro | Policy Violation | Store Monitoring | 04/07/26 | No | Google Chrome
+| nmgefgmcfjojfppkjgbmcdlinabfdalp | Chatgpt As Search Engine | Policy Violation | Store Monitoring | 04/07/26 | Yes | Google Chrome
+| jncfmhhkhlbpglafcpjcjkimgadgiamc | Flash Game Emulator | Policy Violation | Store Monitoring | 04/07/26 | Yes | Google Chrome
+| gfhmjeacjadpopinacpjailkjkadnoge | Leadcontacter Linkedin Automation | Policy Violation | Store Monitoring | 04/07/26 | No | Google Chrome
+| dfenkhmeopgbbdeidfenplgimikkgchn | Afiliado Dash | Policy Violation | Store Monitoring | 04/07/26 | No | Google Chrome
+| bkanalgjbfghmhemodhhdfnfbekiepem | Contactlayer | Policy Violation | Store Monitoring | 04/07/26 | No | Google Chrome
+| jlpelaiooegmlkmpgkcilapfpmplbnio | 拿拿龙跨境智选 Cross Border Product Selector | Policy Violation | Store Monitoring | 04/07/26 | No | Google Chrome
+| pianklkjanhlafllfjljmjhknlohpeim | Browse Safely (in Chrome) | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/07/26 | No | Chrome
+| abdiehdjhihijpamilcmfgobhggddgkk | UrbanTabs | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/07/26 | No | Chrome
+| neecnojgdjbkphlalgfgegmhkhakgkob | Thir - Intelligent ChatGPT AI Assistant (Gemini, Grok, Claude, DeepSeek) | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/07/26 | No | Chrome
+| ggfpkajpmdihdfmdecfdflpmdoaegcpa | AerateFinder | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/07/26 | No | Chrome
+| pakokdcamkaoehinfoogagbockgibphc | Search Seeker | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/07/26 | No | Chrome
+| paajmlioglbkjeealiikpiiddbbhcaan | Cute Cat Wallpapers New Tab | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/07/26 | No | Chrome
 | neognhojdkfklkjdfipmkljomnbpekjg | Youtube Activity Cleaner | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
 | jaibghbhaadfcjmfeacllhgdkbpmcloi | Derrick Helper | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
 | imgcgklkfabbpaafpjnkelmfdfnckeph | Mossy | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
 | jejifcplmempiomnkemeedgibenehpfk | Phonefinder – Find Contac | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
-| cmiafibpgpfjdheafdflginmknifkolh | Snow Rider 3D Unblocked | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
+| cmiafibpgpfjdheafdflginmknifkolh | Snow Rider 3D Unblocked | Policy Violation | Store Monitoring | 03/07/26 | Yes | Google Chrome
 | mhabahpbnihmmpbiooeloklacbgllfen | Vpn для Chrome — бесплатн | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
 | pkbohfdjhpmkfbghcaaemmncmbccnanc | Myxa Vpn Premium | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
 | gfjmfhidodaepehghfmfdeenmggeamof | Habs Radio Sync | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
@@ -25,7 +40,7 @@
 | fpmnfjfoeiobbchodjmhpjgghcmbobki | Leadcontact | Policy Violation | Store Monitoring | 02/07/26 | No | Google Chrome
 | kdpdoiamibcalpokkiifgekjnnkijmac | Slope 2 Unblocked | Policy Violation | Store Monitoring | 02/07/26 | No | Google Chrome
 | mfnljogecbnceopaipfejiphkgnbfnip | 도비블로그 네이버 블로그 도우미 | Policy Violation | Store Monitoring | 02/07/26 | No | Google Chrome
-| hilpchhlogijamlemmggobblmfcdkomg | Buscapé | Policy Violation | Store Monitoring | 02/07/26 | No | Google Chrome
+| hilpchhlogijamlemmggobblmfcdkomg | Buscapé | Policy Violation | Store Monitoring | 02/07/26 | Yes | Google Chrome
 | dmaffnlngibdeccckickgkahgnnoehgc | Hit Vpn — прокси серверы | Policy Violation | Store Monitoring | 01/07/26 | No | Google Chrome
 | jgpfgonjjolillilkjfkiddakagkkpoj | Vpn Go Free Vpn | Malware | Store Monitoring | 01/07/26 | No | Google Chrome
 | dkdadldmiefjldmegbjbnhhfddnkhlhm | ite Signal - Website Traffic & SEO Checker | Malware | Store Monitoring | 01/07/26 | Yes | Google Chrome
@@ -41,8 +56,8 @@
 | mcimolmhbjhlcppdedjnbpoibacknlna | Audio Search Pro | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 30/06/26 | No | Google Chrome
 | jgdddeonphekfhicmnpffkfpboalmcjd | Easy PDF Viewer | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 30/06/26 | No | Google Chrome
 | poohgclikepabkobiifeemnidjdffoip | Option Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 30/06/26 | No | Google Chrome
-| kfnpaphhpnngikfmnofpkakbaekbafil | Handy Tab Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 30/06/26 | No | Google Chrome
-| nhioomapcdomjekmegdnnlbcnjgnodon | Earth Satellite | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 30/06/26 | No | Google Chrome
+| kfnpaphhpnngikfmnofpkakbaekbafil | Handy Tab Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 30/06/26 | No | Google Chrome
+| nhioomapcdomjekmegdnnlbcnjgnodon | Earth Satellite | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 30/06/26 | No | Google Chrome
 | kdkoofnpjboodmojoebcoliekojhhgdh | Pn Copilot | Policy Violation | Store Monitoring | 30/06/26 | No | Google Chrome
 | efmpgidgifbalboaickehkifaalpkflg | Sendpilot | Policy Violation | Store Monitoring | 30/06/26 | No | Google Chrome
 | pjopechaafjcfmkloklfibjaplacjkcg | Kawaak | Policy Violation | Store Monitoring | 30/06/26 | No | Google Chrome
@@ -50,6 +65,9 @@
 | hldplblidcbjfbdhpiegmgimhkcfhakm | Ivpn | Policy Violation | Store Monitoring | 30/06/26 | No | Google Chrome
 | dmgmeikmlhmmannflgejmdonbefmkiif | Search Control for Chrome. | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 30/06/26 | No | Google Chrome
 | pogifpdbhckbplbmkbcanocicellkghc | TurtleWave Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 30/06/26 | No | Google Chrome
+| leghoimbpegljdahpfkcgbgalbegpogi | DataZap: Automação, CRM e Chatbot para Vendas no WhatsApp Web | Policy Violation | Store Monitoring | 29/06/26 | No | Google Chrome
+| ahjpgookabbplenlliddmdkelihifmkk | Discord Id Lookup | Malware | Store Monitoring | 29/06/26 | No | Google Chrome
+| eglhokebokdmejdfpejnagcmnmjbfhig | DIPU & COMPANY GSTR-N | Policy Violation | Store Monitoring | 29/06/26 | No | Google Chrome
 | mcbpblocgmgfnpjjppndjkmgjaogfceg | Take Webpage Screenshots Entirely - FireShot | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | fifeankddgioinbcchlokclbcgjlopjj | Similar Sites - Discover Related Websites | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | olcibgopfmndlnghnmogcgdhdffdbicg | olcibgopfmndlnghnmogcgdhdffdbicg | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
@@ -112,56 +130,56 @@
 | kkjlpklkmfhjdibjoipaonabfdhdgonc | Scroll Scope – Facebook Ads Spy & Ad Library Saver | Bundling Unwanted Software | Store Monitoring | 29/06/26 | No | Google Chrome
 | hmagoojnoelenmjkdofmbdklgipcpmkg | Walead Extension | Policy Violation | Store Monitoring | 29/06/26 | No | Google Chrome
 | lodchmjigmbiibplfmagekadbpomglad | Prospeo Contact Finder – | Policy Violation | Store Monitoring | 28/06/26 | No | Google Chrome
-| hdfbcoinblihoiopfkajcnojdlinbmhp | AirSearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJacker) | 28/06/26 | No | Google Chrome
+| hdfbcoinblihoiopfkajcnojdlinbmhp | AirSearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJacker/) | 28/06/26 | No | Google Chrome
 | djgflnccplcmifemnpgnkkdblihncpmm | OmniSearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJacker/) | 28/06/26 | No | Google Chrome
 | nebcaefoifldbbidkgfigijgbdbhdhee | Wallet Connect Pay | Policy Violation | Store Monitoring | 28/06/26 | No | Google Chrome
-| okhibkagcfjdiphcbpepgkcgpbeehmlf | Disparador WhatsApp WL | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| cceigfcfocnmimfpodinldgghgeijjci | CRM multiatendimento Zap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| eibohmejgabkbblnepndeajbgeefkcai | Whatsapp CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| ihcekhkenpafgnlnppeldehaidbplopb | CRM no Whatsapp para corretores de seguro | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| ljdglkbjbimcfogoknmggdcjlnddamil | Crm Grátis | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| ppmggmlbijhmfdpbmeghdbjajehilcjm | CRM no Whatsapp para Barbearia | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| pmhbkempoiednaeamhilkcpelemmcfic | Assis Hub | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| plnegmjdlomnfjhkjpigbcbbmajfkecj | Zapeiro | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| plmcopimgohpohinmoeejlahpdappepa | Sales Prime CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| pgahbfgpejdkcnhkehniglkjkmidgifg | Claude Chat WhatsApp | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| pbkjioocakemejdodfdebnnmmliiamfe | WebZapp | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| opocafnnojhngbheikamlpdmijhbobfj | Super Chat CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| opnjhckoecaeicgkkpkjgleelangmmmj | Whatsapp GB | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| oplhgdalokikdokdnfbiendocdkcjhjo | VENDE-C ZAP | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| aoolkbdpfgbocamjjciiiholdakmldag | CRM do PAI | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| agmfmnkgednafkcifhahflfbemfcbcbc | GestorChat | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| omfdlfboihlkfebdcbnblmiepdchghic | EXD CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| neelgaajhioohpoenjbjhfldmlfpiocf | CRM no Whatsapp para Delivery | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| nbenjijhmfecggfipnlkpbplcgnbfgeo | Zyntri CRM Conversa | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| nbbgapgjdeggafgiphoamapigagdfboj | Sheep WA CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| mjfmhlphlfkknhobikllanpdedcjbdfc | WhatsMais Web Plugin | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| mgbobhkfodjphgkopodimphkelhlckdk | MAXI ZAP CRM PLUS | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| lbcfbjpjhighachiefcllehigodnlokm | Brasilbot | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| kpopbifbpphkfmkcebplinclpbcmophm | Leads Zap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| kkmebcfnkhkhfajdieajelcpaelpcpde | WHATSAPP BUSINESS CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| jbjpfhemoolhegecihahbkfhaohohacd | PharmaZap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| ioplkfchkjdlkoobflfibdbbpjaodefk | WHIZFLOW | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| ikacabonlldjhidajbjbpjnbcilhokdi | Zap Web | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| hlnimicjpkabphllleeilfpkohnnicnl | WA WEB GRÁTIS | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| gkgjbghnckmfiggkeaopkhpjepniohia | WA Sales | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| gieknbijdgenofgbmlaileokekmldfjl | Azbot CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| fkcifkeeglocoaekandppmecohhhjjld | Veltora CRM Platform | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| fflpfdjngdljkleamadabbmiklhlafil | CRM Turbo | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| fcmjkjmkpgfhchcekjdgolldhnmacpfa | GL MEDLEAD CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| epkmpmhaolchgpikglgiijomelhebpji | APOLLO CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| ehombimaojbcpfkkdhfioafllllnijdp | TriadeFlux WEB ZAP | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| dmdfchhkeohpjnagfhiocgomohapneeh | Teams CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| djdbpbcemdndgmlkbbediigefocfndke | SOWAT | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| dblphenlokhhmnbmbaoiplccileiheld | DCLeads Web Plus | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| chelfnnanccmicmndeocfanamfakmgap | Segsmart Web Plus | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| cfhoklhgomgfghpjamadhngdiaailanj | CRM no WhatsApp para Corban | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| blojddhpgddmnljfblkaijcfcekmfpnb | weCRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| bkealjndjhdhlmefbebgegpfjfeddihi | Anjos Zap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| bhmlcmjhmffnmnegjlniekihhklgbbpl | Venda Mais CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| bidgllfieacmghieipmhgabodmljimfh | WA Business | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| bhdknmehbgghahemaeconebkkffihmio | WhaTalk | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
-| bbdgdjakedkbcjcnogbpmimfdolmodnb | LBCPRO | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster) | 27/06/26 | No | Google Chrome
+| okhibkagcfjdiphcbpepgkcgpbeehmlf | Disparador WhatsApp WL | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| cceigfcfocnmimfpodinldgghgeijjci | CRM multiatendimento Zap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| eibohmejgabkbblnepndeajbgeefkcai | Whatsapp CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| ihcekhkenpafgnlnppeldehaidbplopb | CRM no Whatsapp para corretores de seguro | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| ljdglkbjbimcfogoknmggdcjlnddamil | Crm Grátis | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| ppmggmlbijhmfdpbmeghdbjajehilcjm | CRM no Whatsapp para Barbearia | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| pmhbkempoiednaeamhilkcpelemmcfic | Assis Hub | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| plnegmjdlomnfjhkjpigbcbbmajfkecj | Zapeiro | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| plmcopimgohpohinmoeejlahpdappepa | Sales Prime CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| pgahbfgpejdkcnhkehniglkjkmidgifg | Claude Chat WhatsApp | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| pbkjioocakemejdodfdebnnmmliiamfe | WebZapp | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| opocafnnojhngbheikamlpdmijhbobfj | Super Chat CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| opnjhckoecaeicgkkpkjgleelangmmmj | Whatsapp GB | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| oplhgdalokikdokdnfbiendocdkcjhjo | VENDE-C ZAP | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| aoolkbdpfgbocamjjciiiholdakmldag | CRM do PAI | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| agmfmnkgednafkcifhahflfbemfcbcbc | GestorChat | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| omfdlfboihlkfebdcbnblmiepdchghic | EXD CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| neelgaajhioohpoenjbjhfldmlfpiocf | CRM no Whatsapp para Delivery | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| nbenjijhmfecggfipnlkpbplcgnbfgeo | Zyntri CRM Conversa | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| nbbgapgjdeggafgiphoamapigagdfboj | Sheep WA CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| mjfmhlphlfkknhobikllanpdedcjbdfc | WhatsMais Web Plugin | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| mgbobhkfodjphgkopodimphkelhlckdk | MAXI ZAP CRM PLUS | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| lbcfbjpjhighachiefcllehigodnlokm | Brasilbot | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| kpopbifbpphkfmkcebplinclpbcmophm | Leads Zap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| kkmebcfnkhkhfajdieajelcpaelpcpde | WHATSAPP BUSINESS CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| jbjpfhemoolhegecihahbkfhaohohacd | PharmaZap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| ioplkfchkjdlkoobflfibdbbpjaodefk | WHIZFLOW | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| ikacabonlldjhidajbjbpjnbcilhokdi | Zap Web | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| hlnimicjpkabphllleeilfpkohnnicnl | WA WEB GRÁTIS | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| gkgjbghnckmfiggkeaopkhpjepniohia | WA Sales | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| gieknbijdgenofgbmlaileokekmldfjl | Azbot CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| fkcifkeeglocoaekandppmecohhhjjld | Veltora CRM Platform | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| fflpfdjngdljkleamadabbmiklhlafil | CRM Turbo | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| fcmjkjmkpgfhchcekjdgolldhnmacpfa | GL MEDLEAD CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| epkmpmhaolchgpikglgiijomelhebpji | APOLLO CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| ehombimaojbcpfkkdhfioafllllnijdp | TriadeFlux WEB ZAP | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| dmdfchhkeohpjnagfhiocgomohapneeh | Teams CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| djdbpbcemdndgmlkbbediigefocfndke | SOWAT | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| dblphenlokhhmnbmbaoiplccileiheld | DCLeads Web Plus | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| chelfnnanccmicmndeocfanamfakmgap | Segsmart Web Plus | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| cfhoklhgomgfghpjamadhngdiaailanj | CRM no WhatsApp para Corban | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| blojddhpgddmnljfblkaijcfcekmfpnb | weCRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| bkealjndjhdhlmefbebgegpfjfeddihi | Anjos Zap | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| bhmlcmjhmffnmnegjlniekihhklgbbpl | Venda Mais CRM | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| bidgllfieacmghieipmhgabodmljimfh | WA Business | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| bhdknmehbgghahemaeconebkkffihmio | WhaTalk | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
+| bbdgdjakedkbcjcnogbpmimfdolmodnb | LBCPRO | Potentially Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 27/06/26 | No | Google Chrome
 | gekoepiplklhniacchbbgbhilidiojmb | AdBlock Suite - Block all ads on websites for a cleaner browsing | Malware | [www.island.io](https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise) | 26/06/26 | Yes | Google Chrome
 | cmedhionkhpnakcndndgjdbohmhepckk | Adblock for Youtube™ | Malware | [www.island.io](https://www.island.io/blog/badblocker-11-million-users-one-server-call-away-from-compromise) | 26/06/26 | No | Google Chrome
 | akacljehjekfjgedpgpdjbdnmfgacikj | TechSmith Snagit - Screen Capture & Recorder | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-24-affiliate-marketing-fraud-via-brand-impersonation-extension-farm.txt) | 26/06/26 | No | Google Chrome
@@ -198,7 +216,7 @@
 | mlpjhambancjofgkidpblmepnebegpom | Mychatpilot | Policy Violation | Store Monitoring | 26/06/26 | No | Google Chrome
 | kbcpkngbpapbplochkndihgcpdabkkok | Mgx Wallet | Malware | Store Monitoring | 26/06/26 | No | Google Chrome
 | glbpkhkogoangfbjlgfdklajfhenjeld | Retro Vibe Wallpaper | Search Hijacking | MalExt Code Analysis | 25/06/26 | No | Google Chrome
-| mijgckjdimoofbfpaahpgfnmnbnaahhe | HARMONY | Malware | [malext.io](https://malext.io/reports/WaSteal) | 25/06/26 | No | Google Chrome
+| mijgckjdimoofbfpaahpgfnmnbnaahhe | HARMONY | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 25/06/26 | No | Google Chrome
 | onjaegfaigiefjodacjpeigblaifalab | Ferrari Formula 1 Car SF-24 Wallpapers New Tab by Gameograf | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 24/06/26 | No | Google Chrome
 | koenojhenlpkdgenlddhkdaanmbjodaf | Dodge Challenger Near Neon Gas station Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 24/06/26 | No | Google Chrome
 | kodaloakchjhcakljbgmmldaieipmhbm | Kimetsu no Yaiba Live Wallpaper Chrome OS Theme | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 24/06/26 | No | Google Chrome
@@ -330,7 +348,7 @@
 | lckpmabinkgpdckkehjfljbadihllkem | Pac-Man Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/06/26 | No | Google Chrome
 | gbkljgfdoehfkoeoncdokchfgpkjaicp | Satoru Gojo Jujutsu Kaisen JJK Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/06/26 | No | Google Chrome
 | didkbnopbicmboieomdidfieccdklabd | Hello Kitty Cute Halloween Pumpkins Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/06/26 | No | Google Chrome
-| ejkiikneibegknkgimmihdpcbcedgmpo | Volume Booster | Potentially Unwanted Software | [malext.io](https://malext.io/reports/QuietBoost) | 21/06/26 | No | Google Chrome
+| ejkiikneibegknkgimmihdpcbcedgmpo | Volume Booster | Potentially Unwanted Software | [malext.io](https://malext.io/reports/QuietBoost/) | 21/06/26 | No | Google Chrome
 | giolfdhelhkknfnplanblpbjeaiojikm | Recordbro Screen Recorder | Policy Violation | Store Monitoring | 20/06/26 | No | Google Chrome
 | pjkbaekgkeighjmnlpbfelckdnclgdmg | Southpark Avengers Live W | Policy Violation | Store Monitoring | 20/06/26 | No | Google Chrome
 | mmlfjoaojechkiaplclbfbggnblhhcmf | Ama Citation Generator | Policy Violation | Store Monitoring | 20/06/26 | No | Google Chrome
@@ -355,6 +373,9 @@
 | abpppenajdmdganodlmoeocldojbbjgp | Kahoot Hacker Auto Answer | Malware | Store Monitoring | 17/06/26 | Yes | Google Chrome
 | cbnedplnkdejpbelaggjkffdpilpflcc | Cold Messenger | Policy Violation | Store Monitoring | 17/06/26 | No | Google Chrome
 | aljnlpmcjfncelhooaacnokmibhoobce | Cu Gay | Policy Violation | Store Monitoring | 17/06/26 | No | Google Chrome
+| glbmllepcaejnkfogehbicebaeninnmg | Superfb | Policy Violation | Store Monitoring | 16/06/26 | No | Google Chrome
+| iaaopliljcmimkbocfocchdfkddedhfb | Kaiten Gitlab Integration | Policy Violation | Store Monitoring | 16/06/26 | No | Google Chrome
+| nokdajpgplnbkflbdhhagbjajphjplai | Twitch Ad Blocker | Malware | Store Monitoring | 16/06/26 | Yes | Google Chrome
 | jekdpdcpbhahidpjcbfbbmbmldbpjbhl | Enable Right Click | Policy Violation | Store Monitoring | 16/06/26 | No | Google Chrome
 | gcoblkekjbplafeafmdgcghlcnenfdfp | Youtube 期間別人気動画ソーター | Policy Violation | Store Monitoring | 16/06/26 | No | Google Chrome
 | fiefnifmddhoiaanpnffbdhjbbdjelec | Do Wallet | Policy Violation | Store Monitoring | 16/06/26 | No | Google Chrome
@@ -589,6 +610,8 @@
 | napnmdhmhlfpopiapoogcbpbeekfepnk | Tether Land Usdttoman Rat | Policy Violation | Store Monitoring | 09/06/26 | No | Google Chrome
 | pnjifegilbcoeffpbfickagedipiepcc | Usdt Local Currency Conve | Policy Violation | Store Monitoring | 09/06/26 | No | Google Chrome
 | olceochjkfofojkjjbgmjlbhcclgfegi | Metric Flow Website Traff | Bundling Unwanted Software | Store Monitoring | 09/06/26 | No | Google Chrome
+| ffommlgcgjohpmopabpiinkkdidhohec | Padre Enhancer | Malware | Store Monitoring | 08/06/26 | No | Google Chrome
+| amdebhmimbbigkdagackjdnmjnogdhic | Caveiracards | Policy Violation | Store Monitoring | 08/06/26 | No | Google Chrome
 | apilbemmclgnmkedclgpolikeofmlicn | лингворус — проверка на а | Policy Violation | Store Monitoring | 08/06/26 | No | Google Chrome
 | hijojcbgihiflicpigcjnigfookfgfnl | Linkedin Thought Partner | Policy Violation | Store Monitoring | 08/06/26 | No | Google Chrome
 | ajeffabgdodbbdngakbpafbggnoegdjd | Wellshared Ai | Policy Violation | Store Monitoring | 08/06/26 | No | Google Chrome
@@ -640,14 +663,14 @@
 | oondabmhecdagnndhjhgnhhhnninpagc | Gemini Studio App | Policy Violation | Store Monitoring | 08/06/26 | No | Google Chrome
 | kkncndflgbbnkghpcgfffocholgapjdn | Cherry Quartz – Crisp Min | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No | Google Chrome
 | jbchggkplbejdkfjmjmljlennabobicd | Arctic Light – Privacy Mi | Bundling Unwanted Software | Store Monitoring | 08/06/26 | No | Google Chrome
-| ohkakacjaddkccagpciddgcjjbbpcgfl | Lightiius CRM una herramienta que los equipos de ventas aman usar | Malware | [malext.io](https://malext.io/reports/WaSteal) | 08/06/26 | No | 
-| kpmanggilaiabhnclachbaiichkmefgd | waCluster : Organize, automatize e decole nas vendas | Malware | [malext.io](https://malext.io/reports/WaSteal) | 08/06/26 | No | 
+| ohkakacjaddkccagpciddgcjjbbpcgfl | Lightiius CRM una herramienta que los equipos de ventas aman usar | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 08/06/26 | No | 
+| kpmanggilaiabhnclachbaiichkmefgd | waCluster : Organize, automatize e decole nas vendas | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 08/06/26 | No | 
 | nomiidbifingbifefkjcincfomeijnpd | Whastup AutomaçãO Crm | Policy Violation | Store Monitoring | 07/06/26 | No | Google Chrome
 | gmiabmjbibonhgpdbgoinabillaeonpk | Meshy Downloader | Policy Violation | Store Monitoring | 07/06/26 | No | Google Chrome
 | olhagmdfojhfdbfgmiofiofnifcmehdb | Backlink Generator | Bundling Unwanted Software | Store Monitoring | 07/06/26 | No | Google Chrome
 | ifjpckpobbeicleibehpnibjbedkccgc | Viral247 20 | Bundling Unwanted Software | Store Monitoring | 07/06/26 | No | Google Chrome
-| dhghkolonchibindgpmlhobbpeicncin | Etivi: Inteligencia Artificial para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal) | 07/06/26 | No | 
-| bpjhhjboiagpamldnmjdmjadhajipicf | ChatzyCRM: Todo lo que necesitas en un solo CRM para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal) | 07/06/26 | No | 
+| dhghkolonchibindgpmlhobbpeicncin | Etivi: Inteligencia Artificial para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 07/06/26 | No | 
+| bpjhhjboiagpamldnmjdmjadhajipicf | ChatzyCRM: Todo lo que necesitas en un solo CRM para WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 07/06/26 | No | 
 | eelhhhonggaobhpgighgkoggopilndpe | Kentro | Malware | Store Monitoring | 07/06/26 | No | 
 | fnfjobgkepeolimkplmkpifohdabioho | Heyreach | Policy Violation | Store Monitoring | 06/06/26 | No | Google Chrome
 | gpjbmpcpkjgedjleoogmdpmbfmfghkei | What Font | Policy Violation | Store Monitoring | 06/06/26 | No | Google Chrome
@@ -1287,6 +1310,7 @@
 | gpbnhdjoknjmghjfljgcankdldimokmk | Chatgpt Assistant | Policy Violation | Store Monitoring | 01/05/26 | Yes | Google Chrome
 | peiibhfbdkgnbepgobjcgabkcfembndm | Free Chatgpt For Google C | Policy Violation | Store Monitoring | 01/05/26 | No | Google Chrome
 | kpbihpkcpnfnjddplngmbljcfofjgejh | Chatgpt Notifier | Policy Violation | Store Monitoring | 01/05/26 | No | Google Chrome
+| eliokoocofjemjjohafbmhmgjmedomko | Threat Analytics Search | Policy Violation | Store Monitoring | 30/04/26 | No | Google Chrome
 | nejbppbbepmcpjohaelhlidllpfailgg | Video Downloader Free Vid | Malware | Store Monitoring | 30/04/26 | Yes | Google Chrome
 | nbflcljmdbibeoaipongjgfmbapanipm | Anker AIME Copilot | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | No | 
 | ljlhpcabhpjdlcjhbmgjigfceppgabmk | Notion中文版 | Policy Violation | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/) | 30/04/26 | Yes | 
@@ -1358,7 +1382,7 @@
 | kjnnneekgbdelkncdkjiggebdacocigm | Right Click To Instagram | Policy Violation | Store Monitoring | 25/04/26 | No | Google Chrome
 | ppifedcnnhokhllkjbokkekbggnlbfak | Airbnb 图片下载 | Policy Violation | Store Monitoring | 25/04/26 | No | Google Chrome
 | lehcglgkjkamolcflammloedahjocbbg | Stream Cleaner | Bundling Unwanted Software | Store Monitoring | 25/04/26 | Yes | Google Chrome
-| flkebkiofojicogddingbdmcmkpbplcd | Perplexity Ai | Policy Violation | Store Monitoring | 25/04/26 | No | Google Chrome
+| flkebkiofojicogddingbdmcmkpbplcd | Perplexity Ai | Policy Violation | [www.microsoft.com](https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/) | 25/04/26 | No | Google Chrome
 | hpoamafhefaahkmghebfnbbhpjjohgeh | Dark Mode Ultra | Malware | Store Monitoring | 24/04/26 | Yes | Google Chrome
 | ganbipgooebabahkemagcehplknpffgk | Aztec Treasure | Policy Violation | Store Monitoring | 24/04/26 | No | Google Chrome
 | mgammpcfhbffogpfceobnpcofaphocap | Tiktok Video Downloader N | Policy Violation | Store Monitoring | 24/04/26 | No | Google Chrome
