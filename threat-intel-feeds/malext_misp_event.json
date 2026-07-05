@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-03",
-    "timestamp": "1783111063",
+    "date": "2026-07-05",
+    "timestamp": "1783283016",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,441 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "9bf471b8-142a-5ae3-b1d5-62f5edb04562",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bjocdocblhajndcmcfnckbjbkjnjebio",
+        "comment": "Ocai \u91c7\u96c6\u63d2\u4ef6 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "66a58fd6-2210-54c1-8082-dd45d03c5877",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bjocdocblhajndcmcfnckbjbkjnjebio",
+        "comment": "Microsoft Edge entry for Ocai \u91c7\u96c6\u63d2\u4ef6 (bjocdocblhajndcmcfnckbjbkjnjebio)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "85c2ed76-b278-5af7-956f-d5dd1b07af28",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adckfinclpmhjnijmeeejkdhocikacgd",
+        "comment": "Cnote \u2013 Web Notes Clippin | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "898f7a2e-9f5a-570f-b3f3-d682289f8324",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/adckfinclpmhjnijmeeejkdhocikacgd",
+        "comment": "Microsoft Edge entry for Cnote \u2013 Web Notes Clippin (adckfinclpmhjnijmeeejkdhocikacgd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "de654b5e-053d-504d-a5a3-cc5f53558ffd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jdjngncampfhkckgofiigkjbpblkipgg",
+        "comment": "Vision Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f31ed9ff-14f8-52b5-8222-c3254003820a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jdjngncampfhkckgofiigkjbpblkipgg",
+        "comment": "Microsoft Edge entry for Vision Pro (jdjngncampfhkckgofiigkjbpblkipgg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "870c2455-dc5f-53b2-9e0e-39b17c3f7bfc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nmgefgmcfjojfppkjgbmcdlinabfdalp",
+        "comment": "Chatgpt As Search Engine | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b5e348cf-60df-5c5e-a806-e9f264561547",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/nmgefgmcfjojfppkjgbmcdlinabfdalp",
+        "comment": "Microsoft Edge entry for Chatgpt As Search Engine (nmgefgmcfjojfppkjgbmcdlinabfdalp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "68b8a9c8-7a84-510e-abfe-e80d7abed4d5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jncfmhhkhlbpglafcpjcjkimgadgiamc",
+        "comment": "Flash Game Emulator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "dae19a86-9beb-5dc3-ad9e-8932ab521244",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jncfmhhkhlbpglafcpjcjkimgadgiamc",
+        "comment": "Microsoft Edge entry for Flash Game Emulator (jncfmhhkhlbpglafcpjcjkimgadgiamc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e3efeccc-f4c6-5981-8e9c-aa4de9b47d9f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gfhmjeacjadpopinacpjailkjkadnoge",
+        "comment": "Leadcontacter Linkedin Automation | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "91e29741-df39-59c3-a1f6-28ebb9e1fccd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/gfhmjeacjadpopinacpjailkjkadnoge",
+        "comment": "Microsoft Edge entry for Leadcontacter Linkedin Automation (gfhmjeacjadpopinacpjailkjkadnoge)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8d8f14c8-0ee4-5da2-b791-6208bdeec735",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dfenkhmeopgbbdeidfenplgimikkgchn",
+        "comment": "Afiliado Dash | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "92c381bc-cf14-5ce2-8ada-0cc181dbcec4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dfenkhmeopgbbdeidfenplgimikkgchn",
+        "comment": "Microsoft Edge entry for Afiliado Dash (dfenkhmeopgbbdeidfenplgimikkgchn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5ea60647-223f-5e0b-8269-50782d8f07a2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bkanalgjbfghmhemodhhdfnfbekiepem",
+        "comment": "Contactlayer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a80df55a-d48b-5e51-b1a9-b5900a4cbb75",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bkanalgjbfghmhemodhhdfnfbekiepem",
+        "comment": "Microsoft Edge entry for Contactlayer (bkanalgjbfghmhemodhhdfnfbekiepem)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b7f9dcf5-d9eb-5891-9f1a-1f7bce2eb89d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jlpelaiooegmlkmpgkcilapfpmplbnio",
+        "comment": "\u62ff\u62ff\u9f99\u8de8\u5883\u667a\u9009 Cross Border Product Selector | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f271f48c-5a2d-54af-aa8b-4ce79fbcc344",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jlpelaiooegmlkmpgkcilapfpmplbnio",
+        "comment": "Microsoft Edge entry for \u62ff\u62ff\u9f99\u8de8\u5883\u667a\u9009 Cross Border Product Selector (jlpelaiooegmlkmpgkcilapfpmplbnio)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "629f1bd8-5ea1-5e44-a724-d209ab8416e1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pianklkjanhlafllfjljmjhknlohpeim",
+        "comment": "Browse Safely (in Chrome) | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "75068c75-084b-5306-a31d-96e90f35167e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pianklkjanhlafllfjljmjhknlohpeim",
+        "comment": "Chrome Web Store entry for Browse Safely (in Chrome) (pianklkjanhlafllfjljmjhknlohpeim)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "42f4c553-2358-5c7f-aa7c-1f555237e667",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abdiehdjhihijpamilcmfgobhggddgkk",
+        "comment": "UrbanTabs | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0ceb117b-5d3f-5e87-9372-cfbd53ad6bae",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abdiehdjhihijpamilcmfgobhggddgkk",
+        "comment": "Chrome Web Store entry for UrbanTabs (abdiehdjhihijpamilcmfgobhggddgkk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3c6b4451-62ec-586c-9385-040a8405b37a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "neecnojgdjbkphlalgfgegmhkhakgkob",
+        "comment": "Thir - Intelligent ChatGPT AI Assistant (Gemini, Grok, Claude, DeepSeek) | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b48072db-fc7a-579e-a586-5125ddde2eac",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/neecnojgdjbkphlalgfgegmhkhakgkob",
+        "comment": "Chrome Web Store entry for Thir - Intelligent ChatGPT AI Assistant (Gemini, Grok, Claude, DeepSeek) (neecnojgdjbkphlalgfgegmhkhakgkob)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "62c36e2e-82e4-590a-be9e-e8b5f83d07fa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ggfpkajpmdihdfmdecfdflpmdoaegcpa",
+        "comment": "AerateFinder | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1288ed70-ac68-5c68-8554-674bdbb3c428",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ggfpkajpmdihdfmdecfdflpmdoaegcpa",
+        "comment": "Chrome Web Store entry for AerateFinder (ggfpkajpmdihdfmdecfdflpmdoaegcpa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d2d6140b-bb26-5a3d-bb65-9f666349a889",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pakokdcamkaoehinfoogagbockgibphc",
+        "comment": "Search Seeker | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "596a0c67-b5a6-5eea-b254-8f7049fcd893",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pakokdcamkaoehinfoogagbockgibphc",
+        "comment": "Chrome Web Store entry for Search Seeker (pakokdcamkaoehinfoogagbockgibphc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "80e6eaab-32c0-5e1b-a953-e92fad70538b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "paajmlioglbkjeealiikpiiddbbhcaan",
+        "comment": "Cute Cat Wallpapers New Tab | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "eab24c7d-5e33-5002-9159-c9e1396acdf7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/paajmlioglbkjeealiikpiiddbbhcaan",
+        "comment": "Chrome Web Store entry for Cute Cat Wallpapers New Tab (paajmlioglbkjeealiikpiiddbbhcaan)",
+        "distribution": "5"
+      },
       {
         "uuid": "73dbdf8f-49b4-5db9-9c20-47bf460fe279",
         "type": "text",
@@ -1222,14 +1657,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "kfnpaphhpnngikfmnofpkakbaekbafil",
-        "comment": "Handy Tab Search | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-06-30",
+        "comment": "Handy Tab Search | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-06-30",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -1251,14 +1686,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "nhioomapcdomjekmegdnnlbcnjgnodon",
-        "comment": "Earth Satellite | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-06-30",
+        "comment": "Earth Satellite | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-06-30",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -1475,6 +1910,93 @@
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/pogifpdbhckbplbmkbcanocicellkghc",
         "comment": "Microsoft Edge entry for TurtleWave Search (pogifpdbhckbplbmkbcanocicellkghc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3623c12d-ab2f-561e-b2c8-8dc730482757",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "leghoimbpegljdahpfkcgbgalbegpogi",
+        "comment": "DataZap: Automa\u00e7\u00e3o, CRM e Chatbot para Vendas no WhatsApp Web | Source: Store Monitoring | Store: Google Chrome | Added: 2026-06-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "15525e3d-b49a-5de5-a48a-08f9bb69552d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/leghoimbpegljdahpfkcgbgalbegpogi",
+        "comment": "Microsoft Edge entry for DataZap: Automa\u00e7\u00e3o, CRM e Chatbot para Vendas no WhatsApp Web (leghoimbpegljdahpfkcgbgalbegpogi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eeed68cc-b44b-55ab-bb6f-035edb7559b7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ahjpgookabbplenlliddmdkelihifmkk",
+        "comment": "Discord Id Lookup | Source: Store Monitoring | Store: Google Chrome | Added: 2026-06-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3a740a2a-2e78-5019-a796-fb11fd8ab166",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ahjpgookabbplenlliddmdkelihifmkk",
+        "comment": "Microsoft Edge entry for Discord Id Lookup (ahjpgookabbplenlliddmdkelihifmkk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9e200ff4-056f-56fe-a5b8-8d50e703851e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eglhokebokdmejdfpejnagcmnmjbfhig",
+        "comment": "DIPU & COMPANY GSTR-N | Source: Store Monitoring | Store: Google Chrome | Added: 2026-06-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "09158095-2590-588a-a277-3cf41ac31630",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/eglhokebokdmejdfpejnagcmnmjbfhig",
+        "comment": "Microsoft Edge entry for DIPU & COMPANY GSTR-N (eglhokebokdmejdfpejnagcmnmjbfhig)",
         "distribution": "5"
       },
       {
@@ -3281,14 +3803,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "hdfbcoinblihoiopfkajcnojdlinbmhp",
-        "comment": "AirSearch | Source: https://malext.io/reports/SearchJacker | Store: Google Chrome | Added: 2026-06-28",
+        "comment": "AirSearch | Source: https://malext.io/reports/SearchJacker/ | Store: Google Chrome | Added: 2026-06-28",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/SearchJacker\""
+            "name": "malext:source=\"https://malext.io/reports/SearchJacker/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3368,14 +3890,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "okhibkagcfjdiphcbpepgkcgpbeehmlf",
-        "comment": "Disparador WhatsApp WL | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Disparador WhatsApp WL | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3397,14 +3919,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "cceigfcfocnmimfpodinldgghgeijjci",
-        "comment": "CRM multiatendimento Zap | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "CRM multiatendimento Zap | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3426,14 +3948,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "eibohmejgabkbblnepndeajbgeefkcai",
-        "comment": "Whatsapp CRM | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Whatsapp CRM | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3455,14 +3977,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "ihcekhkenpafgnlnppeldehaidbplopb",
-        "comment": "CRM no Whatsapp para corretores de seguro | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "CRM no Whatsapp para corretores de seguro | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3484,14 +4006,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "ljdglkbjbimcfogoknmggdcjlnddamil",
-        "comment": "Crm Gr\u00e1tis | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Crm Gr\u00e1tis | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3513,14 +4035,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "ppmggmlbijhmfdpbmeghdbjajehilcjm",
-        "comment": "CRM no Whatsapp para Barbearia | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "CRM no Whatsapp para Barbearia | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3542,14 +4064,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "pmhbkempoiednaeamhilkcpelemmcfic",
-        "comment": "Assis Hub | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Assis Hub | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3571,14 +4093,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "plnegmjdlomnfjhkjpigbcbbmajfkecj",
-        "comment": "Zapeiro | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Zapeiro | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3600,14 +4122,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "plmcopimgohpohinmoeejlahpdappepa",
-        "comment": "Sales Prime CRM | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Sales Prime CRM | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3629,14 +4151,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "pgahbfgpejdkcnhkehniglkjkmidgifg",
-        "comment": "Claude Chat WhatsApp | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Claude Chat WhatsApp | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3658,14 +4180,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "pbkjioocakemejdodfdebnnmmliiamfe",
-        "comment": "WebZapp | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "WebZapp | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3687,14 +4209,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "opocafnnojhngbheikamlpdmijhbobfj",
-        "comment": "Super Chat CRM | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Super Chat CRM | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3716,14 +4238,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "opnjhckoecaeicgkkpkjgleelangmmmj",
-        "comment": "Whatsapp GB | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Whatsapp GB | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3745,14 +4267,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "oplhgdalokikdokdnfbiendocdkcjhjo",
-        "comment": "VENDE-C ZAP | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "VENDE-C ZAP | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3774,14 +4296,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "aoolkbdpfgbocamjjciiiholdakmldag",
-        "comment": "CRM do PAI | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "CRM do PAI | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3803,14 +4325,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "agmfmnkgednafkcifhahflfbemfcbcbc",
-        "comment": "GestorChat | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "GestorChat | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3832,14 +4354,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "omfdlfboihlkfebdcbnblmiepdchghic",
-        "comment": "EXD CRM | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "EXD CRM | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3861,14 +4383,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "neelgaajhioohpoenjbjhfldmlfpiocf",
-        "comment": "CRM no Whatsapp para Delivery | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "CRM no Whatsapp para Delivery | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3890,14 +4412,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "nbenjijhmfecggfipnlkpbplcgnbfgeo",
-        "comment": "Zyntri CRM Conversa | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Zyntri CRM Conversa | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3919,14 +4441,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "nbbgapgjdeggafgiphoamapigagdfboj",
-        "comment": "Sheep WA CRM | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Sheep WA CRM | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3948,14 +4470,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "mjfmhlphlfkknhobikllanpdedcjbdfc",
-        "comment": "WhatsMais Web Plugin | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "WhatsMais Web Plugin | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -3977,14 +4499,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "mgbobhkfodjphgkopodimphkelhlckdk",
-        "comment": "MAXI ZAP CRM PLUS | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "MAXI ZAP CRM PLUS | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4006,14 +4528,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "lbcfbjpjhighachiefcllehigodnlokm",
-        "comment": "Brasilbot | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Brasilbot | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4035,14 +4557,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "kpopbifbpphkfmkcebplinclpbcmophm",
-        "comment": "Leads Zap | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Leads Zap | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4064,14 +4586,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "kkmebcfnkhkhfajdieajelcpaelpcpde",
-        "comment": "WHATSAPP BUSINESS CRM | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "WHATSAPP BUSINESS CRM | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4093,14 +4615,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "jbjpfhemoolhegecihahbkfhaohohacd",
-        "comment": "PharmaZap | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "PharmaZap | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4122,14 +4644,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "ioplkfchkjdlkoobflfibdbbpjaodefk",
-        "comment": "WHIZFLOW | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "WHIZFLOW | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4151,14 +4673,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "ikacabonlldjhidajbjbpjnbcilhokdi",
-        "comment": "Zap Web | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Zap Web | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4180,14 +4702,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "hlnimicjpkabphllleeilfpkohnnicnl",
-        "comment": "WA WEB GR\u00c1TIS | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "WA WEB GR\u00c1TIS | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4209,14 +4731,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "gkgjbghnckmfiggkeaopkhpjepniohia",
-        "comment": "WA Sales | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "WA Sales | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4238,14 +4760,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "gieknbijdgenofgbmlaileokekmldfjl",
-        "comment": "Azbot CRM | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Azbot CRM | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4267,14 +4789,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "fkcifkeeglocoaekandppmecohhhjjld",
-        "comment": "Veltora CRM Platform | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Veltora CRM Platform | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4296,14 +4818,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "fflpfdjngdljkleamadabbmiklhlafil",
-        "comment": "CRM Turbo | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "CRM Turbo | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4325,14 +4847,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "fcmjkjmkpgfhchcekjdgolldhnmacpfa",
-        "comment": "GL MEDLEAD CRM | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "GL MEDLEAD CRM | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4354,14 +4876,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "epkmpmhaolchgpikglgiijomelhebpji",
-        "comment": "APOLLO CRM | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "APOLLO CRM | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4383,14 +4905,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "ehombimaojbcpfkkdhfioafllllnijdp",
-        "comment": "TriadeFlux WEB ZAP | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "TriadeFlux WEB ZAP | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4412,14 +4934,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "dmdfchhkeohpjnagfhiocgomohapneeh",
-        "comment": "Teams CRM | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Teams CRM | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4441,14 +4963,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "djdbpbcemdndgmlkbbediigefocfndke",
-        "comment": "SOWAT | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "SOWAT | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4470,14 +4992,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "dblphenlokhhmnbmbaoiplccileiheld",
-        "comment": "DCLeads Web Plus | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "DCLeads Web Plus | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4499,14 +5021,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "chelfnnanccmicmndeocfanamfakmgap",
-        "comment": "Segsmart Web Plus | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Segsmart Web Plus | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4528,14 +5050,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "cfhoklhgomgfghpjamadhngdiaailanj",
-        "comment": "CRM no WhatsApp para Corban | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "CRM no WhatsApp para Corban | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4557,14 +5079,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "blojddhpgddmnljfblkaijcfcekmfpnb",
-        "comment": "weCRM | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "weCRM | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4586,14 +5108,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "bkealjndjhdhlmefbebgegpfjfeddihi",
-        "comment": "Anjos Zap | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Anjos Zap | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4615,14 +5137,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "bhmlcmjhmffnmnegjlniekihhklgbbpl",
-        "comment": "Venda Mais CRM | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "Venda Mais CRM | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4644,14 +5166,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "bidgllfieacmghieipmhgabodmljimfh",
-        "comment": "WA Business | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "WA Business | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4673,14 +5195,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "bhdknmehbgghahemaeconebkkffihmio",
-        "comment": "WhaTalk | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "WhaTalk | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -4702,14 +5224,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "bbdgdjakedkbcjcnogbpmimfdolmodnb",
-        "comment": "LBCPRO | Source: https://malext.io/reports/WhatsCluster | Store: Google Chrome | Added: 2026-06-27",
+        "comment": "LBCPRO | Source: https://malext.io/reports/WhatsCluster/ | Store: Google Chrome | Added: 2026-06-27",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WhatsCluster\""
+            "name": "malext:source=\"https://malext.io/reports/WhatsCluster/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -5775,14 +6297,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "mijgckjdimoofbfpaahpgfnmnbnaahhe",
-        "comment": "HARMONY | Source: https://malext.io/reports/WaSteal | Store: Google Chrome | Added: 2026-06-25",
+        "comment": "HARMONY | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-06-25",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WaSteal\""
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -9603,14 +10125,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "ejkiikneibegknkgimmihdpcbcedgmpo",
-        "comment": "Volume Booster | Source: https://malext.io/reports/QuietBoost | Store: Google Chrome | Added: 2026-06-21",
+        "comment": "Volume Booster | Source: https://malext.io/reports/QuietBoost/ | Store: Google Chrome | Added: 2026-06-21",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/QuietBoost\""
+            "name": "malext:source=\"https://malext.io/reports/QuietBoost/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -10320,6 +10842,93 @@
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/aljnlpmcjfncelhooaacnokmibhoobce",
         "comment": "Microsoft Edge entry for Cu Gay (aljnlpmcjfncelhooaacnokmibhoobce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5d80b450-23a2-5dd8-bc57-f4c09b336d22",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "glbmllepcaejnkfogehbicebaeninnmg",
+        "comment": "Superfb | Source: Store Monitoring | Store: Google Chrome | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "afb74e3c-6754-51a1-a497-07e12506cb04",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/glbmllepcaejnkfogehbicebaeninnmg",
+        "comment": "Microsoft Edge entry for Superfb (glbmllepcaejnkfogehbicebaeninnmg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e2cb15ab-4211-54cb-9b25-69aae0d8db92",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iaaopliljcmimkbocfocchdfkddedhfb",
+        "comment": "Kaiten Gitlab Integration | Source: Store Monitoring | Store: Google Chrome | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8993f56d-7d37-5209-ad2a-26cd75693ef7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/iaaopliljcmimkbocfocchdfkddedhfb",
+        "comment": "Microsoft Edge entry for Kaiten Gitlab Integration (iaaopliljcmimkbocfocchdfkddedhfb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "515255c3-5a88-5f5b-8cb8-315b679e4ee9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nokdajpgplnbkflbdhhagbjajphjplai",
+        "comment": "Twitch Ad Blocker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-06-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bb0d7547-68cc-57a0-b994-b94beffbf5e6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/nokdajpgplnbkflbdhhagbjajphjplai",
+        "comment": "Microsoft Edge entry for Twitch Ad Blocker (nokdajpgplnbkflbdhhagbjajphjplai)",
         "distribution": "5"
       },
       {
@@ -17109,6 +17718,64 @@
         "distribution": "5"
       },
       {
+        "uuid": "6f78e65a-c66d-594d-bcb3-362692a3ab51",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ffommlgcgjohpmopabpiinkkdidhohec",
+        "comment": "Padre Enhancer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "95699d58-2ea3-5cea-bce3-842559d2f7b8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ffommlgcgjohpmopabpiinkkdidhohec",
+        "comment": "Microsoft Edge entry for Padre Enhancer (ffommlgcgjohpmopabpiinkkdidhohec)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a05b1a9f-1869-52a0-96db-696a6bd083ce",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "amdebhmimbbigkdagackjdnmjnogdhic",
+        "comment": "Caveiracards | Source: Store Monitoring | Store: Google Chrome | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5270a287-cfdd-59a8-a5d4-f2b7e1cc7f20",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/amdebhmimbbigkdagackjdnmjnogdhic",
+        "comment": "Microsoft Edge entry for Caveiracards (amdebhmimbbigkdagackjdnmjnogdhic)",
+        "distribution": "5"
+      },
+      {
         "uuid": "d913fa52-be52-5bd0-9310-40d23f0650f0",
         "type": "text",
         "category": "Other",
@@ -18593,14 +19260,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "ohkakacjaddkccagpciddgcjjbbpcgfl",
-        "comment": "Lightiius CRM una herramienta que los equipos de ventas aman usar | Source: https://malext.io/reports/WaSteal | Store:  | Added: 2026-06-08",
+        "comment": "Lightiius CRM una herramienta que los equipos de ventas aman usar | Source: https://malext.io/reports/WaSteal/ | Store:  | Added: 2026-06-08",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WaSteal\""
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
           },
           {
             "name": "malext:store=\"\""
@@ -18622,14 +19289,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "kpmanggilaiabhnclachbaiichkmefgd",
-        "comment": "waCluster : Organize, automatize e decole nas vendas | Source: https://malext.io/reports/WaSteal | Store:  | Added: 2026-06-08",
+        "comment": "waCluster : Organize, automatize e decole nas vendas | Source: https://malext.io/reports/WaSteal/ | Store:  | Added: 2026-06-08",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WaSteal\""
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
           },
           {
             "name": "malext:store=\"\""
@@ -18767,14 +19434,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "dhghkolonchibindgpmlhobbpeicncin",
-        "comment": "Etivi: Inteligencia Artificial para WhatsApp | Source: https://malext.io/reports/WaSteal | Store:  | Added: 2026-06-07",
+        "comment": "Etivi: Inteligencia Artificial para WhatsApp | Source: https://malext.io/reports/WaSteal/ | Store:  | Added: 2026-06-07",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WaSteal\""
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
           },
           {
             "name": "malext:store=\"\""
@@ -18796,14 +19463,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "bpjhhjboiagpamldnmjdmjadhajipicf",
-        "comment": "ChatzyCRM: Todo lo que necesitas en un solo CRM para WhatsApp | Source: https://malext.io/reports/WaSteal | Store:  | Added: 2026-06-07",
+        "comment": "ChatzyCRM: Todo lo que necesitas en un solo CRM para WhatsApp | Source: https://malext.io/reports/WaSteal/ | Store:  | Added: 2026-06-07",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://malext.io/reports/WaSteal\""
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
           },
           {
             "name": "malext:store=\"\""
@@ -37351,6 +38018,35 @@
         "distribution": "5"
       },
       {
+        "uuid": "0cfabd0f-c4b9-549e-8356-dc0c96c957f0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eliokoocofjemjjohafbmhmgjmedomko",
+        "comment": "Threat Analytics Search | Source: Store Monitoring | Store: Google Chrome | Added: 2026-04-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "37517d13-6121-5536-85f1-6dad448de109",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/eliokoocofjemjjohafbmhmgjmedomko",
+        "comment": "Microsoft Edge entry for Threat Analytics Search (eliokoocofjemjjohafbmhmgjmedomko)",
+        "distribution": "5"
+      },
+      {
         "uuid": "46af8233-9ebf-5d1a-a7a2-e2f3e2bb9bab",
         "type": "text",
         "category": "Other",
@@ -39415,14 +40111,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "flkebkiofojicogddingbdmcmkpbplcd",
-        "comment": "Perplexity Ai | Source: Store Monitoring | Store: Google Chrome | Added: 2026-04-25",
+        "comment": "Perplexity Ai | Source: https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/ | Store: Google Chrome | Added: 2026-04-25",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"Store Monitoring\""
+            "name": "malext:source=\"https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
