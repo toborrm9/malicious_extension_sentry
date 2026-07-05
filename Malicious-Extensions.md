@@ -68,7 +68,6 @@
 | leghoimbpegljdahpfkcgbgalbegpogi | DataZap: Automação, CRM e Chatbot para Vendas no WhatsApp Web | Policy Violation | Store Monitoring | 29/06/26 | No | Google Chrome
 | ahjpgookabbplenlliddmdkelihifmkk | Discord Id Lookup | Malware | Store Monitoring | 29/06/26 | No | Google Chrome
 | eglhokebokdmejdfpejnagcmnmjbfhig | DIPU & COMPANY GSTR-N | Policy Violation | Store Monitoring | 29/06/26 | No | Google Chrome
-| mcbpblocgmgfnpjjppndjkmgjaogfceg | Take Webpage Screenshots Entirely - FireShot | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | fifeankddgioinbcchlokclbcgjlopjj | Similar Sites - Discover Related Websites | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | olcibgopfmndlnghnmogcgdhdffdbicg | olcibgopfmndlnghnmogcgdhdffdbicg | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | nlapjaaepfeadiecaipnacimidfjginj | Focus To-Do: Pomodoro Timer &amp; To Do List | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
