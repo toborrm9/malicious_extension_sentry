@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-05",
-    "timestamp": "1783289023",
+    "date": "2026-07-07",
+    "timestamp": "1783409842",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,209 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "25869eed-b35d-5c70-bdf5-572d722b32f2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fhbljhejmbpjmlghdgkjmnobeejdcloj",
+        "comment": "Cubforge Linkedin Automatation | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cf836da9-dfa4-588f-b60d-d7ff66c30371",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/fhbljhejmbpjmlghdgkjmnobeejdcloj",
+        "comment": "Microsoft Edge entry for Cubforge Linkedin Automatation (fhbljhejmbpjmlghdgkjmnobeejdcloj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2b7962eb-1337-5d15-980a-10f9f63089a0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pcbahcofbcdimkkmnpmciebgddofbhkb",
+        "comment": "Purevpn | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "706d4ae8-797f-5405-a673-9accbecaacd5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/pcbahcofbcdimkkmnpmciebgddofbhkb",
+        "comment": "Microsoft Edge entry for Purevpn (pcbahcofbcdimkkmnpmciebgddofbhkb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cf31aa57-7410-57cc-a53d-6d4aec68e831",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jkapbnoclmpnedficnpggdkobboijimp",
+        "comment": "Quickskip \u2013 Auto Skip Ads | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "90389dde-dd4d-5aad-abde-4161a7dc81a4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jkapbnoclmpnedficnpggdkobboijimp",
+        "comment": "Microsoft Edge entry for Quickskip \u2013 Auto Skip Ads (jkapbnoclmpnedficnpggdkobboijimp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "73b0f65e-815e-5608-ad20-27e1b0eab7d1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ccabkgkocobdhpnlofbdonmdnpnnjaga",
+        "comment": "Leadseeder | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6ee4e2a2-017f-5f62-8c70-8877ea31ca67",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ccabkgkocobdhpnlofbdonmdnpnnjaga",
+        "comment": "Microsoft Edge entry for Leadseeder (ccabkgkocobdhpnlofbdonmdnpnnjaga)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6eb450ea-8132-53d2-b069-95e031058818",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eeklpbngcnnnengejmhpgdlgkekhkokk",
+        "comment": "Hide YouTube Shorts \u2014 Block & Remove | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2fe8e822-db0a-5bff-bc6b-6485935d6ed8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/eeklpbngcnnnengejmhpgdlgkekhkokk",
+        "comment": "Microsoft Edge entry for Hide YouTube Shorts \u2014 Block & Remove (eeklpbngcnnnengejmhpgdlgkekhkokk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4d74be10-b8c0-5406-99e2-1b7f43380e85",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hdagfineacponepnaljjkkgjoddgpjld",
+        "comment": "D2CHATPRO | Source: https://malext.io/reports/WaSteal/ | Store: Chrome | Added: 2026-07-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2fbd86da-e54e-5aab-9cf0-50015a833710",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hdagfineacponepnaljjkkgjoddgpjld",
+        "comment": "Chrome Web Store entry for D2CHATPRO (hdagfineacponepnaljjkkgjoddgpjld)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9457d713-fc09-579d-b02b-71a10f669bd0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "doigegnjacfpjgcgagfnaalnaclhbaoi",
+        "comment": "PERFORMANCE ZAP | Source: https://malext.io/reports/WaSteal/ | Store: Chrome | Added: 2026-07-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d9e4b8fe-d795-5471-942b-258cc3b1091c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/doigegnjacfpjgcgagfnaalnaclhbaoi",
+        "comment": "Chrome Web Store entry for PERFORMANCE ZAP (doigegnjacfpjgcgagfnaalnaclhbaoi)",
+        "distribution": "5"
+      },
       {
         "uuid": "9bf471b8-142a-5ae3-b1d5-62f5edb04562",
         "type": "text",
@@ -76121,6 +76324,35 @@
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/oaljkhbgbedmfoiieocoenglpaeogjmf",
         "comment": "Microsoft Edge entry for Safe Search for Chrome / Fire Shield Extension Protection (oaljkhbgbedmfoiieocoenglpaeogjmf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b2041e87-3f00-57c4-a73b-d4deced8febe",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kjincgipkjkimkcmolmajgcfpdjbckgc",
+        "comment": "Privacy Tools by SecuryBrowse | Source: https://secureannex.com/blog/searching-for-something-unknow/ | Store: Chrome | Added: 2025-04-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://secureannex.com/blog/searching-for-something-unknow/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6b8a094b-be8a-5fdf-8245-c2bd59843993",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kjincgipkjkimkcmolmajgcfpdjbckgc",
+        "comment": "Chrome Web Store entry for Privacy Tools by SecuryBrowse (kjincgipkjkimkcmolmajgcfpdjbckgc)",
         "distribution": "5"
       },
       {
