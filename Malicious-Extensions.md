@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| fhbljhejmbpjmlghdgkjmnobeejdcloj | Cubforge Linkedin Automatation | Policy Violation | Store Monitoring | 07/07/26 | No | Google Chrome
+| pcbahcofbcdimkkmnpmciebgddofbhkb | Purevpn | Policy Violation | Store Monitoring | 07/07/26 | No | Google Chrome
+| jkapbnoclmpnedficnpggdkobboijimp | Quickskip – Auto Skip Ads | Malware | Store Monitoring | 07/07/26 | No | Google Chrome
+| ccabkgkocobdhpnlofbdonmdnpnnjaga | Leadseeder | Policy Violation | Store Monitoring | 07/07/26 | No | Google Chrome
+| eeklpbngcnnnengejmhpgdlgkekhkokk | Hide YouTube Shorts — Block & Remove | Malware | Store Monitoring | 07/07/26 | No | Google Chrome
+| hdagfineacponepnaljjkkgjoddgpjld | D2CHATPRO | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 06/07/26 | No | Chrome
+| doigegnjacfpjgcgagfnaalnaclhbaoi | PERFORMANCE ZAP | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 06/07/26 | No | Chrome
 | bjocdocblhajndcmcfnckbjbkjnjebio | Ocai 采集插件 | Policy Violation | Store Monitoring | 05/07/26 | No | Google Chrome
 | adckfinclpmhjnijmeeejkdhocikacgd | Cnote – Web Notes Clippin | Policy Violation | Store Monitoring | 05/07/26 | No | Google Chrome
 | jdjngncampfhkckgofiigkjbpblkipgg | Vision Pro | Policy Violation | Store Monitoring | 04/07/26 | No | Google Chrome
@@ -2624,6 +2631,7 @@
 | jmpcodajbcpgkebjipbmjdoboehfiddd | DeepSeek AI Chat | Malware | [dti.domaintools.com](https://dti.domaintools.com/research/deceptive-browser-extensions-google-store-ai-slop) | 22/04/25 | No | Google Chrome
 | fojomppheellamdaddnbgommepnlkooh | Secured Connection by Security Browse / Browse Securely for Chrome | Removal reason Unknown | [arstechnica.com](https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/) | 11/04/25 | No | Google Chrome
 | oaljkhbgbedmfoiieocoenglpaeogjmf | Safe Search for Chrome / Fire Shield Extension Protection | Removal reason Unknown | [arstechnica.com](https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/) | 11/04/25 | No | Google Chrome
+| kjincgipkjkimkcmolmajgcfpdjbckgc | Privacy Tools by SecuryBrowse | Malware | [secureannex.com](https://secureannex.com/blog/searching-for-something-unknow/) | 10/04/25 | No | Chrome
 | pmgmbeeafpdjjhmeaalneginpmdhamhe | Unbiased Search by Protecto | Removal reason Unknown | [secureannex.com](https://secureannex.com/blog/searching-for-something-unknow/) | 10/04/25 | No | Google Chrome
 | pmannhofeaiadkcdbcebhnkcnkjjnfpn | Search Safely by SecurySearch | Removal reason Unknown | [secureannex.com](https://secureannex.com/blog/searching-for-something-unknow/) | 10/04/25 | No | Google Chrome
 | pcfapghfanllmbdfiipeiihpkojekckk | Address Checker for Chrome™ | Removal reason Unknown | [secureannex.com](https://secureannex.com/blog/searching-for-something-unknow/) | 10/04/25 | No | Google Chrome
