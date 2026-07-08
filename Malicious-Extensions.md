@@ -351,7 +351,6 @@
 | eojfoigempgjbpppohfaapklfllbcidk | SearchFort | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No | Google Chrome
 | ejpgchjcnlcgngfcomaoappdaemngghl | View Package Tracking | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No | Google Chrome
 | ejkbdfbleeojdmijgmdkmgojnmjbdgpj | Simple & Quick SEO Tools | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No | Google Chrome
-| ejcfepkfckglbgocfkanmcdngdijcgld | ChatGPT search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No | Google Chrome
 | eeiiknnphladbapfamiamfimnnnodife | Search for a Cause | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No | Google Chrome
 | dngnjfahakikicmhbjmgokapebkejjnb | 迷鹿起始页 | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No | Google Chrome
 | dlpfglcloancbgmfiohmbgicgjmmpbih | Tifferet | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 22/06/26 | No | Google Chrome
