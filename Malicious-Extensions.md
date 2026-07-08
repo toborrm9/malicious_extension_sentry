@@ -1,8 +1,20 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| fcbnoaggpcbininjeoejnmgjclfmpaif | Github Status Monitor | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
+| blelcpofmadkopeeglgjpammmnnkjpag | Raaye | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
+| pfenjnkfgckkcmandffgdfhoneeicjnk | Vpn для сайтов Chrome | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
+| njdmhalmhcdbfoopkncegoamnbngkapf | Cloud Vpn | Malware | Store Monitoring | 08/07/26 | No | Google Chrome
+| oodngccfleimoojlnlhnfimiepfaangk | Bereach | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
+| fpmjcmomlnpkbjmohofpbkpeelcbhgbc | Luffy Gear 5 One Piece Live Wallpaper | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
+| jabpepjbnnkdibmgdcjnapfnjcicjihh | Linkedin Cookie Manager | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
+| fdeijohdonbnikplckachfblcpbpkacp | Bookmark Atlas | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
+| jaloonibhkknfoofplfeobfageiinncm | Fifa Seat Finder | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
+| mgmmoiaocohooanmjmngocnojbphagoi | LinkedIn Cookie Sync for Headhunting Agent | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
+| cjkmdmgcomefpihnfkhnohfccikdlpli | Cookie Master | Malware | Store Monitoring | 07/07/26 | No | Google Chrome
+| faedpdgepbjjlmeiiapjflihlbcppdhg | Vector Vault | Policy Violation | Store Monitoring | 07/07/26 | No | Google Chrome
 | fhbljhejmbpjmlghdgkjmnobeejdcloj | Cubforge Linkedin Automatation | Policy Violation | Store Monitoring | 07/07/26 | No | Google Chrome
 | pcbahcofbcdimkkmnpmciebgddofbhkb | Purevpn | Policy Violation | Store Monitoring | 07/07/26 | No | Google Chrome
-| jkapbnoclmpnedficnpggdkobboijimp | Quickskip – Auto Skip Ads | Malware | Store Monitoring | 07/07/26 | No | Google Chrome
+| jkapbnoclmpnedficnpggdkobboijimp | Quickskip – Auto Skip Ads | Malware | Store Monitoring | 07/07/26 | Yes | Google Chrome
 | ccabkgkocobdhpnlofbdonmdnpnnjaga | Leadseeder | Policy Violation | Store Monitoring | 07/07/26 | No | Google Chrome
 | eeklpbngcnnnengejmhpgdlgkekhkokk | Hide YouTube Shorts — Block & Remove | Malware | Store Monitoring | 07/07/26 | No | Google Chrome
 | hdagfineacponepnaljjkkgjoddgpjld | D2CHATPRO | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 06/07/26 | No | Chrome
