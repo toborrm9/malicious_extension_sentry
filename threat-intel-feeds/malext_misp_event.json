@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-08",
-    "timestamp": "1783498889",
+    "date": "2026-07-09",
+    "timestamp": "1783598492",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,209 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "c958628a-4fc1-51e2-af3b-f330b68bafb3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kfpgookelklhphhnihipmknjdgbeecgj",
+        "comment": "Video Downloader Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ae9f0f2e-f0a2-5117-8edf-547ac38b2fa1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/kfpgookelklhphhnihipmknjdgbeecgj",
+        "comment": "Microsoft Edge entry for Video Downloader Pro (kfpgookelklhphhnihipmknjdgbeecgj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "36ef2568-fb5c-59c0-8948-8a91355daba0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fobaamfiblkoobhjpiigemmdegbmpohd",
+        "comment": "Insaverify Web For Instag | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "82d844a6-afc6-5a24-aead-51c12a49d9bd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/fobaamfiblkoobhjpiigemmdegbmpohd",
+        "comment": "Microsoft Edge entry for Insaverify Web For Instag (fobaamfiblkoobhjpiigemmdegbmpohd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0484df6d-d661-595f-a78e-075a4319772b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bcobckcaefhpecjmhnhoikocojgdipff",
+        "comment": "Serene Forest Nature Them | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0f485651-dcbc-5747-a03e-86b10f69c802",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bcobckcaefhpecjmhnhoikocojgdipff",
+        "comment": "Microsoft Edge entry for Serene Forest Nature Them (bcobckcaefhpecjmhnhoikocojgdipff)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c62d2b86-5c5e-57ab-a1ed-acf189dad790",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "plfpmnmmhipddofapdklpiaamofleaed",
+        "comment": "Aston Villa | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1bb3fd38-d3dd-51ee-8ace-ba33e877c600",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/plfpmnmmhipddofapdklpiaamofleaed",
+        "comment": "Microsoft Edge entry for Aston Villa (plfpmnmmhipddofapdklpiaamofleaed)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1e8c7c52-569d-5481-bf15-4fa887483b5c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oeifegedbdbjcmooefolmnchojjihaap",
+        "comment": "Eztoolvn | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b465a56f-6946-5cf9-bf11-5e53bb5b2020",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/oeifegedbdbjcmooefolmnchojjihaap",
+        "comment": "Microsoft Edge entry for Eztoolvn (oeifegedbdbjcmooefolmnchojjihaap)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fef7c765-c129-5b2f-868e-8960e5d4a791",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gmfjbmpifcjimcemhndeblgeklaignim",
+        "comment": "Focusflow | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5fa34409-55b4-5823-bda5-b49ac607e0b5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/gmfjbmpifcjimcemhndeblgeklaignim",
+        "comment": "Microsoft Edge entry for Focusflow (gmfjbmpifcjimcemhndeblgeklaignim)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6c431cf7-c1f4-5ca4-9a40-d503bd04e350",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ahnodepgohgadphglicgomegibmhiffb",
+        "comment": "Autoflow \u2014 Bulk Ai Image | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ff189b5e-5b84-5e77-84f6-dc88c85c0e75",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ahnodepgohgadphglicgomegibmhiffb",
+        "comment": "Microsoft Edge entry for Autoflow \u2014 Bulk Ai Image (ahnodepgohgadphglicgomegibmhiffb)",
+        "distribution": "5"
+      },
       {
         "uuid": "c93e6b33-2685-5a8d-97f5-68cbd94407ac",
         "type": "text",
