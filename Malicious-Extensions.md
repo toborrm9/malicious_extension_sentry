@@ -1,9 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| kfpgookelklhphhnihipmknjdgbeecgj | Video Downloader Pro | Malware | Store Monitoring | 09/07/26 | No | Google Chrome
+| fobaamfiblkoobhjpiigemmdegbmpohd | Insaverify Web For Instag | Malware | Store Monitoring | 09/07/26 | No | Google Chrome
+| bcobckcaefhpecjmhnhoikocojgdipff | Serene Forest Nature Them | Bundling Unwanted Software | Store Monitoring | 09/07/26 | No | Google Chrome
+| plfpmnmmhipddofapdklpiaamofleaed | Aston Villa | Policy Violation | Store Monitoring | 09/07/26 | No | Google Chrome
+| oeifegedbdbjcmooefolmnchojjihaap | Eztoolvn | In store but Suspicious | Store Monitoring | 09/07/26 | No | Google Chrome
+| gmfjbmpifcjimcemhndeblgeklaignim | Focusflow | Malware | Store Monitoring | 09/07/26 | No | Google Chrome
+| ahnodepgohgadphglicgomegibmhiffb | Autoflow — Bulk Ai Image | In store but not whitelisted | Store Monitoring | 09/07/26 | No | Google Chrome
 | fcbnoaggpcbininjeoejnmgjclfmpaif | Github Status Monitor | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
 | blelcpofmadkopeeglgjpammmnnkjpag | Raaye | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
 | pfenjnkfgckkcmandffgdfhoneeicjnk | Vpn для сайтов Chrome | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
-| njdmhalmhcdbfoopkncegoamnbngkapf | Cloud Vpn | Malware | Store Monitoring | 08/07/26 | No | Google Chrome
+| njdmhalmhcdbfoopkncegoamnbngkapf | Cloud Vpn | Malware | Store Monitoring | 08/07/26 | Yes | Google Chrome
 | oodngccfleimoojlnlhnfimiepfaangk | Bereach | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
 | fpmjcmomlnpkbjmohofpbkpeelcbhgbc | Luffy Gear 5 One Piece Live Wallpaper | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
 | jabpepjbnnkdibmgdcjnapfnjcicjihh | Linkedin Cookie Manager | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
