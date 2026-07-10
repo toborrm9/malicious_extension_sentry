@@ -1,5 +1,6 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| opgbiafapkbbnbnjcdomjaghbckfkglc | ModHeader - Modify HTTP headers | Malware | Store Monitoring | 10/07/26 | No | Microsoft Edge
 | bmkgbgkneealfabgnjfeljaiegpginpl | Screen Capture Screenshot | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
 | dalbkjmnafdmooclemgjckpfhkgibbja | Icpc Luxor Cp Training Tracker | Policy Violation | Store Monitoring | 10/07/26 | No | Google Chrome
 | poamjcejkpibnkacfjheiiicnmabhijf | Multichain Sniper By Sent | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
