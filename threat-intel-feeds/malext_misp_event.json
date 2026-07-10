@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-09",
-    "timestamp": "1783633292",
+    "date": "2026-07-10",
+    "timestamp": "1783673987",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,470 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "dbd40220-2ff2-56ea-b9cc-1231c4b6531a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bmkgbgkneealfabgnjfeljaiegpginpl",
+        "comment": "Screen Capture Screenshot | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4e92f27e-da9b-584d-a453-ec98181df149",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bmkgbgkneealfabgnjfeljaiegpginpl",
+        "comment": "Microsoft Edge entry for Screen Capture Screenshot (bmkgbgkneealfabgnjfeljaiegpginpl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7d7f33c1-fbfd-57ff-b5e6-25424306a469",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dalbkjmnafdmooclemgjckpfhkgibbja",
+        "comment": "Icpc Luxor Cp Training Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "28243c80-7d50-56b6-b74e-fa28b46f4f46",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dalbkjmnafdmooclemgjckpfhkgibbja",
+        "comment": "Microsoft Edge entry for Icpc Luxor Cp Training Tracker (dalbkjmnafdmooclemgjckpfhkgibbja)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fdf7b753-512c-50bd-b2f0-bd447b119ca8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "poamjcejkpibnkacfjheiiicnmabhijf",
+        "comment": "Multichain Sniper By Sent | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0dd8276d-d1c9-5f16-8df6-ae72085ffc1b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/poamjcejkpibnkacfjheiiicnmabhijf",
+        "comment": "Microsoft Edge entry for Multichain Sniper By Sent (poamjcejkpibnkacfjheiiicnmabhijf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0a669c9e-38b1-53ec-ad6b-57b874db5f0a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pfgfbflpcekpehdblfgmffbfnmoljknc",
+        "comment": "Sitearmor Phishing Protection | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "be0428d3-f365-5a1b-bc3f-26098fdab156",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/pfgfbflpcekpehdblfgmffbfnmoljknc",
+        "comment": "Microsoft Edge entry for Sitearmor Phishing Protection (pfgfbflpcekpehdblfgmffbfnmoljknc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "12901e9d-6892-5448-954d-0ad6302a3714",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "idgpnmonknjnojddfkpgkljpfnnfcklj",
+        "comment": "Modheader Modify Http Headers | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "62a98d5e-091c-562a-93fb-a3b7a48da207",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/idgpnmonknjnojddfkpgkljpfnnfcklj",
+        "comment": "Microsoft Edge entry for Modheader Modify Http Headers (idgpnmonknjnojddfkpgkljpfnnfcklj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "73a473d1-557d-58e9-b655-dc95959e60f3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "labnenmgbgjekemapdedakbbdiepmieb",
+        "comment": "Clearterms Ai | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "80833c48-d154-5ee8-81ec-a4b38764de8b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/labnenmgbgjekemapdedakbbdiepmieb",
+        "comment": "Microsoft Edge entry for Clearterms Ai (labnenmgbgjekemapdedakbbdiepmieb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ba09bc47-8b0d-5035-a94e-caa2ae71a64e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dcilflndglpoagencbdmekminbdkkcdm",
+        "comment": "Tidytabs Tab Organizer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0149e2cc-dc2f-5411-adaa-7906c6a49f8b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dcilflndglpoagencbdmekminbdkkcdm",
+        "comment": "Microsoft Edge entry for Tidytabs Tab Organizer (dcilflndglpoagencbdmekminbdkkcdm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "456706a0-340c-5135-b02e-721963e67b9c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "joejamlmdlfhlefljkooaapbhihjhmbj",
+        "comment": "Axiom Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cc5de79c-5bfe-5b74-98bf-2abaf0aabd82",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/joejamlmdlfhlefljkooaapbhihjhmbj",
+        "comment": "Microsoft Edge entry for Axiom Wallet (joejamlmdlfhlefljkooaapbhihjhmbj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ac95d819-44f1-5f7f-9f6f-89bed836f659",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fglgjmlbihnfobipoljfdgfojbehcaja",
+        "comment": "Video Downloader Chrome Save Video | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ecf115e8-06f2-54cf-9cea-2e527f6efbaa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/fglgjmlbihnfobipoljfdgfojbehcaja",
+        "comment": "Microsoft Edge entry for Video Downloader Chrome Save Video (fglgjmlbihnfobipoljfdgfojbehcaja)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d2de3dac-bd2d-514b-bc80-6e8e52bd346b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "djpfkjjjkldagiifcpfmepoofbnoklie",
+        "comment": "Lightning Text Converter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d90c6896-213a-5347-a7f5-06d94138c3f4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/djpfkjjjkldagiifcpfmepoofbnoklie",
+        "comment": "Microsoft Edge entry for Lightning Text Converter (djpfkjjjkldagiifcpfmepoofbnoklie)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dce2f6a0-6228-5ebe-b850-a16063d70c27",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bbeoagdpiieajlcdebogffjjlfdgchni",
+        "comment": "Bestsuggest | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "35ae7787-7185-5fa5-81f0-804e710251b7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bbeoagdpiieajlcdebogffjjlfdgchni",
+        "comment": "Microsoft Edge entry for Bestsuggest (bbeoagdpiieajlcdebogffjjlfdgchni)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9c0c49ae-dbf7-5e7f-8e47-7076bffbc18d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "olokblifbmpakjoccjnpmdgjgnjdolcj",
+        "comment": "Concrete Ads Wall | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "baed44c4-d9f4-53dd-a209-996174453c51",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/olokblifbmpakjoccjnpmdgjgnjdolcj",
+        "comment": "Microsoft Edge entry for Concrete Ads Wall (olokblifbmpakjoccjnpmdgjgnjdolcj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1b89251c-b7fc-56d3-a221-61c5d0a757b6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mlcpfemlipgbgoaioabdhilcifidegoo",
+        "comment": "Seobyai | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6b5fc938-62a1-5ab6-b774-362f4ff6f3ba",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mlcpfemlipgbgoaioabdhilcifidegoo",
+        "comment": "Microsoft Edge entry for Seobyai (mlcpfemlipgbgoaioabdhilcifidegoo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f06e0b5d-b59c-5fbc-9aca-d3c834c74bb3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mknbkgdikangjebcpfcbkiioojainjnh",
+        "comment": "ModHeader - Modify HTTP headers | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fcfd4cf4-7759-58c1-af9a-351d3089a38a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mknbkgdikangjebcpfcbkiioojainjnh",
+        "comment": "Microsoft Edge entry for ModHeader - Modify HTTP headers (mknbkgdikangjebcpfcbkiioojainjnh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8bee4e00-c0a6-5a3e-9757-22e723236725",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kcedjkhgdapcpliedehbhmbidboemgfk",
+        "comment": "\u043f\u043e\u0433\u043e\u0434\u0430 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d0a0f1af-d68f-539b-8314-a2bfd8e11ff1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/kcedjkhgdapcpliedehbhmbidboemgfk",
+        "comment": "Microsoft Edge entry for \u043f\u043e\u0433\u043e\u0434\u0430 (kcedjkhgdapcpliedehbhmbidboemgfk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cfd6f4c8-40b1-57d4-9922-51b8f622a4dc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hiomcdgildjfmbabbiofclfechnfmlmn",
+        "comment": "Text Case Converter Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6b25c341-d7af-582b-b4c5-faf7d16ad87b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hiomcdgildjfmbabbiofclfechnfmlmn",
+        "comment": "Microsoft Edge entry for Text Case Converter Pro (hiomcdgildjfmbabbiofclfechnfmlmn)",
+        "distribution": "5"
+      },
       {
         "uuid": "ea340a06-bfef-5213-829f-7db3a8281cb0",
         "type": "text",
