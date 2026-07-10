@@ -1,12 +1,20 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-07-10T08:59:46Z",
+  "generated": "2026-07-10T09:07:07Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 3046,
+  "total_indicators": 3047,
   "indicators": [
+    {
+      "extension_id": "opgbiafapkbbnbnjcdomjaghbckfkglc",
+      "name": "ModHeader - Modify HTTP headers",
+      "source": "Store Monitoring",
+      "store": "Microsoft Edge",
+      "insert_date": "2026-07-10",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/opgbiafapkbbnbnjcdomjaghbckfkglc"
+    },
     {
       "extension_id": "bmkgbgkneealfabgnjfeljaiegpginpl",
       "name": "Screen Capture Screenshot",
