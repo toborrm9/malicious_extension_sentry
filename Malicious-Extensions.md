@@ -1,5 +1,21 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| bmkgbgkneealfabgnjfeljaiegpginpl | Screen Capture Screenshot | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| dalbkjmnafdmooclemgjckpfhkgibbja | Icpc Luxor Cp Training Tracker | Policy Violation | Store Monitoring | 10/07/26 | No | Google Chrome
+| poamjcejkpibnkacfjheiiicnmabhijf | Multichain Sniper By Sent | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| pfgfbflpcekpehdblfgmffbfnmoljknc | Sitearmor Phishing Protection | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| idgpnmonknjnojddfkpgkljpfnnfcklj | Modheader Modify Http Headers | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| labnenmgbgjekemapdedakbbdiepmieb | Clearterms Ai | Policy Violation | Store Monitoring | 10/07/26 | No | Google Chrome
+| dcilflndglpoagencbdmekminbdkkcdm | Tidytabs Tab Organizer | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| joejamlmdlfhlefljkooaapbhihjhmbj | Axiom Wallet | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| fglgjmlbihnfobipoljfdgfojbehcaja | Video Downloader Chrome Save Video | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| djpfkjjjkldagiifcpfmepoofbnoklie | Lightning Text Converter | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| bbeoagdpiieajlcdebogffjjlfdgchni | Bestsuggest | Policy Violation | Store Monitoring | 10/07/26 | No | Google Chrome
+| olokblifbmpakjoccjnpmdgjgnjdolcj | Concrete Ads Wall | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| mlcpfemlipgbgoaioabdhilcifidegoo | Seobyai | Policy Violation | Store Monitoring | 10/07/26 | No | Google Chrome
+| mknbkgdikangjebcpfcbkiioojainjnh | ModHeader - Modify HTTP headers | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| kcedjkhgdapcpliedehbhmbidboemgfk | погода | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| hiomcdgildjfmbabbiofclfechnfmlmn | Text Case Converter Pro | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
 | gooogiookckojjoinofnjfogcfocfkbn | YouTube Music Web Player Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 09/07/26 | No | Chrome
 | gamkifgdajnpkdjfnpplogdpjcjbhaif | Earth Search for Chrome | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 09/07/26 | No | Chrome
 | chmnbaeicbomomjmfkfmhokdngndcdnl | Colour Cure | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 09/07/26 | No | Chrome
@@ -123,8 +139,8 @@
 | aijplginpngbkakdlhnjjgmigncndbed | Halloween Night Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 09/07/26 | No | Chrome
 | ahpcpnjnjdgkpjijdfibmmnfablnflej | BMW Street Legend Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 09/07/26 | No | Chrome
 | aheaigoeokheanaooamkeippmanjhogg | Resident Evil Rain of Death Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 09/07/26 | No | Chrome
-| kfpgookelklhphhnihipmknjdgbeecgj | Video Downloader Pro | Malware | Store Monitoring | 09/07/26 | No | Google Chrome
-| fobaamfiblkoobhjpiigemmdegbmpohd | Insaverify Web For Instag | Malware | Store Monitoring | 09/07/26 | No | Google Chrome
+| kfpgookelklhphhnihipmknjdgbeecgj | Video Downloader Pro | Malware | Store Monitoring | 09/07/26 | Yes | Google Chrome
+| fobaamfiblkoobhjpiigemmdegbmpohd | Insaverify Web For Instag | Malware | Store Monitoring | 09/07/26 | Yes | Google Chrome
 | bcobckcaefhpecjmhnhoikocojgdipff | Serene Forest Nature Them | Bundling Unwanted Software | Store Monitoring | 09/07/26 | No | Google Chrome
 | plfpmnmmhipddofapdklpiaamofleaed | Aston Villa | Policy Violation | Store Monitoring | 09/07/26 | No | Google Chrome
 | oeifegedbdbjcmooefolmnchojjihaap | Eztoolvn | In store but Suspicious | Store Monitoring | 09/07/26 | No | Google Chrome
@@ -1163,7 +1179,7 @@
 | cnhmgdfidmnmjepklhbeckjmaaojofob | Doodle Jump For Chrome Ga | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No | Google Chrome
 | cbfamilfacjghhlomcbjjjeccjflbifc | Age Of War Rush Game | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No | Google Chrome
 | mmjchmcfkinnlhomhgjjobkfphbejebe | Catch Cat Game | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No | Google Chrome
-| lnjjcckgbpppdjcijhakcbnkggbdhccj | Facebook Groups Bulk Post | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No | Google Chrome
+| lnjjcckgbpppdjcijhakcbnkggbdhccj | Facebook Groups Bulk Post | Bundling Unwanted Software | Store Monitoring | 23/05/26 | Yes | Google Chrome
 | fmgjknnbhgfkpahjdigplnocloopfbdh | Retro Bowl Classic | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No | Google Chrome
 | bnddmkedjhbdkcofemggolloamdfbcfc | B5 كود خصم كريت اند باريل | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No | Google Chrome
 | lmhbioocpeiccnhhljkcpoblacefkbcg | Pawsome Browser Kitties | Bundling Unwanted Software | Store Monitoring | 23/05/26 | No | Google Chrome
