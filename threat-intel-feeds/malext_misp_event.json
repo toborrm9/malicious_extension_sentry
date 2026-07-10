@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-07-10",
-    "timestamp": "1783673987",
+    "timestamp": "1783674428",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,35 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "e2b56db2-271e-59d7-b03b-b0b17b85ef40",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "opgbiafapkbbnbnjcdomjaghbckfkglc",
+        "comment": "ModHeader - Modify HTTP headers | Source: Store Monitoring | Store: Microsoft Edge | Added: 2026-07-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Microsoft Edge\""
+          }
+        ]
+      },
+      {
+        "uuid": "3bfd066b-dfab-58e0-90e4-90b992f54dbc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/opgbiafapkbbnbnjcdomjaghbckfkglc",
+        "comment": "Microsoft Edge entry for ModHeader - Modify HTTP headers (opgbiafapkbbnbnjcdomjaghbckfkglc)",
+        "distribution": "5"
+      },
       {
         "uuid": "dbd40220-2ff2-56ea-b9cc-1231c4b6531a",
         "type": "text",
