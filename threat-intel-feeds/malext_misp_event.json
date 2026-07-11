@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-10",
-    "timestamp": "1783674428",
+    "date": "2026-07-11",
+    "timestamp": "1783757343",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,470 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "e08048eb-f4a5-56c6-9018-05b0c4f0b495",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "enhfmmfephlakjfjopifieecblkfjbie",
+        "comment": "Chrome Ad Blocker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0c43bbd6-ba1b-5ada-b115-fd236f3fe3f5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/enhfmmfephlakjfjopifieecblkfjbie",
+        "comment": "Microsoft Edge entry for Chrome Ad Blocker (enhfmmfephlakjfjopifieecblkfjbie)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "893ee7ad-7245-5ac9-b42c-23f23f217bac",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "emobaagnonckbkekpalcnfmajlghmegh",
+        "comment": "Effess Services Free Bulk Message Sender | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca6e4877-44eb-541f-9947-765b9fbdc48d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/emobaagnonckbkekpalcnfmajlghmegh",
+        "comment": "Microsoft Edge entry for Effess Services Free Bulk Message Sender (emobaagnonckbkekpalcnfmajlghmegh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f2cdf340-4d9e-599a-b70a-3498d823bfc7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mihbpkopbloapjgpcpfkblilhlcapbfj",
+        "comment": "Onetab Vault For Browser | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d6728849-7147-5256-a249-ec7fa668cc47",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mihbpkopbloapjgpcpfkblilhlcapbfj",
+        "comment": "Microsoft Edge entry for Onetab Vault For Browser (mihbpkopbloapjgpcpfkblilhlcapbfj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3ac1dc44-8caa-51f0-89ee-0f8e0a32f840",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "olafhgbhkkgkbbonieapkchffalihpic",
+        "comment": "Video Downloader Global - videos & streams | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8dab6f8d-52ad-5998-9eb6-dcce9e2f024b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/olafhgbhkkgkbbonieapkchffalihpic",
+        "comment": "Microsoft Edge entry for Video Downloader Global - videos & streams (olafhgbhkkgkbbonieapkchffalihpic)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5222b03d-4a97-5e5a-90dc-7ea8fa913baf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eofhgebdhkfdakbjpoiodpgmhbckdafb",
+        "comment": "Plasma Blue | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "30f41936-0145-57c7-903d-338e44104e17",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/eofhgebdhkfdakbjpoiodpgmhbckdafb",
+        "comment": "Microsoft Edge entry for Plasma Blue (eofhgebdhkfdakbjpoiodpgmhbckdafb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e99ecf38-0910-5a55-b055-d748e6115dba",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nedihlajgfaiddaiccpjabchmfbfpdca",
+        "comment": "Moto X3M Original | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5cb60aaa-0c20-5ee4-93b2-6f93277644a0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/nedihlajgfaiddaiccpjabchmfbfpdca",
+        "comment": "Microsoft Edge entry for Moto X3M Original (nedihlajgfaiddaiccpjabchmfbfpdca)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cb44cd12-fbdc-5483-893a-143718505373",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gbepdhiinglhceigbfodbklagmgofmco",
+        "comment": "Threads Downloader Mass Download for Threads | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1f3f893a-9b70-5ca0-9f93-e5e7c116edaf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/gbepdhiinglhceigbfodbklagmgofmco",
+        "comment": "Microsoft Edge entry for Threads Downloader Mass Download for Threads (gbepdhiinglhceigbfodbklagmgofmco)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c7da76c3-e829-50f3-903d-150fd760928d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "amfloicdelgojpejbbkdkaigkbiljnnp",
+        "comment": "Aurora Violet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "190d1bf9-e32f-52bf-b30e-9ea60eaec38c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/amfloicdelgojpejbbkdkaigkbiljnnp",
+        "comment": "Microsoft Edge entry for Aurora Violet (amfloicdelgojpejbbkdkaigkbiljnnp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cda0fe3e-a32b-5275-bd85-3087aaec2ecf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lffmjhdmbkcfpihfmbocjkjfipiobimf",
+        "comment": "Convert Heic To Jpg | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f2649ebd-b120-5c44-8abe-644041add721",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/lffmjhdmbkcfpihfmbocjkjfipiobimf",
+        "comment": "Microsoft Edge entry for Convert Heic To Jpg (lffmjhdmbkcfpihfmbocjkjfipiobimf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8529ede3-7070-5a27-9216-36c3ed987b43",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pkgnakbhlladihkaedolkimbjmnefkcg",
+        "comment": "JS JustDial Easy Web Instant Data Scraper and Extractor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d7556fb8-0ddb-58cf-a37b-9848f7c9a4ff",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/pkgnakbhlladihkaedolkimbjmnefkcg",
+        "comment": "Microsoft Edge entry for JS JustDial Easy Web Instant Data Scraper and Extractor (pkgnakbhlladihkaedolkimbjmnefkcg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e66f2dda-50cd-5551-a833-04fe46769da1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "loacjdmcccdldboimphpancenplbogpg",
+        "comment": "Whatsapp Marketing Dispar | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5cde5779-8011-5d2d-a508-bfd1e4baf2f6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/loacjdmcccdldboimphpancenplbogpg",
+        "comment": "Microsoft Edge entry for Whatsapp Marketing Dispar (loacjdmcccdldboimphpancenplbogpg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7de9e393-5c39-5c48-a943-5766efc2dc39",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "apiihdbdjcmpnbgbilammlicobpjpoce",
+        "comment": "WaFlow CRM - Agente IA + Flow Builder | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2ede0c11-5d50-5251-aaaf-d18e1e5a5286",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/apiihdbdjcmpnbgbilammlicobpjpoce",
+        "comment": "Microsoft Edge entry for WaFlow CRM - Agente IA + Flow Builder (apiihdbdjcmpnbgbilammlicobpjpoce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e75137bb-e969-5e81-b4fb-13377b5b838a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jfcljeedmmbodclfnpjgplennmfbeoaj",
+        "comment": "WA Sender Plus \u2014 Automation, Scheduler & CRM for WhatsApp Web | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5091d7a1-7b74-5b2a-8002-fb6dbddeb0b3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jfcljeedmmbodclfnpjgplennmfbeoaj",
+        "comment": "Microsoft Edge entry for WA Sender Plus \u2014 Automation, Scheduler & CRM for WhatsApp Web (jfcljeedmmbodclfnpjgplennmfbeoaj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0d612efc-3146-575e-89c0-dc1f16026b4d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kpnbjlnnaoilpjkbodphbjelpldfbibo",
+        "comment": "Im Indiamart Easy Web Ins | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "44065a94-b1f8-5216-9184-5348def1cba5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/kpnbjlnnaoilpjkbodphbjelpldfbibo",
+        "comment": "Microsoft Edge entry for Im Indiamart Easy Web Ins (kpnbjlnnaoilpjkbodphbjelpldfbibo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c7bc3721-f461-59f5-a0c3-969e6589314d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "edoaofhmecgimkcnadmdblepigfifhcn",
+        "comment": "Autumn Maple | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c1419344-09e8-50d6-bb8d-abf42511b82b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/edoaofhmecgimkcnadmdblepigfifhcn",
+        "comment": "Microsoft Edge entry for Autumn Maple (edoaofhmecgimkcnadmdblepigfifhcn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b3337023-bf23-569e-956c-e95d541b9468",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mlfdgoghgolgjbdplfijlnnpcoeppepd",
+        "comment": "Pewter Mist | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "90b53e6f-9c2c-5641-a549-96af49ce771a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mlfdgoghgolgjbdplfijlnnpcoeppepd",
+        "comment": "Microsoft Edge entry for Pewter Mist (mlfdgoghgolgjbdplfijlnnpcoeppepd)",
+        "distribution": "5"
+      },
       {
         "uuid": "e2b56db2-271e-59d7-b03b-b0b17b85ef40",
         "type": "text",
@@ -4288,6 +4752,35 @@
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/ahnodepgohgadphglicgomegibmhiffb",
         "comment": "Microsoft Edge entry for Autoflow \u2014 Bulk Ai Image (ahnodepgohgadphglicgomegibmhiffb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8dab4caf-3fcc-5919-85c1-e0caf5928085",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "enhccgfadgcpinpjlndlaknnfibedafm",
+        "comment": "T\u202egnidar\u202cv\u202ewei\u202c A\u202espp\u202c | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ed894ad1-b279-500a-8857-44709710123d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/enhccgfadgcpinpjlndlaknnfibedafm",
+        "comment": "Microsoft Edge entry for T\u202egnidar\u202cv\u202ewei\u202c A\u202espp\u202c (enhccgfadgcpinpjlndlaknnfibedafm)",
         "distribution": "5"
       },
       {
@@ -23863,6 +24356,35 @@
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/olceochjkfofojkjjbgmjlbhcclgfegi",
         "comment": "Microsoft Edge entry for Metric Flow Website Traff (olceochjkfofojkjjbgmjlbhcclgfegi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "70c8ed6a-6d87-59e0-ac1e-a769a8a52b70",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kkaneedgomgliclbnamedjoknagffnfe",
+        "comment": "Veilovpn \u2014 Private Tunnel | Source: Store Monitoring | Store: Google Chrome | Added: 2026-06-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b01be0f5-a789-58e1-8da5-96afd4eec663",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/kkaneedgomgliclbnamedjoknagffnfe",
+        "comment": "Microsoft Edge entry for Veilovpn \u2014 Private Tunnel (kkaneedgomgliclbnamedjoknagffnfe)",
         "distribution": "5"
       },
       {
