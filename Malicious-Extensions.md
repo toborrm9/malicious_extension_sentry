@@ -1,21 +1,37 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| enhfmmfephlakjfjopifieecblkfjbie | Chrome Ad Blocker | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
+| emobaagnonckbkekpalcnfmajlghmegh | Effess Services Free Bulk Message Sender | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
+| mihbpkopbloapjgpcpfkblilhlcapbfj | Onetab Vault For Browser | Policy Violation | Store Monitoring | 11/07/26 | No | Google Chrome
+| olafhgbhkkgkbbonieapkchffalihpic | Video Downloader Global - videos & streams | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
+| eofhgebdhkfdakbjpoiodpgmhbckdafb | Plasma Blue | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
+| nedihlajgfaiddaiccpjabchmfbfpdca | Moto X3M Original | Policy Violation | Store Monitoring | 11/07/26 | No | Google Chrome
+| gbepdhiinglhceigbfodbklagmgofmco | Threads Downloader Mass Download for Threads | Malware | Store Monitoring | 11/07/26 | No | Google Chrome
+| amfloicdelgojpejbbkdkaigkbiljnnp | Aurora Violet | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
+| lffmjhdmbkcfpihfmbocjkjfipiobimf | Convert Heic To Jpg | Policy Violation | Store Monitoring | 11/07/26 | No | Google Chrome
+| pkgnakbhlladihkaedolkimbjmnefkcg | JS JustDial Easy Web Instant Data Scraper and Extractor | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
+| loacjdmcccdldboimphpancenplbogpg | Whatsapp Marketing Dispar | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
+| apiihdbdjcmpnbgbilammlicobpjpoce | WaFlow CRM - Agente IA + Flow Builder | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
+| jfcljeedmmbodclfnpjgplennmfbeoaj | WA Sender Plus — Automation, Scheduler & CRM for WhatsApp Web | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
+| kpnbjlnnaoilpjkbodphbjelpldfbibo | Im Indiamart Easy Web Ins | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
+| edoaofhmecgimkcnadmdblepigfifhcn | Autumn Maple | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
+| mlfdgoghgolgjbdplfijlnnpcoeppepd | Pewter Mist | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
 | opgbiafapkbbnbnjcdomjaghbckfkglc | ModHeader - Modify HTTP headers | Malware | Store Monitoring | 10/07/26 | No | Microsoft Edge
-| bmkgbgkneealfabgnjfeljaiegpginpl | Screen Capture Screenshot | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| bmkgbgkneealfabgnjfeljaiegpginpl | Screen Capture Screenshot | Malware | Store Monitoring | 10/07/26 | Yes | Google Chrome
 | dalbkjmnafdmooclemgjckpfhkgibbja | Icpc Luxor Cp Training Tracker | Policy Violation | Store Monitoring | 10/07/26 | No | Google Chrome
 | poamjcejkpibnkacfjheiiicnmabhijf | Multichain Sniper By Sent | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
-| pfgfbflpcekpehdblfgmffbfnmoljknc | Sitearmor Phishing Protection | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
-| idgpnmonknjnojddfkpgkljpfnnfcklj | Modheader Modify Http Headers | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| pfgfbflpcekpehdblfgmffbfnmoljknc | Sitearmor Phishing Protection | Malware | Store Monitoring | 10/07/26 | Yes | Google Chrome
+| idgpnmonknjnojddfkpgkljpfnnfcklj | Modheader Modify Http Headers | Malware | Store Monitoring | 10/07/26 | Yes | Google Chrome
 | labnenmgbgjekemapdedakbbdiepmieb | Clearterms Ai | Policy Violation | Store Monitoring | 10/07/26 | No | Google Chrome
-| dcilflndglpoagencbdmekminbdkkcdm | Tidytabs Tab Organizer | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| dcilflndglpoagencbdmekminbdkkcdm | Tidytabs Tab Organizer | Malware | Store Monitoring | 10/07/26 | Yes | Google Chrome
 | joejamlmdlfhlefljkooaapbhihjhmbj | Axiom Wallet | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
-| fglgjmlbihnfobipoljfdgfojbehcaja | Video Downloader Chrome Save Video | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
-| djpfkjjjkldagiifcpfmepoofbnoklie | Lightning Text Converter | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| fglgjmlbihnfobipoljfdgfojbehcaja | Video Downloader Chrome Save Video | Malware | Store Monitoring | 10/07/26 | Yes | Google Chrome
+| djpfkjjjkldagiifcpfmepoofbnoklie | Lightning Text Converter | Malware | Store Monitoring | 10/07/26 | Yes | Google Chrome
 | bbeoagdpiieajlcdebogffjjlfdgchni | Bestsuggest | Policy Violation | Store Monitoring | 10/07/26 | No | Google Chrome
 | olokblifbmpakjoccjnpmdgjgnjdolcj | Concrete Ads Wall | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
 | mlcpfemlipgbgoaioabdhilcifidegoo | Seobyai | Policy Violation | Store Monitoring | 10/07/26 | No | Google Chrome
-| mknbkgdikangjebcpfcbkiioojainjnh | ModHeader - Modify HTTP headers | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
-| kcedjkhgdapcpliedehbhmbidboemgfk | погода | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
+| mknbkgdikangjebcpfcbkiioojainjnh | ModHeader - Modify HTTP headers | Malware | Store Monitoring | 10/07/26 | Yes | Google Chrome
+| kcedjkhgdapcpliedehbhmbidboemgfk | погода | Malware | Store Monitoring | 10/07/26 | Yes | Google Chrome
 | hiomcdgildjfmbabbiofclfechnfmlmn | Text Case Converter Pro | Malware | Store Monitoring | 10/07/26 | No | Google Chrome
 | gooogiookckojjoinofnjfogcfocfkbn | YouTube Music Web Player Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 09/07/26 | No | Chrome
 | gamkifgdajnpkdjfnpplogdpjcjbhaif | Earth Search for Chrome | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 09/07/26 | No | Chrome
@@ -147,6 +163,7 @@
 | oeifegedbdbjcmooefolmnchojjihaap | Eztoolvn | In store but Suspicious | Store Monitoring | 09/07/26 | No | Google Chrome
 | gmfjbmpifcjimcemhndeblgeklaignim | Focusflow | Malware | Store Monitoring | 09/07/26 | No | Google Chrome
 | ahnodepgohgadphglicgomegibmhiffb | Autoflow — Bulk Ai Image | In store but not whitelisted | Store Monitoring | 09/07/26 | No | Google Chrome
+| enhccgfadgcpinpjlndlaknnfibedafm | T‮gnidar‬v‮wei‬ A‮spp‬ | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
 | fcbnoaggpcbininjeoejnmgjclfmpaif | Github Status Monitor | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
 | blelcpofmadkopeeglgjpammmnnkjpag | Raaye | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
 | pfenjnkfgckkcmandffgdfhoneeicjnk | Vpn для сайтов Chrome | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
@@ -822,6 +839,7 @@
 | napnmdhmhlfpopiapoogcbpbeekfepnk | Tether Land Usdttoman Rat | Policy Violation | Store Monitoring | 09/06/26 | No | Google Chrome
 | pnjifegilbcoeffpbfickagedipiepcc | Usdt Local Currency Conve | Policy Violation | Store Monitoring | 09/06/26 | No | Google Chrome
 | olceochjkfofojkjjbgmjlbhcclgfegi | Metric Flow Website Traff | Bundling Unwanted Software | Store Monitoring | 09/06/26 | No | Google Chrome
+| kkaneedgomgliclbnamedjoknagffnfe | Veilovpn — Private Tunnel | Malware | Store Monitoring | 08/06/26 | No | Google Chrome
 | ffommlgcgjohpmopabpiinkkdidhohec | Padre Enhancer | Malware | Store Monitoring | 08/06/26 | No | Google Chrome
 | amdebhmimbbigkdagackjdnmjnogdhic | Caveiracards | Policy Violation | Store Monitoring | 08/06/26 | No | Google Chrome
 | apilbemmclgnmkedclgpolikeofmlicn | лингворус — проверка на а | Policy Violation | Store Monitoring | 08/06/26 | No | Google Chrome
