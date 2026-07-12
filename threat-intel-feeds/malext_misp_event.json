@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-11",
-    "timestamp": "1783757343",
+    "date": "2026-07-12",
+    "timestamp": "1783843027",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,296 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "3017e8b6-c728-5727-bc4d-f5f30a4bf5d1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hdlllnepcpmgdjeabkenjpcdcbgdfljc",
+        "comment": "Bamboo Zen | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4cc2c681-2198-5bae-8c5a-9d2866c14f84",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hdlllnepcpmgdjeabkenjpcdcbgdfljc",
+        "comment": "Microsoft Edge entry for Bamboo Zen (hdlllnepcpmgdjeabkenjpcdcbgdfljc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "45b3a26b-9343-504c-a674-e646436d65c7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gnpmcdiaangaankpdbknffkajgfbdelg",
+        "comment": "Electric Amber | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca325dd6-191c-5787-a08d-e6a9c5cf35d3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/gnpmcdiaangaankpdbknffkajgfbdelg",
+        "comment": "Microsoft Edge entry for Electric Amber (gnpmcdiaangaankpdbknffkajgfbdelg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "383cd142-2aa5-5d87-8968-d936b1f211ab",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "chamaofhjbaliooojnpbgebekimjoagk",
+        "comment": "Wildfire Orange | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d2ea3b3a-f2c7-52ab-b5be-7c6e3203ce12",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/chamaofhjbaliooojnpbgebekimjoagk",
+        "comment": "Microsoft Edge entry for Wildfire Orange (chamaofhjbaliooojnpbgebekimjoagk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3893e419-7079-5627-945d-b6084a367dac",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bakmhfkekmpmdmdlncodfoiananahoeo",
+        "comment": "Roblox Friend Remove Tool | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "764963fc-e83f-5038-90eb-fa8cb27743d0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bakmhfkekmpmdmdlncodfoiananahoeo",
+        "comment": "Microsoft Edge entry for Roblox Friend Remove Tool (bakmhfkekmpmdmdlncodfoiananahoeo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "954dbc00-8a88-5ea3-8e0b-f1fe2b2f49e4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "liloldbajekkmfjgcbjlncfffejdeecf",
+        "comment": "Twilight Plum | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "54c6d3b9-10c8-5857-ade7-5f9d2bae3caf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/liloldbajekkmfjgcbjlncfffejdeecf",
+        "comment": "Microsoft Edge entry for Twilight Plum (liloldbajekkmfjgcbjlncfffejdeecf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f85d9a7b-78c9-51d0-a359-ab69ee1ef1ca",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kknogmdgneomcbjjjnobfaonolnbkjah",
+        "comment": "Notepod | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f401d65e-deff-50b1-b03d-857fd3210567",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/kknogmdgneomcbjjjnobfaonolnbkjah",
+        "comment": "Microsoft Edge entry for Notepod (kknogmdgneomcbjjjnobfaonolnbkjah)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "34bbad96-b68f-5ccc-ac49-1cd15c520c9f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cmmmdabkpngbahdopboaojncapjkifhp",
+        "comment": "Wasabi Green | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "503bc0b6-a978-509c-8e8c-c4c6874277dd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/cmmmdabkpngbahdopboaojncapjkifhp",
+        "comment": "Microsoft Edge entry for Wasabi Green (cmmmdabkpngbahdopboaojncapjkifhp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7d8b4199-1d76-59fe-9a77-bc77e3104a03",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hjgdmliehodedbledmnehhhgnanbfhjo",
+        "comment": "Amethyst Cave | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1f4432d1-b0ab-5612-ab96-be480e483bea",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hjgdmliehodedbledmnehhhgnanbfhjo",
+        "comment": "Microsoft Edge entry for Amethyst Cave (hjgdmliehodedbledmnehhhgnanbfhjo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e0c1c55d-0385-58bd-82b5-744979488371",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ofkcbakkpjefjndcmbkokadbmmaimnlp",
+        "comment": "UltraWide Streaming: custom fullscreen ratios [QVI] | Source: https://chromewebstore.google.com/detail/ofkcbakkpjefjndcmbkokadbmmaimnlp | Store: Chrome | Added: 2026-07-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://chromewebstore.google.com/detail/ofkcbakkpjefjndcmbkokadbmmaimnlp\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fb3ad8d1-1950-5417-ad8c-f45ecf2a798c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ofkcbakkpjefjndcmbkokadbmmaimnlp",
+        "comment": "Chrome Web Store entry for UltraWide Streaming: custom fullscreen ratios [QVI] (ofkcbakkpjefjndcmbkokadbmmaimnlp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "83ea2e9e-5acb-5343-8d63-6b89dd382734",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "epkcfhiniijndongcpclcfogmbpphfga",
+        "comment": "StreamTube Proxy | Source: https://chromewebstore.google.com/detail/epkcfhiniijndongcpclcfogmbpphfga | Store: Chrome | Added: 2026-07-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://chromewebstore.google.com/detail/epkcfhiniijndongcpclcfogmbpphfga\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4be4fa99-a3fd-5e7c-82f5-eb672d52fdb2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/epkcfhiniijndongcpclcfogmbpphfga",
+        "comment": "Chrome Web Store entry for StreamTube Proxy (epkcfhiniijndongcpclcfogmbpphfga)",
+        "distribution": "5"
+      },
       {
         "uuid": "e08048eb-f4a5-56c6-9018-05b0c4f0b495",
         "type": "text",
