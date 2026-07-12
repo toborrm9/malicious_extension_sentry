@@ -1,12 +1,22 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hdlllnepcpmgdjeabkenjpcdcbgdfljc | Bamboo Zen | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
+| gnpmcdiaangaankpdbknffkajgfbdelg | Electric Amber | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
+| chamaofhjbaliooojnpbgebekimjoagk | Wildfire Orange | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
+| bakmhfkekmpmdmdlncodfoiananahoeo | Roblox Friend Remove Tool | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
+| liloldbajekkmfjgcbjlncfffejdeecf | Twilight Plum | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
+| kknogmdgneomcbjjjnobfaonolnbkjah | Notepod | Policy Violation | Store Monitoring | 12/07/26 | No | Google Chrome
+| cmmmdabkpngbahdopboaojncapjkifhp | Wasabi Green | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
+| hjgdmliehodedbledmnehhhgnanbfhjo | Amethyst Cave | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
+| ofkcbakkpjefjndcmbkokadbmmaimnlp | UltraWide Streaming: custom fullscreen ratios [QVI] | Malware | [chromewebstore.google.com](https://chromewebstore.google.com/detail/ofkcbakkpjefjndcmbkokadbmmaimnlp) | 12/07/26 | No | Chrome
+| epkcfhiniijndongcpclcfogmbpphfga | StreamTube Proxy | Malware | [chromewebstore.google.com](https://chromewebstore.google.com/detail/epkcfhiniijndongcpclcfogmbpphfga) | 12/07/26 | No | Chrome
 | enhfmmfephlakjfjopifieecblkfjbie | Chrome Ad Blocker | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
 | emobaagnonckbkekpalcnfmajlghmegh | Effess Services Free Bulk Message Sender | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
 | mihbpkopbloapjgpcpfkblilhlcapbfj | Onetab Vault For Browser | Policy Violation | Store Monitoring | 11/07/26 | No | Google Chrome
-| olafhgbhkkgkbbonieapkchffalihpic | Video Downloader Global - videos & streams | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
+| olafhgbhkkgkbbonieapkchffalihpic | Video Downloader Global - videos & streams | Bundling Unwanted Software | Store Monitoring | 11/07/26 | Yes | Google Chrome
 | eofhgebdhkfdakbjpoiodpgmhbckdafb | Plasma Blue | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
 | nedihlajgfaiddaiccpjabchmfbfpdca | Moto X3M Original | Policy Violation | Store Monitoring | 11/07/26 | No | Google Chrome
-| gbepdhiinglhceigbfodbklagmgofmco | Threads Downloader Mass Download for Threads | Malware | Store Monitoring | 11/07/26 | No | Google Chrome
+| gbepdhiinglhceigbfodbklagmgofmco | Threads Downloader Mass Download for Threads | Malware | Store Monitoring | 11/07/26 | Yes | Google Chrome
 | amfloicdelgojpejbbkdkaigkbiljnnp | Aurora Violet | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
 | lffmjhdmbkcfpihfmbocjkjfipiobimf | Convert Heic To Jpg | Policy Violation | Store Monitoring | 11/07/26 | No | Google Chrome
 | pkgnakbhlladihkaedolkimbjmnefkcg | JS JustDial Easy Web Instant Data Scraper and Extractor | Bundling Unwanted Software | Store Monitoring | 11/07/26 | No | Google Chrome
@@ -839,7 +849,7 @@
 | napnmdhmhlfpopiapoogcbpbeekfepnk | Tether Land Usdttoman Rat | Policy Violation | Store Monitoring | 09/06/26 | No | Google Chrome
 | pnjifegilbcoeffpbfickagedipiepcc | Usdt Local Currency Conve | Policy Violation | Store Monitoring | 09/06/26 | No | Google Chrome
 | olceochjkfofojkjjbgmjlbhcclgfegi | Metric Flow Website Traff | Bundling Unwanted Software | Store Monitoring | 09/06/26 | No | Google Chrome
-| kkaneedgomgliclbnamedjoknagffnfe | Veilovpn — Private Tunnel | Malware | Store Monitoring | 08/06/26 | No | Google Chrome
+| kkaneedgomgliclbnamedjoknagffnfe | Veilovpn — Private Tunnel | Malware | Store Monitoring | 08/06/26 | Yes | Google Chrome
 | ffommlgcgjohpmopabpiinkkdidhohec | Padre Enhancer | Malware | Store Monitoring | 08/06/26 | No | Google Chrome
 | amdebhmimbbigkdagackjdnmjnogdhic | Caveiracards | Policy Violation | Store Monitoring | 08/06/26 | No | Google Chrome
 | apilbemmclgnmkedclgpolikeofmlicn | лингворус — проверка на а | Policy Violation | Store Monitoring | 08/06/26 | No | Google Chrome
@@ -1302,7 +1312,7 @@
 | ggijepplmdjopbidkeoeheohojgiclma | Solana Monitor | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt) | 17/05/26 | No | 
 | gkcamdgljboohmjlfmogjnbckhcbpdhi | L‮regde‬ L‮evi‬ | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt) | 17/05/26 | No | 
 | cdiohdbijdajffgccjmbblbikpnnnkeg | ZAP Wallet | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt) | 17/05/26 | No | 
-| pfgpfmdiepmhhhkpnciogjhccppbcfhk | OmniFlow Sidebar | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt) | 17/05/26 | No | 
+| pfgpfmdiepmhhhkpnciogjhccppbcfhk | OmniFlow Sidebar | Potentially Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt) | 17/05/26 | No | 
 | koecfhecfkmjkjplbmbclgacdclnnpei | Token Rewards Claim | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt) | 17/05/26 | No | 
 | mmjhombiehngfpipefodkebphfnblphe | mmjhombiehngfpipefodkebphfnblphe | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No | 
 | mkoegjeakpnbjklhimnimkgokbifeaoh | ExtraSound - The Ultimate Volume Booster | Malware | [7ai.com](https://7ai.com/crxfiltrate) | 16/05/26 | No | 
@@ -1779,7 +1789,7 @@
 | maeccdadgnadblfddcmanhpofobhgfme | Lone Star Jackpots Slot M | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No | Google Chrome
 | dohenclhhdfljpjlnpjnephpccbdgmmb | Straight 4 | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No | Google Chrome
 | ljbgkfbiifhpgpipepnfefijldolkhlm | Game Crypto Merge | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No | Google Chrome
-| heljkmdknlfhiecpknceodpbokeipigo | Web Client For Hockey Sho | Potentially Unwanted | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No | Google Chrome
+| heljkmdknlfhiecpknceodpbokeipigo | Web Client For Hockey Sho | Potentially Unwanted Software | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No | Google Chrome
 | imjmnghlhiimodfkdkgnfplhlobehnpm | ﻿﻿Blackjack 3D | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No | Google Chrome
 | hdmppejcahhppjhkncagagopecddokpi | Voodoo Magic Slot Machine | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | Yes | Google Chrome
 | ogbaedmbbmmipljceodeimlckohbnfan | 3D Roulette Casino Game | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 14/04/26 | No | Google Chrome
@@ -2381,9 +2391,9 @@
 | eebdacbalehoojfbinomkiobfepmdkhi | Downloader for Instagram - ToolMaster | Malware | Store Monitoring | 05/02/26 | Yes | Google Chrome
 | bamfpcdkpoafmifcjlcdoehajoiabbbj | Simplify. Downloader for Instagram | Malware | Store Monitoring | 05/02/26 | Yes | Google Chrome
 | gikcjnmpegacammmaigabkhiifjdacec | Advanced DM Client for Insta | Malware | Store Monitoring | 05/02/26 | Yes | Google Chrome
-| aadnmeanpbokjjahcnikajejglihibpd | Infinity New Tab | Reason Unknown | Store Monitoring | 05/02/26 | No | Microsoft Edge
-| hajlmbnnniemimmaehcefkamdadpjlfa | Infinity New Tab (Pro) | Reason Unknown | Store Monitoring | 05/02/26 | No | Microsoft Edge
-| bpelnogcookhocnaokfpoeinibimbeff | WeTab 新标签页 | Reason Unknown | Store Monitoring | 05/02/26 | No | Microsoft Edge
+| aadnmeanpbokjjahcnikajejglihibpd | Infinity New Tab | Removal reason Unknown | Store Monitoring | 05/02/26 | No | Microsoft Edge
+| hajlmbnnniemimmaehcefkamdadpjlfa | Infinity New Tab (Pro) | Removal reason Unknown | Store Monitoring | 05/02/26 | No | Microsoft Edge
+| bpelnogcookhocnaokfpoeinibimbeff | WeTab 新标签页 | Removal reason Unknown | Store Monitoring | 05/02/26 | No | Microsoft Edge
 | pdnhdddkoccchmbockecbohnakddkjip | StatisticsWeb - Website Traffic & SEO Checker | Malware | Store Monitoring | 04/02/26 | No | Google Chrome
 | npbpfkbnfpblnahogmnjiffoimllllek | OKX One-Click Trade | Malware | Store Monitoring | 04/02/26 | No | Google Chrome
 | calfkdkldagckidpojjehljcfglhfila | DeepSeek AI \| Free AI Assistant | Malware | Store Monitoring | 04/02/26 | No | Google Chrome
@@ -2627,8 +2637,8 @@
 | akialmafcdmkelghnomeneinkcllnoih | Taylor Swift Wallpaper HD HomePage | Malware | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) | 01/12/25 | No | Microsoft Edge
 | ahebpkbnckhgjmndfjejibjjahjdlhdb | Games Search for Chrome™ | Malware | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) | 01/12/25 | No | Microsoft Edge
 | agdlpnhabjfcbeiempefhpgikapcapjb | New World Wallpaper HD HomePage | Malware | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) | 01/12/25 | No | Microsoft Edge
-| ipnidmjhnoipibbinllilgeohohehabl | Dream Afar New Tab | Reason Unknown | Store Monitoring | 01/12/25 | No | Microsoft Edge
-| enkihkfondbngohnmlefmobdgkpmejha | Infinity New Tab for Mobile | Reason Unknown | Store Monitoring | 01/12/25 | No | Microsoft Edge
+| ipnidmjhnoipibbinllilgeohohehabl | Dream Afar New Tab | Removal reason Unknown | Store Monitoring | 01/12/25 | No | Microsoft Edge
+| enkihkfondbngohnmlefmobdgkpmejha | Infinity New Tab for Mobile | Removal reason Unknown | Store Monitoring | 01/12/25 | No | Microsoft Edge
 | gpdfpljioapjogbnlpmganakfjcemifk | Quick Translate | Adware | Store Monitoring | 01/12/25 | No | Google Chrome
 | iaemdpdnmdkaphnmcogmcgcmhhafcifd | Crypto Copilot | Malware | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-injects-hidden-sol-fees-into-solana-swaps) | 25/11/25 | No | Google Chrome
 | hbaamilhgknggfanbiceijijemigbbah | Xaman — XRPL Manager | Malware | Store Monitoring | 20/11/25 | No | Google Chrome
@@ -2653,64 +2663,64 @@
 | cmjnkgaaeahkhgefpggmogipaljelajk | GMGN AI | Malware | Store Monitoring | 14/10/25 | No | Google Chrome
 | gjmaklcpjjoobahngamchjbimnofiigm | CWALLET Network - Dashboard | Malware | Store Monitoring | 09/10/25 | No | Google Chrome
 | lefndgfmmbdklidbkeifpgclmpnhcilg | Wild Buffalo - Slot Machine | Malware | Store Monitoring | 29/08/25 | No | 
-| fjioinpkgmlcioajfnncgldldcnabffe | The Witcher3 Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| bdhjinjoglaijpffoamhhnhooeimgoap | One-Punch Man Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| ikgaleggljchgbihlaanjbkekmmgccam | Totoro Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| bppelgkcnhfkicolffhlkbdghdnjdkhi | JoJo's Bizarre Adventure Wallpaper HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| ghhddclfklljabeodmcejjjlhoaaiban | Vocaloid Christmas Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| fppchnhginnfabgenhihpncnphhafmac | Spider-Man Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| hbghbdhfibifdgnbpaogepnkekonkdgc | Watch Dogs2 Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| dfakjobhimnibdmkbgpkijoihplhcnil | Lana Del Rey Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| gpolcigkhldaighngmmmcjldkkiaonbg | Autumn Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| dmpceopfiajfdnoiebfankfoabfehdpn | Attack On Titan 8K Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| elckfehnjdbghpoheamjffpdbbogjhie | Lies Of P Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| ekndlocgcngbpebppapnpalpjfnkoffh | Armored Core VI Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| acogeoajdpgplfhidldckbjkkpgeebod | Iron Man Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| klgjbnheihgnmimajhohfcldhfpjnahe | Gal Gadot Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| klggeioacnkkpdcnapgcoicnblliidmf | Mass Effect Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| ncapkionddmdmfocnjfcfpnimepibggf | Alan Wake 2 Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| gbcjipmcpedgndgdnfofbhgnkmghoamm | Jesse Eisenberg Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| pkjfghocapckmendmgdmppjccbplccbg | Amber Heard Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| glfddenhiaacfmhoiebfeljnfkkkmbjb | Messi World Cup Trophy Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| papedehkgfhnagdiempdbhlgcnioofnd | Ahri LOL Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| nemkiffjklgaooligallbpmhdmmhepll | Fiora LOL Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| llilhpmmhicmiaoancaafdgganakopfg | Guardians Of The Galaxy 3 HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| omkjakddaeljdfgekdjebbbiboljnalk | Kendrick Lamar Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| igiakpjhacibmaichhgbagdkjmjbnanl | The Batman 2022 Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| fodcokjckpkfpegbekkiallamhedahjd | Star Wars Jedi Survivor Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| googojfbnbhbbnpfpdnffnklipgifngn | New Year 2024 Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| chmcepembfffejphepoongapnlchjgil | Aquaman And The Lost Kingdom HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| fjigdpmfeomndepihcinokhcphdojepm | Christian Bale Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| cgehahdmoijenmnhinajnojmmlnipckl | Game Of Thrones 4k Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| dhjmmcjnajkpnbnbpagglbbfpbacoffm | Imogen Poots Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| hjfmkkelabjoojjmjljidocklbibphgl | Delicious in Dungeon Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| iedkeilnpbkeecjpmkelnglnjpnacnlh | Demon Slayer Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| hadkldcldaanpomhhllacdmglkoepaed | Shadow of The Erdtree Messmer HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| fpokgjmlcemklhmilomcljolhnbaaajk | The Last Airbender Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| fkbcbgffcclobgbombinljckbelhnpif | Radagon Elden Ring Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| afooldonhjnhddgnfahlepchipjennab | Roronoa Zoro Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| cgjgmbppcoolfkbkjhoogdpkboohhgel | Sanji One Piece Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| jhgfinhjcamijjoikplacnfknpchndgb | Ducati V4s Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| idjhfmgaddmdojcfmhcjnnbhnhbmhipd | Devil May Cry 5 Nero Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| ibfpbjfnpcgmiggfildbcngccoomddmj | Bad Bunny Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| boiciofdokedkpmopjnghpkgdakmcpmb | Devil May Cry Dante Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| hfeialplaojonefabmojhobdmghnjkmf | Melina Elden Ring Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| ghaggkcfafofhcfppignflhlocmcfimd | Granblue Fantasy：Relink Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| bmlifknbfonkgphkpmkeoahgbhbdhebh | Ducati Monster Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| cbkogccidanmoaicgphipbdofakomlak | Taylor Swift Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| domfmjgbmkckapepjahpedlpdedmckbj | Genesis G90 Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| nnceocbiolncfljcmajijmeakcdlffnh | OneTab Plus:Tab Manage & Productivity | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| fcidgbgogbfdcgijkcfdjcagmhcelpbc | Al Pacino Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| oghgaghnofhhoolfneepjneedejcpiic | Sadie Sink Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| gkanlgbbnncfafkhlchnadcopcgjkfli | God of War 5 Valhalla Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| hegpgapbnfiibpbkanjemgmdpmmlecbc | Batman Arkham Origins Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| kgmlodoegkmpfkbepkfhgeldidodgohd | Galaxy Theme Wallpaper HD 4k HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| fmgfcpjmmapcjlknncjgmbolgaecngfo | Spider-Man Fan Art Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| dbagndmcddecodlmnlcmhheicgkaglpk | Kobe Bryant Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| onifebiiejdjncjpjnojlebibonmnhog | Ironheart Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| ljmcneongnlaecabgneiippeacdoimaa | Ezreal LOL Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| nokknhlkpdfppefncfkdebhgfpfilieo | Genesis G70 Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
-| fhababnomjcnhmobbemagohkldaeicad | Eva Green Wallpaper HD HomePage | Reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| fjioinpkgmlcioajfnncgldldcnabffe | The Witcher3 Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| bdhjinjoglaijpffoamhhnhooeimgoap | One-Punch Man Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| ikgaleggljchgbihlaanjbkekmmgccam | Totoro Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| bppelgkcnhfkicolffhlkbdghdnjdkhi | JoJo's Bizarre Adventure Wallpaper HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| ghhddclfklljabeodmcejjjlhoaaiban | Vocaloid Christmas Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| fppchnhginnfabgenhihpncnphhafmac | Spider-Man Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| hbghbdhfibifdgnbpaogepnkekonkdgc | Watch Dogs2 Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| dfakjobhimnibdmkbgpkijoihplhcnil | Lana Del Rey Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| gpolcigkhldaighngmmmcjldkkiaonbg | Autumn Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| dmpceopfiajfdnoiebfankfoabfehdpn | Attack On Titan 8K Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| elckfehnjdbghpoheamjffpdbbogjhie | Lies Of P Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| ekndlocgcngbpebppapnpalpjfnkoffh | Armored Core VI Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| acogeoajdpgplfhidldckbjkkpgeebod | Iron Man Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| klgjbnheihgnmimajhohfcldhfpjnahe | Gal Gadot Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| klggeioacnkkpdcnapgcoicnblliidmf | Mass Effect Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| ncapkionddmdmfocnjfcfpnimepibggf | Alan Wake 2 Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| gbcjipmcpedgndgdnfofbhgnkmghoamm | Jesse Eisenberg Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| pkjfghocapckmendmgdmppjccbplccbg | Amber Heard Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| glfddenhiaacfmhoiebfeljnfkkkmbjb | Messi World Cup Trophy Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| papedehkgfhnagdiempdbhlgcnioofnd | Ahri LOL Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| nemkiffjklgaooligallbpmhdmmhepll | Fiora LOL Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| llilhpmmhicmiaoancaafdgganakopfg | Guardians Of The Galaxy 3 HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| omkjakddaeljdfgekdjebbbiboljnalk | Kendrick Lamar Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| igiakpjhacibmaichhgbagdkjmjbnanl | The Batman 2022 Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| fodcokjckpkfpegbekkiallamhedahjd | Star Wars Jedi Survivor Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| googojfbnbhbbnpfpdnffnklipgifngn | New Year 2024 Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| chmcepembfffejphepoongapnlchjgil | Aquaman And The Lost Kingdom HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| fjigdpmfeomndepihcinokhcphdojepm | Christian Bale Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| cgehahdmoijenmnhinajnojmmlnipckl | Game Of Thrones 4k Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| dhjmmcjnajkpnbnbpagglbbfpbacoffm | Imogen Poots Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| hjfmkkelabjoojjmjljidocklbibphgl | Delicious in Dungeon Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| iedkeilnpbkeecjpmkelnglnjpnacnlh | Demon Slayer Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| hadkldcldaanpomhhllacdmglkoepaed | Shadow of The Erdtree Messmer HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| fpokgjmlcemklhmilomcljolhnbaaajk | The Last Airbender Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| fkbcbgffcclobgbombinljckbelhnpif | Radagon Elden Ring Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| afooldonhjnhddgnfahlepchipjennab | Roronoa Zoro Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| cgjgmbppcoolfkbkjhoogdpkboohhgel | Sanji One Piece Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| jhgfinhjcamijjoikplacnfknpchndgb | Ducati V4s Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| idjhfmgaddmdojcfmhcjnnbhnhbmhipd | Devil May Cry 5 Nero Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| ibfpbjfnpcgmiggfildbcngccoomddmj | Bad Bunny Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| boiciofdokedkpmopjnghpkgdakmcpmb | Devil May Cry Dante Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| hfeialplaojonefabmojhobdmghnjkmf | Melina Elden Ring Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| ghaggkcfafofhcfppignflhlocmcfimd | Granblue Fantasy：Relink Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| bmlifknbfonkgphkpmkeoahgbhbdhebh | Ducati Monster Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| cbkogccidanmoaicgphipbdofakomlak | Taylor Swift Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| domfmjgbmkckapepjahpedlpdedmckbj | Genesis G90 Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| nnceocbiolncfljcmajijmeakcdlffnh | OneTab Plus:Tab Manage & Productivity | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| fcidgbgogbfdcgijkcfdjcagmhcelpbc | Al Pacino Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| oghgaghnofhhoolfneepjneedejcpiic | Sadie Sink Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| gkanlgbbnncfafkhlchnadcopcgjkfli | God of War 5 Valhalla Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| hegpgapbnfiibpbkanjemgmdpmmlecbc | Batman Arkham Origins Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| kgmlodoegkmpfkbepkfhgeldidodgohd | Galaxy Theme Wallpaper HD 4k HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| fmgfcpjmmapcjlknncjgmbolgaecngfo | Spider-Man Fan Art Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| dbagndmcddecodlmnlcmhheicgkaglpk | Kobe Bryant Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| onifebiiejdjncjpjnojlebibonmnhog | Ironheart Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| ljmcneongnlaecabgneiippeacdoimaa | Ezreal LOL Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| nokknhlkpdfppefncfkdebhgfpfilieo | Genesis G70 Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
+| fhababnomjcnhmobbemagohkldaeicad | Eva Green Wallpaper HD HomePage | Removal reason Unknown | Store Monitoring | 26/08/25 | No | Microsoft Edge
 | pjfjconkopcckeanlhklghfogkdhnegk | Pusheen Cursor | In store but Suspicious | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No | 
 | pgbhmanighehdihhgcfodcecphdakkgn | Naruto Cursor | In store but Suspicious | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No | 
 | oiogpbnonmepejhhmhgnmmpofkknomcf | Spy x Family Cursor | Adware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No | Google Chrome
@@ -2787,7 +2797,7 @@
 | dgfaekieonkobpaklglncjmjibbbpnod | Anime Cursor ★ Custom Cursor for Chrome™ | In store but Suspicious | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No | 
 | eoalbaojjblgndkffciljmiddhgjdldh | madgicx-plus-the-superapp | Removal reason Unknown | [www.cybereason.com](https://www.cybereason.com/blog/chrome-extension-campaign-madgicx) | 19/08/25 | No | Google Chrome
 | fahgecbhaoedbchcmhakmjbfbfhgjmbl | WhatsApp Message Summary | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2025-08-11-AI-summary-browser-extensions.txt) | 11/08/25 | No | 
-| fnnigcfbmghcefaboigkhfimeolhhbcp | Download Manager Pro | Reason Unknown | Store Monitoring | 08/08/25 | No | Microsoft Edge
+| fnnigcfbmghcefaboigkhfimeolhhbcp | Download Manager Pro | Removal reason Unknown | Store Monitoring | 08/08/25 | No | Microsoft Edge
 | cbajickflblmpjodnjoldpiicfmecmif | Unblock TikTok — Seamless Access with One-Click Proxy | Malware | [www.malwarebytes.com](https://www.malwarebytes.com/blog/news/2025/07/millions-of-people-spied-on-by-malicious-browser-extensions-in-chrome-and-edge) | 29/07/25 | Yes | Google Chrome
 | acbiaofoeebeinacmcknopaikmecdehl | Wistia Video Downloader | Malware | [www.malwarebytes.com](https://www.malwarebytes.com/blog/news/2025/07/millions-of-people-spied-on-by-malicious-browser-extensions-in-chrome-and-edge) | 09/07/25 | Yes | Google Chrome
 | caibdnkmpnjhjdfnomfhijhmebigcelo | Unlock Discord | Malware | [www.malwarebytes.com](https://www.malwarebytes.com/blog/news/2025/07/millions-of-people-spied-on-by-malicious-browser-extensions-in-chrome-and-edge) | 09/07/25 | No | Microsoft Edge
@@ -2981,7 +2991,7 @@
 | cplhlgabfijoiabgkigdafklbhhdkahj | Vidnoz Flex - Video recorder &amp; Video share | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
 | jiofmdifioeejeilfkpegipdjiopiekl | YesCaptcha assistant | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
 | hihblcmlaaademjlakdpicchbjnnnkbo | Proxy SwitchyOmega (V3) | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
-| nlcebdoehkdiojeahkofcfnolkleembf | Clean Master: the best Edge Cache Cleaner | Reason Unknown | Store Monitoring | 17/11/24 | No | Microsoft Edge
+| nlcebdoehkdiojeahkofcfnolkleembf | Clean Master: the best Edge Cache Cleaner | Removal reason Unknown | Store Monitoring | 17/11/24 | No | Microsoft Edge
 | mljmfnkjmcdmongjnnnbbnajjdbojoci | chrome | Malware | Store Monitoring | 09/11/23 | No | 
 | gcnceeflimggoamelclcbhcdggcmnglm | Light picture-in-picture | Malware | [palant.info](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/) | 31/05/23 | Yes | Google Chrome
 | hinhmojdkodmficpockledafoeodokmc | HyperVolume | Removal reason Unknown | [palant.info](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/) | 31/05/23 | Yes | Google Chrome
