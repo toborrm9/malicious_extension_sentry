@@ -1,9 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| obigikiglmgdccmmkafcaaefgeclibgp | Apricot Dawn | Bundling Unwanted Software | Store Monitoring | 13/07/26 | No | Google Chrome
+| nloknaoaikfjljicidohiiahlolnkgkn | Cherry Blossom | Bundling Unwanted Software | Store Monitoring | 13/07/26 | No | Google Chrome
+| ihadhefbjffhmjeoemipkjddbdbcglff | Terracotta Sun | Bundling Unwanted Software | Store Monitoring | 13/07/26 | No | Google Chrome
+| dhefcdcdcdgaipemnejgephmeicliokh | Frosted Berry | Bundling Unwanted Software | Store Monitoring | 13/07/26 | No | Google Chrome
 | hdlllnepcpmgdjeabkenjpcdcbgdfljc | Bamboo Zen | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
 | gnpmcdiaangaankpdbknffkajgfbdelg | Electric Amber | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
 | chamaofhjbaliooojnpbgebekimjoagk | Wildfire Orange | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
-| bakmhfkekmpmdmdlncodfoiananahoeo | Roblox Friend Remove Tool | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
+| bakmhfkekmpmdmdlncodfoiananahoeo | Roblox Friend Remove Tool | Bundling Unwanted Software | Store Monitoring | 12/07/26 | Yes | Google Chrome
 | liloldbajekkmfjgcbjlncfffejdeecf | Twilight Plum | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
 | kknogmdgneomcbjjjnobfaonolnbkjah | Notepod | Policy Violation | Store Monitoring | 12/07/26 | No | Google Chrome
 | cmmmdabkpngbahdopboaojncapjkifhp | Wasabi Green | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
