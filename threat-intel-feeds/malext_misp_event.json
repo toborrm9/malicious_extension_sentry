@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-12",
-    "timestamp": "1783843027",
+    "date": "2026-07-13",
+    "timestamp": "1783950871",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,122 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "b05920c6-0742-554a-930e-d4a4f8b485fb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "obigikiglmgdccmmkafcaaefgeclibgp",
+        "comment": "Apricot Dawn | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "163ecf68-48d9-5002-b27a-4959f357359d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/obigikiglmgdccmmkafcaaefgeclibgp",
+        "comment": "Microsoft Edge entry for Apricot Dawn (obigikiglmgdccmmkafcaaefgeclibgp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "14bfbe56-eb3e-5db5-80e9-4f34038e9394",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nloknaoaikfjljicidohiiahlolnkgkn",
+        "comment": "Cherry Blossom | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cc4bc13f-0017-51f3-8af5-5cb37423aa76",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/nloknaoaikfjljicidohiiahlolnkgkn",
+        "comment": "Microsoft Edge entry for Cherry Blossom (nloknaoaikfjljicidohiiahlolnkgkn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "144faa2d-79dd-5027-a392-8f8d65c78056",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ihadhefbjffhmjeoemipkjddbdbcglff",
+        "comment": "Terracotta Sun | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6853d2b6-abf9-5cf4-bd5a-111fe0860a5f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ihadhefbjffhmjeoemipkjddbdbcglff",
+        "comment": "Microsoft Edge entry for Terracotta Sun (ihadhefbjffhmjeoemipkjddbdbcglff)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ea6d6f6f-b160-5d2c-aa0c-f5f64e625744",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dhefcdcdcdgaipemnejgephmeicliokh",
+        "comment": "Frosted Berry | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2461f103-49f1-5618-b397-28154683a67c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dhefcdcdcdgaipemnejgephmeicliokh",
+        "comment": "Microsoft Edge entry for Frosted Berry (dhefcdcdcdgaipemnejgephmeicliokh)",
+        "distribution": "5"
+      },
       {
         "uuid": "3017e8b6-c728-5727-bc4d-f5f30a4bf5d1",
         "type": "text",
