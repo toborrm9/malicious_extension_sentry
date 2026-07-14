@@ -1,5 +1,9 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| bcakbghjjgmalehecdjpbjmgdpdbdoof | Trust Portfolio Dashboard | Malware | Store Monitoring | 14/07/26 | No | Google Chrome
+| kocecmengdlfhjdajfacfcommccfbolg | PokéMon Fire Red | Policy Violation | Store Monitoring | 14/07/26 | No | Google Chrome
+| inophbikolocpigmkhllfkdkiccjpggh | окх WаLlеT Dashboard | Malware | Store Monitoring | 14/07/26 | No | Google Chrome
+| bbaolimhkbelaamkmcofanjlcobeenlk | Adspector | Malware | Store Monitoring | 14/07/26 | No | Google Chrome
 | imicnaojoabefckkfhailgkllodbnjjf | Perplexity Chat Exporter: Export to PDF, Markdown, JSON | Policy Violation | [malext.io](https://malext.io/reports/ExporTheft/) | 14/07/26 | No | Chrome
 | nghpoklfiggkdemkmgllkaaiemggmdao | Microsoft Copilot to PDF: Export Microsoft Copilot Chats to PDF, Markdown, | Policy Violation | [malext.io](https://malext.io/reports/ExporTheft/) | 14/07/26 | No | Chrome
 | ejhhhokbkmlibaeoepkohaflgaohpmeg | GitHub Copilot to PDF: Export GitHub Copilot Chats to PDF, Markdown, JSON | Policy Violation | [malext.io](https://malext.io/reports/ExporTheft/) | 14/07/26 | No | Chrome
