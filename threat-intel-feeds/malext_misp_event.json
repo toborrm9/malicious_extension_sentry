@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-13",
-    "timestamp": "1783983950",
+    "date": "2026-07-14",
+    "timestamp": "1784029714",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,122 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "a43613c4-b158-5659-b52f-02435f559aa3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bcakbghjjgmalehecdjpbjmgdpdbdoof",
+        "comment": "Trust Portfolio Dashboard | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bcd5c1a8-2191-5e92-a6c8-0c464852eb52",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bcakbghjjgmalehecdjpbjmgdpdbdoof",
+        "comment": "Microsoft Edge entry for Trust Portfolio Dashboard (bcakbghjjgmalehecdjpbjmgdpdbdoof)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2d947ddf-8421-5336-9b89-80b6a4d1be45",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kocecmengdlfhjdajfacfcommccfbolg",
+        "comment": "Pok\u00e9Mon Fire Red | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e1b4c96a-0566-5e68-9fd5-d2370fe9971c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/kocecmengdlfhjdajfacfcommccfbolg",
+        "comment": "Microsoft Edge entry for Pok\u00e9Mon Fire Red (kocecmengdlfhjdajfacfcommccfbolg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6e1c3389-8053-5f3a-98de-bf8876b00ae6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "inophbikolocpigmkhllfkdkiccjpggh",
+        "comment": "\u043e\u043a\u0445 W\u0430Ll\u0435T Dashboard | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e154bfda-915b-5554-a50d-682837d19ac4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/inophbikolocpigmkhllfkdkiccjpggh",
+        "comment": "Microsoft Edge entry for \u043e\u043a\u0445 W\u0430Ll\u0435T Dashboard (inophbikolocpigmkhllfkdkiccjpggh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d651b6e8-dea8-5367-9184-6ceeba12d9fc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bbaolimhkbelaamkmcofanjlcobeenlk",
+        "comment": "Adspector | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fdfd3016-a25d-5965-b913-d20d4aa2a4ce",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bbaolimhkbelaamkmcofanjlcobeenlk",
+        "comment": "Microsoft Edge entry for Adspector (bbaolimhkbelaamkmcofanjlcobeenlk)",
+        "distribution": "5"
+      },
       {
         "uuid": "2c4462b7-9666-5b2f-a5d2-d8a145dd906a",
         "type": "text",
