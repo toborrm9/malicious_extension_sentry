@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-14",
-    "timestamp": "1784063337",
+    "date": "2026-07-15",
+    "timestamp": "1784109150",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,238 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "c4153ff3-d302-578e-8d49-4d23958180f8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ohdjgldpadbhfcjcnfnhfkahhlcgiabd",
+        "comment": "Tetrys V3 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "77577f31-adf8-5fac-b5de-e1416607a516",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ohdjgldpadbhfcjcnfnhfkahhlcgiabd",
+        "comment": "Microsoft Edge entry for Tetrys V3 (ohdjgldpadbhfcjcnfnhfkahhlcgiabd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c1d3fef5-f0db-5f0c-901c-ec16c633995d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "diehbglpgicpogjinfcfpmjfdleifohl",
+        "comment": "Retro Games Offline | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0c7b72f7-5fbb-5ac8-a1b2-f97f797efad8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/diehbglpgicpogjinfcfpmjfdleifohl",
+        "comment": "Microsoft Edge entry for Retro Games Offline (diehbglpgicpogjinfcfpmjfdleifohl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7b9476ed-3193-51be-8829-693b6cad9f06",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ooklbphnohkomhgecdmjapldgddcjeha",
+        "comment": "Penumbra Smart Theme Control | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "88dd91ff-0488-5a6d-be34-36ea18f01886",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ooklbphnohkomhgecdmjapldgddcjeha",
+        "comment": "Microsoft Edge entry for Penumbra Smart Theme Control (ooklbphnohkomhgecdmjapldgddcjeha)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "37e6959a-85be-527e-8970-027fb534c221",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "agdjmncghlhgkfahelckfinnhkpidebp",
+        "comment": "Friends Remover | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "083908e0-3b05-53cb-9909-b1940ea7582e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/agdjmncghlhgkfahelckfinnhkpidebp",
+        "comment": "Microsoft Edge entry for Friends Remover (agdjmncghlhgkfahelckfinnhkpidebp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "78f77ad1-f153-5877-8058-ca952143e37c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "johaeccdmmahamkeianhonpjjmpjkdjd",
+        "comment": "Rochatter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2a0dbc04-7a0b-5543-8a5d-c97242e224db",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/johaeccdmmahamkeianhonpjjmpjkdjd",
+        "comment": "Microsoft Edge entry for Rochatter (johaeccdmmahamkeianhonpjjmpjkdjd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b6daf835-f628-5c84-8fc6-00ec2fef47ac",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lofnjlciokhgalebinnlfhkicepmmceh",
+        "comment": "Bbviewer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "79de5b4b-ef26-544a-92b7-bda78d64ba43",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/lofnjlciokhgalebinnlfhkicepmmceh",
+        "comment": "Microsoft Edge entry for Bbviewer (lofnjlciokhgalebinnlfhkicepmmceh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "69aa9170-d5db-5a0b-9439-ef7efec13127",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "acmdbomkcpamfjlnbefdomoldfdibekp",
+        "comment": "Tele On Gpm Login | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f2613411-9d5e-5831-ac88-009d9ebe947a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/acmdbomkcpamfjlnbefdomoldfdibekp",
+        "comment": "Microsoft Edge entry for Tele On Gpm Login (acmdbomkcpamfjlnbefdomoldfdibekp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dcd95e25-f51a-581b-9da4-9fe0c172acea",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bmpbfbcglbjjahcehhpgobbekbpffpdo",
+        "comment": "MetaVaul - MetaMask Ai Trading sync | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ba5a6e3c-9617-5afa-a334-29924f61f6d5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bmpbfbcglbjjahcehhpgobbekbpffpdo",
+        "comment": "Microsoft Edge entry for MetaVaul - MetaMask Ai Trading sync (bmpbfbcglbjjahcehhpgobbekbpffpdo)",
+        "distribution": "5"
+      },
       {
         "uuid": "03af7778-7f48-5ddd-8b01-03794ac9b3e6",
         "type": "text",
@@ -7104,6 +7336,35 @@
         "distribution": "5"
       },
       {
+        "uuid": "b6eb1306-d1a2-5532-9373-499361e3c516",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ilkdaiednajbdbjfpcjcpecjmincmkkl",
+        "comment": "HTML to Elementor \u2013 Web Page Converter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8404c3f3-577b-57b5-bfec-43d62419f464",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ilkdaiednajbdbjfpcjcpecjmincmkkl",
+        "comment": "Microsoft Edge entry for HTML to Elementor \u2013 Web Page Converter (ilkdaiednajbdbjfpcjcpecjmincmkkl)",
+        "distribution": "5"
+      },
+      {
         "uuid": "6b5a7033-8d61-50f2-9449-52abb002cc1a",
         "type": "text",
         "category": "Other",
@@ -13655,6 +13916,35 @@
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/mgmmoiaocohooanmjmngocnojbphagoi",
         "comment": "Microsoft Edge entry for LinkedIn Cookie Sync for Headhunting Agent (mgmmoiaocohooanmjmngocnojbphagoi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d5a1dd3d-a3d0-52de-8c61-c0f5e7a74482",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ejeplagdihemfbicfnacipdlhlmfikda",
+        "comment": "Btc Metamask App | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9f8622ec-d4f6-5dce-b483-1fd4153429aa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ejeplagdihemfbicfnacipdlhlmfikda",
+        "comment": "Microsoft Edge entry for Btc Metamask App (ejeplagdihemfbicfnacipdlhlmfikda)",
         "distribution": "5"
       },
       {
