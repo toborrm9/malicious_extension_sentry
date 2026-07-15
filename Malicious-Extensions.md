@@ -1,5 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ohdjgldpadbhfcjcnfnhfkahhlcgiabd | Tetrys V3 | Policy Violation | Store Monitoring | 15/07/26 | No | Google Chrome
+| diehbglpgicpogjinfcfpmjfdleifohl | Retro Games Offline | Policy Violation | Store Monitoring | 15/07/26 | No | Google Chrome
+| ooklbphnohkomhgecdmjapldgddcjeha | Penumbra Smart Theme Control | Malware | Store Monitoring | 15/07/26 | No | Google Chrome
+| agdjmncghlhgkfahelckfinnhkpidebp | Friends Remover | Bundling Unwanted Software | Store Monitoring | 15/07/26 | No | Google Chrome
+| johaeccdmmahamkeianhonpjjmpjkdjd | Rochatter | Bundling Unwanted Software | Store Monitoring | 15/07/26 | No | Google Chrome
+| lofnjlciokhgalebinnlfhkicepmmceh | Bbviewer | Policy Violation | Store Monitoring | 14/07/26 | No | Google Chrome
+| acmdbomkcpamfjlnbefdomoldfdibekp | Tele On Gpm Login | Malware | Store Monitoring | 14/07/26 | No | Google Chrome
+| bmpbfbcglbjjahcehhpgobbekbpffpdo | MetaVaul - MetaMask Ai Trading sync | Malware | Store Monitoring | 14/07/26 | No | Google Chrome
 | lomndjbnijhfkapokbmimdnailjmfmch | WasuboBlue - Chatbot - Marketing - Conversation Flows | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 14/07/26 | No | Chrome
 | cfpinjobmbfblkbjgflfdhlpgjpgglof | MSLocações WhatsApp Plugin | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 14/07/26 | No | Chrome
 | ppglgkahhghnjifmjhdlhpaeppkpffpi | Sung Jin Woo Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 14/07/26 | No | Chrome
@@ -244,6 +252,7 @@
 | ndnjjjppaaiclfjlnopmnimhhiikkppk | Claude to PDF: Export Claude Chats to PDF, Markdown, JSON | Policy Violation | [malext.io](https://malext.io/reports/ExporTheft/) | 14/07/26 | No | Chrome
 | poboebmiaakclneagfgfmbakpgcgdfii | ChatGPT to PDF: Export ChatGPT Chats to PDF, Markdown, JSON | Policy Violation | [malext.io](https://malext.io/reports/ExporTheft/) | 14/07/26 | No | Chrome
 | dhjbkabkopajddjinfdlooppcajoclag | AI Chat Exporter - ChatGPT, Claude, Gemini & DeepSeek to PDF | Policy Violation | [malext.io](https://malext.io/reports/ExporTheft/) | 14/07/26 | No | Chrome
+| ilkdaiednajbdbjfpcjcpecjmincmkkl | HTML to Elementor – Web Page Converter | Policy Violation | Store Monitoring | 13/07/26 | No | Google Chrome
 | mednmckglhbmgbjpombcjnijkgghnlmo | Minecraft Skeleton Showdown Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/07/26 | No | Chrome
 | jeiijnmjjfnjnddcgheafdjccdmapdaa | Monster Hulk (Marvel Rivals) Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/07/26 | No | Chrome
 | hhcpoaibobnkljcfifemnpbhbclaagci | Jingliu Anime Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/07/26 | No | Chrome
@@ -470,6 +479,7 @@
 | fdeijohdonbnikplckachfblcpbpkacp | Bookmark Atlas | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
 | jaloonibhkknfoofplfeobfageiinncm | Fifa Seat Finder | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
 | mgmmoiaocohooanmjmngocnojbphagoi | LinkedIn Cookie Sync for Headhunting Agent | Policy Violation | Store Monitoring | 08/07/26 | No | Google Chrome
+| ejeplagdihemfbicfnacipdlhlmfikda | Btc Metamask App | Malware | Store Monitoring | 07/07/26 | No | Google Chrome
 | cjkmdmgcomefpihnfkhnohfccikdlpli | Cookie Master | Malware | Store Monitoring | 07/07/26 | No | Google Chrome
 | faedpdgepbjjlmeiiapjflihlbcppdhg | Vector Vault | Policy Violation | Store Monitoring | 07/07/26 | No | Google Chrome
 | fhbljhejmbpjmlghdgkjmnobeejdcloj | Cubforge Linkedin Automatation | Policy Violation | Store Monitoring | 07/07/26 | No | Google Chrome
