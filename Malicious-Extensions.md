@@ -1,5 +1,8 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| lkcoeppkdhkanlbflanjfkhhkdmilcac | Twitch Notes | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
+| dihpglgcjgbocmfckenaideddpkhhlmi | Ablock Ad Blocker | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
+| djecjgpedfbocgafihpbacgbbobeafhc | Chatgpt Google Search | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
 | ohdjgldpadbhfcjcnfnhfkahhlcgiabd | Tetrys V3 | Policy Violation | Store Monitoring | 15/07/26 | No | Google Chrome
 | diehbglpgicpogjinfcfpmjfdleifohl | Retro Games Offline | Policy Violation | Store Monitoring | 15/07/26 | No | Google Chrome
 | ooklbphnohkomhgecdmjapldgddcjeha | Penumbra Smart Theme Control | Malware | Store Monitoring | 15/07/26 | No | Google Chrome
