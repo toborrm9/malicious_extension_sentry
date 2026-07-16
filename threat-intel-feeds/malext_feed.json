@@ -1,12 +1,36 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-07-15T09:52:29Z",
+  "generated": "2026-07-16T14:24:00Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 3371,
+  "total_indicators": 3374,
   "indicators": [
+    {
+      "extension_id": "lkcoeppkdhkanlbflanjfkhhkdmilcac",
+      "name": "Twitch Notes",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-07-16",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/lkcoeppkdhkanlbflanjfkhhkdmilcac"
+    },
+    {
+      "extension_id": "dihpglgcjgbocmfckenaideddpkhhlmi",
+      "name": "Ablock Ad Blocker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-07-16",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/dihpglgcjgbocmfckenaideddpkhhlmi"
+    },
+    {
+      "extension_id": "djecjgpedfbocgafihpbacgbbobeafhc",
+      "name": "Chatgpt Google Search",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-07-16",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/djecjgpedfbocgafihpbacgbbobeafhc"
+    },
     {
       "extension_id": "ohdjgldpadbhfcjcnfnhfkahhlcgiabd",
       "name": "Tetrys V3",
