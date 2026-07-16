@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-15",
-    "timestamp": "1784109150",
+    "date": "2026-07-16",
+    "timestamp": "1784211841",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,93 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "01cff71e-c315-509a-b49e-a166e0f7dcb5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lkcoeppkdhkanlbflanjfkhhkdmilcac",
+        "comment": "Twitch Notes | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3320b361-4a57-54cf-af61-2df59f0be5ab",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/lkcoeppkdhkanlbflanjfkhhkdmilcac",
+        "comment": "Microsoft Edge entry for Twitch Notes (lkcoeppkdhkanlbflanjfkhhkdmilcac)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "862dbcca-dec4-5f19-8af5-dca771d8bf7e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dihpglgcjgbocmfckenaideddpkhhlmi",
+        "comment": "Ablock Ad Blocker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5595ebc9-1848-58d6-9517-d6b84ecd8f99",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dihpglgcjgbocmfckenaideddpkhhlmi",
+        "comment": "Microsoft Edge entry for Ablock Ad Blocker (dihpglgcjgbocmfckenaideddpkhhlmi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8564223e-6c20-5155-be85-b8ac28022380",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "djecjgpedfbocgafihpbacgbbobeafhc",
+        "comment": "Chatgpt Google Search | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3b9b2f42-aa13-56bb-9ffe-54583a8e0ea8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/djecjgpedfbocgafihpbacgbbobeafhc",
+        "comment": "Microsoft Edge entry for Chatgpt Google Search (djecjgpedfbocgafihpbacgbbobeafhc)",
+        "distribution": "5"
+      },
       {
         "uuid": "c4153ff3-d302-578e-8d49-4d23958180f8",
         "type": "text",
