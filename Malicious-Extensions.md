@@ -1,5 +1,31 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| fpongdoobjfkndekfcmmchifdhijgknk | Tronguard Wallet | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| mkdbpdaffmcbjmeeoieafacnbllimlfe | Chatgpt Connect | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| dmpbihingdkbaelmbjkppleeebmdeimg | Northern Sky | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
+| hhbeodpcpnmohljpbbbhaakdfhkccfin | PII Guardian - AI-Powered LLM Protection | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| kgcjggkpnjfohofdpbiicichaafhnmlp | Talk With Me Chatgpt | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| mkiflddndppkblphffoppopiciiocpln | Chatgpt Pro | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| mloblghgjiagjdffmgobhbgmplhongpm | Copy For Chat Gpt | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| pkdcpohhilpdgdooafpjnenmnhgbmdmh | Chatgpt Plus | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| gfcdghcmpnhfjmonnadjgjpocpaepljc | Ciphernest | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| gmkhnljialieofgegfbmapoliaambkce | Sapphire Glow | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
+| jjjnaeocgphpfkmkinkgbnipapkfipee | Free6 | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| fepmiidmaaiaeifjlggkebaeijeclbef | Tube - Translate & Dub | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
+| ndficmdllecbddpkkkhdnagcddepaejh | Admuffler | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| dplpaofmlgbmjncmjhomcibcnkplghdj | Pancakeswap Tracker Price | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| mjbpgcldjmjpdagcakhkbinhchknffgn | Chatgpt Search Plus | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| malceiefglgiggdgodpdchngdfdolbhh | Eth Smart Wallet | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
+| cgkhpnlmjjhmalcjhgclpilbkcidlmka | Linkedin Resume Tailor | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| cfdekfjfpkapfgdbcggaakledjcenjic | B2 Wallet | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| lanchdlnhdopciinagogcekiakflgeaf | Adobe Scan: PDF Scanner, OCR | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
+| odnllkpgpkdnkcemlhmgenglffnmdpdh | Fast: Base Wallet - Crypto Converter | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
+| oonlmcejlgcjhodpmfhnkifcaniafoom | Nova New Tab - Free GPT Image 2 Wallpaper Generation | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
+| gilfbnldcnldfbbgcppoabkghidmedlk | Defi Portfolio Tracker Pro | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| ennlpdlchpicejojpannjppkljlnmcho | Metasignal | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
+| jcagmaielnbegpjigikgkoofaljmnaal | Void Wallet | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
+| edgoaigdlpbbglefnnicejdcembbflmd | լөDgөR լivө | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
+| ciaifekkipafophedfhonphhbnjfpibg | μеTа ροrtfοііο | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
 | khheojkcinlbbgjedicdehfbcpbfolok | Minimalist Tab | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 16/07/26 | No | Chrome
 | lbjojakdjggbdpnnockgkbnbkgenfknj | Meta Random Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 16/07/26 | No | Chrome
 | lpcnmhphplmplfhhimehmpbfhclpkgge | Neon Pool Table | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 16/07/26 | No | Chrome
@@ -39,15 +65,17 @@
 | bckecnblaldplopkjollljofklhaeaeh | Mercedes-Benz Sunset Pixel Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 16/07/26 | No | Chrome
 | jcgagbbfepkikcdjlppjmphcfjbbakmf | Manuals Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 16/07/26 | No | Chrome
 | lkcoeppkdhkanlbflanjfkhhkdmilcac | Twitch Notes | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
-| dihpglgcjgbocmfckenaideddpkhhlmi | Ablock Ad Blocker | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
+| dihpglgcjgbocmfckenaideddpkhhlmi | Ablock Ad Blocker | Malware | Store Monitoring | 16/07/26 | Yes | Google Chrome
 | djecjgpedfbocgafihpbacgbbobeafhc | Chatgpt Google Search | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
+| phmjhfhgfmmglagpddohndlcmmjjdfjp | Gitlab Resolve Code Owner | Policy Violation | Store Monitoring | 15/07/26 | No | Google Chrome
 | ohdjgldpadbhfcjcnfnhfkahhlcgiabd | Tetrys V3 | Policy Violation | Store Monitoring | 15/07/26 | No | Google Chrome
 | diehbglpgicpogjinfcfpmjfdleifohl | Retro Games Offline | Policy Violation | Store Monitoring | 15/07/26 | No | Google Chrome
-| ooklbphnohkomhgecdmjapldgddcjeha | Penumbra Smart Theme Control | Malware | Store Monitoring | 15/07/26 | No | Google Chrome
+| ooklbphnohkomhgecdmjapldgddcjeha | Penumbra Smart Theme Control | Malware | Store Monitoring | 15/07/26 | Yes | Google Chrome
 | agdjmncghlhgkfahelckfinnhkpidebp | Friends Remover | Bundling Unwanted Software | Store Monitoring | 15/07/26 | No | Google Chrome
 | johaeccdmmahamkeianhonpjjmpjkdjd | Rochatter | Bundling Unwanted Software | Store Monitoring | 15/07/26 | No | Google Chrome
+| bkbpidjmllmcppjpcicgpolgcglabcnn | Labs οkx Web3 | Malware | Store Monitoring | 14/07/26 | No | Google Chrome
 | lofnjlciokhgalebinnlfhkicepmmceh | Bbviewer | Policy Violation | Store Monitoring | 14/07/26 | No | Google Chrome
-| acmdbomkcpamfjlnbefdomoldfdibekp | Tele On Gpm Login | Malware | Store Monitoring | 14/07/26 | No | Google Chrome
+| acmdbomkcpamfjlnbefdomoldfdibekp | Tele On Gpm Login | Malware | Store Monitoring | 14/07/26 | Yes | Google Chrome
 | bmpbfbcglbjjahcehhpgobbekbpffpdo | MetaVaul - MetaMask Ai Trading sync | Malware | Store Monitoring | 14/07/26 | No | Google Chrome
 | lomndjbnijhfkapokbmimdnailjmfmch | WasuboBlue - Chatbot - Marketing - Conversation Flows | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 14/07/26 | No | Chrome
 | cfpinjobmbfblkbjgflfdhlpgjpgglof | MSLocações WhatsApp Plugin | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 14/07/26 | No | Chrome
