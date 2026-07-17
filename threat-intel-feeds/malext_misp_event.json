@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-16",
-    "timestamp": "1784236714",
+    "date": "2026-07-17",
+    "timestamp": "1784273619",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,760 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "27ded1e6-4166-5883-b3f6-a873cc3b966f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fpongdoobjfkndekfcmmchifdhijgknk",
+        "comment": "Tronguard Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bb7d2477-0eea-5d45-b152-7afd1d9cf362",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/fpongdoobjfkndekfcmmchifdhijgknk",
+        "comment": "Microsoft Edge entry for Tronguard Wallet (fpongdoobjfkndekfcmmchifdhijgknk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "40e11e1f-1279-5cee-8430-5979282208a1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mkdbpdaffmcbjmeeoieafacnbllimlfe",
+        "comment": "Chatgpt Connect | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fd785110-2fa5-5aad-abe2-8adc2d443f7a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mkdbpdaffmcbjmeeoieafacnbllimlfe",
+        "comment": "Microsoft Edge entry for Chatgpt Connect (mkdbpdaffmcbjmeeoieafacnbllimlfe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "60f34ae4-eda1-55d7-b6ec-1fcaf48a0972",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmpbihingdkbaelmbjkppleeebmdeimg",
+        "comment": "Northern Sky | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8b86c398-7259-5c5e-95d1-dbb348536e8e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dmpbihingdkbaelmbjkppleeebmdeimg",
+        "comment": "Microsoft Edge entry for Northern Sky (dmpbihingdkbaelmbjkppleeebmdeimg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0131e807-f464-5db8-a713-d90d8755b021",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hhbeodpcpnmohljpbbbhaakdfhkccfin",
+        "comment": "PII Guardian - AI-Powered LLM Protection | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "36d33a57-49ad-57ce-a9ab-d20dfc1836ef",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hhbeodpcpnmohljpbbbhaakdfhkccfin",
+        "comment": "Microsoft Edge entry for PII Guardian - AI-Powered LLM Protection (hhbeodpcpnmohljpbbbhaakdfhkccfin)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2466271e-d775-5c60-9b71-14804996b66c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kgcjggkpnjfohofdpbiicichaafhnmlp",
+        "comment": "Talk With Me Chatgpt | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d7dd0732-7c84-50c1-b57e-3e4bee03d5e3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/kgcjggkpnjfohofdpbiicichaafhnmlp",
+        "comment": "Microsoft Edge entry for Talk With Me Chatgpt (kgcjggkpnjfohofdpbiicichaafhnmlp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "194861e4-0b96-59d6-9e6c-2f0428ee280f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mkiflddndppkblphffoppopiciiocpln",
+        "comment": "Chatgpt Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "988ab3e0-deb3-5e5c-933a-c8ea0fd5ba75",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mkiflddndppkblphffoppopiciiocpln",
+        "comment": "Microsoft Edge entry for Chatgpt Pro (mkiflddndppkblphffoppopiciiocpln)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ba59104b-b3ca-5f97-acd8-cdd73073cf4b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mloblghgjiagjdffmgobhbgmplhongpm",
+        "comment": "Copy For Chat Gpt | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "75ff5461-0d18-5693-b43c-b83d645acc30",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mloblghgjiagjdffmgobhbgmplhongpm",
+        "comment": "Microsoft Edge entry for Copy For Chat Gpt (mloblghgjiagjdffmgobhbgmplhongpm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9c0f6ca0-4145-5bda-a9a8-6418756e72ee",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pkdcpohhilpdgdooafpjnenmnhgbmdmh",
+        "comment": "Chatgpt Plus | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2ecd8e7a-30dc-56db-b5bc-ff04179793c6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/pkdcpohhilpdgdooafpjnenmnhgbmdmh",
+        "comment": "Microsoft Edge entry for Chatgpt Plus (pkdcpohhilpdgdooafpjnenmnhgbmdmh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3b84c6f7-ea22-5e45-8179-fd4ea66b4f33",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gfcdghcmpnhfjmonnadjgjpocpaepljc",
+        "comment": "Ciphernest | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4a824a76-89a2-5d2a-ae22-def29728f699",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/gfcdghcmpnhfjmonnadjgjpocpaepljc",
+        "comment": "Microsoft Edge entry for Ciphernest (gfcdghcmpnhfjmonnadjgjpocpaepljc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0bdc8f4e-c142-58a3-854d-d3ca4d53a792",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gmkhnljialieofgegfbmapoliaambkce",
+        "comment": "Sapphire Glow | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3e078e12-d57a-5a3d-8234-0f76a4fc7e8d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/gmkhnljialieofgegfbmapoliaambkce",
+        "comment": "Microsoft Edge entry for Sapphire Glow (gmkhnljialieofgegfbmapoliaambkce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "04e7f546-34c0-5e4d-a435-58a1dbd1077a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jjjnaeocgphpfkmkinkgbnipapkfipee",
+        "comment": "Free6 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "91b76d2f-31f5-5a43-a22e-ed43aae03d04",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jjjnaeocgphpfkmkinkgbnipapkfipee",
+        "comment": "Microsoft Edge entry for Free6 (jjjnaeocgphpfkmkinkgbnipapkfipee)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "69d7f5c5-dbdf-53ba-9d04-ecd2cba621f6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fepmiidmaaiaeifjlggkebaeijeclbef",
+        "comment": "Tube - Translate & Dub | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ec563933-985d-5deb-82a4-fd6ed0835ef1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/fepmiidmaaiaeifjlggkebaeijeclbef",
+        "comment": "Microsoft Edge entry for Tube - Translate & Dub (fepmiidmaaiaeifjlggkebaeijeclbef)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b13d7911-ba2d-5ea9-9426-b151f5723c43",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ndficmdllecbddpkkkhdnagcddepaejh",
+        "comment": "Admuffler | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "670e0425-909b-55ca-9724-e3e877dcd967",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ndficmdllecbddpkkkhdnagcddepaejh",
+        "comment": "Microsoft Edge entry for Admuffler (ndficmdllecbddpkkkhdnagcddepaejh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e436518d-cb41-559b-9f68-ef7a5f0a7b69",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dplpaofmlgbmjncmjhomcibcnkplghdj",
+        "comment": "Pancakeswap Tracker Price | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8b56fc60-fa32-543b-89b4-0c5df743b39a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dplpaofmlgbmjncmjhomcibcnkplghdj",
+        "comment": "Microsoft Edge entry for Pancakeswap Tracker Price (dplpaofmlgbmjncmjhomcibcnkplghdj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "400ea20a-3f7d-5ab6-b7e3-6218d862f110",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mjbpgcldjmjpdagcakhkbinhchknffgn",
+        "comment": "Chatgpt Search Plus | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "174edb66-a9fa-5e98-94f0-ee1882a5f74e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mjbpgcldjmjpdagcakhkbinhchknffgn",
+        "comment": "Microsoft Edge entry for Chatgpt Search Plus (mjbpgcldjmjpdagcakhkbinhchknffgn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1bef6902-a34d-5cb4-a4c7-e6676bee8e46",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "malceiefglgiggdgodpdchngdfdolbhh",
+        "comment": "Eth Smart Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f3b16811-5e85-59b7-8e3b-1dc05ec14e7f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/malceiefglgiggdgodpdchngdfdolbhh",
+        "comment": "Microsoft Edge entry for Eth Smart Wallet (malceiefglgiggdgodpdchngdfdolbhh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4f5507d9-c87f-535c-8d2b-6f45e9ee78bb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cgkhpnlmjjhmalcjhgclpilbkcidlmka",
+        "comment": "Linkedin Resume Tailor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "dc31f964-7a96-5d8c-9b2e-6dedac5bbae1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/cgkhpnlmjjhmalcjhgclpilbkcidlmka",
+        "comment": "Microsoft Edge entry for Linkedin Resume Tailor (cgkhpnlmjjhmalcjhgclpilbkcidlmka)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "56e84578-df86-5c40-8434-03bdcaed8bc9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cfdekfjfpkapfgdbcggaakledjcenjic",
+        "comment": "B2 Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d707f824-bf55-5e18-abef-80973977def8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/cfdekfjfpkapfgdbcggaakledjcenjic",
+        "comment": "Microsoft Edge entry for B2 Wallet (cfdekfjfpkapfgdbcggaakledjcenjic)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1a39043e-b4b8-574c-ac7f-5fc0b64b9cc6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lanchdlnhdopciinagogcekiakflgeaf",
+        "comment": "Adobe Scan: PDF Scanner, OCR | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9f91ddc0-1662-5c10-9bd2-a25e75057cf0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/lanchdlnhdopciinagogcekiakflgeaf",
+        "comment": "Microsoft Edge entry for Adobe Scan: PDF Scanner, OCR (lanchdlnhdopciinagogcekiakflgeaf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f5f36edf-d4e1-577c-836a-8c0d0ab6cea4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odnllkpgpkdnkcemlhmgenglffnmdpdh",
+        "comment": "Fast: Base Wallet - Crypto Converter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a4986097-f76f-5479-996c-f23a5a0e517a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/odnllkpgpkdnkcemlhmgenglffnmdpdh",
+        "comment": "Microsoft Edge entry for Fast: Base Wallet - Crypto Converter (odnllkpgpkdnkcemlhmgenglffnmdpdh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cb20795d-a882-5013-83f4-45f0075cbc02",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oonlmcejlgcjhodpmfhnkifcaniafoom",
+        "comment": "Nova New Tab - Free GPT Image 2 Wallpaper Generation | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2f55424f-5d49-5c9f-bc52-312c07861c00",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/oonlmcejlgcjhodpmfhnkifcaniafoom",
+        "comment": "Microsoft Edge entry for Nova New Tab - Free GPT Image 2 Wallpaper Generation (oonlmcejlgcjhodpmfhnkifcaniafoom)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "59f94e6e-75c3-5a8e-8855-d8293c091925",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gilfbnldcnldfbbgcppoabkghidmedlk",
+        "comment": "Defi Portfolio Tracker Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "029ba025-4591-511e-be90-f952e832cc4c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/gilfbnldcnldfbbgcppoabkghidmedlk",
+        "comment": "Microsoft Edge entry for Defi Portfolio Tracker Pro (gilfbnldcnldfbbgcppoabkghidmedlk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "702d986a-000d-5dac-948d-d492bf02ce9c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ennlpdlchpicejojpannjppkljlnmcho",
+        "comment": "Metasignal | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "479654a2-80a5-5a52-b63f-e13e24d4f794",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ennlpdlchpicejojpannjppkljlnmcho",
+        "comment": "Microsoft Edge entry for Metasignal (ennlpdlchpicejojpannjppkljlnmcho)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "904399f0-5c29-5a48-a225-6a35220f8069",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jcagmaielnbegpjigikgkoofaljmnaal",
+        "comment": "Void Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "dbada639-42fd-59a0-af25-cb7dce7375ec",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jcagmaielnbegpjigikgkoofaljmnaal",
+        "comment": "Microsoft Edge entry for Void Wallet (jcagmaielnbegpjigikgkoofaljmnaal)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "07390065-328d-521c-b3b4-a2102f9cef2f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "edgoaigdlpbbglefnnicejdcembbflmd",
+        "comment": "\u056c\u04e9Dg\u04e9R \u056civ\u04e9 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8c083e4f-7d59-5565-b635-08928525d10a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/edgoaigdlpbbglefnnicejdcembbflmd",
+        "comment": "Microsoft Edge entry for \u056c\u04e9Dg\u04e9R \u056civ\u04e9 (edgoaigdlpbbglefnnicejdcembbflmd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c9ba0e3f-81db-5d59-ba4c-8922ac8d8395",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ciaifekkipafophedfhonphhbnjfpibg",
+        "comment": "\u03bc\u0435T\u0430 \u03c1\u03bfrtf\u03bf\u0456\u0456\u03bf | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7bd9e6fa-2fa1-5f7d-a71b-1495610799b4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ciaifekkipafophedfhonphhbnjfpibg",
+        "comment": "Microsoft Edge entry for \u03bc\u0435T\u0430 \u03c1\u03bfrtf\u03bf\u0456\u0456\u03bf (ciaifekkipafophedfhonphhbnjfpibg)",
+        "distribution": "5"
+      },
       {
         "uuid": "cfc835c4-6c5f-5404-90c1-c2a4f68c7b4b",
         "type": "text",
@@ -1217,6 +1971,35 @@
         "distribution": "5"
       },
       {
+        "uuid": "af21a7ef-e2fb-51fe-aa02-96376ced5359",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "phmjhfhgfmmglagpddohndlcmmjjdfjp",
+        "comment": "Gitlab Resolve Code Owner | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ffe2e3b6-d5cb-5110-ae2d-e8800b282a75",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/phmjhfhgfmmglagpddohndlcmmjjdfjp",
+        "comment": "Microsoft Edge entry for Gitlab Resolve Code Owner (phmjhfhgfmmglagpddohndlcmmjjdfjp)",
+        "distribution": "5"
+      },
+      {
         "uuid": "c4153ff3-d302-578e-8d49-4d23958180f8",
         "type": "text",
         "category": "Other",
@@ -1359,6 +2142,35 @@
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/johaeccdmmahamkeianhonpjjmpjkdjd",
         "comment": "Microsoft Edge entry for Rochatter (johaeccdmmahamkeianhonpjjmpjkdjd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "debf7f35-0734-5081-8159-d8067dbb2d96",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bkbpidjmllmcppjpcicgpolgcglabcnn",
+        "comment": "Labs \u03bfkx Web3 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "35b206d7-8b27-5422-9a11-27894be62c36",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bkbpidjmllmcppjpcicgpolgcglabcnn",
+        "comment": "Microsoft Edge entry for Labs \u03bfkx Web3 (bkbpidjmllmcppjpcicgpolgcglabcnn)",
         "distribution": "5"
       },
       {
