@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-17",
-    "timestamp": "1784273619",
+    "date": "2026-07-18",
+    "timestamp": "1784362630",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,354 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "e79af4fd-419c-5a1e-ae27-2c094c2b6b24",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cpnheihcbcohedkdifcajgllcebnoagd",
+        "comment": "Gitlab Pr Summarizer Usin | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2eefe05f-c6c4-50fc-b070-ecadb1527a34",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/cpnheihcbcohedkdifcajgllcebnoagd",
+        "comment": "Microsoft Edge entry for Gitlab Pr Summarizer Usin (cpnheihcbcohedkdifcajgllcebnoagd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "786dc99f-2223-5c3c-8f63-086a21c29f98",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nngccnjcllkehfiaidagbffjgbikcoij",
+        "comment": "Vreo | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0eeecae0-aab2-59b3-a43a-a8fdda411be1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/nngccnjcllkehfiaidagbffjgbikcoij",
+        "comment": "Microsoft Edge entry for Vreo (nngccnjcllkehfiaidagbffjgbikcoij)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "13ba0552-01f8-517e-8b2a-9dc51411e1ed",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "klapkopkbgmggklgaeimeijoegmkegmf",
+        "comment": "Email & Mobile Finder by SMARTe | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "dd2b7fdc-7e6f-5bfc-84b0-71184da98b5b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/klapkopkbgmggklgaeimeijoegmkegmf",
+        "comment": "Microsoft Edge entry for Email & Mobile Finder by SMARTe (klapkopkbgmggklgaeimeijoegmkegmf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "017a82b4-489d-55b7-a98d-ee37b4001a7f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jpgkgpgjngghabijpfgmmijcellclpnc",
+        "comment": "Ice Blue Minimal Ai Theme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "64cc0291-b4fb-5c67-92d5-07d6798f2a25",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jpgkgpgjngghabijpfgmmijcellclpnc",
+        "comment": "Microsoft Edge entry for Ice Blue Minimal Ai Theme (jpgkgpgjngghabijpfgmmijcellclpnc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a07910a0-e69a-54c0-a4c1-6face81d0f7a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lneooekcaeecfedilhcmmcedgdockfof",
+        "comment": "Contentin Linkedin\ufe0f Analy | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b1289ee6-4e56-52d3-a461-3cac6a31cc15",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/lneooekcaeecfedilhcmmcedgdockfof",
+        "comment": "Microsoft Edge entry for Contentin Linkedin\ufe0f Analy (lneooekcaeecfedilhcmmcedgdockfof)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "08fff169-a707-570c-b080-b9ecb68d4464",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nhkpkeacdoaccniekklhigdlfmienonm",
+        "comment": "Wyzap Crm Mais Vendas Men | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6b8cb443-f3c8-5d25-81ce-dc7bb2bfcef7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/nhkpkeacdoaccniekklhigdlfmienonm",
+        "comment": "Microsoft Edge entry for Wyzap Crm Mais Vendas Men (nhkpkeacdoaccniekklhigdlfmienonm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bd3785b7-17e3-57db-964e-b98fa11d4ec5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ingjjklimdeocggninaaapofondbeopd",
+        "comment": "J7Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ac5268c1-df94-52f7-8c8f-078dc4b2c6de",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ingjjklimdeocggninaaapofondbeopd",
+        "comment": "Microsoft Edge entry for J7Tracker (ingjjklimdeocggninaaapofondbeopd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d45773c3-5ddc-563e-8e05-912bfb347a8d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gjgeepgbnihfmnngdaidcndjpieipaic",
+        "comment": "Ontranslator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d70c3f0a-f2b7-5774-877e-7d599d9686c9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/gjgeepgbnihfmnngdaidcndjpieipaic",
+        "comment": "Microsoft Edge entry for Ontranslator (gjgeepgbnihfmnngdaidcndjpieipaic)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0440bfac-b9b6-5e1a-8e4f-078f7f2f8f3f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pnfbhonpmgdimlamippohijmaajcnbac",
+        "comment": "Faceapp Perfect Face Edit | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bfa00efc-4611-5438-9242-d3c0196f3e6b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/pnfbhonpmgdimlamippohijmaajcnbac",
+        "comment": "Microsoft Edge entry for Faceapp Perfect Face Edit (pnfbhonpmgdimlamippohijmaajcnbac)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1309b0d1-efaf-5070-ac59-8c480dc0e444",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nkjdolmphckfdhkllhpdfbpdbehbmmkk",
+        "comment": "Export AI Chat - ChatGPT, Gemini, Grok | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2e12bfd7-3f29-59d3-b681-9bee109a448d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/nkjdolmphckfdhkllhpdfbpdbehbmmkk",
+        "comment": "Microsoft Edge entry for Export AI Chat - ChatGPT, Gemini, Grok (nkjdolmphckfdhkllhpdfbpdbehbmmkk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c21e2acd-f056-59fb-9b62-ef7fce852429",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "febgaeoegckcdcdhammknmiobpjkpgbe",
+        "comment": "Snaily For Linkedin Auto | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "845c2459-dc0d-57b2-980d-587361681adb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/febgaeoegckcdcdhammknmiobpjkpgbe",
+        "comment": "Microsoft Edge entry for Snaily For Linkedin Auto (febgaeoegckcdcdhammknmiobpjkpgbe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e9f05d82-b770-558b-9f61-e307f8103ff3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cnkfballfjhdijogkjjhdfmnkijcjgbc",
+        "comment": "Influencer Butler | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "60bda3dc-cc9c-5120-86c9-1f2b4c7244d8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/cnkfballfjhdijogkjjhdfmnkijcjgbc",
+        "comment": "Microsoft Edge entry for Influencer Butler (cnkfballfjhdijogkjjhdfmnkijcjgbc)",
+        "distribution": "5"
+      },
       {
         "uuid": "27ded1e6-4166-5883-b3f6-a873cc3b966f",
         "type": "text",
@@ -663,6 +1011,35 @@
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/gilfbnldcnldfbbgcppoabkghidmedlk",
         "comment": "Microsoft Edge entry for Defi Portfolio Tracker Pro (gilfbnldcnldfbbgcppoabkghidmedlk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b878a413-2308-5d5f-8a4d-2b222176507c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mchgbnpekhpngnomfbfffnodlldcjpcm",
+        "comment": "Xcopy | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "71d79de9-84ff-5a62-9db8-0cf7d201c3cf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mchgbnpekhpngnomfbfffnodlldcjpcm",
+        "comment": "Microsoft Edge entry for Xcopy (mchgbnpekhpngnomfbfffnodlldcjpcm)",
         "distribution": "5"
       },
       {
@@ -10581,6 +10958,35 @@
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/dhefcdcdcdgaipemnejgephmeicliokh",
         "comment": "Microsoft Edge entry for Frosted Berry (dhefcdcdcdgaipemnejgephmeicliokh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0c635318-b316-558d-a582-49d9a4e1f5f2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gkdekajjngdkocgiealohleibhdjhoed",
+        "comment": "Torii Image Translator \u2014 AI Manga Translator, Manhwa Translator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a44a3f0a-d9e5-528c-83e3-a9e691a3558a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/gkdekajjngdkocgiealohleibhdjhoed",
+        "comment": "Microsoft Edge entry for Torii Image Translator \u2014 AI Manga Translator, Manhwa Translator (gkdekajjngdkocgiealohleibhdjhoed)",
         "distribution": "5"
       },
       {
