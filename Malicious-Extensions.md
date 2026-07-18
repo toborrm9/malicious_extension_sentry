@@ -1,5 +1,17 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| cpnheihcbcohedkdifcajgllcebnoagd | Gitlab Pr Summarizer Usin | Policy Violation | Store Monitoring | 18/07/26 | No | Google Chrome
+| nngccnjcllkehfiaidagbffjgbikcoij | Vreo | Malware | Store Monitoring | 18/07/26 | No | Google Chrome
+| klapkopkbgmggklgaeimeijoegmkegmf | Email & Mobile Finder by SMARTe | Policy Violation | Store Monitoring | 18/07/26 | No | Google Chrome
+| jpgkgpgjngghabijpfgmmijcellclpnc | Ice Blue Minimal Ai Theme | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
+| lneooekcaeecfedilhcmmcedgdockfof | Contentin Linkedin️ Analy | Policy Violation | Store Monitoring | 18/07/26 | No | Google Chrome
+| nhkpkeacdoaccniekklhigdlfmienonm | Wyzap Crm Mais Vendas Men | Policy Violation | Store Monitoring | 18/07/26 | No | Google Chrome
+| ingjjklimdeocggninaaapofondbeopd | J7Tracker | Malware | Store Monitoring | 18/07/26 | No | Google Chrome
+| gjgeepgbnihfmnngdaidcndjpieipaic | Ontranslator | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
+| pnfbhonpmgdimlamippohijmaajcnbac | Faceapp Perfect Face Edit | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
+| nkjdolmphckfdhkllhpdfbpdbehbmmkk | Export AI Chat - ChatGPT, Gemini, Grok | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
+| febgaeoegckcdcdhammknmiobpjkpgbe | Snaily For Linkedin Auto | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| cnkfballfjhdijogkjjhdfmnkijcjgbc | Influencer Butler | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | fpongdoobjfkndekfcmmchifdhijgknk | Tronguard Wallet | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
 | mkdbpdaffmcbjmeeoieafacnbllimlfe | Chatgpt Connect | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | dmpbihingdkbaelmbjkppleeebmdeimg | Northern Sky | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
@@ -11,7 +23,7 @@
 | gfcdghcmpnhfjmonnadjgjpocpaepljc | Ciphernest | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
 | gmkhnljialieofgegfbmapoliaambkce | Sapphire Glow | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
 | jjjnaeocgphpfkmkinkgbnipapkfipee | Free6 | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
-| fepmiidmaaiaeifjlggkebaeijeclbef | Tube - Translate & Dub | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
+| fepmiidmaaiaeifjlggkebaeijeclbef | Tube - Translate & Dub | Bundling Unwanted Software | Store Monitoring | 17/07/26 | Yes | Google Chrome
 | ndficmdllecbddpkkkhdnagcddepaejh | Admuffler | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
 | dplpaofmlgbmjncmjhomcibcnkplghdj | Pancakeswap Tracker Price | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
 | mjbpgcldjmjpdagcakhkbinhchknffgn | Chatgpt Search Plus | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
@@ -22,6 +34,7 @@
 | odnllkpgpkdnkcemlhmgenglffnmdpdh | Fast: Base Wallet - Crypto Converter | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
 | oonlmcejlgcjhodpmfhnkifcaniafoom | Nova New Tab - Free GPT Image 2 Wallpaper Generation | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
 | gilfbnldcnldfbbgcppoabkghidmedlk | Defi Portfolio Tracker Pro | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| mchgbnpekhpngnomfbfffnodlldcjpcm | Xcopy | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
 | ennlpdlchpicejojpannjppkljlnmcho | Metasignal | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
 | jcagmaielnbegpjigikgkoofaljmnaal | Void Wallet | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
 | edgoaigdlpbbglefnnicejdcembbflmd | լөDgөR լivө | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
@@ -364,6 +377,7 @@
 | nloknaoaikfjljicidohiiahlolnkgkn | Cherry Blossom | Bundling Unwanted Software | Store Monitoring | 13/07/26 | No | Google Chrome
 | ihadhefbjffhmjeoemipkjddbdbcglff | Terracotta Sun | Bundling Unwanted Software | Store Monitoring | 13/07/26 | No | Google Chrome
 | dhefcdcdcdgaipemnejgephmeicliokh | Frosted Berry | Bundling Unwanted Software | Store Monitoring | 13/07/26 | No | Google Chrome
+| gkdekajjngdkocgiealohleibhdjhoed | Torii Image Translator — AI Manga Translator, Manhwa Translator | Policy Violation | Store Monitoring | 12/07/26 | No | Google Chrome
 | hdlllnepcpmgdjeabkenjpcdcbgdfljc | Bamboo Zen | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
 | gnpmcdiaangaankpdbknffkajgfbdelg | Electric Amber | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
 | chamaofhjbaliooojnpbgebekimjoagk | Wildfire Orange | Bundling Unwanted Software | Store Monitoring | 12/07/26 | No | Google Chrome
