@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-18",
-    "timestamp": "1784403173",
+    "date": "2026-07-19",
+    "timestamp": "1784451716",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,702 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "d37fb78d-4b9f-5f97-ba57-76d4f98530b1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bbbeknlpenajjppjiekjolmlonjlpiac",
+        "comment": "AI Chat Exporter: Save Chatgpt as PDF, MD and more | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2d6413b8-6127-541e-a549-10daa76e0e8d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bbbeknlpenajjppjiekjolmlonjlpiac",
+        "comment": "Microsoft Edge entry for AI Chat Exporter: Save Chatgpt as PDF, MD and more (bbbeknlpenajjppjiekjolmlonjlpiac)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "14a6f850-477b-5100-8214-f0075af68626",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nekodnmpigighiohaepicibloafjpphc",
+        "comment": "AI Chat Exporter: Save Claude to PDF, MD and more | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b4c1250e-6253-5f82-9e45-ecc6ba517f12",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/nekodnmpigighiohaepicibloafjpphc",
+        "comment": "Microsoft Edge entry for AI Chat Exporter: Save Claude to PDF, MD and more (nekodnmpigighiohaepicibloafjpphc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "abee555f-af69-5962-9afc-00fa32d8f897",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bifeecpjidkbnhmbbfgcfkjbfjlbkhof",
+        "comment": "NavVault: Chat Folders & Export(PDF, MD, JSON) for ChatGPT, Claude, Gemini | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c161efa6-28fd-5f9a-b435-de111484255f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bifeecpjidkbnhmbbfgcfkjbfjlbkhof",
+        "comment": "Microsoft Edge entry for NavVault: Chat Folders & Export(PDF, MD, JSON) for ChatGPT, Claude, Gemini (bifeecpjidkbnhmbbfgcfkjbfjlbkhof)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0a5280a0-4446-5a3a-b24a-5057e7beca93",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lehnoddallibahdnfcigfmbpmmlfbpii",
+        "comment": "Hash | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3e5da83f-69df-5e3d-b7f0-c6177c01df27",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/lehnoddallibahdnfcigfmbpmmlfbpii",
+        "comment": "Microsoft Edge entry for Hash (lehnoddallibahdnfcigfmbpmmlfbpii)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cf4fd252-68bd-525a-807e-dca72bfad5e0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hplfbpigkfejkaajfpmjciogfbpnekon",
+        "comment": "Advanced Tweet Translator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e05c0042-4012-5012-a827-27f96f78c0a4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hplfbpigkfejkaajfpmjciogfbpnekon",
+        "comment": "Microsoft Edge entry for Advanced Tweet Translator (hplfbpigkfejkaajfpmjciogfbpnekon)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "18bb15b2-6f08-5c0b-b9a7-ff68fe527b5c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mlkcgphnoclocbdmfackhpjifhcfpefh",
+        "comment": "Polymarket Utilities | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f8bb2483-275d-5d3b-bfa2-5e6a4ad849c3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mlkcgphnoclocbdmfackhpjifhcfpefh",
+        "comment": "Microsoft Edge entry for Polymarket Utilities (mlkcgphnoclocbdmfackhpjifhcfpefh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "00f7c4a4-5943-58ed-9ce0-5117572393fb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iinnhbfjbahmddefhdgelochopnanmcg",
+        "comment": "Chatgpt Helper Quick Access | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "01a278c9-68a2-5bf3-a8a1-74a83fc9601c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/iinnhbfjbahmddefhdgelochopnanmcg",
+        "comment": "Microsoft Edge entry for Chatgpt Helper Quick Access (iinnhbfjbahmddefhdgelochopnanmcg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "510e6f84-3533-54ea-bc46-cccc972abace",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adihfjiklmpiomgihpipedppgadnacpm",
+        "comment": "RugLens AI - Solana Memecoin Rug Check & Axiom Token Scanner | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8ead2e65-40bf-5b31-a7e5-024b8ed81a4d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/adihfjiklmpiomgihpipedppgadnacpm",
+        "comment": "Microsoft Edge entry for RugLens AI - Solana Memecoin Rug Check & Axiom Token Scanner (adihfjiklmpiomgihpipedppgadnacpm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c71c84f6-688f-5632-b7c7-8865c5b922ed",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "efbfmikjamhlinlenkkcdkbmlmhiobka",
+        "comment": "Speed Test | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "06c5de40-3b09-57eb-b479-357c4e8114db",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/efbfmikjamhlinlenkkcdkbmlmhiobka",
+        "comment": "Microsoft Edge entry for Speed Test (efbfmikjamhlinlenkkcdkbmlmhiobka)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "863edc4e-1b1e-50fc-b526-4bfc94af55da",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ijhihmaeefohdpfapalnolajpchlnbhn",
+        "comment": "AI Chat Exporter: Save Gemini as PDF, MD and more | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8121fbad-815a-5139-8282-9cf6a9d38f32",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ijhihmaeefohdpfapalnolajpchlnbhn",
+        "comment": "Microsoft Edge entry for AI Chat Exporter: Save Gemini as PDF, MD and more (ijhihmaeefohdpfapalnolajpchlnbhn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "680d6a0a-4df8-52d4-a41b-2cdd8f9255b0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fgnfdemimflmkkmdilkloicmdigmjghp",
+        "comment": "Omni Convert - Search Settings for Omnibar | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "59472447-f309-53a3-916c-9380f6217aa2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fgnfdemimflmkkmdilkloicmdigmjghp",
+        "comment": "Chrome Web Store entry for Omni Convert - Search Settings for Omnibar (fgnfdemimflmkkmdilkloicmdigmjghp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c12f2f97-a019-52f2-9e65-08234c7a62ef",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lfdljcfbppgpgcbahhcpdahbmlpddkmf",
+        "comment": "Get Maps & Directions | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4b078f22-3601-56a0-8235-1f45b57e57ac",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lfdljcfbppgpgcbahhcpdahbmlpddkmf",
+        "comment": "Chrome Web Store entry for Get Maps & Directions (lfdljcfbppgpgcbahhcpdahbmlpddkmf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8bf3ead2-d8b7-571c-b143-16137776bd99",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odkcfoohjiicbelloepgcomekdknchjh",
+        "comment": "Predator Search | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a8e1c76d-2f95-5425-8c92-f1c1aef383b9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/odkcfoohjiicbelloepgcomekdknchjh",
+        "comment": "Chrome Web Store entry for Predator Search (odkcfoohjiicbelloepgcomekdknchjh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f912a52d-0338-5afd-922a-51f12594758e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "omdkehkdnojcndhhilglklegbakenkgb",
+        "comment": "Best Homepage Ever: Custom New Tab Launcher | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "82a8962d-94e1-53ed-9ff4-3d96f61bba7f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/omdkehkdnojcndhhilglklegbakenkgb",
+        "comment": "Chrome Web Store entry for Best Homepage Ever: Custom New Tab Launcher (omdkehkdnojcndhhilglklegbakenkgb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a91e5e0c-8ee0-5418-b889-094f64d7e162",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pflehjknninehfghakckeppppkjohdkk",
+        "comment": "Search Rewards | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cf3dcc7a-2b31-5b55-adf3-6fb360bf35d5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pflehjknninehfghakckeppppkjohdkk",
+        "comment": "Chrome Web Store entry for Search Rewards (pflehjknninehfghakckeppppkjohdkk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "186fdb22-ec08-5119-9bbb-2e37df7fda0d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "khbokcdnjabjniiimkjdfhgnkccbkoah",
+        "comment": "Torrent Search Engine For Chrome Professional | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a84b6008-aeeb-5f6b-9c15-f47c2b6f26e1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/khbokcdnjabjniiimkjdfhgnkccbkoah",
+        "comment": "Chrome Web Store entry for Torrent Search Engine For Chrome Professional (khbokcdnjabjniiimkjdfhgnkccbkoah)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2a7e8cef-f9ee-5de0-b29d-5bb6ed111f68",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kbdkcdbedgbgfgcnpajlehfkmgdhchhm",
+        "comment": "Switch My Search | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cab35236-2270-58a7-9c31-dc8b071cfbc8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kbdkcdbedgbgfgcnpajlehfkmgdhchhm",
+        "comment": "Chrome Web Store entry for Switch My Search (kbdkcdbedgbgfgcnpajlehfkmgdhchhm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a89c0cfb-3a85-587d-b254-f0bf258be568",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hfhfmkmokccaciopjahpkmfdbkjbhmfp",
+        "comment": "Newz Finder | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "18a7850e-6a27-5e55-b1ba-c006c11c236c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hfhfmkmokccaciopjahpkmfdbkjbhmfp",
+        "comment": "Chrome Web Store entry for Newz Finder (hfhfmkmokccaciopjahpkmfdbkjbhmfp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3097fa31-0643-5970-923c-79cceed6a38a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ebnkenjcbhmpapihbcnfebfgclipllgj",
+        "comment": "My Search Easy | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "01efb19e-2aad-519d-af7f-11f8a18a2389",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ebnkenjcbhmpapihbcnfebfgclipllgj",
+        "comment": "Chrome Web Store entry for My Search Easy (ebnkenjcbhmpapihbcnfebfgclipllgj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "91bfb0cd-ccd5-507f-9cb9-f598b946fa1e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gpflhmpghfekhbkllpohddhdblekmkjm",
+        "comment": "My Search Easy | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8068df54-cd97-58c9-8171-add9a0d94733",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gpflhmpghfekhbkllpohddhdblekmkjm",
+        "comment": "Chrome Web Store entry for My Search Easy (gpflhmpghfekhbkllpohddhdblekmkjm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1876d72f-19f6-5e61-bc5e-f27aeeb19dcc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fgomgoininjjcilkdpghijnhmlagbndk",
+        "comment": "Content Site Search Guru | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "54b4f423-8c07-5b6d-a4e7-558e8672e632",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fgomgoininjjcilkdpghijnhmlagbndk",
+        "comment": "Chrome Web Store entry for Content Site Search Guru (fgomgoininjjcilkdpghijnhmlagbndk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ecf491b8-6932-58c2-968b-924d9e104813",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cmahifelbbglhkphmfhacamaigkcknop",
+        "comment": "Flex Search Engine | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "169ae04e-3a0b-5f2c-a450-1569a596d5b1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cmahifelbbglhkphmfhacamaigkcknop",
+        "comment": "Chrome Web Store entry for Flex Search Engine (cmahifelbbglhkphmfhacamaigkcknop)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2508790f-280c-5819-be7b-6756b7dd361b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "caapofiiacjkdpchgmpmfbeoccpphhnb",
+        "comment": "Octagon Find | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f3e54e02-0534-5369-841d-c51f0da99999",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/caapofiiacjkdpchgmpmfbeoccpphhnb",
+        "comment": "Chrome Web Store entry for Octagon Find (caapofiiacjkdpchgmpmfbeoccpphhnb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d23638d7-7a6b-5504-8cd8-653c7d3de14d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bnicgleoempcdjoinaolcflaacjaldco",
+        "comment": "View Forms | Source: https://malext.io/reports/SearchJack/ | Store: Chrome | Added: 2026-07-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7e891c60-57bc-5e32-aa00-bf7b5e89e56e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bnicgleoempcdjoinaolcflaacjaldco",
+        "comment": "Chrome Web Store entry for View Forms (bnicgleoempcdjoinaolcflaacjaldco)",
+        "distribution": "5"
+      },
       {
         "uuid": "fdc22dee-b44d-5a07-b9a9-6aec319beb82",
         "type": "text",
