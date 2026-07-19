@@ -1,5 +1,29 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| bbbeknlpenajjppjiekjolmlonjlpiac | AI Chat Exporter: Save Chatgpt as PDF, MD and more | Bundling Unwanted Software | Store Monitoring | 19/07/26 | No | Google Chrome
+| nekodnmpigighiohaepicibloafjpphc | AI Chat Exporter: Save Claude to PDF, MD and more | Bundling Unwanted Software | Store Monitoring | 19/07/26 | No | Google Chrome
+| bifeecpjidkbnhmbbfgcfkjbfjlbkhof | NavVault: Chat Folders & Export(PDF, MD, JSON) for ChatGPT, Claude, Gemini | Bundling Unwanted Software | Store Monitoring | 19/07/26 | No | Google Chrome
+| lehnoddallibahdnfcigfmbpmmlfbpii | Hash | Malware | Store Monitoring | 19/07/26 | No | Google Chrome
+| hplfbpigkfejkaajfpmjciogfbpnekon | Advanced Tweet Translator | Malware | Store Monitoring | 19/07/26 | No | Google Chrome
+| mlkcgphnoclocbdmfackhpjifhcfpefh | Polymarket Utilities | Bundling Unwanted Software | Store Monitoring | 19/07/26 | No | Google Chrome
+| iinnhbfjbahmddefhdgelochopnanmcg | Chatgpt Helper Quick Access | Bundling Unwanted Software | Store Monitoring | 19/07/26 | No | Google Chrome
+| adihfjiklmpiomgihpipedppgadnacpm | RugLens AI - Solana Memecoin Rug Check & Axiom Token Scanner | Malware | Store Monitoring | 19/07/26 | No | Google Chrome
+| efbfmikjamhlinlenkkcdkbmlmhiobka | Speed Test | Policy Violation | Store Monitoring | 19/07/26 | No | Google Chrome
+| ijhihmaeefohdpfapalnolajpchlnbhn | AI Chat Exporter: Save Gemini as PDF, MD and more | Bundling Unwanted Software | Store Monitoring | 19/07/26 | No | Google Chrome
+| fgnfdemimflmkkmdilkloicmdigmjghp | Omni Convert - Search Settings for Omnibar | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| lfdljcfbppgpgcbahhcpdahbmlpddkmf | Get Maps & Directions | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| odkcfoohjiicbelloepgcomekdknchjh | Predator Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| omdkehkdnojcndhhilglklegbakenkgb | Best Homepage Ever: Custom New Tab Launcher | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| pflehjknninehfghakckeppppkjohdkk | Search Rewards | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| khbokcdnjabjniiimkjdfhgnkccbkoah | Torrent Search Engine For Chrome Professional | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| kbdkcdbedgbgfgcnpajlehfkmgdhchhm | Switch My Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| hfhfmkmokccaciopjahpkmfdbkjbhmfp | Newz Finder | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| ebnkenjcbhmpapihbcnfebfgclipllgj | My Search Easy | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| gpflhmpghfekhbkllpohddhdblekmkjm | My Search Easy | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| fgomgoininjjcilkdpghijnhmlagbndk | Content Site Search Guru | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| cmahifelbbglhkphmfhacamaigkcknop | Flex Search Engine | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| caapofiiacjkdpchgmpmfbeoccpphhnb | Octagon Find | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
+| bnicgleoempcdjoinaolcflaacjaldco | View Forms | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 19/07/26 | No | Chrome
 | ankfjdbiionhhbfheifebjcfmmlljbnj | BMW Iconic Stance Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 18/07/26 | No | Chrome
 | pkahfdonekmollfgldioiknjdocaohjn | Porsche Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 18/07/26 | No | Chrome
 | pjihnkkcaidjnbglnonkhnohdnlofmhc | ENHYPEN Black & White Aesthetic Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 18/07/26 | No | Chrome
