@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-19",
-    "timestamp": "1784451716",
+    "date": "2026-07-21",
+    "timestamp": "1784653531",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,209 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "9df882b9-95f0-54da-9790-832d04336e8a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pbfmkjjnmjfjlebpfcndpdhofoccgkje",
+        "comment": "AI Prompt Manager \u2013 PromptIn for ChatGPT, Claude, Gemini & More | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "13c40329-8723-50f0-b66b-ba83f6647a55",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/pbfmkjjnmjfjlebpfcndpdhofoccgkje",
+        "comment": "Microsoft Edge entry for AI Prompt Manager \u2013 PromptIn for ChatGPT, Claude, Gemini & More (pbfmkjjnmjfjlebpfcndpdhofoccgkje)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b1048fc6-0f41-572b-9803-7b2df277f749",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "igimfdmnnijclcfdgimooedbealfpndj",
+        "comment": "Xmetacene | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "883810f0-f1da-5986-ac1b-01662da4982f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/igimfdmnnijclcfdgimooedbealfpndj",
+        "comment": "Microsoft Edge entry for Xmetacene (igimfdmnnijclcfdgimooedbealfpndj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b2c1ed95-409c-56f3-a3f0-4bd3f4a63571",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hcbaponpddfjbpfmhkmacckplcdmojnh",
+        "comment": "Generator Domaine Name | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e3a86568-a76f-503d-8140-b2110c4732b6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hcbaponpddfjbpfmhkmacckplcdmojnh",
+        "comment": "Microsoft Edge entry for Generator Domaine Name (hcbaponpddfjbpfmhkmacckplcdmojnh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fdc1365d-1607-5fcd-9633-506d40170ae2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dljhdicfhhaonnblplgbonjbagabjjkf",
+        "comment": "Spotify Player Easy Access to your music | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c1b2a543-240c-5be8-8077-75fd3201d464",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dljhdicfhhaonnblplgbonjbagabjjkf",
+        "comment": "Microsoft Edge entry for Spotify Player Easy Access to your music (dljhdicfhhaonnblplgbonjbagabjjkf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1cb5135f-46b1-547e-8a3c-27d38acac63b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jfggglgolcgjhchnpohfiapfgapcnmoe",
+        "comment": "Tiktok Followers Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "378e78d3-f7d0-5df7-8f39-16e55e99c3e3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jfggglgolcgjhchnpohfiapfgapcnmoe",
+        "comment": "Microsoft Edge entry for Tiktok Followers Tracker (jfggglgolcgjhchnpohfiapfgapcnmoe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e4870485-9cb2-58da-a761-0b448f767f67",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fpnoakhilpcinbooidbcmeeioflmcpck",
+        "comment": "Fast Safe Search | Source: https://github.com/toborrm9/malicious_extension_sentry/issues/40 | Store: Chrome | Added: 2026-07-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/toborrm9/malicious_extension_sentry/issues/40\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "91a45c97-3904-5c69-9794-78d3a875e946",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fpnoakhilpcinbooidbcmeeioflmcpck",
+        "comment": "Chrome Web Store entry for Fast Safe Search (fpnoakhilpcinbooidbcmeeioflmcpck)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7e30065a-036e-54e1-9bce-ec7f98d05aba",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jgacjemaefpgfcjecoogiphcoallkbka",
+        "comment": "Privacy Surf | Source: https://github.com/toborrm9/malicious_extension_sentry/issues/38 | Store: Chrome | Added: 2026-07-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/toborrm9/malicious_extension_sentry/issues/38\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3c5e675b-c205-58cf-9833-cb67e135cdcb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jgacjemaefpgfcjecoogiphcoallkbka",
+        "comment": "Chrome Web Store entry for Privacy Surf (jgacjemaefpgfcjecoogiphcoallkbka)",
+        "distribution": "5"
+      },
       {
         "uuid": "d37fb78d-4b9f-5f97-ba57-76d4f98530b1",
         "type": "text",
