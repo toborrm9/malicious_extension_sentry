@@ -1,5 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| gohjiamaiemngnoblipneldkbnhlljpl | Privacia - Fast and Private Search Engine | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 23/07/26 | No | Chrome
+| fdchjkeijilhokfmddoenfljdcogkaod | Default Search Adjust | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 23/07/26 | No | Chrome
+| ahhfiejfpghdnpdbpkbiecnncehafdnk | Guard Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 23/07/26 | No | Chrome
+| naaffooocnnodpcmppdjhpjiogkljkch | Find The Recipe | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 23/07/26 | No | Chrome
+| gpbioggjdpkjpjmedkjcjdclbllginfk | Art Wallpapers New Tab | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 23/07/26 | No | Chrome
+| fmmickkobhbfclcaejbkbkfjejpddfjg | Health Search Pro | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 23/07/26 | No | Chrome
+| jbmmmambjlkjkinkpifefiaehflllopg | Mystique Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 23/07/26 | No | Chrome
+| pleldliknijeecdjckmcbcmgijjfkake | Recipes | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 23/07/26 | No | Chrome
 | ohbfphafneajpieeeinfpcpnmammgjdd | Safe Search on Chrome | Search Hijacking | [github.com](https://github.com/toborrm9/malicious_extension_sentry/issues/41) | 23/07/26 | No | Chrome
 | emkagjbnabikkibhclebiibndffkjiho | Simple PDF Search | Search Hijacking | [github.com](https://github.com/toborrm9/malicious_extension_sentry/issues/41) | 23/07/26 | No | Chrome
 | gajfjnadaloamfboafdfiopmfcdchkcf | Power Leads CRM | Bundling Unwanted Software | [malext.io](https://malext.io/reports/WhatsCluster/) | 22/07/26 | No | Chrome
