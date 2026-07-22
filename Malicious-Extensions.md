@@ -1,5 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hdmffdkpfpldhcpkkjicojjhchhgighe | Hyperliquid Portfolio Cop | Malware | Store Monitoring | 22/07/26 | No | Google Chrome
+| mehdmffcifbcpipjocnkkaoaofiafdmn | Tiktok Search Sorter | Policy Violation | Store Monitoring | 22/07/26 | No | Google Chrome
+| hgogikiignkncahjmclobekggmgopcmn | Fast Vpn быстрый Vpn для | Policy Violation | Store Monitoring | 22/07/26 | No | Google Chrome
+| okiphmjggelphdpdedlebijbooimgflo | 1Inch Defi Portfolio | Malware | Store Monitoring | 22/07/26 | No | Google Chrome
+| nhegjalbjahgkbailmhflalaanckfmfh | Tiktok Downloader | Policy Violation | Store Monitoring | 22/07/26 | No | Google Chrome
+| gcadckchfkkbheggmmgfdhapmkmmgemd | Tiktok Subtitle Extractor | Policy Violation | Store Monitoring | 22/07/26 | No | Google Chrome
+| fkffnimkelcidamgbjojaiampgmoelmg | Tik Tok Downloader | Policy Violation | Store Monitoring | 22/07/26 | No | Google Chrome
+| pgpmolmpnaendgfnfdleghbmaklpcjjp | Maestrotracker | Malware | Store Monitoring | 22/07/26 | No | Google Chrome
+| ooknmgjbhkkhdhdnmmmgklnbdbciakie | Pixel Mosaic Painter | Policy Violation | Store Monitoring | 22/07/26 | No | Google Chrome
+| bfienpimjbnmbcdblgcppkpjoljkmeop | Tiktok Downloader Analyti | Policy Violation | Store Monitoring | 22/07/26 | No | Google Chrome
 | pbfmkjjnmjfjlebpfcndpdhofoccgkje | AI Prompt Manager – PromptIn for ChatGPT, Claude, Gemini & More | Policy Violation | Store Monitoring | 21/07/26 | No | Google Chrome
 | igimfdmnnijclcfdgimooedbealfpndj | Xmetacene | Policy Violation | Store Monitoring | 21/07/26 | No | Google Chrome
 | hcbaponpddfjbpfmhkmacckplcdmojnh | Generator Domaine Name | Malware | Store Monitoring | 21/07/26 | No | Google Chrome
