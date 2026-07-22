@@ -1,12 +1,428 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-07-22T07:08:56Z",
+  "generated": "2026-07-22T22:30:30Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 3560,
+  "total_indicators": 3612,
   "indicators": [
+    {
+      "extension_id": "ohbfphafneajpieeeinfpcpnmammgjdd",
+      "name": "Safe Search on Chrome",
+      "source": "https://github.com/toborrm9/malicious_extension_sentry/issues/41",
+      "store": "Chrome",
+      "insert_date": "2026-07-23",
+      "store_url": "https://chromewebstore.google.com/detail/ohbfphafneajpieeeinfpcpnmammgjdd"
+    },
+    {
+      "extension_id": "emkagjbnabikkibhclebiibndffkjiho",
+      "name": "Simple PDF Search",
+      "source": "https://github.com/toborrm9/malicious_extension_sentry/issues/41",
+      "store": "Chrome",
+      "insert_date": "2026-07-23",
+      "store_url": "https://chromewebstore.google.com/detail/emkagjbnabikkibhclebiibndffkjiho"
+    },
+    {
+      "extension_id": "gajfjnadaloamfboafdfiopmfcdchkcf",
+      "name": "Power Leads CRM",
+      "source": "https://malext.io/reports/WhatsCluster/",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/gajfjnadaloamfboafdfiopmfcdchkcf"
+    },
+    {
+      "extension_id": "ameepemnabpimbdabkgakiligcaioabp",
+      "name": "Protege TODOS CRM",
+      "source": "https://malext.io/reports/WhatsCluster/",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/ameepemnabpimbdabkgakiligcaioabp"
+    },
+    {
+      "extension_id": "pffefphikcmnobplhdcebakapfildmld",
+      "name": "WA",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/pffefphikcmnobplhdcebakapfildmld"
+    },
+    {
+      "extension_id": "pdjlogbgaodpgdlpmikbopjbhabebifb",
+      "name": "Plusfy",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/pdjlogbgaodpgdlpmikbopjbhabebifb"
+    },
+    {
+      "extension_id": "mlppajibiceecppikhklhekggfabohie",
+      "name": "SECRETARIA PRO CRM",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/mlppajibiceecppikhklhekggfabohie"
+    },
+    {
+      "extension_id": "kohoglcehlcbjpjnfekbgncnmojdlejd",
+      "name": "ELIA IA CRM: CRM no whatsapp, Automa\u00e7\u00f5es e Ferramentas para venda",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/kohoglcehlcbjpjnfekbgncnmojdlejd"
+    },
+    {
+      "extension_id": "igjapgdhjkolkopejleeifhmipbkalpk",
+      "name": "Pede J\u00e1",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/igjapgdhjkolkopejleeifhmipbkalpk"
+    },
+    {
+      "extension_id": "fklojbooofihmfdikfodlmkebhnahlci",
+      "name": "AutoZap",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/fklojbooofihmfdikfodlmkebhnahlci"
+    },
+    {
+      "extension_id": "pocaakkjeennhconajflebcpfgjbomnn",
+      "name": "Ichigo Kurosaki Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/pocaakkjeennhconajflebcpfgjbomnn"
+    },
+    {
+      "extension_id": "pdjnpoipebpmhpologkmbnkbgpcmmdfk",
+      "name": "One Piece Straw Hat Pirates Epic Journey Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/pdjnpoipebpmhpologkmbnkbgpcmmdfk"
+    },
+    {
+      "extension_id": "ohphncoohckmmepdlnponchgmcfgckpp",
+      "name": "McLaren P1 Live Wallpaper New Tab",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/ohphncoohckmmepdlnponchgmcfgckpp"
+    },
+    {
+      "extension_id": "ogkdjkccacgkpgpcgbhmhemicopgdgjd",
+      "name": "K-pop Demon Hunters Zoey Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/ogkdjkccacgkpgpcgbhmhemicopgdgjd"
+    },
+    {
+      "extension_id": "ogfnkokijfomniceklhhobjhjohlokio",
+      "name": "Akatsuki Sasuke and Itachi digital Live wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/ogfnkokijfomniceklhhobjhjohlokio"
+    },
+    {
+      "extension_id": "ogcoelhdhiklkfpdnbknmgeaakhghjkg",
+      "name": "Night Sun - Easy Dark Mode",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/ogcoelhdhiklkfpdnbknmgeaakhghjkg"
+    },
+    {
+      "extension_id": "ogbgoknliophpgkanlpbmofbbondlopi",
+      "name": "Monkey D. Luffy and Straw Hat Pirates Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/ogbgoknliophpgkanlpbmofbbondlopi"
+    },
+    {
+      "extension_id": "nmnhfodaehfflhilindacbmiaaifcnig",
+      "name": "Persona 5 royal chill cafe",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/nmnhfodaehfflhilindacbmiaaifcnig"
+    },
+    {
+      "extension_id": "nieifhbgbmmdaenpmjohimpfnbcmpona",
+      "name": "Lionel Messi Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/nieifhbgbmmdaenpmjohimpfnbcmpona"
+    },
+    {
+      "extension_id": "nidnbahpilmlckapminbfcdcoghebhod",
+      "name": "Cat in Autumn Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/nidnbahpilmlckapminbfcdcoghebhod"
+    },
+    {
+      "extension_id": "lfddapgchlanafcdffmcbipbejhmkmlo",
+      "name": "Rumi Jinu Kissing Kpop Demon Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/lfddapgchlanafcdffmcbipbejhmkmlo"
+    },
+    {
+      "extension_id": "kljjoahddjnfockhommhkigdggnaemco",
+      "name": "Fortnite Breakpoint Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/kljjoahddjnfockhommhkigdggnaemco"
+    },
+    {
+      "extension_id": "kkdmihepmnbedcmklejpakphpgdafcgp",
+      "name": "Spirited Away Haku and Chihiro Wallpapers New Tab",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/kkdmihepmnbedcmklejpakphpgdafcgp"
+    },
+    {
+      "extension_id": "kcnedhlgjbnfoenchlnjjakomgphcnom",
+      "name": "Game of Thrones Night King Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/kcnedhlgjbnfoenchlnjjakomgphcnom"
+    },
+    {
+      "extension_id": "jcbfjeoppgmmnjilkbjcijedcaddeohl",
+      "name": "One Eyed Samurai Warrior Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/jcbfjeoppgmmnjilkbjcijedcaddeohl"
+    },
+    {
+      "extension_id": "imbpbhnahlcgaglgnabbkloeajfiflan",
+      "name": "Dragon Ball Gohan\u2019s Power Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/imbpbhnahlcgaglgnabbkloeajfiflan"
+    },
+    {
+      "extension_id": "ihjoaiaandelifdaemobcgkdgeadpdgg",
+      "name": "One Piece Horizon Stormbringer Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/ihjoaiaandelifdaemobcgkdgeadpdgg"
+    },
+    {
+      "extension_id": "ihjahienglgbjemobjnceaghhkifkncf",
+      "name": "Isagi Yoichi Blue Lock Anime Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/ihjahienglgbjemobjnceaghhkifkncf"
+    },
+    {
+      "extension_id": "ihjbdbhnanglcpgoobmlojmfjlbnlkgk",
+      "name": "DOOM The Dark Ages Wallpapers",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/ihjbdbhnanglcpgoobmlojmfjlbnlkgk"
+    },
+    {
+      "extension_id": "ihdjbggnengipjcelnemajdjlmbpejen",
+      "name": "Satoru Gojo SatSato JJK Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/ihdjbggnengipjcelnemajdjlmbpejen"
+    },
+    {
+      "extension_id": "ihcndiegbhjgjiamclmjhdjbjmiopaog",
+      "name": "Hoshimi Miyabi Zenless Zone Zero Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/ihcndiegbhjgjiamclmjhdjbjmiopaog"
+    },
+    {
+      "extension_id": "igjajglgjdacooicifhmhafhfinkhaai",
+      "name": "Tanjiro Kamado Kimetsu No Yaiba Gameograf",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/igjajglgjdacooicifhmhafhfinkhaai"
+    },
+    {
+      "extension_id": "hebcoenfldcbnofdaolpfaiiikhbofln",
+      "name": "Lofi Sytle Satoru Gojo Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/hebcoenfldcbnofdaolpfaiiikhbofln"
+    },
+    {
+      "extension_id": "ffofcflbkaemkobogongmanblnpjfkkp",
+      "name": "Luffy Zoro Epic Duo in One Piece Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/ffofcflbkaemkobogongmanblnpjfkkp"
+    },
+    {
+      "extension_id": "fffiplonjdcppdlolchbakkmlicbnagm",
+      "name": "Ichigo Kurosaki Moonlit Blade Bleach Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/fffiplonjdcppdlolchbakkmlicbnagm"
+    },
+    {
+      "extension_id": "fdjpcjggpgdmdikmhoagohakklihimbo",
+      "name": "Jellyfish Aquarium Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/fdjpcjggpgdmdikmhoagohakklihimbo"
+    },
+    {
+      "extension_id": "fainhbnfojkpbndfnfnpomhhkgjmbgmh",
+      "name": "Yuuka Hayase Blue Archive Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/fainhbnfojkpbndfnfnpomhhkgjmbgmh"
+    },
+    {
+      "extension_id": "fagmaagfdnljcgjkidokihffhklfjbgo",
+      "name": "One Piece Luffy in Autumn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/fagmaagfdnljcgjkidokihffhklfjbgo"
+    },
+    {
+      "extension_id": "fahdafnkjcboeoeddjigenicbolakphn",
+      "name": "One Piece, Sanji anime characters  Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/fahdafnkjcboeoeddjigenicbolakphn"
+    },
+    {
+      "extension_id": "faenmbiggnhiffgbkcecdneaanhoopnc",
+      "name": "Supercar Porsche 911 Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/faenmbiggnhiffgbkcecdneaanhoopnc"
+    },
+    {
+      "extension_id": "fabeeeohdkmfohmmaahjdhjchgolkbcn",
+      "name": "Skeleton Warrior Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/fabeeeohdkmfohmmaahjdhjchgolkbcn"
+    },
+    {
+      "extension_id": "faaegcmakhlmoheamicddkfcmmjoljnd",
+      "name": "Mechanical Flame Owl Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/faaegcmakhlmoheamicddkfcmmjoljnd"
+    },
+    {
+      "extension_id": "enicoijpnhfhhahhojepkcinfnekobae",
+      "name": "G)I-DLE (\u110b\u1167\u110c\u1161)\u110b\u1161\u110b\u1175\u1103\u1173\u11af Wallpapers New Tab Extension by Gameograf",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/enicoijpnhfhhahhojepkcinfnekobae"
+    },
+    {
+      "extension_id": "englhjafebkdjgaohehkmbjibenebfle",
+      "name": "Demon in Crimson Shadows Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/englhjafebkdjgaohehkmbjibenebfle"
+    },
+    {
+      "extension_id": "dmmncfmoppbjaaaodapmjjaddgeecbbg",
+      "name": "Chainsaw Man Girs Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/dmmncfmoppbjaaaodapmjjaddgeecbbg"
+    },
+    {
+      "extension_id": "dmmbpigegpnemmigbgldabighdhghnka",
+      "name": "Cute Retro My Melody Pink Cafe Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/dmmbpigegpnemmigbgldabighdhghnka"
+    },
+    {
+      "extension_id": "cikmghgnhcjkbbbbnpblhknijhdiianp",
+      "name": "One Piece Luffy Live Wallpaper New Tab",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/cikmghgnhcjkbbbbnpblhknijhdiianp"
+    },
+    {
+      "extension_id": "cikaflmhchncpamfholdiidbkjmajafh",
+      "name": "Dragon Ball Son Goku Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/cikaflmhchncpamfholdiidbkjmajafh"
+    },
+    {
+      "extension_id": "cegfnpghmfmgkngfecffobkgennefhhg",
+      "name": "Naruto Uzumaki Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/cegfnpghmfmgkngfecffobkgennefhhg"
+    },
+    {
+      "extension_id": "bnmobfhfbagiomlphadlgdakbkfehnke",
+      "name": "Ponyo Wallpapers",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/bnmobfhfbagiomlphadlgdakbkfehnke"
+    },
+    {
+      "extension_id": "bdnepbhfjdphjdmaahoidocieifndcog",
+      "name": "Grimm X Leaf Black Souls Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/bdnepbhfjdphjdmaahoidocieifndcog"
+    },
+    {
+      "extension_id": "aheandlbfmpajomknfcggmjkglinjanh",
+      "name": "Jojo Dio Brando Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Chrome",
+      "insert_date": "2026-07-22",
+      "store_url": "https://chromewebstore.google.com/detail/aheandlbfmpajomknfcggmjkglinjanh"
+    },
     {
       "extension_id": "hdmffdkpfpldhcpkkjicojjhchhgighe",
       "name": "Hyperliquid Portfolio Cop",
