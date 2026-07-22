@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-21",
-    "timestamp": "1784653531",
+    "date": "2026-07-22",
+    "timestamp": "1784704137",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,296 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "98d65f02-335e-590a-a147-36cf1fd4cb3a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hdmffdkpfpldhcpkkjicojjhchhgighe",
+        "comment": "Hyperliquid Portfolio Cop | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e5463c14-3fa0-59c4-b48f-70b9f1381498",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hdmffdkpfpldhcpkkjicojjhchhgighe",
+        "comment": "Microsoft Edge entry for Hyperliquid Portfolio Cop (hdmffdkpfpldhcpkkjicojjhchhgighe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d42a204f-7017-563d-8ca3-6160551ea92a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mehdmffcifbcpipjocnkkaoaofiafdmn",
+        "comment": "Tiktok Search Sorter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9284d50d-bd07-52a4-b065-be1926ec492b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mehdmffcifbcpipjocnkkaoaofiafdmn",
+        "comment": "Microsoft Edge entry for Tiktok Search Sorter (mehdmffcifbcpipjocnkkaoaofiafdmn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0445e559-3aa8-5e15-b842-c8c32b0e6f4a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hgogikiignkncahjmclobekggmgopcmn",
+        "comment": "Fast Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn \u0434\u043b\u044f | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5156076f-c5cf-5d01-ab63-ecbdc3844e66",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hgogikiignkncahjmclobekggmgopcmn",
+        "comment": "Microsoft Edge entry for Fast Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn \u0434\u043b\u044f (hgogikiignkncahjmclobekggmgopcmn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8d0ab2e0-1e35-5356-bfd5-2c8151edc30f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "okiphmjggelphdpdedlebijbooimgflo",
+        "comment": "1Inch Defi Portfolio | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "120de587-097b-56f8-8c5d-f94ce5dfc479",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/okiphmjggelphdpdedlebijbooimgflo",
+        "comment": "Microsoft Edge entry for 1Inch Defi Portfolio (okiphmjggelphdpdedlebijbooimgflo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7258c30f-d262-597b-8563-320b6022b7f7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nhegjalbjahgkbailmhflalaanckfmfh",
+        "comment": "Tiktok Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6fa2cabd-44ee-5785-b38d-cf8100a039a0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/nhegjalbjahgkbailmhflalaanckfmfh",
+        "comment": "Microsoft Edge entry for Tiktok Downloader (nhegjalbjahgkbailmhflalaanckfmfh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "012e641e-2ed5-5d05-af95-cb5b20925abc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gcadckchfkkbheggmmgfdhapmkmmgemd",
+        "comment": "Tiktok Subtitle Extractor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fe06a6a9-575b-59ea-8ddb-9956e755a691",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/gcadckchfkkbheggmmgfdhapmkmmgemd",
+        "comment": "Microsoft Edge entry for Tiktok Subtitle Extractor (gcadckchfkkbheggmmgfdhapmkmmgemd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "91c7c749-0c15-5d14-abba-a98ec0f5c113",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fkffnimkelcidamgbjojaiampgmoelmg",
+        "comment": "Tik Tok Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "64d564f8-8cba-5700-b0ab-5b19d4a0005a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/fkffnimkelcidamgbjojaiampgmoelmg",
+        "comment": "Microsoft Edge entry for Tik Tok Downloader (fkffnimkelcidamgbjojaiampgmoelmg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4afbd179-2bfc-53e9-94f0-ad7ae020ef1e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pgpmolmpnaendgfnfdleghbmaklpcjjp",
+        "comment": "Maestrotracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f2e124f5-3b4f-5f4f-b211-0de988a3665e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/pgpmolmpnaendgfnfdleghbmaklpcjjp",
+        "comment": "Microsoft Edge entry for Maestrotracker (pgpmolmpnaendgfnfdleghbmaklpcjjp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2c5dd212-2462-549c-808e-6dc2e1b4e307",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ooknmgjbhkkhdhdnmmmgklnbdbciakie",
+        "comment": "Pixel Mosaic Painter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f825b97e-c7dc-5b12-ad61-34602521755e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ooknmgjbhkkhdhdnmmmgklnbdbciakie",
+        "comment": "Microsoft Edge entry for Pixel Mosaic Painter (ooknmgjbhkkhdhdnmmmgklnbdbciakie)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "70be1fe3-1956-5353-a755-2fca71241a0a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bfienpimjbnmbcdblgcppkpjoljkmeop",
+        "comment": "Tiktok Downloader Analyti | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7e2ef0a6-eca0-578e-a570-795a00a2fd13",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bfienpimjbnmbcdblgcppkpjoljkmeop",
+        "comment": "Microsoft Edge entry for Tiktok Downloader Analyti (bfienpimjbnmbcdblgcppkpjoljkmeop)",
+        "distribution": "5"
+      },
       {
         "uuid": "9df882b9-95f0-54da-9790-832d04336e8a",
         "type": "text",
