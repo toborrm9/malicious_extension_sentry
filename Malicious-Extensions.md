@@ -1,5 +1,23 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hkjofidiledehkcpidjbpadcccdladoh | Adblock Shield – Block Ad | Bundling Unwanted Software | Store Monitoring | 23/07/26 | No | Google Chrome
+| mjiafelamfhhdgljbhohkgebokknfpob | Tangem Portfolio Viewer | Malware | Store Monitoring | 23/07/26 | No | Google Chrome
+| dpdhcohngfekhokfailidcdaoookgcib | Silent Adblock | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
+| gjlkjldlfpffbighihofbhbbghljnmla | Razor Scan | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
+| fidodhpkhknbcafknjboglppcceooekp | Amplify | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
+| hjbbeolgpbjijbddofkdiejblagpfhig | Radmin Vpn — прямой Proxy | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
+| phijlanphmnogelknpikfeldkidlhfao | Ai Prospecttok | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
+| hjklhjnjmhaiennddigiajhlempajbbd | Autoandpropertylister | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
+| hcgpmejdbeacmcplmkmlhadhjhjblfhc | Proton Vpn — стабильный P | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
+| mpaopaobadmhboodamkabgjaoffoblfd | Base App Built To Trade | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
+| amboicpfmejfhfkpphioalamembeaeid | Pawse Break Reminder Scre | Bundling Unwanted Software | Store Monitoring | 23/07/26 | No | Google Chrome
+| eobcfjeemoiaandpilaaekhbnfekpabn | тRust GаS | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
+| dbichmdlbjdeplpkhcejgkakobjbjalc | 社媒助手 小红书、抖音、哔哩哔哩、快手、Tikto | Malware | Store Monitoring | 23/07/26 | No | Google Chrome
+| kadeihncpldbfehcknjjapjhblgjopng | Xamanpro Browser Desktop | Malware | Store Monitoring | 23/07/26 | No | Google Chrome
+| fbbogpehachhpbjfladmccaejmfcjfja | Privacy Blur For Whatsapp | Bundling Unwanted Software | Store Monitoring | 23/07/26 | No | Google Chrome
+| glpabadbnjcohophnnbhonfpbkiljiof | Adblocker For All Website | Bundling Unwanted Software | Store Monitoring | 23/07/26 | No | Google Chrome
+| lgffhbpldjikplafmngceihdfnpcjhfb | Haku Labs | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
+| jfllfbeekighpbpaijppangggdjocjhi | Start Vpn — подключение в | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
 | gohjiamaiemngnoblipneldkbnhlljpl | Privacia - Fast and Private Search Engine | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 23/07/26 | No | Chrome
 | fdchjkeijilhokfmddoenfljdcogkaod | Default Search Adjust | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 23/07/26 | No | Chrome
 | ahhfiejfpghdnpdbpkbiecnncehafdnk | Guard Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 23/07/26 | No | Chrome
