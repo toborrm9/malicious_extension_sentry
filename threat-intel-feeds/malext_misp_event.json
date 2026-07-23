@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-22",
-    "timestamp": "1784762890",
+    "date": "2026-07-23",
+    "timestamp": "1784806583",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,528 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "0a8cc791-ca00-5491-a085-b5161c6f1a85",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hkjofidiledehkcpidjbpadcccdladoh",
+        "comment": "Adblock Shield \u2013 Block Ad | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d913bf3d-bb12-5916-92e3-ce6d2b9de393",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hkjofidiledehkcpidjbpadcccdladoh",
+        "comment": "Microsoft Edge entry for Adblock Shield \u2013 Block Ad (hkjofidiledehkcpidjbpadcccdladoh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4a07b64d-9f79-5352-9380-899f5a797bae",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mjiafelamfhhdgljbhohkgebokknfpob",
+        "comment": "Tangem Portfolio Viewer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a6e4a7c6-726a-5055-abd5-b8075b0c103f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mjiafelamfhhdgljbhohkgebokknfpob",
+        "comment": "Microsoft Edge entry for Tangem Portfolio Viewer (mjiafelamfhhdgljbhohkgebokknfpob)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dccd28ad-46ba-5643-bd90-dfeb16e4dad1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dpdhcohngfekhokfailidcdaoookgcib",
+        "comment": "Silent Adblock | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "18577ea8-52cb-56dd-bf36-d49287e710df",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dpdhcohngfekhokfailidcdaoookgcib",
+        "comment": "Microsoft Edge entry for Silent Adblock (dpdhcohngfekhokfailidcdaoookgcib)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e765384f-eb7c-50ef-87e0-b884e99cafd8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gjlkjldlfpffbighihofbhbbghljnmla",
+        "comment": "Razor Scan | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ff279e1a-26e7-5cfc-a2ec-a1ab7a964eee",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/gjlkjldlfpffbighihofbhbbghljnmla",
+        "comment": "Microsoft Edge entry for Razor Scan (gjlkjldlfpffbighihofbhbbghljnmla)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ba4498ff-02e1-5ea5-aaad-d6f138d40414",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fidodhpkhknbcafknjboglppcceooekp",
+        "comment": "Amplify | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e06775fa-6e53-54f5-a440-aaf7e77ff96d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/fidodhpkhknbcafknjboglppcceooekp",
+        "comment": "Microsoft Edge entry for Amplify (fidodhpkhknbcafknjboglppcceooekp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1e34f8a9-177a-58cf-8f49-4296723629ed",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hjbbeolgpbjijbddofkdiejblagpfhig",
+        "comment": "Radmin Vpn \u2014 \u043f\u0440\u044f\u043c\u043e\u0439 Proxy | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "150f6857-9d00-5491-8c8f-f1a246c04cf2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hjbbeolgpbjijbddofkdiejblagpfhig",
+        "comment": "Microsoft Edge entry for Radmin Vpn \u2014 \u043f\u0440\u044f\u043c\u043e\u0439 Proxy (hjbbeolgpbjijbddofkdiejblagpfhig)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "78b6db60-dedc-5f45-ab8a-4f74327147bf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "phijlanphmnogelknpikfeldkidlhfao",
+        "comment": "Ai Prospecttok | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c13d3219-e60c-5dd1-b02a-72712ad7f1df",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/phijlanphmnogelknpikfeldkidlhfao",
+        "comment": "Microsoft Edge entry for Ai Prospecttok (phijlanphmnogelknpikfeldkidlhfao)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cfde3078-f643-5b7e-850f-db97b304cefa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hjklhjnjmhaiennddigiajhlempajbbd",
+        "comment": "Autoandpropertylister | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3aed7c5e-c86a-5442-84f2-34ef9c49bc89",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hjklhjnjmhaiennddigiajhlempajbbd",
+        "comment": "Microsoft Edge entry for Autoandpropertylister (hjklhjnjmhaiennddigiajhlempajbbd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "744a25ec-abce-58a5-9454-6a4b9cfe4585",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hcgpmejdbeacmcplmkmlhadhjhjblfhc",
+        "comment": "Proton Vpn \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 P | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c1bd2b32-cc63-50e7-bb7f-372de923fc3f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hcgpmejdbeacmcplmkmlhadhjhjblfhc",
+        "comment": "Microsoft Edge entry for Proton Vpn \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 P (hcgpmejdbeacmcplmkmlhadhjhjblfhc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ed6510f5-83f8-59b1-9918-9cd516dfbb05",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mpaopaobadmhboodamkabgjaoffoblfd",
+        "comment": "Base App Built To Trade | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bc4f3767-54af-5178-a193-fc9f33cccc4b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mpaopaobadmhboodamkabgjaoffoblfd",
+        "comment": "Microsoft Edge entry for Base App Built To Trade (mpaopaobadmhboodamkabgjaoffoblfd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d845ede2-28e4-53b8-a100-99454ee75113",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "amboicpfmejfhfkpphioalamembeaeid",
+        "comment": "Pawse Break Reminder Scre | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "81fcc0da-1c99-59dd-89a6-99c3b86877cc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/amboicpfmejfhfkpphioalamembeaeid",
+        "comment": "Microsoft Edge entry for Pawse Break Reminder Scre (amboicpfmejfhfkpphioalamembeaeid)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "958ef79a-a7a0-5f04-8cab-5709b15f9ba4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eobcfjeemoiaandpilaaekhbnfekpabn",
+        "comment": "\u0442Rust G\u0430S | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5b356c2b-1ec9-513b-96d0-abe7f19e7d00",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/eobcfjeemoiaandpilaaekhbnfekpabn",
+        "comment": "Microsoft Edge entry for \u0442Rust G\u0430S (eobcfjeemoiaandpilaaekhbnfekpabn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ca8b1f5f-ef0f-510c-9ff0-8b080de16801",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dbichmdlbjdeplpkhcejgkakobjbjalc",
+        "comment": "\u793e\u5a92\u52a9\u624b \u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u3001\u54d4\u54e9\u54d4\u54e9\u3001\u5feb\u624b\u3001Tikto | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c8f1285c-ec91-5435-8187-8488aca999cd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dbichmdlbjdeplpkhcejgkakobjbjalc",
+        "comment": "Microsoft Edge entry for \u793e\u5a92\u52a9\u624b \u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u3001\u54d4\u54e9\u54d4\u54e9\u3001\u5feb\u624b\u3001Tikto (dbichmdlbjdeplpkhcejgkakobjbjalc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8673cbca-6644-5993-904c-549610f9f308",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kadeihncpldbfehcknjjapjhblgjopng",
+        "comment": "Xamanpro Browser Desktop | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0cf36ef3-b5f5-540c-b888-61f16af40e78",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/kadeihncpldbfehcknjjapjhblgjopng",
+        "comment": "Microsoft Edge entry for Xamanpro Browser Desktop (kadeihncpldbfehcknjjapjhblgjopng)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bd5070a0-3a5c-588e-98f5-95dbdd90ebb2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fbbogpehachhpbjfladmccaejmfcjfja",
+        "comment": "Privacy Blur For Whatsapp | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "794339c7-e145-5b03-818d-c6992a61f523",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/fbbogpehachhpbjfladmccaejmfcjfja",
+        "comment": "Microsoft Edge entry for Privacy Blur For Whatsapp (fbbogpehachhpbjfladmccaejmfcjfja)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8a0cc62f-2746-5957-b5b9-e625b7bc2352",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "glpabadbnjcohophnnbhonfpbkiljiof",
+        "comment": "Adblocker For All Website | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "58028926-9ba4-5afe-ac84-794a5c368612",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/glpabadbnjcohophnnbhonfpbkiljiof",
+        "comment": "Microsoft Edge entry for Adblocker For All Website (glpabadbnjcohophnnbhonfpbkiljiof)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c3c8fb1f-57af-52ac-9db0-93166df6c375",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lgffhbpldjikplafmngceihdfnpcjhfb",
+        "comment": "Haku Labs | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bdb91c20-0c6c-568f-abfd-af886edc8f84",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/lgffhbpldjikplafmngceihdfnpcjhfb",
+        "comment": "Microsoft Edge entry for Haku Labs (lgffhbpldjikplafmngceihdfnpcjhfb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "59807edd-d1de-5143-ae6e-fd1d3d4377c6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jfllfbeekighpbpaijppangggdjocjhi",
+        "comment": "Start Vpn \u2014 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0432 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "273fabc5-e0ea-5644-b13f-953aeb83890b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jfllfbeekighpbpaijppangggdjocjhi",
+        "comment": "Microsoft Edge entry for Start Vpn \u2014 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0432 (jfllfbeekighpbpaijppangggdjocjhi)",
+        "distribution": "5"
+      },
       {
         "uuid": "367b0396-4887-5a3c-b4bc-93dbeea47001",
         "type": "text",
