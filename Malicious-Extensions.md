@@ -1,5 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| jeoaopehmgjmmoicppkkfocfjfiojmpb | Aave Wallet Viewer | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
+| mgiokhkacdpmliemnigjaaafjkebooaj | Video Downloader For All | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
+| kpmlkhedpebiilkdpjbckcadjdaioggp | Fast Video Downloader Plus - Save Any Video | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
+| pajnanibdfmmbpbcbcenclklaiidaagk | Sellio | Policy Violation | Store Monitoring | 24/07/26 | No | Google Chrome
+| kfldgjogmbimdlogfjlamcaehlfnkkji | Orbital Gas Gauge | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
+| kpbbdgplejjhkhfilkekcbpmdbneajcf | Stream Player Hls M3U8 | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
+| cpklcjliccfgbjdknfkdlaadikjgdonl | Crypto Price Tracker | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
+| jlkmjnjncpcplnajcbibddpkmbficecj | Telegram Blur - Advanced Telegram Web Privacy | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
+| pifoflakgnfaeladnahkakmihcbeekba | Video Downloader For All | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
+| ahfbjljipkpgbknoognlpekjkpmibgkf | Total Privacy For Whatsap | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
 | hkjofidiledehkcpidjbpadcccdladoh | Adblock Shield – Block Ad | Bundling Unwanted Software | Store Monitoring | 23/07/26 | No | Google Chrome
 | mjiafelamfhhdgljbhohkgebokknfpob | Tangem Portfolio Viewer | Malware | Store Monitoring | 23/07/26 | No | Google Chrome
 | dpdhcohngfekhokfailidcdaoookgcib | Silent Adblock | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
@@ -12,9 +22,9 @@
 | mpaopaobadmhboodamkabgjaoffoblfd | Base App Built To Trade | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
 | amboicpfmejfhfkpphioalamembeaeid | Pawse Break Reminder Scre | Bundling Unwanted Software | Store Monitoring | 23/07/26 | No | Google Chrome
 | eobcfjeemoiaandpilaaekhbnfekpabn | тRust GаS | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
-| dbichmdlbjdeplpkhcejgkakobjbjalc | 社媒助手 小红书、抖音、哔哩哔哩、快手、Tikto | Malware | Store Monitoring | 23/07/26 | No | Google Chrome
+| dbichmdlbjdeplpkhcejgkakobjbjalc | 社媒助手 小红书、抖音、哔哩哔哩、快手、Tikto | Malware | Store Monitoring | 23/07/26 | Yes | Google Chrome
 | kadeihncpldbfehcknjjapjhblgjopng | Xamanpro Browser Desktop | Malware | Store Monitoring | 23/07/26 | No | Google Chrome
-| fbbogpehachhpbjfladmccaejmfcjfja | Privacy Blur For Whatsapp | Bundling Unwanted Software | Store Monitoring | 23/07/26 | No | Google Chrome
+| fbbogpehachhpbjfladmccaejmfcjfja | Privacy Blur For Whatsapp | Bundling Unwanted Software | Store Monitoring | 23/07/26 | Yes | Google Chrome
 | glpabadbnjcohophnnbhonfpbkiljiof | Adblocker For All Website | Bundling Unwanted Software | Store Monitoring | 23/07/26 | No | Google Chrome
 | lgffhbpldjikplafmngceihdfnpcjhfb | Haku Labs | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
 | jfllfbeekighpbpaijppangggdjocjhi | Start Vpn — подключение в | Policy Violation | Store Monitoring | 23/07/26 | No | Google Chrome
@@ -88,11 +98,13 @@
 | pgpmolmpnaendgfnfdleghbmaklpcjjp | Maestrotracker | Malware | Store Monitoring | 22/07/26 | No | Google Chrome
 | ooknmgjbhkkhdhdnmmmgklnbdbciakie | Pixel Mosaic Painter | Policy Violation | Store Monitoring | 22/07/26 | No | Google Chrome
 | bfienpimjbnmbcdblgcppkpjoljkmeop | Tiktok Downloader Analyti | Policy Violation | Store Monitoring | 22/07/26 | No | Google Chrome
+| gehhnnddjfiakmanbmpgediiohlbnefb | Chatgpt Tts | Policy Violation | Store Monitoring | 21/07/26 | No | Google Chrome
 | pbfmkjjnmjfjlebpfcndpdhofoccgkje | AI Prompt Manager – PromptIn for ChatGPT, Claude, Gemini & More | Policy Violation | Store Monitoring | 21/07/26 | No | Google Chrome
 | igimfdmnnijclcfdgimooedbealfpndj | Xmetacene | Policy Violation | Store Monitoring | 21/07/26 | No | Google Chrome
 | hcbaponpddfjbpfmhkmacckplcdmojnh | Generator Domaine Name | Malware | Store Monitoring | 21/07/26 | No | Google Chrome
 | dljhdicfhhaonnblplgbonjbagabjjkf | Spotify Player Easy Access to your music | Policy Violation | Store Monitoring | 21/07/26 | No | Google Chrome
 | jfggglgolcgjhchnpohfiapfgapcnmoe | Tiktok Followers Tracker | Policy Violation | Store Monitoring | 21/07/26 | No | Google Chrome
+| ooeadlbljlajjghbadommcfinodnmgfk | Cft Csflipstools | Malware | Store Monitoring | 20/07/26 | No | Google Chrome
 | fpnoakhilpcinbooidbcmeeioflmcpck | Fast Safe Search | Search Hijacking | [github.com](https://github.com/toborrm9/malicious_extension_sentry/issues/40) | 20/07/26 | No | Chrome
 | jgacjemaefpgfcjecoogiphcoallkbka | Privacy Surf | Search Hijacking | [github.com](https://github.com/toborrm9/malicious_extension_sentry/issues/38) | 20/07/26 | No | Chrome
 | bbbeknlpenajjppjiekjolmlonjlpiac | AI Chat Exporter: Save Chatgpt as PDF, MD and more | Bundling Unwanted Software | Store Monitoring | 19/07/26 | No | Google Chrome
@@ -194,6 +206,10 @@
 | gjgeepgbnihfmnngdaidcndjpieipaic | Ontranslator | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
 | pnfbhonpmgdimlamippohijmaajcnbac | Faceapp Perfect Face Edit | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
 | nkjdolmphckfdhkllhpdfbpdbehbmmkk | Export AI Chat - ChatGPT, Gemini, Grok | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
+| jhokjcfjganpbgbhakmlijfgaelmnecg | Bookmarkred | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| lcajfedgkkedilpgmchagemajpdbmbjo | Douyin Downloader | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| lkcanmapdochbmhmnealkkgpdidfgkld | Trezor Portfolio Viewer | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| objofcekaggkondefjakfmlccdelglpm | Raydium Portfolio Viewer | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | febgaeoegckcdcdhammknmiobpjkpgbe | Snaily For Linkedin Auto | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | cnkfballfjhdijogkjjhdfmnkijcjgbc | Influencer Butler | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | fpongdoobjfkndekfcmmchifdhijgknk | Tronguard Wallet | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
@@ -518,6 +534,8 @@
 | ndnjjjppaaiclfjlnopmnimhhiikkppk | Claude to PDF: Export Claude Chats to PDF, Markdown, JSON | Policy Violation | [malext.io](https://malext.io/reports/ExporTheft/) | 14/07/26 | No | Chrome
 | poboebmiaakclneagfgfmbakpgcgdfii | ChatGPT to PDF: Export ChatGPT Chats to PDF, Markdown, JSON | Policy Violation | [malext.io](https://malext.io/reports/ExporTheft/) | 14/07/26 | No | Chrome
 | dhjbkabkopajddjinfdlooppcajoclag | AI Chat Exporter - ChatGPT, Claude, Gemini & DeepSeek to PDF | Policy Violation | [malext.io](https://malext.io/reports/ExporTheft/) | 14/07/26 | No | Chrome
+| jaaehfbhjnijbkffebhlfnpkeapkopkm | Afrix | Malware | Store Monitoring | 13/07/26 | No | Google Chrome
+| ildhhjfikfjkmgicnhpbhoaokjnbcmde | Pluravue Fax Integration | Policy Violation | Store Monitoring | 13/07/26 | No | Google Chrome
 | ilkdaiednajbdbjfpcjcpecjmincmkkl | HTML to Elementor – Web Page Converter | Policy Violation | Store Monitoring | 13/07/26 | No | Google Chrome
 | mednmckglhbmgbjpombcjnijkgghnlmo | Minecraft Skeleton Showdown Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/07/26 | No | Chrome
 | jeiijnmjjfnjnddcgheafdjccdmapdaa | Monster Hulk (Marvel Rivals) Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/07/26 | No | Chrome
@@ -774,7 +792,7 @@
 | neognhojdkfklkjdfipmkljomnbpekjg | Youtube Activity Cleaner | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
 | jaibghbhaadfcjmfeacllhgdkbpmcloi | Derrick Helper | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
 | imgcgklkfabbpaafpjnkelmfdfnckeph | Mossy | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
-| jejifcplmempiomnkemeedgibenehpfk | Phonefinder – Find Contac | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
+| jejifcplmempiomnkemeedgibenehpfk | Phonefinder – Find Contac | Policy Violation | Store Monitoring | 03/07/26 | Yes | Google Chrome
 | cmiafibpgpfjdheafdflginmknifkolh | Snow Rider 3D Unblocked | Policy Violation | Store Monitoring | 03/07/26 | Yes | Google Chrome
 | mhabahpbnihmmpbiooeloklacbgllfen | Vpn для Chrome — бесплатн | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
 | pkbohfdjhpmkfbghcaaemmncmbccnanc | Myxa Vpn Premium | Policy Violation | Store Monitoring | 03/07/26 | No | Google Chrome
