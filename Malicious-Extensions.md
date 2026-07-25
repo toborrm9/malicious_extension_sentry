@@ -1,5 +1,6 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| kadaohckdkghfaclhjmkmplebcdcnfnp | Planet Search | Search Hijacking | [malext.io](https://malext.io/reports/RoguePlanet) | 25/07/26 | No | Chrome
 | lfnionffkeogndgookgchgcbdbpbdecd | Universal Image Toolkit | Bundling Unwanted Software | Store Monitoring | 25/07/26 | No | Google Chrome
 | ogdpapgoacljcfkgpnnaipabpaakoaaf | Smart Kanban Tab | Bundling Unwanted Software | Store Monitoring | 25/07/26 | No | Google Chrome
 | ikkfbembbndlplnhpdjncldakankmfad | Full Page Screenshot | Bundling Unwanted Software | Store Monitoring | 25/07/26 | No | Google Chrome
