@@ -1,12 +1,20 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-07-25T08:21:47Z",
+  "generated": "2026-07-25T10:09:12Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 3672,
+  "total_indicators": 3673,
   "indicators": [
+    {
+      "extension_id": "kadaohckdkghfaclhjmkmplebcdcnfnp",
+      "name": "Planet Search",
+      "source": "https://malext.io/reports/RoguePlanet",
+      "store": "Chrome",
+      "insert_date": "2026-07-25",
+      "store_url": "https://chromewebstore.google.com/detail/kadaohckdkghfaclhjmkmplebcdcnfnp"
+    },
     {
       "extension_id": "lfnionffkeogndgookgchgcbdbpbdecd",
       "name": "Universal Image Toolkit",
