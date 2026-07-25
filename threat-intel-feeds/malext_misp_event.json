@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-07-25",
-    "timestamp": "1784967707",
+    "timestamp": "1784974152",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,35 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "39e44b58-3b5b-5f35-8120-c484b1d447c6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kadaohckdkghfaclhjmkmplebcdcnfnp",
+        "comment": "Planet Search | Source: https://malext.io/reports/RoguePlanet | Store: Chrome | Added: 2026-07-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/RoguePlanet\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4d22a821-8e05-5aca-8cd6-cd803bedaa02",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kadaohckdkghfaclhjmkmplebcdcnfnp",
+        "comment": "Chrome Web Store entry for Planet Search (kadaohckdkghfaclhjmkmplebcdcnfnp)",
+        "distribution": "5"
+      },
       {
         "uuid": "87a3b227-1b62-5dfd-86b9-e38ab7e21b2c",
         "type": "text",
