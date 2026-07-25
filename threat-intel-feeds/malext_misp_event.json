@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-24",
-    "timestamp": "1784882266",
+    "date": "2026-07-25",
+    "timestamp": "1784967707",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,238 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "87a3b227-1b62-5dfd-86b9-e38ab7e21b2c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lfnionffkeogndgookgchgcbdbpbdecd",
+        "comment": "Universal Image Toolkit | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a371b6e8-2f26-5f53-8bf6-333f51420bf7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/lfnionffkeogndgookgchgcbdbpbdecd",
+        "comment": "Microsoft Edge entry for Universal Image Toolkit (lfnionffkeogndgookgchgcbdbpbdecd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "023d7941-6c4a-583e-8c17-d2251cb4f173",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ogdpapgoacljcfkgpnnaipabpaakoaaf",
+        "comment": "Smart Kanban Tab | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2211c612-7d87-5c1a-a361-c4f73645d88e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ogdpapgoacljcfkgpnnaipabpaakoaaf",
+        "comment": "Microsoft Edge entry for Smart Kanban Tab (ogdpapgoacljcfkgpnnaipabpaakoaaf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "65aeaff1-0c5e-5b80-921e-2bd34c00d6b2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ikkfbembbndlplnhpdjncldakankmfad",
+        "comment": "Full Page Screenshot | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cae54a45-68b8-55d7-9eea-fc1c34473523",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ikkfbembbndlplnhpdjncldakankmfad",
+        "comment": "Microsoft Edge entry for Full Page Screenshot (ikkfbembbndlplnhpdjncldakankmfad)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "82d83261-a484-591a-bca2-1ce17a92a9ed",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hfehghfhpojabhahafkfigbaklcppomb",
+        "comment": "Pdf To Word Converter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c1ab641a-cac0-5e9c-8850-920c09623f1c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hfehghfhpojabhahafkfigbaklcppomb",
+        "comment": "Microsoft Edge entry for Pdf To Word Converter (hfehghfhpojabhahafkfigbaklcppomb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1f796268-cfc9-5020-be46-17b0b59598b2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "elnpjfljfeepaigbmccbldnggkjeomoo",
+        "comment": "2Fa Authenticator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "125e651f-1053-5b31-83ba-949bf18e9422",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/elnpjfljfeepaigbmccbldnggkjeomoo",
+        "comment": "Microsoft Edge entry for 2Fa Authenticator (elnpjfljfeepaigbmccbldnggkjeomoo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "abed055d-82b3-5092-86ac-838bf86fc49b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oojpejfifmhkblbkepppmhppnnbjifhm",
+        "comment": "Website Time Machine | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "25d4b0bc-f747-57f9-9916-a57692d34850",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/oojpejfifmhkblbkepppmhppnnbjifhm",
+        "comment": "Microsoft Edge entry for Website Time Machine (oojpejfifmhkblbkepppmhppnnbjifhm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9d1b24b9-4d29-57b1-a62a-46a5e0a6d199",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ebajcmedohjhfnklpphifnfkodfjjejb",
+        "comment": "Smart Tab Manager Lite | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "20c7f2c2-1069-5a61-90e3-1799907a2fe2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ebajcmedohjhfnklpphifnfkodfjjejb",
+        "comment": "Microsoft Edge entry for Smart Tab Manager Lite (ebajcmedohjhfnklpphifnfkodfjjejb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0bb362db-53f1-5c97-bc20-64e1e3594d81",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "icooacdnbeflghabbnbajoidcnfcnkkb",
+        "comment": "Allow Copy | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-25",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c0375a29-3084-5318-9783-fb791ceff50a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/icooacdnbeflghabbnbajoidcnfcnkkb",
+        "comment": "Microsoft Edge entry for Allow Copy (icooacdnbeflghabbnbajoidcnfcnkkb)",
+        "distribution": "5"
+      },
       {
         "uuid": "b459ad4d-e51a-5912-844f-06de298f13ff",
         "type": "text",
@@ -6002,6 +6234,151 @@
         "distribution": "5"
       },
       {
+        "uuid": "96d533da-d995-59e6-b8fc-0d776caed230",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pgbkhbafiedbdelmipcdhlcbedoiiagi",
+        "comment": "Flow Ai Ultra Bulk Veo 31 Automator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4d960efb-84c0-5d9a-a014-a44631e3c49e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/pgbkhbafiedbdelmipcdhlcbedoiiagi",
+        "comment": "Microsoft Edge entry for Flow Ai Ultra Bulk Veo 31 Automator (pgbkhbafiedbdelmipcdhlcbedoiiagi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3c2cda53-ff50-5775-84e9-6cbfe878db43",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kahjbnmpoodiabldppankdgdmghnkife",
+        "comment": "Coinomi Pro Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4fdcefab-d8cc-5c4b-b1a7-b46229c07a3e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/kahjbnmpoodiabldppankdgdmghnkife",
+        "comment": "Microsoft Edge entry for Coinomi Pro Extension (kahjbnmpoodiabldppankdgdmghnkife)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6cbd1098-42ec-5f5a-86d5-6ee607131751",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "neoghgfokcamnbalpclafhiidbiafidm",
+        "comment": "Shieldai Web Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "56a8b7e6-ba17-57d0-affc-05e0bb449d22",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/neoghgfokcamnbalpclafhiidbiafidm",
+        "comment": "Microsoft Edge entry for Shieldai Web Extension (neoghgfokcamnbalpclafhiidbiafidm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "71fb0aa6-cba0-5e68-af5c-8f485676141d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dbiddhjgdoiiglahnjacfgcgnpffmool",
+        "comment": "Buy Tiktok Followers | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a61dfac3-d7fd-5b47-8633-d73643e94aa5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dbiddhjgdoiiglahnjacfgcgnpffmool",
+        "comment": "Microsoft Edge entry for Buy Tiktok Followers (dbiddhjgdoiiglahnjacfgcgnpffmool)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "01cd3864-5576-52ed-bd28-dfee99471580",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljhmiidceacgofcmfdkolknekhmngbei",
+        "comment": "Cookie Clicker Auto Clicker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "35a3ac1c-8266-5d92-9cd4-c8c5b45341d8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ljhmiidceacgofcmfdkolknekhmngbei",
+        "comment": "Microsoft Edge entry for Cookie Clicker Auto Clicker (ljhmiidceacgofcmfdkolknekhmngbei)",
+        "distribution": "5"
+      },
+      {
         "uuid": "2f64fc58-1b63-54b4-818c-a0ef8e9331a7",
         "type": "text",
         "category": "Other",
@@ -6811,6 +7188,64 @@
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/gilfbnldcnldfbbgcppoabkghidmedlk",
         "comment": "Microsoft Edge entry for Defi Portfolio Tracker Pro (gilfbnldcnldfbbgcppoabkghidmedlk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9185b98c-f9a8-55f8-8c63-9bb4eb2d78dc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gagekkcpmoikpacolehlnjghnjmbifik",
+        "comment": "Bitwakescan | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "357cbe1a-c04c-5e37-bd48-f56072dff45b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/gagekkcpmoikpacolehlnjghnjmbifik",
+        "comment": "Microsoft Edge entry for Bitwakescan (gagekkcpmoikpacolehlnjghnjmbifik)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e6e13322-af81-5e42-bfab-23dcbba5f54c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "onkmgblcoiokdecadbpcfjnhknplndhn",
+        "comment": "Connect Safely | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "06768324-e573-502b-a168-79a9bdbb4f03",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/onkmgblcoiokdecadbpcfjnhknplndhn",
+        "comment": "Microsoft Edge entry for Connect Safely (onkmgblcoiokdecadbpcfjnhknplndhn)",
         "distribution": "5"
       },
       {
@@ -8319,6 +8754,35 @@
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/johaeccdmmahamkeianhonpjjmpjkdjd",
         "comment": "Microsoft Edge entry for Rochatter (johaeccdmmahamkeianhonpjjmpjkdjd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cf4942f8-49ba-5be0-954f-da338421e39c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dgckpieajofgdjkpodnlmolmaedejlem",
+        "comment": "Website Content Copier / Importer - Save Content In a Click | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "762e3240-5407-54bf-8be1-820dfc134320",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dgckpieajofgdjkpodnlmolmaedejlem",
+        "comment": "Microsoft Edge entry for Website Content Copier / Importer - Save Content In a Click (dgckpieajofgdjkpodnlmolmaedejlem)",
         "distribution": "5"
       },
       {
