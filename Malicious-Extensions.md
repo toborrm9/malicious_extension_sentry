@@ -1,5 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| lfnionffkeogndgookgchgcbdbpbdecd | Universal Image Toolkit | Bundling Unwanted Software | Store Monitoring | 25/07/26 | No | Google Chrome
+| ogdpapgoacljcfkgpnnaipabpaakoaaf | Smart Kanban Tab | Bundling Unwanted Software | Store Monitoring | 25/07/26 | No | Google Chrome
+| ikkfbembbndlplnhpdjncldakankmfad | Full Page Screenshot | Bundling Unwanted Software | Store Monitoring | 25/07/26 | No | Google Chrome
+| hfehghfhpojabhahafkfigbaklcppomb | Pdf To Word Converter | Bundling Unwanted Software | Store Monitoring | 25/07/26 | No | Google Chrome
+| elnpjfljfeepaigbmccbldnggkjeomoo | 2Fa Authenticator | Bundling Unwanted Software | Store Monitoring | 25/07/26 | No | Google Chrome
+| oojpejfifmhkblbkepppmhppnnbjifhm | Website Time Machine | Bundling Unwanted Software | Store Monitoring | 25/07/26 | No | Google Chrome
+| ebajcmedohjhfnklpphifnfkodfjjejb | Smart Tab Manager Lite | Bundling Unwanted Software | Store Monitoring | 25/07/26 | No | Google Chrome
+| icooacdnbeflghabbnbajoidcnfcnkkb | Allow Copy | Bundling Unwanted Software | Store Monitoring | 25/07/26 | No | Google Chrome
 | jeoaopehmgjmmoicppkkfocfjfiojmpb | Aave Wallet Viewer | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
 | mgiokhkacdpmliemnigjaaafjkebooaj | Video Downloader For All | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
 | kpmlkhedpebiilkdpjbckcadjdaioggp | Fast Video Downloader Plus - Save Any Video | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
@@ -7,7 +15,7 @@
 | kfldgjogmbimdlogfjlamcaehlfnkkji | Orbital Gas Gauge | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
 | kpbbdgplejjhkhfilkekcbpmdbneajcf | Stream Player Hls M3U8 | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
 | cpklcjliccfgbjdknfkdlaadikjgdonl | Crypto Price Tracker | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
-| jlkmjnjncpcplnajcbibddpkmbficecj | Telegram Blur - Advanced Telegram Web Privacy | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
+| jlkmjnjncpcplnajcbibddpkmbficecj | Telegram Blur - Advanced Telegram Web Privacy | Bundling Unwanted Software | Store Monitoring | 24/07/26 | Yes | Google Chrome
 | pifoflakgnfaeladnahkakmihcbeekba | Video Downloader For All | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
 | ahfbjljipkpgbknoognlpekjkpmibgkf | Total Privacy For Whatsap | Bundling Unwanted Software | Store Monitoring | 24/07/26 | No | Google Chrome
 | hkjofidiledehkcpidjbpadcccdladoh | Adblock Shield – Block Ad | Bundling Unwanted Software | Store Monitoring | 23/07/26 | No | Google Chrome
@@ -206,6 +214,11 @@
 | gjgeepgbnihfmnngdaidcndjpieipaic | Ontranslator | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
 | pnfbhonpmgdimlamippohijmaajcnbac | Faceapp Perfect Face Edit | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
 | nkjdolmphckfdhkllhpdfbpdbehbmmkk | Export AI Chat - ChatGPT, Gemini, Grok | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
+| pgbkhbafiedbdelmipcdhlcbedoiiagi | Flow Ai Ultra Bulk Veo 31 Automator | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| kahjbnmpoodiabldppankdgdmghnkife | Coinomi Pro Extension | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| neoghgfokcamnbalpclafhiidbiafidm | Shieldai Web Extension | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| dbiddhjgdoiiglahnjacfgcgnpffmool | Buy Tiktok Followers | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| ljhmiidceacgofcmfdkolknekhmngbei | Cookie Clicker Auto Clicker | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | jhokjcfjganpbgbhakmlijfgaelmnecg | Bookmarkred | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | lcajfedgkkedilpgmchagemajpdbmbjo | Douyin Downloader | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | lkcanmapdochbmhmnealkkgpdidfgkld | Trezor Portfolio Viewer | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
@@ -234,6 +247,8 @@
 | odnllkpgpkdnkcemlhmgenglffnmdpdh | Fast: Base Wallet - Crypto Converter | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
 | oonlmcejlgcjhodpmfhnkifcaniafoom | Nova New Tab - Free GPT Image 2 Wallpaper Generation | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
 | gilfbnldcnldfbbgcppoabkghidmedlk | Defi Portfolio Tracker Pro | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| gagekkcpmoikpacolehlnjghnjmbifik | Bitwakescan | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
+| onkmgblcoiokdecadbpcfjnhknplndhn | Connect Safely | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
 | mchgbnpekhpngnomfbfffnodlldcjpcm | Xcopy | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
 | ennlpdlchpicejojpannjppkljlnmcho | Metasignal | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
 | jcagmaielnbegpjigikgkoofaljmnaal | Void Wallet | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
@@ -286,6 +301,7 @@
 | ooklbphnohkomhgecdmjapldgddcjeha | Penumbra Smart Theme Control | Malware | Store Monitoring | 15/07/26 | Yes | Google Chrome
 | agdjmncghlhgkfahelckfinnhkpidebp | Friends Remover | Bundling Unwanted Software | Store Monitoring | 15/07/26 | No | Google Chrome
 | johaeccdmmahamkeianhonpjjmpjkdjd | Rochatter | Bundling Unwanted Software | Store Monitoring | 15/07/26 | No | Google Chrome
+| dgckpieajofgdjkpodnlmolmaedejlem | Website Content Copier / Importer - Save Content In a Click | Policy Violation | Store Monitoring | 14/07/26 | No | Google Chrome
 | bkbpidjmllmcppjpcicgpolgcglabcnn | Labs οkx Web3 | Malware | Store Monitoring | 14/07/26 | No | Google Chrome
 | lofnjlciokhgalebinnlfhkicepmmceh | Bbviewer | Policy Violation | Store Monitoring | 14/07/26 | No | Google Chrome
 | acmdbomkcpamfjlnbefdomoldfdibekp | Tele On Gpm Login | Malware | Store Monitoring | 14/07/26 | Yes | Google Chrome
@@ -1063,7 +1079,7 @@
 | lajilhjggagbmlbkhllkeobbpgkghdmb | SearchVPN | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/06/26 | No | Google Chrome
 | kfpgdllicalahckijjnlidfejgfenghp | Best House Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/06/26 | No | Google Chrome
 | klkckidpelgokgleimknappemeclljlk | FedEx Tracking | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/06/26 | No | Google Chrome
-| jgagnmeahcjljcckcgedgkacbblogmld | Online AntiVirus Protection | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/06/26 | No | Google Chrome
+| jgagnmeahcjljcckcgedgkacbblogmld | Online AntiVirus Protection | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/06/26 | Yes | Google Chrome
 | ebgcanfjipfcdnjgpbagblmgebkpbhoo | Print Easily | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/06/26 | No | Google Chrome
 | eoocajkneconnfeilldjbnemnlbckfef | Bing Search Microsoft Rewards | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/06/26 | No | Google Chrome
 | chkcigcgceapplbpikclbgalhpiakafg | WA | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 24/06/26 | No | Google Chrome
