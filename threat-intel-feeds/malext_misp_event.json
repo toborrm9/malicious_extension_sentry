@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-25",
-    "timestamp": "1784974152",
+    "date": "2026-07-26",
+    "timestamp": "1785089764",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,2906 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "2f67a99a-1152-55fc-8641-eedf87ea1f5b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "becijnbehlchogocnfhjmpoaboafodij",
+        "comment": "Atlas | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7aac5157-3ec7-5e37-84f3-ccc64691010c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/becijnbehlchogocnfhjmpoaboafodij",
+        "comment": "Microsoft Edge entry for Atlas (becijnbehlchogocnfhjmpoaboafodij)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2adc95bd-6dd2-5c22-a089-5970c218e551",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lacgajlkmoalfmmlmambogcknjblheae",
+        "comment": "Katseye Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8b5e2fec-9dd0-534e-bf6b-b4bb62834476",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lacgajlkmoalfmmlmambogcknjblheae",
+        "comment": "Chrome Web Store entry for Katseye Live Wallpaper (lacgajlkmoalfmmlmambogcknjblheae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "32d610d1-8472-5827-9eba-d6f7b9f7ea38",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fmaacafghoblkahcmcnfdmmgeodmnpbf",
+        "comment": "NewJeans Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0189b45f-2aef-5934-8766-0630f5217c26",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fmaacafghoblkahcmcnfdmmgeodmnpbf",
+        "comment": "Chrome Web Store entry for NewJeans Wallpaper (fmaacafghoblkahcmcnfdmmgeodmnpbf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8652440a-4cfe-5df4-a710-4e3f4f0c224c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gchmnefmimodbjibknpocfcficjndjkd",
+        "comment": "Stray Kids HD Wallpaper New Tab | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fa9b0dee-600a-599f-b6f4-243412e8a4e0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gchmnefmimodbjibknpocfcficjndjkd",
+        "comment": "Chrome Web Store entry for Stray Kids HD Wallpaper New Tab (gchmnefmimodbjibknpocfcficjndjkd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c7cee0da-295f-5a77-8d40-66e2e1b4bdf2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bkcflhiehlphbddedamcefamjgfppbhd",
+        "comment": "NewJeans Wallpapers | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3a635d7f-c4ef-5ac1-b1d4-977b19e69fd7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bkcflhiehlphbddedamcefamjgfppbhd",
+        "comment": "Chrome Web Store entry for NewJeans Wallpapers (bkcflhiehlphbddedamcefamjgfppbhd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1469ece1-bb8b-5430-a7d0-35ae6e4b7085",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jplfgijkbgcpbhoknoddbpgbgmoafloh",
+        "comment": "Le Sserafim Wallpapers | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0ba19fd2-d0aa-51d8-8bd5-ad93b8ac239f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jplfgijkbgcpbhoknoddbpgbgmoafloh",
+        "comment": "Chrome Web Store entry for Le Sserafim Wallpapers (jplfgijkbgcpbhoknoddbpgbgmoafloh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "253368e7-6d13-5f9d-9271-06f1f8a8fb03",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pagodnomjfjjbokibkbfieffdhafjfji",
+        "comment": "KATSEYE Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "79a0e1a5-4d4b-52a3-845b-6a648631c932",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pagodnomjfjjbokibkbfieffdhafjfji",
+        "comment": "Chrome Web Store entry for KATSEYE Wallpaper (pagodnomjfjjbokibkbfieffdhafjfji)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "967ad658-e413-504a-963b-716499b5a3da",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kaaokglchipngiahokpikpjoipacmmaa",
+        "comment": "Nayeon Twice K-pop Wallpapers New Tab by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2a8e27a8-9d41-51f1-9821-0215899fbc52",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kaaokglchipngiahokpikpjoipacmmaa",
+        "comment": "Chrome Web Store entry for Nayeon Twice K-pop Wallpapers New Tab by Gameograf (kaaokglchipngiahokpikpjoipacmmaa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8259456e-2090-57d0-a896-95bc3fa7f984",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cilnjcakplbkehknfjanfphehapdjkch",
+        "comment": "(G)I-Dle Gidle Live Wallpaper New Tab | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "93ce46cd-e3f4-53d2-86dc-0a4129bb33cd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cilnjcakplbkehknfjanfphehapdjkch",
+        "comment": "Chrome Web Store entry for (G)I-Dle Gidle Live Wallpaper New Tab (cilnjcakplbkehknfjanfphehapdjkch)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ea894de2-8792-5193-af3c-77680b92f411",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cbjnpfhdadplcimnngmjbpogjdhngbkf",
+        "comment": "Hearts2Hearts New Tab | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a9205829-b152-5bca-8952-f90c281842da",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cbjnpfhdadplcimnngmjbpogjdhngbkf",
+        "comment": "Chrome Web Store entry for Hearts2Hearts New Tab (cbjnpfhdadplcimnngmjbpogjdhngbkf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "201a655b-8474-5fe4-b6a2-9bef277488a7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ecaoljabdafgbhkphicgllncicdmhnhb",
+        "comment": "Hello April Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b7bb989c-5531-5b19-9194-8215a288eb35",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ecaoljabdafgbhkphicgllncicdmhnhb",
+        "comment": "Chrome Web Store entry for Hello April Live Wallpaper (ecaoljabdafgbhkphicgllncicdmhnhb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0010356f-2451-515c-b25d-33c243a68939",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "igpjkaaiepkjnaojpfbhkgkbmgmkkpbb",
+        "comment": "Girl on the Beach at Night Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c06cd95f-2d05-5e01-b94f-56750aa79713",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/igpjkaaiepkjnaojpfbhkgkbmgmkkpbb",
+        "comment": "Chrome Web Store entry for Girl on the Beach at Night Live Wallpaper (igpjkaaiepkjnaojpfbhkgkbmgmkkpbb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ab7b2cd7-3d80-5b23-899a-90634a3060e7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kpmngagpcpleimpjopbjcbaaldgflodi",
+        "comment": "Tanjiro vs Nezuko Demon Slayer Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1d0a2b74-4734-5393-9452-dc67acde3fad",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kpmngagpcpleimpjopbjcbaaldgflodi",
+        "comment": "Chrome Web Store entry for Tanjiro vs Nezuko Demon Slayer Gameograf (kpmngagpcpleimpjopbjcbaaldgflodi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2b896461-4184-5dfc-9cb1-2e2edfaeb717",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "llgdcikkeedgminkikfleecnhdkpjblg",
+        "comment": "God Of War Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6ba91b89-ddde-5a8a-9611-a059bd9ec61c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/llgdcikkeedgminkikfleecnhdkpjblg",
+        "comment": "Chrome Web Store entry for God Of War Live Wallpaper (llgdcikkeedgminkikfleecnhdkpjblg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e6ce07de-ce20-5a8b-97f9-00e1033057a3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iofncbfmmdjkbalfhneppkeglboddgfl",
+        "comment": "Pagani Utopia Roadster Wallpapers New Tab by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4300615f-196a-54b1-95e6-3b1963b3b2a3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iofncbfmmdjkbalfhneppkeglboddgfl",
+        "comment": "Chrome Web Store entry for Pagani Utopia Roadster Wallpapers New Tab by Gameograf (iofncbfmmdjkbalfhneppkeglboddgfl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b52388b3-80c7-530f-8ced-9dceb952d47c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lhconcjcgachnobggbdmhkoifconpdae",
+        "comment": "Gragon Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6cdc45f4-6517-566c-ae59-cdd7fa43d743",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lhconcjcgachnobggbdmhkoifconpdae",
+        "comment": "Chrome Web Store entry for Gragon Live Wallpaper (lhconcjcgachnobggbdmhkoifconpdae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "59da0a68-7668-5678-9b7e-62b84d97de7c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ebajialcjdmhmphhbkacfbfgdipgeohb",
+        "comment": "Squid Game Netflix Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3ce16a0c-128c-5546-bf62-491292c69aea",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ebajialcjdmhmphhbkacfbfgdipgeohb",
+        "comment": "Chrome Web Store entry for Squid Game Netflix Live Wallpaper (ebajialcjdmhmphhbkacfbfgdipgeohb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a5940782-bd1d-5ef2-90e2-7916301d767a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "klablcdhdcgolojcnnhefmhoekcjjdfk",
+        "comment": "Goku Live Wallpaper New Tab | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2f2d6ba7-acc6-55e7-b3bc-8b04625b7d79",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/klablcdhdcgolojcnnhefmhoekcjjdfk",
+        "comment": "Chrome Web Store entry for Goku Live Wallpaper New Tab (klablcdhdcgolojcnnhefmhoekcjjdfk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "297f755f-eaf9-569c-a6fd-f5750d1edc43",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "albcpkmmecibfehnemojjapmlnffabbj",
+        "comment": "One Piece Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "72203118-c762-5f9a-9b0c-110011fc5a11",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/albcpkmmecibfehnemojjapmlnffabbj",
+        "comment": "Chrome Web Store entry for One Piece Live Wallpaper (albcpkmmecibfehnemojjapmlnffabbj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8feadf0e-4624-5eaf-9c26-56943f1b708d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pobdbihbcaejeglopalbadplijinegjc",
+        "comment": "Aquarium Live Wallpaper Theme | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e39f5482-10c6-5166-b4e9-c53c443c8566",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pobdbihbcaejeglopalbadplijinegjc",
+        "comment": "Chrome Web Store entry for Aquarium Live Wallpaper Theme (pobdbihbcaejeglopalbadplijinegjc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "efcf53d1-6a65-5699-abf0-b6b5c129ee58",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nnacaecilopfgfoioecppglmeiikalpj",
+        "comment": "Anime Girl Live Wallpaper - New Tab Theme | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "73b548de-a42d-5473-96d2-4bd6581c158d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nnacaecilopfgfoioecppglmeiikalpj",
+        "comment": "Chrome Web Store entry for Anime Girl Live Wallpaper - New Tab Theme (nnacaecilopfgfoioecppglmeiikalpj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "09e7ae0f-6ed6-5723-b54c-445545c92047",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "enifepnibolbognbdpplhhigkmeenipp",
+        "comment": "Counter-Strike 2 CS:GO2  Wallpapers Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b4f354b0-13d0-5de1-8138-33bed63fda20",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/enifepnibolbognbdpplhhigkmeenipp",
+        "comment": "Chrome Web Store entry for Counter-Strike 2 CS:GO2  Wallpapers Gameograf (enifepnibolbognbdpplhhigkmeenipp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f174d7a1-0ca6-51af-9a58-c188a5a80d70",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fffbhhkbeocbbcpepehlnjjcpdeoegig",
+        "comment": "Jisoo Newest Photos Wallpaper by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2815ac0-a510-58b7-94b4-88de562bad21",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fffbhhkbeocbbcpepehlnjjcpdeoegig",
+        "comment": "Chrome Web Store entry for Jisoo Newest Photos Wallpaper by Gameograf (fffbhhkbeocbbcpepehlnjjcpdeoegig)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2c886458-b5fe-5b76-87bd-dd5438576f7e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jpoiekpmiphkhoafgonhniegfgooiejl",
+        "comment": "Gojo Moonlight Stars Jujutsu Kaisen Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "24f5e594-6040-59e0-8040-c0ac982a3039",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jpoiekpmiphkhoafgonhniegfgooiejl",
+        "comment": "Chrome Web Store entry for Gojo Moonlight Stars Jujutsu Kaisen Gameograf (jpoiekpmiphkhoafgonhniegfgooiejl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "02176034-1e56-564a-8d33-1fcc01393884",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aiglehbpbalbonhmnpgfeifnpjfhjnpo",
+        "comment": "Pink Anime Girl Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c9b45933-057f-57f1-9015-569920d91070",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aiglehbpbalbonhmnpgfeifnpjfhjnpo",
+        "comment": "Chrome Web Store entry for Pink Anime Girl Live Wallpaper (aiglehbpbalbonhmnpgfeifnpjfhjnpo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "355fdb2e-bcd7-5c79-9b05-2a72cbb19bc0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kaelmnmfjipmgbdnbghcjigllaojghkj",
+        "comment": "Cristiano Ronaldo Anime Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "56d301ba-5424-5b40-896a-633536da88c2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kaelmnmfjipmgbdnbghcjigllaojghkj",
+        "comment": "Chrome Web Store entry for Cristiano Ronaldo Anime Live Wallpaper (kaelmnmfjipmgbdnbghcjigllaojghkj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1471e6be-394a-5572-aebd-8f9fb0de9a71",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "okbgcpekjhlpnaphdegkajccfdgaohed",
+        "comment": "Tanjiro Kamado Live Wallpaper New Tab | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7690e11b-f941-5e64-9758-a3e992e13a8d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/okbgcpekjhlpnaphdegkajccfdgaohed",
+        "comment": "Chrome Web Store entry for Tanjiro Kamado Live Wallpaper New Tab (okbgcpekjhlpnaphdegkajccfdgaohed)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7c4456ad-97cf-572f-9927-d6dae0dee83a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cfhilhoecfpgaacclaaklnkmmndfdcpm",
+        "comment": "Mickey Mouse Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "70b623ff-8630-52e6-8317-1b8f53d07892",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cfhilhoecfpgaacclaaklnkmmndfdcpm",
+        "comment": "Chrome Web Store entry for Mickey Mouse Live Wallpaper (cfhilhoecfpgaacclaaklnkmmndfdcpm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fcb404fc-34c2-5db6-876c-73cfe01f2684",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hbmocfgenbnaoebdbpdpmpgdapbdpoje",
+        "comment": "One Piece Beach Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d9e7d331-180c-59d6-9082-d3b1ecff64c8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hbmocfgenbnaoebdbpdpmpgdapbdpoje",
+        "comment": "Chrome Web Store entry for One Piece Beach Live Wallpaper (hbmocfgenbnaoebdbpdpmpgdapbdpoje)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a8089b64-d482-5b8b-aec3-495a8de43146",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bnibpnjpajmoemgcfgphfalomegabcih",
+        "comment": "Anime Girl Live Wallpaper - New Tab Theme | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d49938a0-3ec6-5719-83a5-61ed366dbbdf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bnibpnjpajmoemgcfgphfalomegabcih",
+        "comment": "Chrome Web Store entry for Anime Girl Live Wallpaper - New Tab Theme (bnibpnjpajmoemgcfgphfalomegabcih)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "920a569a-6047-563b-a11f-fb6edd92d590",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gbhmoohcbeeefdeipfcecgdgelfpjoob",
+        "comment": "One Piece Live Wallpaper - New Tab Theme | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1a440cb8-d4eb-5703-a3f1-2bccbf7f522d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gbhmoohcbeeefdeipfcecgdgelfpjoob",
+        "comment": "Chrome Web Store entry for One Piece Live Wallpaper - New Tab Theme (gbhmoohcbeeefdeipfcecgdgelfpjoob)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c01a6201-becc-59a5-a4b4-b6e99309a8a6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "doffhdehfhmhdfahchaeogkeamljibfb",
+        "comment": "GTA VI Real Dimez GTA 6 Live Wallpaper - Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a5c3ab47-54ac-5831-b070-2108d21973fe",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/doffhdehfhmhdfahchaeogkeamljibfb",
+        "comment": "Chrome Web Store entry for GTA VI Real Dimez GTA 6 Live Wallpaper - Gameograf (doffhdehfhmhdfahchaeogkeamljibfb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7d2b3d6e-0b71-5c16-82e4-ce20b53af862",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bofkghmdoidflecljeepodljkaihaheo",
+        "comment": "67 Meme Live Wallpaper Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d89a90e6-20ec-5f85-b7f9-757eaac05f6e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bofkghmdoidflecljeepodljkaihaheo",
+        "comment": "Chrome Web Store entry for 67 Meme Live Wallpaper Gameograf (bofkghmdoidflecljeepodljkaihaheo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "68f38ea5-02fe-5727-85eb-bac099f04168",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eokgelcndocggkpbcbojgkkbeicgfggj",
+        "comment": "One Piece Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5be77178-62d7-54a0-925b-df75ffc30b34",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eokgelcndocggkpbcbojgkkbeicgfggj",
+        "comment": "Chrome Web Store entry for One Piece Live Wallpaper (eokgelcndocggkpbcbojgkkbeicgfggj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a910bf19-374c-5edd-b8ec-d52a6b1cca87",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "appjgfjkjopbehoijnjgfpifbmonacem",
+        "comment": "Cat and Dog Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c55179d4-0a09-5993-b634-9810138cff14",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/appjgfjkjopbehoijnjgfpifbmonacem",
+        "comment": "Chrome Web Store entry for Cat and Dog Live Wallpaper (appjgfjkjopbehoijnjgfpifbmonacem)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0c185b15-693f-52cd-85c5-5836a0705a95",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mikbojmagjaoohiocajbdnjedobmdaan",
+        "comment": "Yamato One Piece Live Wallpaper New Tab | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ec5475f7-6586-5b38-b57c-c1e3d5ac1d63",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mikbojmagjaoohiocajbdnjedobmdaan",
+        "comment": "Chrome Web Store entry for Yamato One Piece Live Wallpaper New Tab (mikbojmagjaoohiocajbdnjedobmdaan)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3865640b-1819-5a2d-bc72-f89b762d3881",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jmokcnonladmkkdlgbalffkjiogfcgha",
+        "comment": "Himiko Toga My Hero Academia Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "702fdd41-e063-5202-be4a-690c53c44b0f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jmokcnonladmkkdlgbalffkjiogfcgha",
+        "comment": "Chrome Web Store entry for Himiko Toga My Hero Academia Live Wallpaper (jmokcnonladmkkdlgbalffkjiogfcgha)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b9ad1631-12b2-5167-b2ce-e8e3ad23f244",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ajgcojmolbdglpblibcojocmmidgpkbe",
+        "comment": "Blackpink The Game Live Wallpaper New Tab | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6229b661-a08f-51cf-9d76-0bfd8c27221d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ajgcojmolbdglpblibcojocmmidgpkbe",
+        "comment": "Chrome Web Store entry for Blackpink The Game Live Wallpaper New Tab (ajgcojmolbdglpblibcojocmmidgpkbe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1ceec454-1fbd-51dd-935f-3e66c55945fb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "epnfgddcnpjibjjnlakjfmlhkhddhppm",
+        "comment": "Brawl Stars Live Wallpaper Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7b6357a7-caee-56ae-9102-dd86012b76fc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/epnfgddcnpjibjjnlakjfmlhkhddhppm",
+        "comment": "Chrome Web Store entry for Brawl Stars Live Wallpaper Gameograf (epnfgddcnpjibjjnlakjfmlhkhddhppm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "59663278-53d9-5b36-8f0d-83d6e84e7aee",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "daaiminpbfdcmdacaomdnemceoillghm",
+        "comment": "Chevrolet Corvette ZR1 Wallpapers New Tab by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6e78d777-53c3-5ab4-9dea-37f351955995",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/daaiminpbfdcmdacaomdnemceoillghm",
+        "comment": "Chrome Web Store entry for Chevrolet Corvette ZR1 Wallpapers New Tab by Gameograf (daaiminpbfdcmdacaomdnemceoillghm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7710805b-6f9b-5571-8b47-45e263ff902e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cnpnphabpodigmbeaginipjakcnafgcj",
+        "comment": "Lionel Messi Wallpapers HD 4K | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "155b2654-9ec5-58ab-8384-82750b343e4f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cnpnphabpodigmbeaginipjakcnafgcj",
+        "comment": "Chrome Web Store entry for Lionel Messi Wallpapers HD 4K (cnpnphabpodigmbeaginipjakcnafgcj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fd978dfb-9bfc-53ae-a602-6b2326a8c4ca",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "njmmkihfijbienkekhghajkmkpcemikk",
+        "comment": "Kurumi Tokisaki Wallpapes New Tab by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f5036bd5-fdcb-5c42-9b34-8fdd9cd8c37c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/njmmkihfijbienkekhghajkmkpcemikk",
+        "comment": "Chrome Web Store entry for Kurumi Tokisaki Wallpapes New Tab by Gameograf (njmmkihfijbienkekhghajkmkpcemikk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "50c929b5-1166-537d-8f43-3a4c6a8bef2e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cenjliplcabpfejbjoiimphajechmhmn",
+        "comment": "Brawl Stars Football Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f4764424-adce-554c-868f-fbd2d1a2303e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cenjliplcabpfejbjoiimphajechmhmn",
+        "comment": "Chrome Web Store entry for Brawl Stars Football Gameograf (cenjliplcabpfejbjoiimphajechmhmn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1b617163-1ed7-5129-a2bd-b2c01beecff8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nolcpnhenhilnjiendmdphanfapmichl",
+        "comment": "Alucard Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a445b86f-5a0c-518e-ae5d-3fa54b93ca07",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nolcpnhenhilnjiendmdphanfapmichl",
+        "comment": "Chrome Web Store entry for Alucard Live Wallpaper (nolcpnhenhilnjiendmdphanfapmichl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a29d3f42-59cb-5d27-af74-4a0360a0b023",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dihbfoicmibapnfojehonedckdjhegbe",
+        "comment": "Jujutsu Kaisen Sukuna | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "49658096-ab96-549d-ac52-7d63dca4b525",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dihbfoicmibapnfojehonedckdjhegbe",
+        "comment": "Chrome Web Store entry for Jujutsu Kaisen Sukuna (dihbfoicmibapnfojehonedckdjhegbe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "077619a3-8fe8-523d-9373-105ce1c945b6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gmidbpmpjnbcmgjmpgmcipcpkkfmagai",
+        "comment": "McLaren Formula 1 Experience the Speed! New Tab Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3a269247-6b78-5517-8fca-565332970aeb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gmidbpmpjnbcmgjmpgmcipcpkkfmagai",
+        "comment": "Chrome Web Store entry for McLaren Formula 1 Experience the Speed! New Tab Gameograf (gmidbpmpjnbcmgjmpgmcipcpkkfmagai)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "626c030f-f51b-553b-80a9-2ec07c8b19ca",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dlgcpdkmihcbpfkladhcbakbiclcepln",
+        "comment": "ENHYPEN Current Wallpapers New Tab by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fbdfdbb4-987e-5e03-a4e2-254b4abc064e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dlgcpdkmihcbpfkladhcbakbiclcepln",
+        "comment": "Chrome Web Store entry for ENHYPEN Current Wallpapers New Tab by Gameograf (dlgcpdkmihcbpfkladhcbakbiclcepln)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e53677d1-b8f0-52a1-a760-5dc607eda1c6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dlohiolfadimleldigknemkpibkbjclb",
+        "comment": "Shinobu Demon Slayer Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "93be5fec-c6ff-520e-9243-51844ac33bbe",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dlohiolfadimleldigknemkpibkbjclb",
+        "comment": "Chrome Web Store entry for Shinobu Demon Slayer Gameograf (dlohiolfadimleldigknemkpibkbjclb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "172a7e8a-ba6a-57a6-b2f4-dfc26df875eb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mmdlehnmjkegkbmfjngfnpmknpdnkcpg",
+        "comment": "Fortnite Logo on Purple Live Wallpaper Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3fee5b15-b900-56d9-ad0d-b5b16e3ca079",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mmdlehnmjkegkbmfjngfnpmknpdnkcpg",
+        "comment": "Chrome Web Store entry for Fortnite Logo on Purple Live Wallpaper Gameograf (mmdlehnmjkegkbmfjngfnpmknpdnkcpg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "92ee3274-d8d0-593f-ab97-570283ae8e3f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pmbbkdbhpphkcciaopaommlmcaemiepm",
+        "comment": "Giyu Tomioka Demon Slayer Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "27ee4e25-5dda-5a6d-b90b-856ef5dde3dc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pmbbkdbhpphkcciaopaommlmcaemiepm",
+        "comment": "Chrome Web Store entry for Giyu Tomioka Demon Slayer Gameograf (pmbbkdbhpphkcciaopaommlmcaemiepm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6f02900c-c40c-53cf-9995-78cbf2e3080a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nkngcbgjonmmgikcjdljbmbpmficcccb",
+        "comment": "Jett Valorant Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "06d4219a-cd20-567e-9e17-80edd155ea43",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nkngcbgjonmmgikcjdljbmbpmficcccb",
+        "comment": "Chrome Web Store entry for Jett Valorant Gameograf (nkngcbgjonmmgikcjdljbmbpmficcccb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9a1a6a70-f7cd-592f-9081-2148c86c1e3c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gcfhlcjpnlmbimbppbacdfgfimfcohpm",
+        "comment": "Arda G\u00fcler Wallpaper by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3c374f55-10a9-59b0-a15d-271b4ddbf413",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gcfhlcjpnlmbimbppbacdfgfimfcohpm",
+        "comment": "Chrome Web Store entry for Arda G\u00fcler Wallpaper by Gameograf (gcfhlcjpnlmbimbppbacdfgfimfcohpm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a3174d34-e738-5ec5-bb17-4e34ae22e5b5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gfgopigkkjcinmgoancipefafljdfghd",
+        "comment": "Rengoku Vs Akaza Demon Slayer Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9c01ca2e-cca3-5741-b93c-5bb137be2e1e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gfgopigkkjcinmgoancipefafljdfghd",
+        "comment": "Chrome Web Store entry for Rengoku Vs Akaza Demon Slayer Gameograf (gfgopigkkjcinmgoancipefafljdfghd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c2581693-e652-5b4c-a764-1ac5370f8ddd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "apieggaibpegfepedgdobiphmhpkjlam",
+        "comment": "Mickey Mouse Wallpaper Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e04e4c3d-1e99-5ef9-a93b-f67c5b80e7fd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/apieggaibpegfepedgdobiphmhpkjlam",
+        "comment": "Chrome Web Store entry for Mickey Mouse Wallpaper Gameograf (apieggaibpegfepedgdobiphmhpkjlam)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5e8f5468-06d9-5f8f-99c3-3b21455e6785",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hdbefaidobegijboonpdfeahimockkoe",
+        "comment": "Space Marine Live Wallpaper Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2494ae5e-deb4-586b-86f7-465119764823",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hdbefaidobegijboonpdfeahimockkoe",
+        "comment": "Chrome Web Store entry for Space Marine Live Wallpaper Gameograf (hdbefaidobegijboonpdfeahimockkoe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "498f4b13-05d5-5637-a53b-ff3d84627191",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "emnmoijmbnfacjioaifkjieenamfjldk",
+        "comment": "Iron Man Marvel Rivals Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9f56556a-0eea-52c5-8cec-d49199f50a33",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/emnmoijmbnfacjioaifkjieenamfjldk",
+        "comment": "Chrome Web Store entry for Iron Man Marvel Rivals Live Wallpaper (emnmoijmbnfacjioaifkjieenamfjldk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a8cbf620-0cc9-5ff1-97da-b0e5c0a603b0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "caefjedlllonegacpgbnlenomapjahlp",
+        "comment": "Mortal Kombat Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1bda2c32-7b81-50c5-bfea-171894576b73",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/caefjedlllonegacpgbnlenomapjahlp",
+        "comment": "Chrome Web Store entry for Mortal Kombat Gameograf (caefjedlllonegacpgbnlenomapjahlp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "63eba047-259b-5d0b-a3c3-57269d8d07d1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "knopgmcnhjjecipnfmenkmhcbfnpncch",
+        "comment": "Bluey Wallpapers New Tab Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5a0d8ec9-8a38-5f86-a512-ffec110c3800",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/knopgmcnhjjecipnfmenkmhcbfnpncch",
+        "comment": "Chrome Web Store entry for Bluey Wallpapers New Tab Gameograf (knopgmcnhjjecipnfmenkmhcbfnpncch)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a0a283d8-7d16-5e18-a08b-6490457050c0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mgbbkmogpefhkkbppjcdjhjidgfmfjmo",
+        "comment": "Incredible Berserk Guts Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c4f76121-1230-5a52-9764-f6e1fb8cc5a6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mgbbkmogpefhkkbppjcdjhjidgfmfjmo",
+        "comment": "Chrome Web Store entry for Incredible Berserk Guts Gameograf (mgbbkmogpefhkkbppjcdjhjidgfmfjmo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3b8076b6-a50b-528f-82e5-4c84852f0aee",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lonhmmhmbdbgaijghbjkkddiekjcaamp",
+        "comment": "Mercedes AMG F1 Cars Wallpapers New Tab Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f359f9f4-0d0c-5db6-a467-3d682fc8374d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lonhmmhmbdbgaijghbjkkddiekjcaamp",
+        "comment": "Chrome Web Store entry for Mercedes AMG F1 Cars Wallpapers New Tab Gameograf (lonhmmhmbdbgaijghbjkkddiekjcaamp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dba473ae-0b19-5dc0-b052-ae5adbc1f4cb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nncoophehboaadhcnalhokobomogbann",
+        "comment": "Toyota Supra in Need For Speed Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a45d4f12-9c85-5037-b7d7-bd7db762c57c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nncoophehboaadhcnalhokobomogbann",
+        "comment": "Chrome Web Store entry for Toyota Supra in Need For Speed Live Wallpaper (nncoophehboaadhcnalhokobomogbann)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "87353772-7595-5e3e-ac6e-108eae0a4886",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jebhmglhlgacmbeapdaaiknicejknomk",
+        "comment": "ILLIT \uc544\uc77c\ub9bf Current Wallpapers New Tab by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "06b88b4f-e80e-5869-aea6-f90a9077a858",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jebhmglhlgacmbeapdaaiknicejknomk",
+        "comment": "Chrome Web Store entry for ILLIT \uc544\uc77c\ub9bf Current Wallpapers New Tab by Gameograf (jebhmglhlgacmbeapdaaiknicejknomk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a6206898-edc3-504c-822c-cbce9f98a42f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "khepocaljhdoblbjdecbhohbmbnidgfj",
+        "comment": "Aespa Wallpapers New Tab by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fd37c020-6b03-51f2-9335-14cc150be870",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/khepocaljhdoblbjdecbhohbmbnidgfj",
+        "comment": "Chrome Web Store entry for Aespa Wallpapers New Tab by Gameograf (khepocaljhdoblbjdecbhohbmbnidgfj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "74a097f8-0d4a-5ebc-b306-1534c2b317fb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "amkoeopebadkjncoifpgjkgefghdihio",
+        "comment": "Katseye Live Wallpaper - Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8095ad94-437d-5f86-bcc8-00066b2c0085",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/amkoeopebadkjncoifpgjkgefghdihio",
+        "comment": "Chrome Web Store entry for Katseye Live Wallpaper - Gameograf (amkoeopebadkjncoifpgjkgefghdihio)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b62e5d22-709d-5dd5-92f9-aa149ff9a164",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mgbohagonghjkinelembkpjfcaefflop",
+        "comment": "Katsuki Bakugo: Ignite Your Heroic Spirit! Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "88e9fa6e-81ab-583f-a0f4-23633e05d182",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mgbohagonghjkinelembkpjfcaefflop",
+        "comment": "Chrome Web Store entry for Katsuki Bakugo: Ignite Your Heroic Spirit! Gameograf (mgbohagonghjkinelembkpjfcaefflop)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bcb0ef71-9f89-59b2-b931-04586a7f1b96",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lihfgjmgplocgfcocdkfehkimbhnanlk",
+        "comment": "Black Myth: Wukong Wallpapers by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2cfd7a6b-5cd3-5da2-8444-ef84c4591411",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lihfgjmgplocgfcocdkfehkimbhnanlk",
+        "comment": "Chrome Web Store entry for Black Myth: Wukong Wallpapers by Gameograf (lihfgjmgplocgfcocdkfehkimbhnanlk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "103d7c6f-e290-5f40-91a9-b237ada28745",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gaepjfjknnmadmehknojglncfimpllbn",
+        "comment": "Nissan GT-R Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "64d02a18-9570-55b9-afd6-8c786e6b47b7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gaepjfjknnmadmehknojglncfimpllbn",
+        "comment": "Chrome Web Store entry for Nissan GT-R Gameograf (gaepjfjknnmadmehknojglncfimpllbn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a2dfc94e-0f79-50ec-81b3-452138f6b2f6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nphkeajdhjhlpeipglokhkcgaeamlifa",
+        "comment": "Ariana Grande Wallpapers Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cb8bbb0d-809c-5fda-9f3d-7b505056d72d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nphkeajdhjhlpeipglokhkcgaeamlifa",
+        "comment": "Chrome Web Store entry for Ariana Grande Wallpapers Gameograf (nphkeajdhjhlpeipglokhkcgaeamlifa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2736ab9a-78f6-56fe-9963-8f4c6bb39adc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bnljbhbbeecjldfemonogkagonoagejc",
+        "comment": "Christmas Live Wallpaper Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "39dc26bf-e132-5ce9-b63f-ae85f12db445",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bnljbhbbeecjldfemonogkagonoagejc",
+        "comment": "Chrome Web Store entry for Christmas Live Wallpaper Gameograf (bnljbhbbeecjldfemonogkagonoagejc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d035a9ab-74b7-534f-8da3-ad54fadd95f9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bpfchhngjnpkfdhgnnlcgcfmdhgghlbk",
+        "comment": "Christmas Live Background Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fb81cd75-a9ec-5928-a828-416eeec0e1f9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bpfchhngjnpkfdhgnnlcgcfmdhgghlbk",
+        "comment": "Chrome Web Store entry for Christmas Live Background Gameograf (bpfchhngjnpkfdhgnnlcgcfmdhgghlbk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "47d29fd7-cfe5-5ddb-a263-92e0295f9d03",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kcoacedgckjhclhdcmhmomeefcjccfnc",
+        "comment": "Ahri League Of Legends Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "871020fe-a35b-50c0-b3a1-52e4103849a5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kcoacedgckjhclhdcmhmomeefcjccfnc",
+        "comment": "Chrome Web Store entry for Ahri League Of Legends Gameograf (kcoacedgckjhclhdcmhmomeefcjccfnc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cef68366-9075-5391-aefa-1535ea8ae536",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fclecihcfcpkjngcdcnejobhhpamdoab",
+        "comment": "Jee Felix Wallpaper New Tab Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2f0a9dc4-63fe-5e99-88f5-18847a7d220c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fclecihcfcpkjngcdcnejobhhpamdoab",
+        "comment": "Chrome Web Store entry for Jee Felix Wallpaper New Tab Gameograf (fclecihcfcpkjngcdcnejobhhpamdoab)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bccc08c2-2315-5fca-a682-5e074aacdf2e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "keihcfcnpienhnhlkggpjoebckfidlpc",
+        "comment": "Christmas room live wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1d6c9d6d-482f-5fdc-b7ba-ee606ca2e202",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/keihcfcnpienhnhlkggpjoebckfidlpc",
+        "comment": "Chrome Web Store entry for Christmas room live wallpaper (keihcfcnpienhnhlkggpjoebckfidlpc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "74619d26-561c-5bfd-9460-a1ab48706afd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nckfohnkapapiafkohgaknhnijianilb",
+        "comment": "Oshi No Ko Wallpapers New Tab by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "acca885b-17be-589f-baa3-5008ece698fa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nckfohnkapapiafkohgaknhnijianilb",
+        "comment": "Chrome Web Store entry for Oshi No Ko Wallpapers New Tab by Gameograf (nckfohnkapapiafkohgaknhnijianilb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "31c3b8c9-d85a-5082-963d-9e7949841030",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pognhgjjeijdaemaidolkajdckdoofih",
+        "comment": "Lamine Yamal Wallpapers Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0a0b80e0-8c37-59f8-9c70-ae7514213f18",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pognhgjjeijdaemaidolkajdckdoofih",
+        "comment": "Chrome Web Store entry for Lamine Yamal Wallpapers Gameograf (pognhgjjeijdaemaidolkajdckdoofih)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "27a788cc-5eb1-56df-802d-2cc0465724e4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fcfdpoiligbgcghpijkknfhfmkkegiic",
+        "comment": "The Legend of Zelda Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1bb25a2d-cd44-592d-b11a-076772e3f000",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fcfdpoiligbgcghpijkknfhfmkkegiic",
+        "comment": "Chrome Web Store entry for The Legend of Zelda Live Wallpaper (fcfdpoiligbgcghpijkknfhfmkkegiic)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b72b627e-72d8-5ad2-b368-ce4ff48b9759",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pkojhkakgfofjloohgkacjokkmfmpgae",
+        "comment": "Stu Brawl Stars Live Wallpaper Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "68e707d4-9685-56a4-a8c2-9a73fae23c33",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pkojhkakgfofjloohgkacjokkmfmpgae",
+        "comment": "Chrome Web Store entry for Stu Brawl Stars Live Wallpaper Gameograf (pkojhkakgfofjloohgkacjokkmfmpgae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "090a5e1e-2973-51b1-914c-8f614fd6a001",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pkfpfefcdphljgemiemnbfalkdjlpmpd",
+        "comment": "Jimin \uc9c0\ubbfc Wallpapers by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "728b1f77-c138-5887-a8f5-c94417248f0e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pkfpfefcdphljgemiemnbfalkdjlpmpd",
+        "comment": "Chrome Web Store entry for Jimin \uc9c0\ubbfc Wallpapers by Gameograf (pkfpfefcdphljgemiemnbfalkdjlpmpd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cd2796af-3016-58cc-8cf1-58978b5df909",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "emhiadoejbhflggkgpflmhgjckjooekb",
+        "comment": "Ori Winter Tree 4K Live Wallpaper Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8bcfcfc2-e409-562d-8dfd-1ac41ae91e76",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/emhiadoejbhflggkgpflmhgjckjooekb",
+        "comment": "Chrome Web Store entry for Ori Winter Tree 4K Live Wallpaper Gameograf (emhiadoejbhflggkgpflmhgjckjooekb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "92aedd23-33aa-57f5-9d7a-f142a8bc1b15",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hbepddbjjabmleeaepoldblhmlhghimd",
+        "comment": "Megumi Fushiguro Wallpapers New Tab Jujutsu Kaisen Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ff74a9b0-4632-5000-a7db-38b737af5408",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hbepddbjjabmleeaepoldblhmlhghimd",
+        "comment": "Chrome Web Store entry for Megumi Fushiguro Wallpapers New Tab Jujutsu Kaisen Gameograf (hbepddbjjabmleeaepoldblhmlhghimd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "530b10f6-b175-5a94-ae27-be21b98a4011",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ajndnhocikoljffhbholfnohjlldaino",
+        "comment": "Tokyo Revengers Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fb75603b-338a-5742-9adb-92ae2462187c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ajndnhocikoljffhbholfnohjlldaino",
+        "comment": "Chrome Web Store entry for Tokyo Revengers Gameograf (ajndnhocikoljffhbholfnohjlldaino)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "28585110-115b-5087-a931-ce416ce9ce1b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ndefechpijempipdhnmkehcoehkghapf",
+        "comment": "Lamborghini Revuelto Opera Unica Wallpapers by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "673a5b93-fa7f-585e-8d91-4fa8020b6e35",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ndefechpijempipdhnmkehcoehkghapf",
+        "comment": "Chrome Web Store entry for Lamborghini Revuelto Opera Unica Wallpapers by Gameograf (ndefechpijempipdhnmkehcoehkghapf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6461a2d1-4214-5d6e-8b87-489150292f33",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bndpkebgoebpjeibnkfghobnhflpihbg",
+        "comment": "Demon Slayer Infinity Castle Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "83e5c34f-3d32-5a57-9de2-03fb426fbc3c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bndpkebgoebpjeibnkfghobnhflpihbg",
+        "comment": "Chrome Web Store entry for Demon Slayer Infinity Castle Gameograf (bndpkebgoebpjeibnkfghobnhflpihbg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0b1d92a1-ba09-5737-8cf6-82f829171648",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cnifkbloofhebkikgkbmcapookookikc",
+        "comment": "Witcher Live Wallpaper by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b8acd8be-e45b-537e-a5c2-2c98bdcb8391",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cnifkbloofhebkikgkbmcapookookikc",
+        "comment": "Chrome Web Store entry for Witcher Live Wallpaper by Gameograf (cnifkbloofhebkikgkbmcapookookikc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9a4f7114-844a-5bb7-baf3-6f87142608f6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dpelbehmajbmhlbnoapglodmmbpdogep",
+        "comment": "Tanjiro Kamado Kimetsu No Yaiba Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3bef6c7d-7031-57ef-97c4-f3a10a0615e6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dpelbehmajbmhlbnoapglodmmbpdogep",
+        "comment": "Chrome Web Store entry for Tanjiro Kamado Kimetsu No Yaiba Gameograf (dpelbehmajbmhlbnoapglodmmbpdogep)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1805b346-2fae-5f93-91cd-c29cf11f3920",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cgcklmmmmijgeammfcclflabbjnmijif",
+        "comment": "Yoriichi Tsugikuni Demon Slayer Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8b657e44-3f7e-5693-a11a-1e72e7236778",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cgcklmmmmijgeammfcclflabbjnmijif",
+        "comment": "Chrome Web Store entry for Yoriichi Tsugikuni Demon Slayer Gameograf (cgcklmmmmijgeammfcclflabbjnmijif)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9f0da972-5865-56f9-ae74-fcf4a1c83f1b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mgedcdncdjnechahkgfojljkoamleccj",
+        "comment": "Yelan Genshin Impact Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0a7bbca2-5127-588a-a310-cedab0c5ec14",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mgedcdncdjnechahkgfojljkoamleccj",
+        "comment": "Chrome Web Store entry for Yelan Genshin Impact Gameograf (mgedcdncdjnechahkgfojljkoamleccj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6c7cbedd-df50-58e8-ac53-ea4ba828cba4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ojdhkbgnlljfhmebckgaambnchpcfoki",
+        "comment": "Kokushibo Demon Slayer Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "499cc5b8-d255-5de7-96a9-5c80839f2bea",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ojdhkbgnlljfhmebckgaambnchpcfoki",
+        "comment": "Chrome Web Store entry for Kokushibo Demon Slayer Gameograf (ojdhkbgnlljfhmebckgaambnchpcfoki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "617139fa-dcd8-5d15-8cb9-5a4df070dcf6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nfihfdnhmnlbjimeiejapboapgecjefi",
+        "comment": "Jojo Dio Brando Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "dd662515-fcc2-5385-8008-ae2fdc0a373f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nfihfdnhmnlbjimeiejapboapgecjefi",
+        "comment": "Chrome Web Store entry for Jojo Dio Brando Gameograf (nfihfdnhmnlbjimeiejapboapgecjefi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2412b283-cd41-5016-87e2-50498617566b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gkjmphhabcjbjbkihcbofdjndjbhhbke",
+        "comment": "Kyojuro Rengoku Demon Slayer Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "65002738-3818-5ae5-99af-e7a3b434a0fd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gkjmphhabcjbjbkihcbofdjndjbhhbke",
+        "comment": "Chrome Web Store entry for Kyojuro Rengoku Demon Slayer Gameograf (gkjmphhabcjbjbkihcbofdjndjbhhbke)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "89dbe8ee-18ff-5bc7-adf7-85981119ccc1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ebefhecjdnaahnkahlnmakeojglkohoh",
+        "comment": "Berserk Ultimate Demon Slayer Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca44a7eb-3a89-5a29-8f6a-2e3015c3a16b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ebefhecjdnaahnkahlnmakeojglkohoh",
+        "comment": "Chrome Web Store entry for Berserk Ultimate Demon Slayer Gameograf (ebefhecjdnaahnkahlnmakeojglkohoh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b682a652-049c-5282-8687-97cd9953a2e1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ijgagogpffgblbmjedkhkfdkeehfcmfh",
+        "comment": "Demon Slayer Live Wallpaper Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b2072d0a-5862-5ac9-87c2-9616b5a7ac48",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ijgagogpffgblbmjedkhkfdkeehfcmfh",
+        "comment": "Chrome Web Store entry for Demon Slayer Live Wallpaper Gameograf (ijgagogpffgblbmjedkhkfdkeehfcmfh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eb448091-a9c0-5441-b7a3-b7758a409898",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mdppobldhgekghhifebofbelgngdmhmi",
+        "comment": "Venom Live Wallpaper - Gameograf Dark Series | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "08e54baa-0067-5936-846a-eb4bcbdeb1b3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mdppobldhgekghhifebofbelgngdmhmi",
+        "comment": "Chrome Web Store entry for Venom Live Wallpaper - Gameograf Dark Series (mdppobldhgekghhifebofbelgngdmhmi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3241437b-f498-5cb4-a57a-0ac30be3b8c2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ghbaibmikhpphokeekplcalgopooeckn",
+        "comment": "Stray Kids Wallpapers New Tab by Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "56b3c926-3747-5ed7-9ba2-efdf4e1abeca",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ghbaibmikhpphokeekplcalgopooeckn",
+        "comment": "Chrome Web Store entry for Stray Kids Wallpapers New Tab by Gameograf (ghbaibmikhpphokeekplcalgopooeckn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "142e5c5d-601e-56fb-8137-e882170f4015",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nhejmbfiliencnlokacfmgjccfoecmai",
+        "comment": "Gameograf ONE - Live Wallpapers | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5472f8ce-df13-52fc-a23c-074caa23cfb7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nhejmbfiliencnlokacfmgjccfoecmai",
+        "comment": "Chrome Web Store entry for Gameograf ONE - Live Wallpapers (nhejmbfiliencnlokacfmgjccfoecmai)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7c8e216e-6780-5b4f-b3c3-553819baa293",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bpnepjmcnmojcphlcljgelenbnlioejm",
+        "comment": "Garena Free Fire Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "44f8aa12-e362-5e12-acbb-32de70cfc02c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bpnepjmcnmojcphlcljgelenbnlioejm",
+        "comment": "Chrome Web Store entry for Garena Free Fire Gameograf (bpnepjmcnmojcphlcljgelenbnlioejm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "51e81efa-553d-54ad-b9fb-f53d04c0b6a2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dbhpmaidefcfgjeohacicllkjhfclibe",
+        "comment": "Sukuna X Gojo Jujutsu Kaisen Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d2a77347-74a2-5159-9ef7-177c491155d6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dbhpmaidefcfgjeohacicllkjhfclibe",
+        "comment": "Chrome Web Store entry for Sukuna X Gojo Jujutsu Kaisen Gameograf (dbhpmaidefcfgjeohacicllkjhfclibe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ea5d3235-8178-549a-acbf-5239112cca10",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gpkdjhcfaldbdhhoahlfphfmmnaibamm",
+        "comment": "Anime Girl in Winter Live Wallpaper Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cee3718d-d302-55e1-9a5a-fbcfc43a75c3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gpkdjhcfaldbdhhoahlfphfmmnaibamm",
+        "comment": "Chrome Web Store entry for Anime Girl in Winter Live Wallpaper Gameograf (gpkdjhcfaldbdhhoahlfphfmmnaibamm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "df44c7be-a6c4-5155-b0fd-6fb9fc4f7bba",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kgdjcdopcefhpbnpopcegmninbhjpldm",
+        "comment": "Gojo Jujutsu Kaisen Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3a483de8-45fd-5096-8a72-fc475f8e34bd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kgdjcdopcefhpbnpopcegmninbhjpldm",
+        "comment": "Chrome Web Store entry for Gojo Jujutsu Kaisen Gameograf (kgdjcdopcefhpbnpopcegmninbhjpldm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9f39c805-14ea-58c3-85ab-27904ffa376e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nfcmildpgokbdklffbhmmljcmoafmpph",
+        "comment": "Road in Frozen Forest Live Wallpaper Gameograf | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Chrome | Added: 2026-07-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "be1e0140-60bc-54ee-8916-299a3467753d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nfcmildpgokbdklffbhmmljcmoafmpph",
+        "comment": "Chrome Web Store entry for Road in Frozen Forest Live Wallpaper Gameograf (nfcmildpgokbdklffbhmmljcmoafmpph)",
+        "distribution": "5"
+      },
       {
         "uuid": "39e44b58-3b5b-5f35-8120-c484b1d447c6",
         "type": "text",
@@ -6260,6 +9160,64 @@
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/nkjdolmphckfdhkllhpdfbpdbehbmmkk",
         "comment": "Microsoft Edge entry for Export AI Chat - ChatGPT, Gemini, Grok (nkjdolmphckfdhkllhpdfbpdbehbmmkk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3211c663-03d6-5b37-b18f-560ec952007e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jojafcbgfjjagedlpbpgpnafaedfjclk",
+        "comment": "Linkedroid The Linkedin H | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a45373fc-b5f2-531c-a59e-a90576b6dda3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jojafcbgfjjagedlpbpgpnafaedfjclk",
+        "comment": "Microsoft Edge entry for Linkedroid The Linkedin H (jojafcbgfjjagedlpbpgpnafaedfjclk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b9c27cd4-a4b8-560d-ae35-12e81f88efe7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mdebbgckaoknbdnddocbcepbnifkhaee",
+        "comment": "Gloss | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "075c70de-d48c-5dbf-91e9-2a6c739a843b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mdebbgckaoknbdnddocbcepbnifkhaee",
+        "comment": "Microsoft Edge entry for Gloss (mdebbgckaoknbdnddocbcepbnifkhaee)",
         "distribution": "5"
       },
       {
