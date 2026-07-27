@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| mcchocflaheipjnmnmcinjakdcaoagem | Powerconnect | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
+| dmocikegdponkfhgaknfbppkkikgioip | Snare Scam Detection | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
+| ignmaajmjkdebcaekjkelgopdgjbnjhk | Altitude Wallet | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
+| dahjpanhlinmadhfkamhmlcegppdcpcf | Mesh Usdt Wallet | Bundling Unwanted Software | Store Monitoring | 27/07/26 | No | Google Chrome
+| oijaighjjfokocpideichofagopndmck | Axiom Trade Assistant | Malware | Store Monitoring | 27/07/26 | No | Google Chrome
+| lipefhjdooenfheloglnbhimjlebmaaf | Michael Jordan Meavana | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
+| aajjgdpofhhcjmjoombjdfepplndhgcp | Prompt Optimizer - SecondBrain | Policy Violation | [malext.io](https://malext.io/reports/BrainDrain) | 27/07/26 | No | Google Chrome
 | becijnbehlchogocnfhjmpoaboafodij | Atlas | Bundling Unwanted Software | Store Monitoring | 26/07/26 | No | Google Chrome
 | lacgajlkmoalfmmlmambogcknjblheae | Katseye Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 26/07/26 | No | Google Chrome
 | fmaacafghoblkahcmcnfdmmgeodmnpbf | NewJeans Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 26/07/26 | No | Google Chrome
