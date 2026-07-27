@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-26",
-    "timestamp": "1785090789",
+    "date": "2026-07-27",
+    "timestamp": "1785169357",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,209 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "583ff2dc-20bf-50e9-a8fe-7fcb0b4f8cf4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mcchocflaheipjnmnmcinjakdcaoagem",
+        "comment": "Powerconnect | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d5eb67b3-c0fc-5a97-b12b-aeaec56d6604",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mcchocflaheipjnmnmcinjakdcaoagem",
+        "comment": "Chrome Web Store entry for Powerconnect (mcchocflaheipjnmnmcinjakdcaoagem)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dabbcff8-2a3b-559e-bf9f-cd136bc7e617",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmocikegdponkfhgaknfbppkkikgioip",
+        "comment": "Snare Scam Detection | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ed16fed7-b18b-584f-ba9d-e7c6130da955",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dmocikegdponkfhgaknfbppkkikgioip",
+        "comment": "Chrome Web Store entry for Snare Scam Detection (dmocikegdponkfhgaknfbppkkikgioip)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e12220fe-d228-5370-a1ea-83ef7b96bdcf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ignmaajmjkdebcaekjkelgopdgjbnjhk",
+        "comment": "Altitude Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3036a62a-ef15-5039-8cb9-2ce33b53df9f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ignmaajmjkdebcaekjkelgopdgjbnjhk",
+        "comment": "Chrome Web Store entry for Altitude Wallet (ignmaajmjkdebcaekjkelgopdgjbnjhk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "805256f2-903d-5aaf-88f8-5165722bb0b5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dahjpanhlinmadhfkamhmlcegppdcpcf",
+        "comment": "Mesh Usdt Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b712b846-c43e-5621-8aef-47a2357165be",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dahjpanhlinmadhfkamhmlcegppdcpcf",
+        "comment": "Chrome Web Store entry for Mesh Usdt Wallet (dahjpanhlinmadhfkamhmlcegppdcpcf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c87cf92f-995f-5fb0-aa3c-0cc2c69b752f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oijaighjjfokocpideichofagopndmck",
+        "comment": "Axiom Trade Assistant | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "47b7e747-ac83-5899-a377-3660a925de55",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oijaighjjfokocpideichofagopndmck",
+        "comment": "Chrome Web Store entry for Axiom Trade Assistant (oijaighjjfokocpideichofagopndmck)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "18bb5b87-f8cb-5203-8993-db1259e3861c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lipefhjdooenfheloglnbhimjlebmaaf",
+        "comment": "Michael Jordan Meavana | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "14aadd04-0e13-5df1-b45c-470b80d3bc1c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lipefhjdooenfheloglnbhimjlebmaaf",
+        "comment": "Chrome Web Store entry for Michael Jordan Meavana (lipefhjdooenfheloglnbhimjlebmaaf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "216414e9-2456-5343-8174-03fad47dc196",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aajjgdpofhhcjmjoombjdfepplndhgcp",
+        "comment": "Prompt Optimizer - SecondBrain | Source: https://malext.io/reports/BrainDrain | Store: Google Chrome | Added: 2026-07-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/BrainDrain\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f276dbdc-82ee-5ffe-a996-c2e3cc253333",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aajjgdpofhhcjmjoombjdfepplndhgcp",
+        "comment": "Chrome Web Store entry for Prompt Optimizer - SecondBrain (aajjgdpofhhcjmjoombjdfepplndhgcp)",
+        "distribution": "5"
+      },
       {
         "uuid": "2f67a99a-1152-55fc-8641-eedf87ea1f5b",
         "type": "text",
