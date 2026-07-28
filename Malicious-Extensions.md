@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| elgefdobpalaoiffljcgjkpnagfnmngb | Instagram Auto Liker Pro | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
+| aijdgbnkipobicgbfiopdlglhhjbnlmi | ‮рра‬ ‮knіL‬‮nоrт‬ | Malware | Store Monitoring | 27/07/26 | No | Google Chrome
+| lgdmjaflbcieonpajmfpgchoajfjjalm | ‮tellaw Diuqilrepyh | Malware | Store Monitoring | 27/07/26 | No | Google Chrome
+| mmhhjnkgjcddfomombnmfhmegjimlndo | Daily Task Master | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
+| jiljikgihjinjdgiiabkefblijlcmajd | Messenger Notifications | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
+| ohidhbglbpfpdkpgfahjikkiljkljepc | Lightroom Photo Editor Pr | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
+| ledidlccnpfooopagmkgihgibfbnbbnp | Github Social Icons | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
 | mcchocflaheipjnmnmcinjakdcaoagem | Powerconnect | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
 | dmocikegdponkfhgaknfbppkkikgioip | Snare Scam Detection | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
 | ignmaajmjkdebcaekjkelgopdgjbnjhk | Altitude Wallet | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
@@ -322,6 +329,8 @@
 | gjgeepgbnihfmnngdaidcndjpieipaic | Ontranslator | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
 | pnfbhonpmgdimlamippohijmaajcnbac | Faceapp Perfect Face Edit | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
 | nkjdolmphckfdhkllhpdfbpdbehbmmkk | Export AI Chat - ChatGPT, Gemini, Grok | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
+| bfpgifecmdhgkilahppjbengfgpcmppj | Spotify Login | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| eakgppkbemkicknpjkefkicmgapfidkn | Auto Complete Hubspot By | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | jojafcbgfjjagedlpbpgpnafaedfjclk | Linkedroid The Linkedin H | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | mdebbgckaoknbdnddocbcepbnifkhaee | Gloss | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | pgbkhbafiedbdelmipcdhlcbedoiiagi | Flow Ai Ultra Bulk Veo 31 Automator | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
@@ -357,6 +366,7 @@
 | odnllkpgpkdnkcemlhmgenglffnmdpdh | Fast: Base Wallet - Crypto Converter | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
 | oonlmcejlgcjhodpmfhnkifcaniafoom | Nova New Tab - Free GPT Image 2 Wallpaper Generation | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
 | gilfbnldcnldfbbgcppoabkghidmedlk | Defi Portfolio Tracker Pro | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| hdigmipmccfkdddebpbljmdgcdphmlgm | ‮tellaw Diuqilrepyh | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
 | gagekkcpmoikpacolehlnjghnjmbifik | Bitwakescan | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
 | onkmgblcoiokdecadbpcfjnhknplndhn | Connect Safely | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
 | mchgbnpekhpngnomfbfffnodlldcjpcm | Xcopy | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
