@@ -1,5 +1,11 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| laeibiahhafegciipfmmddnccfpaofcc | TikTok Downloader - Douyin Video Saver | Policy Violation | Store Monitoring | 28/07/26 | No | Google Chrome
+| giidljmmafldikgfimdmaiednidbgomj | Conector Pesquisa Promo | Policy Violation | Store Monitoring | 28/07/26 | No | Google Chrome
+| fagiajhfckhedbooimfmkapldghpeknc | AI CleanWeb - Ad Blocker & Privacy Shield | Policy Violation | Store Monitoring | 28/07/26 | No | Google Chrome
+| idhcfebdbpdgpadkaghokcjcopkkeobg | Domain Name Generator | Malware | Store Monitoring | 28/07/26 | No | Google Chrome
+| nnlfcpkabpandcagibmjbdmflpflpfco | Smart Video Downloader | Malware | Store Monitoring | 28/07/26 | No | Google Chrome
+| kgabkdjnieplcfdmigidljpogpioahej | FB likes export - export facebook likes | Policy Violation | Store Monitoring | 28/07/26 | No | Google Chrome
 | elgefdobpalaoiffljcgjkpnagfnmngb | Instagram Auto Liker Pro | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
 | aijdgbnkipobicgbfiopdlglhhjbnlmi | ‮рра‬ ‮knіL‬‮nоrт‬ | Malware | Store Monitoring | 27/07/26 | No | Google Chrome
 | lgdmjaflbcieonpajmfpgchoajfjjalm | ‮tellaw Diuqilrepyh | Malware | Store Monitoring | 27/07/26 | No | Google Chrome
