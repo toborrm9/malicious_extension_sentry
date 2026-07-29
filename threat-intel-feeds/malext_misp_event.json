@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-28",
-    "timestamp": "1785245984",
+    "date": "2026-07-29",
+    "timestamp": "1785311837",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,180 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "de37b884-de1f-5922-82c5-de58663c8549",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "laeibiahhafegciipfmmddnccfpaofcc",
+        "comment": "TikTok Downloader - Douyin Video Saver | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d703a62d-eb2f-5478-8b1c-d02d6c5756ee",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/laeibiahhafegciipfmmddnccfpaofcc",
+        "comment": "Chrome Web Store entry for TikTok Downloader - Douyin Video Saver (laeibiahhafegciipfmmddnccfpaofcc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4066717e-479a-54bf-bff9-c1be75c1944b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "giidljmmafldikgfimdmaiednidbgomj",
+        "comment": "Conector Pesquisa Promo | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c7c9ddd1-75a3-5eba-a1fe-2b2f0e7b64b9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/giidljmmafldikgfimdmaiednidbgomj",
+        "comment": "Chrome Web Store entry for Conector Pesquisa Promo (giidljmmafldikgfimdmaiednidbgomj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3c0c1475-7713-525e-a7c4-2c15c7ba7658",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fagiajhfckhedbooimfmkapldghpeknc",
+        "comment": "AI CleanWeb - Ad Blocker & Privacy Shield | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8b097905-e42e-537e-a731-00078beb449a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fagiajhfckhedbooimfmkapldghpeknc",
+        "comment": "Chrome Web Store entry for AI CleanWeb - Ad Blocker & Privacy Shield (fagiajhfckhedbooimfmkapldghpeknc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "757ab027-8af1-5d70-9b19-f7331d61fe39",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "idhcfebdbpdgpadkaghokcjcopkkeobg",
+        "comment": "Domain Name Generator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4b992b6b-276c-5641-8b96-2131dfdb6281",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/idhcfebdbpdgpadkaghokcjcopkkeobg",
+        "comment": "Chrome Web Store entry for Domain Name Generator (idhcfebdbpdgpadkaghokcjcopkkeobg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f43c3a24-0201-53ea-9616-65bec9ea39c4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nnlfcpkabpandcagibmjbdmflpflpfco",
+        "comment": "Smart Video Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b2c4c240-7ae8-5d04-b22b-c397ea6305db",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nnlfcpkabpandcagibmjbdmflpflpfco",
+        "comment": "Chrome Web Store entry for Smart Video Downloader (nnlfcpkabpandcagibmjbdmflpflpfco)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b167d168-4773-52e5-b7eb-b6d7182d43b7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kgabkdjnieplcfdmigidljpogpioahej",
+        "comment": "FB likes export - export facebook likes | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2fe263f9-e591-5d6d-85ca-3e7f5f77c551",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kgabkdjnieplcfdmigidljpogpioahej",
+        "comment": "Chrome Web Store entry for FB likes export - export facebook likes (kgabkdjnieplcfdmigidljpogpioahej)",
+        "distribution": "5"
+      },
       {
         "uuid": "f49c1dde-3739-538d-8d1c-a801bb947478",
         "type": "text",
