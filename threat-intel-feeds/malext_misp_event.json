@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-29",
-    "timestamp": "1785350522",
+    "date": "2026-07-30",
+    "timestamp": "1785405882",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,354 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "9380a6e4-7349-50b3-b8f7-67de87989751",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lbdmhpkmonokeldelekgfefldfboblbj",
+        "comment": "\u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0440\u0443\u0442\u0440\u0435\u043a\u0435\u0440\u0443 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0ce4495a-da2b-5026-9592-c7ae29c3f998",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lbdmhpkmonokeldelekgfefldfboblbj",
+        "comment": "Chrome Web Store entry for \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0440\u0443\u0442\u0440\u0435\u043a\u0435\u0440\u0443 (lbdmhpkmonokeldelekgfefldfboblbj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e3e5a10b-1e43-5c7c-a603-4d6c7342ef7f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ggefcnmacgphjgpfdgkmkgjjeddfbgjh",
+        "comment": "Crypto Ticker Watch | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "09f3922b-0b3d-5744-8e65-59e26caa2dae",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ggefcnmacgphjgpfdgkmkgjjeddfbgjh",
+        "comment": "Chrome Web Store entry for Crypto Ticker Watch (ggefcnmacgphjgpfdgkmkgjjeddfbgjh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "afbacde2-e75a-5b5c-9be6-7d1d05b2526c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eicepfcebmhdgligechehpcjbakfjcco",
+        "comment": "AnyGo \u2014 Find Cheaper Agoda Prices | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e23237d5-e745-53a9-8924-6853d3e4e147",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eicepfcebmhdgligechehpcjbakfjcco",
+        "comment": "Chrome Web Store entry for AnyGo \u2014 Find Cheaper Agoda Prices (eicepfcebmhdgligechehpcjbakfjcco)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "39ec8baa-c13f-5498-b134-cdf4a0a0416c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fdhebkefpfdjkmclmkjojfhoklbpbheo",
+        "comment": "Okx Utilities | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "39465b7a-d25d-5ed9-8c1e-b0eb6a4b2d13",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fdhebkefpfdjkmclmkjojfhoklbpbheo",
+        "comment": "Chrome Web Store entry for Okx Utilities (fdhebkefpfdjkmclmkjojfhoklbpbheo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "81fda1b1-8f26-593f-9ecb-94d88ade957d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jmkhjcdcmejccfblfkhljjplbndnhhhh",
+        "comment": "Multi View Dashboard | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6b5fff22-67f4-5ab2-9c8b-0c746acb75f5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jmkhjcdcmejccfblfkhljjplbndnhhhh",
+        "comment": "Chrome Web Store entry for Multi View Dashboard (jmkhjcdcmejccfblfkhljjplbndnhhhh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5bf61772-fd90-56c4-982e-449869fccef2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ooaplbpbboopmimeiojphgcmohfghfea",
+        "comment": "Iota Wallet Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a89d312c-7ebd-5705-be1a-edc1c7672214",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ooaplbpbboopmimeiojphgcmohfghfea",
+        "comment": "Chrome Web Store entry for Iota Wallet Pro (ooaplbpbboopmimeiojphgcmohfghfea)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8a8ec662-e42d-5579-b577-6c2b464b57fd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pcccndbpgahfnfmlmlhnkmgncapdjklf",
+        "comment": "\u041f\u0440\u043e\u043a\u0441\u0438 \u041c\u0430\u0441\u0442\u0435\u0440 \u0412\u041f\u041d \u2013 \u0420\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "daea9520-58ea-5292-b49d-97620cd6f4bb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pcccndbpgahfnfmlmlhnkmgncapdjklf",
+        "comment": "Chrome Web Store entry for \u041f\u0440\u043e\u043a\u0441\u0438 \u041c\u0430\u0441\u0442\u0435\u0440 \u0412\u041f\u041d \u2013 \u0420\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 (pcccndbpgahfnfmlmlhnkmgncapdjklf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f198a8e1-2b03-57a0-a48f-e0f8371542cc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmfhalihcclgfiimhpmcmfmnolhbjipj",
+        "comment": "FB Group Scraper - Extract Group Members | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4daface5-83a0-5da6-a715-62b43af746c5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dmfhalihcclgfiimhpmcmfmnolhbjipj",
+        "comment": "Chrome Web Store entry for FB Group Scraper - Extract Group Members (dmfhalihcclgfiimhpmcmfmnolhbjipj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c3d0556a-fb5b-5ac4-84fd-07bb3362ba46",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iajfdoonkebmafpgoidiobkinpmfpigd",
+        "comment": "\u8c46\u5305 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2666fab4-f50c-5232-b66f-2e16dffb647e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iajfdoonkebmafpgoidiobkinpmfpigd",
+        "comment": "Chrome Web Store entry for \u8c46\u5305 (iajfdoonkebmafpgoidiobkinpmfpigd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "162cb951-754d-5266-89be-4679968ea24b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pcfgfbhpelilidkgokfopdhebpljkllo",
+        "comment": "Facebook Marketplace Vehicle Listing Tool | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "90df8709-32c4-54ef-897d-d091643e09f2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pcfgfbhpelilidkgokfopdhebpljkllo",
+        "comment": "Chrome Web Store entry for Facebook Marketplace Vehicle Listing Tool (pcfgfbhpelilidkgokfopdhebpljkllo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0f7da20c-4ab9-59fb-afac-2c8aa14b52d6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mbmlpdfghiefilapdkmfdhipkknnhhkg",
+        "comment": "Ledger Portfolio Viewer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5f408c63-c21c-5220-b02e-ff1582483359",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mbmlpdfghiefilapdkmfdhipkknnhhkg",
+        "comment": "Chrome Web Store entry for Ledger Portfolio Viewer (mbmlpdfghiefilapdkmfdhipkknnhhkg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "91370a05-2403-58dd-bcc6-18b2197133b0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fjmlhlkccegopebcllcmafahkmeejpph",
+        "comment": "SEO Pulse Pro - Website Traffic & SEO Analyzer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a36b1bb5-4047-5248-8fb7-e7ee1e8e841d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fjmlhlkccegopebcllcmafahkmeejpph",
+        "comment": "Chrome Web Store entry for SEO Pulse Pro - Website Traffic & SEO Analyzer (fjmlhlkccegopebcllcmafahkmeejpph)",
+        "distribution": "5"
+      },
       {
         "uuid": "69fdd969-7f3d-59f0-8717-23f974f5d714",
         "type": "text",
