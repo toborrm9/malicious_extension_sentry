@@ -1,5 +1,17 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| lbdmhpkmonokeldelekgfefldfboblbj | доступ к рутрекеру | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
+| ggefcnmacgphjgpfdgkmkgjjeddfbgjh | Crypto Ticker Watch | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
+| eicepfcebmhdgligechehpcjbakfjcco | AnyGo — Find Cheaper Agoda Prices | In store but not whitelisted | Store Monitoring | 30/07/26 | No | Google Chrome
+| fdhebkefpfdjkmclmkjojfhoklbpbheo | Okx Utilities | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
+| jmkhjcdcmejccfblfkhljjplbndnhhhh | Multi View Dashboard | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
+| ooaplbpbboopmimeiojphgcmohfghfea | Iota Wallet Pro | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
+| pcccndbpgahfnfmlmlhnkmgncapdjklf | Прокси Мастер ВПН – Работает в России | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
+| dmfhalihcclgfiimhpmcmfmnolhbjipj | FB Group Scraper - Extract Group Members | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
+| iajfdoonkebmafpgoidiobkinpmfpigd | 豆包 | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
+| pcfgfbhpelilidkgokfopdhebpljkllo | Facebook Marketplace Vehicle Listing Tool | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
+| mbmlpdfghiefilapdkmfdhipkknnhhkg | Ledger Portfolio Viewer | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
+| fjmlhlkccegopebcllcmafahkmeejpph | SEO Pulse Pro - Website Traffic & SEO Analyzer | Malware | Store Monitoring | 30/07/26 | No | Google Chrome
 | bjlhbajjminhhlkobnnndlkeedccjono | Vinland Saga Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 29/07/26 | No | Google Chrome
 | algagcoipecoaaacpbblfpjmchnoffia | Blue Lock Ryusei Intense Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 29/07/26 | No | Google Chrome
 | adidjhaioleemdipbjggpojinighiajb | My Neighbor Totoro Christmas Lights Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 29/07/26 | No | Google Chrome
@@ -186,7 +198,7 @@
 | giidljmmafldikgfimdmaiednidbgomj | Conector Pesquisa Promo | Policy Violation | Store Monitoring | 28/07/26 | No | Google Chrome
 | fagiajhfckhedbooimfmkapldghpeknc | AI CleanWeb - Ad Blocker & Privacy Shield | Policy Violation | Store Monitoring | 28/07/26 | No | Google Chrome
 | idhcfebdbpdgpadkaghokcjcopkkeobg | Domain Name Generator | Malware | Store Monitoring | 28/07/26 | No | Google Chrome
-| nnlfcpkabpandcagibmjbdmflpflpfco | Smart Video Downloader | Malware | Store Monitoring | 28/07/26 | No | Google Chrome
+| nnlfcpkabpandcagibmjbdmflpflpfco | Smart Video Downloader | Malware | Store Monitoring | 28/07/26 | Yes | Google Chrome
 | kgabkdjnieplcfdmigidljpogpioahej | FB likes export - export facebook likes | Policy Violation | Store Monitoring | 28/07/26 | No | Google Chrome
 | elgefdobpalaoiffljcgjkpnagfnmngb | Instagram Auto Liker Pro | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
 | aijdgbnkipobicgbfiopdlglhhjbnlmi | ‮рра‬ ‮knіL‬‮nоrт‬ | Malware | Store Monitoring | 27/07/26 | No | Google Chrome
