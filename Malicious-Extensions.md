@@ -1,6 +1,5 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
-| eicepfcebmhdgligechehpcjbakfjcco | AnyGo — Find Cheaper Agoda Prices | In store but not whitelisted | Store Monitoring | 30/07/26 | No | Google Chrome
 | cdhfogkbldooloccoceaglibneecpncp | Super Mario Breaking Bad Style Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 30/07/26 | No | Google Chrome
 | ccbembidolaobmhjfmnaapbmhihbcham | Welcome To Derry Pennywise Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 30/07/26 | No | Google Chrome
 | ccglkcdjpabeldnlikmojnjfejhahfgh | Dog Digital Art Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 30/07/26 | No | Google Chrome
