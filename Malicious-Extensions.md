@@ -2,7 +2,6 @@
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
 | lbdmhpkmonokeldelekgfefldfboblbj | доступ к рутрекеру | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
 | ggefcnmacgphjgpfdgkmkgjjeddfbgjh | Crypto Ticker Watch | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
-| eicepfcebmhdgligechehpcjbakfjcco | AnyGo — Find Cheaper Agoda Prices | In store but not whitelisted | Store Monitoring | 30/07/26 | No | Google Chrome
 | fdhebkefpfdjkmclmkjojfhoklbpbheo | Okx Utilities | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
 | jmkhjcdcmejccfblfkhljjplbndnhhhh | Multi View Dashboard | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
 | ooaplbpbboopmimeiojphgcmohfghfea | Iota Wallet Pro | Policy Violation | Store Monitoring | 30/07/26 | No | Google Chrome
