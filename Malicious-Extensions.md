@@ -1,5 +1,22 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ghdklnnldpldjlpegaoopllkjpphkmed | Begranda Conciliador Dian | In store but not whitelisted | Store Monitoring | 31/07/26 | No | Google Chrome
+| dbnngchelodbpaoiiompmldlfnakeicd | Flipside | Policy Violation | Store Monitoring | 31/07/26 | No | Google Chrome
+| keeekgaadlheenmapmkleijldebjbiip | Rabbi PassGen Pro: Extension for browser | Malware | Store Monitoring | 31/07/26 | No | Google Chrome
+| cnfjdphapmldplmhklenopclmmgcnkal | Tiktok Video Downloader | Policy Violation | Store Monitoring | 31/07/26 | No | Google Chrome
+| gokdpgplgaonkkmfdjebniepoiagflha | R‮ybba‬ P‮or‬ | Policy Violation | Store Monitoring | 31/07/26 | No | Google Chrome
+| emoikmdonbfpffofgbgjfnclokbogial | Among Us Game – Thrilling | Policy Violation | Store Monitoring | 31/07/26 | No | Google Chrome
+| imcpnnkpkbbfmmkndampalbpgffoiieg | New Doc | Policy Violation | Store Monitoring | 31/07/26 | No | Google Chrome
+| hdmgcjfijdianinekpajdekpcpepgaco | اکستنشن سئو اسکاوت | Malware | Store Monitoring | 31/07/26 | No | Google Chrome
+| khhdonicflgfjdildpgklcpcballmegk | Aikey | Policy Violation | Store Monitoring | 31/07/26 | No | Google Chrome
+| bnbmhdpijoplhmffgicopkjjhdjpoaii | SkipIt Adblocker for Youtube | Malware | Store Monitoring | 31/07/26 | No | Google Chrome
+| mnedmnlanemklgpbflghdgonbphmllod | TST BHXH - Tạo thông báo BHXH tự nguyện | Policy Violation | Store Monitoring | 31/07/26 | No | Google Chrome
+| jgmekddkhffanioefjcgfaggjpokifpi | Hednet Protocol Extension | Policy Violation | Store Monitoring | 31/07/26 | No | Google Chrome
+| pkiklodchlkafnfidhhdagimgjjfdanm | Cwv Drift Monitor | Policy Violation | Store Monitoring | 31/07/26 | No | Google Chrome
+| jkjkpdjjonmobllfkdmdmlkabpomangm | Pure Vpn | Policy Violation | Store Monitoring | 31/07/26 | No | Google Chrome
+| codnabjahlcbleacelaabcphcobjkmlf | Search Engine by SoSearcher | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 31/07/26 | No | Chrome
+| dpdnlbbmiicmpbfoaoenncjjcbphldbc | Safe Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 31/07/26 | No | Chrome
+| mnjfkkfifjfpcldggnigipnffkhaibda | My Safe Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 30/07/26 | No | Chrome
 | cdhfogkbldooloccoceaglibneecpncp | Super Mario Breaking Bad Style Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 30/07/26 | No | Google Chrome
 | ccbembidolaobmhjfmnaapbmhihbcham | Welcome To Derry Pennywise Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 30/07/26 | No | Google Chrome
 | ccglkcdjpabeldnlikmojnjfejhahfgh | Dog Digital Art Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 30/07/26 | No | Google Chrome
@@ -601,6 +618,7 @@
 | odnllkpgpkdnkcemlhmgenglffnmdpdh | Fast: Base Wallet - Crypto Converter | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
 | oonlmcejlgcjhodpmfhnkifcaniafoom | Nova New Tab - Free GPT Image 2 Wallpaper Generation | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
 | gilfbnldcnldfbbgcppoabkghidmedlk | Defi Portfolio Tracker Pro | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| cahbnklfddaodggaamglmfdnogpgmnla | Bookmyshow Auto Book | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
 | hdigmipmccfkdddebpbljmdgcdphmlgm | ‮tellaw Diuqilrepyh | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
 | gagekkcpmoikpacolehlnjghnjmbifik | Bitwakescan | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
 | onkmgblcoiokdecadbpcfjnhknplndhn | Connect Safely | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
