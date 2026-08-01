@@ -1,5 +1,20 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| fndiolbcfhmgdglheombonplgkdanimo | Smartbuddy Smartschool | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| hnhlmcmkplopnbdhbllnnpchbekhnjil | Modelplug Connector | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| gnnejfnhmglffglgkdjemcegheecofbl | Secure Password Generator | Malware | Store Monitoring | 01/08/26 | No | Google Chrome
+| dofiheeafnlnieofleilndimpgbcgdip | Tokguard Ai For Tiktok Sm | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| gfmbbcakoflhbbamcfcfgclgjibaodgc | Teleparty Pro | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| fhnflfokmackehlfjbbkpmopbgjiljnl | Tiktok Follower Count Tracker | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| phljjmjcjgkmhkghiombdknfcafmcbah | Tiktok Fans 免费获取Tiktok粉丝 | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| glgofknaabicffhjocngmggppkhipinj | Tokgrow For Tiktok Smart | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| dfgbkjcdlfhaobknpenfamkpajdfbnjm | Xxxtentacion Sad Mood Live Wallpaper | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| ehlifdkdepfnfbidcfpkejamnpilgpgp | 小红书图片下载 | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| nnlcidkendlnbepbalccjoneglbgjhoe | Chatty Seller | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| gpcoclklmoinbdogciipfiicpkiofdne | Proxy Maviko | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| ljjelnoeccjlckaoifeifjjlabnnbbed | Browsec Vpn — Ultra скоро | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| caiepjcbghonophfdcjicdlpncgpkokn | Glassdoor 数据助手 | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
+| cdkokncmhefeldfkcclahoknjidcfnpm | Instagram Followers Expor | Policy Violation | Store Monitoring | 01/08/26 | No | Google Chrome
 | gcjadaknidlkefeplnokecgmghgfkmjb | Nyan Cat Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 31/07/26 | No | Google Chrome
 | ofcdkodkpmkkdppljmagdpnefohompdh | Jinx LOL Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 31/07/26 | No | Google Chrome
 | acekegimgonaofondhejifbnpahnlbek | Messi Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 31/07/26 | No | Google Chrome
