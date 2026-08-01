@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-07-31",
-    "timestamp": "1785536104",
+    "date": "2026-08-01",
+    "timestamp": "1785599193",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,441 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "f0317762-ce05-579a-9a7c-1d5633b01482",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fndiolbcfhmgdglheombonplgkdanimo",
+        "comment": "Smartbuddy Smartschool | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "aea903ab-8db4-5f34-9127-be3abdd7d48e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fndiolbcfhmgdglheombonplgkdanimo",
+        "comment": "Chrome Web Store entry for Smartbuddy Smartschool (fndiolbcfhmgdglheombonplgkdanimo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a5dc6f0b-86b4-5504-873b-2f2b4068cfa4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hnhlmcmkplopnbdhbllnnpchbekhnjil",
+        "comment": "Modelplug Connector | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "dc52cdba-41a5-5749-86aa-d4b431a592d9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hnhlmcmkplopnbdhbllnnpchbekhnjil",
+        "comment": "Chrome Web Store entry for Modelplug Connector (hnhlmcmkplopnbdhbllnnpchbekhnjil)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b382b798-bb5e-50c2-8f2e-6d934a9c0774",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gnnejfnhmglffglgkdjemcegheecofbl",
+        "comment": "Secure Password Generator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a535f751-4814-523a-9589-af3f460f31ce",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gnnejfnhmglffglgkdjemcegheecofbl",
+        "comment": "Chrome Web Store entry for Secure Password Generator (gnnejfnhmglffglgkdjemcegheecofbl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "015dacf7-deb1-58be-80ed-0f8e1a05a2b8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dofiheeafnlnieofleilndimpgbcgdip",
+        "comment": "Tokguard Ai For Tiktok Sm | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "762c4f10-533b-5dfc-b4aa-e0fb77dbcc31",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dofiheeafnlnieofleilndimpgbcgdip",
+        "comment": "Chrome Web Store entry for Tokguard Ai For Tiktok Sm (dofiheeafnlnieofleilndimpgbcgdip)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "60b786ec-5862-5f20-ae41-24ac53461c5d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gfmbbcakoflhbbamcfcfgclgjibaodgc",
+        "comment": "Teleparty Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8856a8a9-2535-574b-b116-0f02fafa06b6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gfmbbcakoflhbbamcfcfgclgjibaodgc",
+        "comment": "Chrome Web Store entry for Teleparty Pro (gfmbbcakoflhbbamcfcfgclgjibaodgc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0a046ad5-5250-550c-b6c8-24215866dd7c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fhnflfokmackehlfjbbkpmopbgjiljnl",
+        "comment": "Tiktok Follower Count Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f01a80fc-ccfe-5e6d-b8d3-e2e3559880ab",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fhnflfokmackehlfjbbkpmopbgjiljnl",
+        "comment": "Chrome Web Store entry for Tiktok Follower Count Tracker (fhnflfokmackehlfjbbkpmopbgjiljnl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d345417a-91a7-521b-bd06-9468bbda6508",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "phljjmjcjgkmhkghiombdknfcafmcbah",
+        "comment": "Tiktok Fans \u514d\u8d39\u83b7\u53d6Tiktok\u7c89\u4e1d | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fddc6ac7-10ba-5561-bf4b-c8d6946750a8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/phljjmjcjgkmhkghiombdknfcafmcbah",
+        "comment": "Chrome Web Store entry for Tiktok Fans \u514d\u8d39\u83b7\u53d6Tiktok\u7c89\u4e1d (phljjmjcjgkmhkghiombdknfcafmcbah)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "07a41d6d-6b01-5fe0-adfc-fd1752d658da",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "glgofknaabicffhjocngmggppkhipinj",
+        "comment": "Tokgrow For Tiktok Smart | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "885296e5-4415-5fab-a24c-bf7f51340ad1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/glgofknaabicffhjocngmggppkhipinj",
+        "comment": "Chrome Web Store entry for Tokgrow For Tiktok Smart (glgofknaabicffhjocngmggppkhipinj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "edcbbac3-eb0d-5008-a1bf-279a1b0dc457",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dfgbkjcdlfhaobknpenfamkpajdfbnjm",
+        "comment": "Xxxtentacion Sad Mood Live Wallpaper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fcc09199-6d09-54ae-969d-3857d67d3ddf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dfgbkjcdlfhaobknpenfamkpajdfbnjm",
+        "comment": "Chrome Web Store entry for Xxxtentacion Sad Mood Live Wallpaper (dfgbkjcdlfhaobknpenfamkpajdfbnjm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e8469788-2b8a-5e77-8614-fc97d9fb45f4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ehlifdkdepfnfbidcfpkejamnpilgpgp",
+        "comment": "\u5c0f\u7ea2\u4e66\u56fe\u7247\u4e0b\u8f7d | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "335edd6e-5b97-5f42-8c85-05dddf7724ad",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ehlifdkdepfnfbidcfpkejamnpilgpgp",
+        "comment": "Chrome Web Store entry for \u5c0f\u7ea2\u4e66\u56fe\u7247\u4e0b\u8f7d (ehlifdkdepfnfbidcfpkejamnpilgpgp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5b3ce9ef-0a90-58ea-9914-a95afc38d20c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nnlcidkendlnbepbalccjoneglbgjhoe",
+        "comment": "Chatty Seller | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "634c47f5-a8c5-5847-8c10-568cfad85810",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nnlcidkendlnbepbalccjoneglbgjhoe",
+        "comment": "Chrome Web Store entry for Chatty Seller (nnlcidkendlnbepbalccjoneglbgjhoe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "73db9091-1e4a-5d22-90c3-73bffb25861e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gpcoclklmoinbdogciipfiicpkiofdne",
+        "comment": "Proxy Maviko | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "158d5ff1-e034-5500-9e04-c74989fd247b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gpcoclklmoinbdogciipfiicpkiofdne",
+        "comment": "Chrome Web Store entry for Proxy Maviko (gpcoclklmoinbdogciipfiicpkiofdne)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f6ed1c10-13fe-53a9-b484-c162e819d1bb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljjelnoeccjlckaoifeifjjlabnnbbed",
+        "comment": "Browsec Vpn \u2014 Ultra \u0441\u043a\u043e\u0440\u043e | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c96e257d-81b9-56a2-9120-2ec213518b31",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljjelnoeccjlckaoifeifjjlabnnbbed",
+        "comment": "Chrome Web Store entry for Browsec Vpn \u2014 Ultra \u0441\u043a\u043e\u0440\u043e (ljjelnoeccjlckaoifeifjjlabnnbbed)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9f7712bd-d6c3-5953-8f74-1fcd520bcd8b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "caiepjcbghonophfdcjicdlpncgpkokn",
+        "comment": "Glassdoor \u6570\u636e\u52a9\u624b | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6b2d5e50-1e85-5844-a121-58f98eacab81",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/caiepjcbghonophfdcjicdlpncgpkokn",
+        "comment": "Chrome Web Store entry for Glassdoor \u6570\u636e\u52a9\u624b (caiepjcbghonophfdcjicdlpncgpkokn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1c46f7d5-ffa9-5713-a721-80e6f5b8c520",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cdkokncmhefeldfkcclahoknjidcfnpm",
+        "comment": "Instagram Followers Expor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "77ce79a2-51cb-5ac0-bda6-910ebbd79164",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cdkokncmhefeldfkcclahoknjidcfnpm",
+        "comment": "Chrome Web Store entry for Instagram Followers Expor (cdkokncmhefeldfkcclahoknjidcfnpm)",
+        "distribution": "5"
+      },
       {
         "uuid": "d19a34cf-8687-55f7-b9aa-f4fc49897d9a",
         "type": "text",
