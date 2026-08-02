@@ -1,12 +1,2796 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-08-02T06:43:11Z",
+  "generated": "2026-08-02T20:07:00Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 4665,
+  "total_indicators": 5013,
   "indicators": [
+    {
+      "extension_id": "ibphkcpmadfdpbkockccopbibhbdijna",
+      "name": "odin-klik-vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/ibphkcpmadfdpbkockccopbibhbdijna"
+    },
+    {
+      "extension_id": "kfdikbdfpdnnhhdedadeaodglioggjdl",
+      "name": "\u0420\u043e\u043a\u0435\u0442 \u0412\u041f\u041d \u2014 premium \u043c\u0430\u0440\u0448\u0440\u0443\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/kfdikbdfpdnnhhdedadeaodglioggjdl"
+    },
+    {
+      "extension_id": "cmdlencelhcjbebnkpbmhcfmlnjgihhm",
+      "name": "\u0420\u043e\u0439Net \u2014 \u043d\u0435\u043e\u043d\u043e\u0432\u044b\u0439 \u0449\u0438\u0442 \u0434\u043b\u044f \u0441\u0435\u0442\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/cmdlencelhcjbebnkpbmhcfmlnjgihhm"
+    },
+    {
+      "extension_id": "kglhlmkedfjgbfhleoifbnjhblmjbphg",
+      "name": "Avocado VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/kglhlmkedfjgbfhleoifbnjhblmjbphg"
+    },
+    {
+      "extension_id": "akiknpephpgdllpnmocndocdmgmbnocl",
+      "name": "Myxa Gate",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/akiknpephpgdllpnmocndocdmgmbnocl"
+    },
+    {
+      "extension_id": "kcgghkhfblccdcdeeeljkohccimahmfj",
+      "name": "Peach VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/kcgghkhfblccdcdeeeljkohccimahmfj"
+    },
+    {
+      "extension_id": "elflhijmcekbfdjkabgphiepeclgmjgl",
+      "name": "VPN Simple",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/elflhijmcekbfdjkabgphiepeclgmjgl"
+    },
+    {
+      "extension_id": "ccnceaompinfjgnfkbcnfgaenklmafil",
+      "name": "Paper VPN \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u043c\u0430\u0440\u0448\u0440\u0443\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/ccnceaompinfjgnfkbcnfgaenklmafil"
+    },
+    {
+      "extension_id": "dejbkoamefcdbolpcpppeblbmbkdljmo",
+      "name": "BrowSec VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/dejbkoamefcdbolpcpppeblbmbkdljmo"
+    },
+    {
+      "extension_id": "ijidomgpacjmolpdobebnkocnogkphpp",
+      "name": "Ninja Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/ijidomgpacjmolpdobebnkocnogkphpp"
+    },
+    {
+      "extension_id": "hlonjnobegeknhcnplaifmbgmbalneji",
+      "name": "WindFlow VPN \u2013 \u043b\u0451\u0433\u043a\u0438\u0439 proxy \u0441 \u043f\u043b\u0430\u0432\u043d\u044b\u043c \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435\u043c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/hlonjnobegeknhcnplaifmbgmbalneji"
+    },
+    {
+      "extension_id": "aemjnabgfabjlcojhbablmedhbnmpcgj",
+      "name": "\u041e\u0441\u0430 \u0421\u0442\u0435\u043b\u0441 \u2014 \u041a\u0438\u0431\u0435\u0440-\u0449\u0438\u0442 \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/aemjnabgfabjlcojhbablmedhbnmpcgj"
+    },
+    {
+      "extension_id": "eaolghfmnajoaejicijdbpkicimmomcn",
+      "name": "\u0413\u0443\u0441\u044c VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/eaolghfmnajoaejicijdbpkicimmomcn"
+    },
+    {
+      "extension_id": "gchgkghlgpefkoepkpjdgmlcgnbblppp",
+      "name": "\u0412\u0430\u043d\u044f VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gchgkghlgpefkoepkpjdgmlcgnbblppp"
+    },
+    {
+      "extension_id": "eomjcbhempdcpmljiahjenbdhkoccbmb",
+      "name": "Orbit Proxy VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/eomjcbhempdcpmljiahjenbdhkoccbmb"
+    },
+    {
+      "extension_id": "jjibkaphagoijhdmkllmcndemnidhjjd",
+      "name": "RedRoute VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jjibkaphagoijhdmkllmcndemnidhjjd"
+    },
+    {
+      "extension_id": "ejagecejffbgaefchihnmkdkchknkigf",
+      "name": "Pipl VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ejagecejffbgaefchihnmkdkchknkigf"
+    },
+    {
+      "extension_id": "cdlbcpjfhjedjajilmpknbmodmfocljm",
+      "name": "FastestVPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cdlbcpjfhjedjajilmpknbmodmfocljm"
+    },
+    {
+      "extension_id": "bfdlendomdpckfcegjjhgheignejhing",
+      "name": "Jump-Jump VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bfdlendomdpckfcegjjhgheignejhing"
+    },
+    {
+      "extension_id": "iloeambbfeeikpjhkpfcbcplpobgapel",
+      "name": "Open VPN \u2014 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/iloeambbfeeikpjhkpfcbcplpobgapel"
+    },
+    {
+      "extension_id": "ejgbcpimeldphonnomlcjbagoepjadpo",
+      "name": "Browsec Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ejgbcpimeldphonnomlcjbagoepjadpo"
+    },
+    {
+      "extension_id": "joagedfbanoaebcoeffkkpmpbboiabmm",
+      "name": "BrowSec VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/joagedfbanoaebcoeffkkpmpbboiabmm"
+    },
+    {
+      "extension_id": "abjgfdfbmmijjdfbohbhgdnjeipjbplj",
+      "name": "\u0422\u0438\u0445\u0438\u0439 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/abjgfdfbmmijjdfbohbhgdnjeipjbplj"
+    },
+    {
+      "extension_id": "hmemnljhamnbcnphkjdphnmnggmnhhkl",
+      "name": "\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043d\u043e \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hmemnljhamnbcnphkjdphnmnggmnhhkl"
+    },
+    {
+      "extension_id": "jfdklphafjochadainoobkemnogdjiod",
+      "name": "\u0412\u043e\u043b\u043d\u0430 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jfdklphafjochadainoobkemnogdjiod"
+    },
+    {
+      "extension_id": "idmpkfamcdgdhlopbiapnoaklgkjigle",
+      "name": "Proton \u0412\u041f\u041d-\u041c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/idmpkfamcdgdhlopbiapnoaklgkjigle"
+    },
+    {
+      "extension_id": "emkbmmhneldhbgpkaomgjjohdcfeapbj",
+      "name": "\u0410\u043c\u043d\u0435\u0437\u0438\u044f VPN \u2014 \u043b\u0451\u0433\u043a\u043e\u0435 proxy-\u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/emkbmmhneldhbgpkaomgjjohdcfeapbj"
+    },
+    {
+      "extension_id": "dpbilbpinfjkhciajdcifndlpegepokc",
+      "name": "ExpressVPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dpbilbpinfjkhciajdcifndlpegepokc"
+    },
+    {
+      "extension_id": "bgbabcbfnphklneccpldeecbnpogpbfn",
+      "name": "Browsec VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bgbabcbfnphklneccpldeecbnpogpbfn"
+    },
+    {
+      "extension_id": "glaofpkjfaldpdgjapcfhccagmddmjnf",
+      "name": "\u0410\u0440\u0431\u0443\u0437 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/glaofpkjfaldpdgjapcfhccagmddmjnf"
+    },
+    {
+      "extension_id": "gnignaonemjabnmmfjkilpfodbfgacfk",
+      "name": "Bye VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gnignaonemjabnmmfjkilpfodbfgacfk"
+    },
+    {
+      "extension_id": "bebcfnddlcnahgmdobbicnjbahlbgpnh",
+      "name": "Turbo VPN chrome",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bebcfnddlcnahgmdobbicnjbahlbgpnh"
+    },
+    {
+      "extension_id": "dbjeemabemccjbbemlnljmpmaadhohho",
+      "name": "Mango VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dbjeemabemccjbbemlnljmpmaadhohho"
+    },
+    {
+      "extension_id": "fmjlnpepggmfdipfdafghiepgnaoadmd",
+      "name": "\u0421\u043e\u0442\u0430 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fmjlnpepggmfdipfdafghiepgnaoadmd"
+    },
+    {
+      "extension_id": "cepookalkohkjhbamenfbagblnmfcfmn",
+      "name": "\u0410\u0432\u043e\u043a\u0430\u0434\u043e \u0412\u041f\u041d \u2014 \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0439 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cepookalkohkjhbamenfbagblnmfcfmn"
+    },
+    {
+      "extension_id": "kbokjhkoeadabeccjgohejbipkggopbo",
+      "name": "\u0411\u0435\u0431\u0440\u0430 \u0412\u041f\u041d-\u0417\u0430\u0449\u0438\u0442\u0430 \u0434\u0430\u043d\u043d\u044b\u0445",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kbokjhkoeadabeccjgohejbipkggopbo"
+    },
+    {
+      "extension_id": "fdoagnpcpgkjkcmnpnmdlbikfdagklhk",
+      "name": "Bunny VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fdoagnpcpgkjkcmnpnmdlbikfdagklhk"
+    },
+    {
+      "extension_id": "klmkbfdadoijkjkinfbbncmmoepeibek",
+      "name": "Happ VPN \u2014 \u041b\u0451\u0433\u043a\u0438\u0439 \u0441\u0442\u0430\u0440\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/klmkbfdadoijkjkinfbbncmmoepeibek"
+    },
+    {
+      "extension_id": "jggpbfpigiemlipemocnijhapgoaflac",
+      "name": "\u0413\u0443\u0441\u044c VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jggpbfpigiemlipemocnijhapgoaflac"
+    },
+    {
+      "extension_id": "bmeonhjbmiacccakpjdmjaloiflkjgig",
+      "name": "\u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u0412\u041f\u041d \u2013 \u043e\u0431\u0445\u043e\u0434\u0438\u0442 \u043b\u044e\u0431\u044b\u0435 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438 \u043d\u0435\u0437\u0430\u043c\u0435\u0442\u043d\u043e",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bmeonhjbmiacccakpjdmjaloiflkjgig"
+    },
+    {
+      "extension_id": "jocbfpcnadgeceidpapkoggmhkieeeeg",
+      "name": "Proxy VPN \u2013 \u043f\u0440\u043e\u0441\u0442\u043e\u0439 SOCKS5 proxy \u0434\u043b\u044f Chrome",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jocbfpcnadgeceidpapkoggmhkieeeeg"
+    },
+    {
+      "extension_id": "cpjmmnhmieannhjnjjfcpmkpjgnakjaj",
+      "name": "vpn-bez-logov",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cpjmmnhmieannhjnjjfcpmkpjgnakjaj"
+    },
+    {
+      "extension_id": "elmjnebeklbicphkoceklapimjjjicjj",
+      "name": "vpn-dlya-yutuba",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/elmjnebeklbicphkoceklapimjjjicjj"
+    },
+    {
+      "extension_id": "cmplhaampagiakkffmgjndcjdgbglbln",
+      "name": "VPN \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cmplhaampagiakkffmgjndcjdgbglbln"
+    },
+    {
+      "extension_id": "kidhjgofjnmjpbdhagacohdggmdfcgfl",
+      "name": "VPN Hoxx-proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kidhjgofjnmjpbdhagacohdggmdfcgfl"
+    },
+    {
+      "extension_id": "ehfnbbjmgkeelhemgpkfdhojcjmfpkjp",
+      "name": "SpiderMesh \u2014 \u043e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 VPN-\u043f\u0440\u043e\u043a\u0441\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ehfnbbjmgkeelhemgpkfdhojcjmfpkjp"
+    },
+    {
+      "extension_id": "adbicacljgblmefpmcffdjmcbagbejji",
+      "name": "\u0411\u0435\u043b\u044b\u0439 VPN \u2013 \u0447\u0438\u0441\u0442\u044b\u0439 proxy \u0441 \u043b\u0451\u0433\u043a\u0438\u043c \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u043c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/adbicacljgblmefpmcffdjmcbagbejji"
+    },
+    {
+      "extension_id": "ekocnfhifehpgiffogacoboddbkfcjhi",
+      "name": "\u041f\u0440\u044b\u0436\u043e\u043a VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ekocnfhifehpgiffogacoboddbkfcjhi"
+    },
+    {
+      "extension_id": "hpgghhpnkoamfbhiihfachccnkdlkiog",
+      "name": "Kit Vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hpgghhpnkoamfbhiihfachccnkdlkiog"
+    },
+    {
+      "extension_id": "ckhgbopnpmlhgiihmclcobcdehcakoai",
+      "name": "BrowSec VPN \u2014 browser proxy \u0434\u043b\u044f \u0431\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ckhgbopnpmlhgiihmclcobcdehcakoai"
+    },
+    {
+      "extension_id": "dfbnmnokochbcifabpndhfelgobckenh",
+      "name": "Myxa Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dfbnmnokochbcifabpndhfelgobckenh"
+    },
+    {
+      "extension_id": "hoeghcokeoglleffagcmajogjkgeinjc",
+      "name": "VPN-\u043c\u043e\u0441\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hoeghcokeoglleffagcmajogjkgeinjc"
+    },
+    {
+      "extension_id": "ddhjjndlmjakdcdcmgajploledaclbfk",
+      "name": "Firefly VPN \u2014 \u041d\u0435\u043e\u043d\u043e\u0432\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 \u0441\u0435\u0442\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ddhjjndlmjakdcdcmgajploledaclbfk"
+    },
+    {
+      "extension_id": "iaoeadecnampefdibdmjjbojfoajpfde",
+      "name": "\u0413\u0443\u0441\u044c \u0412\u041f\u041d - \u043e\u0431\u0445\u043e\u0434\u0438\u0442 \u043b\u044e\u0431\u044b\u0435 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/iaoeadecnampefdibdmjjbojfoajpfde"
+    },
+    {
+      "extension_id": "endajcleplnkbilblmifdhpimfaonkff",
+      "name": "WebTun \u2014 \u0447\u0438\u0441\u0442\u044b\u0439 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/endajcleplnkbilblmifdhpimfaonkff"
+    },
+    {
+      "extension_id": "cghconplclhlafnkaocbddboklfodnfc",
+      "name": "\u0410\u0432\u043e\u043a\u0430\u0434\u043e VPN \u2014 \u041c\u044f\u0433\u043a\u0438\u0439 \u043f\u0440\u043e\u043a\u0441\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cghconplclhlafnkaocbddboklfodnfc"
+    },
+    {
+      "extension_id": "ilhkddenpjglbamfkdfcggplilcibono",
+      "name": "\u041f\u043b\u0430\u043d\u0435\u0442\u0430 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ilhkddenpjglbamfkdfcggplilcibono"
+    },
+    {
+      "extension_id": "hiohnobfeiimhgcjfkifogdlegijjhcl",
+      "name": "\u0412\u0430\u043d\u044f VPN \u2013 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043f\u0440\u043e\u043a\u0441\u0438 \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hiohnobfeiimhgcjfkifogdlegijjhcl"
+    },
+    {
+      "extension_id": "bjfngoeclhbkpgdngfdolcpiofgdlbjm",
+      "name": "VPN Game Pro",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bjfngoeclhbkpgdngfdolcpiofgdlbjm"
+    },
+    {
+      "extension_id": "ibmaolbkpicpijpjecobinipoddeiogn",
+      "name": "Avast SecureLine VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ibmaolbkpicpijpjecobinipoddeiogn"
+    },
+    {
+      "extension_id": "cpehmglkieogiogkgbicjmoapfjooaam",
+      "name": "VPN Master Lite \u2014 turbo connect",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cpehmglkieogiogkgbicjmoapfjooaam"
+    },
+    {
+      "extension_id": "fceapcpbffpckedagfekofkljbnjjgfb",
+      "name": "Radmin VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fceapcpbffpckedagfekofkljbnjjgfb"
+    },
+    {
+      "extension_id": "lbbnpjbbepimfemibkhddfklekaipjli",
+      "name": "\u0414\u044f\u0434\u044f \u0412\u0430\u043d\u044f VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/lbbnpjbbepimfemibkhddfklekaipjli"
+    },
+    {
+      "extension_id": "apnlidgccohighgjjikmalpccgombonl",
+      "name": "Prime VPN \u2013 \u043f\u0440\u0435\u043c\u0438\u0430\u043b\u044c\u043d\u044b\u0439 proxy \u0441 \u0431\u044b\u0441\u0442\u0440\u044b\u043c \u0441\u0442\u0430\u0440\u0442\u043e\u043c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/apnlidgccohighgjjikmalpccgombonl"
+    },
+    {
+      "extension_id": "geemjpmbdjffghkkiileoiheccgcjilb",
+      "name": "Avocado VPN \u2014 Secure Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/geemjpmbdjffghkkiileoiheccgcjilb"
+    },
+    {
+      "extension_id": "anggbncfkojnpldcpblaboandcjajkgl",
+      "name": "ArachnoShield \u2014 \u0411\u044b\u0441\u0442\u0440\u044b\u0439 VPN-\u0449\u0438\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/anggbncfkojnpldcpblaboandcjajkgl"
+    },
+    {
+      "extension_id": "fnonmdajnijmkceinkipcijkgnbkejaf",
+      "name": "\u0411\u0430\u0442\u044f \u0412\u041f\u041d \u2014 \u043d\u0430\u0434\u0451\u0436\u043d\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fnonmdajnijmkceinkipcijkgnbkejaf"
+    },
+    {
+      "extension_id": "jfdplfcifokiabbglfjeaanldjohogfd",
+      "name": "\u0414\u0435\u0434 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jfdplfcifokiabbglfjeaanldjohogfd"
+    },
+    {
+      "extension_id": "balkhnoegkmheodonbkhkaegibmamapp",
+      "name": "\u0410\u0432\u043e \u0412\u041f\u041d",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/balkhnoegkmheodonbkhkaegibmamapp"
+    },
+    {
+      "extension_id": "aikeingnnaofblajmpkdamcmbinjicek",
+      "name": "VPN-\u043d\u0435\u0432\u0438\u0434\u0438\u043c\u043a\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/aikeingnnaofblajmpkdamcmbinjicek"
+    },
+    {
+      "extension_id": "imbkobcmkpefeijlpgejkpnfgbjmlaoo",
+      "name": "Amnezia VPN \u2014 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u0431\u0440\u0430\u0443\u0437\u0438\u043d\u0433",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/imbkobcmkpefeijlpgejkpnfgbjmlaoo"
+    },
+    {
+      "extension_id": "joocokeldmkhhgaaalkjnomkpldkdocn",
+      "name": "\u0414\u044f\u0434\u044f \u0412\u0430\u043d\u044f \u0412\u041f\u041d - \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b \u0432\u0441\u0435 \u0441\u0430\u0439\u0442\u044b",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/joocokeldmkhhgaaalkjnomkpldkdocn"
+    },
+    {
+      "extension_id": "eeaagbioaaiigjehofojbeacmcpmfggi",
+      "name": "VPN Video",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/eeaagbioaaiigjehofojbeacmcpmfggi"
+    },
+    {
+      "extension_id": "fpiolkbhpmebbdpanjfmnoacpkkdgbel",
+      "name": "\u0425\u0438\u0442 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fpiolkbhpmebbdpanjfmnoacpkkdgbel"
+    },
+    {
+      "extension_id": "fcmecilpdddmffmnjhdmillmddahmfnh",
+      "name": "Myxa Connect",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fcmecilpdddmffmnjhdmillmddahmfnh"
+    },
+    {
+      "extension_id": "bifgpflmljboegdapmikafhpilijdead",
+      "name": "TOP \u0412\u041f\u041d",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bifgpflmljboegdapmikafhpilijdead"
+    },
+    {
+      "extension_id": "eijcacggdeflehoekbdgljongmobmchj",
+      "name": "Nocturnal VPN \u2014 \u043d\u043e\u0447\u043d\u0430\u044f \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u044c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/eijcacggdeflehoekbdgljongmobmchj"
+    },
+    {
+      "extension_id": "ejpngffggkahecooncogchbchpngfokj",
+      "name": "VPN Hidden",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ejpngffggkahecooncogchbchpngfokj"
+    },
+    {
+      "extension_id": "hfaoffgdhhicckebnkgbakidhjnjpfic",
+      "name": "Red Shield VPN \u2014 \u0447\u0438\u0441\u0442\u044b\u0439 \u0442\u0440\u0430\u0444\u0438\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hfaoffgdhhicckebnkgbakidhjnjpfic"
+    },
+    {
+      "extension_id": "hhoellcfchiefblhjebgkgfgedcmbbmj",
+      "name": "Planeta-free-VPN-1VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hhoellcfchiefblhjebgkgfgedcmbbmj"
+    },
+    {
+      "extension_id": "jdpifpbmifchldljpapckejcnohbiada",
+      "name": "\u0421\u0430\u043b\u044e\u0442 VPN \u2013 \u0442\u043e\u043f\u043e\u0432\u044b\u0439 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jdpifpbmifchldljpapckejcnohbiada"
+    },
+    {
+      "extension_id": "bgikeajhdmggllhdnleoeaiedpbdhbgc",
+      "name": "\u041c\u043e\u043b\u043d\u0438\u044f \u0412\u041f\u041d \u2013 \u0441\u0430\u043c\u044b\u0439 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bgikeajhdmggllhdnleoeaiedpbdhbgc"
+    },
+    {
+      "extension_id": "hnembaemjbciokbnhklbcngopfakpkeo",
+      "name": "\u0417\u0435\u0432\u0441 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hnembaemjbciokbnhklbcngopfakpkeo"
+    },
+    {
+      "extension_id": "kkmkaknfcdcpjfjlmfhbpeoijikfoneh",
+      "name": "VPN Spark",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kkmkaknfcdcpjfjlmfhbpeoijikfoneh"
+    },
+    {
+      "extension_id": "fboaaaegndmojaphabbmpgiohgnhekhd",
+      "name": "HIT VPN \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 \u0431\u0435\u0437 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u0439",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fboaaaegndmojaphabbmpgiohgnhekhd"
+    },
+    {
+      "extension_id": "ijpbkjknnkpjnkndfgddfflpoickilmf",
+      "name": "\u0421\u0430\u043b\u044e\u0442 Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ijpbkjknnkpjnkndfgddfflpoickilmf"
+    },
+    {
+      "extension_id": "hjahmlbhpfnnfiklidkmjemaoghepioj",
+      "name": "\u0425\u0438\u0442 VPN \u2013 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 proxy \u0434\u043b\u044f \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0433\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hjahmlbhpfnnfiklidkmjemaoghepioj"
+    },
+    {
+      "extension_id": "jcamehlleiidiiogfddjclbihkamnmdb",
+      "name": "\u0420\u0430\u0434\u043c\u0438\u043d VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jcamehlleiidiiogfddjclbihkamnmdb"
+    },
+    {
+      "extension_id": "hmpjdeippjapohpkmalhmnohbipnggjf",
+      "name": "\u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0432\u043f\u043d \u0414.\u0412\u0430\u043d\u044f",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hmpjdeippjapohpkmalhmnohbipnggjf"
+    },
+    {
+      "extension_id": "bnfedobijcachmijlfecldmhnebihmcj",
+      "name": "FreeBrowser VPN \u2014 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bnfedobijcachmijlfecldmhnebihmcj"
+    },
+    {
+      "extension_id": "becdalghcachfljkdifjaifmiecbpbcb",
+      "name": "Amnezia Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/becdalghcachfljkdifjaifmiecbpbcb"
+    },
+    {
+      "extension_id": "kfginhcclblahoolnpjkhgkmgfjbkcao",
+      "name": "\u0411\u0430\u0442\u044f \u0412\u041f\u041d \u2014 \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kfginhcclblahoolnpjkhgkmgfjbkcao"
+    },
+    {
+      "extension_id": "aliegnhhiklfkdipafafcjafgngecmgn",
+      "name": "\u0425\u0438\u0442 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/aliegnhhiklfkdipafafcjafgngecmgn"
+    },
+    {
+      "extension_id": "haomlginkkjmocfonpiknfghoeomiojc",
+      "name": "Infestation VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/haomlginkkjmocfonpiknfghoeomiojc"
+    },
+    {
+      "extension_id": "apkfclckpilgfoembfmnmlblnffcnfcl",
+      "name": "Red Shield VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/apkfclckpilgfoembfmnmlblnffcnfcl"
+    },
+    {
+      "extension_id": "jgmokihhodhebpmcbamcjgjbpkngngap",
+      "name": "Radmin \u0412\u041f\u041d-\u0417\u0430\u0449\u0438\u0442\u0430 \u0434\u0430\u043d\u043d\u044b\u0445",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jgmokihhodhebpmcbamcjgjbpkngngap"
+    },
+    {
+      "extension_id": "kkkldlbbknfdbpalmknkdalimjeadpen",
+      "name": "Hola VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kkkldlbbknfdbpalmknkdalimjeadpen"
+    },
+    {
+      "extension_id": "bbcgolpihcpibnjpnafbaccaclagclmf",
+      "name": "FlexVPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bbcgolpihcpibnjpnafbaccaclagclmf"
+    },
+    {
+      "extension_id": "ekagjpmdcapijgpldiojceionmnleifj",
+      "name": "\u041e\u0433\u043e\u043d\u044c VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ekagjpmdcapijgpldiojceionmnleifj"
+    },
+    {
+      "extension_id": "dnmppgaamaeejibkgadfbmnpofmgnegf",
+      "name": "Earth VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dnmppgaamaeejibkgadfbmnpofmgnegf"
+    },
+    {
+      "extension_id": "hfofepaldicokklmfgdonaaakebggnkb",
+      "name": "AdGuard VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hfofepaldicokklmfgdonaaakebggnkb"
+    },
+    {
+      "extension_id": "gbmbmldgodcjbfaghnjohphndkobjpce",
+      "name": "\u042f\u0434\u0440\u043e \u0412\u041f\u041d",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gbmbmldgodcjbfaghnjohphndkobjpce"
+    },
+    {
+      "extension_id": "geoalbipaogceeldlkhfnapeifhelefj",
+      "name": "Fast VPN \u2014 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/geoalbipaogceeldlkhfnapeifhelefj"
+    },
+    {
+      "extension_id": "jkekfaejgkokhbcahfmhiiecgkkkfhpa",
+      "name": "Sand VPN \u2014 \u043f\u0440\u043e\u0441\u0442\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0432 \u043e\u0434\u0438\u043d \u043a\u043b\u0438\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jkekfaejgkokhbcahfmhiiecgkkkfhpa"
+    },
+    {
+      "extension_id": "kkfkknaikhhjojoidojlenioadfjecof",
+      "name": "Larva VPN \u2014 \u044d\u0432\u043e\u043b\u044e\u0446\u0438\u044f \u0441\u0435\u0442\u0435\u0432\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u044b",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kkfkknaikhhjojoidojlenioadfjecof"
+    },
+    {
+      "extension_id": "bmldimmhaamlfaijnmhikfidngaennjo",
+      "name": "Survivor Net \u2014 \u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u043f\u0440\u043e\u043a\u0441\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bmldimmhaamlfaijnmhikfidngaennjo"
+    },
+    {
+      "extension_id": "hfbhplpckgfkhfcepgbejnjpanbbaaed",
+      "name": "Bunny VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hfbhplpckgfkhfcepgbejnjpanbbaaed"
+    },
+    {
+      "extension_id": "gckefkbaglmdpmjndciiahaccljdddai",
+      "name": "\u041c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u044b\u0439 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gckefkbaglmdpmjndciiahaccljdddai"
+    },
+    {
+      "extension_id": "ldhmimnchgkihniijggnhcanhphillnn",
+      "name": "Jump VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ldhmimnchgkihniijggnhcanhphillnn"
+    },
+    {
+      "extension_id": "dbcocmghepfnpobmefmdhmahefdmmkmi",
+      "name": "beskonechnyy-trafik-vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dbcocmghepfnpobmefmdhmahefdmmkmi"
+    },
+    {
+      "extension_id": "fecohheohodkgmdmdpiocogboienindc",
+      "name": "Bebra Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fecohheohodkgmdmdpiocogboienindc"
+    },
+    {
+      "extension_id": "chphemgbhggblnggogackapgdnifnjco",
+      "name": "\u041a\u0430\u043a\u0430\u0434\u0443 VPN \u2013 \u044f\u0440\u043a\u0438\u0439 proxy \u0441 \u0431\u044b\u0441\u0442\u0440\u044b\u043c \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435\u043c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/chphemgbhggblnggogackapgdnifnjco"
+    },
+    {
+      "extension_id": "elleedljbbeipjijfgahpmbmojgagkjk",
+      "name": "Molniya Vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/elleedljbbeipjijfgahpmbmojgagkjk"
+    },
+    {
+      "extension_id": "eaidghdeobijblnliakpildffnjdckmd",
+      "name": "DuckGo VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/eaidghdeobijblnliakpildffnjdckmd"
+    },
+    {
+      "extension_id": "gmhpfinejackkjoanceabgmoiggofanm",
+      "name": "GreenHub VPN \u2014 \u0437\u0430\u0449\u0438\u0442\u0430 \u0438 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u044c \u043e\u043d\u043b\u0430\u0439\u043d",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gmhpfinejackkjoanceabgmoiggofanm"
+    },
+    {
+      "extension_id": "bpcpgflbnnedjfcnkfbinikeicffghgl",
+      "name": "\u041c\u044d\u043b\u043b VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bpcpgflbnnedjfcnkfbinikeicffghgl"
+    },
+    {
+      "extension_id": "dmadpoocbhhfaeefeblecpaielloalme",
+      "name": "VPN Stream",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dmadpoocbhhfaeefeblecpaielloalme"
+    },
+    {
+      "extension_id": "lbfendfngigjmpghcidgnodlecdlhkbk",
+      "name": "Diamond VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/lbfendfngigjmpghcidgnodlecdlhkbk"
+    },
+    {
+      "extension_id": "ipnjgkeodmakngjpblfmcggkcknalfam",
+      "name": "Durev VPN \u2013 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 proxy \u0434\u043b\u044f \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0433\u043e \u0431\u0440\u0430\u0443\u0437\u0438\u043d\u0433\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ipnjgkeodmakngjpblfmcggkcknalfam"
+    },
+    {
+      "extension_id": "choldfdafblhjjfdbnibekaakmhnfabc",
+      "name": "VPN-\u043c\u0430\u044f\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/choldfdafblhjjfdbnibekaakmhnfabc"
+    },
+    {
+      "extension_id": "bchelkjkilnlomoehihopndkjjhlcgla",
+      "name": "TOP \u0412\u041f\u041d-\u041a\u0440\u0435\u043f\u043a\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bchelkjkilnlomoehihopndkjjhlcgla"
+    },
+    {
+      "extension_id": "cljopkopbidboafoppejamlcpmgmffib",
+      "name": "\u0441\u043a\u0430\u0447\u0430\u0442\u044c this vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cljopkopbidboafoppejamlcpmgmffib"
+    },
+    {
+      "extension_id": "kiefglobgcfoolkfjkopcnopaagpohlc",
+      "name": "\u0425\u0438\u0442 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kiefglobgcfoolkfjkopcnopaagpohlc"
+    },
+    {
+      "extension_id": "kejenndfhndojdfoecjjkaeefogjgeid",
+      "name": "Browsec VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kejenndfhndojdfoecjjkaeefogjgeid"
+    },
+    {
+      "extension_id": "clonlklkobdppgnhaklminjfgchpgiob",
+      "name": "Sun VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/clonlklkobdppgnhaklminjfgchpgiob"
+    },
+    {
+      "extension_id": "bkmmedhfnenchphbngpihpcodlimdceb",
+      "name": "\u0411\u0435\u0431\u0440\u0430 \u0412\u041f\u041d",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bkmmedhfnenchphbngpihpcodlimdceb"
+    },
+    {
+      "extension_id": "knblpijcogopeankegmbcdhdndbplgka",
+      "name": "\u041e\u0433\u043e\u043d\u044c VPN \u2013 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 proxy \u0441 \u0433\u043e\u0440\u044f\u0447\u0438\u043c \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435\u043c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/knblpijcogopeankegmbcdhdndbplgka"
+    },
+    {
+      "extension_id": "ioncbpcgiobadmnelbcpgpjphenddfoa",
+      "name": "\u0411\u0430\u0442\u044f VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ioncbpcgiobadmnelbcpgpjphenddfoa"
+    },
+    {
+      "extension_id": "bmidlejanhnaaopgiljgojghplnaeoaf",
+      "name": "Radmin VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bmidlejanhnaaopgiljgojghplnaeoaf"
+    },
+    {
+      "extension_id": "dkdnckncggmlaokepcnaobhflpbadame",
+      "name": "Tunnel-Bear VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dkdnckncggmlaokepcnaobhflpbadame"
+    },
+    {
+      "extension_id": "kiijehifnnlnchkfgmlokakpfiooeigk",
+      "name": "ArachnoNet \u2014 \u0411\u044b\u0441\u0442\u0440\u044b\u0439 VPN-\u043f\u0440\u043e\u043a\u0441\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kiijehifnnlnchkfgmlokakpfiooeigk"
+    },
+    {
+      "extension_id": "ipdncmifipjgangkhjjjfccojkccmefd",
+      "name": "Toplenka Net \u2014 \u0422\u043e\u043c\u043b\u0451\u043d\u044b\u0439 VPN-\u043f\u0440\u043e\u043a\u0441\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ipdncmifipjgangkhjjjfccojkccmefd"
+    },
+    {
+      "extension_id": "hfmkkjaibgegmmfihchilhlffabegina",
+      "name": "\u041e\u0433\u043e\u043d\u044c VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hfmkkjaibgegmmfihchilhlffabegina"
+    },
+    {
+      "extension_id": "jdpnclabfdjckoggcihhcfphomgcmfib",
+      "name": "Vector VPN \u2014 \u043f\u0440\u043e\u0441\u0442\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0432 \u043e\u0434\u0438\u043d \u043a\u043b\u0438\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jdpnclabfdjckoggcihhcfphomgcmfib"
+    },
+    {
+      "extension_id": "fokpelagppjmjiggfdalkfepcfclhnoh",
+      "name": "\u0425\u0430\u043f\u043f VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 proxy-\u0434\u043e\u0441\u0442\u0443\u043f \u0432 \u043e\u0434\u0438\u043d \u043a\u043b\u0438\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fokpelagppjmjiggfdalkfepcfclhnoh"
+    },
+    {
+      "extension_id": "hlahebdnafgbfeggppedlncpkkhofhfk",
+      "name": "Star VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hlahebdnafgbfeggppedlncpkkhofhfk"
+    },
+    {
+      "extension_id": "cnjgicfipaihakphpbcgdklcbpnkbndm",
+      "name": "Window Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cnjgicfipaihakphpbcgdklcbpnkbndm"
+    },
+    {
+      "extension_id": "hljeddeaafolhinnpdlbbjcjaoegkpeg",
+      "name": "VPN Unlimited Free",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hljeddeaafolhinnpdlbbjcjaoegkpeg"
+    },
+    {
+      "extension_id": "ghjfmhihfoplmefplnojpiobcoinddhj",
+      "name": "VPN Free Way",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ghjfmhihfoplmefplnojpiobcoinddhj"
+    },
+    {
+      "extension_id": "fdgndkeabepnjiohbabfnchdkikaeoik",
+      "name": "\u0411\u0430\u0442\u044f \u0412\u0430\u043d\u044f VPN \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fdgndkeabepnjiohbabfnchdkikaeoik"
+    },
+    {
+      "extension_id": "dhehohioamlbamodmibbdbondgbbpkpb",
+      "name": "Nord VPN \u2014 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0439 \u043c\u0430\u0440\u0448\u0440\u0443\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dhehohioamlbamodmibbdbondgbbpkpb"
+    },
+    {
+      "extension_id": "emihdfbdahahdhgpkodehgpngmeajldp",
+      "name": "Durev VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043c\u0430\u0440\u0448\u0440\u0443\u0442 \u0447\u0435\u0440\u0435\u0437 proxy-\u0441\u0435\u0440\u0432\u0435\u0440",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/emihdfbdahahdhgpkodehgpngmeajldp"
+    },
+    {
+      "extension_id": "cmoljkcobacohfilkhbpclpgebcnpdcl",
+      "name": "SkyRoute VPN \u2013 Proxy Switch",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cmoljkcobacohfilkhbpclpgebcnpdcl"
+    },
+    {
+      "extension_id": "alcopdbbehlpelbaaglhlgljkkljkppi",
+      "name": "\u041f\u043e\u0442\u043e\u043a\u043e\u0432\u044b\u0439 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/alcopdbbehlpelbaaglhlgljkkljkppi"
+    },
+    {
+      "extension_id": "dceikamljmmhdjagikodokbkdmbancpb",
+      "name": "Whale VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dceikamljmmhdjagikodokbkdmbancpb"
+    },
+    {
+      "extension_id": "bfjcdcgfehgbbaenfojebonnlfichjnk",
+      "name": "\u0411\u0430\u0442\u044f VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bfjcdcgfehgbbaenfojebonnlfichjnk"
+    },
+    {
+      "extension_id": "djibkmimcjaphppiekhbkpccfhlhhfbj",
+      "name": "Surfshark VPN \u2014 \u0432\u043e\u043b\u043d\u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/djibkmimcjaphppiekhbkpccfhlhhfbj"
+    },
+    {
+      "extension_id": "lbaphifcdembobfoannnpogppkacjkhk",
+      "name": "Radmin VPN \u2014 \u0411\u044b\u0441\u0442\u0440\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/lbaphifcdembobfoannnpogppkacjkhk"
+    },
+    {
+      "extension_id": "dcdengcnfioodmmjlkjhomeondebpjcj",
+      "name": "Bitdefender VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dcdengcnfioodmmjlkjhomeondebpjcj"
+    },
+    {
+      "extension_id": "bcmmkekghfmaglecpmbmfidmmpljmbia",
+      "name": "Satoshi VPN \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 \u0431\u0435\u0437 \u0442\u043e\u0440\u043c\u043e\u0437\u043e\u0432",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bcmmkekghfmaglecpmbmfidmmpljmbia"
+    },
+    {
+      "extension_id": "ikaiigidedfhichcdloodfefkjbpbdak",
+      "name": "Hiro VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ikaiigidedfhichcdloodfefkjbpbdak"
+    },
+    {
+      "extension_id": "ihbmgokcocjiihdmjkeblefcpbgeefkk",
+      "name": "\u0411\u043e\u0440\u0449 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ihbmgokcocjiihdmjkeblefcpbgeefkk"
+    },
+    {
+      "extension_id": "gmagolapbbobcclmbmfgkdfdgcjiijjp",
+      "name": "\u041c\u0443\u0445\u0430 VPN \u0434\u043b\u044f YouTube \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043f\u0440\u043e\u043a\u0441\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gmagolapbbobcclmbmfgkdfdgcjiijjp"
+    },
+    {
+      "extension_id": "kgjjaibkhlddbmmnhndcnpoimeidlgba",
+      "name": "Whale VPN \u2014 \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kgjjaibkhlddbmmnhndcnpoimeidlgba"
+    },
+    {
+      "extension_id": "innjppfndpgigpnoicbofacmdpiblmge",
+      "name": "Myxa Light VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/innjppfndpgigpnoicbofacmdpiblmge"
+    },
+    {
+      "extension_id": "jfidepmfcigpkopoeemkididegkldkfh",
+      "name": "VPN Master \u2014 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 VPN \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0438 \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u0439",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jfidepmfcigpkopoeemkididegkldkfh"
+    },
+    {
+      "extension_id": "gnfpgncjogpbomifiegijoikfpjpoole",
+      "name": "\u0414\u044f\u0434\u044f Proxy \u2013 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u043e\u043a\u0441\u0438 \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gnfpgncjogpbomifiegijoikfpjpoole"
+    },
+    {
+      "extension_id": "doapacnhgcnojfakmppeapngneienlhl",
+      "name": "\u041f\u0438\u043d\u0433\u0432\u0438\u043d VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/doapacnhgcnojfakmppeapngneienlhl"
+    },
+    {
+      "extension_id": "dcbpngicdpgdlehimeoidnebieifgncf",
+      "name": "\u0411\u0430\u0442\u044f Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dcbpngicdpgdlehimeoidnebieifgncf"
+    },
+    {
+      "extension_id": "gfdajcpakgecmiglfhfnojmebkfkfhgi",
+      "name": "Urban VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gfdajcpakgecmiglfhfnojmebkfkfhgi"
+    },
+    {
+      "extension_id": "ddhhghnfnfjppofkhcndimaeohofbanc",
+      "name": "Planet VPN \u2014 \u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ddhhghnfnfjppofkhcndimaeohofbanc"
+    },
+    {
+      "extension_id": "dmpmpkfbhilmjgbknadklnflbbbfocmi",
+      "name": "\u041f\u043b\u0430\u043d\u0435\u0442\u0430 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dmpmpkfbhilmjgbknadklnflbbbfocmi"
+    },
+    {
+      "extension_id": "dmanadmmigdmihoejnaaflfkimdlhjeo",
+      "name": "Super VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dmanadmmigdmihoejnaaflfkimdlhjeo"
+    },
+    {
+      "extension_id": "eaelfbmpnoaiefdgejnhblfhihagcbmo",
+      "name": "Medved Vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/eaelfbmpnoaiefdgejnhblfhihagcbmo"
+    },
+    {
+      "extension_id": "kclcmhakfncbaklinnijihiinbkoajed",
+      "name": "VPN Cloak",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kclcmhakfncbaklinnijihiinbkoajed"
+    },
+    {
+      "extension_id": "ipjfgibgeafohhadcicgcgongehdliam",
+      "name": "Bunny VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ipjfgibgeafohhadcicgcgongehdliam"
+    },
+    {
+      "extension_id": "kkejncpdhhnfmdebmpaacbcmgglkigdb",
+      "name": "\u041f\u043b\u0430\u043d\u0435\u0442\u0430 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kkejncpdhhnfmdebmpaacbcmgglkigdb"
+    },
+    {
+      "extension_id": "hohlchlcjnnhjghnkhlpdemkhoenfoea",
+      "name": "Hit VPN \u2014 \u0431\u0435\u0437 \u043b\u0430\u0433\u043e\u0432",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hohlchlcjnnhjghnkhlpdemkhoenfoea"
+    },
+    {
+      "extension_id": "dijdbcdjngogkbpgldngbflblkbkicla",
+      "name": "Adguard VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dijdbcdjngogkbpgldngbflblkbkicla"
+    },
+    {
+      "extension_id": "baabjhdplplmihlnecgjajjdllllfhhf",
+      "name": "Proton VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/baabjhdplplmihlnecgjajjdllllfhhf"
+    },
+    {
+      "extension_id": "apgingficohkcjlkejipioacokkehnph",
+      "name": "Vanya Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/apgingficohkcjlkejipioacokkehnph"
+    },
+    {
+      "extension_id": "blagooekjnebejejmikhahgfejlbeoie",
+      "name": "\u041e\u0433\u043e\u043d\u044c VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/blagooekjnebejejmikhahgfejlbeoie"
+    },
+    {
+      "extension_id": "podahboddjjbggldcbiigapfjdcemmdd",
+      "name": "\u0410\u0442\u043b\u0430\u0441 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/podahboddjjbggldcbiigapfjdcemmdd"
+    },
+    {
+      "extension_id": "oojhemfejdefafjanamoiefplimjamdf",
+      "name": "\u0412\u043f\u043d \u0434\u043b\u044f \u042e\u0442\u0443\u0431",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/oojhemfejdefafjanamoiefplimjamdf"
+    },
+    {
+      "extension_id": "olibeckoliahgoojehamgidnceiplgkj",
+      "name": "\u0410\u0442\u043b\u0430\u0441 Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/olibeckoliahgoojehamgidnceiplgkj"
+    },
+    {
+      "extension_id": "okijglemboebajkjkfnkfkjldfeahflk",
+      "name": "Top VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/okijglemboebajkjkfnkfkjldfeahflk"
+    },
+    {
+      "extension_id": "ojjdfjlckplkkaphcpblafonbhoofddi",
+      "name": "\u0421\u0443\u043f\u0435\u0440 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ojjdfjlckplkkaphcpblafonbhoofddi"
+    },
+    {
+      "extension_id": "oepemfmcinfdgpdfcleghpkbhkhhpmkl",
+      "name": "Pipl VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/oepemfmcinfdgpdfcleghpkbhkhhpmkl"
+    },
+    {
+      "extension_id": "oejbcoenhbdggnddnaeodljmeoobccfo",
+      "name": "\u0413\u0443\u0441\u044c VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/oejbcoenhbdggnddnaeodljmeoobccfo"
+    },
+    {
+      "extension_id": "oeddabhhipaomblagaohfjfcikjacide",
+      "name": "\u042f\u043d\u0442\u0430\u0440\u044cVPN \u2014 \u0417\u0430\u0449\u0438\u0442\u0430 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 \u044f\u043d\u0442\u0430\u0440\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/oeddabhhipaomblagaohfjfcikjacide"
+    },
+    {
+      "extension_id": "ocnhjjoapdiljmgbennkdieaojbeiadn",
+      "name": "OsaVPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ocnhjjoapdiljmgbennkdieaojbeiadn"
+    },
+    {
+      "extension_id": "ocbpehjjgkamhchhclbdabhenpghggfb",
+      "name": "\u0415\u043a\u0441\u043f\u0440\u0435\u0441\u0441 \u0412\u041f\u041d \u2013 VPN \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0435 \u0442\u043e\u0440\u043c\u043e\u0437\u0438\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ocbpehjjgkamhchhclbdabhenpghggfb"
+    },
+    {
+      "extension_id": "nolgiichhgmkpjklgdohbbhkndmeommm",
+      "name": "\u041c\u0443\u0445\u0430 \u0412\u041f\u041d \u2014 VPN \u0438 \u043f\u0440\u043e\u043a\u0441\u0438 \u0434\u043b\u044f Chrome",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/nolgiichhgmkpjklgdohbbhkndmeommm"
+    },
+    {
+      "extension_id": "njmlahdnjgafdichmdlafnlbckkpidic",
+      "name": "\u0428\u0442\u043e\u0440\u043c VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/njmlahdnjgafdichmdlafnlbckkpidic"
+    },
+    {
+      "extension_id": "nilachbkggkoalbfogpkckojjdhlnjho",
+      "name": "Myxa VPN \u0434\u043b\u044f Instagram \u2013 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0431\u0435\u0437 \u043b\u0430\u0433\u043e\u0432",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/nilachbkggkoalbfogpkckojjdhlnjho"
+    },
+    {
+      "extension_id": "lmcppmbdhnaehfibpnhddklfjijnkkep",
+      "name": "\u0412\u0438\u043d\u043d\u0438 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/lmcppmbdhnaehfibpnhddklfjijnkkep"
+    },
+    {
+      "extension_id": "llidhpjmhdejdndndciohlhnkggkpjdo",
+      "name": "Myxa Light VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/llidhpjmhdejdndndciohlhnkggkpjdo"
+    },
+    {
+      "extension_id": "lkcpbhmegkfjfhjehobbbbgkgaogkofl",
+      "name": "Happ VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/lkcpbhmegkfjfhjehobbbbgkgaogkofl"
+    },
+    {
+      "extension_id": "ldjnnkbbncmmkcebbjmffnlgbgcnfmeo",
+      "name": "Moloko Shield \u2014 \u0447\u0438\u0441\u0442\u044b\u0439 \u043f\u0440\u043e\u043a\u0441\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ldjnnkbbncmmkcebbjmffnlgbgcnfmeo"
+    },
+    {
+      "extension_id": "laliffhhgegbpanjejocaiaefphlibni",
+      "name": "Beetle Guard \u2014 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0446\u0438\u0440\u044c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/laliffhhgegbpanjejocaiaefphlibni"
+    },
+    {
+      "extension_id": "kfihoobnkkoglegpapdckhnjcpaifnol",
+      "name": "Polyana VPN \u2014 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0432\u0435\u0437\u0434\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kfihoobnkkoglegpapdckhnjcpaifnol"
+    },
+    {
+      "extension_id": "kaonoofcdglmjidkpokanpbjfdbfhamk",
+      "name": "Moovpn \u2014 \u043a\u0438\u0431\u0435\u0440-\u043f\u0440\u043e\u043a\u0441\u0438 \u0434\u043b\u044f \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u0439 \u0441\u0435\u0442\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kaonoofcdglmjidkpokanpbjfdbfhamk"
+    },
+    {
+      "extension_id": "kalljebjhmecngplogckjaodbfbjgden",
+      "name": "\u0414\u0435\u0434 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kalljebjhmecngplogckjaodbfbjgden"
+    },
+    {
+      "extension_id": "jofoajnimljekbjgjdpbnicnfeegbfbg",
+      "name": "\u0411\u0430\u043d\u0430\u043d VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jofoajnimljekbjgjdpbnicnfeegbfbg"
+    },
+    {
+      "extension_id": "jaccgfagleghffhjbcaoambohejmpaoh",
+      "name": "Lagom VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jaccgfagleghffhjbcaoambohejmpaoh"
+    },
+    {
+      "extension_id": "ingmjmajmmhjmdnbhjkljhelcibnemnc",
+      "name": "\u0420\u0430\u0434\u043c\u0438\u043d \u0412\u041f\u041d \u2013 \u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u0434\u043b\u044f \u0420\u0424",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ingmjmajmmhjmdnbhjkljhelcibnemnc"
+    },
+    {
+      "extension_id": "ielobapmcgolalpmbagemlcnpljochfg",
+      "name": "Redmin VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ielobapmcgolalpmbagemlcnpljochfg"
+    },
+    {
+      "extension_id": "hoooffkckfkdcmgpoebehchcdekmaebl",
+      "name": "\u041a\u0430\u0440\u043b\u0441\u043e\u043d VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hoooffkckfkdcmgpoebehchcdekmaebl"
+    },
+    {
+      "extension_id": "hnpgpecddlepclmbfpimdholohmhpiej",
+      "name": "\u0410\u0432\u043e Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hnpgpecddlepclmbfpimdholohmhpiej"
+    },
+    {
+      "extension_id": "hnkdnicapamolkbngbhpkoebelhoopkk",
+      "name": "\u0427\u0435\u0431\u0443\u0440\u0430\u0448\u043a\u0430 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hnkdnicapamolkbngbhpkoebelhoopkk"
+    },
+    {
+      "extension_id": "hfanmgjobgojpieocfemecgcgglmgpff",
+      "name": "\u0413\u0443\u0441\u044c VPN \u2013 \u043e\u0431\u0445\u043e\u0434\u0438\u0442 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438 \u0432 \u0420\u0424",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hfanmgjobgojpieocfemecgcgglmgpff"
+    },
+    {
+      "extension_id": "hcmacpiikhfghbaflobmdecddbnjlgfp",
+      "name": "Happ VPN \u2013 \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u0431\u0435\u0437 \u043b\u0430\u0433\u043e\u0432",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hcmacpiikhfghbaflobmdecddbnjlgfp"
+    },
+    {
+      "extension_id": "hbnndancicgofckmcmndglbfkdfebngj",
+      "name": "Amnezia VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hbnndancicgofckmcmndglbfkdfebngj"
+    },
+    {
+      "extension_id": "gpdkajdgppoccfpeocndflnlmjemalfh",
+      "name": "\u041f\u043e\u043b\u0451\u0442 \u041f\u0440\u0430\u0439\u0432\u0438\u0442 \u2014 \u043b\u0451\u0433\u043a\u0438\u0439 VPN \u043f\u0440\u043e\u043a\u0441\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gpdkajdgppoccfpeocndflnlmjemalfh"
+    },
+    {
+      "extension_id": "giojogndbceodalhnddnebbkamhfenon",
+      "name": "Hornet Proxy \u2014 \u043c\u043e\u043b\u043d\u0438\u0435\u043d\u043e\u0441\u043d\u044b\u0439 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/giojogndbceodalhnddnebbkamhfenon"
+    },
+    {
+      "extension_id": "gaijfdefjhclenikcaggjoblodfchmge",
+      "name": "Irisska Tunnel \u2014 \u0411\u044b\u0441\u0442\u0440\u044b\u0439 VPN \u041f\u0440\u043e\u043a\u0441\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gaijfdefjhclenikcaggjoblodfchmge"
+    },
+    {
+      "extension_id": "fnkojlkijkkohicgkendegofpcilhelc",
+      "name": "SpiderShield \u2014 \u041d\u0435\u043e\u043d\u043e\u0432\u044b\u0439 \u0449\u0438\u0442 SOCKS5",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fnkojlkijkkohicgkendegofpcilhelc"
+    },
+    {
+      "extension_id": "fmgongfibgfdkeabifkfkibkohdmahop",
+      "name": "Nord VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fmgongfibgfdkeabifkfkibkohdmahop"
+    },
+    {
+      "extension_id": "fhggcomokafcmghkeknnoogghkkalchb",
+      "name": "\u041f\u0430\u0443\u043a\u041d\u0435\u0442 \u2013 \u0412\u041f\u041d \u0434\u043b\u044f \u0420\u0424",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fhggcomokafcmghkeknnoogghkkalchb"
+    },
+    {
+      "extension_id": "fhbaaaookfjndiecceejfdcbkampdnkk",
+      "name": "\u041f\u0438\u043a\u0441\u0435\u043b\u044c Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fhbaaaookfjndiecceejfdcbkampdnkk"
+    },
+    {
+      "extension_id": "ffceoncnilcafcbjmbflndepfanelnjk",
+      "name": "Telyonok VPN \u2014 \u0411\u044b\u0441\u0442\u0440\u044b\u0439 \u043f\u0440\u043e\u043a\u0441\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ffceoncnilcafcbjmbflndepfanelnjk"
+    },
+    {
+      "extension_id": "fephkdkjkfcciljffkakepiefhmeikpm",
+      "name": "\u0412\u041f\u041d \u0434\u043b\u044f \u042e\u0442\u0443\u0431",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fephkdkjkfcciljffkakepiefhmeikpm"
+    },
+    {
+      "extension_id": "fdhjfohpmnliieiimdncnheflacobldp",
+      "name": "\u041e\u0441\u0430 \u0429\u0438\u0442 \u2014 \u043d\u0430\u0434\u0451\u0436\u043d\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 \u0432 \u0441\u0435\u0442\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fdhjfohpmnliieiimdncnheflacobldp"
+    },
+    {
+      "extension_id": "ekpicjaibbcffjfenpffjkifhiehcbfm",
+      "name": "Lug VPN \u2014 \u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u0449\u0438\u0442 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ekpicjaibbcffjfenpffjkifhiehcbfm"
+    },
+    {
+      "extension_id": "ecnmodkmpeeebpcnlpmnieamegokkhab",
+      "name": "\u041b\u0438\u0441\u0430 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ecnmodkmpeeebpcnlpmnieamegokkhab"
+    },
+    {
+      "extension_id": "ebfkhmjpdjojecendlbkchjohblodlob",
+      "name": "Tarakan VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ebfkhmjpdjojecendlbkchjohblodlob"
+    },
+    {
+      "extension_id": "dnmjcjmnkodeglkoonkfnekdpiiidael",
+      "name": "\u0422\u0443\u0440\u043e\u0432 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dnmjcjmnkodeglkoonkfnekdpiiidael"
+    },
+    {
+      "extension_id": "cojanaohoolhlkfkcmekifeeobdmgpab",
+      "name": "NightCrawl VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cojanaohoolhlkfkcmekifeeobdmgpab"
+    },
+    {
+      "extension_id": "cjadklbhkckhkgnlbllaelbfjjcgenfj",
+      "name": "Mantis Secure",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cjadklbhkckhkgnlbllaelbfjjcgenfj"
+    },
+    {
+      "extension_id": "ccnaehfdahmalkmfhgalgccffbmholki",
+      "name": "\u041a\u0430\u043a\u0430\u0434\u0443 \u0412\u041f\u041d",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ccnaehfdahmalkmfhgalgccffbmholki"
+    },
+    {
+      "extension_id": "cbpfihfjeleikcpadajchoebgfblalid",
+      "name": "Windows VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cbpfihfjeleikcpadajchoebgfblalid"
+    },
+    {
+      "extension_id": "cabcelkjclaoimjobhbldhlknjppicgi",
+      "name": "Hardshell Net \u2014 \u0417\u0430\u0449\u0438\u0442\u0430 \u0432 \u043e\u0434\u0438\u043d \u043a\u043b\u0438\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cabcelkjclaoimjobhbldhlknjppicgi"
+    },
+    {
+      "extension_id": "baplpdmklmmegpjkalhjbafmhllpbgoi",
+      "name": "Hola VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/baplpdmklmmegpjkalhjbafmhllpbgoi"
+    },
+    {
+      "extension_id": "aocipbpjojijjlmopppdnkhmnfaeobol",
+      "name": "Kolokolchik VPN \u2014 \u0437\u0432\u043e\u043d\u043a\u0438\u0439 \u043f\u0440\u043e\u043a\u0441\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/aocipbpjojijjlmopppdnkhmnfaeobol"
+    },
+    {
+      "extension_id": "ajjgfffcnelajekhpgnfhhehpjokkkjh",
+      "name": "Burrow VPN \u2014 \u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u043f\u0440\u043e\u043a\u0441\u0438-\u0442\u043e\u043d\u043d\u0435\u043b\u044c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ajjgfffcnelajekhpgnfhhehpjokkkjh"
+    },
+    {
+      "extension_id": "afpiijfkjbkkfoeepflocpfcmghcohfi",
+      "name": "Drone Shield \u2014 \u0440\u0435\u0442\u0440\u043e-\u0437\u0430\u0449\u0438\u0442\u0430 \u0441\u0435\u0442\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/afpiijfkjbkkfoeepflocpfcmghcohfi"
+    },
+    {
+      "extension_id": "adjnaekfhknjhcagnejdcfelbjdcfjgj",
+      "name": "\u0401\u0436\u0438\u043a VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/adjnaekfhknjhcagnejdcfelbjdcfjgj"
+    },
+    {
+      "extension_id": "adjmddmkpidciominakpmljkkkfojaac",
+      "name": "VPN 2026",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/adjmddmkpidciominakpmljkkkfojaac"
+    },
+    {
+      "extension_id": "mllhkekmhgbdenahmkolmkijipddhbnn",
+      "name": "Radmin VPN \u2014 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0439 \u0440\u0435\u0436\u0438\u043c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/mllhkekmhgbdenahmkolmkijipddhbnn"
+    },
+    {
+      "extension_id": "hobopaghoileeibgbnfofpoaggheplbf",
+      "name": "\u0421\u0443\u043f\u0435\u0440 VPN \u2014 \u0441\u043a\u0440\u044b\u0442\u044b\u0439 IP",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hobopaghoileeibgbnfofpoaggheplbf"
+    },
+    {
+      "extension_id": "hghdgfijkoaenalonnlldjggmakkabfe",
+      "name": "VPN - \u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 VPN \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hghdgfijkoaenalonnlldjggmakkabfe"
+    },
+    {
+      "extension_id": "bnnjeanokjfhhkohkaoghfclocnhpcia",
+      "name": "Fast VPN \u2014 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bnnjeanokjfhhkohkaoghfclocnhpcia"
+    },
+    {
+      "extension_id": "hjcmoncnppobhjddaghaklfkepgaejog",
+      "name": "Urban VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hjcmoncnppobhjddaghaklfkepgaejog"
+    },
+    {
+      "extension_id": "bjpgehkaonlndnoohmlelkjlchccdigb",
+      "name": "Jump-Jump VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bjpgehkaonlndnoohmlelkjlchccdigb"
+    },
+    {
+      "extension_id": "imkgekneolafjpdgcbdagelgfcdobmlp",
+      "name": "\u0414\u044f\u0434\u044f \u0412\u0430\u043d\u044f VPN \u2013 \u043f\u0440\u043e\u0441\u0442\u043e\u0439 proxy \u0431\u0435\u0437 \u0442\u043e\u0440\u043c\u043e\u0437\u043e\u0432",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/imkgekneolafjpdgcbdagelgfcdobmlp"
+    },
+    {
+      "extension_id": "hokmanlioejijlfedacchmnekagoikia",
+      "name": "\u0412\u0430\u043d\u044f Proxy \u2013 \u043b\u0451\u0433\u043a\u0438\u0439 \u043f\u0440\u043e\u043a\u0441\u0438 \u0431\u0435\u0437 \u0441\u043b\u043e\u0436\u043d\u044b\u0445 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hokmanlioejijlfedacchmnekagoikia"
+    },
+    {
+      "extension_id": "hjcldbjnjeajfjnfakafbihnkcahipjd",
+      "name": "\u0425\u0430\u043f\u043f VPN \u2013 \u043b\u0451\u0433\u043a\u0438\u0439 proxy \u0434\u043b\u044f \u0431\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hjcldbjnjeajfjnfakafbihnkcahipjd"
+    },
+    {
+      "extension_id": "fddcfopnhojdhijpfmllhieoecbckhlp",
+      "name": "\u0414\u0436\u0430\u043c\u043f \u0414\u0436\u0430\u043c\u043f VPN \u2013 \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u0435\u0440\u0435\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 proxy-\u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fddcfopnhojdhijpfmllhieoecbckhlp"
+    },
+    {
+      "extension_id": "poaelinlofhkopdifffhlkioaojgfjge",
+      "name": "Secure VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/poaelinlofhkopdifffhlkioaojgfjge"
+    },
+    {
+      "extension_id": "nodaaabgfmfoedakdmbjmoicocgnbokc",
+      "name": "BrowSec VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/nodaaabgfmfoedakdmbjmoicocgnbokc"
+    },
+    {
+      "extension_id": "lkmnpfajdejfdbfjiaealafmogipbapk",
+      "name": "\u041a\u0430\u043a\u0430\u0434\u0443 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/lkmnpfajdejfdbfjiaealafmogipbapk"
+    },
+    {
+      "extension_id": "ljhgojgbkjkhbalonkdonmgfdoepggcp",
+      "name": "Urban VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ljhgojgbkjkhbalonkdonmgfdoepggcp"
+    },
+    {
+      "extension_id": "hnhlhlnbgjocolmlecblbbpbhdacjmdd",
+      "name": "Turbo VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hnhlhlnbgjocolmlecblbbpbhdacjmdd"
+    },
+    {
+      "extension_id": "gjpngijceealihchakjadbgedhphbnoi",
+      "name": "Sota VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gjpngijceealihchakjadbgedhphbnoi"
+    },
+    {
+      "extension_id": "fnmoomkicfdelpdhkahfcbenclcbmnnd",
+      "name": "\u041c\u0443\u0445\u0430 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fnmoomkicfdelpdhkahfcbenclcbmnnd"
+    },
+    {
+      "extension_id": "efpnbpbclmfblbkicgpipnehglciohce",
+      "name": "Light Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/efpnbpbclmfblbkicgpipnehglciohce"
+    },
+    {
+      "extension_id": "eemheamahbooefoojcalafcadhebljfl",
+      "name": "\u0411\u0430\u0442\u044f VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/eemheamahbooefoojcalafcadhebljfl"
+    },
+    {
+      "extension_id": "ecggfjeponcknddgikfdjngocbpmkhdo",
+      "name": "Jump VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ecggfjeponcknddgikfdjngocbpmkhdo"
+    },
+    {
+      "extension_id": "hnkagccbeijempndkojdajdicgggplpi",
+      "name": "Myxa Premium VPN \u2014 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u043d\u044b\u0439 proxy-\u0434\u043e\u0441\u0442\u0443\u043f \u0438 \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0441\u0435\u0440\u0432\u0435\u0440\u044b",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hnkagccbeijempndkojdajdicgggplpi"
+    },
+    {
+      "extension_id": "cjhkcmdhkdjgdmgldfaggkjcomhoeeen",
+      "name": "Happ VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0438 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 proxy \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cjhkcmdhkdjgdmgldfaggkjcomhoeeen"
+    },
+    {
+      "extension_id": "chlkfcilfifdlmlmjinjeinpibgpegap",
+      "name": "Hit VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 hit-\u0434\u043e\u0441\u0442\u0443\u043f \u0447\u0435\u0440\u0435\u0437 browser proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/chlkfcilfifdlmlmjinjeinpibgpegap"
+    },
+    {
+      "extension_id": "bpfjljidmejoeamagnfbknmhehbmagbd",
+      "name": "Paper VPN \u2014 \u043b\u0451\u0433\u043a\u0438\u0439 proxy \u043a\u0430\u043a \u0447\u0438\u0441\u0442\u044b\u0439 \u043b\u0438\u0441\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bpfjljidmejoeamagnfbknmhehbmagbd"
+    },
+    {
+      "extension_id": "pknicmfnmeaohdeacagcpcggnjcfefld",
+      "name": "\u0401\u0436 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/pknicmfnmeaohdeacagcpcggnjcfefld"
+    },
+    {
+      "extension_id": "lngiojmnaemlbhahccmnohemajgjgimb",
+      "name": "Water VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/lngiojmnaemlbhahccmnohemajgjgimb"
+    },
+    {
+      "extension_id": "kpmgcdgnpkbfajhgbmagkaccibnekbdm",
+      "name": "Apple VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kpmgcdgnpkbfajhgbmagkaccibnekbdm"
+    },
+    {
+      "extension_id": "fklahklbgkgpaildaegmojabhngniomb",
+      "name": "Fire VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fklahklbgkgpaildaegmojabhngniomb"
+    },
+    {
+      "extension_id": "cbmjaknklmcgajkfocjagjmdkeinfchm",
+      "name": "Pipl VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cbmjaknklmcgajkfocjagjmdkeinfchm"
+    },
+    {
+      "extension_id": "annffnminbfjdifcgbadjdgcaglpiemj",
+      "name": "\u041a\u0430\u043a\u0430\u0434\u0443 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/annffnminbfjdifcgbadjdgcaglpiemj"
+    },
+    {
+      "extension_id": "oemjchklfcneghomigfkdeoleglhgocp",
+      "name": "SpeedTop VPN \u2013 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 proxy \u0441 \u0430\u043a\u0446\u0435\u043d\u0442\u043e\u043c \u043d\u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/oemjchklfcneghomigfkdeoleglhgocp"
+    },
+    {
+      "extension_id": "mpfokndmajkflgkbjjkmgcnkkoebelab",
+      "name": "Hit VPN \u2013 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 proxy-\u0434\u043e\u0441\u0442\u0443\u043f \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u0442\u043e\u0440\u043c\u043e\u0437\u043e\u0432",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/mpfokndmajkflgkbjjkmgcnkkoebelab"
+    },
+    {
+      "extension_id": "inolfjdmfnnikdnaagcocajchnccmaio",
+      "name": "Fast VPN \u2013 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 proxy \u0432 \u043e\u0434\u0438\u043d \u043a\u043b\u0438\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/inolfjdmfnnikdnaagcocajchnccmaio"
+    },
+    {
+      "extension_id": "nlbmgbphkacbiccjjocpkjlehpendbhk",
+      "name": "Hit VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/nlbmgbphkacbiccjjocpkjlehpendbhk"
+    },
+    {
+      "extension_id": "lffiompnfgklemcbinkmogbjeiaifehb",
+      "name": "Happ VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/lffiompnfgklemcbinkmogbjeiaifehb"
+    },
+    {
+      "extension_id": "kojpkekfanejpfmildijmgmapdgepddn",
+      "name": "Super VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kojpkekfanejpfmildijmgmapdgepddn"
+    },
+    {
+      "extension_id": "kgocgajpdmdacjfhhcgjekdnpmeddjem",
+      "name": "\u041c\u0430\u0441\u0442\u0435\u0440 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kgocgajpdmdacjfhhcgjekdnpmeddjem"
+    },
+    {
+      "extension_id": "kfohlaofnppmnelheedlkiamijfaikci",
+      "name": "\u0411\u0430\u0442\u044f VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kfohlaofnppmnelheedlkiamijfaikci"
+    },
+    {
+      "extension_id": "ghedgpchgenefpjfjokdnlohlmbaoidb",
+      "name": "Planet VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ghedgpchgenefpjfjokdnlohlmbaoidb"
+    },
+    {
+      "extension_id": "gahjhehnlghhgolhbonlbgahjikidgla",
+      "name": "Amnezia VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gahjhehnlghhgolhbonlbgahjikidgla"
+    },
+    {
+      "extension_id": "enclhmjiadiphdbnpkdhkelcahjnnhcp",
+      "name": "\u0414\u044f\u0434\u044f \u0412\u0430\u043d\u044f VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/enclhmjiadiphdbnpkdhkelcahjnnhcp"
+    },
+    {
+      "extension_id": "ebjhmhgfpinecniajgjkhaocfodmldnn",
+      "name": "Top VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ebjhmhgfpinecniajgjkhaocfodmldnn"
+    },
+    {
+      "extension_id": "clcpecjofmjiapknnccnflcagbjdeccf",
+      "name": "Free VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/clcpecjofmjiapknnccnflcagbjdeccf"
+    },
+    {
+      "extension_id": "anpnhjikkhcoaaflifchcaenbpfagipo",
+      "name": "\u0414\u044f\u0434\u044f \u0412\u0430\u043d\u044f VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/anpnhjikkhcoaaflifchcaenbpfagipo"
+    },
+    {
+      "extension_id": "ahdpgkmldfnmpcpoamhabhoohdjgijak",
+      "name": "Turbo VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ahdpgkmldfnmpcpoamhabhoohdjgijak"
+    },
+    {
+      "extension_id": "pddmlooojhnhglkdhhimocbnbdlaogdm",
+      "name": "Sota VPN \u2014 \u0441\u0435\u0442\u043a\u0430 \u0431\u044b\u0441\u0442\u0440\u044b\u0445 \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432 \u0434\u043b\u044f browser proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/pddmlooojhnhglkdhhimocbnbdlaogdm"
+    },
+    {
+      "extension_id": "kmomhipjmbcobnaippannhmfdhgeadfa",
+      "name": "Myxa VPN \u2014 \u043b\u0451\u0433\u043a\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435, \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kmomhipjmbcobnaippannhmfdhgeadfa"
+    },
+    {
+      "extension_id": "inicnjibhgoomjmdkddcmmnpamfhpghb",
+      "name": "Bravo VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/inicnjibhgoomjmdkddcmmnpamfhpghb"
+    },
+    {
+      "extension_id": "eojakckjemdnoffmlfnonhfkmmkigpdj",
+      "name": "Pipl VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/eojakckjemdnoffmlfnonhfkmmkigpdj"
+    },
+    {
+      "extension_id": "eandhmoghnfjemddjnmdimlloghflilf",
+      "name": "Myxa Fast VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/eandhmoghnfjemddjnmdimlloghflilf"
+    },
+    {
+      "extension_id": "aojolglblgegdlejhldpeadnglkcheba",
+      "name": "\u0425\u044d\u043f\u043f\u0438 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/aojolglblgegdlejhldpeadnglkcheba"
+    },
+    {
+      "extension_id": "akibiigkdhioejdgkeophiphkpdhmice",
+      "name": "\u041f\u043b\u0430\u043d\u0435\u0442\u0430 VPN \u2014 \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0439 proxy-\u0434\u043e\u0441\u0442\u0443\u043f \u0438 \u0441\u0435\u0440\u0432\u0435\u0440\u044b \u0440\u044f\u0434\u043e\u043c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/akibiigkdhioejdgkeophiphkpdhmice"
+    },
+    {
+      "extension_id": "onjinbkkfllnmlliccceepfccihgecdh",
+      "name": "Ore lVpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/onjinbkkfllnmlliccceepfccihgecdh"
+    },
+    {
+      "extension_id": "odmonkfcgpfigghfgnngaeibckgjbjce",
+      "name": "Bars Vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/odmonkfcgpfigghfgnngaeibckgjbjce"
+    },
+    {
+      "extension_id": "mlpegpimkonipjfhidmimjahlocgobop",
+      "name": "Kosmos Vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/mlpegpimkonipjfhidmimjahlocgobop"
+    },
+    {
+      "extension_id": "lopjckeffpljbofkaldmojbbjlkjdfcf",
+      "name": "Avocado Vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/lopjckeffpljbofkaldmojbbjlkjdfcf"
+    },
+    {
+      "extension_id": "igjfbdhfpnmbbiegnnlhhokbdpoglmba",
+      "name": "Tiger Vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/igjfbdhfpnmbbiegnnlhhokbdpoglmba"
+    },
+    {
+      "extension_id": "fgpeadkjhdhaefcfkacbjniapclmbehi",
+      "name": "Raduga Vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fgpeadkjhdhaefcfkacbjniapclmbehi"
+    },
+    {
+      "extension_id": "emfdpideeoagljccddpegdicpcgkledf",
+      "name": "Dolphin Vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/emfdpideeoagljccddpegdicpcgkledf"
+    },
+    {
+      "extension_id": "bdmnomiahkddoogbipkleodejnplcppj",
+      "name": "Goose Vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bdmnomiahkddoogbipkleodejnplcppj"
+    },
+    {
+      "extension_id": "khefbhanpeicefjhlogailkalglhdlea",
+      "name": "Bye VPN \u2014 \u041e\u0434\u0438\u043d \u043a\u043b\u0438\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/khefbhanpeicefjhlogailkalglhdlea"
+    },
+    {
+      "extension_id": "ihldefkgpnceoelikkacpffhabnhfdpm",
+      "name": "Proton VPN \u2014 \u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ihldefkgpnceoelikkacpffhabnhfdpm"
+    },
+    {
+      "extension_id": "ickldhbificbikdaaljpcddekdmngjjc",
+      "name": "Top VPN \u2014 \u0421\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ickldhbificbikdaaljpcddekdmngjjc"
+    },
+    {
+      "extension_id": "hmklcckkmciijdfaaifpmcgfclgdnmbg",
+      "name": "Amnezia VPN \u2014 \u0421\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0439 \u043c\u0430\u0440\u0448\u0440\u0443\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hmklcckkmciijdfaaifpmcgfclgdnmbg"
+    },
+    {
+      "extension_id": "hkekfldddpkkfnedjfiiajkodgcacfck",
+      "name": "\u0412\u0430\u043d\u044f VPN \u2014 \u041d\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u0434\u0435\u043d\u044c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hkekfldddpkkfnedjfiiajkodgcacfck"
+    },
+    {
+      "extension_id": "flgfmlcibjhdkmpkccifgmbckjnpcnil",
+      "name": "\u0414\u044f\u0434\u044f \u0412\u0430\u043d\u044f VPN \u2014 \u041d\u0430\u0434\u0451\u0436\u043d\u044b\u0439 \u043c\u0430\u0440\u0448\u0440\u0443\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/flgfmlcibjhdkmpkccifgmbckjnpcnil"
+    },
+    {
+      "extension_id": "bfoiajdjmbdhjeepbndhjenekaalkbeg",
+      "name": "Star VPN \u2014 \u041b\u0451\u0433\u043a\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bfoiajdjmbdhjeepbndhjenekaalkbeg"
+    },
+    {
+      "extension_id": "ppbbocbdhdnedkdlaoohkpbafmbpljpa",
+      "name": "Aurora VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043f\u0440\u043e\u043a\u0441\u0438 \u0434\u043b\u044f \u043b\u044e\u0431\u044b\u0445 \u0441\u0430\u0439\u0442\u043e\u0432",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ppbbocbdhdnedkdlaoohkpbafmbpljpa"
+    },
+    {
+      "extension_id": "ojgndfedcnfkmohdcafiilpcenifhijd",
+      "name": "\u0414\u0435\u0434 VPN \u2014 \u0437\u0430\u0449\u0438\u0442\u0430 \u0438 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u044c \u043e\u043d\u043b\u0430\u0439\u043d",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ojgndfedcnfkmohdcafiilpcenifhijd"
+    },
+    {
+      "extension_id": "nledalnomibdlfljakdcffgbpmkhjdfh",
+      "name": "Qu VPN \u2014 \u0437\u0430\u0449\u0438\u0442\u0430 \u0438 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u044c \u043e\u043d\u043b\u0430\u0439\u043d",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/nledalnomibdlfljakdcffgbpmkhjdfh"
+    },
+    {
+      "extension_id": "ngohccekcogognbibjfipmpckfnincli",
+      "name": "Zero VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0438 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ngohccekcogognbibjfipmpckfnincli"
+    },
+    {
+      "extension_id": "iedfmbgpnhgnoghmppjcdbeckbfcmhgl",
+      "name": "Hola VPN \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 \u0431\u0435\u0437 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u0439",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/iedfmbgpnhgnoghmppjcdbeckbfcmhgl"
+    },
+    {
+      "extension_id": "dnfdiamfhbaaicacdfmjhkfhedolbjfg",
+      "name": "Durov VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043f\u0440\u043e\u043a\u0441\u0438 \u0434\u043b\u044f \u043b\u044e\u0431\u044b\u0445 \u0441\u0430\u0439\u0442\u043e\u0432",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dnfdiamfhbaaicacdfmjhkfhedolbjfg"
+    },
+    {
+      "extension_id": "pfljadblahfjooobcgeomagleeoaapbl",
+      "name": "UltraVPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/pfljadblahfjooobcgeomagleeoaapbl"
+    },
+    {
+      "extension_id": "miiolehfoldajjpfjcnajmalaojhjaoa",
+      "name": "AdGuard VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/miiolehfoldajjpfjcnajmalaojhjaoa"
+    },
+    {
+      "extension_id": "igmoflgphnlpcbeedabbhcpppklkkdeb",
+      "name": "Urban VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/igmoflgphnlpcbeedabbhcpppklkkdeb"
+    },
+    {
+      "extension_id": "hmooknfodfbbncnhncnednnkiommggpj",
+      "name": "PrivadoVPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hmooknfodfbbncnhncnednnkiommggpj"
+    },
+    {
+      "extension_id": "adpkfblbeihmbjljeffbaklklgofcgae",
+      "name": "Secure VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/adpkfblbeihmbjljeffbaklklgofcgae"
+    },
+    {
+      "extension_id": "kfodnmcfkeekobieebijkjclpbdeenjp",
+      "name": "VPN-\u0449\u0438\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kfodnmcfkeekobieebijkjclpbdeenjp"
+    },
+    {
+      "extension_id": "hkknofgppcaphiolocpkdljneopbmccf",
+      "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hkknofgppcaphiolocpkdljneopbmccf"
+    },
+    {
+      "extension_id": "migapbdgcndcplpcfempbpfdlkeakoif",
+      "name": "\u0422\u0443\u0440\u0431\u043e VPN \u2014 \u0431\u0435\u0437 \u043b\u0430\u0433\u043e\u0432",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/migapbdgcndcplpcfempbpfdlkeakoif"
+    },
+    {
+      "extension_id": "fkiglandkaeajdjehelgkmnndonnffan",
+      "name": "\u0411\u0435\u043b\u043a\u0430 VPN \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fkiglandkaeajdjehelgkmnndonnffan"
+    },
+    {
+      "extension_id": "gnbdhoigfbfnkiccfbmkpjhpgfbghhlp",
+      "name": "\u0410\u043c\u043d\u0435\u0437\u0438\u044f VPN \u2014 \u0421\u043f\u043e\u043a\u043e\u0439\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gnbdhoigfbfnkiccfbmkpjhpgfbghhlp"
+    },
+    {
+      "extension_id": "fipehomnnanfooidacjclhgopgpngoka",
+      "name": "Myxa VPN Lite \u2014 \u041b\u0451\u0433\u043a\u0438\u0439 \u0440\u0435\u0436\u0438\u043c",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/fipehomnnanfooidacjclhgopgpngoka"
+    },
+    {
+      "extension_id": "caahmphonfnhadohfmkcgoeefmeoacfk",
+      "name": "\u0413\u0443\u0441\u044c VPN \u2014 \u041b\u0451\u0433\u043a\u0438\u0439 \u043f\u043e\u043b\u0451\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/caahmphonfnhadohfmkcgoeefmeoacfk"
+    },
+    {
+      "extension_id": "pplibppgnmomfcnoclechnebccniooai",
+      "name": "VPN Lagless",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/pplibppgnmomfcnoclechnebccniooai"
+    },
+    {
+      "extension_id": "pgegfnolipocfakkldnkommjffijfejf",
+      "name": "Proton VPN free",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/pgegfnolipocfakkldnkommjffijfejf"
+    },
+    {
+      "extension_id": "pdokibcpfcjgjekalneegknionpagbmk",
+      "name": "VPN \u0431\u0435\u0437 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/pdokibcpfcjgjekalneegknionpagbmk"
+    },
+    {
+      "extension_id": "pddhejgmgakilndagfaffgochjojogfp",
+      "name": "android VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/pddhejgmgakilndagfaffgochjojogfp"
+    },
+    {
+      "extension_id": "okkofhfjhogmdagdpokjcfclbgeobhmk",
+      "name": "VPN Bolt",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/okkofhfjhogmdagdpokjcfclbgeobhmk"
+    },
+    {
+      "extension_id": "ojlmafdjhliipnjjppdiadpmfdeelnee",
+      "name": "work VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ojlmafdjhliipnjjppdiadpmfdeelnee"
+    },
+    {
+      "extension_id": "nmnbdhlcjapghglbagbagmideiggpnfi",
+      "name": "VPN Direct",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/nmnbdhlcjapghglbagbagmideiggpnfi"
+    },
+    {
+      "extension_id": "negbjklejfljbelapdjppmfhjehpefib",
+      "name": "odin-klik-vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/negbjklejfljbelapdjppmfhjehpefib"
+    },
+    {
+      "extension_id": "mllilecdlobbninpgokpjdemejfnkela",
+      "name": "\u0432\u043f\u043d \u0434\u043b\u044f \u044e\u0442\u0443\u0431\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/mllilecdlobbninpgokpjdemejfnkela"
+    },
+    {
+      "extension_id": "lfadaehpomkfpaikipnlicfnncpifekm",
+      "name": "Opera VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/lfadaehpomkfpaikipnlicfnncpifekm"
+    },
+    {
+      "extension_id": "kolbfeikmmkkdolnkopohocflhpokajp",
+      "name": "VPN \u0434\u043b\u044f \u0438\u0433\u0440",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kolbfeikmmkkdolnkopohocflhpokajp"
+    },
+    {
+      "extension_id": "kipmejfpjbknplnapajcfopncfnjnhoh",
+      "name": "Hola VPN fre",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/kipmejfpjbknplnapajcfopncfnjnhoh"
+    },
+    {
+      "extension_id": "jefnljneijhahhfffilpmfpofhgigkhd",
+      "name": "antizapret-vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/jefnljneijhahhfffilpmfpofhgigkhd"
+    },
+    {
+      "extension_id": "ilbpmeeaifiojjiohfffjmgpgcfcaajg",
+      "name": "1.1.1.1 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ilbpmeeaifiojjiohfffjmgpgcfcaajg"
+    },
+    {
+      "extension_id": "idpnkgklpceoeabneppjgffcidokneif",
+      "name": "VPN free for chrome",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/idpnkgklpceoeabneppjgffcidokneif"
+    },
+    {
+      "extension_id": "icjnjndpfkjjlhdcbigakplonifnhnpk",
+      "name": "\u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0432\u043f\u043d \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/icjnjndpfkjjlhdcbigakplonifnhnpk"
+    },
+    {
+      "extension_id": "hioijncdgkhopehidnimbdealonncjbb",
+      "name": "VPN Rush",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hioijncdgkhopehidnimbdealonncjbb"
+    },
+    {
+      "extension_id": "ghpeepgmgdeabaimackjmkfafcdfmkai",
+      "name": "\u0412\u0430\u043d\u044f \u0434\u044f\u0434\u044f VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ghpeepgmgdeabaimackjmkfafcdfmkai"
+    },
+    {
+      "extension_id": "dlaonnkmgmchbmlbngepgioejjmglape",
+      "name": "VPN Shadow",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/dlaonnkmgmchbmlbngepgioejjmglape"
+    },
+    {
+      "extension_id": "biobgdechobmiadhmlkmopcfodhcliae",
+      "name": "\u0431\u044b\u0441\u0442\u0440\u044b\u0439 VPN \u0434\u043b\u044f \u0432\u0441\u0435\u0445",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/biobgdechobmiadhmlkmopcfodhcliae"
+    },
+    {
+      "extension_id": "bfhmomelpcmpdjdeohpeemfgikbdoijl",
+      "name": "nevidimyy-vpn",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bfhmomelpcmpdjdeohpeemfgikbdoijl"
+    },
+    {
+      "extension_id": "bbddibpbffgafehfljibecnppcamoogn",
+      "name": "\u0430\u043c\u043d\u0435\u0437\u0438\u044f chrome",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/bbddibpbffgafehfljibecnppcamoogn"
+    },
+    {
+      "extension_id": "ahfjipgfgnjpkoacdlbaaimodjpiafod",
+      "name": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 VPN \\  Free - \u0412\u041f\u041d | VPN - 1VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ahfjipgfgnjpkoacdlbaaimodjpiafod"
+    },
+    {
+      "extension_id": "daefdbcalhpfoajkdeeobdamapepkdde",
+      "name": "Ninja VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/daefdbcalhpfoajkdeeobdamapepkdde"
+    },
+    {
+      "extension_id": "pkfhbfgbceeilepkfiiceedbhlanmmjj",
+      "name": "\u0418\u0441\u043a\u0440\u0430 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/pkfhbfgbceeilepkfiiceedbhlanmmjj"
+    },
+    {
+      "extension_id": "inddaiiphfojbihdabkdnlpjehfkklhp",
+      "name": "Storm VPN \u2014 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/inddaiiphfojbihdabkdnlpjehfkklhp"
+    },
+    {
+      "extension_id": "idokdbnfljhpfecndlapankpgpkkgipd",
+      "name": "Rain VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/idokdbnfljhpfecndlapankpgpkkgipd"
+    },
+    {
+      "extension_id": "cihkgekjnagficdlaicladlfdodlodji",
+      "name": "\u041a\u0432\u0430\u043d\u0442 VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cihkgekjnagficdlaicladlfdodlodji"
+    },
+    {
+      "extension_id": "phmnnmciicaeaahifbonpkklhiddkdbb",
+      "name": "PlanetVPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/phmnnmciicaeaahifbonpkklhiddkdbb"
+    },
+    {
+      "extension_id": "olbjcieaiekojooccadpemmnofapfngl",
+      "name": "Happ VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/olbjcieaiekojooccadpemmnofapfngl"
+    },
+    {
+      "extension_id": "ogbcnckfiabjkgofnkmohmjabcadcpjj",
+      "name": "Wireguard \u0412\u041f\u041d-\u041f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u0430\u044f \u0437\u0430\u0448\u0438\u0442\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ogbcnckfiabjkgofnkmohmjabcadcpjj"
+    },
+    {
+      "extension_id": "nibfakjomhepipjboakgjnnddeeeebeh",
+      "name": "Mine \u0412\u041f\u041d-\u041f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/nibfakjomhepipjboakgjnnddeeeebeh"
+    },
+    {
+      "extension_id": "lffokgmnkdhhcbfdemgjjlgpohafchnc",
+      "name": "\u0422\u0443\u0440\u0431\u043e \u0412\u041f\u041d-\u041c\u043e\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/lffokgmnkdhhcbfdemgjjlgpohafchnc"
+    },
+    {
+      "extension_id": "emlifninekjhlmmhioileilfdijfmaoe",
+      "name": "JumP Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/emlifninekjhlmmhioileilfdijfmaoe"
+    },
+    {
+      "extension_id": "cahbelonbpjbgolckchmbpdlgeglgpof",
+      "name": "Blanc \u0412\u041f\u041d-\u0414\u043b\u044f \u043e\u0444\u0438\u0441\u0430 \u0438 \u0440\u0430\u0431\u043e\u0442\u044b",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/cahbelonbpjbgolckchmbpdlgeglgpof"
+    },
     {
       "extension_id": "hjclnhjbedfgbamgockhaddnhcibmmin",
       "name": "ETH Save Gas Prices Extension",
@@ -43,161 +2827,161 @@
       "extension_id": "fgdmoacjelpcghceahplbfgepnmlgnna",
       "name": "Marshmallow VPN",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/fgdmoacjelpcghceahplbfgepnmlgnna"
+      "store_url": "https://chromewebstore.google.com/detail/fgdmoacjelpcghceahplbfgepnmlgnna"
     },
     {
       "extension_id": "celjebeafmieepphodddabmegonmanoo",
       "name": "Lit VPN",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/celjebeafmieepphodddabmegonmanoo"
+      "store_url": "https://chromewebstore.google.com/detail/celjebeafmieepphodddabmegonmanoo"
     },
     {
       "extension_id": "kjbelgiekopnehkjmcpoiiopmfhbcokn",
       "name": "Kinder VPN",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/kjbelgiekopnehkjmcpoiiopmfhbcokn"
+      "store_url": "https://chromewebstore.google.com/detail/kjbelgiekopnehkjmcpoiiopmfhbcokn"
     },
     {
       "extension_id": "pbecllekjbdgokpkfmgaggfmghfdipkn",
       "name": "Jump-Jump Proxy",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/pbecllekjbdgokpkfmgaggfmghfdipkn"
+      "store_url": "https://chromewebstore.google.com/detail/pbecllekjbdgokpkfmgaggfmghfdipkn"
     },
     {
       "extension_id": "edakhofdfkcdhnmcjaacekhfgochaceo",
       "name": "Jump \u0412\u041f\u041d-\u0411\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/edakhofdfkcdhnmcjaacekhfgochaceo"
+      "store_url": "https://chromewebstore.google.com/detail/edakhofdfkcdhnmcjaacekhfgochaceo"
     },
     {
       "extension_id": "fkmbekmghpabdjfobhpbnmpakibmfecm",
       "name": "Jump \u0412\u041f\u041d",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/fkmbekmghpabdjfobhpbnmpakibmfecm"
+      "store_url": "https://chromewebstore.google.com/detail/fkmbekmghpabdjfobhpbnmpakibmfecm"
     },
     {
       "extension_id": "pmmneeeipikleggeclkinacjcjnegfbm",
       "name": "Hype VPN",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/pmmneeeipikleggeclkinacjcjnegfbm"
+      "store_url": "https://chromewebstore.google.com/detail/pmmneeeipikleggeclkinacjcjnegfbm"
     },
     {
       "extension_id": "ommmigkmgbilkbggodbipeffbjdbcook",
       "name": "Hoxx VPN \u2014 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/ommmigkmgbilkbggodbipeffbjdbcook"
+      "store_url": "https://chromewebstore.google.com/detail/ommmigkmgbilkbggodbipeffbjdbcook"
     },
     {
       "extension_id": "ijilplnnjkjklkmhbklfnpnlnjpbfaie",
       "name": "Happ \u0412\u041f\u041d-\u0411\u0435\u0437\u0430\u043f\u0430\u0441\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/ijilplnnjkjklkmhbklfnpnlnjpbfaie"
+      "store_url": "https://chromewebstore.google.com/detail/ijilplnnjkjklkmhbklfnpnlnjpbfaie"
     },
     {
       "extension_id": "plciffedekbipeophpkkjlilcdfnnkic",
       "name": "Happ Proxy",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/plciffedekbipeophpkkjlilcdfnnkic"
+      "store_url": "https://chromewebstore.google.com/detail/plciffedekbipeophpkkjlilcdfnnkic"
     },
     {
       "extension_id": "cabdahinacflcaaagobghohleefogogk",
       "name": "Happ Plus VPN \u2014 \u041b\u0451\u0433\u043a\u0438\u0439 \u0441\u0442\u0430\u0440\u0442",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/cabdahinacflcaaagobghohleefogogk"
+      "store_url": "https://chromewebstore.google.com/detail/cabdahinacflcaaagobghohleefogogk"
     },
     {
       "extension_id": "ihpdbailkcljcclemifagdnfmgpfnfbi",
       "name": "Fast \u0412\u041f\u041d-\u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438 \u0417\u0430\u0449\u0438\u0442\u0430",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/ihpdbailkcljcclemifagdnfmgpfnfbi"
+      "store_url": "https://chromewebstore.google.com/detail/ihpdbailkcljcclemifagdnfmgpfnfbi"
     },
     {
       "extension_id": "flpkiejgfikibbkjnikdcaonkfindfgb",
       "name": "Fast VPN \u2014 \u0411\u044b\u0441\u0442\u0440\u0430\u044f \u043b\u0438\u043d\u0438\u044f",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/flpkiejgfikibbkjnikdcaonkfindfgb"
+      "store_url": "https://chromewebstore.google.com/detail/flpkiejgfikibbkjnikdcaonkfindfgb"
     },
     {
       "extension_id": "hjmjmbiaafeggmgadknfbkeehppmhejk",
       "name": "Eva VPN \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/hjmjmbiaafeggmgadknfbkeehppmhejk"
+      "store_url": "https://chromewebstore.google.com/detail/hjmjmbiaafeggmgadknfbkeehppmhejk"
     },
     {
       "extension_id": "cdfajacnjbaigbjnpdjeeapephdnoeng",
       "name": "EZ VPN",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/cdfajacnjbaigbjnpdjeeapephdnoeng"
+      "store_url": "https://chromewebstore.google.com/detail/cdfajacnjbaigbjnpdjeeapephdnoeng"
     },
     {
       "extension_id": "mlcdgeihjfnedibbbadinnjilgjnplip",
       "name": "Browsec \u0412\u041f\u041d-\u0422\u0432\u043e\u044f \u0437\u0430\u0449\u0438\u0442\u0430",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/mlcdgeihjfnedibbbadinnjilgjnplip"
+      "store_url": "https://chromewebstore.google.com/detail/mlcdgeihjfnedibbbadinnjilgjnplip"
     },
     {
       "extension_id": "npjjbjijmdoicmkjmalabbkchhphnhkd",
       "name": "Black VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/npjjbjijmdoicmkjmalabbkchhphnhkd"
+      "store_url": "https://chromewebstore.google.com/detail/npjjbjijmdoicmkjmalabbkchhphnhkd"
     },
     {
       "extension_id": "amohbpndmbcjecjnghhaeeanohiflfpj",
       "name": "Astar VPN",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/amohbpndmbcjecjnghhaeeanohiflfpj"
+      "store_url": "https://chromewebstore.google.com/detail/amohbpndmbcjecjnghhaeeanohiflfpj"
     },
     {
       "extension_id": "almdngpalkpacjoeffkhacdjjimijjnf",
       "name": "Amnezia \u0412\u041f\u041d-\u041d\u0430\u0434\u0435\u0436\u043d\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/almdngpalkpacjoeffkhacdjjimijjnf"
+      "store_url": "https://chromewebstore.google.com/detail/almdngpalkpacjoeffkhacdjjimijjnf"
     },
     {
       "extension_id": "dlbaieojjjcjmmeohkcaadjpgeelogeb",
       "name": "Amnezia Proxy",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
-      "store": "Chrome",
+      "store": "Google Chrome",
       "insert_date": "2026-08-02",
-      "store_url": "https://microsoftedge.microsoft.com/addons/detail/dlbaieojjjcjmmeohkcaadjpgeelogeb"
+      "store_url": "https://chromewebstore.google.com/detail/dlbaieojjjcjmmeohkcaadjpgeelogeb"
     },
     {
       "extension_id": "imaoedkofdaconheiolmmokmimlplaii",
