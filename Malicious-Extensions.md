@@ -1,5 +1,47 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hjclnhjbedfgbamgockhaddnhcibmmin | ETH Save Gas Prices Extension | Bundling Unwanted Software | Store Monitoring | 02/08/26 | No | Google Chrome
+| ccgngdpmfjecdgijjjnbbndeahobokhj | Color Picker | Malware | Store Monitoring | 02/08/26 | No | Google Chrome
+| hjfdehobejconpkfgoldlpiidddkmbkm | Dideo | Policy Violation | Store Monitoring | 02/08/26 | No | Google Chrome
+| gmkmdlnbjabhbgaflipmefkcfbbkhpdm | Zeroblock | Policy Violation | Store Monitoring | 02/08/26 | No | Google Chrome
+| fgdmoacjelpcghceahplbfgepnmlgnna | Marshmallow VPN | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| celjebeafmieepphodddabmegonmanoo | Lit VPN | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| kjbelgiekopnehkjmcpoiiopmfhbcokn | Kinder VPN | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| pbecllekjbdgokpkfmgaggfmghfdipkn | Jump-Jump Proxy | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| edakhofdfkcdhnmcjaacekhfgochaceo | Jump ВПН-Быстрое подключение | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| fkmbekmghpabdjfobhpbnmpakibmfecm | Jump ВПН | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| pmmneeeipikleggeclkinacjcjnegfbm | Hype VPN | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| ommmigkmgbilkbggodbipeffbjdbcook | Hoxx VPN — скорость без лишних настроек | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| ijilplnnjkjklkmhbklfnpnlnjpbfaie | Happ ВПН-Безапасное соединение | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| plciffedekbipeophpkkjlilcdfnnkic | Happ Proxy | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| cabdahinacflcaaagobghohleefogogk | Happ Plus VPN — Лёгкий старт | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| ihpdbailkcljcclemifagdnfmgpfnfbi | Fast ВПН-Скорость и Защита | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| flpkiejgfikibbkjnikdcaonkfindfgb | Fast VPN — Быстрая линия | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| hjmjmbiaafeggmgadknfbkeehppmhejk | Eva VPN — стабильная работа | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| cdfajacnjbaigbjnpdjeeapephdnoeng | EZ VPN | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| mlcdgeihjfnedibbbadinnjilgjnplip | Browsec ВПН-Твоя защита | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| npjjbjijmdoicmkjmalabbkchhphnhkd | Black VPN — быстрое подключение | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| amohbpndmbcjecjnghhaeeanohiflfpj | Astar VPN | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| almdngpalkpacjoeffkhacdjjimijjnf | Amnezia ВПН-Надежное подключение | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| dlbaieojjjcjmmeohkcaadjpgeelogeb | Amnezia Proxy | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
+| imaoedkofdaconheiolmmokmimlplaii | PassShield: Cryptographic Vault | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| mdondgockboebafloibbhjofmoedmnnn | InstaSkip | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| lcgkjnfnhklmdeeobejaaamhphjgajom | MarkdownMind: Reader & Markdown Converter | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| bfpoikdkeehibolnodnidehanfhejflp | NetShift: Custom Header & Redirect Manager | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| cdcepcbnmhmcbihicmhfbijjokidcple | ClipFlow: Visual Screenshot Editor | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| lnogaakgoicoepejofienogdohbnbcdf | PagePalette: CSS Style & Color Inspector | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| bahegaolgkmgnjnppnlgkfedbfnnfila | TabLoom: Visual Tab Group Mindmap | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| dakecfndpkgfpifeigpelocnomgcgonj | SnoozeTab: Tab Scheduler & Alarm | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| geipbnpjdpignhlbgpjjokiponedfpdm | JsonLoom: Visual JSON Mindmap | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| fnghapbcbeindlipfffoildfkhjepofn | Focus Flow | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| kfecocknjlfelgafkkedmibpdoidfdln | Memeify My Tabs! | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| jjhepmoeblmpiecjclakeeolfdemhepb | SNES Mate - SNES Emulator | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| plgeoddeimaoamhcadaonmcjhpjhamim | NES Emulator | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| jfhpelccbpfcomeacbikkpjpoplckmgp | NES Emulator | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| lklpgnoakidgmajbkachidckmhjjdage | Poster Print | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| nmimfmbgigfapfdbgmdpljpdmdgogadl | Pesca Abisal | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| joloppoccabgdmcemcipplgnkliadbkf | PingTrack: Web Speed Diagnostician | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
+| injojphloinobilekfpfgkemmocojnnh | Meofbcom Extension | Malware | Store Monitoring | 01/08/26 | No | Google Chrome
 | hldopcfalmijoighahnejemdneibabhd | Ender Miles Morales Snow Time Live Spiderman Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
 | ldekndjlfmgconpffajebjnbkhejhcdh | Sung Jinwoo Dagger Knight Killer Solo Leveling Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
 | hdkielnmbndkingoimclciemhmeolkfb | Fortnite Venom Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
@@ -827,6 +869,7 @@
 | idhcfebdbpdgpadkaghokcjcopkkeobg | Domain Name Generator | Malware | Store Monitoring | 28/07/26 | No | Google Chrome
 | nnlfcpkabpandcagibmjbdmflpflpfco | Smart Video Downloader | Malware | Store Monitoring | 28/07/26 | Yes | Google Chrome
 | kgabkdjnieplcfdmigidljpogpioahej | FB likes export - export facebook likes | Policy Violation | Store Monitoring | 28/07/26 | No | Google Chrome
+| gjkfnalkblnjkalnipilmaacibikciin | Geek Sidebar - Free DeepSeek & Bookmark Sync | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
 | elgefdobpalaoiffljcgjkpnagfnmngb | Instagram Auto Liker Pro | Policy Violation | Store Monitoring | 27/07/26 | No | Google Chrome
 | aijdgbnkipobicgbfiopdlglhhjbnlmi | ‮рра‬ ‮knіL‬‮nоrт‬ | Malware | Store Monitoring | 27/07/26 | No | Google Chrome
 | lgdmjaflbcieonpajmfpgchoajfjjalm | ‮tellaw Diuqilrepyh | Malware | Store Monitoring | 27/07/26 | No | Google Chrome
@@ -1156,6 +1199,7 @@
 | gjgeepgbnihfmnngdaidcndjpieipaic | Ontranslator | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
 | pnfbhonpmgdimlamippohijmaajcnbac | Faceapp Perfect Face Edit | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
 | nkjdolmphckfdhkllhpdfbpdbehbmmkk | Export AI Chat - ChatGPT, Gemini, Grok | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
+| jogfmobenbfooncpfmlooifgjipoocdh | Discord Token Login | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
 | bfpgifecmdhgkilahppjbengfgpcmppj | Spotify Login | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | eakgppkbemkicknpjkefkicmgapfidkn | Auto Complete Hubspot By | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | jojafcbgfjjagedlpbpgpnafaedfjclk | Linkedroid The Linkedin H | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
@@ -1193,6 +1237,7 @@
 | odnllkpgpkdnkcemlhmgenglffnmdpdh | Fast: Base Wallet - Crypto Converter | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
 | oonlmcejlgcjhodpmfhnkifcaniafoom | Nova New Tab - Free GPT Image 2 Wallpaper Generation | Bundling Unwanted Software | Store Monitoring | 17/07/26 | No | Google Chrome
 | gilfbnldcnldfbbgcppoabkghidmedlk | Defi Portfolio Tracker Pro | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| oajppjaoljffbnlpebdoeeaibpgilagd | Helpx Assistant | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
 | cahbnklfddaodggaamglmfdnogpgmnla | Bookmyshow Auto Book | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
 | hdigmipmccfkdddebpbljmdgcdphmlgm | ‮tellaw Diuqilrepyh | Malware | Store Monitoring | 16/07/26 | No | Google Chrome
 | gagekkcpmoikpacolehlnjghnjmbifik | Bitwakescan | Policy Violation | Store Monitoring | 16/07/26 | No | Google Chrome
@@ -2371,7 +2416,7 @@
 | ohldfpiabdaaplbckgelngaafjnnfooa | Akra Forest Nature Theme | Bundling Unwanted Software | Store Monitoring | 11/06/26 | No | Google Chrome
 | fbjchilklljgiblhnginnnnbkidahlpp | Gia DụNg ThôNg Minh | Policy Violation | Store Monitoring | 11/06/26 | No | Google Chrome
 | lflpoohnikdcjjphblgklcdepmdppodc | Ocean Floor | Bundling Unwanted Software | Store Monitoring | 10/06/26 | No | Google Chrome
-| ddgpfibimgakpgiocpcmjamaeonmdekk | Bupper | Malware | Store Monitoring | 10/06/26 | No | Google Chrome
+| ddgpfibimgakpgiocpcmjamaeonmdekk | Bupper | Malware | Store Monitoring | 10/06/26 | Yes | Google Chrome
 | mkogghicjhcnifdeifdmookogkgkgkpl | Phantom Evm Wallet | Malware | Store Monitoring | 10/06/26 | No | Google Chrome
 | joglkiagmlpbmicjghnmogafgdkpocdj | Whato Crm Para Whatsapp A | Malware | Store Monitoring | 10/06/26 | Yes | Google Chrome
 | klcmflffoclcdanbppbncklcmijhheei | Trust Wallet Crypto Bitco | Malware | Store Monitoring | 10/06/26 | No | Google Chrome
