@@ -1,12 +1,348 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-08-01T17:52:28Z",
+  "generated": "2026-08-02T06:43:11Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 4620,
+  "total_indicators": 4665,
   "indicators": [
+    {
+      "extension_id": "hjclnhjbedfgbamgockhaddnhcibmmin",
+      "name": "ETH Save Gas Prices Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hjclnhjbedfgbamgockhaddnhcibmmin"
+    },
+    {
+      "extension_id": "ccgngdpmfjecdgijjjnbbndeahobokhj",
+      "name": "Color Picker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/ccgngdpmfjecdgijjjnbbndeahobokhj"
+    },
+    {
+      "extension_id": "hjfdehobejconpkfgoldlpiidddkmbkm",
+      "name": "Dideo",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/hjfdehobejconpkfgoldlpiidddkmbkm"
+    },
+    {
+      "extension_id": "gmkmdlnbjabhbgaflipmefkcfbbkhpdm",
+      "name": "Zeroblock",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://chromewebstore.google.com/detail/gmkmdlnbjabhbgaflipmefkcfbbkhpdm"
+    },
+    {
+      "extension_id": "fgdmoacjelpcghceahplbfgepnmlgnna",
+      "name": "Marshmallow VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/fgdmoacjelpcghceahplbfgepnmlgnna"
+    },
+    {
+      "extension_id": "celjebeafmieepphodddabmegonmanoo",
+      "name": "Lit VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/celjebeafmieepphodddabmegonmanoo"
+    },
+    {
+      "extension_id": "kjbelgiekopnehkjmcpoiiopmfhbcokn",
+      "name": "Kinder VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/kjbelgiekopnehkjmcpoiiopmfhbcokn"
+    },
+    {
+      "extension_id": "pbecllekjbdgokpkfmgaggfmghfdipkn",
+      "name": "Jump-Jump Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/pbecllekjbdgokpkfmgaggfmghfdipkn"
+    },
+    {
+      "extension_id": "edakhofdfkcdhnmcjaacekhfgochaceo",
+      "name": "Jump \u0412\u041f\u041d-\u0411\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/edakhofdfkcdhnmcjaacekhfgochaceo"
+    },
+    {
+      "extension_id": "fkmbekmghpabdjfobhpbnmpakibmfecm",
+      "name": "Jump \u0412\u041f\u041d",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/fkmbekmghpabdjfobhpbnmpakibmfecm"
+    },
+    {
+      "extension_id": "pmmneeeipikleggeclkinacjcjnegfbm",
+      "name": "Hype VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/pmmneeeipikleggeclkinacjcjnegfbm"
+    },
+    {
+      "extension_id": "ommmigkmgbilkbggodbipeffbjdbcook",
+      "name": "Hoxx VPN \u2014 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/ommmigkmgbilkbggodbipeffbjdbcook"
+    },
+    {
+      "extension_id": "ijilplnnjkjklkmhbklfnpnlnjpbfaie",
+      "name": "Happ \u0412\u041f\u041d-\u0411\u0435\u0437\u0430\u043f\u0430\u0441\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/ijilplnnjkjklkmhbklfnpnlnjpbfaie"
+    },
+    {
+      "extension_id": "plciffedekbipeophpkkjlilcdfnnkic",
+      "name": "Happ Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/plciffedekbipeophpkkjlilcdfnnkic"
+    },
+    {
+      "extension_id": "cabdahinacflcaaagobghohleefogogk",
+      "name": "Happ Plus VPN \u2014 \u041b\u0451\u0433\u043a\u0438\u0439 \u0441\u0442\u0430\u0440\u0442",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/cabdahinacflcaaagobghohleefogogk"
+    },
+    {
+      "extension_id": "ihpdbailkcljcclemifagdnfmgpfnfbi",
+      "name": "Fast \u0412\u041f\u041d-\u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438 \u0417\u0430\u0449\u0438\u0442\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/ihpdbailkcljcclemifagdnfmgpfnfbi"
+    },
+    {
+      "extension_id": "flpkiejgfikibbkjnikdcaonkfindfgb",
+      "name": "Fast VPN \u2014 \u0411\u044b\u0441\u0442\u0440\u0430\u044f \u043b\u0438\u043d\u0438\u044f",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/flpkiejgfikibbkjnikdcaonkfindfgb"
+    },
+    {
+      "extension_id": "hjmjmbiaafeggmgadknfbkeehppmhejk",
+      "name": "Eva VPN \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/hjmjmbiaafeggmgadknfbkeehppmhejk"
+    },
+    {
+      "extension_id": "cdfajacnjbaigbjnpdjeeapephdnoeng",
+      "name": "EZ VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/cdfajacnjbaigbjnpdjeeapephdnoeng"
+    },
+    {
+      "extension_id": "mlcdgeihjfnedibbbadinnjilgjnplip",
+      "name": "Browsec \u0412\u041f\u041d-\u0422\u0432\u043e\u044f \u0437\u0430\u0449\u0438\u0442\u0430",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/mlcdgeihjfnedibbbadinnjilgjnplip"
+    },
+    {
+      "extension_id": "npjjbjijmdoicmkjmalabbkchhphnhkd",
+      "name": "Black VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/npjjbjijmdoicmkjmalabbkchhphnhkd"
+    },
+    {
+      "extension_id": "amohbpndmbcjecjnghhaeeanohiflfpj",
+      "name": "Astar VPN",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/amohbpndmbcjecjnghhaeeanohiflfpj"
+    },
+    {
+      "extension_id": "almdngpalkpacjoeffkhacdjjimijjnf",
+      "name": "Amnezia \u0412\u041f\u041d-\u041d\u0430\u0434\u0435\u0436\u043d\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/almdngpalkpacjoeffkhacdjjimijjnf"
+    },
+    {
+      "extension_id": "dlbaieojjjcjmmeohkcaadjpgeelogeb",
+      "name": "Amnezia Proxy",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/dlbaieojjjcjmmeohkcaadjpgeelogeb"
+    },
+    {
+      "extension_id": "imaoedkofdaconheiolmmokmimlplaii",
+      "name": "PassShield: Cryptographic Vault",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/imaoedkofdaconheiolmmokmimlplaii"
+    },
+    {
+      "extension_id": "mdondgockboebafloibbhjofmoedmnnn",
+      "name": "InstaSkip",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/mdondgockboebafloibbhjofmoedmnnn"
+    },
+    {
+      "extension_id": "lcgkjnfnhklmdeeobejaaamhphjgajom",
+      "name": "MarkdownMind: Reader & Markdown Converter",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/lcgkjnfnhklmdeeobejaaamhphjgajom"
+    },
+    {
+      "extension_id": "bfpoikdkeehibolnodnidehanfhejflp",
+      "name": "NetShift: Custom Header & Redirect Manager",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/bfpoikdkeehibolnodnidehanfhejflp"
+    },
+    {
+      "extension_id": "cdcepcbnmhmcbihicmhfbijjokidcple",
+      "name": "ClipFlow: Visual Screenshot Editor",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/cdcepcbnmhmcbihicmhfbijjokidcple"
+    },
+    {
+      "extension_id": "lnogaakgoicoepejofienogdohbnbcdf",
+      "name": "PagePalette: CSS Style & Color Inspector",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/lnogaakgoicoepejofienogdohbnbcdf"
+    },
+    {
+      "extension_id": "bahegaolgkmgnjnppnlgkfedbfnnfila",
+      "name": "TabLoom: Visual Tab Group Mindmap",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/bahegaolgkmgnjnppnlgkfedbfnnfila"
+    },
+    {
+      "extension_id": "dakecfndpkgfpifeigpelocnomgcgonj",
+      "name": "SnoozeTab: Tab Scheduler & Alarm",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/dakecfndpkgfpifeigpelocnomgcgonj"
+    },
+    {
+      "extension_id": "geipbnpjdpignhlbgpjjokiponedfpdm",
+      "name": "JsonLoom: Visual JSON Mindmap",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/geipbnpjdpignhlbgpjjokiponedfpdm"
+    },
+    {
+      "extension_id": "fnghapbcbeindlipfffoildfkhjepofn",
+      "name": "Focus Flow",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/fnghapbcbeindlipfffoildfkhjepofn"
+    },
+    {
+      "extension_id": "kfecocknjlfelgafkkedmibpdoidfdln",
+      "name": "Memeify My Tabs!",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/kfecocknjlfelgafkkedmibpdoidfdln"
+    },
+    {
+      "extension_id": "jjhepmoeblmpiecjclakeeolfdemhepb",
+      "name": "SNES Mate - SNES Emulator",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/jjhepmoeblmpiecjclakeeolfdemhepb"
+    },
+    {
+      "extension_id": "plgeoddeimaoamhcadaonmcjhpjhamim",
+      "name": "NES Emulator",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/plgeoddeimaoamhcadaonmcjhpjhamim"
+    },
+    {
+      "extension_id": "jfhpelccbpfcomeacbikkpjpoplckmgp",
+      "name": "NES Emulator",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/jfhpelccbpfcomeacbikkpjpoplckmgp"
+    },
+    {
+      "extension_id": "lklpgnoakidgmajbkachidckmhjjdage",
+      "name": "Poster Print",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/lklpgnoakidgmajbkachidckmhjjdage"
+    },
+    {
+      "extension_id": "nmimfmbgigfapfdbgmdpljpdmdgogadl",
+      "name": "Pesca Abisal",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/nmimfmbgigfapfdbgmdpljpdmdgogadl"
+    },
+    {
+      "extension_id": "joloppoccabgdmcemcipplgnkliadbkf",
+      "name": "PingTrack: Web Speed Diagnostician",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt",
+      "store": "Chrome",
+      "insert_date": "2026-08-02",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/joloppoccabgdmcemcipplgnkliadbkf"
+    },
+    {
+      "extension_id": "injojphloinobilekfpfgkemmocojnnh",
+      "name": "Meofbcom Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-01",
+      "store_url": "https://chromewebstore.google.com/detail/injojphloinobilekfpfgkemmocojnnh"
+    },
     {
       "extension_id": "hldopcfalmijoighahnejemdneibabhd",
       "name": "Ender Miles Morales Snow Time Live Spiderman Wallpaper",
@@ -6624,6 +6960,14 @@
       "store_url": "https://chromewebstore.google.com/detail/kgabkdjnieplcfdmigidljpogpioahej"
     },
     {
+      "extension_id": "gjkfnalkblnjkalnipilmaacibikciin",
+      "name": "Geek Sidebar - Free DeepSeek & Bookmark Sync",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-07-27",
+      "store_url": "https://chromewebstore.google.com/detail/gjkfnalkblnjkalnipilmaacibikciin"
+    },
+    {
       "extension_id": "elgefdobpalaoiffljcgjkpnagfnmngb",
       "name": "Instagram Auto Liker Pro",
       "source": "Store Monitoring",
@@ -9256,6 +9600,14 @@
       "store_url": "https://chromewebstore.google.com/detail/nkjdolmphckfdhkllhpdfbpdbehbmmkk"
     },
     {
+      "extension_id": "jogfmobenbfooncpfmlooifgjipoocdh",
+      "name": "Discord Token Login",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-07-17",
+      "store_url": "https://chromewebstore.google.com/detail/jogfmobenbfooncpfmlooifgjipoocdh"
+    },
+    {
       "extension_id": "bfpgifecmdhgkilahppjbengfgpcmppj",
       "name": "Spotify Login",
       "source": "Store Monitoring",
@@ -9550,6 +9902,14 @@
       "store": "Google Chrome",
       "insert_date": "2026-07-17",
       "store_url": "https://chromewebstore.google.com/detail/gilfbnldcnldfbbgcppoabkghidmedlk"
+    },
+    {
+      "extension_id": "oajppjaoljffbnlpebdoeeaibpgilagd",
+      "name": "Helpx Assistant",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-07-16",
+      "store_url": "https://chromewebstore.google.com/detail/oajppjaoljffbnlpebdoeeaibpgilagd"
     },
     {
       "extension_id": "cahbnklfddaodggaamglmfdnogpgmnla",
