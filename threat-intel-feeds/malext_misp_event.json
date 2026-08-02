@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-01",
-    "timestamp": "1785606749",
+    "date": "2026-08-02",
+    "timestamp": "1785652992",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,1224 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "7bf76fab-7870-5e88-b57d-8c454704b81e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hjclnhjbedfgbamgockhaddnhcibmmin",
+        "comment": "ETH Save Gas Prices Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca65f080-b62a-544a-9839-0b5f2abad904",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hjclnhjbedfgbamgockhaddnhcibmmin",
+        "comment": "Chrome Web Store entry for ETH Save Gas Prices Extension (hjclnhjbedfgbamgockhaddnhcibmmin)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "84a88e9f-2327-5847-9d27-33593bd1b661",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ccgngdpmfjecdgijjjnbbndeahobokhj",
+        "comment": "Color Picker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8e6aac9b-8140-542f-b084-cfb0164bdfba",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ccgngdpmfjecdgijjjnbbndeahobokhj",
+        "comment": "Chrome Web Store entry for Color Picker (ccgngdpmfjecdgijjjnbbndeahobokhj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "041c8014-5b32-55ea-925c-b01ad9e477a8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hjfdehobejconpkfgoldlpiidddkmbkm",
+        "comment": "Dideo | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f80d37af-cf83-5edd-9edb-fb68d40d0af6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hjfdehobejconpkfgoldlpiidddkmbkm",
+        "comment": "Chrome Web Store entry for Dideo (hjfdehobejconpkfgoldlpiidddkmbkm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "75e0b2f6-3446-5346-ac8d-c34a46bf6bf0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gmkmdlnbjabhbgaflipmefkcfbbkhpdm",
+        "comment": "Zeroblock | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "514a2e4c-7092-5f8d-b535-6b1500e5189c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gmkmdlnbjabhbgaflipmefkcfbbkhpdm",
+        "comment": "Chrome Web Store entry for Zeroblock (gmkmdlnbjabhbgaflipmefkcfbbkhpdm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ca4da612-556d-5efb-ad4a-fbc5b5c23c94",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fgdmoacjelpcghceahplbfgepnmlgnna",
+        "comment": "Marshmallow VPN | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "897e032e-ba10-5c27-8672-a13ac8cdfffb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/fgdmoacjelpcghceahplbfgepnmlgnna",
+        "comment": "Microsoft Edge entry for Marshmallow VPN (fgdmoacjelpcghceahplbfgepnmlgnna)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "acde55f5-0d09-5582-8477-bcc3a5b3b66d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "celjebeafmieepphodddabmegonmanoo",
+        "comment": "Lit VPN | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "df16dd08-4490-5b75-9d50-4b414298dffa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/celjebeafmieepphodddabmegonmanoo",
+        "comment": "Microsoft Edge entry for Lit VPN (celjebeafmieepphodddabmegonmanoo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fa3b94be-a780-5763-9012-888c8e8d922e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kjbelgiekopnehkjmcpoiiopmfhbcokn",
+        "comment": "Kinder VPN | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7e13cccf-3611-5066-958e-36376f95d93d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/kjbelgiekopnehkjmcpoiiopmfhbcokn",
+        "comment": "Microsoft Edge entry for Kinder VPN (kjbelgiekopnehkjmcpoiiopmfhbcokn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8be3608a-8fff-55cc-b8af-0ec2fc4f9e10",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pbecllekjbdgokpkfmgaggfmghfdipkn",
+        "comment": "Jump-Jump Proxy | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c80fc833-7879-5f15-80b8-8f1cb2c7f9df",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/pbecllekjbdgokpkfmgaggfmghfdipkn",
+        "comment": "Microsoft Edge entry for Jump-Jump Proxy (pbecllekjbdgokpkfmgaggfmghfdipkn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b07e094d-65df-5f59-bb22-b8a9b852c255",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "edakhofdfkcdhnmcjaacekhfgochaceo",
+        "comment": "Jump \u0412\u041f\u041d-\u0411\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0833816e-929e-51ac-9499-02e528d25e93",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/edakhofdfkcdhnmcjaacekhfgochaceo",
+        "comment": "Microsoft Edge entry for Jump \u0412\u041f\u041d-\u0411\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 (edakhofdfkcdhnmcjaacekhfgochaceo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "585cc2f3-11b9-5b56-bf2f-090ac8e54ccd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fkmbekmghpabdjfobhpbnmpakibmfecm",
+        "comment": "Jump \u0412\u041f\u041d | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "07ba5e6b-0bd6-53f1-b054-927422bbedc2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/fkmbekmghpabdjfobhpbnmpakibmfecm",
+        "comment": "Microsoft Edge entry for Jump \u0412\u041f\u041d (fkmbekmghpabdjfobhpbnmpakibmfecm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c9ac11fa-27b0-5381-a610-db0b9bea5ab5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pmmneeeipikleggeclkinacjcjnegfbm",
+        "comment": "Hype VPN | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "af65cfc3-9607-5291-85ee-6bfdf0945bfc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/pmmneeeipikleggeclkinacjcjnegfbm",
+        "comment": "Microsoft Edge entry for Hype VPN (pmmneeeipikleggeclkinacjcjnegfbm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ea6ff220-a39e-5d8f-874d-3f0e99368852",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ommmigkmgbilkbggodbipeffbjdbcook",
+        "comment": "Hoxx VPN \u2014 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "af98d9d1-00bc-5ca5-ab4f-45c002a42e70",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ommmigkmgbilkbggodbipeffbjdbcook",
+        "comment": "Microsoft Edge entry for Hoxx VPN \u2014 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a (ommmigkmgbilkbggodbipeffbjdbcook)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fec6c504-bee5-524c-8752-e1e9fcac89a1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ijilplnnjkjklkmhbklfnpnlnjpbfaie",
+        "comment": "Happ \u0412\u041f\u041d-\u0411\u0435\u0437\u0430\u043f\u0430\u0441\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fec8bfe8-d98f-58c1-b9be-b539dd8dbc71",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ijilplnnjkjklkmhbklfnpnlnjpbfaie",
+        "comment": "Microsoft Edge entry for Happ \u0412\u041f\u041d-\u0411\u0435\u0437\u0430\u043f\u0430\u0441\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 (ijilplnnjkjklkmhbklfnpnlnjpbfaie)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "155da627-b19b-502b-a413-4deae566f20e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "plciffedekbipeophpkkjlilcdfnnkic",
+        "comment": "Happ Proxy | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "08cec1fa-65f7-5a8b-a29a-5ea88ec99dca",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/plciffedekbipeophpkkjlilcdfnnkic",
+        "comment": "Microsoft Edge entry for Happ Proxy (plciffedekbipeophpkkjlilcdfnnkic)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6c23e1a0-b7fa-50f8-bff8-07f1feeb8be4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cabdahinacflcaaagobghohleefogogk",
+        "comment": "Happ Plus VPN \u2014 \u041b\u0451\u0433\u043a\u0438\u0439 \u0441\u0442\u0430\u0440\u0442 | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "df3efa32-4bb2-57ff-9ebe-b5905f1de1bb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/cabdahinacflcaaagobghohleefogogk",
+        "comment": "Microsoft Edge entry for Happ Plus VPN \u2014 \u041b\u0451\u0433\u043a\u0438\u0439 \u0441\u0442\u0430\u0440\u0442 (cabdahinacflcaaagobghohleefogogk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "76dfd1ec-679e-58b0-96b4-762d38d41b6a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ihpdbailkcljcclemifagdnfmgpfnfbi",
+        "comment": "Fast \u0412\u041f\u041d-\u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438 \u0417\u0430\u0449\u0438\u0442\u0430 | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ac8409c2-15ee-5e19-9295-32eb10403f14",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/ihpdbailkcljcclemifagdnfmgpfnfbi",
+        "comment": "Microsoft Edge entry for Fast \u0412\u041f\u041d-\u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438 \u0417\u0430\u0449\u0438\u0442\u0430 (ihpdbailkcljcclemifagdnfmgpfnfbi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "630f580f-8ef5-51ad-bafe-ab7c0c212e4d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "flpkiejgfikibbkjnikdcaonkfindfgb",
+        "comment": "Fast VPN \u2014 \u0411\u044b\u0441\u0442\u0440\u0430\u044f \u043b\u0438\u043d\u0438\u044f | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4fbe6178-c36c-51a6-84d4-ad3e5a222ff2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/flpkiejgfikibbkjnikdcaonkfindfgb",
+        "comment": "Microsoft Edge entry for Fast VPN \u2014 \u0411\u044b\u0441\u0442\u0440\u0430\u044f \u043b\u0438\u043d\u0438\u044f (flpkiejgfikibbkjnikdcaonkfindfgb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a0401e8f-0aed-5852-a6b0-9a984a18810b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hjmjmbiaafeggmgadknfbkeehppmhejk",
+        "comment": "Eva VPN \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8c69e4ad-c0d7-53d5-942d-ec1ae8ca6368",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/hjmjmbiaafeggmgadknfbkeehppmhejk",
+        "comment": "Microsoft Edge entry for Eva VPN \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 (hjmjmbiaafeggmgadknfbkeehppmhejk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e9fba168-657f-5dba-9cc4-0256be2dca76",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cdfajacnjbaigbjnpdjeeapephdnoeng",
+        "comment": "EZ VPN | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5fa138c0-c36d-5c54-8ba8-67f99e8aed52",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/cdfajacnjbaigbjnpdjeeapephdnoeng",
+        "comment": "Microsoft Edge entry for EZ VPN (cdfajacnjbaigbjnpdjeeapephdnoeng)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b01d22a1-ac1f-57b5-8b2a-1ad1580042b4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mlcdgeihjfnedibbbadinnjilgjnplip",
+        "comment": "Browsec \u0412\u041f\u041d-\u0422\u0432\u043e\u044f \u0437\u0430\u0449\u0438\u0442\u0430 | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1eb2f45d-f612-5c5b-8de4-633f92b1bd1e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mlcdgeihjfnedibbbadinnjilgjnplip",
+        "comment": "Microsoft Edge entry for Browsec \u0412\u041f\u041d-\u0422\u0432\u043e\u044f \u0437\u0430\u0449\u0438\u0442\u0430 (mlcdgeihjfnedibbbadinnjilgjnplip)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5877cc3b-cc01-53bc-b80c-0be35b9f5c5a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "npjjbjijmdoicmkjmalabbkchhphnhkd",
+        "comment": "Black VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4b94db79-8766-569c-8785-26f47e8cfa10",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/npjjbjijmdoicmkjmalabbkchhphnhkd",
+        "comment": "Microsoft Edge entry for Black VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 (npjjbjijmdoicmkjmalabbkchhphnhkd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "639d2f70-7ddf-59c9-9b44-40bd730e0266",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "amohbpndmbcjecjnghhaeeanohiflfpj",
+        "comment": "Astar VPN | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "21525e3a-7184-5888-8b2d-57b7ca0f6746",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/amohbpndmbcjecjnghhaeeanohiflfpj",
+        "comment": "Microsoft Edge entry for Astar VPN (amohbpndmbcjecjnghhaeeanohiflfpj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "00b2a7d3-7ccb-5e39-9566-309cd200beee",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "almdngpalkpacjoeffkhacdjjimijjnf",
+        "comment": "Amnezia \u0412\u041f\u041d-\u041d\u0430\u0434\u0435\u0436\u043d\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "be7a4dd1-b04c-5088-871e-f7dff938c87c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/almdngpalkpacjoeffkhacdjjimijjnf",
+        "comment": "Microsoft Edge entry for Amnezia \u0412\u041f\u041d-\u041d\u0430\u0434\u0435\u0436\u043d\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 (almdngpalkpacjoeffkhacdjjimijjnf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f181b1e1-5506-565e-9d8e-234b666cdc5c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dlbaieojjjcjmmeohkcaadjpgeelogeb",
+        "comment": "Amnezia Proxy | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5a6a847f-9341-5444-b4bc-7ba985c35c75",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dlbaieojjjcjmmeohkcaadjpgeelogeb",
+        "comment": "Microsoft Edge entry for Amnezia Proxy (dlbaieojjjcjmmeohkcaadjpgeelogeb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "da332b00-1c01-5615-95f6-00316aa79425",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "imaoedkofdaconheiolmmokmimlplaii",
+        "comment": "PassShield: Cryptographic Vault | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2b7fb4b2-648b-5f66-85b1-b364f270585a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/imaoedkofdaconheiolmmokmimlplaii",
+        "comment": "Microsoft Edge entry for PassShield: Cryptographic Vault (imaoedkofdaconheiolmmokmimlplaii)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f4c4fc82-26e0-5185-ae6b-85b8b2764298",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mdondgockboebafloibbhjofmoedmnnn",
+        "comment": "InstaSkip | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5cd26012-b19c-5895-a2d4-dbc910203b69",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/mdondgockboebafloibbhjofmoedmnnn",
+        "comment": "Microsoft Edge entry for InstaSkip (mdondgockboebafloibbhjofmoedmnnn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7aa4670f-eaf3-578a-b1d6-16275d2d9705",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lcgkjnfnhklmdeeobejaaamhphjgajom",
+        "comment": "MarkdownMind: Reader & Markdown Converter | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8098689e-2378-572b-b42d-092d086eab49",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/lcgkjnfnhklmdeeobejaaamhphjgajom",
+        "comment": "Microsoft Edge entry for MarkdownMind: Reader & Markdown Converter (lcgkjnfnhklmdeeobejaaamhphjgajom)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0247b9f5-2bcf-5d63-bada-f65189fff5ca",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bfpoikdkeehibolnodnidehanfhejflp",
+        "comment": "NetShift: Custom Header & Redirect Manager | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "48661cd4-5c71-5de4-b8f3-aa89b5bb43e5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bfpoikdkeehibolnodnidehanfhejflp",
+        "comment": "Microsoft Edge entry for NetShift: Custom Header & Redirect Manager (bfpoikdkeehibolnodnidehanfhejflp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fa697c6a-782d-5f9d-9976-d5c5ed100ecf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cdcepcbnmhmcbihicmhfbijjokidcple",
+        "comment": "ClipFlow: Visual Screenshot Editor | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e6b62580-bac6-533c-8ffc-7820efa7f7bd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/cdcepcbnmhmcbihicmhfbijjokidcple",
+        "comment": "Microsoft Edge entry for ClipFlow: Visual Screenshot Editor (cdcepcbnmhmcbihicmhfbijjokidcple)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b7ef23da-1cad-5bff-9458-b0f44c74f582",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lnogaakgoicoepejofienogdohbnbcdf",
+        "comment": "PagePalette: CSS Style & Color Inspector | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ee1fcca4-c5d1-5a3f-835d-97ccc805bf0e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/lnogaakgoicoepejofienogdohbnbcdf",
+        "comment": "Microsoft Edge entry for PagePalette: CSS Style & Color Inspector (lnogaakgoicoepejofienogdohbnbcdf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d0dc4d7b-b7ae-54d6-a23e-a157264813b8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bahegaolgkmgnjnppnlgkfedbfnnfila",
+        "comment": "TabLoom: Visual Tab Group Mindmap | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "adcc627f-c8df-590a-811c-5beda5f25208",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/bahegaolgkmgnjnppnlgkfedbfnnfila",
+        "comment": "Microsoft Edge entry for TabLoom: Visual Tab Group Mindmap (bahegaolgkmgnjnppnlgkfedbfnnfila)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8e27925a-71a2-58d0-a8cd-e29e97e2e0fc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dakecfndpkgfpifeigpelocnomgcgonj",
+        "comment": "SnoozeTab: Tab Scheduler & Alarm | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "430e555c-e78d-520e-bf6b-aa1116fe02a9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/dakecfndpkgfpifeigpelocnomgcgonj",
+        "comment": "Microsoft Edge entry for SnoozeTab: Tab Scheduler & Alarm (dakecfndpkgfpifeigpelocnomgcgonj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d6438c21-5b05-51da-8797-a2686c0fb0a0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "geipbnpjdpignhlbgpjjokiponedfpdm",
+        "comment": "JsonLoom: Visual JSON Mindmap | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "86821ccc-a502-53c8-bf77-f7967e488650",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/geipbnpjdpignhlbgpjjokiponedfpdm",
+        "comment": "Microsoft Edge entry for JsonLoom: Visual JSON Mindmap (geipbnpjdpignhlbgpjjokiponedfpdm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1ccc8dda-1215-57ca-a67b-061ac58e938a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fnghapbcbeindlipfffoildfkhjepofn",
+        "comment": "Focus Flow | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "afcda45b-de87-5abf-b06f-28dc900e226d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/fnghapbcbeindlipfffoildfkhjepofn",
+        "comment": "Microsoft Edge entry for Focus Flow (fnghapbcbeindlipfffoildfkhjepofn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "70c92cfc-5703-5fbf-b5e7-9ae073167520",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kfecocknjlfelgafkkedmibpdoidfdln",
+        "comment": "Memeify My Tabs! | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6bd45602-ad31-56b5-b314-92a309054106",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/kfecocknjlfelgafkkedmibpdoidfdln",
+        "comment": "Microsoft Edge entry for Memeify My Tabs! (kfecocknjlfelgafkkedmibpdoidfdln)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9f306ffb-7e35-5db4-990c-29009098739f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jjhepmoeblmpiecjclakeeolfdemhepb",
+        "comment": "SNES Mate - SNES Emulator | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ce881688-27b2-51de-9b4e-676754ff88e5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jjhepmoeblmpiecjclakeeolfdemhepb",
+        "comment": "Microsoft Edge entry for SNES Mate - SNES Emulator (jjhepmoeblmpiecjclakeeolfdemhepb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e0c88cb1-6add-5b45-8047-f36c328d05e5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "plgeoddeimaoamhcadaonmcjhpjhamim",
+        "comment": "NES Emulator | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0339c83d-ad86-5cc7-a621-d24aeec3d3ec",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/plgeoddeimaoamhcadaonmcjhpjhamim",
+        "comment": "Microsoft Edge entry for NES Emulator (plgeoddeimaoamhcadaonmcjhpjhamim)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "10d32cc9-48b6-54f9-b95b-4d79f3672bf5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jfhpelccbpfcomeacbikkpjpoplckmgp",
+        "comment": "NES Emulator | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9ffb6c5e-93d4-5005-849d-0cd77bcca469",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/jfhpelccbpfcomeacbikkpjpoplckmgp",
+        "comment": "Microsoft Edge entry for NES Emulator (jfhpelccbpfcomeacbikkpjpoplckmgp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8e1dd64c-29c4-5275-bb9f-0cde997da08b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lklpgnoakidgmajbkachidckmhjjdage",
+        "comment": "Poster Print | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4ef3634a-14a3-5cad-9928-04ab95930f4c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/lklpgnoakidgmajbkachidckmhjjdage",
+        "comment": "Microsoft Edge entry for Poster Print (lklpgnoakidgmajbkachidckmhjjdage)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c808f902-da5a-5031-9d6a-7c5064d8b971",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nmimfmbgigfapfdbgmdpljpdmdgogadl",
+        "comment": "Pesca Abisal | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "701b3319-1977-5f4d-bd67-db6bf2d6d383",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/nmimfmbgigfapfdbgmdpljpdmdgogadl",
+        "comment": "Microsoft Edge entry for Pesca Abisal (nmimfmbgigfapfdbgmdpljpdmdgogadl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "19b282b7-7724-5a04-8932-2425aa6fbe9e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "joloppoccabgdmcemcipplgnkliadbkf",
+        "comment": "PingTrack: Web Speed Diagnostician | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
+          },
+          {
+            "name": "malext:store=\"Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "dbb9258b-2c18-550f-a6c6-d7afb26cc84c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/joloppoccabgdmcemcipplgnkliadbkf",
+        "comment": "Microsoft Edge entry for PingTrack: Web Speed Diagnostician (joloppoccabgdmcemcipplgnkliadbkf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9a39235d-639e-54fb-8821-855d7381af14",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "injojphloinobilekfpfgkemmocojnnh",
+        "comment": "Meofbcom Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c1fb1055-d09b-52ac-8889-3d7b6e90145d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/injojphloinobilekfpfgkemmocojnnh",
+        "comment": "Chrome Web Store entry for Meofbcom Extension (injojphloinobilekfpfgkemmocojnnh)",
+        "distribution": "5"
+      },
       {
         "uuid": "41f2460d-1baf-5c17-ab61-1aa712e5b2ec",
         "type": "text",
@@ -24011,6 +25229,35 @@
         "distribution": "5"
       },
       {
+        "uuid": "63d0941c-f250-5a3a-9e5c-dc81455eaa94",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gjkfnalkblnjkalnipilmaacibikciin",
+        "comment": "Geek Sidebar - Free DeepSeek & Bookmark Sync | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1edb15d0-30df-5ee0-ba2c-3d5e772e6fa7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gjkfnalkblnjkalnipilmaacibikciin",
+        "comment": "Chrome Web Store entry for Geek Sidebar - Free DeepSeek & Bookmark Sync (gjkfnalkblnjkalnipilmaacibikciin)",
+        "distribution": "5"
+      },
+      {
         "uuid": "f49c1dde-3739-538d-8d1c-a801bb947478",
         "type": "text",
         "category": "Other",
@@ -33552,6 +34799,35 @@
         "distribution": "5"
       },
       {
+        "uuid": "3a2ecca2-4185-5851-a071-efeb32dda16f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jogfmobenbfooncpfmlooifgjipoocdh",
+        "comment": "Discord Token Login | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0d3bc918-33da-5659-99d2-1564a44830e9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jogfmobenbfooncpfmlooifgjipoocdh",
+        "comment": "Chrome Web Store entry for Discord Token Login (jogfmobenbfooncpfmlooifgjipoocdh)",
+        "distribution": "5"
+      },
+      {
         "uuid": "6383a1ef-265e-5dd2-80ac-25c2042eb3f3",
         "type": "text",
         "category": "Other",
@@ -34622,6 +35898,35 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/gilfbnldcnldfbbgcppoabkghidmedlk",
         "comment": "Chrome Web Store entry for Defi Portfolio Tracker Pro (gilfbnldcnldfbbgcppoabkghidmedlk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5384159c-ab7b-5b83-b04f-98f5de815e66",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oajppjaoljffbnlpebdoeeaibpgilagd",
+        "comment": "Helpx Assistant | Source: Store Monitoring | Store: Google Chrome | Added: 2026-07-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "edce73a3-7995-5649-b8cc-df7e7a20da1f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oajppjaoljffbnlpebdoeeaibpgilagd",
+        "comment": "Chrome Web Store entry for Helpx Assistant (oajppjaoljffbnlpebdoeeaibpgilagd)",
         "distribution": "5"
       },
       {
