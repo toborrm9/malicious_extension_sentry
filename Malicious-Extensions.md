@@ -1,5 +1,23 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| gmofndfhhdfmkfajmkomienhjcmnhnae | Txcity Wallet | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| kfkdgnddjfnknamlnpcbegdldojbkgfk | Agil Phone | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| loickodmkmmgfdiohdfpmcakbklliecm | Tiktok Bulk Downloader | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| momlmalhnpkjnmcoemilpldnljfjnfik | Fb Auto Reply Ai Automati | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| gifdfhnchhogblojpfjmdhgehcpaiogp | Arbitry | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| emcfnlhjecndcpngghmicjaphcfmllha | Ig Tracker Track Instagra | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| jdceacpmodigeikeiiiafikoiobllcfm | Email Phone Finder Leadlo | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| cgpgjhfeplpnbnaojebbbhimbnnnlhmb | Xama Calc Extension | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| pjkjlgabjapanclpnllmkiephhnmkohi | U Assist Sap Ariba Assist | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| ciegppinlanbdjdlpkpgdlepffeliofa | Discord Id Lookup | Bundling Unwanted Software | Store Monitoring | 03/08/26 | No | Google Chrome
+| jnngjogkageoaneflejlcmjnfmhhlljf | Sparrow Wallet | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| jpkchelokjcmfpehglcmjeggndgokodl | Extreme Bus Parking Simulation | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| gabbjaphfhpbgjnfgoccnamjepgllmec | Capcut Video Studio Unive | Malware | Store Monitoring | 03/08/26 | No | Google Chrome
+| gbnlpokgdjhoogmbadopaojnepbjjefn | Amazon 价格追踪助手 独立第三方版 | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| ejifogdijldoedhmijflgoajnfcaanei | Ig Hero智能插件 | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| fopcpeeheegndmnebdhgmcdpmiaeklhf | Abelx | Malware | Store Monitoring | 03/08/26 | No | Google Chrome
+| icomlmcbfkpoajdkkpchbempbcckonml | Skoolaid | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
+| mfgkoblpighomdkkaininnejdngcnegl | Elia Ia Crm Premium | Policy Violation | Store Monitoring | 02/08/26 | No | Google Chrome
 | ibphkcpmadfdpbkockccopbibhbdijna | odin-klik-vpn | Spyware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
 | kfdikbdfpdnnhhdedadeaodglioggjdl | Рокет ВПН — premium маршрут | Spyware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
 | cmdlencelhcjbebnkpbmhcfmlnjgihhm | РойNet — неоновый щит для сети | Spyware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Chrome
@@ -349,7 +367,7 @@
 | emlifninekjhlmmhioileilfdijfmaoe | JumP Proxy | Spyware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Google Chrome
 | cahbelonbpjbgolckchmbpdlgeglgpof | Blanc ВПН-Для офиса и работы | Spyware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Google Chrome
 | hjclnhjbedfgbamgockhaddnhcibmmin | ETH Save Gas Prices Extension | Bundling Unwanted Software | Store Monitoring | 02/08/26 | No | Google Chrome
-| ccgngdpmfjecdgijjjnbbndeahobokhj | Color Picker | Malware | Store Monitoring | 02/08/26 | No | Google Chrome
+| ccgngdpmfjecdgijjjnbbndeahobokhj | Color Picker | Malware | Store Monitoring | 02/08/26 | Yes | Google Chrome
 | hjfdehobejconpkfgoldlpiidddkmbkm | Dideo | Policy Violation | Store Monitoring | 02/08/26 | No | Google Chrome
 | gmkmdlnbjabhbgaflipmefkcfbbkhpdm | Zeroblock | Policy Violation | Store Monitoring | 02/08/26 | No | Google Chrome
 | fgdmoacjelpcghceahplbfgepnmlgnna | Marshmallow VPN | Spyware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 02/08/26 | No | Google Chrome
@@ -389,7 +407,7 @@
 | lklpgnoakidgmajbkachidckmhjjdage | Poster Print | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
 | nmimfmbgigfapfdbgmdpljpdmdgogadl | Pesca Abisal | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
 | joloppoccabgdmcemcipplgnkliadbkf | PingTrack: Web Speed Diagnostician | Bundling Unwanted Software | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt) | 02/08/26 | No | Chrome
-| injojphloinobilekfpfgkemmocojnnh | Meofbcom Extension | Malware | Store Monitoring | 01/08/26 | No | Google Chrome
+| injojphloinobilekfpfgkemmocojnnh | Meofbcom Extension | Malware | Store Monitoring | 01/08/26 | Yes | Google Chrome
 | hldopcfalmijoighahnejemdneibabhd | Ender Miles Morales Snow Time Live Spiderman Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
 | ldekndjlfmgconpffajebjnbkhejhcdh | Sung Jinwoo Dagger Knight Killer Solo Leveling Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
 | hdkielnmbndkingoimclciemhmeolkfb | Fortnite Venom Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
@@ -1547,7 +1565,7 @@
 | gjgeepgbnihfmnngdaidcndjpieipaic | Ontranslator | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
 | pnfbhonpmgdimlamippohijmaajcnbac | Faceapp Perfect Face Edit | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
 | nkjdolmphckfdhkllhpdfbpdbehbmmkk | Export AI Chat - ChatGPT, Gemini, Grok | Bundling Unwanted Software | Store Monitoring | 18/07/26 | No | Google Chrome
-| jogfmobenbfooncpfmlooifgjipoocdh | Discord Token Login | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
+| jogfmobenbfooncpfmlooifgjipoocdh | Discord Token Login | Malware | Store Monitoring | 17/07/26 | Yes | Google Chrome
 | bfpgifecmdhgkilahppjbengfgpcmppj | Spotify Login | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | eakgppkbemkicknpjkefkicmgapfidkn | Auto Complete Hubspot By | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | jojafcbgfjjagedlpbpgpnafaedfjclk | Linkedroid The Linkedin H | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
