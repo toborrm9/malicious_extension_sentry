@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-02",
-    "timestamp": "1785701221",
+    "date": "2026-08-03",
+    "timestamp": "1785776487",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,528 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "759e3878-691f-55d0-a682-44ff7c1512d3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gmofndfhhdfmkfajmkomienhjcmnhnae",
+        "comment": "Txcity Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d577ab2e-a4e6-5689-a2fe-997aafc46957",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gmofndfhhdfmkfajmkomienhjcmnhnae",
+        "comment": "Chrome Web Store entry for Txcity Wallet (gmofndfhhdfmkfajmkomienhjcmnhnae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a1598315-7803-51a1-9055-7678a99ea42d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kfkdgnddjfnknamlnpcbegdldojbkgfk",
+        "comment": "Agil Phone | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7511b238-af69-56b5-aeca-ceef43041506",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kfkdgnddjfnknamlnpcbegdldojbkgfk",
+        "comment": "Chrome Web Store entry for Agil Phone (kfkdgnddjfnknamlnpcbegdldojbkgfk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eade7b36-e5f6-5697-baed-cff4d1aa003e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "loickodmkmmgfdiohdfpmcakbklliecm",
+        "comment": "Tiktok Bulk Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "178b418b-aa9f-5581-a199-d4f46235f242",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/loickodmkmmgfdiohdfpmcakbklliecm",
+        "comment": "Chrome Web Store entry for Tiktok Bulk Downloader (loickodmkmmgfdiohdfpmcakbklliecm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5714779f-8017-5478-ab17-a1a35371d609",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "momlmalhnpkjnmcoemilpldnljfjnfik",
+        "comment": "Fb Auto Reply Ai Automati | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f97c94e2-4a32-5a71-862b-101572edccee",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/momlmalhnpkjnmcoemilpldnljfjnfik",
+        "comment": "Chrome Web Store entry for Fb Auto Reply Ai Automati (momlmalhnpkjnmcoemilpldnljfjnfik)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "12cedffa-f8ef-5b1e-a9cd-d8f843067822",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gifdfhnchhogblojpfjmdhgehcpaiogp",
+        "comment": "Arbitry | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "eac64b9d-6a37-5c53-aa9b-01d7944eb62d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gifdfhnchhogblojpfjmdhgehcpaiogp",
+        "comment": "Chrome Web Store entry for Arbitry (gifdfhnchhogblojpfjmdhgehcpaiogp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "71832e53-326a-5c41-a61b-9d652cc08ec6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "emcfnlhjecndcpngghmicjaphcfmllha",
+        "comment": "Ig Tracker Track Instagra | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6c628fa5-ab9c-58ef-afda-bd5b2c805ca3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/emcfnlhjecndcpngghmicjaphcfmllha",
+        "comment": "Chrome Web Store entry for Ig Tracker Track Instagra (emcfnlhjecndcpngghmicjaphcfmllha)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "900aa5ff-6c69-5598-bfbd-df1ffeb4b45f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jdceacpmodigeikeiiiafikoiobllcfm",
+        "comment": "Email Phone Finder Leadlo | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "678fb97d-ab5b-58cc-b0f7-a159407a3209",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jdceacpmodigeikeiiiafikoiobllcfm",
+        "comment": "Chrome Web Store entry for Email Phone Finder Leadlo (jdceacpmodigeikeiiiafikoiobllcfm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1275ae64-8aa2-5c4e-8dec-72a192e5acab",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cgpgjhfeplpnbnaojebbbhimbnnnlhmb",
+        "comment": "Xama Calc Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b454c5de-6c3e-52d4-b84b-d866c32f59d1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cgpgjhfeplpnbnaojebbbhimbnnnlhmb",
+        "comment": "Chrome Web Store entry for Xama Calc Extension (cgpgjhfeplpnbnaojebbbhimbnnnlhmb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c989908d-6a13-5518-885e-f06a1f5541e0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pjkjlgabjapanclpnllmkiephhnmkohi",
+        "comment": "U Assist Sap Ariba Assist | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "43a07be1-8075-5572-94c9-272cb86ea0cb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pjkjlgabjapanclpnllmkiephhnmkohi",
+        "comment": "Chrome Web Store entry for U Assist Sap Ariba Assist (pjkjlgabjapanclpnllmkiephhnmkohi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "205110bb-3c0a-518a-aabf-2d84211913da",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ciegppinlanbdjdlpkpgdlepffeliofa",
+        "comment": "Discord Id Lookup | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ccf45807-9326-5e54-837f-7e68883c3cf6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ciegppinlanbdjdlpkpgdlepffeliofa",
+        "comment": "Chrome Web Store entry for Discord Id Lookup (ciegppinlanbdjdlpkpgdlepffeliofa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2c3e2829-d69d-550a-8737-b62673e6bfb8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jnngjogkageoaneflejlcmjnfmhhlljf",
+        "comment": "Sparrow Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "94feaa9a-58ab-599e-88a9-3a0617d412d9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jnngjogkageoaneflejlcmjnfmhhlljf",
+        "comment": "Chrome Web Store entry for Sparrow Wallet (jnngjogkageoaneflejlcmjnfmhhlljf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "41d6f302-1cd6-5919-8a8e-bb8ca31281f9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jpkchelokjcmfpehglcmjeggndgokodl",
+        "comment": "Extreme Bus Parking Simulation | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fe64ec8f-0e17-564a-8d37-ca5299738a51",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jpkchelokjcmfpehglcmjeggndgokodl",
+        "comment": "Chrome Web Store entry for Extreme Bus Parking Simulation (jpkchelokjcmfpehglcmjeggndgokodl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a910b1d1-93ee-5f95-9487-9a61d10a3efe",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gabbjaphfhpbgjnfgoccnamjepgllmec",
+        "comment": "Capcut Video Studio Unive | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fc11ccdf-17e0-5986-bc97-a002ab460197",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gabbjaphfhpbgjnfgoccnamjepgllmec",
+        "comment": "Chrome Web Store entry for Capcut Video Studio Unive (gabbjaphfhpbgjnfgoccnamjepgllmec)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ea280812-f242-5a27-b36f-06d10878480b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gbnlpokgdjhoogmbadopaojnepbjjefn",
+        "comment": "Amazon \u4ef7\u683c\u8ffd\u8e2a\u52a9\u624b \u72ec\u7acb\u7b2c\u4e09\u65b9\u7248 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "98dad694-ff0a-5a8c-b558-123974cf983a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gbnlpokgdjhoogmbadopaojnepbjjefn",
+        "comment": "Chrome Web Store entry for Amazon \u4ef7\u683c\u8ffd\u8e2a\u52a9\u624b \u72ec\u7acb\u7b2c\u4e09\u65b9\u7248 (gbnlpokgdjhoogmbadopaojnepbjjefn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7f90552c-2293-5b66-9cc2-d8bc7fdd8d5d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ejifogdijldoedhmijflgoajnfcaanei",
+        "comment": "Ig Hero\u667a\u80fd\u63d2\u4ef6 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c37219e9-43ef-5d5e-a2e7-da4532f79ddc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ejifogdijldoedhmijflgoajnfcaanei",
+        "comment": "Chrome Web Store entry for Ig Hero\u667a\u80fd\u63d2\u4ef6 (ejifogdijldoedhmijflgoajnfcaanei)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eefec69f-1c80-5f72-a544-a32168840a26",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fopcpeeheegndmnebdhgmcdpmiaeklhf",
+        "comment": "Abelx | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e05ce4b7-dec8-513f-b67a-2ea9b6c76711",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fopcpeeheegndmnebdhgmcdpmiaeklhf",
+        "comment": "Chrome Web Store entry for Abelx (fopcpeeheegndmnebdhgmcdpmiaeklhf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ed05c8ab-2eff-59f4-a640-7644a29a8b75",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "icomlmcbfkpoajdkkpchbempbcckonml",
+        "comment": "Skoolaid | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "86cb6249-2d03-5fff-938f-12061785bf8d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/icomlmcbfkpoajdkkpchbempbcckonml",
+        "comment": "Chrome Web Store entry for Skoolaid (icomlmcbfkpoajdkkpchbempbcckonml)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c5bb97e9-00bb-5fb1-8fbb-e8116b51dd9a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mfgkoblpighomdkkaininnejdngcnegl",
+        "comment": "Elia Ia Crm Premium | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0de015a3-055e-5a9e-8e33-0107ec79cc8e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mfgkoblpighomdkkaininnejdngcnegl",
+        "comment": "Chrome Web Store entry for Elia Ia Crm Premium (mfgkoblpighomdkkaininnejdngcnegl)",
+        "distribution": "5"
+      },
       {
         "uuid": "64c7f2e0-8c3f-502c-b1f0-e061d208f7dd",
         "type": "text",
