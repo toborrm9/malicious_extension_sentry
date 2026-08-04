@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| onjnkdhpnecgfhnplplfidpjbalmppoo | Track Package​ | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 04/08/26 | No | Google Chrome
+| anpkocpohfbojanempbnghhbkednaicb | QweTab | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 04/08/26 | No | Google Chrome
+| jodmdafccdbmmonjcmckddlaplcigcjl | RealSearch - Human Answers Only (No AI Spam) | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 04/08/26 | No | Google Chrome
+| hokakdgbmdcmicbhfhiiiimajefpnbon | Apple TV Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 04/08/26 | No | Google Chrome
+| ghgeanfaiobhckholijgekklghchglgl | Cloud Music Web Player | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 04/08/26 | No | Google Chrome
+| fdmckjkfimjjgindkgjpjmaobanjpeji | Merry Christmas New Tab & Snow Theme | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 04/08/26 | No | Google Chrome
+| hkpeaemfahfcgpcggikiagabfkggbeje | Earth Maps Satellite | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 04/08/26 | No | Google Chrome
 | heibdjjdpjbnpghehkhmgflhcbgdhemc | Gram Scraper Export Posts | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | ihalngeilpabgppmcflhhhpaohbhgima | Quick Fb Search Marketplace | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | mdkpjnipnjkjjhknfmlonpfbnibpmijn | Ndt Fb Mess Delete | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
@@ -25,12 +32,18 @@
 | fmpchgjmodkpfagahjincaflanjcccpi | Ciosp Auto Contador | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | oipbhmdodiafhpfglkeomlldnbahdlfd | Fb Mobile Clean My Feeds | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | ddnjjbpcilhdanngghncgcpeegmpemno | Disbird Vpn — Free Vpn Pro | Malware | Store Monitoring | 04/08/26 | No | Google Chrome
-| pebaiemmlfilckolmpbffeiflkadahpe | Rabbi Extension For Brows | Malware | Store Monitoring | 04/08/26 | No | Google Chrome
+| pebaiemmlfilckolmpbffeiflkadahpe | Rabbi Extension For Brows | Malware | Store Monitoring | 04/08/26 | Yes | Google Chrome
 | bholoijepdgolhpjibmfocondgffkapo | Insta Open | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | pameoomeileonpbhjcjeicfdkadeilei | IGExporter – Export Instagram Followers & Following | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | okbfoojfcbleiaoobmeapkldikmfjhnk | F.B Downloader (SaveF) | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | nboghekiocdfojdklcbpfnnoaeffaacm | Instagram Downloader Down | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | hiciefbofiaokacpdckgddnaeagjjjkf | Instagram Lead Scraper Pro | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
+| ecllgdfkamjfebkldhghpfpkheedkldl | Fashion Background Pictures New Tab | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/08/26 | No | Google Chrome
+| njincahdjloohmjeonojgjeihkgbjfko | USPS Tracking | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/08/26 | No | Google Chrome
+| ibmhijpaejbhbhdddifhgpdogoapclgj | Watch Movies Online | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/08/26 | No | Google Chrome
+| nhokeekobeiamfefjfdpjimojmdceghn | Online Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/08/26 | No | Google Chrome
+| dedfgbbcachdeplcbmndlelegfjkfbmh | My Search Easy | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/08/26 | No | Google Chrome
+| lmnnbjniocahgmdmhgpbfdapbelhjnil | Apple Music(iTunes) Web Player | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/08/26 | No | Google Chrome
 | jkgcbekiklmnjilblllhomfkaejmlhnk | Ig Universal Downloader | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
 | hopicaedkhenimddfhgnjbicdfibnphk | манго Vpn | Spyware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 03/08/26 | No | Google Chrome
 | neobejhblpcbllkbcpeanhjggoelleme | Wind Vpn | Spyware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-21-Proliferation-of-AI-Generated-Fake-VPN-Extensions.txt) | 03/08/26 | No | Google Chrome
