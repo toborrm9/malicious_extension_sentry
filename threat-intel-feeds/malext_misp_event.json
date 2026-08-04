@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-08-04",
-    "timestamp": "1785861487",
+    "timestamp": "1785879315",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,209 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "40e6ed82-8945-54ce-b5e3-7764bb1a4457",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "onjnkdhpnecgfhnplplfidpjbalmppoo",
+        "comment": "Track Package\u200b | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4635ee99-03a2-5131-ac3b-46f425cdad98",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/onjnkdhpnecgfhnplplfidpjbalmppoo",
+        "comment": "Chrome Web Store entry for Track Package\u200b (onjnkdhpnecgfhnplplfidpjbalmppoo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2c460a5c-6503-5a5b-abcd-179487357d45",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "anpkocpohfbojanempbnghhbkednaicb",
+        "comment": "QweTab | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fa1020cf-7d06-5cff-a784-1a9014ee42f8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/anpkocpohfbojanempbnghhbkednaicb",
+        "comment": "Chrome Web Store entry for QweTab (anpkocpohfbojanempbnghhbkednaicb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ed36ca49-0660-5806-8b36-a88f445c0ce4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jodmdafccdbmmonjcmckddlaplcigcjl",
+        "comment": "RealSearch - Human Answers Only (No AI Spam) | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bc04d553-96a1-544c-b72f-8bd2bcafe8f5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jodmdafccdbmmonjcmckddlaplcigcjl",
+        "comment": "Chrome Web Store entry for RealSearch - Human Answers Only (No AI Spam) (jodmdafccdbmmonjcmckddlaplcigcjl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9a4f911a-e687-5944-ac3e-6aaf219ca9a6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hokakdgbmdcmicbhfhiiiimajefpnbon",
+        "comment": "Apple TV Search | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "55a9aa5f-4e22-57f2-8dde-1c9caa689d31",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hokakdgbmdcmicbhfhiiiimajefpnbon",
+        "comment": "Chrome Web Store entry for Apple TV Search (hokakdgbmdcmicbhfhiiiimajefpnbon)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a2d90bdc-adac-58b6-883d-319d58f4bcb3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ghgeanfaiobhckholijgekklghchglgl",
+        "comment": "Cloud Music Web Player | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9028a2d6-c9df-5651-8f70-150ccdf11610",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ghgeanfaiobhckholijgekklghchglgl",
+        "comment": "Chrome Web Store entry for Cloud Music Web Player (ghgeanfaiobhckholijgekklghchglgl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "56432c93-74ad-548e-b7db-b5ab9a810798",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fdmckjkfimjjgindkgjpjmaobanjpeji",
+        "comment": "Merry Christmas New Tab & Snow Theme | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "60cefd24-67f9-5b71-a386-b27ef46ad039",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fdmckjkfimjjgindkgjpjmaobanjpeji",
+        "comment": "Chrome Web Store entry for Merry Christmas New Tab & Snow Theme (fdmckjkfimjjgindkgjpjmaobanjpeji)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1386520b-07b7-51a0-920d-1240e78cfc3e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hkpeaemfahfcgpcggikiagabfkggbeje",
+        "comment": "Earth Maps Satellite | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6255728f-ae7a-5edc-a9cc-e442a3875dfa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hkpeaemfahfcgpcggikiagabfkggbeje",
+        "comment": "Chrome Web Store entry for Earth Maps Satellite (hkpeaemfahfcgpcggikiagabfkggbeje)",
+        "distribution": "5"
+      },
       {
         "uuid": "32d33e4e-124c-5641-bd47-5bd71ed6901b",
         "type": "text",
@@ -924,6 +1127,180 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/hiciefbofiaokacpdckgddnaeagjjjkf",
         "comment": "Chrome Web Store entry for Instagram Lead Scraper Pro (hiciefbofiaokacpdckgddnaeagjjjkf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "15a6843b-9a15-5b45-bcce-4a97b8fc6219",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ecllgdfkamjfebkldhghpfpkheedkldl",
+        "comment": "Fashion Background Pictures New Tab | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "50106da5-eb65-5c46-b71d-10d70169c779",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ecllgdfkamjfebkldhghpfpkheedkldl",
+        "comment": "Chrome Web Store entry for Fashion Background Pictures New Tab (ecllgdfkamjfebkldhghpfpkheedkldl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a6556775-bc19-5baa-81de-1c99dc9b4edd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "njincahdjloohmjeonojgjeihkgbjfko",
+        "comment": "USPS Tracking | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "38370778-fb8f-5102-929b-d6f8c3c0d370",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/njincahdjloohmjeonojgjeihkgbjfko",
+        "comment": "Chrome Web Store entry for USPS Tracking (njincahdjloohmjeonojgjeihkgbjfko)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9d7eadcb-2832-5120-865b-9df3ca26f3a1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ibmhijpaejbhbhdddifhgpdogoapclgj",
+        "comment": "Watch Movies Online | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "34accce1-aacf-5a18-b024-bfa8336c95d7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ibmhijpaejbhbhdddifhgpdogoapclgj",
+        "comment": "Chrome Web Store entry for Watch Movies Online (ibmhijpaejbhbhdddifhgpdogoapclgj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f81a605e-e157-5d22-8a21-d1a6ce8966bd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nhokeekobeiamfefjfdpjimojmdceghn",
+        "comment": "Online Search | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d8829c9f-6e14-5d34-ba52-01037e868162",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nhokeekobeiamfefjfdpjimojmdceghn",
+        "comment": "Chrome Web Store entry for Online Search (nhokeekobeiamfefjfdpjimojmdceghn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "93570cc3-b4f1-52cc-bfdf-95d39982cd29",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dedfgbbcachdeplcbmndlelegfjkfbmh",
+        "comment": "My Search Easy | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e69c1afd-5773-5817-87e4-496da0343960",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dedfgbbcachdeplcbmndlelegfjkfbmh",
+        "comment": "Chrome Web Store entry for My Search Easy (dedfgbbcachdeplcbmndlelegfjkfbmh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "98b71d6f-f6df-5512-b318-921bce67e926",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lmnnbjniocahgmdmhgpbfdapbelhjnil",
+        "comment": "Apple Music(iTunes) Web Player | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2daf0079-e549-5ba0-a873-ca83febbea4f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lmnnbjniocahgmdmhgpbfdapbelhjnil",
+        "comment": "Chrome Web Store entry for Apple Music(iTunes) Web Player (lmnnbjniocahgmdmhgpbfdapbelhjnil)",
         "distribution": "5"
       },
       {
