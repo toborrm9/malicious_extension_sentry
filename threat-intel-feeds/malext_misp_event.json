@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-04",
-    "timestamp": "1785879315",
+    "date": "2026-08-05",
+    "timestamp": "1785921251",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,760 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "633011ef-0291-55f1-be5c-19c9f000b99e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nbpheppbncjcimpgjgdofifdfnoagpnf",
+        "comment": "Kahoot Hacker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "aa953dc8-1d49-5dae-bd31-7d8a51fd375e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nbpheppbncjcimpgjgdofifdfnoagpnf",
+        "comment": "Chrome Web Store entry for Kahoot Hacker (nbpheppbncjcimpgjgdofifdfnoagpnf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c38c49ab-31c1-57bb-b234-c542fe156045",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nbcfmpmcfjikalihigbbgjpfhddilopj",
+        "comment": "Blooket Master Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7cc30fbc-bfe6-5a3d-99e6-ae040315c96f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nbcfmpmcfjikalihigbbgjpfhddilopj",
+        "comment": "Chrome Web Store entry for Blooket Master Pro (nbcfmpmcfjikalihigbbgjpfhddilopj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1594f6ed-a731-55c5-8886-842308007ef2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cganeegbgomclahanjpcpdbomhhicjfe",
+        "comment": "Smartvideo For Youtube | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4290734f-2c20-5b5d-bb82-82e8988f0f3d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cganeegbgomclahanjpcpdbomhhicjfe",
+        "comment": "Chrome Web Store entry for Smartvideo For Youtube (cganeegbgomclahanjpcpdbomhhicjfe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "938ee982-af9c-50d1-9955-5de9ec88c2e4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ahmndijaobpdkibmmclnphiohalemmbb",
+        "comment": "Internet Archive Download | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b3de8ae1-52ba-50ce-9681-9e47bc6674ab",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ahmndijaobpdkibmmclnphiohalemmbb",
+        "comment": "Chrome Web Store entry for Internet Archive Download (ahmndijaobpdkibmmclnphiohalemmbb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4a76d9ef-634e-5d9d-81fb-023c5ebaed57",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jnjjoldicggmofmnopmjgnghgcepmhdg",
+        "comment": "Gimkit Hacker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "11824d4a-8a6c-506d-9fb5-2aff4d59db74",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jnjjoldicggmofmnopmjgnghgcepmhdg",
+        "comment": "Chrome Web Store entry for Gimkit Hacker (jnjjoldicggmofmnopmjgnghgcepmhdg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bc589422-efb9-56eb-a624-73228d5d2bcf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gnihahbcephnedekafimgibghamddlbc",
+        "comment": "Clipstack | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "46edba31-d1f4-5eb5-b8f0-d65ddb8e7f37",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gnihahbcephnedekafimgibghamddlbc",
+        "comment": "Chrome Web Store entry for Clipstack (gnihahbcephnedekafimgibghamddlbc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eef110bf-23be-5d5f-acb6-24fadd9b0c39",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cenbcbjdfogjaejbmjdkpdbbmmgncohi",
+        "comment": "Apple Music Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "68ea3d4f-9922-59bd-9c9d-3280a3877796",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cenbcbjdfogjaejbmjdkpdbbmmgncohi",
+        "comment": "Chrome Web Store entry for Apple Music Extension (cenbcbjdfogjaejbmjdkpdbbmmgncohi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fcfee5d5-d291-5a93-ab1f-a2e1b9fd7d5c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cbklkheadgkgpkecnegpmdhcdgkggomh",
+        "comment": "Blooket Hacker Multi Tool | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e4bda813-e7ba-5c36-91cf-cae34a88b409",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cbklkheadgkgpkecnegpmdhcdgkggomh",
+        "comment": "Chrome Web Store entry for Blooket Hacker Multi Tool (cbklkheadgkgpkecnegpmdhcdgkggomh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8c8d14e7-c61a-5eac-a008-937b9e413d5e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iihglaelfepbbnohanfefalhflkkblmb",
+        "comment": "Gimkit Hacker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a0099d1a-29d5-593e-b164-dfc687e9e58c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iihglaelfepbbnohanfefalhflkkblmb",
+        "comment": "Chrome Web Store entry for Gimkit Hacker (iihglaelfepbbnohanfefalhflkkblmb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b139820b-08be-51fd-becf-91a83afcda89",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gdimnaklefhodfpollbnjohnegmdahpa",
+        "comment": "Postlight Reader Any Webs | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "67300efd-6b4e-51aa-99e9-10f39b9009ad",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gdimnaklefhodfpollbnjohnegmdahpa",
+        "comment": "Chrome Web Store entry for Postlight Reader Any Webs (gdimnaklefhodfpollbnjohnegmdahpa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "14e32665-f318-596f-813b-6120c377584c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hglpafopgdpcgegbiccbpmimjdghagjf",
+        "comment": "Canvo Advanced Image Edit | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1690f61b-96c4-58f2-b8dc-ffeeef23f7a2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hglpafopgdpcgegbiccbpmimjdghagjf",
+        "comment": "Chrome Web Store entry for Canvo Advanced Image Edit (hglpafopgdpcgegbiccbpmimjdghagjf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e2ee20c3-f738-5f97-9f2d-e928ffecc515",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "akddgghkhjhhnghfclkmmkcmdbpdcgej",
+        "comment": "Image Size Info | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7a7877c7-8dfa-5857-96f3-ed2cbb8b81ef",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/akddgghkhjhhnghfclkmmkcmdbpdcgej",
+        "comment": "Chrome Web Store entry for Image Size Info (akddgghkhjhhnghfclkmmkcmdbpdcgej)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "881b3172-078a-553c-8b45-26768ac8779c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lmhpkkjgnphidchfbnkkikdcnaoehnol",
+        "comment": "Xaman Wallet Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3267359d-6858-569d-b783-fa898054a78b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lmhpkkjgnphidchfbnkkikdcnaoehnol",
+        "comment": "Chrome Web Store entry for Xaman Wallet Tracker (lmhpkkjgnphidchfbnkkikdcnaoehnol)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "42faa56c-df03-5cc1-8281-4fcc67087703",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hkbiihekjcninobnekbklfnllehbedop",
+        "comment": "Blooket Hacker Ultimate G | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "290ba7bc-f53d-5742-a0cd-f79765900627",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hkbiihekjcninobnekbklfnllehbedop",
+        "comment": "Chrome Web Store entry for Blooket Hacker Ultimate G (hkbiihekjcninobnekbklfnllehbedop)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7c56da88-b00e-5265-83d3-841d7ab7d418",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "llfdcchbmnhhdhkdapjaeoaomiaadlgl",
+        "comment": "Krunkerio Aimbot Esp | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3a029c19-7195-52ee-9557-d9aa51fef510",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/llfdcchbmnhhdhkdapjaeoaomiaadlgl",
+        "comment": "Chrome Web Store entry for Krunkerio Aimbot Esp (llfdcchbmnhhdhkdapjaeoaomiaadlgl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1ddd2ec0-a45d-5d0d-aec4-c12c48471288",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "edgikeaiobgagbdpbfkjildbeobcnnhl",
+        "comment": "Spotify Downloader Helper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "adfdc4ce-52f3-5ed4-af11-119ca7f4c436",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/edgikeaiobgagbdpbfkjildbeobcnnhl",
+        "comment": "Chrome Web Store entry for Spotify Downloader Helper (edgikeaiobgagbdpbfkjildbeobcnnhl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "749e8283-e395-544b-bfbf-72a214d187bb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pbaaepcaohjlbgeibjhhponabfgnkcfg",
+        "comment": "Shell Shockers Basic Aimb | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "76d866ec-ec30-5590-a44d-3f0825c6858f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pbaaepcaohjlbgeibjhhponabfgnkcfg",
+        "comment": "Chrome Web Store entry for Shell Shockers Basic Aimb (pbaaepcaohjlbgeibjhhponabfgnkcfg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fd6d882e-447d-5c86-b56b-4c93f3c8211f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jifhfjebdojpeofhjbldhmojmajnedgo",
+        "comment": "Hyperbank | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4a018623-52d8-57a2-aab0-b3cdc4181e5c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jifhfjebdojpeofhjbldhmojmajnedgo",
+        "comment": "Chrome Web Store entry for Hyperbank (jifhfjebdojpeofhjbldhmojmajnedgo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "23e1c901-ad8e-5faa-81ea-2dfdd9eb5eb8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ipikdhhafigginigljgpmfaplngiagpm",
+        "comment": "Hp Print Service Plugin | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9eff1f9d-896a-58fe-a458-2d9d0de0d781",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ipikdhhafigginigljgpmfaplngiagpm",
+        "comment": "Chrome Web Store entry for Hp Print Service Plugin (ipikdhhafigginigljgpmfaplngiagpm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1538996e-8375-5338-8557-7b760e0b9b29",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iiiddigbaeolellfahokjnakndpnmlkn",
+        "comment": "Blooket Hacker Any Page | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "977f99ef-52f8-595f-b581-6d8499328142",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iiiddigbaeolellfahokjnakndpnmlkn",
+        "comment": "Chrome Web Store entry for Blooket Hacker Any Page (iiiddigbaeolellfahokjnakndpnmlkn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0b1f966c-37ed-5265-824e-1f2c3efa4a6a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iaojlcahlicmmkogefdeaknjijhhljpg",
+        "comment": "Dismissjar | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a45fed7a-b854-548b-8d19-738b99b3c3b2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iaojlcahlicmmkogefdeaknjijhhljpg",
+        "comment": "Chrome Web Store entry for Dismissjar (iaojlcahlicmmkogefdeaknjijhhljpg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f855e684-4c86-5d7f-98c2-c49333bce2a3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lgfbgeeakdfpmachejffoacihdelidbf",
+        "comment": "Blooket Hacker Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "92ec5d12-8d59-5e7c-a408-856d41cb0b66",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lgfbgeeakdfpmachejffoacihdelidbf",
+        "comment": "Chrome Web Store entry for Blooket Hacker Pro (lgfbgeeakdfpmachejffoacihdelidbf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c56d093d-a8b9-5a69-9a51-a6b554340360",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "epkppnhahanmbikhojipapchnbpeibbi",
+        "comment": "Heyreach Session Manager | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "563294e5-b0d6-5790-bcf4-0d19fc1c5b67",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/epkppnhahanmbikhojipapchnbpeibbi",
+        "comment": "Chrome Web Store entry for Heyreach Session Manager (epkppnhahanmbikhojipapchnbpeibbi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ab98bdba-abae-56f4-a044-f82113d298d7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bjmccihbeoifidcnfaodkfcknajninhi",
+        "comment": "Hds Hls Video Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "286c2375-c4d9-5b17-9eb4-26d23dab754d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bjmccihbeoifidcnfaodkfcknajninhi",
+        "comment": "Chrome Web Store entry for Hds Hls Video Downloader (bjmccihbeoifidcnfaodkfcknajninhi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "274df217-a5e6-596d-a3f7-b6e77d66e518",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abpkahdagjdghamgfepehlapignjdpkh",
+        "comment": "Enhancer For Textnow Web | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2617acf3-34ad-5185-ac04-9aa3802465dd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abpkahdagjdghamgfepehlapignjdpkh",
+        "comment": "Chrome Web Store entry for Enhancer For Textnow Web (abpkahdagjdghamgfepehlapignjdpkh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4da26de7-a0fd-5ec9-b65c-a7475965383e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jhgmgjgdidfjekibeljcooifabiencpe",
+        "comment": "Kahoot Hacker Solver Web | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "dbdcd38e-a654-5634-a0dd-e2e5361beacf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jhgmgjgdidfjekibeljcooifabiencpe",
+        "comment": "Chrome Web Store entry for Kahoot Hacker Solver Web (jhgmgjgdidfjekibeljcooifabiencpe)",
+        "distribution": "5"
+      },
       {
         "uuid": "40e6ed82-8945-54ce-b5e3-7764bb1a4457",
         "type": "text",
