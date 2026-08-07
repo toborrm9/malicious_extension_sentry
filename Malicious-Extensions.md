@@ -1,5 +1,37 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| gacadjlkiojoenheoehplaiahghjohai | Instagram Story Hider | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| ejcolgfdpihaoijphdnmfgildmijicih | Instagram Video Photo Dow | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| pdkmomhcpnjfnoaoemlahjkipdahncfl | Aicclinkedin | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| gbdaancajgebleoepjonnbmcibknjfee | Strykelol — Instagram Unf | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| feefbjncdaphbbmmgfefcdakbmpjgbch | Tiktokautofollower | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| jhjpmdlflhfmhocmleiclpiiajkdmhfh | Translate In Many Languag | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| kpjbfhnijdofpoffcdaglfbjmjlamidk | Instagram Liberation Feed | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| ejneclajijjhnnelphnggambomegmcpd | Igcommentsexport Export C | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| mfhokodmjmoiinhamncpmincgdfhilok | Prompt Deck — Prompt Libr | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| gjlalklkjpjnglmnbhgioefkfgaigjkp | Friender — Facebook Frien | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| cilagfkgkenhhjppokgonablfflnoldb | Tiktok Money Calculator | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| gfjmgjkncojhdhlpeahjijhfagllgpkp | Github Label Copier | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| dkbgobnaceccfonjkppheiofkgdieffn | Ig Follower Export Tool I | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| pfbjijkemboimlmngimalfbnianfcfdd | Idl Helper Ig Downloader | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| agchcjkheangfiopepndmenabbaopnpp | Github Deepwiki Button Un | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| okblbahgmoaidijdfnlkmaohpmjcolck | Fb Ads Library Downloader | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| menllhiocaggjibkofembnkeapkfagcf | Fb Multi Cookie Manager | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| bcbbpnepammcdghicoemmpnipcacmkjd | Ig Cleaner | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| kablcboioomlhblolhhpidlocbphmkao |  | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| fnibacbcdjodaejikaedmpciepldaeek | Abc Tunnel — Private Prox | Malware | Store Monitoring | 07/08/26 | No | Google Chrome
+| haghnpkkneoeehbocdcjociocibokgkj | Fb Group Mod Assistant | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| bbckanfpbfmjcibpehcjinjgkbjmdpnm | Fb Post Monitor | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| pmjklmikjlglapcdmnagibmlhffhbmcn | Browse Better Today | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| mikaidpfkfompkjdhmifncbgpamicbfo | Ig Follower Export Tool F | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| hpfnaodfcakdfbnompnfglhjmkoinbfm | Instagram Comments Scrape | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| edhjlbopgmdoabhmmaonapjhihjhkidj | Unit Converter Pro | Malware | Store Monitoring | 07/08/26 | No | Google Chrome
+| pbnanifadfaiilcflpadgfbodamidpld | Ads Only Facebook Feed | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| ohieifbipiemmcdnepblpdkcpafdfdoo | Cake Scale | Malware | Store Monitoring | 07/08/26 | No | Google Chrome
+| dpdglapbdeecphfomcghmhehiiolkdeb | Pennylane Access | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| nilnbolgkafelehmdpegbofbpjnkmgkf | Xam Desktop Extension | Malware | Store Monitoring | 07/08/26 | No | Google Chrome
+| jjlmajklnhbfbmhpefonbkaibgifdadg | Signal Snipe | Malware | Store Monitoring | 07/08/26 | No | Google Chrome
+| oikaacgbfedjlggonomhgmgcmbaoccbp | Fb Marketplace Tagger | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
 | pjjoabdahfjfchfidmlhcpjhkjolcehi | FB Reels Speed | Policy Violation | Store Monitoring | 06/08/26 | No | Google Chrome
 | alellhfnhemmnlbdaaafegkgohkiioik | Pokemon 5e Roll20 | Policy Violation | Store Monitoring | 06/08/26 | No | Google Chrome
 | mmnhfflobddadjfnimkdhnpafpoggboo | IG Saver 2026 — Photo, Video, Reels & Story Downloader | Policy Violation | Store Monitoring | 06/08/26 | No | Google Chrome
@@ -38,7 +70,7 @@
 | lfabaaicoiakmollmanjbimchkfpeoip | FB World | Policy Violation | Store Monitoring | 06/08/26 | No | Google Chrome
 | gcgjnpfhnmnkklndmdkjegipjgfahgfd | Facebook Groups Post Bot | Policy Violation | Store Monitoring | 06/08/26 | No | Google Chrome
 | kogplbchdfommcfmibhkocljopfldcih | IG Super Downloader | Policy Violation | Store Monitoring | 06/08/26 | No | Google Chrome
-| ebghanlmhpclnbokjfgdefdcohnapfmp | Blazr | Malware | Store Monitoring | 06/08/26 | No | Google Chrome
+| ebghanlmhpclnbokjfgdefdcohnapfmp | Blazr | Malware | Store Monitoring | 06/08/26 | Yes | Google Chrome
 | ocjlahacgjaeeneakladoaieeljfifpo | Insta Media Saver | Policy Violation | Store Monitoring | 06/08/26 | No | Google Chrome
 | algmnkojdaigpfoopbkibofjikmkdjei | Instagram Downloader for Atlas Browser | Policy Violation | Store Monitoring | 06/08/26 | No | Google Chrome
 | nbpheppbncjcimpgjgdofifdfnoagpnf | Kahoot Hacker | Malware | Store Monitoring | 05/08/26 | Yes | Google Chrome
@@ -1859,7 +1891,7 @@
 | jojafcbgfjjagedlpbpgpnafaedfjclk | Linkedroid The Linkedin H | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | mdebbgckaoknbdnddocbcepbnifkhaee | Gloss | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | pgbkhbafiedbdelmipcdhlcbedoiiagi | Flow Ai Ultra Bulk Veo 31 Automator | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
-| kahjbnmpoodiabldppankdgdmghnkife | Coinomi Pro Extension | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
+| kahjbnmpoodiabldppankdgdmghnkife | Coinomi Pro Extension | Malware | Store Monitoring | 17/07/26 | No | Google Chrome
 | neoghgfokcamnbalpclafhiidbiafidm | Shieldai Web Extension | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | dbiddhjgdoiiglahnjacfgcgnpffmool | Buy Tiktok Followers | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
 | ljhmiidceacgofcmfdkolknekhmngbei | Cookie Clicker Auto Clicker | Policy Violation | Store Monitoring | 17/07/26 | No | Google Chrome
@@ -3494,7 +3526,7 @@
 | cmfbmehojkikkfdellcpieaapccgemdl | Happ VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No | 
 | jjbjcelpjgagfgdpobjkpjnkhffmnlda | Sota VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No | 
 | jageecdigmlcciccgcbifiidgfoafjke | HideMyName VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No | 
-| oapdfflamjpbpphjjlmejjgljiiajkcf | BrowSec VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No | 
+| oapdfflamjpbpphjjlmejjgljiiajkcf | BrowSec VPN | Policy Violation | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No | 
 | kfhghjkddbnaphdgnajhenaacpekbdmg | AdGuard VPN | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-05-21-Fake-VPN-Extension-Farm.txt) | 21/05/26 | No | 
 | igphhgfjnebcafoiplfpkgadlbhdpmnm | Chat Flow Crm Automate Yo | Policy Violation | Store Monitoring | 20/05/26 | No | Google Chrome
 | fojokgfmpipggghfmfnnflbaenhffmol | NeatYT – Clean UI & Comment Search for YouTube | Malware | Store Monitoring | 20/05/26 | Yes | Google Chrome
@@ -4705,10 +4737,10 @@
 | ncbknoohfjmcfneopnfkapmkblaenokb | Vytal – Spoof Timezone, Geolocation, Locale and security | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | Yes | Google Chrome
 | ggjlkinaanncojaippgbndimlhcdlohf | PaperPanda — Get millions of research papers | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | Yes | Google Chrome
 | eekibodjacokkihmicbjgdpdfhkjemlf | InteractiveFics | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | Yes | Google Chrome
-| eggegjdejilddmnlglakcaigefefcdaf | InteractiveFics | Removal reason Unknown | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | No | Google Chrome
+| eggegjdejilddmnlglakcaigefefcdaf | InteractiveFics | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | No | Google Chrome
 | cehifnkfcddaeppdajpfldbpommggaca | Kahoot Hacker | Removal reason Unknown | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | No | Google Chrome
 | ooobfpifjkgeopllkalfgkbiefhooggl | Blooket Hacker Pro | Removal reason Unknown | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | No | Google Chrome
-| gmmhcbmmnclgmmjimiiefhiagmpamdlb | Edit anything - Boost any page | In store but Suspicious | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | Yes | Google Chrome
+| gmmhcbmmnclgmmjimiiefhiagmpamdlb | Edit anything - Boost any page | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | Yes | Google Chrome
 | jnkmepoonohhfijlbajdphhinhkoefjn | HP Print Service Plugin | Removal reason Unknown | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | No | Google Chrome
 | pgfjnclkpdmocilijgalomiaokgjejdm | SnapConnect for Chrome | Bundling Unwanted Software | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | Yes | Google Chrome
 | jleonlfcaijhkgejhhjfjinedgficgaj | CapCut Video Editor & Downloader | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | Yes | Google Chrome
