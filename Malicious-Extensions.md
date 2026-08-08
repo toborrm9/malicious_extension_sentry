@@ -1,5 +1,33 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| icoidhemmheiociioljcglpagmigknai | Avatar The Last Airbender | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| jocoenanieejnoookkphbljadiahaopd | Youtube Summary | Malware | Store Monitoring | 08/08/26 | No | Google Chrome
+| klgjipgmpleicdgncgdoggcoilbceddb | Gram Blocker Mass Block I | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| agmgcklnekefdfnkcfhcdelhflhkjdld | Gradex Feedfill | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| gogjlcdlaecboicokcdfffngoibbaolf | Ip Detector | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| ahahkpfdmlddommandcmeanlhbabnckn | Chris Burkard Photography | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| gajghfhmgcemdgjkamllmoejhkklphnc | Holiday D Day | Malware | Store Monitoring | 08/08/26 | No | Google Chrome
+| mdnnepmlhbdmgdkjahbeemoadnfmjgnh | Chatgpt For Google Ask Ai | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| flebmjokaajkjlminhophkekmnpdjdjd | Word Tracker Counter | Malware | Store Monitoring | 08/08/26 | No | Google Chrome
+| mfnhbnalcedheibigagmgplpgkebmfae | меTамаSк Dashboard | Bundling Unwanted Software | Store Monitoring | 08/08/26 | No | Google Chrome
+| odgjehkmoolaagpbdmcffcgfbbnclmlc | Igautomate Social Media B | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| cclmcabgofalgaoigddnflpmcjdamlla | Fb Ad Video Link Copier | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| bleimifmiabmhihkdggbebohflemfhjl | Instagram Reels Sorter | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| ldfnfnhmcahjkabepggofpjbojlbgikj | Qolio | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| hbkabpokafbfdcfonbnbhmkdnfamgppj | Rosync Roblox Improved | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| dkkelmoggdihadhbpaalbokbgngkhfkn | 웹돌이 | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| ialcfnedkpcmpdgenkkagbejbhgmledd | Elia Ia Crm | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| begihkemcolcdkhkjkombfdlgljopbce | Insta Pro | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| djgljpikeafglmcabegkakgolfofamdo | Delete Instagram Messages | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| pemnloncgpcmelhcgbnldkljkbkihkch | Browsec Vpn — рабочий Vpn | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| blgndjikjcfefobfajfocdcgmionhoem | Notion Addons Time Tracke | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| aelkipgppclpfimeamgmlonimflbhlgf | Github Custom Notifier | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| cioaigbllgdgonldjaibabgchcipffde | Gram Export Fast Bulk Dat | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| bchidcipmjenakkbfnefeikgglgalpce | AnıL İLter | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| jejhkmddbdocgcmfhknkjeglcojcoica | оkx рOrtfоliо DаShboаRd | Bundling Unwanted Software | Store Monitoring | 08/08/26 | No | Google Chrome
+| agiojoblppfggphckggbobkeeljfjcpe | Ecdash Auto Login | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| cogfipmojjaephpnihpeemgdmofhnaaj | Snapshot | Malware | Store Monitoring | 08/08/26 | No | Google Chrome
+| pblgohklgienpmbdkipiecodogbdipdo | Offizielle Füchse Berlin | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
 | gacadjlkiojoenheoehplaiahghjohai | Instagram Story Hider | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
 | ejcolgfdpihaoijphdnmfgildmijicih | Instagram Video Photo Dow | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
 | pdkmomhcpnjfnoaoemlahjkipdahncfl | Aicclinkedin | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
@@ -29,7 +57,7 @@
 | pbnanifadfaiilcflpadgfbodamidpld | Ads Only Facebook Feed | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
 | ohieifbipiemmcdnepblpdkcpafdfdoo | Cake Scale | Malware | Store Monitoring | 07/08/26 | No | Google Chrome
 | dpdglapbdeecphfomcghmhehiiolkdeb | Pennylane Access | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
-| nilnbolgkafelehmdpegbofbpjnkmgkf | Xam Desktop Extension | Malware | Store Monitoring | 07/08/26 | No | Google Chrome
+| nilnbolgkafelehmdpegbofbpjnkmgkf | Xam Desktop Extension | Malware | Store Monitoring | 07/08/26 | Yes | Google Chrome
 | jjlmajklnhbfbmhpefonbkaibgifdadg | Signal Snipe | Malware | Store Monitoring | 07/08/26 | No | Google Chrome
 | oikaacgbfedjlggonomhgmgcmbaoccbp | Fb Marketplace Tagger | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
 | pjjoabdahfjfchfidmlhcpjhkjolcehi | FB Reels Speed | Policy Violation | Store Monitoring | 06/08/26 | No | Google Chrome
