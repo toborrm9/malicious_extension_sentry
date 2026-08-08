@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-07",
-    "timestamp": "1786098749",
+    "date": "2026-08-08",
+    "timestamp": "1786184624",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,818 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "a429994d-10e4-54ed-a981-7e58d124f990",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "icoidhemmheiociioljcglpagmigknai",
+        "comment": "Avatar The Last Airbender | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "65d4006f-04e0-51be-ab41-f13c34f94ecd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/icoidhemmheiociioljcglpagmigknai",
+        "comment": "Chrome Web Store entry for Avatar The Last Airbender (icoidhemmheiociioljcglpagmigknai)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4cd32a3f-1b51-5d98-a62a-225238cfb675",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jocoenanieejnoookkphbljadiahaopd",
+        "comment": "Youtube Summary | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "57091ebd-157a-5102-9a43-85691c6398d7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jocoenanieejnoookkphbljadiahaopd",
+        "comment": "Chrome Web Store entry for Youtube Summary (jocoenanieejnoookkphbljadiahaopd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a8e63300-c7a6-5d72-be52-87cc7b6b37e2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "klgjipgmpleicdgncgdoggcoilbceddb",
+        "comment": "Gram Blocker Mass Block I | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "69896bd2-24b8-5b1d-b0ca-7cd9425bd2b9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/klgjipgmpleicdgncgdoggcoilbceddb",
+        "comment": "Chrome Web Store entry for Gram Blocker Mass Block I (klgjipgmpleicdgncgdoggcoilbceddb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dd5f9e5e-5215-5a31-b13d-9b85587e48f6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "agmgcklnekefdfnkcfhcdelhflhkjdld",
+        "comment": "Gradex Feedfill | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "206ff2d4-eed9-5575-b50c-246ea1d874ab",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/agmgcklnekefdfnkcfhcdelhflhkjdld",
+        "comment": "Chrome Web Store entry for Gradex Feedfill (agmgcklnekefdfnkcfhcdelhflhkjdld)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "872efad2-e5d1-5561-81cc-ba736b282510",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gogjlcdlaecboicokcdfffngoibbaolf",
+        "comment": "Ip Detector | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "91f58526-2071-5419-8924-a68b86b55690",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gogjlcdlaecboicokcdfffngoibbaolf",
+        "comment": "Chrome Web Store entry for Ip Detector (gogjlcdlaecboicokcdfffngoibbaolf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e8a3f94e-eaee-54a2-b22e-6716764b210a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ahahkpfdmlddommandcmeanlhbabnckn",
+        "comment": "Chris Burkard Photography | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "28653139-4675-5cd9-b086-288a8df6a415",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ahahkpfdmlddommandcmeanlhbabnckn",
+        "comment": "Chrome Web Store entry for Chris Burkard Photography (ahahkpfdmlddommandcmeanlhbabnckn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "16e22eef-51cc-5683-a4d7-28626ebd88fa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gajghfhmgcemdgjkamllmoejhkklphnc",
+        "comment": "Holiday D Day | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "59bf101c-8fb3-5693-9411-0095fc081e67",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gajghfhmgcemdgjkamllmoejhkklphnc",
+        "comment": "Chrome Web Store entry for Holiday D Day (gajghfhmgcemdgjkamllmoejhkklphnc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b7e6f0e0-dcfc-517f-955f-d5c3e55dfccb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mdnnepmlhbdmgdkjahbeemoadnfmjgnh",
+        "comment": "Chatgpt For Google Ask Ai | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "15039802-ceff-5b39-926a-e07aa03aeaf8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mdnnepmlhbdmgdkjahbeemoadnfmjgnh",
+        "comment": "Chrome Web Store entry for Chatgpt For Google Ask Ai (mdnnepmlhbdmgdkjahbeemoadnfmjgnh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cd693ad3-390e-5dc2-86d0-47c8b5837f2b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "flebmjokaajkjlminhophkekmnpdjdjd",
+        "comment": "Word Tracker Counter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7a45adc7-84e4-5682-9577-7abfcd988d64",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/flebmjokaajkjlminhophkekmnpdjdjd",
+        "comment": "Chrome Web Store entry for Word Tracker Counter (flebmjokaajkjlminhophkekmnpdjdjd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0c38127c-7c1b-5c0d-89c3-15b5f14db13f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mfnhbnalcedheibigagmgplpgkebmfae",
+        "comment": "\u043c\u0435T\u0430\u043c\u0430S\u043a Dashboard | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3f2a1c29-00f5-5f62-88ce-452ac6902e75",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mfnhbnalcedheibigagmgplpgkebmfae",
+        "comment": "Chrome Web Store entry for \u043c\u0435T\u0430\u043c\u0430S\u043a Dashboard (mfnhbnalcedheibigagmgplpgkebmfae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d3bc2751-e111-5ab0-a37c-4efa9f784e73",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odgjehkmoolaagpbdmcffcgfbbnclmlc",
+        "comment": "Igautomate Social Media B | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "09fee7f5-5b1e-56f8-a971-c940cc50674e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/odgjehkmoolaagpbdmcffcgfbbnclmlc",
+        "comment": "Chrome Web Store entry for Igautomate Social Media B (odgjehkmoolaagpbdmcffcgfbbnclmlc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "352dfd0e-5119-56c6-b2e3-fefabdcc9aab",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cclmcabgofalgaoigddnflpmcjdamlla",
+        "comment": "Fb Ad Video Link Copier | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8d693eed-6d10-5bc2-93dc-9c26dc4b8825",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cclmcabgofalgaoigddnflpmcjdamlla",
+        "comment": "Chrome Web Store entry for Fb Ad Video Link Copier (cclmcabgofalgaoigddnflpmcjdamlla)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "625b20bf-41e1-58c6-84b3-491c3abcf53d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bleimifmiabmhihkdggbebohflemfhjl",
+        "comment": "Instagram Reels Sorter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5106e9aa-a54c-5c32-a71f-f7422951d871",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bleimifmiabmhihkdggbebohflemfhjl",
+        "comment": "Chrome Web Store entry for Instagram Reels Sorter (bleimifmiabmhihkdggbebohflemfhjl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "848c6e2c-d16a-552d-a3b1-acf13d304054",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ldfnfnhmcahjkabepggofpjbojlbgikj",
+        "comment": "Qolio | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a37dff46-8859-53c3-9576-d86dda5bd374",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ldfnfnhmcahjkabepggofpjbojlbgikj",
+        "comment": "Chrome Web Store entry for Qolio (ldfnfnhmcahjkabepggofpjbojlbgikj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d344ed19-352f-575c-b261-2d5cf43b4d01",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hbkabpokafbfdcfonbnbhmkdnfamgppj",
+        "comment": "Rosync Roblox Improved | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f92087fb-dbb0-5504-be8b-c1b638a4eec9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hbkabpokafbfdcfonbnbhmkdnfamgppj",
+        "comment": "Chrome Web Store entry for Rosync Roblox Improved (hbkabpokafbfdcfonbnbhmkdnfamgppj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6a0a8610-552b-5cf2-844a-7f6d8d1b9a72",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dkkelmoggdihadhbpaalbokbgngkhfkn",
+        "comment": "\uc6f9\ub3cc\uc774 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8f85dd68-9625-51d4-b8e7-e1f40c3edcee",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dkkelmoggdihadhbpaalbokbgngkhfkn",
+        "comment": "Chrome Web Store entry for \uc6f9\ub3cc\uc774 (dkkelmoggdihadhbpaalbokbgngkhfkn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c4b5a146-03da-59b7-a9d1-626bc4088957",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ialcfnedkpcmpdgenkkagbejbhgmledd",
+        "comment": "Elia Ia Crm | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b4a559f4-5d26-555e-8991-22cf93482827",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ialcfnedkpcmpdgenkkagbejbhgmledd",
+        "comment": "Chrome Web Store entry for Elia Ia Crm (ialcfnedkpcmpdgenkkagbejbhgmledd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7374fc65-35ee-5145-80bb-67d64e5c5408",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "begihkemcolcdkhkjkombfdlgljopbce",
+        "comment": "Insta Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a151259c-b7f6-5678-b8c2-bf8199164b16",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/begihkemcolcdkhkjkombfdlgljopbce",
+        "comment": "Chrome Web Store entry for Insta Pro (begihkemcolcdkhkjkombfdlgljopbce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "17e2457b-3ca0-5551-b33b-5ed580f71abd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "djgljpikeafglmcabegkakgolfofamdo",
+        "comment": "Delete Instagram Messages | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "47582e91-e17f-5b4a-8278-45470d156362",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/djgljpikeafglmcabegkakgolfofamdo",
+        "comment": "Chrome Web Store entry for Delete Instagram Messages (djgljpikeafglmcabegkakgolfofamdo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d438e9e8-3e88-5d14-9ad1-9f9ef7e9251e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pemnloncgpcmelhcgbnldkljkbkihkch",
+        "comment": "Browsec Vpn \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1db459d8-b186-53f2-8326-50d420125e99",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pemnloncgpcmelhcgbnldkljkbkihkch",
+        "comment": "Chrome Web Store entry for Browsec Vpn \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn (pemnloncgpcmelhcgbnldkljkbkihkch)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0b1f3c5e-7be5-501c-972a-8d337230456c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "blgndjikjcfefobfajfocdcgmionhoem",
+        "comment": "Notion Addons Time Tracke | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9530f52b-7516-5fc6-ba2d-ee8cc2f3c1a4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/blgndjikjcfefobfajfocdcgmionhoem",
+        "comment": "Chrome Web Store entry for Notion Addons Time Tracke (blgndjikjcfefobfajfocdcgmionhoem)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "df092a05-9f00-5722-bf50-4df7b5705611",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aelkipgppclpfimeamgmlonimflbhlgf",
+        "comment": "Github Custom Notifier | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5ffb25b3-56a5-5dda-9306-8f19b3812739",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aelkipgppclpfimeamgmlonimflbhlgf",
+        "comment": "Chrome Web Store entry for Github Custom Notifier (aelkipgppclpfimeamgmlonimflbhlgf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f234cc03-c78f-5691-97d4-9aa8dc6c88ce",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cioaigbllgdgonldjaibabgchcipffde",
+        "comment": "Gram Export Fast Bulk Dat | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c048c7ae-b994-5092-bb54-d2e21e3259b3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cioaigbllgdgonldjaibabgchcipffde",
+        "comment": "Chrome Web Store entry for Gram Export Fast Bulk Dat (cioaigbllgdgonldjaibabgchcipffde)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "748160dd-6bfc-563a-8eaf-0688007ca44d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bchidcipmjenakkbfnefeikgglgalpce",
+        "comment": "An\u0131L I\u0307Lter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7d61f23f-b5c9-5c5c-a55f-52b118a3b5a8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bchidcipmjenakkbfnefeikgglgalpce",
+        "comment": "Chrome Web Store entry for An\u0131L I\u0307Lter (bchidcipmjenakkbfnefeikgglgalpce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d3514709-5a1e-501b-9ee5-bd2bfbde8ddc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jejhkmddbdocgcmfhknkjeglcojcoica",
+        "comment": "\u043ekx \u0440Ortf\u043eli\u043e D\u0430Shbo\u0430Rd | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "25f5d8b4-cfe4-5906-9350-a11e2c104f52",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jejhkmddbdocgcmfhknkjeglcojcoica",
+        "comment": "Chrome Web Store entry for \u043ekx \u0440Ortf\u043eli\u043e D\u0430Shbo\u0430Rd (jejhkmddbdocgcmfhknkjeglcojcoica)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "037cd900-9829-5dc6-94b0-683d2e9200a6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "agiojoblppfggphckggbobkeeljfjcpe",
+        "comment": "Ecdash Auto Login | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1edd9bfe-94a2-5904-9706-bf59987d3e6f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/agiojoblppfggphckggbobkeeljfjcpe",
+        "comment": "Chrome Web Store entry for Ecdash Auto Login (agiojoblppfggphckggbobkeeljfjcpe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c8ea5707-2591-56bc-aad2-bf32de949cb3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cogfipmojjaephpnihpeemgdmofhnaaj",
+        "comment": "Snapshot | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5c0caa2a-ea6b-596b-ab89-0451372c4511",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cogfipmojjaephpnihpeemgdmofhnaaj",
+        "comment": "Chrome Web Store entry for Snapshot (cogfipmojjaephpnihpeemgdmofhnaaj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ff0b282b-a65f-5efb-90f7-4b8835e02389",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pblgohklgienpmbdkipiecodogbdipdo",
+        "comment": "Offizielle F\u00fcchse Berlin | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "766e0e9f-9bc7-5830-b392-3cbf4066167d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pblgohklgienpmbdkipiecodogbdipdo",
+        "comment": "Chrome Web Store entry for Offizielle F\u00fcchse Berlin (pblgohklgienpmbdkipiecodogbdipdo)",
+        "distribution": "5"
+      },
       {
         "uuid": "f9090700-f2ed-5846-a6cd-01ef940b9ca4",
         "type": "text",
