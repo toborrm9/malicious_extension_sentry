@@ -1,5 +1,18 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| gmbgjcgofehpjebdapbndhbhnpcddaia | Hedera Defi Web3 | Policy Violation | Store Monitoring | 09/08/26 | No | Google Chrome
+| fnkbnfbbpaokkljhhgijlaldocgocmpm | Logisflow CôNg Cụ đặT HàN | Policy Violation | Store Monitoring | 09/08/26 | No | Google Chrome
+| dfklnfbonmmeadolkpbhidfldnhlemja | Baikal Journey | Bundling Unwanted Software | Store Monitoring | 09/08/26 | No | Google Chrome
+| jhbdjdfjebflcoajbgefnpppfdbfbmnn | Chatgpt For Browser | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| blnhcpofmmanegogkkphjfpjmphcpgco | Fia World Rally Champions | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
+| kbbdhaecpjfhaldddljnlkdlcephkank | Aah Wallet | Bundling Unwanted Software | Store Monitoring | 08/08/26 | No | Google Chrome
+| nkfjkhganbbeojpnldcjkonjpbkegmal | Meofb Extension | Malware | Store Monitoring | 08/08/26 | No | Google Chrome
+| lccgnidendnmpffhnhkccobkglpnpeib | FocusTube: YouTube Focus & Distraction Blocker | Malware |  | 08/08/26 | No | Google Chrome
+| abicfpphjeemamnjpklkbgkdpcijpnhb | YouTube Row Fixer: Grid & Layout Customizer | Malware |  | 08/08/26 | No | Google Chrome
+| cfnhahioojicbgpmbdikklcalbkdkcfk | Word Replacer Max: Auto Text Swapper | Malware |  | 08/08/26 | No | Google Chrome
+| gbkicngmnoedeajgodbbokjadbfbbpng | Canvas Blocker & Fingerprint Protect | Malware | Store Monitoring | 08/08/26 | No | Google Chrome
+| pckplpilogoidhnjnjphjnabhgiiamjn | 500px Image Download | Malware | [chromewebstore.google.com](https://chromewebstore.google.com/detail/pckplpilogoidhnjnjphjnabhgiiamjn) | 08/08/26 | No | Google Chrome
+| ooekhnjjjikljkmddooialcfedpjbldm | System Monitor & Cleaner CPU / RAM usage | Malware | [chromewebstore.google.com](https://chromewebstore.google.com/detail/ooekhnjjjikljkmddooialcfedpjbldm) | 08/08/26 | No | Google Chrome
 | icoidhemmheiociioljcglpagmigknai | Avatar The Last Airbender | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
 | jocoenanieejnoookkphbljadiahaopd | Youtube Summary | Malware | Store Monitoring | 08/08/26 | No | Google Chrome
 | klgjipgmpleicdgncgdoggcoilbceddb | Gram Blocker Mass Block I | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
@@ -127,6 +140,7 @@
 | bjmccihbeoifidcnfaodkfcknajninhi | Hds Hls Video Downloader | Malware | Store Monitoring | 05/08/26 | Yes | Google Chrome
 | abpkahdagjdghamgfepehlapignjdpkh | Enhancer For Textnow Web | Malware | Store Monitoring | 05/08/26 | Yes | Google Chrome
 | jhgmgjgdidfjekibeljcooifabiencpe | Kahoot Hacker Solver Web | Malware | Store Monitoring | 05/08/26 | No | Google Chrome
+| bhfcboeafhnhchjbhjpgbnnhnidmhglm | Ziongym | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | onjnkdhpnecgfhnplplfidpjbalmppoo | Track Package​ | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 04/08/26 | No | Google Chrome
 | anpkocpohfbojanempbnghhbkednaicb | QweTab | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 04/08/26 | No | Google Chrome
 | jodmdafccdbmmonjcmckddlaplcigcjl | RealSearch - Human Answers Only (No AI Spam) | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 04/08/26 | No | Google Chrome
@@ -165,6 +179,7 @@
 | okbfoojfcbleiaoobmeapkldikmfjhnk | F.B Downloader (SaveF) | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | nboghekiocdfojdklcbpfnnoaeffaacm | Instagram Downloader Down | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | hiciefbofiaokacpdckgddnaeagjjjkf | Instagram Lead Scraper Pro | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
+| lpdaophgnbbnilmebblhpbmnaaomlaod | Astro Wallet | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
 | ecllgdfkamjfebkldhghpfpkheedkldl | Fashion Background Pictures New Tab | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/08/26 | No | Google Chrome
 | njincahdjloohmjeonojgjeihkgbjfko | USPS Tracking | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/08/26 | No | Google Chrome
 | ibmhijpaejbhbhdddifhgpdogoapclgj | Watch Movies Online | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/08/26 | No | Google Chrome
