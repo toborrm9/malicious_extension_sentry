@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-08",
-    "timestamp": "1786184624",
+    "date": "2026-08-09",
+    "timestamp": "1786294640",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,383 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "a273312a-970e-5a45-a5e2-16ef0c24ab14",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gmbgjcgofehpjebdapbndhbhnpcddaia",
+        "comment": "Hedera Defi Web3 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "aeb8c63e-07d4-52a3-a789-95752d735086",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gmbgjcgofehpjebdapbndhbhnpcddaia",
+        "comment": "Chrome Web Store entry for Hedera Defi Web3 (gmbgjcgofehpjebdapbndhbhnpcddaia)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a76bd280-20fb-5454-ae07-bb3ecf42dea8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fnkbnfbbpaokkljhhgijlaldocgocmpm",
+        "comment": "Logisflow C\u00f4Ng C\u1ee5 \u0111\u1eb7T H\u00e0N | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "26530f50-0208-58ba-8d21-0c8009ca9b50",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fnkbnfbbpaokkljhhgijlaldocgocmpm",
+        "comment": "Chrome Web Store entry for Logisflow C\u00f4Ng C\u1ee5 \u0111\u1eb7T H\u00e0N (fnkbnfbbpaokkljhhgijlaldocgocmpm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eb7fe562-480d-54e2-8fc9-61354efc34d6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dfklnfbonmmeadolkpbhidfldnhlemja",
+        "comment": "Baikal Journey | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "33c7d464-a017-5698-bc2a-37c8e8586dc6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dfklnfbonmmeadolkpbhidfldnhlemja",
+        "comment": "Chrome Web Store entry for Baikal Journey (dfklnfbonmmeadolkpbhidfldnhlemja)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "10239422-33af-5152-9b33-f535152630ce",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jhbdjdfjebflcoajbgefnpppfdbfbmnn",
+        "comment": "Chatgpt For Browser | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bf717ad3-f86a-5223-8e55-77866dd6b3b9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jhbdjdfjebflcoajbgefnpppfdbfbmnn",
+        "comment": "Chrome Web Store entry for Chatgpt For Browser (jhbdjdfjebflcoajbgefnpppfdbfbmnn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dfcba794-8627-5041-bd9f-a6f0a12f3fc8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "blnhcpofmmanegogkkphjfpjmphcpgco",
+        "comment": "Fia World Rally Champions | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a93290ab-100b-500e-9461-7ee53cb64b21",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/blnhcpofmmanegogkkphjfpjmphcpgco",
+        "comment": "Chrome Web Store entry for Fia World Rally Champions (blnhcpofmmanegogkkphjfpjmphcpgco)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a3816e6d-acbd-54eb-b9d9-abda86a22bfe",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kbbdhaecpjfhaldddljnlkdlcephkank",
+        "comment": "Aah Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c22ab8fb-3998-5443-a176-7b412508862f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kbbdhaecpjfhaldddljnlkdlcephkank",
+        "comment": "Chrome Web Store entry for Aah Wallet (kbbdhaecpjfhaldddljnlkdlcephkank)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b2be2cbf-6207-5d54-8177-bbccefc371f7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nkfjkhganbbeojpnldcjkonjpbkegmal",
+        "comment": "Meofb Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "553dfd18-c2a7-5c14-85de-1554891edc58",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nkfjkhganbbeojpnldcjkonjpbkegmal",
+        "comment": "Chrome Web Store entry for Meofb Extension (nkfjkhganbbeojpnldcjkonjpbkegmal)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0f2d030c-02e5-51b8-8eae-d23d95775aec",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lccgnidendnmpffhnhkccobkglpnpeib",
+        "comment": "FocusTube: YouTube Focus & Distraction Blocker | Source:  | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ecddd9b2-aea7-5e05-95d5-cce3086c751a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lccgnidendnmpffhnhkccobkglpnpeib",
+        "comment": "Chrome Web Store entry for FocusTube: YouTube Focus & Distraction Blocker (lccgnidendnmpffhnhkccobkglpnpeib)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d8ad3f67-a411-563d-9b9e-f1b722787169",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abicfpphjeemamnjpklkbgkdpcijpnhb",
+        "comment": "YouTube Row Fixer: Grid & Layout Customizer | Source:  | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1cc48299-5c0d-5c2c-9fbc-fdee3f8c3b25",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abicfpphjeemamnjpklkbgkdpcijpnhb",
+        "comment": "Chrome Web Store entry for YouTube Row Fixer: Grid & Layout Customizer (abicfpphjeemamnjpklkbgkdpcijpnhb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "27b98c1a-24b0-5404-9063-dbc20ceb84e4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cfnhahioojicbgpmbdikklcalbkdkcfk",
+        "comment": "Word Replacer Max: Auto Text Swapper | Source:  | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f2d95452-d6c7-5b22-9d02-6b12fa66ea48",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cfnhahioojicbgpmbdikklcalbkdkcfk",
+        "comment": "Chrome Web Store entry for Word Replacer Max: Auto Text Swapper (cfnhahioojicbgpmbdikklcalbkdkcfk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e0872d55-8549-5850-8982-399b9905aa74",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gbkicngmnoedeajgodbbokjadbfbbpng",
+        "comment": "Canvas Blocker & Fingerprint Protect | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e7db5f51-abe8-5697-a9cb-977ca5cf1555",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gbkicngmnoedeajgodbbokjadbfbbpng",
+        "comment": "Chrome Web Store entry for Canvas Blocker & Fingerprint Protect (gbkicngmnoedeajgodbbokjadbfbbpng)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4a92b6b4-02d2-5a06-8ec1-9631a439da63",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pckplpilogoidhnjnjphjnabhgiiamjn",
+        "comment": "500px Image Download | Source: https://chromewebstore.google.com/detail/pckplpilogoidhnjnjphjnabhgiiamjn | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://chromewebstore.google.com/detail/pckplpilogoidhnjnjphjnabhgiiamjn\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2e73817-7332-53ec-acf4-a42f22a59ff5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pckplpilogoidhnjnjphjnabhgiiamjn",
+        "comment": "Chrome Web Store entry for 500px Image Download (pckplpilogoidhnjnjphjnabhgiiamjn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bf8adc8a-6090-50a8-adb2-b3ec3f9400d3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ooekhnjjjikljkmddooialcfedpjbldm",
+        "comment": "System Monitor & Cleaner CPU / RAM usage | Source: https://chromewebstore.google.com/detail/ooekhnjjjikljkmddooialcfedpjbldm | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://chromewebstore.google.com/detail/ooekhnjjjikljkmddooialcfedpjbldm\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9835ca05-2696-5571-9291-a7150d884dc1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ooekhnjjjikljkmddooialcfedpjbldm",
+        "comment": "Chrome Web Store entry for System Monitor & Cleaner CPU / RAM usage (ooekhnjjjikljkmddooialcfedpjbldm)",
+        "distribution": "5"
+      },
       {
         "uuid": "a429994d-10e4-54ed-a981-7e58d124f990",
         "type": "text",
@@ -3711,6 +4088,35 @@
         "distribution": "5"
       },
       {
+        "uuid": "004c0c58-35ad-51c9-82e2-ca5b4cc0af12",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bhfcboeafhnhchjbhjpgbnnhnidmhglm",
+        "comment": "Ziongym | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1d7f025e-f6be-5132-9945-1df0f78f8240",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bhfcboeafhnhchjbhjpgbnnhnidmhglm",
+        "comment": "Chrome Web Store entry for Ziongym (bhfcboeafhnhchjbhjpgbnnhnidmhglm)",
+        "distribution": "5"
+      },
+      {
         "uuid": "40e6ed82-8945-54ce-b5e3-7764bb1a4457",
         "type": "text",
         "category": "Other",
@@ -4810,6 +5216,35 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/hiciefbofiaokacpdckgddnaeagjjjkf",
         "comment": "Chrome Web Store entry for Instagram Lead Scraper Pro (hiciefbofiaokacpdckgddnaeagjjjkf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "87ac92f1-4800-5f35-bc34-f1846c8439e7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lpdaophgnbbnilmebblhpbmnaaomlaod",
+        "comment": "Astro Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b480a012-f356-58a4-bac2-7d5841e99c94",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lpdaophgnbbnilmebblhpbmnaaomlaod",
+        "comment": "Chrome Web Store entry for Astro Wallet (lpdaophgnbbnilmebblhpbmnaaomlaod)",
         "distribution": "5"
       },
       {
