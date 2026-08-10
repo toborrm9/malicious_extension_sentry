@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-09",
-    "timestamp": "1786294640",
+    "date": "2026-08-10",
+    "timestamp": "1786365195",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,354 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "08888b05-c4cd-5b38-b16f-8a82714c6858",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hehogcncjijpiaflkjnkiilbfncghgep",
+        "comment": "Aiq Web3 Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d4275ddd-02e4-5dfa-bbc3-d6b144c4a993",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hehogcncjijpiaflkjnkiilbfncghgep",
+        "comment": "Chrome Web Store entry for Aiq Web3 Wallet (hehogcncjijpiaflkjnkiilbfncghgep)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f5514aaf-d774-5375-a0f4-0945ca01548d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dkonkehmngnpbapnlmjffpjfohbnhmgc",
+        "comment": "Cloud Screen - screenshots quickly | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "13220baf-ce35-5f69-8840-baeea027f643",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dkonkehmngnpbapnlmjffpjfohbnhmgc",
+        "comment": "Chrome Web Store entry for Cloud Screen - screenshots quickly (dkonkehmngnpbapnlmjffpjfohbnhmgc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3d0f2f29-3b35-5bfc-858d-c52b3a20f997",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hklalgdfhgmdcigmepbjpaojbppefdjm",
+        "comment": "Alpenverein Edelweiss | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "750a4a47-22dd-5544-88c7-c0f865349251",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hklalgdfhgmdcigmepbjpaojbppefdjm",
+        "comment": "Chrome Web Store entry for Alpenverein Edelweiss (hklalgdfhgmdcigmepbjpaojbppefdjm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6a57c640-8f2d-5f55-a3fc-704313b3a096",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adjfokockflbafjkfhcnlkolebapoohl",
+        "comment": "REVM \u2014 Solana DEX Scanner | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e8194593-a45a-5dea-b127-ef9be1817af0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/adjfokockflbafjkfhcnlkolebapoohl",
+        "comment": "Chrome Web Store entry for REVM \u2014 Solana DEX Scanner (adjfokockflbafjkfhcnlkolebapoohl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2fb2c410-27f2-5900-b563-0faa41befd20",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iaonookehgfokaglaodkeooddjeaodnc",
+        "comment": "Ig Video Downloader Socia | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1c3a2193-ebbd-5c29-bad7-bdf21000afba",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iaonookehgfokaglaodkeooddjeaodnc",
+        "comment": "Chrome Web Store entry for Ig Video Downloader Socia (iaonookehgfokaglaodkeooddjeaodnc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3df6774e-0c47-584e-b132-0e65f6d01005",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ioecfbnnabgmgfnchjjjdekgcnjcnild",
+        "comment": "Uniswap Pools \u2014 Live Posi | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f44aadaf-0deb-5c51-aa2c-73302914f40d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ioecfbnnabgmgfnchjjjdekgcnjcnild",
+        "comment": "Chrome Web Store entry for Uniswap Pools \u2014 Live Posi (ioecfbnnabgmgfnchjjjdekgcnjcnild)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a948d269-d51e-56a4-a314-692190def947",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "anjjjejkcbhecfglcoomeoeoddjmpmcc",
+        "comment": "Full Res Insta | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "65b966bb-a2c0-5cc4-849b-53de142214db",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/anjjjejkcbhecfglcoomeoeoddjmpmcc",
+        "comment": "Chrome Web Store entry for Full Res Insta (anjjjejkcbhecfglcoomeoeoddjmpmcc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5f044d47-1c49-501d-ac14-c31ae466fe4f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "akfncdehnlejcndnekeejpdennpjamfb",
+        "comment": "Pineapple Breeze | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5d217586-6e80-50ca-aa78-4de1283fd3c6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/akfncdehnlejcndnekeejpdennpjamfb",
+        "comment": "Chrome Web Store entry for Pineapple Breeze (akfncdehnlejcndnekeejpdennpjamfb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "22618805-3c40-511d-8f2e-53119bcb6d41",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "begandbbphkigonnfamadjepgimojlmc",
+        "comment": "Video Downloader for Threads | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0154d8ab-fa32-5753-b81f-ba4a8d57178e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/begandbbphkigonnfamadjepgimojlmc",
+        "comment": "Chrome Web Store entry for Video Downloader for Threads (begandbbphkigonnfamadjepgimojlmc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "119558bf-d159-5fe6-b84a-0cce0cd58cda",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kdfapkdbgfgopaakhkbogfhahklhbnlj",
+        "comment": "ChainGuard - Smart Wallet Security | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "26e4ab56-d0a9-5aaa-9e2d-60310c675bbd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kdfapkdbgfgopaakhkbogfhahklhbnlj",
+        "comment": "Chrome Web Store entry for ChainGuard - Smart Wallet Security (kdfapkdbgfgopaakhkbogfhahklhbnlj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "624e24d5-9294-54c4-8125-ddd43ec77aff",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hfanekcillppdgbmiakiiledobkonann",
+        "comment": "Wallet Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "656e116b-a964-5093-b393-efc52f11984a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hfanekcillppdgbmiakiiledobkonann",
+        "comment": "Chrome Web Store entry for Wallet Tracker (hfanekcillppdgbmiakiiledobkonann)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8a19b609-52f9-5b61-95e4-e996e68e5a11",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bbjcdpjihbfmkgikdkplcalfebgcjjpm",
+        "comment": "ModResponse - Mock and replay API | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "38cbaf15-6955-519f-b7c9-6565c113c6f8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bbjcdpjihbfmkgikdkplcalfebgcjjpm",
+        "comment": "Chrome Web Store entry for ModResponse - Mock and replay API (bbjcdpjihbfmkgikdkplcalfebgcjjpm)",
+        "distribution": "5"
+      },
       {
         "uuid": "a273312a-970e-5a45-a5e2-16ef0c24ab14",
         "type": "text",
