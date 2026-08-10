@@ -1,5 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| kdjodnmaccmgolnafplcmcffcdkblhhe | ELIA IA CRM PREMIUN | Policy Violation |  | 10/08/26 | No | Google Chrome
+| lbcbfghekmmilfgcppgedjnojdpnnecg | ELIA IA CRM | Policy Violation |  | 10/08/26 | No | Google Chrome
+| lgioohiljciagplmndfbdcgknagpjomn | ELIA IA CRM | Policy Violation |  | 10/08/26 | No | Google Chrome
+| fcifijhhhnnefenhamclpleebppemjko | ELIA IA CRM PRO | Policy Violation |  | 10/08/26 | No | Google Chrome
+| bbpaidcnfhlinfklpfnjgcklncjhdddf | ELIA IA CRM | Policy Violation | Store Monitoring | 10/08/26 | No | Google Chrome
+| iencnldooelegncobmkkcdnkdaijkjob | beIN SPORTS Türkiye | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 10/08/26 | No | Google Chrome
+| emiklbjioldhimlgpcembkhdabhjbehh | Fenerbahçe SK Anasayfa | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 10/08/26 | No | Google Chrome
+| dabhnmecpbkofnmafgplelcdnglfdgnd | The Vaccines | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 10/08/26 | No | Google Chrome
+| ddngakojenccegjjdolkefpackiljlof | West Bromwich Albion FC | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 10/08/26 | No | Google Chrome
+| aemgdkbmkaafofemchfpagabknlcjfcc | Beşiktaş JK Anasayfa | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 10/08/26 | No | Google Chrome
 | hehogcncjijpiaflkjnkiilbfncghgep | Aiq Web3 Wallet | Malware | Store Monitoring | 10/08/26 | No | Google Chrome
 | dkonkehmngnpbapnlmjffpjfohbnhmgc | Cloud Screen - screenshots quickly | Bundling Unwanted Software | Store Monitoring | 10/08/26 | No | Google Chrome
 | hklalgdfhgmdcigmepbjpaojbppefdjm | Alpenverein Edelweiss | Policy Violation | Store Monitoring | 10/08/26 | No | Google Chrome
