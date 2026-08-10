@@ -1,5 +1,17 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hehogcncjijpiaflkjnkiilbfncghgep | Aiq Web3 Wallet | Malware | Store Monitoring | 10/08/26 | No | Google Chrome
+| dkonkehmngnpbapnlmjffpjfohbnhmgc | Cloud Screen - screenshots quickly | Bundling Unwanted Software | Store Monitoring | 10/08/26 | No | Google Chrome
+| hklalgdfhgmdcigmepbjpaojbppefdjm | Alpenverein Edelweiss | Policy Violation | Store Monitoring | 10/08/26 | No | Google Chrome
+| adjfokockflbafjkfhcnlkolebapoohl | REVM — Solana DEX Scanner | Policy Violation | Store Monitoring | 10/08/26 | No | Google Chrome
+| iaonookehgfokaglaodkeooddjeaodnc | Ig Video Downloader Socia | Policy Violation | Store Monitoring | 10/08/26 | No | Google Chrome
+| ioecfbnnabgmgfnchjjjdekgcnjcnild | Uniswap Pools — Live Posi | Malware | Store Monitoring | 10/08/26 | No | Google Chrome
+| anjjjejkcbhecfglcoomeoeoddjmpmcc | Full Res Insta | Policy Violation | Store Monitoring | 10/08/26 | No | Google Chrome
+| akfncdehnlejcndnekeejpdennpjamfb | Pineapple Breeze | Bundling Unwanted Software | Store Monitoring | 10/08/26 | No | Google Chrome
+| begandbbphkigonnfamadjepgimojlmc | Video Downloader for Threads | Bundling Unwanted Software | Store Monitoring | 10/08/26 | No | Google Chrome
+| kdfapkdbgfgopaakhkbogfhahklhbnlj | ChainGuard - Smart Wallet Security | Policy Violation | Store Monitoring | 10/08/26 | No | Google Chrome
+| hfanekcillppdgbmiakiiledobkonann | Wallet Tracker | Malware | Store Monitoring | 10/08/26 | No | Google Chrome
+| bbjcdpjihbfmkgikdkplcalfebgcjjpm | ModResponse - Mock and replay API | Bundling Unwanted Software | Store Monitoring | 10/08/26 | No | Google Chrome
 | gmbgjcgofehpjebdapbndhbhnpcddaia | Hedera Defi Web3 | Policy Violation | Store Monitoring | 09/08/26 | No | Google Chrome
 | fnkbnfbbpaokkljhhgijlaldocgocmpm | Logisflow CôNg Cụ đặT HàN | Policy Violation | Store Monitoring | 09/08/26 | No | Google Chrome
 | dfklnfbonmmeadolkpbhidfldnhlemja | Baikal Journey | Bundling Unwanted Software | Store Monitoring | 09/08/26 | No | Google Chrome
