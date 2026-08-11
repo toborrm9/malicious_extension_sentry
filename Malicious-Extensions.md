@@ -1,5 +1,37 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| alnghmankifcobbbohcpakgkcpkmnfke | 1Vpn — приватный Vpn для | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| cimppnpmamlndpkhpnfhnfojmpphfene | Whatsapp Bulk Messenger | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| pigjpkkagaeijfppdcjnkfghppiehfnc | 1Vpn — надежный Vpn для C | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| lobiadjfmkomemokdfhiaaaidgdhcded | Ultimate Color Picker | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| fdjdkailnhchpjljogdhhodjbaoagapk | 1Vpn надежный Vpn для Chr | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| hfjaajpelopcfagamhdgglcbfkdbigjj | Instagram Dm Sound Notifi | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| hdmjijcododdikjeibeneigchpaeoebk | Whatsapp Web Status Saver | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| mijdciieliebbecpchpbaamnmkdhjpbg | Whatsapp To Pdf Exporter | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| imljojdmooablaopibomkkodhhdcoobo | Ledger Portfolio Viewer | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| ffchkplgckcjldihopdmaojdafifokfd | 1Vpn работает в рф быстры | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| dmgobcngihcgpgkbpcaielbjnjikamac | 1Vpn рабочий Vpn для Chro | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| dknadlifcokcbcfbapammblhiamngkgn | 1Vpn умный быстрый впн дл | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| emfgclpajdglgbbjebgchippfdlolcen | Whatsexport Whatsapp Grou | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| okmophnnanmoeehcjckmhchfbccdjlek | Whatsapp Status Downloade | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| pedpedgfjdipjofocbelgndleegknapc | 1Vpn | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| khemilhafiaadeomfbagpkjnobinlpki | Clean Facebook | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| fomdmfbdhdfifcljbmeaikhbeahdldbi | Facebook Ad Library Downl | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| idcomkdhhebbpnignimgfggphneepmke | Tele Go Sender – Telegram | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| fdpohaocaechififmbbbbbknoalclacl | Gofullpage Full Page Scre | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| ecgoocindeffodaifgeejamcilbfiokg | Gram Snap | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| icgnidcfkkhphgjooccokclmgjiiefpa | Insta Leads 20 | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| ddmjmbkgdcknajaomkmpmonaeafgkdhn | Casarc Wallet | Malware | Store Monitoring | 11/08/26 | No | Google Chrome
+| hlhlhnljmpnlemcoolddlpoofjmkcgmf | 1Vpn — бесплатный Vpn для | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| nfjhbklhndmfkcbbbpflojohepcmaoec | Whatsapp Contacts Extract | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| pfpohepbjnhnebohjdgopbccmecfomkm | Viewers Facebook Profile | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| nchghnaahdllgkgobmppafdnhhahpimf | 1Vpn | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| blkonmamoemobkmhmhpmffefmdmokpac | Whatsapp Export Mensagens | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| ihomfaegplajipljjjaddkhlenbnnpmh | Papermode For Pancakeswap | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| afmjmkbkjlohbjhjocdinioafkbcipen | Instastack – Social Toolk | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| lheoimoajhepjacnhipifocadbmfgkdn | 1Vpn — бесплатный Vpn для | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| hnjimlofpddkhkjdobibpoakphdnjpkb | Nexhiro Connector | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
+| mhakfkgnolealbadpcfjghmjlbiflhnb | Mullvad Vpn — конфиденциа | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
 | kdjodnmaccmgolnafplcmcffcdkblhhe | ELIA IA CRM PREMIUN | Policy Violation |  | 10/08/26 | No | Google Chrome
 | lbcbfghekmmilfgcppgedjnojdpnnecg | ELIA IA CRM | Policy Violation |  | 10/08/26 | No | Google Chrome
 | lgioohiljciagplmndfbdcgknagpjomn | ELIA IA CRM | Policy Violation |  | 10/08/26 | No | Google Chrome
@@ -4802,7 +4834,7 @@
 | ncbknoohfjmcfneopnfkapmkblaenokb | Vytal – Spoof Timezone, Geolocation, Locale and security | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | Yes | Google Chrome
 | ggjlkinaanncojaippgbndimlhcdlohf | PaperPanda — Get millions of research papers | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | Yes | Google Chrome
 | eekibodjacokkihmicbjgdpdfhkjemlf | InteractiveFics | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | Yes | Google Chrome
-| eggegjdejilddmnlglakcaigefefcdaf | InteractiveFics | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | No | Google Chrome
+| eggegjdejilddmnlglakcaigefefcdaf | InteractiveFics | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | Yes | Google Chrome
 | cehifnkfcddaeppdajpfldbpommggaca | Kahoot Hacker | Removal reason Unknown | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | No | Google Chrome
 | ooobfpifjkgeopllkalfgkbiefhooggl | Blooket Hacker Pro | Removal reason Unknown | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | No | Google Chrome
 | gmmhcbmmnclgmmjimiiefhiagmpamdlb | Edit anything - Boost any page | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 | Yes | Google Chrome
