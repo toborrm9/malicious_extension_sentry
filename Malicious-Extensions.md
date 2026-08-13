@@ -1,5 +1,29 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hdmcfmghdhmkemkeamhigjchdjejgiel | Tiktok Downloader | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| onhanogbmibbnfoblmjocadkjlddaiie | Whatsapp Number Extractor | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| hahcppliifnobphjgffcnheoapcidlid | Trustweb3 Wallet | Bundling Unwanted Software | Store Monitoring | 12/08/26 | No | Google Chrome
+| dledadiamhjdjbnbkbolacccpjgfmeei | тRust GаS | Bundling Unwanted Software | Store Monitoring | 12/08/26 | No | Google Chrome
+| dfibnhdlcmncljbnpebhhnalmgbebdim | меTамаSк роrtfоliо DаShbo | Bundling Unwanted Software | Store Monitoring | 12/08/26 | No | Google Chrome
+| ekhlmnbgnfmphcdgehlhmfkcdfafobbp | Pdf Text Search | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| nimikiilhpbiameocklgijbipgpfknne | Side App | Malware | Store Monitoring | 12/08/26 | No | Google Chrome
+| pjdohjjigjakcejjmhjhaedndbkmgfhh | Whatsapp Chat Backup Extb | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| dhfeegidmgdoeklkmleapiobinllbnhk | Whatsapp Contacts Exporte | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| emdlogdolhnnnnkdeljpakiedblloeea | Gitlab No Merge By Self | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| jlccacgoabpcknjkeobphcamgjhfpbgi | нпу проф підготовка асист | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| emanipabjlmphigbonmlpoafjigaddla | Whatsapp Web Chat Backup | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| hbiehebkidnfifekbihbangdnkcefckm | Tiktok Video Downloader | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| hhchialienmeelanhfajjknfomilkblm | Ig User Track | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| kgadngdilcacnebiddcejhilmpnjmnnl | Github Editor Zen Mode | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| eanlpgpbgljmppfocoafepfeihlmbdmo | Gitlab And Github Textare | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| glpeoihkdbnokamgcgfgffngmljkdggd | Whatsapp Chat Export Down | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| ebdclkeniaellblpeklcaioecgepdbjl | Tiktok Batch Downloader | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| nfmlkliedggdodlbgghmmchhgckjoaml | Spotify Ad Blocker Blocki | Malware | Store Monitoring | 12/08/26 | No | Google Chrome
+| jplfoohkminficpdmiipkekbcdhdgibp | Whatsapp Chats Backup Bac | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| ocbbkaolceahmmdacfaikglpjnnebkeh | Tiktok Video Downloader N | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| bkllfnjjlpmoabfjogadjbombphbnjhg | Labs οkx Web3 | Bundling Unwanted Software | Store Monitoring | 12/08/26 | No | Google Chrome
+| npckkhjlngoockcahmkolebffilmogaa | Whatsapp Export Contacts | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
+| ajdbgmbocaibnalhajgioknonbaoaila | тRеZоr SuіTе Dashboard | Bundling Unwanted Software | Store Monitoring | 12/08/26 | No | Google Chrome
 | alnghmankifcobbbohcpakgkcpkmnfke | 1Vpn — приватный Vpn для | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
 | cimppnpmamlndpkhpnfhnfojmpphfene | Whatsapp Bulk Messenger | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
 | pigjpkkagaeijfppdcjnkfghppiehfnc | 1Vpn — надежный Vpn для C | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
