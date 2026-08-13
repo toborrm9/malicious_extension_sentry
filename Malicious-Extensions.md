@@ -1,5 +1,59 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| fkbdamdaoheghmjnldfbicfmgpppeffd | Coin Screener Live Crypto | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
+| pjdnlfngobfhkeblmilaepfaohmhilmp | Whatsapp Scraper Export G | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
+| beegkppfeeiogaaoipeooedoognlmmmn | Whiteowl Side Panel | Malware | Store Monitoring | 13/08/26 | No | Google Chrome
+| pnnnkmppkdikdapedkpnhdphlajkkmgd | Whatsapp Group Contacts E | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
+| cdmhpjjhnamicehbdojmlnnodfcgnehn | Modulr Wallet | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
+| geiihllockndoolainomkdpdkkklmmnm | Bitsafira Conector Whatsa | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
+| ocmfdaiphdfkenjopapohofnidpcjcdl | Whatsapp Exporter Export | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
+| aiafdbjfhpepmkfenipgajlccegdekhb | Whatsapp Status Downloade | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
+| pfjmmolepmnahcgkllpghjljckfceped | Wa Zap CRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| pbmamapophlbilpebhgnoehifkjpdbla | Fluxo de Vendas: Chatbots e Funis para Automação no WhatsApp | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| ohibhgeifebcakbamnjejmiacfpdcfcj | Zeepower | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| ogckebjiloagfejjlfbengnojollodok | MkZap | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| ofpfpnpgkibkonfjoghmnficjkjbejld | Ultra Zap | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| nomnnfchhlokbbdgbejhbnflmmajnlbf | Ycone | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| nmeanacecjaeehhnllemepiamnnjjnai | MestreZap | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| mdeaegfppbmpljfffjnjnjeommoblmgo | ZapForce | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| lonkdibaepflfbfdkfeejjjekonnpfeb | Myboot | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| klieoamgkjdifblmnpeoeadgldlhglap | Sellerwork | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| kkhbcdgijplfpiblhdpapoianmiakinf | RoboZapp | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| kgeoaboengoploflchdggbnccnihbgdl | DBX Whats: Automação, CRM e Chatbot para Vendas no WhatsApp Web | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| kapcccinheakeipidaaochjncmkecool | Maiq | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| kagfhgkohdbolahilhojelmfnlmkaoml | Biz Sale Chat & CRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| gonmakbkkncdgejaigbfmghibjfodlbl | Conectadus CRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| gepjikckcmlklakiniglifgbldceeddn | Projeta Zap | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| fnepmeaeejjjdbldkdmkcgjiibdjkpll | ATENDO DO ZAP | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| fbemdjfgkgelekpahnmkjpokgjgbaalh | FLOW 5.0 | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| encjmpakgahilbjfjopbcihjdepnaain | VEXA INOVAÇÃO | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| dndghkdbfjemnphakkneamfgdogapome | Zaplyn | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| djfbpkgafgcknijjgmoldomghdemdjad | Converzap | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| cccjliinaicnnekojhijooohoadnlafa | Zap Gestor CRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| bnhpnlfigdbfgohmihdljbggimddocga | ZapForce | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| bagcdfmmpkeajdkjepfebgobnkebdmep | À Venda - CRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| annkmbjplpkcmlgdcmlafodkcfhnggfo | ZapyPrime | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| amkjgolajakcmcbfehdgifahpnncnldb | Cresça & Apareça CRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| gjnkcmipmfefifmlabnljnpcikmngooo | Zap4Biz: Automação, CRM e Chatbot para WhatsApp Web | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| copnaadapceaedmofpjahmjpinbnkeeh | FQ Sales CRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| ejneoebfkhbnoojphdpbijbpaabplmhj | Nexus CRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| dedjgblojekhdhcoilnidmjedicmojao | ChatBlink - CRM no WhatsApp, Automações e Ferramentas. Piscou, vendeu! | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| ckknpnhlibplhgffgchcgjadedcmkecb | WaveZap CRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| jdihogecojffhidcdpcnpgbbegaeofnj | IMPAR CRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| kcenbgdhbonmleimiamngcdfflinldpf | Discord Exporter Chat Att | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| fmjcdfedpdpgegomehbbdakblcdnkdfj | Whatsapp Contacts Exporte | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| hkedgndilpkicenklokipnpbfjcheddo | Twitterx Exporter Export | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| ipbgdicbhbblkaabpgkhkhebjjfdcbah | Whatsapp Number Generator | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| fejalehlkcncbmmaeljpnjdffjjkildd | Fliphtml5 Anyflip Downloa | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| gbfehnilmikecbbenafhoceeckfpoojh | Whatsapp Scraper Bulk Sen | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| lgpapkgacdhaanjgeejfknognambcajb | Whatsapp Bulk Message Sen | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| foeccfenpiledeklckhgialmcefbeklp | Igget Ig Follower Exporte | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| dcmoiapnniffbbfhdkmnkbfcmkehncai | Unfollower Follower Track | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| flajofocffjkodopeacjapoldohhoehd | Crm Telera | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| hcbmhiibnoenkpgmihciloccgpmjaieb | Uai Leads | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| mipfmofneacpfhohdhnhckeicnckiocp | Zaply Seller | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| njmdodlbgdmkbohhamcpjfkmkognedbb | Wazio | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
+| hpfmfjmhhkfpcedjikogphkfacokfagh | Agência Do Vale | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 13/08/26 | No | Google Chrome
 | jhkglpiffjbeanebmbbceoajfinekgom | Dazcheck | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
 | bmkapdbmhpmkfpcdcmghcbjilkkodlbd | Bridge In The Clouds | Bundling Unwanted Software | Store Monitoring | 13/08/26 | No | Google Chrome
 | ebfcgecofpmmgaclknhonkakgebljkop | Forkwallet | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
