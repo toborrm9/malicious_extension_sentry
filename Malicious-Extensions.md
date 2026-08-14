@@ -1,5 +1,14 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ihnbkefpjapeogbdmamjgbhkihgchcim | Alô Ia | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| nhhighgihjikmgelmbpfblfcdeegbcmd | Halfcut Saving Rainforest | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| ilhnnmiaoeiogojmdgokibkngmmadmoo | Hyperdock | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| fhkhplppblkmbfcchfjaagmkanipjlen | Whatsapp Automation Tool | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| iaiagdbpgmjabfpedoldelapnjpiihnc | Free Tiktok Video Downloader | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| fmddmkljdoldnamgllhdidhkfhhjmkmm | Tiktok Bulk Video Downloader | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| ileggckmpfmboofdnghohcgcppdcklfd | Wa Autom Messenger Whatsapp | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| kikcdpgchoekchbebehamppncfphmfad | Base Earn | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| lmcgngnnonmkpendfjklelgoonofbgnd | TikTok Mate - AI CODEX & Analytics & Downloader | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | fkbdamdaoheghmjnldfbicfmgpppeffd | Coin Screener Live Crypto | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
 | pjdnlfngobfhkeblmilaepfaohmhilmp | Whatsapp Scraper Export G | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
 | beegkppfeeiogaaoipeooedoognlmmmn | Whiteowl Side Panel | Malware | Store Monitoring | 13/08/26 | No | Google Chrome
