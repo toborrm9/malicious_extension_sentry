@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-13",
-    "timestamp": "1786665022",
+    "date": "2026-08-14",
+    "timestamp": "1786706318",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,267 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "1b19070f-506d-5deb-896d-7e07c3200f87",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ihnbkefpjapeogbdmamjgbhkihgchcim",
+        "comment": "Al\u00f4 Ia | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "19e9de41-1857-56f6-be09-d8a07ecc4cd5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ihnbkefpjapeogbdmamjgbhkihgchcim",
+        "comment": "Chrome Web Store entry for Al\u00f4 Ia (ihnbkefpjapeogbdmamjgbhkihgchcim)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b1f86d61-ffe9-5ed0-87c7-1bb820fa462f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nhhighgihjikmgelmbpfblfcdeegbcmd",
+        "comment": "Halfcut Saving Rainforest | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b1ace8cf-c461-59ad-a27b-0a0ccf397a5e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nhhighgihjikmgelmbpfblfcdeegbcmd",
+        "comment": "Chrome Web Store entry for Halfcut Saving Rainforest (nhhighgihjikmgelmbpfblfcdeegbcmd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "38445ddc-c28b-54cf-99bc-243c1619fc16",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ilhnnmiaoeiogojmdgokibkngmmadmoo",
+        "comment": "Hyperdock | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "56369a34-dde0-5bf1-9929-0952687929af",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ilhnnmiaoeiogojmdgokibkngmmadmoo",
+        "comment": "Chrome Web Store entry for Hyperdock (ilhnnmiaoeiogojmdgokibkngmmadmoo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4d0d5a87-f3e8-50a8-9b69-81fe0b38d703",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fhkhplppblkmbfcchfjaagmkanipjlen",
+        "comment": "Whatsapp Automation Tool | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b0d0936d-75a4-55f6-940f-a833aa215c7f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fhkhplppblkmbfcchfjaagmkanipjlen",
+        "comment": "Chrome Web Store entry for Whatsapp Automation Tool (fhkhplppblkmbfcchfjaagmkanipjlen)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ea7e25af-02fa-5e0e-818c-d60df94d1e95",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iaiagdbpgmjabfpedoldelapnjpiihnc",
+        "comment": "Free Tiktok Video Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f2675b02-26c1-5b51-ab06-954e16527c26",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iaiagdbpgmjabfpedoldelapnjpiihnc",
+        "comment": "Chrome Web Store entry for Free Tiktok Video Downloader (iaiagdbpgmjabfpedoldelapnjpiihnc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e7fb0581-973a-5f50-9d55-5560eaceb800",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fmddmkljdoldnamgllhdidhkfhhjmkmm",
+        "comment": "Tiktok Bulk Video Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d3eef853-6796-5fed-bc52-944dee5f9db5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fmddmkljdoldnamgllhdidhkfhhjmkmm",
+        "comment": "Chrome Web Store entry for Tiktok Bulk Video Downloader (fmddmkljdoldnamgllhdidhkfhhjmkmm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7c1d5a76-556a-5814-86e5-9a1f85ef7a9c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ileggckmpfmboofdnghohcgcppdcklfd",
+        "comment": "Wa Autom Messenger Whatsapp | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3e1050bf-d806-5c30-8689-7159ec60f0ce",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ileggckmpfmboofdnghohcgcppdcklfd",
+        "comment": "Chrome Web Store entry for Wa Autom Messenger Whatsapp (ileggckmpfmboofdnghohcgcppdcklfd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ea8c3ee1-44bc-5931-bfb8-a4ab29c68cb4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kikcdpgchoekchbebehamppncfphmfad",
+        "comment": "Base Earn | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d55f677d-b9b6-5187-a96e-abb0e674b5b4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kikcdpgchoekchbebehamppncfphmfad",
+        "comment": "Chrome Web Store entry for Base Earn (kikcdpgchoekchbebehamppncfphmfad)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e42adbd5-38dc-5ec5-835d-2bef8508c3e3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lmcgngnnonmkpendfjklelgoonofbgnd",
+        "comment": "TikTok Mate - AI CODEX & Analytics & Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "96df536c-8ae9-5016-a2c0-d834292f20a3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lmcgngnnonmkpendfjklelgoonofbgnd",
+        "comment": "Chrome Web Store entry for TikTok Mate - AI CODEX & Analytics & Downloader (lmcgngnnonmkpendfjklelgoonofbgnd)",
+        "distribution": "5"
+      },
       {
         "uuid": "7215ec60-7882-5080-9329-207ed881983c",
         "type": "text",
