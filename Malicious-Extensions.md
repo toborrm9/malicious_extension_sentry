@@ -1,5 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| heeinfaehfpohkjmneeaimdafeecebah | Hope Generator | Bundling Unwanted Software | Store Monitoring | 15/08/26 | No | Google Chrome
+| bchioacfcjhecnkpacgaeeahboimfloe | Claimx Wallet | Policy Violation | Store Monitoring | 15/08/26 | No | Google Chrome
+| kcpjmfgfjglnkkklpfnlkmbhkndmplfc | Gic Wallet Pro | Bundling Unwanted Software | Store Monitoring | 15/08/26 | No | Google Chrome
+| ppcnenbpoiidkikcfofneihmjcnillpn | Velvet Rose Bloom | Bundling Unwanted Software | Store Monitoring | 15/08/26 | No | Google Chrome
+| mnoekldnofkiblbmgdakgkdkbemlofkd | Genius Invite | Policy Violation | Store Monitoring | 15/08/26 | No | Google Chrome
+| megonkedidbhgokacgilpjmhlbbhanck | Nexus Ai All In One Ai As | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| lnmjfobfmnphfokonmdmaimblmdhaddi | Sanzap Automatize Seu Ate | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| hoopocgmbiaojlinfaaobhjipbfpghik | Sblso | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| pkoccklolohdacbfooifnpebakpbeipc | Enable Right Click Copy — | Malware | Store Monitoring | 14/08/26 | No | Google Chrome
+| hnpiljfmekfjeaolnojfgblonmgekago | Leadian | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| ccgfdpcandaoolokmfcmjdmfklcnbeki | Orange Wallet | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | ihnbkefpjapeogbdmamjgbhkihgchcim | Alô Ia | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | nhhighgihjikmgelmbpfblfcdeegbcmd | Halfcut Saving Rainforest | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | ilhnnmiaoeiogojmdgokibkngmmadmoo | Hyperdock | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
@@ -491,6 +502,7 @@
 | okbfoojfcbleiaoobmeapkldikmfjhnk | F.B Downloader (SaveF) | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | nboghekiocdfojdklcbpfnnoaeffaacm | Instagram Downloader Down | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
 | hiciefbofiaokacpdckgddnaeagjjjkf | Instagram Lead Scraper Pro | Policy Violation | Store Monitoring | 04/08/26 | No | Google Chrome
+| hohnofgiopagfojkjalkjkgogpkjghpe | Smartreach Task Manager | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
 | lpdaophgnbbnilmebblhpbmnaaomlaod | Astro Wallet | Policy Violation | Store Monitoring | 03/08/26 | No | Google Chrome
 | ecllgdfkamjfebkldhghpfpkheedkldl | Fashion Background Pictures New Tab | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/08/26 | No | Google Chrome
 | njincahdjloohmjeonojgjeihkgbjfko | USPS Tracking | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/08/26 | No | Google Chrome
