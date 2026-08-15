@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-14",
-    "timestamp": "1786706318",
+    "date": "2026-08-15",
+    "timestamp": "1786818033",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,325 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "a5b8e9ee-01a7-5302-93d0-9237b0a80c97",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "heeinfaehfpohkjmneeaimdafeecebah",
+        "comment": "Hope Generator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "592fa1ad-7a19-542e-a1a3-84dc54d7f8c9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/heeinfaehfpohkjmneeaimdafeecebah",
+        "comment": "Chrome Web Store entry for Hope Generator (heeinfaehfpohkjmneeaimdafeecebah)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fdab1a7d-c603-5740-a33f-2c485e1b155d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bchioacfcjhecnkpacgaeeahboimfloe",
+        "comment": "Claimx Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d049cf2a-0e39-5106-81f6-01434fbf06dc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bchioacfcjhecnkpacgaeeahboimfloe",
+        "comment": "Chrome Web Store entry for Claimx Wallet (bchioacfcjhecnkpacgaeeahboimfloe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8e6f44bf-1c4e-5c34-ba14-0ccd6c185808",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kcpjmfgfjglnkkklpfnlkmbhkndmplfc",
+        "comment": "Gic Wallet Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6f59e7fe-e078-54db-9a72-f515e412297f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kcpjmfgfjglnkkklpfnlkmbhkndmplfc",
+        "comment": "Chrome Web Store entry for Gic Wallet Pro (kcpjmfgfjglnkkklpfnlkmbhkndmplfc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d45ec394-0bc3-533f-8b2d-85580da87e7f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ppcnenbpoiidkikcfofneihmjcnillpn",
+        "comment": "Velvet Rose Bloom | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "04a2df30-b254-5235-8ef9-51b1c1bb73fa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ppcnenbpoiidkikcfofneihmjcnillpn",
+        "comment": "Chrome Web Store entry for Velvet Rose Bloom (ppcnenbpoiidkikcfofneihmjcnillpn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "671a3793-43df-5731-8a58-d1dd35acc69b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mnoekldnofkiblbmgdakgkdkbemlofkd",
+        "comment": "Genius Invite | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2de55646-53f7-584a-aa51-ca0733742fb7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mnoekldnofkiblbmgdakgkdkbemlofkd",
+        "comment": "Chrome Web Store entry for Genius Invite (mnoekldnofkiblbmgdakgkdkbemlofkd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "202ef92e-f486-5afb-b2a1-d489bd32a199",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "megonkedidbhgokacgilpjmhlbbhanck",
+        "comment": "Nexus Ai All In One Ai As | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "27177e28-9ec8-52a9-afcc-1b4ffcd120e0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/megonkedidbhgokacgilpjmhlbbhanck",
+        "comment": "Chrome Web Store entry for Nexus Ai All In One Ai As (megonkedidbhgokacgilpjmhlbbhanck)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "10f1aaed-db21-5977-9851-1cba0671913b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lnmjfobfmnphfokonmdmaimblmdhaddi",
+        "comment": "Sanzap Automatize Seu Ate | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2ac950bd-3d46-5d39-bddb-8f07ea07b5c1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lnmjfobfmnphfokonmdmaimblmdhaddi",
+        "comment": "Chrome Web Store entry for Sanzap Automatize Seu Ate (lnmjfobfmnphfokonmdmaimblmdhaddi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5f149f14-be50-547e-9ca0-190284e65545",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hoopocgmbiaojlinfaaobhjipbfpghik",
+        "comment": "Sblso | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ac426211-81f3-5fe4-8ee9-f49d09f0ea84",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hoopocgmbiaojlinfaaobhjipbfpghik",
+        "comment": "Chrome Web Store entry for Sblso (hoopocgmbiaojlinfaaobhjipbfpghik)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0c8510d0-c261-5504-9dbe-835d060fd0aa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pkoccklolohdacbfooifnpebakpbeipc",
+        "comment": "Enable Right Click Copy \u2014 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "03dfad21-4b75-5e9d-8bd3-6bae534b401f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pkoccklolohdacbfooifnpebakpbeipc",
+        "comment": "Chrome Web Store entry for Enable Right Click Copy \u2014 (pkoccklolohdacbfooifnpebakpbeipc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5c9bdec1-6f32-5658-9b2f-d5503ffc4ba5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hnpiljfmekfjeaolnojfgblonmgekago",
+        "comment": "Leadian | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "424162bd-4028-5822-ba92-fd4d4baa6add",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hnpiljfmekfjeaolnojfgblonmgekago",
+        "comment": "Chrome Web Store entry for Leadian (hnpiljfmekfjeaolnojfgblonmgekago)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d0623bf2-579a-5612-9cd4-ddcf04612031",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ccgfdpcandaoolokmfcmjdmfklcnbeki",
+        "comment": "Orange Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a46e84b4-5f41-5d44-8cf0-d7bc50ccfbd9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ccgfdpcandaoolokmfcmjdmfklcnbeki",
+        "comment": "Chrome Web Store entry for Orange Wallet (ccgfdpcandaoolokmfcmjdmfklcnbeki)",
+        "distribution": "5"
+      },
       {
         "uuid": "1b19070f-506d-5deb-896d-7e07c3200f87",
         "type": "text",
@@ -14264,6 +14583,35 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/hiciefbofiaokacpdckgddnaeagjjjkf",
         "comment": "Chrome Web Store entry for Instagram Lead Scraper Pro (hiciefbofiaokacpdckgddnaeagjjjkf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "46e422ae-c758-5499-8351-ab3933d388a7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hohnofgiopagfojkjalkjkgogpkjghpe",
+        "comment": "Smartreach Task Manager | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3609b24e-9e73-5308-9399-d8a56e55a350",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hohnofgiopagfojkjalkjkgogpkjghpe",
+        "comment": "Chrome Web Store entry for Smartreach Task Manager (hohnofgiopagfojkjalkjkgogpkjghpe)",
         "distribution": "5"
       },
       {
