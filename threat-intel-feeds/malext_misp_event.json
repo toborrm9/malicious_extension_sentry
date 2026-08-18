@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-15",
-    "timestamp": "1786818033",
+    "date": "2026-08-18",
+    "timestamp": "1787036158",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,615 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "b2e4b2b5-9787-583c-87ec-d95086653a68",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "baffilaaljkakhloamdjbnfnmamgdeif",
+        "comment": "Adblock Lite Free Ad Bloc | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "332a0da2-0458-51cd-a491-b196b0f0c983",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/baffilaaljkakhloamdjbnfnmamgdeif",
+        "comment": "Chrome Web Store entry for Adblock Lite Free Ad Bloc (baffilaaljkakhloamdjbnfnmamgdeif)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "35d72b31-4b4d-555a-bfd0-05592265bd1b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "okjajaogjmnjdppjhajemaibelnjmpaj",
+        "comment": "Facebook Tools Facebook P | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a33285f1-45c4-5af7-8cc5-4b7d9139cfc8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/okjajaogjmnjdppjhajemaibelnjmpaj",
+        "comment": "Chrome Web Store entry for Facebook Tools Facebook P (okjajaogjmnjdppjhajemaibelnjmpaj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "45136efa-b367-51eb-b262-9d6dad61bb8d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fgfeannafimcaeahgahogephmdjkdnmf",
+        "comment": "Secure Password Generator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bc76723a-7b7f-585f-94bf-a523eee6b91a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fgfeannafimcaeahgahogephmdjkdnmf",
+        "comment": "Chrome Web Store entry for Secure Password Generator (fgfeannafimcaeahgahogephmdjkdnmf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "66717e7f-74ae-5114-b4ce-07ef30ed0139",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ipheamjlmfijfmnlilfgdamehkpahdak",
+        "comment": "Tradingview To Telegram | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3189e7a9-ad52-5cfa-b0de-77ccd495197b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ipheamjlmfijfmnlilfgdamehkpahdak",
+        "comment": "Chrome Web Store entry for Tradingview To Telegram (ipheamjlmfijfmnlilfgdamehkpahdak)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4572f125-5898-57ce-9a92-64dddbedb21a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bdhkoajinjmafjajdbgmdndiibeddppn",
+        "comment": "Whats Messenger | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "dfabc39f-2769-54b9-b4bb-3bd4414b46b3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bdhkoajinjmafjajdbgmdndiibeddppn",
+        "comment": "Chrome Web Store entry for Whats Messenger (bdhkoajinjmafjajdbgmdndiibeddppn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "be4ecde8-c027-554d-b878-7104cdd87e12",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "afmnhhnlbbchngemmabpfgeelbecmlim",
+        "comment": "Free Trial Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1ce5903a-6dcf-5691-9dca-0de1328e6ed8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/afmnhhnlbbchngemmabpfgeelbecmlim",
+        "comment": "Chrome Web Store entry for Free Trial Extension (afmnhhnlbbchngemmabpfgeelbecmlim)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "172ed93b-78bb-5929-8037-ba6f68dc768e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ggllfmjcjphkgfndodgblcpfbbembdma",
+        "comment": "Wa Fast Recruit | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a4f0126e-0843-5dbd-a35d-aed9123ac61e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ggllfmjcjphkgfndodgblcpfbbembdma",
+        "comment": "Chrome Web Store entry for Wa Fast Recruit (ggllfmjcjphkgfndodgblcpfbbembdma)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a2aa7615-aca3-51b8-a0fb-ad5e2d5a281c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "noekegnglokhjbnjhjolnimjeieffmpc",
+        "comment": "Okx Dashboard Web3 Extent | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7e2815ff-7a6d-57d3-a54d-098b75c298a8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/noekegnglokhjbnjhjolnimjeieffmpc",
+        "comment": "Chrome Web Store entry for Okx Dashboard Web3 Extent (noekegnglokhjbnjhjolnimjeieffmpc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ce223591-24f7-54da-b666-2b2e3a982316",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lkglljbhdhdcjlcmfeopmaboidhgilcm",
+        "comment": "Calculatrice Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2cc8e70-c8a3-52bf-b5d1-184c15e5543a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lkglljbhdhdcjlcmfeopmaboidhgilcm",
+        "comment": "Chrome Web Store entry for Calculatrice Extension (lkglljbhdhdcjlcmfeopmaboidhgilcm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d0a72049-d2c3-529d-bbb7-ae4d8e3e30c9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dbmciplpdhfafomegblkbbahplebbbck",
+        "comment": "Facebook Extractor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "648342f8-8de8-5204-b706-efa813330d97",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dbmciplpdhfafomegblkbbahplebbbck",
+        "comment": "Chrome Web Store entry for Facebook Extractor (dbmciplpdhfafomegblkbbahplebbbck)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "226ef429-b8a7-585b-a0f0-67fa6914fda0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ajdebbjbeooifamghmcociacfilnnjke",
+        "comment": "Ficflow Interactive Fanfi | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f5895ec1-541a-50ab-9bea-b56e28f964ba",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ajdebbjbeooifamghmcociacfilnnjke",
+        "comment": "Chrome Web Store entry for Ficflow Interactive Fanfi (ajdebbjbeooifamghmcociacfilnnjke)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "03742a10-1bb7-5df8-838f-028f0045dcf8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lbmehpcifbmhepcibikibdpngpdiclpe",
+        "comment": "Free Trial Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "eda83475-7298-5509-9829-b3642b88b082",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lbmehpcifbmhepcibikibdpngpdiclpe",
+        "comment": "Chrome Web Store entry for Free Trial Extension (lbmehpcifbmhepcibikibdpngpdiclpe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e164d885-632f-56a3-8cb0-100b52418397",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ghghlmhijkhibgebijmhndeigcfnnidl",
+        "comment": "Free Trial Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "70c25efc-03d3-5746-b8a4-c6ad269a31e0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ghghlmhijkhibgebijmhndeigcfnnidl",
+        "comment": "Chrome Web Store entry for Free Trial Extension (ghghlmhijkhibgebijmhndeigcfnnidl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c8031b68-7abc-5c1a-b3ed-1a624d557d71",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "olfbgbikgjlfbmlcoioopfbmoilmfpmj",
+        "comment": "Whatsapp Service | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ef0c442a-a46f-5a8d-a5a2-14399d4675c2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/olfbgbikgjlfbmlcoioopfbmoilmfpmj",
+        "comment": "Chrome Web Store entry for Whatsapp Service (olfbgbikgjlfbmlcoioopfbmoilmfpmj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d655f084-1fd0-5c99-9e09-cfa449335732",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bnolicehjnimmdfkihmojhonickmhegp",
+        "comment": "Ghostape | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0a9ee5ca-3264-519d-b9fd-88bde1e4ba8d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bnolicehjnimmdfkihmojhonickmhegp",
+        "comment": "Chrome Web Store entry for Ghostape (bnolicehjnimmdfkihmojhonickmhegp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6978653e-4bad-58a1-a408-a284e17fe706",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "necnekfjdelopcanglfdlnekdnnmghpf",
+        "comment": "Seo All In One C\u00f4Ng C\u1ee5 Ph | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6a849650-d19d-5e92-9818-86d37ea4feb2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/necnekfjdelopcanglfdlnekdnnmghpf",
+        "comment": "Chrome Web Store entry for Seo All In One C\u00f4Ng C\u1ee5 Ph (necnekfjdelopcanglfdlnekdnnmghpf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "756c8bb9-bc9c-5d31-b723-a2d059a3774e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kkkoejaiilcofkhggclkbogjpinhjppm",
+        "comment": "Ghostape Color Theme Cust | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "72de5333-1e87-5295-8a84-79781e09a613",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kkkoejaiilcofkhggclkbogjpinhjppm",
+        "comment": "Chrome Web Store entry for Ghostape Color Theme Cust (kkkoejaiilcofkhggclkbogjpinhjppm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "48e92b35-d0f3-504b-a9a3-9ea2202ec832",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cemnfjlkkohbfibefnhbfbacenblohom",
+        "comment": "Domain Network Info | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3faf0083-13e6-5012-9cdc-0c36e0a11de2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cemnfjlkkohbfibefnhbfbacenblohom",
+        "comment": "Chrome Web Store entry for Domain Network Info (cemnfjlkkohbfibefnhbfbacenblohom)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5a365bd7-d6be-59a0-94e7-422acd64f813",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "piemickdbnljckmacadfbllbjickjhkh",
+        "comment": "Cyan Pulse | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f47f1311-d706-52b6-ae5d-1dcba43029cf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/piemickdbnljckmacadfbllbjickjhkh",
+        "comment": "Chrome Web Store entry for Cyan Pulse (piemickdbnljckmacadfbllbjickjhkh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "83b317df-c1b1-51e7-ac2a-e919aebaaf04",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cdihfmofmbpemenjpaakdkajhnjibhep",
+        "comment": "Electric Indigo | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6c5c2a04-eee8-5f74-8faa-f0f728d054dc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cdihfmofmbpemenjpaakdkajhnjibhep",
+        "comment": "Chrome Web Store entry for Electric Indigo (cdihfmofmbpemenjpaakdkajhnjibhep)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f450e664-5730-5c19-b3f8-467c2c469693",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cmkgpcadhalbkflgfalnhodgkppppcdl",
+        "comment": "Css Harvestor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f4639007-8165-588b-b1d4-9f4bbced1810",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cmkgpcadhalbkflgfalnhodgkppppcdl",
+        "comment": "Chrome Web Store entry for Css Harvestor (cmkgpcadhalbkflgfalnhodgkppppcdl)",
+        "distribution": "5"
+      },
       {
         "uuid": "a5b8e9ee-01a7-5302-93d0-9237b0a80c97",
         "type": "text",
@@ -170,6 +779,238 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/mnoekldnofkiblbmgdakgkdkbemlofkd",
         "comment": "Chrome Web Store entry for Genius Invite (mnoekldnofkiblbmgdakgkdkbemlofkd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ed8e981d-0be2-5423-a1a4-8c6f41dd6379",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ddpdhpckljlihjgcilgbihdlhhanbbdd",
+        "comment": "Talk Zap Crm | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ba1af91b-ffb8-5bc6-8844-892c298d8f42",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ddpdhpckljlihjgcilgbihdlhhanbbdd",
+        "comment": "Chrome Web Store entry for Talk Zap Crm (ddpdhpckljlihjgcilgbihdlhhanbbdd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a96a805a-6d07-51e0-91cf-3d038d09edd6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ifheapamoameidejkkbboignhflofifj",
+        "comment": "Meta Bizai Tester Backend | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e141348c-fa32-52d1-81ed-9d05d8cf44eb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ifheapamoameidejkkbboignhflofifj",
+        "comment": "Chrome Web Store entry for Meta Bizai Tester Backend (ifheapamoameidejkkbboignhflofifj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d7907498-7896-5584-bc4a-c1e863ebad34",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mjmpppckljipbiclkfdcgagedalogfeo",
+        "comment": "Whatsapp Blur | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "28039e5e-90ec-5d18-995b-5f27564f9f3b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mjmpppckljipbiclkfdcgagedalogfeo",
+        "comment": "Chrome Web Store entry for Whatsapp Blur (mjmpppckljipbiclkfdcgagedalogfeo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b0f42f0e-c989-51ea-a955-2e5f6334a163",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gkfnofaeicjcggdhfddgcpnigngamppk",
+        "comment": "Followfan Onlyfans Follow | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "091061c6-e8c5-5861-900b-b5534171bc8f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gkfnofaeicjcggdhfddgcpnigngamppk",
+        "comment": "Chrome Web Store entry for Followfan Onlyfans Follow (gkfnofaeicjcggdhfddgcpnigngamppk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d2d181de-61c0-5b84-87c3-4d6e2cf78983",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lhmcajhgadanidbopgaoobjlldegjmke",
+        "comment": "Defi Pulse Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "94025d9c-72ae-5c3d-a6da-d64d44b12854",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lhmcajhgadanidbopgaoobjlldegjmke",
+        "comment": "Chrome Web Store entry for Defi Pulse Tracker (lhmcajhgadanidbopgaoobjlldegjmke)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8de58878-1079-5efc-8be9-f431eff6cec0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ahpnnnjbnfbhoikhohglpohnoocjcoco",
+        "comment": "Blockfolio Address Monito | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "35d4ebbd-da5f-56f5-9c8e-dd2b44a8b9f3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ahpnnnjbnfbhoikhohglpohnoocjcoco",
+        "comment": "Chrome Web Store entry for Blockfolio Address Monito (ahpnnnjbnfbhoikhohglpohnoocjcoco)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e82a95b4-6281-5798-945b-03af313552e0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dlbpmpcmedbgknmhanknkankmdnlokdp",
+        "comment": "Dora | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "44bd4595-8500-54d4-8864-641e73a08090",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dlbpmpcmedbgknmhanknkankmdnlokdp",
+        "comment": "Chrome Web Store entry for Dora (dlbpmpcmedbgknmhanknkankmdnlokdp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "447c1035-0c1e-5888-bd61-c1f1c80e86ff",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oeacadlaclegkkkdehjmiifnjhcekclj",
+        "comment": "Crypto Rates Fiat Convert | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4df17d2c-a449-581b-b828-bee2ebb33703",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oeacadlaclegkkkdehjmiifnjhcekclj",
+        "comment": "Chrome Web Store entry for Crypto Rates Fiat Convert (oeacadlaclegkkkdehjmiifnjhcekclj)",
         "distribution": "5"
       },
       {
@@ -605,6 +1446,122 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/lmcgngnnonmkpendfjklelgoonofbgnd",
         "comment": "Chrome Web Store entry for TikTok Mate - AI CODEX & Analytics & Downloader (lmcgngnnonmkpendfjklelgoonofbgnd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2f3170c5-26b0-53a4-925e-387db87697f5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jchmdadlihkhndkddiagaibdemndhajc",
+        "comment": "Whatsapp Status Downloade | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "94ca65b1-53b9-567b-90d4-f7a2d251a60c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jchmdadlihkhndkddiagaibdemndhajc",
+        "comment": "Chrome Web Store entry for Whatsapp Status Downloade (jchmdadlihkhndkddiagaibdemndhajc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "598c4a02-5fd4-592b-9bce-d90308071157",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cpjlhfibbpmfoijdicebahcjeoknpkfh",
+        "comment": "Whatsapp Web File Upload | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fe2dcea0-d9b2-5369-919b-21d53a6258fc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cpjlhfibbpmfoijdicebahcjeoknpkfh",
+        "comment": "Chrome Web Store entry for Whatsapp Web File Upload (cpjlhfibbpmfoijdicebahcjeoknpkfh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "afd8b735-9844-5a9f-b422-0e602cc9f3e9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lnmpgeigaomcfkjmknmbcbidhialnfoe",
+        "comment": "Whatsapp Web Chat List Re | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "77d28750-ab2f-59d2-bc3a-8280725b4af4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lnmpgeigaomcfkjmknmbcbidhialnfoe",
+        "comment": "Chrome Web Store entry for Whatsapp Web Chat List Re (lnmpgeigaomcfkjmknmbcbidhialnfoe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "86065b44-cc1d-55bb-9c33-8c1589a4c6dd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "apilnokcbfedbfdgbmpfljlckbmfadib",
+        "comment": "Yet Another Speed Dial 2 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f0932d81-834d-50f0-b6ac-fd2e46e3dfc5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/apilnokcbfedbfdgbmpfljlckbmfadib",
+        "comment": "Chrome Web Store entry for Yet Another Speed Dial 2 (apilnokcbfedbfdgbmpfljlckbmfadib)",
         "distribution": "5"
       },
       {
@@ -13452,6 +14409,35 @@
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/jhgmgjgdidfjekibeljcooifabiencpe",
         "comment": "Chrome Web Store entry for Kahoot Hacker Solver Web (jhgmgjgdidfjekibeljcooifabiencpe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b5724210-1706-5e7c-8b0a-58e5eb157040",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dajkpjadggkoaiokkdglalnmhgefjlop",
+        "comment": "Merlix | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "04ea381c-4706-5aa8-a892-fd2f9a2e15e2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dajkpjadggkoaiokkdglalnmhgefjlop",
+        "comment": "Chrome Web Store entry for Merlix (dajkpjadggkoaiokkdglalnmhgefjlop)",
         "distribution": "5"
       },
       {
