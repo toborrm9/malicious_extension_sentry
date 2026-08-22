@@ -1,12 +1,111 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-08-21T22:39:43Z",
+  "generated": "2026-08-22T17:37:54Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 5834,
+  "total_indicators": 5865,
   "indicators": [
+    {
+      "extension_id": "pmgjlmmaohcphecmobgildffdhglodog",
+      "name": "A11Ymate Wcag Accessibili",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-22",
+      "store_url": "https://chromewebstore.google.com/detail/pmgjlmmaohcphecmobgildffdhglodog",
+      "sha256": "d68e79666b963389f09b93ef1ecf11e237e96565ffe62099854e3ec61c5c88cc"
+    },
+    {
+      "extension_id": "npcpoajbdjnligahhikeilhclfhngeeb",
+      "name": "Okto Authenticator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-22",
+      "store_url": "https://chromewebstore.google.com/detail/npcpoajbdjnligahhikeilhclfhngeeb",
+      "sha256": "9d997248937fd056063d6a0f4f96b707219b6ace9e9ebe45df72c859c38685b5"
+    },
+    {
+      "extension_id": "cmghehjbjilcfciodcbolemnlcliaofb",
+      "name": "Base Web3 Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-22",
+      "store_url": "https://chromewebstore.google.com/detail/cmghehjbjilcfciodcbolemnlcliaofb",
+      "sha256": "d487518a8a3e52d366fed3e38df7721cf3162ef2c23243a22dad21a38c8b50ad"
+    },
+    {
+      "extension_id": "hakljifdbjcjinlfkmbnecagjmgmlooh",
+      "name": "\u793e\u5a92\u52a9\u624b \u5f00\u6e90\u7248",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-22",
+      "store_url": "https://chromewebstore.google.com/detail/hakljifdbjcjinlfkmbnecagjmgmlooh",
+      "sha256": "db45829c13da2e7318f91f36fed4e6d5a78abcdbbe92c3993badc0edda6ca5b9"
+    },
+    {
+      "extension_id": "kplpldfnoakkffikgddhipmlalipnpkn",
+      "name": "Best Ball Buddy",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-22",
+      "store_url": "https://chromewebstore.google.com/detail/kplpldfnoakkffikgddhipmlalipnpkn",
+      "sha256": "7f069151519d6b71708eda2bb498dd77b60e88a93878403f52823c07d6a24e98"
+    },
+    {
+      "extension_id": "pmgebjbnemdocbbeifkhihkmfaknjhma",
+      "name": "Ig Follower Export Tool",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-22",
+      "store_url": "https://chromewebstore.google.com/detail/pmgebjbnemdocbbeifkhihkmfaknjhma",
+      "sha256": "3226ee03f3cf2d7780c4d7061704a84f0ad1bc0f08aca1ae81081cac230e7cb1"
+    },
+    {
+      "extension_id": "jdhhekjemfpkbhaflblhicfggpanflgf",
+      "name": "Youtube Buddy",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-22",
+      "store_url": "https://chromewebstore.google.com/detail/jdhhekjemfpkbhaflblhicfggpanflgf",
+      "sha256": "e8196f0ca23e8945b6a7cfe721b99387d2729a403bac79bb4b74411625fe8aa4"
+    },
+    {
+      "extension_id": "kppndffkpbpmdfdmkddogmdbbmoffked",
+      "name": "Warpaint Dfs \u2014 Draftkings",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-22",
+      "store_url": "https://chromewebstore.google.com/detail/kppndffkpbpmdfdmkddogmdbbmoffked",
+      "sha256": "a2603575571c4be1b9fd93486fdd6db064b8bb057d3acaea2050aa9f8731ab65"
+    },
+    {
+      "extension_id": "famemgnahjmlemkedbdgapeinjafgpcc",
+      "name": "Axiom War Room",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-22",
+      "store_url": "https://chromewebstore.google.com/detail/famemgnahjmlemkedbdgapeinjafgpcc",
+      "sha256": "41ca3d651abc0a0584cf8dfa6cd30ac2d01b92852bfd784b3c036d98d998f856"
+    },
+    {
+      "extension_id": "mndbakklchddhidoipkgfoainachgiii",
+      "name": "Underdog Caddie",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-22",
+      "store_url": "https://chromewebstore.google.com/detail/mndbakklchddhidoipkgfoainachgiii",
+      "sha256": "9cb9b1a8dc1916f830fe357825c2b91516b4ce9777501396682fb156ecef8c0c"
+    },
+    {
+      "extension_id": "fccbmibpckbciggbfkipcmfobpgdnnlk",
+      "name": "Ig Follower Export Tool",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-22",
+      "store_url": "https://chromewebstore.google.com/detail/fccbmibpckbciggbfkipcmfobpgdnnlk",
+      "sha256": "d5c74d961c28b8002f1e89e0a20a9cbba1a64752adc02055d0f5de079270dc35"
+    },
     {
       "extension_id": "kmcbgcnomlcpngbjaofbgcclibplchea",
       "name": "Instagram Downloader Vide",
@@ -620,6 +719,15 @@
       "sha256": "a78dbc38acf67f83bf158b80130b9803f0db327e6884ddc232c3d78f328ca080"
     },
     {
+      "extension_id": "adjdmjaifoghdepaplgnfkadkdkcgncd",
+      "name": "Ig Reels Post Comments Ex",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-17",
+      "store_url": "https://chromewebstore.google.com/detail/adjdmjaifoghdepaplgnfkadkdkcgncd",
+      "sha256": ""
+    },
+    {
       "extension_id": "bnolicehjnimmdfkihmojhonickmhegp",
       "name": "Ghostape",
       "source": "Store Monitoring",
@@ -753,6 +861,114 @@
       "insert_date": "2026-08-15",
       "store_url": "https://chromewebstore.google.com/detail/mnoekldnofkiblbmgdakgkdkbemlofkd",
       "sha256": "90903a89a3fbb90af3ad998676645867181bac54d66e329cf05022489710fbf2"
+    },
+    {
+      "extension_id": "fffailogmnmehmjjikchagmgeandgifp",
+      "name": "Ig Hashtag Exporter Free",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-14",
+      "store_url": "https://chromewebstore.google.com/detail/fffailogmnmehmjjikchagmgeandgifp",
+      "sha256": ""
+    },
+    {
+      "extension_id": "omkemjhgpkjndbaodphkbcblhlepgilk",
+      "name": "Habitloom",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-14",
+      "store_url": "https://chromewebstore.google.com/detail/omkemjhgpkjndbaodphkbcblhlepgilk",
+      "sha256": ""
+    },
+    {
+      "extension_id": "fifephmoifgenkpjphfkabncphifhmlg",
+      "name": "Bettercomments Ai For You",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-14",
+      "store_url": "https://chromewebstore.google.com/detail/fifephmoifgenkpjphfkabncphifhmlg",
+      "sha256": "4c49b2206886c3e74d903d543683f68a32070cc1ac3cb523f8a748f5fbd6be79"
+    },
+    {
+      "extension_id": "jefegnbojiaffeogmfjglgoacdfibbaf",
+      "name": "Instagram Image Downloade",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-14",
+      "store_url": "https://chromewebstore.google.com/detail/jefegnbojiaffeogmfjglgoacdfibbaf",
+      "sha256": ""
+    },
+    {
+      "extension_id": "lpcmlaeiogmdlfkbamjadfegnmonghok",
+      "name": "Internet Archive Download",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-14",
+      "store_url": "https://chromewebstore.google.com/detail/lpcmlaeiogmdlfkbamjadfegnmonghok",
+      "sha256": "ab83a8bd1ef8db28deae5b2012be5f9af66851a596d1d02722a34d481c5533e3"
+    },
+    {
+      "extension_id": "denhicfhhkekhhklejdafkjboolgdhop",
+      "name": "Vu Assist \u2013 Vu Lms Deadli",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-14",
+      "store_url": "https://chromewebstore.google.com/detail/denhicfhhkekhhklejdafkjboolgdhop",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ggkbabbeajcoacmcgobollpffemnkkll",
+      "name": "Homr Home Bookmark Zillow",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-14",
+      "store_url": "https://chromewebstore.google.com/detail/ggkbabbeajcoacmcgobollpffemnkkll",
+      "sha256": ""
+    },
+    {
+      "extension_id": "olejkcbaojpacndbaoicklebfmogkdlk",
+      "name": "Ig Export",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-14",
+      "store_url": "https://chromewebstore.google.com/detail/olejkcbaojpacndbaoicklebfmogkdlk",
+      "sha256": ""
+    },
+    {
+      "extension_id": "phhljlinhkgkcbgpiomadgmbgpcjhahp",
+      "name": "Ig Hashtags Exporter Pro",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-14",
+      "store_url": "https://chromewebstore.google.com/detail/phhljlinhkgkcbgpiomadgmbgpcjhahp",
+      "sha256": "6d465cf9ebe0f8b04f57be367e98d24f0b187f8954bf8de0ea3ed5a45cb66852"
+    },
+    {
+      "extension_id": "mfdemjihbpojomhhimkifcakpkpcblbo",
+      "name": "Kahoot Hacker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-14",
+      "store_url": "https://chromewebstore.google.com/detail/mfdemjihbpojomhhimkifcakpkpcblbo",
+      "sha256": ""
+    },
+    {
+      "extension_id": "linneellejnckgjhipdkdjpddcjhejme",
+      "name": "Ip Address Finder",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-14",
+      "store_url": "https://chromewebstore.google.com/detail/linneellejnckgjhipdkdjpddcjhejme",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ljmdanhaffhbjbfjocjllhobfnjgljfi",
+      "name": "Apolloio Scraper Export A",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-14",
+      "store_url": "https://chromewebstore.google.com/detail/ljmdanhaffhbjbfjocjllhobfnjgljfi",
+      "sha256": ""
     },
     {
       "extension_id": "kmbfihflegnbopmbocpplfliiedoikdb",
@@ -1122,6 +1338,51 @@
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/lmcgngnnonmkpendfjklelgoonofbgnd",
       "sha256": ""
+    },
+    {
+      "extension_id": "aocnpoeacdkliebfhpelljlncdhaioob",
+      "name": "Instagram Downloader",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-13",
+      "store_url": "https://chromewebstore.google.com/detail/aocnpoeacdkliebfhpelljlncdhaioob",
+      "sha256": "f656f63b7927ee51220c1d54257dc6767cf1c65d2562a74e98990fc076f4b5cb"
+    },
+    {
+      "extension_id": "ndajfpegjbfighkffegpggkldibnheff",
+      "name": "Velvet Helix",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-13",
+      "store_url": "https://chromewebstore.google.com/detail/ndajfpegjbfighkffegpggkldibnheff",
+      "sha256": ""
+    },
+    {
+      "extension_id": "jkeflcjglbnapakmmhcabdgokdjbgpgh",
+      "name": "Tato Sua Melhor Vers\u00e3O Em",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-13",
+      "store_url": "https://chromewebstore.google.com/detail/jkeflcjglbnapakmmhcabdgokdjbgpgh",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ifghdbobdcacioinidakemgegoekheoh",
+      "name": "Rotogrinders Underdog Too",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-13",
+      "store_url": "https://chromewebstore.google.com/detail/ifghdbobdcacioinidakemgegoekheoh",
+      "sha256": ""
+    },
+    {
+      "extension_id": "jbbabmpfeijejfppanomgkboefbbjlbp",
+      "name": "Ticktuner",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-13",
+      "store_url": "https://chromewebstore.google.com/detail/jbbabmpfeijejfppanomgkboefbbjlbp",
+      "sha256": "7c8ad32c99962e98413fccfc599300c228cb9a0a1c68082c7683af7f581626dd"
     },
     {
       "extension_id": "pdfljehjkbbacjbgnocamgcllobmfocc",
@@ -3968,6 +4229,15 @@
       "sha256": "64f53534dd45f339b920e07522fd1e1bafcf9a9aac409f785dc1ff00c6574c21"
     },
     {
+      "extension_id": "glajkljjbfbiangbaolkeliobaimmdil",
+      "name": "Underdog Bestball Overlay",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-08",
+      "store_url": "https://chromewebstore.google.com/detail/glajkljjbfbiangbaolkeliobaimmdil",
+      "sha256": ""
+    },
+    {
       "extension_id": "jhbdjdfjebflcoajbgefnpppfdbfbmnn",
       "name": "Chatgpt For Browser",
       "source": "Store Monitoring",
@@ -4965,6 +5235,15 @@
       "insert_date": "2026-08-06",
       "store_url": "https://chromewebstore.google.com/detail/algmnkojdaigpfoopbkibofjikmkdjei",
       "sha256": "14c41d20a2e0eeed063e7ad48cc6d65b2f279271fbc7a8214c9bb91dd1437237"
+    },
+    {
+      "extension_id": "ncedobmamfgfiphhpgbadnmhapafipan",
+      "name": "No Ai Facebook",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-05",
+      "store_url": "https://chromewebstore.google.com/detail/ncedobmamfgfiphhpgbadnmhapafipan",
+      "sha256": ""
     },
     {
       "extension_id": "nbpheppbncjcimpgjgdofifdfnoagpnf",
