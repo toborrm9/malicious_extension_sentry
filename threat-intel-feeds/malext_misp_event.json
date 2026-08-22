@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-21",
-    "timestamp": "1787351984",
+    "date": "2026-08-22",
+    "timestamp": "1787420275",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,479 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "aa6c1431-dba5-5af5-87de-5203dc7af882",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pmgjlmmaohcphecmobgildffdhglodog",
+        "comment": "A11Ymate Wcag Accessibili | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "01d5db7a-baad-5d7b-b373-6699f9c77ba5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pmgjlmmaohcphecmobgildffdhglodog",
+        "comment": "Chrome Web Store entry for A11Ymate Wcag Accessibili (pmgjlmmaohcphecmobgildffdhglodog)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "26104661-c07c-521b-9b58-6f157563e1cb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d68e79666b963389f09b93ef1ecf11e237e96565ffe62099854e3ec61c5c88cc",
+        "comment": "SHA-256 of extension package for A11Ymate Wcag Accessibili (pmgjlmmaohcphecmobgildffdhglodog)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2395920-aef1-5aeb-bb02-d12302b46b65",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "npcpoajbdjnligahhikeilhclfhngeeb",
+        "comment": "Okto Authenticator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f9590cfc-d4be-54ec-b305-fec763742a47",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/npcpoajbdjnligahhikeilhclfhngeeb",
+        "comment": "Chrome Web Store entry for Okto Authenticator (npcpoajbdjnligahhikeilhclfhngeeb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7db57eab-4ce9-5a51-a00a-ce7651e5786a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9d997248937fd056063d6a0f4f96b707219b6ace9e9ebe45df72c859c38685b5",
+        "comment": "SHA-256 of extension package for Okto Authenticator (npcpoajbdjnligahhikeilhclfhngeeb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d1084e0d-8105-5760-8ff0-82cb3e5be27e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cmghehjbjilcfciodcbolemnlcliaofb",
+        "comment": "Base Web3 Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ff3612e9-c187-5a89-a612-a6af9bece57a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cmghehjbjilcfciodcbolemnlcliaofb",
+        "comment": "Chrome Web Store entry for Base Web3 Extension (cmghehjbjilcfciodcbolemnlcliaofb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9969e763-d25d-5114-ba98-948a1461346a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d487518a8a3e52d366fed3e38df7721cf3162ef2c23243a22dad21a38c8b50ad",
+        "comment": "SHA-256 of extension package for Base Web3 Extension (cmghehjbjilcfciodcbolemnlcliaofb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "132e7317-09d0-581b-8236-4c8a1097bab8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hakljifdbjcjinlfkmbnecagjmgmlooh",
+        "comment": "\u793e\u5a92\u52a9\u624b \u5f00\u6e90\u7248 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "658c29c9-4b02-550b-857a-7cb604512cfd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hakljifdbjcjinlfkmbnecagjmgmlooh",
+        "comment": "Chrome Web Store entry for \u793e\u5a92\u52a9\u624b \u5f00\u6e90\u7248 (hakljifdbjcjinlfkmbnecagjmgmlooh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9afd2e90-0dac-5b24-a88b-bea8b9c1ca6b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "db45829c13da2e7318f91f36fed4e6d5a78abcdbbe92c3993badc0edda6ca5b9",
+        "comment": "SHA-256 of extension package for \u793e\u5a92\u52a9\u624b \u5f00\u6e90\u7248 (hakljifdbjcjinlfkmbnecagjmgmlooh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "98c46ec4-7174-5721-9221-7ed3fed76b66",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kplpldfnoakkffikgddhipmlalipnpkn",
+        "comment": "Best Ball Buddy | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b3de1207-f5aa-5469-8773-397b7972e974",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kplpldfnoakkffikgddhipmlalipnpkn",
+        "comment": "Chrome Web Store entry for Best Ball Buddy (kplpldfnoakkffikgddhipmlalipnpkn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d094f829-203a-516d-a7da-5bf0317d7a14",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7f069151519d6b71708eda2bb498dd77b60e88a93878403f52823c07d6a24e98",
+        "comment": "SHA-256 of extension package for Best Ball Buddy (kplpldfnoakkffikgddhipmlalipnpkn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c450593e-54e1-5c15-8f3c-5159e749ac70",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pmgebjbnemdocbbeifkhihkmfaknjhma",
+        "comment": "Ig Follower Export Tool | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8286cf23-6c7d-5e6f-9c3d-8c839b8f5a2a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pmgebjbnemdocbbeifkhihkmfaknjhma",
+        "comment": "Chrome Web Store entry for Ig Follower Export Tool (pmgebjbnemdocbbeifkhihkmfaknjhma)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ff7ff614-7a40-5e7c-9cd1-d8a46323cf04",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3226ee03f3cf2d7780c4d7061704a84f0ad1bc0f08aca1ae81081cac230e7cb1",
+        "comment": "SHA-256 of extension package for Ig Follower Export Tool (pmgebjbnemdocbbeifkhihkmfaknjhma)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "242a1a62-effe-5c7b-90ce-b131ea683e28",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jdhhekjemfpkbhaflblhicfggpanflgf",
+        "comment": "Youtube Buddy | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "988ca4da-7349-5e6a-bde3-efaa3a87c376",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jdhhekjemfpkbhaflblhicfggpanflgf",
+        "comment": "Chrome Web Store entry for Youtube Buddy (jdhhekjemfpkbhaflblhicfggpanflgf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9bbad2a3-2e15-5163-bbc0-6a96d5dd246c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e8196f0ca23e8945b6a7cfe721b99387d2729a403bac79bb4b74411625fe8aa4",
+        "comment": "SHA-256 of extension package for Youtube Buddy (jdhhekjemfpkbhaflblhicfggpanflgf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3a8496cf-42c3-5d0c-9fd8-334b87eddd0e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kppndffkpbpmdfdmkddogmdbbmoffked",
+        "comment": "Warpaint Dfs \u2014 Draftkings | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1d6fc586-4224-5bcc-96cf-1f2b83a26ef1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kppndffkpbpmdfdmkddogmdbbmoffked",
+        "comment": "Chrome Web Store entry for Warpaint Dfs \u2014 Draftkings (kppndffkpbpmdfdmkddogmdbbmoffked)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e5c5ad0e-b507-5ae3-9b71-88db79ea7a45",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a2603575571c4be1b9fd93486fdd6db064b8bb057d3acaea2050aa9f8731ab65",
+        "comment": "SHA-256 of extension package for Warpaint Dfs \u2014 Draftkings (kppndffkpbpmdfdmkddogmdbbmoffked)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3f224d3b-b0b5-5d76-bb08-8419f3dd9a25",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "famemgnahjmlemkedbdgapeinjafgpcc",
+        "comment": "Axiom War Room | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2cade9db-f970-5fb6-a0e1-99e9a79f8028",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/famemgnahjmlemkedbdgapeinjafgpcc",
+        "comment": "Chrome Web Store entry for Axiom War Room (famemgnahjmlemkedbdgapeinjafgpcc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d559314e-4fb9-5d81-9eb0-8726b25b72d0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "41ca3d651abc0a0584cf8dfa6cd30ac2d01b92852bfd784b3c036d98d998f856",
+        "comment": "SHA-256 of extension package for Axiom War Room (famemgnahjmlemkedbdgapeinjafgpcc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b5388b04-f6af-53c1-83fa-932a6669807a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mndbakklchddhidoipkgfoainachgiii",
+        "comment": "Underdog Caddie | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c0ad8744-d775-5577-95d6-66b2b93e69b6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mndbakklchddhidoipkgfoainachgiii",
+        "comment": "Chrome Web Store entry for Underdog Caddie (mndbakklchddhidoipkgfoainachgiii)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dd11668b-50da-5bbb-ba1a-d5763534a407",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9cb9b1a8dc1916f830fe357825c2b91516b4ce9777501396682fb156ecef8c0c",
+        "comment": "SHA-256 of extension package for Underdog Caddie (mndbakklchddhidoipkgfoainachgiii)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b32da52e-61ce-5ae1-82f8-487603aca931",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fccbmibpckbciggbfkipcmfobpgdnnlk",
+        "comment": "Ig Follower Export Tool | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0f1ab818-1bc4-59dc-ad95-d2711845d163",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fccbmibpckbciggbfkipcmfobpgdnnlk",
+        "comment": "Chrome Web Store entry for Ig Follower Export Tool (fccbmibpckbciggbfkipcmfobpgdnnlk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fa79e803-8b47-55ba-a015-e53b902a2d3f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d5c74d961c28b8002f1e89e0a20a9cbba1a64752adc02055d0f5de079270dc35",
+        "comment": "SHA-256 of extension package for Ig Follower Export Tool (fccbmibpckbciggbfkipcmfobpgdnnlk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "25a46dc2-202b-5bf1-b97a-073db44a2548",
         "type": "text",
@@ -2490,6 +2963,35 @@
         ]
       },
       {
+        "uuid": "18511256-c92f-5b23-8fb1-ff5af986d53d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adjdmjaifoghdepaplgnfkadkdkcgncd",
+        "comment": "Ig Reels Post Comments Ex | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "60dca6e5-4176-50b0-b7f7-7d48d09d76a3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/adjdmjaifoghdepaplgnfkadkdkcgncd",
+        "comment": "Chrome Web Store entry for Ig Reels Post Comments Ex (adjdmjaifoghdepaplgnfkadkdkcgncd)",
+        "distribution": "5"
+      },
+      {
         "uuid": "d655f084-1fd0-5c99-9e09-cfa449335732",
         "type": "text",
         "category": "Other",
@@ -3077,6 +3579,396 @@
             "name": "malware:category=\"browser-extension\""
           }
         ]
+      },
+      {
+        "uuid": "5e4d6996-c5e9-5823-af51-93f341b3c145",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fffailogmnmehmjjikchagmgeandgifp",
+        "comment": "Ig Hashtag Exporter Free | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1846dcc4-312c-51ec-83ae-9317d3977ffb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fffailogmnmehmjjikchagmgeandgifp",
+        "comment": "Chrome Web Store entry for Ig Hashtag Exporter Free (fffailogmnmehmjjikchagmgeandgifp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2bb7b57c-2560-5b22-a92d-16ce7624fe08",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "omkemjhgpkjndbaodphkbcblhlepgilk",
+        "comment": "Habitloom | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "69547361-f44e-5282-bc3e-9c6930a8d99c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/omkemjhgpkjndbaodphkbcblhlepgilk",
+        "comment": "Chrome Web Store entry for Habitloom (omkemjhgpkjndbaodphkbcblhlepgilk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "60356a75-d3c4-53fc-bf58-090395df9670",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fifephmoifgenkpjphfkabncphifhmlg",
+        "comment": "Bettercomments Ai For You | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1c69b55c-b7b4-547c-acb8-452f75cb914b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fifephmoifgenkpjphfkabncphifhmlg",
+        "comment": "Chrome Web Store entry for Bettercomments Ai For You (fifephmoifgenkpjphfkabncphifhmlg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "69d4ea03-c3ec-5e2a-8739-2f5f4650b972",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4c49b2206886c3e74d903d543683f68a32070cc1ac3cb523f8a748f5fbd6be79",
+        "comment": "SHA-256 of extension package for Bettercomments Ai For You (fifephmoifgenkpjphfkabncphifhmlg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e206e1fd-bae4-5149-b7c1-5870f3cd625b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jefegnbojiaffeogmfjglgoacdfibbaf",
+        "comment": "Instagram Image Downloade | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4f1e5263-7bda-542c-b776-64495338a88d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jefegnbojiaffeogmfjglgoacdfibbaf",
+        "comment": "Chrome Web Store entry for Instagram Image Downloade (jefegnbojiaffeogmfjglgoacdfibbaf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6ea8c71d-1f19-5a6b-8363-3e03884b81a2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lpcmlaeiogmdlfkbamjadfegnmonghok",
+        "comment": "Internet Archive Download | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "aabe190c-9351-5589-b887-0968f6f71296",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lpcmlaeiogmdlfkbamjadfegnmonghok",
+        "comment": "Chrome Web Store entry for Internet Archive Download (lpcmlaeiogmdlfkbamjadfegnmonghok)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cd266399-9ce3-539c-bbe7-83e54cb681ea",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ab83a8bd1ef8db28deae5b2012be5f9af66851a596d1d02722a34d481c5533e3",
+        "comment": "SHA-256 of extension package for Internet Archive Download (lpcmlaeiogmdlfkbamjadfegnmonghok)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "feef26e4-ad2c-5de7-b98c-9dee0ebe4087",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "denhicfhhkekhhklejdafkjboolgdhop",
+        "comment": "Vu Assist \u2013 Vu Lms Deadli | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6cdbce8d-0301-5388-b61c-cc03d0dd8cd9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/denhicfhhkekhhklejdafkjboolgdhop",
+        "comment": "Chrome Web Store entry for Vu Assist \u2013 Vu Lms Deadli (denhicfhhkekhhklejdafkjboolgdhop)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dddf1dc1-f31a-5907-a126-ae0e9f64c65c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ggkbabbeajcoacmcgobollpffemnkkll",
+        "comment": "Homr Home Bookmark Zillow | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f1b04ded-8992-5c22-80f7-59d941c0875e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ggkbabbeajcoacmcgobollpffemnkkll",
+        "comment": "Chrome Web Store entry for Homr Home Bookmark Zillow (ggkbabbeajcoacmcgobollpffemnkkll)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b6bdfb53-5d78-5af6-bd9c-d5de1cd29076",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "olejkcbaojpacndbaoicklebfmogkdlk",
+        "comment": "Ig Export | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "89b58737-2c74-57cd-bb3e-56a24906be5a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/olejkcbaojpacndbaoicklebfmogkdlk",
+        "comment": "Chrome Web Store entry for Ig Export (olejkcbaojpacndbaoicklebfmogkdlk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6c1238f6-27ff-5eff-982b-cdb3485095e9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "phhljlinhkgkcbgpiomadgmbgpcjhahp",
+        "comment": "Ig Hashtags Exporter Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e222f484-fb9d-51fd-9430-38c1e44e7f43",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/phhljlinhkgkcbgpiomadgmbgpcjhahp",
+        "comment": "Chrome Web Store entry for Ig Hashtags Exporter Pro (phhljlinhkgkcbgpiomadgmbgpcjhahp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a62a3d53-bf9d-5feb-88b5-42a66b52e61d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6d465cf9ebe0f8b04f57be367e98d24f0b187f8954bf8de0ea3ed5a45cb66852",
+        "comment": "SHA-256 of extension package for Ig Hashtags Exporter Pro (phhljlinhkgkcbgpiomadgmbgpcjhahp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6a889fd9-0323-5332-878e-e69e28b902aa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mfdemjihbpojomhhimkifcakpkpcblbo",
+        "comment": "Kahoot Hacker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ff67b920-0c7c-5d64-b88a-f9ed44fd0bf0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mfdemjihbpojomhhimkifcakpkpcblbo",
+        "comment": "Chrome Web Store entry for Kahoot Hacker (mfdemjihbpojomhhimkifcakpkpcblbo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0b86d2f4-686b-5795-bb4c-f93312b2de08",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "linneellejnckgjhipdkdjpddcjhejme",
+        "comment": "Ip Address Finder | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "679d51d4-b510-54e7-b583-ee1c4d1e98a0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/linneellejnckgjhipdkdjpddcjhejme",
+        "comment": "Chrome Web Store entry for Ip Address Finder (linneellejnckgjhipdkdjpddcjhejme)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f3713bdf-176f-522d-9e02-adf6dbcc9bbc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljmdanhaffhbjbfjocjllhobfnjgljfi",
+        "comment": "Apolloio Scraper Export A | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3c325da3-9ca3-5025-ae47-fa733dbd14d5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljmdanhaffhbjbfjocjllhobfnjgljfi",
+        "comment": "Chrome Web Store entry for Apolloio Scraper Export A (ljmdanhaffhbjbfjocjllhobfnjgljfi)",
+        "distribution": "5"
       },
       {
         "uuid": "80ecdb84-5114-5723-afdc-36683f388f0c",
@@ -4280,6 +5172,179 @@
         "value": "https://chromewebstore.google.com/detail/lmcgngnnonmkpendfjklelgoonofbgnd",
         "comment": "Chrome Web Store entry for TikTok Mate - AI CODEX & Analytics & Downloader (lmcgngnnonmkpendfjklelgoonofbgnd)",
         "distribution": "5"
+      },
+      {
+        "uuid": "9303e033-2cd1-5346-822a-a8813a6d9a21",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aocnpoeacdkliebfhpelljlncdhaioob",
+        "comment": "Instagram Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6a394843-20c3-5891-b17a-4458d3fbc11b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aocnpoeacdkliebfhpelljlncdhaioob",
+        "comment": "Chrome Web Store entry for Instagram Downloader (aocnpoeacdkliebfhpelljlncdhaioob)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "77cf40c7-70a0-57aa-bc9b-d5d699cb48c0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f656f63b7927ee51220c1d54257dc6767cf1c65d2562a74e98990fc076f4b5cb",
+        "comment": "SHA-256 of extension package for Instagram Downloader (aocnpoeacdkliebfhpelljlncdhaioob)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "882f109c-3155-5fdd-b133-9b45642e66ca",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ndajfpegjbfighkffegpggkldibnheff",
+        "comment": "Velvet Helix | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "efb7f19a-c9bf-58b9-959b-66113820cf70",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ndajfpegjbfighkffegpggkldibnheff",
+        "comment": "Chrome Web Store entry for Velvet Helix (ndajfpegjbfighkffegpggkldibnheff)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a963f41c-b5aa-563b-b58c-e83ebb3fa97f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jkeflcjglbnapakmmhcabdgokdjbgpgh",
+        "comment": "Tato Sua Melhor Vers\u00e3O Em | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "18e3e9c9-945b-5a18-bb86-dee14264972d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jkeflcjglbnapakmmhcabdgokdjbgpgh",
+        "comment": "Chrome Web Store entry for Tato Sua Melhor Vers\u00e3O Em (jkeflcjglbnapakmmhcabdgokdjbgpgh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4fec2e03-07c0-59b8-ad5d-2c70faa28588",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ifghdbobdcacioinidakemgegoekheoh",
+        "comment": "Rotogrinders Underdog Too | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5ec028b6-42ad-56b0-800f-88d5473482f0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ifghdbobdcacioinidakemgegoekheoh",
+        "comment": "Chrome Web Store entry for Rotogrinders Underdog Too (ifghdbobdcacioinidakemgegoekheoh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d339291a-ab98-5919-8148-ca06664192f6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jbbabmpfeijejfppanomgkboefbbjlbp",
+        "comment": "Ticktuner | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "112e6475-f899-5630-ba62-cc80909eb641",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jbbabmpfeijejfppanomgkboefbbjlbp",
+        "comment": "Chrome Web Store entry for Ticktuner (jbbabmpfeijejfppanomgkboefbbjlbp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5a3d9f49-61d7-523e-8f19-9b51e5ac9ee3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7c8ad32c99962e98413fccfc599300c228cb9a0a1c68082c7683af7f581626dd",
+        "comment": "SHA-256 of extension package for Ticktuner (jbbabmpfeijejfppanomgkboefbbjlbp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "590e7fdb-09a7-5b8d-b0b0-4ce54aad1b56",
@@ -16008,6 +17073,35 @@
         ]
       },
       {
+        "uuid": "04ace2fc-39ce-5578-8c62-ce8b5b319f65",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "glajkljjbfbiangbaolkeliobaimmdil",
+        "comment": "Underdog Bestball Overlay | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6375cb3a-54f6-5af1-91bb-56d202143279",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/glajkljjbfbiangbaolkeliobaimmdil",
+        "comment": "Chrome Web Store entry for Underdog Bestball Overlay (glajkljjbfbiangbaolkeliobaimmdil)",
+        "distribution": "5"
+      },
+      {
         "uuid": "10239422-33af-5152-9b33-f535152630ce",
         "type": "text",
         "category": "Other",
@@ -20653,6 +21747,35 @@
             "name": "malware:category=\"browser-extension\""
           }
         ]
+      },
+      {
+        "uuid": "1e170024-69b7-5328-9092-df55800b1609",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ncedobmamfgfiphhpgbadnmhapafipan",
+        "comment": "No Ai Facebook | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e178178c-88f8-58d8-b639-710353774cd0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ncedobmamfgfiphhpgbadnmhapafipan",
+        "comment": "Chrome Web Store entry for No Ai Facebook (ncedobmamfgfiphhpgbadnmhapafipan)",
+        "distribution": "5"
       },
       {
         "uuid": "633011ef-0291-55f1-be5c-19c9f000b99e",
