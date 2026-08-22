@@ -1,5 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| pmgjlmmaohcphecmobgildffdhglodog | A11Ymate Wcag Accessibili | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
+| npcpoajbdjnligahhikeilhclfhngeeb | Okto Authenticator | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
+| cmghehjbjilcfciodcbolemnlcliaofb | Base Web3 Extension | Malware | Store Monitoring | 22/08/26 | No | Google Chrome
+| hakljifdbjcjinlfkmbnecagjmgmlooh | 社媒助手 开源版 | Bundling Unwanted Software | Store Monitoring | 22/08/26 | No | Google Chrome
+| kplpldfnoakkffikgddhipmlalipnpkn | Best Ball Buddy | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
+| pmgebjbnemdocbbeifkhihkmfaknjhma | Ig Follower Export Tool | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
+| jdhhekjemfpkbhaflblhicfggpanflgf | Youtube Buddy | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
+| kppndffkpbpmdfdmkddogmdbbmoffked | Warpaint Dfs — Draftkings | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
+| famemgnahjmlemkedbdgapeinjafgpcc | Axiom War Room | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
+| mndbakklchddhidoipkgfoainachgiii | Underdog Caddie | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
+| fccbmibpckbciggbfkipcmfobpgdnnlk | Ig Follower Export Tool | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
 | kmcbgcnomlcpngbjaofbgcclibplchea | Instagram Downloader Vide | Policy Violation | Store Monitoring | 21/08/26 | No | Google Chrome
 | maohacgeobjnnimcfhjdagolhooafigf | Micro Flux Simulator | Policy Violation | Store Monitoring | 21/08/26 | No | Google Chrome
 | pbmjcodobnkfjigoamcflaficelkggkc | Orbiting Glyph Playground | Policy Violation | Store Monitoring | 21/08/26 | No | Google Chrome
@@ -68,6 +79,7 @@
 | lbmehpcifbmhepcibikibdpngpdiclpe | Free Trial Extension | Bundling Unwanted Software | Store Monitoring | 18/08/26 | Yes | Google Chrome
 | ghghlmhijkhibgebijmhndeigcfnnidl | Free Trial Extension | Bundling Unwanted Software | Store Monitoring | 18/08/26 | Yes | Google Chrome
 | olfbgbikgjlfbmlcoioopfbmoilmfpmj | Whatsapp Service | Policy Violation | Store Monitoring | 18/08/26 | No | Google Chrome
+| adjdmjaifoghdepaplgnfkadkdkcgncd | Ig Reels Post Comments Ex | Policy Violation | Store Monitoring | 17/08/26 | No | Google Chrome
 | bnolicehjnimmdfkihmojhonickmhegp | Ghostape | Bundling Unwanted Software | Store Monitoring | 17/08/26 | No | Google Chrome
 | necnekfjdelopcanglfdlnekdnnmghpf | Seo All In One CôNg Cụ Ph | Policy Violation | Store Monitoring | 17/08/26 | No | Google Chrome
 | kkkoejaiilcofkhggclkbogjpinhjppm | Ghostape Color Theme Cust | Bundling Unwanted Software | Store Monitoring | 17/08/26 | No | Google Chrome
@@ -83,6 +95,18 @@
 | kcpjmfgfjglnkkklpfnlkmbhkndmplfc | Gic Wallet Pro | Bundling Unwanted Software | Store Monitoring | 15/08/26 | No | Google Chrome
 | ppcnenbpoiidkikcfofneihmjcnillpn | Velvet Rose Bloom | Bundling Unwanted Software | Store Monitoring | 15/08/26 | No | Google Chrome
 | mnoekldnofkiblbmgdakgkdkbemlofkd | Genius Invite | Policy Violation | Store Monitoring | 15/08/26 | No | Google Chrome
+| fffailogmnmehmjjikchagmgeandgifp | Ig Hashtag Exporter Free | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| omkemjhgpkjndbaodphkbcblhlepgilk | Habitloom | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| fifephmoifgenkpjphfkabncphifhmlg | Bettercomments Ai For You | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| jefegnbojiaffeogmfjglgoacdfibbaf | Instagram Image Downloade | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| lpcmlaeiogmdlfkbamjadfegnmonghok | Internet Archive Download | Malware | Store Monitoring | 14/08/26 | No | Google Chrome
+| denhicfhhkekhhklejdafkjboolgdhop | Vu Assist – Vu Lms Deadli | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| ggkbabbeajcoacmcgobollpffemnkkll | Homr Home Bookmark Zillow | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| olejkcbaojpacndbaoicklebfmogkdlk | Ig Export | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| phhljlinhkgkcbgpiomadgmbgpcjhahp | Ig Hashtags Exporter Pro | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| mfdemjihbpojomhhimkifcakpkpcblbo | Kahoot Hacker | Malware | Store Monitoring | 14/08/26 | No | Google Chrome
+| linneellejnckgjhipdkdjpddcjhejme | Ip Address Finder | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| ljmdanhaffhbjbfjocjllhobfnjgljfi | Apolloio Scraper Export A | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | kmbfihflegnbopmbocpplfliiedoikdb | Fbadsdownloader Fb Ad Dow | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | jigbajcickecllhfcpdfcaobdmpcdbnh | App For Whatsapp And Mess | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | emcmgfgpjcikliiefmkcngfeakcopcdc | Copypaste Elementor | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
@@ -124,6 +148,11 @@
 | ileggckmpfmboofdnghohcgcppdcklfd | Wa Autom Messenger Whatsapp | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | kikcdpgchoekchbebehamppncfphmfad | Base Earn | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | lmcgngnnonmkpendfjklelgoonofbgnd | TikTok Mate - AI CODEX & Analytics & Downloader | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| aocnpoeacdkliebfhpelljlncdhaioob | Instagram Downloader | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
+| ndajfpegjbfighkffegpggkldibnheff | Velvet Helix | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
+| jkeflcjglbnapakmmhcabdgokdjbgpgh | Tato Sua Melhor VersãO Em | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
+| ifghdbobdcacioinidakemgegoekheoh | Rotogrinders Underdog Too | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
+| jbbabmpfeijejfppanomgkboefbbjlbp | Ticktuner | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
 | pdfljehjkbbacjbgnocamgcllobmfocc | Group Your Tabs | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
 | gefiaaeadjbmhjndnhedfccdjjlgjhho | Enhanced Image Viewer | Malware | Store Monitoring | 13/08/26 | Yes | Google Chrome
 | cdflnehplopihjenmpdpimigmajdfoon | Amex Assistant | Policy Violation | Store Monitoring | 13/08/26 | No | Google Chrome
@@ -440,6 +469,7 @@
 | gmbgjcgofehpjebdapbndhbhnpcddaia | Hedera Defi Web3 | Policy Violation | Store Monitoring | 09/08/26 | No | Google Chrome
 | fnkbnfbbpaokkljhhgijlaldocgocmpm | Logisflow CôNg Cụ đặT HàN | Policy Violation | Store Monitoring | 09/08/26 | No | Google Chrome
 | dfklnfbonmmeadolkpbhidfldnhlemja | Baikal Journey | Bundling Unwanted Software | Store Monitoring | 09/08/26 | No | Google Chrome
+| glajkljjbfbiangbaolkeliobaimmdil | Underdog Bestball Overlay | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
 | jhbdjdfjebflcoajbgefnpppfdbfbmnn | Chatgpt For Browser | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
 | blnhcpofmmanegogkkphjfpjmphcpgco | Fia World Rally Champions | Policy Violation | Store Monitoring | 08/08/26 | No | Google Chrome
 | kbbdhaecpjfhaldddljnlkdlcephkank | Aah Wallet | Bundling Unwanted Software | Store Monitoring | 08/08/26 | No | Google Chrome
@@ -551,6 +581,7 @@
 | ebghanlmhpclnbokjfgdefdcohnapfmp | Blazr | Malware | Store Monitoring | 06/08/26 | Yes | Google Chrome
 | ocjlahacgjaeeneakladoaieeljfifpo | Insta Media Saver | Policy Violation | Store Monitoring | 06/08/26 | No | Google Chrome
 | algmnkojdaigpfoopbkibofjikmkdjei | Instagram Downloader for Atlas Browser | Policy Violation | Store Monitoring | 06/08/26 | No | Google Chrome
+| ncedobmamfgfiphhpgbadnmhapafipan | No Ai Facebook | Policy Violation | Store Monitoring | 05/08/26 | No | Google Chrome
 | nbpheppbncjcimpgjgdofifdfnoagpnf | Kahoot Hacker | Malware | Store Monitoring | 05/08/26 | Yes | Google Chrome
 | nbcfmpmcfjikalihigbbgjpfhddilopj | Blooket Master Pro | Malware | Store Monitoring | 05/08/26 | No | Google Chrome
 | cganeegbgomclahanjpcpdbomhhicjfe | Smartvideo For Youtube | Malware | Store Monitoring | 05/08/26 | Yes | Google Chrome
