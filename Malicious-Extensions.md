@@ -1,8 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| lknmnhjamocaadonhopjcbalpjpihhjf | Cfo Csflipsoptions | Bundling Unwanted Software | Store Monitoring | 23/08/26 | No | Google Chrome
+| lapdandjlmgkhplplkamaedocnnpmobg | Omnipost Ai | Policy Violation | Store Monitoring | 23/08/26 | No | Google Chrome
+| eebpkpoeaeipbacgonjddkndinpmpjbk | TTH - CS2TradersPlus | Bundling Unwanted Software | Store Monitoring | 23/08/26 | No | Google Chrome
+| hffmhlcgfpooadknhghclaocenbaobfl | Buff Utility Converter | Bundling Unwanted Software | Store Monitoring | 23/08/26 | No | Google Chrome
+| chhbknablgnpbjokiakabbaekeohooec | Gptsubs — X Premium Helper | Policy Violation | Store Monitoring | 23/08/26 | No | Google Chrome
 | pmgjlmmaohcphecmobgildffdhglodog | A11Ymate Wcag Accessibili | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
 | npcpoajbdjnligahhikeilhclfhngeeb | Okto Authenticator | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
-| cmghehjbjilcfciodcbolemnlcliaofb | Base Web3 Extension | Malware | Store Monitoring | 22/08/26 | No | Google Chrome
+| cmghehjbjilcfciodcbolemnlcliaofb | Base Web3 Extension | Malware | Store Monitoring | 22/08/26 | Yes | Google Chrome
 | hakljifdbjcjinlfkmbnecagjmgmlooh | 社媒助手 开源版 | Bundling Unwanted Software | Store Monitoring | 22/08/26 | No | Google Chrome
 | kplpldfnoakkffikgddhipmlalipnpkn | Best Ball Buddy | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
 | pmgebjbnemdocbbeifkhihkmfaknjhma | Ig Follower Export Tool | Policy Violation | Store Monitoring | 22/08/26 | No | Google Chrome
@@ -95,6 +100,9 @@
 | kcpjmfgfjglnkkklpfnlkmbhkndmplfc | Gic Wallet Pro | Bundling Unwanted Software | Store Monitoring | 15/08/26 | No | Google Chrome
 | ppcnenbpoiidkikcfofneihmjcnillpn | Velvet Rose Bloom | Bundling Unwanted Software | Store Monitoring | 15/08/26 | No | Google Chrome
 | mnoekldnofkiblbmgdakgkdkbemlofkd | Genius Invite | Policy Violation | Store Monitoring | 15/08/26 | No | Google Chrome
+| ebfopfeijndiagimbbaoajjknahobnjp | Ai Page Assistant | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| ajbmmmckhheefbaieldbdejleiakfeam | Kaia Assistant By Atlas AI | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
+| amdcajcnofodjpgbbdnnjkffamfnidae | Companion Wallet | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | fffailogmnmehmjjikchagmgeandgifp | Ig Hashtag Exporter Free | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | omkemjhgpkjndbaodphkbcblhlepgilk | Habitloom | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | fifephmoifgenkpjphfkabncphifhmlg | Bettercomments Ai For You | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
