@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-22",
-    "timestamp": "1787420275",
+    "date": "2026-08-23",
+    "timestamp": "1787478104",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,207 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "9b232c76-3278-533a-95b0-ecf95599b450",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lknmnhjamocaadonhopjcbalpjpihhjf",
+        "comment": "Cfo Csflipsoptions | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ee073445-919f-568f-9ecb-4e498150a625",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lknmnhjamocaadonhopjcbalpjpihhjf",
+        "comment": "Chrome Web Store entry for Cfo Csflipsoptions (lknmnhjamocaadonhopjcbalpjpihhjf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "220748d3-30d9-5673-a49c-7caaf283f343",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lapdandjlmgkhplplkamaedocnnpmobg",
+        "comment": "Omnipost Ai | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "717ab1ea-6479-5236-a615-04a49312834c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lapdandjlmgkhplplkamaedocnnpmobg",
+        "comment": "Chrome Web Store entry for Omnipost Ai (lapdandjlmgkhplplkamaedocnnpmobg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "569837a2-72db-50f1-86ca-7a0dac15a550",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d2a554f1c3f9ab8dfdd96dbc5b4564089bff4844851e689f26a0f71f8a47a885",
+        "comment": "SHA-256 of extension package for Omnipost Ai (lapdandjlmgkhplplkamaedocnnpmobg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "71218c85-f415-5d88-949a-d41cd0f95475",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eebpkpoeaeipbacgonjddkndinpmpjbk",
+        "comment": "TTH - CS2TradersPlus | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c192aa88-cb98-5b46-9da9-cd2a1463289b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eebpkpoeaeipbacgonjddkndinpmpjbk",
+        "comment": "Chrome Web Store entry for TTH - CS2TradersPlus (eebpkpoeaeipbacgonjddkndinpmpjbk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0b9f9b45-79d6-56a5-8139-1106c414719d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b829c00b025aa35fdb5ba6d255d6b5de666a9925bb21ea403516441c2a480c55",
+        "comment": "SHA-256 of extension package for TTH - CS2TradersPlus (eebpkpoeaeipbacgonjddkndinpmpjbk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4c5f303b-448e-5565-b764-eb6ca06fdfcb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hffmhlcgfpooadknhghclaocenbaobfl",
+        "comment": "Buff Utility Converter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "52ac252f-c3db-5029-8008-afcc4b058bef",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hffmhlcgfpooadknhghclaocenbaobfl",
+        "comment": "Chrome Web Store entry for Buff Utility Converter (hffmhlcgfpooadknhghclaocenbaobfl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3023c349-f6b4-5b5e-a2da-5d0ec8f2ba45",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3488b83fbf1350b215c2b68449dfbb12b1122149b586e6c4e0fe4300b5ac7b51",
+        "comment": "SHA-256 of extension package for Buff Utility Converter (hffmhlcgfpooadknhghclaocenbaobfl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4d822c54-30b4-55d9-b122-22928304b9e9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "chhbknablgnpbjokiakabbaekeohooec",
+        "comment": "Gptsubs \u2014 X Premium Helper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "609e24ff-8b15-5827-9c49-a7ff74661594",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/chhbknablgnpbjokiakabbaekeohooec",
+        "comment": "Chrome Web Store entry for Gptsubs \u2014 X Premium Helper (chhbknablgnpbjokiakabbaekeohooec)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dffa8f7e-9d4c-5bd7-a3af-55daa8ee2886",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b6ddbefc034b3020efef94d152bc1a28bd5ffc44e4aefcbc2071f3c843853f60",
+        "comment": "SHA-256 of extension package for Gptsubs \u2014 X Premium Helper (chhbknablgnpbjokiakabbaekeohooec)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "aa6c1431-dba5-5af5-87de-5203dc7af882",
         "type": "text",
@@ -530,6 +731,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "75a31769-a68d-5767-a17c-8e9cc9850e67",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0ad7c36d61117b4dda1bc21eceb82e6c634957fce49ea205a2125db8fd56bf0d",
+        "comment": "SHA-256 of extension package for Instagram Downloader Vide (kmcbgcnomlcpngbjaofbgcclibplchea)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "654cb622-3276-5483-9932-1a1852d82fcc",
         "type": "text",
         "category": "Other",
@@ -557,6 +772,20 @@
         "value": "https://chromewebstore.google.com/detail/maohacgeobjnnimcfhjdagolhooafigf",
         "comment": "Chrome Web Store entry for Micro Flux Simulator (maohacgeobjnnimcfhjdagolhooafigf)",
         "distribution": "5"
+      },
+      {
+        "uuid": "cf338bbf-695a-5fdb-b9f8-0e5f98ed8201",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f4fb980e4858971bd604c52cac0fd9f77a27e1d217475c1273088db5e73231d2",
+        "comment": "SHA-256 of extension package for Micro Flux Simulator (maohacgeobjnnimcfhjdagolhooafigf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "beb6636f-bafd-543e-a628-e861138ed2d0",
@@ -631,6 +860,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "04066914-560c-5369-8692-1ef55ada986b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "849572c93d90228c54a15bd69db39552c5cced9cb75da1cf8d442aa4ec4c579c",
+        "comment": "SHA-256 of extension package for Porcelain Lattice (lanahahamnljhkhjkgajfcibfbonjnej)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "8cfc5a3c-8d48-5c73-9d66-1f24861828a0",
         "type": "text",
         "category": "Other",
@@ -703,6 +946,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "a6dfcd35-568e-5f1f-9412-4d18863a53a5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c54d018b0fd5afb71e83904c6dc787c878470b2a5fd3ebbeb604f0e672451b9f",
+        "comment": "SHA-256 of extension package for Instagram Follower Export (engaiifjjibpaijdknfcgkkgbgmadhbd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "1f21eaf8-a7b5-5b86-8145-3d363b19ace2",
         "type": "text",
         "category": "Other",
@@ -730,6 +987,20 @@
         "value": "https://chromewebstore.google.com/detail/mdodmnonfpdeielcdpdpliekbbcmhfbg",
         "comment": "Chrome Web Store entry for Looprail Signal Chamber (mdodmnonfpdeielcdpdpliekbbcmhfbg)",
         "distribution": "5"
+      },
+      {
+        "uuid": "bb30116b-46f2-540c-b12f-054caa29e10c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "30521948a334d69a8e6791aa0d86092b7859997936da85fd411c1dad67ce2495",
+        "comment": "SHA-256 of extension package for Looprail Signal Chamber (mdodmnonfpdeielcdpdpliekbbcmhfbg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "55e092d1-8297-5f95-b358-67081c302f02",
@@ -804,6 +1075,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "9fdc41e6-d59d-5cec-bae0-69cf76e768a8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8a50e200b12d0f4fe416da30f3ae71a50ea7286c3e789c1334420d632cb0d616",
+        "comment": "SHA-256 of extension package for Facebook Ad Video Downloa (mbakineghcpagjflcabbakaobioigenf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "881c79cc-5bbe-5e47-b68e-43b1d14c1e21",
         "type": "text",
         "category": "Other",
@@ -831,6 +1116,20 @@
         "value": "https://chromewebstore.google.com/detail/icimjnmbgokbohmklkbmgmikidkcpjig",
         "comment": "Chrome Web Store entry for Ig Comments Downloader In (icimjnmbgokbohmklkbmgmikidkcpjig)",
         "distribution": "5"
+      },
+      {
+        "uuid": "1f0c2758-850f-554f-942b-a02bd41b7184",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "823d60a9b7294621f71247ee66358bc0bcb41327d9736a2fa448445684f9ee59",
+        "comment": "SHA-256 of extension package for Ig Comments Downloader In (icimjnmbgokbohmklkbmgmikidkcpjig)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "41a05589-0445-51bd-9653-85afca724429",
@@ -1107,6 +1406,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "3e665fde-4e6a-5fb5-ba5e-66f7d6115c82",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "dd43a590b6fa0ce44b1b46cd5cf846b6da1567ecf220fae70df7d00b2d412852",
+        "comment": "SHA-256 of extension package for Ig Follower Exporter Csv (ahpldplpeolnpbibbaknbmbalmnnkmbn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "6f103dc3-811b-599b-8427-f64bd652f4bd",
         "type": "text",
         "category": "Other",
@@ -1165,6 +1478,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "21699a06-fa0d-5c11-afc8-0d1f42376dc0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a4991740d43d1c2a8e7e5f8b6348f6d5dbe0f77e205ec38087af7645132cfb62",
+        "comment": "SHA-256 of extension package for Multi Chain Explorer (hfijkbdkpidafdbeebnnkhfccildbcle)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "a9b45622-ecd0-5a7d-ac61-ba0406924e29",
         "type": "text",
         "category": "Other",
@@ -1221,6 +1548,20 @@
         "value": "https://chromewebstore.google.com/detail/hoecpacncalchikbmplgelfakglemgfb",
         "comment": "Chrome Web Store entry for Triv Shield (hoecpacncalchikbmplgelfakglemgfb)",
         "distribution": "5"
+      },
+      {
+        "uuid": "b4ceb773-0c1d-5846-9aea-1b6b39670ad8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4df6e42a4c572b3419beeb979c1ca713893b9e93f84922b9111f9221c16728bd",
+        "comment": "SHA-256 of extension package for Triv Shield (hoecpacncalchikbmplgelfakglemgfb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "6bbf29ee-0713-59b6-b933-90d1c39b381d",
@@ -2056,6 +2397,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "9f349aea-c53e-585e-a7b3-a51047863dbf",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d87d45b5052636a4b97d3f1d1c4527ae6754c6af2367629721f576ba8a995021",
+        "comment": "SHA-256 of extension package for Veepn Vpn \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 2026 (eppoblmdkncfmpeccaecmnnfiaghlbpc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "fa7237e9-326f-5e23-9a96-0f1a0beb9aaa",
         "type": "text",
         "category": "Other",
@@ -2128,6 +2483,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "d748f1e5-7ffc-592f-b8c7-3a526af4aece",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "65ad1d4496a1e2f7da76dc82697fdc0395af6e74aa4ad2de040bf5e823f58fa7",
+        "comment": "SHA-256 of extension package for Outsurf (eiamiknkelfkfombkabmpdanicllfohk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "c27536ab-e6a4-572c-93f7-d816a8921d22",
         "type": "text",
         "category": "Other",
@@ -2155,6 +2524,20 @@
         "value": "https://chromewebstore.google.com/detail/kaipgjcalnlemhopjhiooogjoofelank",
         "comment": "Chrome Web Store entry for Browsec Vpn (kaipgjcalnlemhopjhiooogjoofelank)",
         "distribution": "5"
+      },
+      {
+        "uuid": "0aaf982e-b94e-5749-a06c-3b0fabdbce00",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ea3fa6f662ed9e0d473244a68b5bde9f5c29e650d38a553311163e3078d58145",
+        "comment": "SHA-256 of extension package for Browsec Vpn (kaipgjcalnlemhopjhiooogjoofelank)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "61ce8886-f367-5214-86f0-bf678f4c0ad9",
@@ -2459,6 +2842,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "96184cbe-c2e6-52b8-bb7c-c25460243710",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6f9d9479bbd88c1e06f0270ad6f83f481a4a1b94351377807b5fe54f4c8b014e",
+        "comment": "SHA-256 of extension package for Whatsapp Ai Agents With C (clgficggccelgifppbcaepjdkklfcefd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "b2e4b2b5-9787-583c-87ec-d95086653a68",
         "type": "text",
         "category": "Other",
@@ -2515,6 +2912,20 @@
         "value": "https://chromewebstore.google.com/detail/okjajaogjmnjdppjhajemaibelnjmpaj",
         "comment": "Chrome Web Store entry for Facebook Tools Facebook P (okjajaogjmnjdppjhajemaibelnjmpaj)",
         "distribution": "5"
+      },
+      {
+        "uuid": "a31e77b2-9ba1-509f-8911-f7960f637fa7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d293b5e16469321b1dc11a4228472744bae50d234bfa8f50b97ea688305928da",
+        "comment": "SHA-256 of extension package for Facebook Tools Facebook P (okjajaogjmnjdppjhajemaibelnjmpaj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "45136efa-b367-51eb-b262-9d6dad61bb8d",
@@ -3222,6 +3633,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "df1ea85d-dbf2-5790-bba5-2c0eb029082e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a227cef463fb154e0e338068d40314c6ac55e3411bfcb4a98afdc1ea548f1fa7",
+        "comment": "SHA-256 of extension package for Browsec Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vp (hfgnobciaakadflahfbognkofoggimlc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "7597b7de-2bfe-54ce-a91b-d9c0f8a9bed5",
         "type": "text",
         "category": "Other",
@@ -3249,6 +3674,20 @@
         "value": "https://chromewebstore.google.com/detail/gjhichfabchajmnakbgmdddiejgbmnjo",
         "comment": "Chrome Web Store entry for Browsec Vpn (gjhichfabchajmnakbgmdddiejgbmnjo)",
         "distribution": "5"
+      },
+      {
+        "uuid": "81635261-e38a-56a5-8333-937a79b36330",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "abcc1ee2b7729c4746b022d8fafc964cf61b29133fb1661cef7319e5b80b730b",
+        "comment": "SHA-256 of extension package for Browsec Vpn (gjhichfabchajmnakbgmdddiejgbmnjo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "5a365bd7-d6be-59a0-94e7-422acd64f813",
@@ -3581,6 +4020,121 @@
         ]
       },
       {
+        "uuid": "0a7b16d8-fcd4-5b27-a303-4b9931d8b476",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ebfopfeijndiagimbbaoajjknahobnjp",
+        "comment": "Ai Page Assistant | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ad038bec-31b4-5c87-acd9-86c4213cfded",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ebfopfeijndiagimbbaoajjknahobnjp",
+        "comment": "Chrome Web Store entry for Ai Page Assistant (ebfopfeijndiagimbbaoajjknahobnjp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e272212c-375e-517e-ba0e-3669ab57d867",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b33056829788cb7c863ae85e20e3ce7bd270ec2dc216b02541d2da7987549540",
+        "comment": "SHA-256 of extension package for Ai Page Assistant (ebfopfeijndiagimbbaoajjknahobnjp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "121b2a70-8575-5538-b159-7a0dc3c4d793",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ajbmmmckhheefbaieldbdejleiakfeam",
+        "comment": "Kaia Assistant By Atlas AI | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "802e2bf8-d60e-528b-8e98-aa3fbd2d4016",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ajbmmmckhheefbaieldbdejleiakfeam",
+        "comment": "Chrome Web Store entry for Kaia Assistant By Atlas AI (ajbmmmckhheefbaieldbdejleiakfeam)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4f7aace1-c6af-5685-b641-cfc47773f254",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "amdcajcnofodjpgbbdnnjkffamfnidae",
+        "comment": "Companion Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "36568ddf-5cdd-5839-99a1-cc6b4b32c730",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/amdcajcnofodjpgbbdnnjkffamfnidae",
+        "comment": "Chrome Web Store entry for Companion Wallet (amdcajcnofodjpgbbdnnjkffamfnidae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7358ce80-9c29-59a8-b4be-f57c823fd4c6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e8cba999dc1504aa1c2a5f94c41ee28bf4d70f1fc4ade8f9b27ce1cd0cee6b56",
+        "comment": "SHA-256 of extension package for Companion Wallet (amdcajcnofodjpgbbdnnjkffamfnidae)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "5e4d6996-c5e9-5823-af51-93f341b3c145",
         "type": "text",
         "category": "Other",
@@ -3637,6 +4191,20 @@
         "value": "https://chromewebstore.google.com/detail/omkemjhgpkjndbaodphkbcblhlepgilk",
         "comment": "Chrome Web Store entry for Habitloom (omkemjhgpkjndbaodphkbcblhlepgilk)",
         "distribution": "5"
+      },
+      {
+        "uuid": "6b8bc44a-c37d-55ff-a93f-f085a8825305",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "edf15d653af977703e04b68ad6256944ee268a1948b9039e072283a8e4eeda89",
+        "comment": "SHA-256 of extension package for Habitloom (omkemjhgpkjndbaodphkbcblhlepgilk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "60356a75-d3c4-53fc-bf58-090395df9670",
@@ -4029,6 +4597,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "e499700b-9e1a-5aec-8b5c-14c3646fb9b7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "de8fad537a4ef93c82a46957d75d70ea8335b8b2d26d214dbc14a8f9c6fc4bad",
+        "comment": "SHA-256 of extension package for App For Whatsapp And Mess (jigbajcickecllhfcpdfcaobdmpcdbnh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "09bd2d61-f43d-591f-92ea-e70a663f99f2",
         "type": "text",
         "category": "Other",
@@ -4085,6 +4667,20 @@
         "value": "https://chromewebstore.google.com/detail/idpffgabghnkilmipgihgdhmdhcaleen",
         "comment": "Chrome Web Store entry for Asaan Prompt (idpffgabghnkilmipgihgdhmdhcaleen)",
         "distribution": "5"
+      },
+      {
+        "uuid": "7d3115af-d0c4-5cf3-a715-3cf2c1262800",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7f651b9b0bbc35d8e0185d7601f428970dad09c013f6a8715135d3bf38f3ae19",
+        "comment": "SHA-256 of extension package for Asaan Prompt (idpffgabghnkilmipgihgdhmdhcaleen)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "893d7f59-7cf2-5394-adf1-d300c85e162d",
@@ -4145,6 +4741,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "f484d38f-7971-5aee-b7b4-e416a8d93258",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f1d0e884ce1ea671c45c0cdb51d693e0b5f5691c0bf04694323d16bbaf0bfd22",
+        "comment": "SHA-256 of extension package for Browsec Vpn \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn (cgnafleifgjloabngnnegkeeedopjaog)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "ee8e1610-6146-5cd0-8b5b-3472ce252986",
         "type": "text",
         "category": "Other",
@@ -4174,6 +4784,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "680dc5b1-d809-5e9c-a6bc-756c961d0677",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1096e85d4eb46bcea1fcedb7ef30b1b7cd8044aafb0cadb388e6d989b608a576",
+        "comment": "SHA-256 of extension package for Github Comment Minimizer (kcjgaccpjfoapcbaaecnjngjeccgmplh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "ea773a2d-35df-5c51-86aa-e5728205a182",
         "type": "text",
         "category": "Other",
@@ -4201,6 +4825,20 @@
         "value": "https://chromewebstore.google.com/detail/pkafkdjpnpancehbobmbbnddkamldjfp",
         "comment": "Chrome Web Store entry for Portoup \u2014 Captura De Lead (pkafkdjpnpancehbobmbbnddkamldjfp)",
         "distribution": "5"
+      },
+      {
+        "uuid": "49b747fb-d916-5fef-a8f9-07c56cbc9c40",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cc4b0cca8b2d7df9cb7bb794faac2f1eaadb837a38ff9a2b2771a7377faab8a1",
+        "comment": "SHA-256 of extension package for Portoup \u2014 Captura De Lead (pkafkdjpnpancehbobmbbnddkamldjfp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "356a04b2-c6d2-5fba-a44d-805582bccd73",
@@ -4348,6 +4986,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "b56cea35-4c8c-5a9a-95e1-8f1b2c63f8b6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d0a84f0b9b3bc85aaf6963ebcb5436dcec0e8e8ef988a898985bfd84c15b9403",
+        "comment": "SHA-256 of extension package for Legendary Upside Sidekick (afmeoinleedkppffddmbefkjenaiefaa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "862a6201-5978-5602-9fd5-008dcb294152",
         "type": "text",
         "category": "Other",
@@ -4377,6 +5029,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "1b1a946c-d797-50b3-8d54-c1fee1cca61a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "dff3505a7461d152b366d4eea9f0154f3f66dc8914ad224dbb91ce60e0b5ca22",
+        "comment": "SHA-256 of extension package for Best Ball Overlay (epogacgkhchlibaahmmmjfkcbojdmnjn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "6020db99-450b-5d66-a84b-598e852907f8",
         "type": "text",
         "category": "Other",
@@ -4404,6 +5070,20 @@
         "value": "https://chromewebstore.google.com/detail/bpanflelokmegihakihekhnmbghkpnoh",
         "comment": "Chrome Web Store entry for Athena Ai Extension (bpanflelokmegihakihekhnmbghkpnoh)",
         "distribution": "5"
+      },
+      {
+        "uuid": "ff8c9509-7030-5cd1-ad42-43f10abe27b5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "611feb82573d3b8394eb9d39deb2d486707110ad5cdb22ff26dbd7280e22f09f",
+        "comment": "SHA-256 of extension package for Athena Ai Extension (bpanflelokmegihakihekhnmbghkpnoh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "1956e67a-075f-52ea-ba6b-09e57cf12756",
@@ -4580,6 +5260,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "6825eb52-60e0-511c-9be8-55d48b41b41b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d121beafb47b367209e490c02e9eb7f8bc6536bba6d7a3270b9874c1afd99375",
+        "comment": "SHA-256 of extension package for Whatsapp Blur (mjmpppckljipbiclkfdcgagedalogfeo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "b0f42f0e-c989-51ea-a955-2e5f6334a163",
         "type": "text",
         "category": "Other",
@@ -4609,6 +5303,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "76818502-c7ec-5aa6-b60d-0b1d492c8e8b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0fc3a5173fc8b6de714a6bc642efe3018526e6ee80fb56d8734fef8f6b0f7670",
+        "comment": "SHA-256 of extension package for Followfan Onlyfans Follow (gkfnofaeicjcggdhfddgcpnigngamppk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "d2d181de-61c0-5b84-87c3-4d6e2cf78983",
         "type": "text",
         "category": "Other",
@@ -4636,6 +5344,20 @@
         "value": "https://chromewebstore.google.com/detail/lhmcajhgadanidbopgaoobjlldegjmke",
         "comment": "Chrome Web Store entry for Defi Pulse Tracker (lhmcajhgadanidbopgaoobjlldegjmke)",
         "distribution": "5"
+      },
+      {
+        "uuid": "5517fa1c-1b33-5c6b-8616-d8886e41cc9d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7f959b95b932e74c44a0d54e2151e92eb95d43d1ad429d1d1af83db4cfb91b9d",
+        "comment": "SHA-256 of extension package for Defi Pulse Tracker (lhmcajhgadanidbopgaoobjlldegjmke)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "8de58878-1079-5efc-8be9-f431eff6cec0",
@@ -4696,6 +5418,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "e06c05f5-31c0-5462-b23f-a9de8555d926",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2a9aea472bfd3c842086fff16925ca39005be54fc716a72f63184d0279f1c062",
+        "comment": "SHA-256 of extension package for Dora (dlbpmpcmedbgknmhanknkankmdnlokdp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "447c1035-0c1e-5888-bd61-c1f1c80e86ff",
         "type": "text",
         "category": "Other",
@@ -4723,6 +5459,20 @@
         "value": "https://chromewebstore.google.com/detail/oeacadlaclegkkkdehjmiifnjhcekclj",
         "comment": "Chrome Web Store entry for Crypto Rates Fiat Convert (oeacadlaclegkkkdehjmiifnjhcekclj)",
         "distribution": "5"
+      },
+      {
+        "uuid": "bf9f9f2a-f44b-5431-b227-f45773e07f36",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9c0877959ec762e7daa2449c53b524c8f36b1e6e4f89f9d3a76aeca137933f37",
+        "comment": "SHA-256 of extension package for Crypto Rates Fiat Convert (oeacadlaclegkkkdehjmiifnjhcekclj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "202ef92e-f486-5afb-b2a1-d489bd32a199",
@@ -4754,6 +5504,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "c82df00f-4e7f-5ea0-a44c-2df0e0ecdfc4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5bd4625e9ecc1390500a77c72d01de8dfa9498eebbba5e145e80a065f7c4d910",
+        "comment": "SHA-256 of extension package for Nexus Ai All In One Ai As (megonkedidbhgokacgilpjmhlbbhanck)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "10f1aaed-db21-5977-9851-1cba0671913b",
         "type": "text",
         "category": "Other",
@@ -4783,6 +5547,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "8344c9d0-ed40-5fb8-a203-7afd1d75e71b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "817982ee6243beb1d3a75ee2e08727081da9d60f9ca7568addeed4550f63f1e4",
+        "comment": "SHA-256 of extension package for Sanzap Automatize Seu Ate (lnmjfobfmnphfokonmdmaimblmdhaddi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "5f149f14-be50-547e-9ca0-190284e65545",
         "type": "text",
         "category": "Other",
@@ -4810,6 +5588,20 @@
         "value": "https://chromewebstore.google.com/detail/hoopocgmbiaojlinfaaobhjipbfpghik",
         "comment": "Chrome Web Store entry for Sblso (hoopocgmbiaojlinfaaobhjipbfpghik)",
         "distribution": "5"
+      },
+      {
+        "uuid": "7b00581f-7a2d-5588-878c-c8a0a7650fbe",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3f304410193d2e240ee60e576f61f7688792114d0cc703f4283be71dfaea4924",
+        "comment": "SHA-256 of extension package for Sblso (hoopocgmbiaojlinfaaobhjipbfpghik)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "0c8510d0-c261-5504-9dbe-835d060fd0aa",
@@ -4868,6 +5660,20 @@
         "value": "https://chromewebstore.google.com/detail/hnpiljfmekfjeaolnojfgblonmgekago",
         "comment": "Chrome Web Store entry for Leadian (hnpiljfmekfjeaolnojfgblonmgekago)",
         "distribution": "5"
+      },
+      {
+        "uuid": "51348fce-da6e-5fd3-903a-77afa1f5e40e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "724197ead1ba6d1c573dfa4cce20a4eb66aa325af9f27fc519ebc6c9e370c716",
+        "comment": "SHA-256 of extension package for Leadian (hnpiljfmekfjeaolnojfgblonmgekago)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "d0623bf2-579a-5612-9cd4-ddcf04612031",
@@ -4986,6 +5792,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "0776a743-7cef-5d07-8d12-c32195c8a89b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f94cb225007d782dbd4c08ba3b727f1f9ceccac065230ee37d9f6037e1e68410",
+        "comment": "SHA-256 of extension package for Hyperdock (ilhnnmiaoeiogojmdgokibkngmmadmoo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "4d0d5a87-f3e8-50a8-9b69-81fe0b38d703",
         "type": "text",
         "category": "Other",
@@ -5013,6 +5833,20 @@
         "value": "https://chromewebstore.google.com/detail/fhkhplppblkmbfcchfjaagmkanipjlen",
         "comment": "Chrome Web Store entry for Whatsapp Automation Tool (fhkhplppblkmbfcchfjaagmkanipjlen)",
         "distribution": "5"
+      },
+      {
+        "uuid": "168d742f-97d0-5823-b24b-7a2e7caf9ae7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "dfb449519c10634edc80bb2faa3479753dbe777923505bb31d62b82129c2f85c",
+        "comment": "SHA-256 of extension package for Whatsapp Automation Tool (fhkhplppblkmbfcchfjaagmkanipjlen)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "ea7e25af-02fa-5e0e-818c-d60df94d1e95",
@@ -5044,6 +5878,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "86d8ba44-9f70-508b-98c5-27f7b4fb45df",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b19ab5c2ef9371b6fdac168cc25662325dc02922133763e6673534b3c0cb100f",
+        "comment": "SHA-256 of extension package for Free Tiktok Video Downloader (iaiagdbpgmjabfpedoldelapnjpiihnc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "e7fb0581-973a-5f50-9d55-5560eaceb800",
         "type": "text",
         "category": "Other",
@@ -5071,6 +5919,20 @@
         "value": "https://chromewebstore.google.com/detail/fmddmkljdoldnamgllhdidhkfhhjmkmm",
         "comment": "Chrome Web Store entry for Tiktok Bulk Video Downloader (fmddmkljdoldnamgllhdidhkfhhjmkmm)",
         "distribution": "5"
+      },
+      {
+        "uuid": "c06a05d8-9a4b-5f04-ac37-c7f8210c3811",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cad47676d9adf545f727b8197b7330b376f4b52c3c1ff1eadad3c0c96f08138a",
+        "comment": "SHA-256 of extension package for Tiktok Bulk Video Downloader (fmddmkljdoldnamgllhdidhkfhhjmkmm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "7c1d5a76-556a-5814-86e5-9a1f85ef7a9c",
@@ -5275,6 +6137,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "d963c27d-12f3-5c6a-ab9d-727b7a48e102",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "77ffab039f7e232f601d7ba2693ff35a42ecf88a1d288e803cdbccf27fe29f31",
+        "comment": "SHA-256 of extension package for Tato Sua Melhor Vers\u00e3O Em (jkeflcjglbnapakmmhcabdgokdjbgpgh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "4fec2e03-07c0-59b8-ad5d-2c70faa28588",
         "type": "text",
         "category": "Other",
@@ -5434,6 +6310,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "1b974e0a-0d0b-5c9d-b40f-6b697378d006",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1ff87b51fa7c9e3c10990136fe04d9a3964dcbdc63bcb09fbd2c7fe6dc8578af",
+        "comment": "SHA-256 of extension package for Amex Assistant (cdflnehplopihjenmpdpimigmajdfoon)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "10c9a55b-e1d6-5d73-b299-ac52b0c741b4",
         "type": "text",
         "category": "Other",
@@ -5463,6 +6353,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "320a636e-0dd6-5917-9034-5240b1a12e81",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f37c20963540d53a8f142e686cad5c73698ba7a7dbd6c8f4813e2ef6f3a8e28f",
+        "comment": "SHA-256 of extension package for Github Workflow Extension (ljmhadjcbboleennagagopainmghpeda)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "30020f6b-fa3b-5f92-bc68-ddee9c930a89",
         "type": "text",
         "category": "Other",
@@ -5490,6 +6394,20 @@
         "value": "https://chromewebstore.google.com/detail/iekoapohahgmogbagegmcgplbkikcgke",
         "comment": "Chrome Web Store entry for Private Crypto News Reade (iekoapohahgmogbagegmcgplbkikcgke)",
         "distribution": "5"
+      },
+      {
+        "uuid": "bd7a60f8-037c-5579-9b35-eaafe80dae10",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2e58d3fe76bfecc3944e65fda89a1d05a3f3cf69fc817d8ded0cf0e919703107",
+        "comment": "SHA-256 of extension package for Private Crypto News Reade (iekoapohahgmogbagegmcgplbkikcgke)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "f6e756bf-d2c1-5e00-a7e7-2cd2a16c51dd",
@@ -5577,6 +6495,20 @@
         "value": "https://chromewebstore.google.com/detail/cpjlhfibbpmfoijdicebahcjeoknpkfh",
         "comment": "Chrome Web Store entry for Whatsapp Web File Upload (cpjlhfibbpmfoijdicebahcjeoknpkfh)",
         "distribution": "5"
+      },
+      {
+        "uuid": "fb13bedf-f48d-5438-b078-473acb0a5dd0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b6ea21bf7458c4d9edaf5ab12234f831f3b7a47bf3667731afc3f0942867e835",
+        "comment": "SHA-256 of extension package for Whatsapp Web File Upload (cpjlhfibbpmfoijdicebahcjeoknpkfh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "afd8b735-9844-5a9f-b422-0e602cc9f3e9",
@@ -6870,6 +7802,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "19e542b9-8526-518d-9054-9e7da4d858e7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b79de2088eea6cdcfefc5fbcdc63d66422f1e76a0c68d460b6e3b30a85143ca1",
+        "comment": "SHA-256 of extension package for Converzap (djfbpkgafgcknijjgmoldomghdemdjad)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "f78f427c-3b53-52d3-8f13-550e8fa2fcee",
         "type": "text",
         "category": "Other",
@@ -7155,6 +8101,20 @@
         "value": "https://chromewebstore.google.com/detail/copnaadapceaedmofpjahmjpinbnkeeh",
         "comment": "Chrome Web Store entry for FQ Sales CRM (copnaadapceaedmofpjahmjpinbnkeeh)",
         "distribution": "5"
+      },
+      {
+        "uuid": "1a32d8bc-0f50-512e-b75c-188f478ea2dd",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5d31b4ce49f3a42dca1e49ac8c499eacaf5c05c3bb2c59a25d8ecc24310bd3dc",
+        "comment": "SHA-256 of extension package for FQ Sales CRM (copnaadapceaedmofpjahmjpinbnkeeh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "f6eea78f-6ed9-5a24-84c3-eba212748ef7",
@@ -8448,6 +9408,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "9c007244-e332-5880-a748-732a65661a7f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6e9c7fe1cd9d292a3193aa8b5a793cd05bda13779155f6e1d63c86a915d56834",
+        "comment": "SHA-256 of extension package for Starlink (chdcepakhbkbgcljkaoikoopjkphphbd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "5bad1dcb-f4e5-50db-a54e-d6623af8cdd0",
         "type": "text",
         "category": "Other",
@@ -8848,6 +9822,20 @@
         "value": "https://chromewebstore.google.com/detail/pllfcoakeflgbkedpkjgeglpijbcglfa",
         "comment": "Chrome Web Store entry for \u0410\u043c\u043d\u0435\u0437\u0438\u044f VPN \u2013 \u0447\u0438\u0441\u0442\u044b\u0439 proxy \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u0441\u043b\u0435\u0434\u043e\u0432 \u0432 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0435 (pllfcoakeflgbkedpkjgeglpijbcglfa)",
         "distribution": "5"
+      },
+      {
+        "uuid": "8bd410a5-82ef-55ae-826e-0a71e10352e6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cfefdfeffd3f2da3be33d90babaca4ce8b8f0c07db3c2c4dd95e9f0070cc17f6",
+        "comment": "SHA-256 of extension package for \u0410\u043c\u043d\u0435\u0437\u0438\u044f VPN \u2013 \u0447\u0438\u0441\u0442\u044b\u0439 proxy \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u0441\u043b\u0435\u0434\u043e\u0432 \u0432 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0435 (pllfcoakeflgbkedpkjgeglpijbcglfa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "8f34e649-e137-5cb5-8e9c-3ab7eba23beb",
@@ -11928,6 +12916,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "aa155811-1139-59c8-bf65-7262c4329aa4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fd05660c94025968a1bda77cbaf3bf3ad5b44cc8a936b13f7fc080a8c8388ec5",
+        "comment": "SHA-256 of extension package for \u0410\u043c\u043d\u0435\u0437\u0438\u044f VPN \u2014 \u0423\u0434\u043e\u0431\u043d\u044b\u0439 \u043c\u0430\u0440\u0448\u0440\u0443\u0442 (ghifhappieiegcliblajaeidkidecedg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "24edda8d-c8d1-5ab8-811b-5c12c368734c",
         "type": "text",
         "category": "Other",
@@ -12229,6 +13231,20 @@
         "value": "https://chromewebstore.google.com/detail/fkhpnpeaadfbcgnbbdgnkmgihfpdmpkd",
         "comment": "Chrome Web Store entry for \u0412\u0410\u0423 VPN (fkhpnpeaadfbcgnbbdgnkmgihfpdmpkd)",
         "distribution": "5"
+      },
+      {
+        "uuid": "55eb9fdf-2f2b-5693-b4de-e59b57a6f1a2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a8bea2de5371712e5f0128a727efa0ff3904026bf11e91437f978a1d93932e65",
+        "comment": "SHA-256 of extension package for \u0412\u0410\u0423 VPN (fkhpnpeaadfbcgnbbdgnkmgihfpdmpkd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "b6205e4e-7dd7-54e0-b592-a1ea64735508",
@@ -14491,6 +15507,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "78979fe6-9321-591a-9677-a1b904c909a8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "72bc27d4595932561e54306f7034010a0899d58b6accc097b71d425266112b1d",
+        "comment": "SHA-256 of extension package for Spotify Ad Blocker Blocki (nfmlkliedggdodlbgghmmchhgckjoaml)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "d4a292d0-515a-5ba9-bc7f-e6f1284ff8cd",
         "type": "text",
         "category": "Other",
@@ -14778,6 +15808,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "577a9506-24f2-5e13-a479-8473d18c1b81",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3be38e68be30a571457eb0641d8a1886aea67d74580eda8c356c3034c9e86293",
+        "comment": "SHA-256 of extension package for Whatsapp Bulk Messenger (cimppnpmamlndpkhpnfhnfojmpphfene)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "d9866b97-38d2-58fe-85ed-6ccec437bc95",
         "type": "text",
         "category": "Other",
@@ -14848,6 +15892,20 @@
         "value": "https://chromewebstore.google.com/detail/lobiadjfmkomemokdfhiaaaidgdhcded",
         "comment": "Chrome Web Store entry for Ultimate Color Picker (lobiadjfmkomemokdfhiaaaidgdhcded)",
         "distribution": "5"
+      },
+      {
+        "uuid": "4c90045a-7780-508e-8c86-0be8d6b8ecda",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c5eb585f56468693dca149278f395a8fe75821ba9113e114b6c8dfd8e299b68b",
+        "comment": "SHA-256 of extension package for Ultimate Color Picker (lobiadjfmkomemokdfhiaaaidgdhcded)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "6c11fd93-908f-5e43-bc03-acd2b5ce4e5e",
@@ -15049,6 +16107,20 @@
         "value": "https://chromewebstore.google.com/detail/imljojdmooablaopibomkkodhhdcoobo",
         "comment": "Chrome Web Store entry for Ledger Portfolio Viewer (imljojdmooablaopibomkkodhhdcoobo)",
         "distribution": "5"
+      },
+      {
+        "uuid": "a1cb9e27-a50a-54bf-aca6-51e7a60a0fcc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "78975682bf88a06f262e54a9098b68a07f706f4f61942068808fcecd9502ff57",
+        "comment": "SHA-256 of extension package for Ledger Portfolio Viewer (imljojdmooablaopibomkkodhhdcoobo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "7b02f577-8985-5dc7-8c2d-40cb0075e180",
@@ -15508,6 +16580,20 @@
         "value": "https://chromewebstore.google.com/detail/ecgoocindeffodaifgeejamcilbfiokg",
         "comment": "Chrome Web Store entry for Gram Snap (ecgoocindeffodaifgeejamcilbfiokg)",
         "distribution": "5"
+      },
+      {
+        "uuid": "aa2f7a65-38bb-59e6-8e60-49044c72b51d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "095662e2405ad26ba0b5397dfbe729a32dacef61e263f2086c7a8bae2daae479",
+        "comment": "SHA-256 of extension package for Gram Snap (ecgoocindeffodaifgeejamcilbfiokg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "14b220d5-10c5-5079-95e2-d98eba3b1a28",
@@ -19899,6 +20985,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "72ebb6f6-0b03-59a2-9a1d-d772ca3927f3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "eb8e744c59828b2da007332e4db91f3bd504361b0d644c2a7698b8492befcace",
+        "comment": "SHA-256 of extension package for Pennylane Access (dpdglapbdeecphfomcghmhehiiolkdeb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "52e358f7-2d99-54cf-9992-0e5cd833bdec",
         "type": "text",
         "category": "Other",
@@ -20987,6 +22087,20 @@
         "value": "https://chromewebstore.google.com/detail/igfkihfhfhhbpekllcbfniigabclbkcb",
         "comment": "Chrome Web Store entry for I.G Downloader (igfkihfhfhhbpekllcbfniigabclbkcb)",
         "distribution": "5"
+      },
+      {
+        "uuid": "e1942afc-5036-58b7-ad5e-19c676953200",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9f74ddbe13b6e29c8678acdae31a21af14a5964658839e9b1090a44050d8b4a8",
+        "comment": "SHA-256 of extension package for I.G Downloader (igfkihfhfhhbpekllcbfniigabclbkcb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "637355bf-259a-5613-a863-1e72f68e41cc",
@@ -22365,6 +23479,20 @@
         "value": "https://chromewebstore.google.com/detail/llfdcchbmnhhdhkdapjaeoaomiaadlgl",
         "comment": "Chrome Web Store entry for Krunkerio Aimbot Esp (llfdcchbmnhhdhkdapjaeoaomiaadlgl)",
         "distribution": "5"
+      },
+      {
+        "uuid": "5a2a1628-a2b9-5c8e-8c63-057cf6a87e26",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c71920252063516a3b81e78dba03bdd872a9c27d5e08238473f007d323300115",
+        "comment": "SHA-256 of extension package for Krunkerio Aimbot Esp (llfdcchbmnhhdhkdapjaeoaomiaadlgl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "1ddd2ec0-a45d-5d0d-aec4-c12c48471288",
@@ -34257,6 +35385,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "90782f40-d27c-5b3f-a065-cd9ea3096dd5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5f18d2c5c7360e6129ddc38ab08ca7ee64792e95d81fcbdf7a006907aa17ee15",
+        "comment": "SHA-256 of extension package for Browsec VPN (bgbabcbfnphklneccpldeecbnpogpbfn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "51ca933e-09c4-53fb-be95-c51cd1c5b78c",
         "type": "text",
         "category": "Other",
@@ -35130,6 +36272,20 @@
         "value": "https://chromewebstore.google.com/detail/ckhgbopnpmlhgiihmclcobcdehcakoai",
         "comment": "Chrome Web Store entry for BrowSec VPN \u2014 browser proxy \u0434\u043b\u044f \u0431\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u0430 (ckhgbopnpmlhgiihmclcobcdehcakoai)",
         "distribution": "5"
+      },
+      {
+        "uuid": "1ec396e6-82c5-57a2-8889-41b6696a8c5f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3edd5902cf27ad3ea3d2c6427905b90ec286f2299b7fc8ab1bd72af214de7689",
+        "comment": "SHA-256 of extension package for BrowSec VPN \u2014 browser proxy \u0434\u043b\u044f \u0431\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u0430 (ckhgbopnpmlhgiihmclcobcdehcakoai)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "d9943378-921b-58ee-8dc1-fd9f61a3bdba",
@@ -37111,6 +38267,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "114c9880-d853-56b8-99c2-d0b295139839",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b4b183da0942d4a855d66308467e0891eae4b362e10d0f3885b6dd3107585a08",
+        "comment": "SHA-256 of extension package for Hola VPN (kkkldlbbknfdbpalmknkdalimjeadpen)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "09a7bc3b-f860-5b23-a27f-a4a0fe244c0c",
         "type": "text",
         "category": "Other",
@@ -38243,6 +39413,20 @@
         "value": "https://chromewebstore.google.com/detail/clonlklkobdppgnhaklminjfgchpgiob",
         "comment": "Chrome Web Store entry for Sun VPN (clonlklkobdppgnhaklminjfgchpgiob)",
         "distribution": "5"
+      },
+      {
+        "uuid": "8be122c1-4654-55fb-9b18-44f072949e91",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7142d8d27be3567dec97f41d535c9787b41b88e0d54a7192c92ddd3596d1161f",
+        "comment": "SHA-256 of extension package for Sun VPN (clonlklkobdppgnhaklminjfgchpgiob)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "60a33b2e-82a9-5608-84d8-2e76d7732291",
@@ -40311,6 +41495,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "2d8cd2f2-d34d-5bdb-aa31-0b797f0e84fe",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2d0cbdf68f051ede4cc8d66fbd405c13e7af155214244d580fad1e972cafde40",
+        "comment": "SHA-256 of extension package for \u0410\u0442\u043b\u0430\u0441 Proxy (olibeckoliahgoojehamgidnceiplgkj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "55f41986-b0c5-5f26-bd59-845345c24918",
         "type": "text",
         "category": "Other",
@@ -40469,6 +41667,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "ccabdc55-71b2-5adb-a07d-65d32c0c296f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5246ec5303e071b173eb08c79c70280bceb5b1319ccb5c55838d65078595a1bf",
+        "comment": "SHA-256 of extension package for \u0413\u0443\u0441\u044c VPN (oejbcoenhbdggnddnaeodljmeoobccfo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "26829d9c-3417-5c0d-ae99-b3a179f46f29",
         "type": "text",
         "category": "Other",
@@ -40539,6 +41751,20 @@
         "value": "https://chromewebstore.google.com/detail/ocnhjjoapdiljmgbennkdieaojbeiadn",
         "comment": "Chrome Web Store entry for OsaVPN (ocnhjjoapdiljmgbennkdieaojbeiadn)",
         "distribution": "5"
+      },
+      {
+        "uuid": "0049148a-118d-5258-b5e1-b4fccd8d1dc5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7fbe90f9e91f1387c131a94a48e31fdc2e47a4e82176e65336ab35000f4fbf24",
+        "comment": "SHA-256 of extension package for OsaVPN (ocnhjjoapdiljmgbennkdieaojbeiadn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "5cbd8201-d9de-5c0b-b5b5-dcde6db07a6d",
@@ -40871,6 +42097,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "dad8fade-13f4-5458-87da-0a39c4f29c17",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d1086d2d49daa66cc5d2f00b2b8105fc97ed1bf6155ba31408c485323cf12caf",
+        "comment": "SHA-256 of extension package for Moloko Shield \u2014 \u0447\u0438\u0441\u0442\u044b\u0439 \u043f\u0440\u043e\u043a\u0441\u0438 (ldjnnkbbncmmkcebbjmffnlgbgcnfmeo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "c37db0df-43f9-522f-bf75-cecc34b7c60c",
         "type": "text",
         "category": "Other",
@@ -40900,6 +42140,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "cb185f9c-8829-58b2-91a0-c73faea0d49a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a671f65f3132b41ed8f6d9a78dea2395639a51c2b8610081432a52826b0bd5fc",
+        "comment": "SHA-256 of extension package for Beetle Guard \u2014 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0446\u0438\u0440\u044c (laliffhhgegbpanjejocaiaefphlibni)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "3e6a85a4-e8db-599d-81e2-47d9ec6eef78",
         "type": "text",
         "category": "Other",
@@ -40927,6 +42181,20 @@
         "value": "https://chromewebstore.google.com/detail/kfihoobnkkoglegpapdckhnjcpaifnol",
         "comment": "Chrome Web Store entry for Polyana VPN \u2014 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0432\u0435\u0437\u0434\u0435 (kfihoobnkkoglegpapdckhnjcpaifnol)",
         "distribution": "5"
+      },
+      {
+        "uuid": "fc9a459a-a4e6-5375-9acf-2abe1db77bc2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "87461dcfddca135dc9b8dd5b862dc3a1faea369c9086cafa43131eebbe0ca802",
+        "comment": "SHA-256 of extension package for Polyana VPN \u2014 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0432\u0435\u0437\u0434\u0435 (kfihoobnkkoglegpapdckhnjcpaifnol)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "1abf3809-ca29-5a41-9d6c-f9b85892f2cd",
@@ -41345,6 +42613,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "3f60c92b-dd6a-5221-9534-29b3e34b71a4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "faddd54bf8be49661c0dd128ae913c4eaba128282682f4b071f6aa50dae4a575",
+        "comment": "SHA-256 of extension package for \u0413\u0443\u0441\u044c VPN \u2013 \u043e\u0431\u0445\u043e\u0434\u0438\u0442 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438 \u0432 \u0420\u0424 (hfanmgjobgojpieocfemecgcgglmgpff)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "14b7486a-f920-5d02-999f-7ef689dd8fb9",
         "type": "text",
         "category": "Other",
@@ -41573,6 +42855,20 @@
         "value": "https://chromewebstore.google.com/detail/fnkojlkijkkohicgkendegofpcilhelc",
         "comment": "Chrome Web Store entry for SpiderShield \u2014 \u041d\u0435\u043e\u043d\u043e\u0432\u044b\u0439 \u0449\u0438\u0442 SOCKS5 (fnkojlkijkkohicgkendegofpcilhelc)",
         "distribution": "5"
+      },
+      {
+        "uuid": "f6ec527d-0860-55db-81cf-313e8c385a4b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e494db7c08c59ffd3d19f239484637fe8e9449b0e7baba1bd86f4663b6e60107",
+        "comment": "SHA-256 of extension package for SpiderShield \u2014 \u041d\u0435\u043e\u043d\u043e\u0432\u044b\u0439 \u0449\u0438\u0442 SOCKS5 (fnkojlkijkkohicgkendegofpcilhelc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "f7d5d744-0551-5867-9f27-5775b383b6fd",
@@ -42034,6 +43330,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "dd64279c-4427-537b-81d8-efcddf92694c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "65dccec88cb8e01afd18b1edb209f0d00a85e77f29dd8613ef48637f8490f5b2",
+        "comment": "SHA-256 of extension package for NightCrawl VPN (cojanaohoolhlkfkcmekifeeobdmgpab)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "57b8756d-9de7-5ab8-a6f7-15fe607493e1",
         "type": "text",
         "category": "Other",
@@ -42104,6 +43414,20 @@
         "value": "https://chromewebstore.google.com/detail/ccnaehfdahmalkmfhgalgccffbmholki",
         "comment": "Chrome Web Store entry for \u041a\u0430\u043a\u0430\u0434\u0443 \u0412\u041f\u041d (ccnaehfdahmalkmfhgalgccffbmholki)",
         "distribution": "5"
+      },
+      {
+        "uuid": "52b173a9-d71a-557e-9d0f-201f5609e15b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8ef7ea5eaa95261fbc5a3f3031f98e8cf964d633b1abbdf4a09c3918b739c7ec",
+        "comment": "SHA-256 of extension package for \u041a\u0430\u043a\u0430\u0434\u0443 \u0412\u041f\u041d (ccnaehfdahmalkmfhgalgccffbmholki)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "d276c1a6-bbac-50e0-83e9-6a701394c4b5",
@@ -42178,6 +43502,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "5926f980-b96d-530d-8081-ba35330155c2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "626bda1aed8b31193c143c2c946484d771dc6e3e7b19ae878aee608583a406ee",
+        "comment": "SHA-256 of extension package for Hardshell Net \u2014 \u0417\u0430\u0449\u0438\u0442\u0430 \u0432 \u043e\u0434\u0438\u043d \u043a\u043b\u0438\u043a (cabcelkjclaoimjobhbldhlknjppicgi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "a0688037-6a69-5c43-a9b0-13b6ada46e8a",
         "type": "text",
         "category": "Other",
@@ -42248,6 +43586,20 @@
         "value": "https://chromewebstore.google.com/detail/aocipbpjojijjlmopppdnkhmnfaeobol",
         "comment": "Chrome Web Store entry for Kolokolchik VPN \u2014 \u0437\u0432\u043e\u043d\u043a\u0438\u0439 \u043f\u0440\u043e\u043a\u0441\u0438 (aocipbpjojijjlmopppdnkhmnfaeobol)",
         "distribution": "5"
+      },
+      {
+        "uuid": "fb950bf0-b2f0-577d-846e-553906a158e6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fcb858f51326e6cbfc12b32ddd54d5f32b048262b1be3f695f880924c0f91e7e",
+        "comment": "SHA-256 of extension package for Kolokolchik VPN \u2014 \u0437\u0432\u043e\u043d\u043a\u0438\u0439 \u043f\u0440\u043e\u043a\u0441\u0438 (aocipbpjojijjlmopppdnkhmnfaeobol)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "c865cfdb-3ff9-578f-847b-99b40bc789e7",
@@ -42406,6 +43758,20 @@
         "value": "https://chromewebstore.google.com/detail/adjmddmkpidciominakpmljkkkfojaac",
         "comment": "Chrome Web Store entry for VPN 2026 (adjmddmkpidciominakpmljkkkfojaac)",
         "distribution": "5"
+      },
+      {
+        "uuid": "dcd80763-f983-5a09-9915-6216941791da",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "64cc2909d58014e3253ec3ce6d3260ddd9d1b5f0f70bc242f51d07a47e96bacf",
+        "comment": "SHA-256 of extension package for VPN 2026 (adjmddmkpidciominakpmljkkkfojaac)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "409a10fd-8195-55be-aeb0-eca85a965b1b",
@@ -42910,6 +44276,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "74c8bce4-d5de-575a-bdfb-9fb8ce02ce5c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "bc9fa325c7384ed7a5762ecf1fc169a103da18a7054afb68853f271b50ba3b45",
+        "comment": "SHA-256 of extension package for BrowSec VPN (nodaaabgfmfoedakdmbjmoicocgnbokc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "0fdff121-c62a-5a8b-9fb3-2f1817acca6c",
         "type": "text",
         "category": "Other",
@@ -43068,6 +44448,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "960f7cb1-af6d-56b4-876b-bc96e461a36a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ec361866d9d2f5b47143e28f2b86ce322df302a43e810b7ed6cbe9ff72ea6925",
+        "comment": "SHA-256 of extension package for Sota VPN (gjpngijceealihchakjadbgedhphbnoi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "6f0d4a83-c232-567c-bb26-a7c9c47585be",
         "type": "text",
         "category": "Other",
@@ -43095,6 +44489,20 @@
         "value": "https://chromewebstore.google.com/detail/fnmoomkicfdelpdhkahfcbenclcbmnnd",
         "comment": "Chrome Web Store entry for \u041c\u0443\u0445\u0430 VPN (fnmoomkicfdelpdhkahfcbenclcbmnnd)",
         "distribution": "5"
+      },
+      {
+        "uuid": "ff1afab7-ad52-5480-937c-132aad33e593",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9d49928f2a4b1dc5b0da11932254802063a2ad19f88e4cb902c26b53a655b3b8",
+        "comment": "SHA-256 of extension package for \u041c\u0443\u0445\u0430 VPN (fnmoomkicfdelpdhkahfcbenclcbmnnd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "69bf4566-c3f9-52cc-86c7-2a5a4a3ef54e",
@@ -43212,6 +44620,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "7536f31c-f9b1-5eb8-8b2f-069d88ec39b0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2428c4dfd28df07afa83653d5f62163b46b5232146615cb1160236983e77ee80",
+        "comment": "SHA-256 of extension package for Jump VPN (ecggfjeponcknddgikfdjngocbpmkhdo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "1e8cb6fe-70ea-576b-ae53-d6e39469708a",
         "type": "text",
         "category": "Other",
@@ -43241,6 +44663,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "0c449046-c959-525f-895b-63a5d14d3276",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "911961c82d15beaa4e1786f16d673e65f8d4d01026d41ee593a7d971369c3bef",
+        "comment": "SHA-256 of extension package for Myxa Premium VPN \u2014 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u043d\u044b\u0439 proxy-\u0434\u043e\u0441\u0442\u0443\u043f \u0438 \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0441\u0435\u0440\u0432\u0435\u0440\u044b (hnkagccbeijempndkojdajdicgggplpi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "2175f9d2-00b6-5f6c-8e71-3db9410034a9",
         "type": "text",
         "category": "Other",
@@ -43268,6 +44704,20 @@
         "value": "https://chromewebstore.google.com/detail/cjhkcmdhkdjgdmgldfaggkjcomhoeeen",
         "comment": "Chrome Web Store entry for Happ VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0438 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 proxy \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a (cjhkcmdhkdjgdmgldfaggkjcomhoeeen)",
         "distribution": "5"
+      },
+      {
+        "uuid": "88c55175-249d-55a5-a088-ac65ee561efc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "592402db6a4112a86ffc6a759e68c96611fe2b59a2c911878d7215c10fc73fd3",
+        "comment": "SHA-256 of extension package for Happ VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0438 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 proxy \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a (cjhkcmdhkdjgdmgldfaggkjcomhoeeen)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "409d301e-4406-5f08-9a27-68f30bf94f9c",
@@ -43772,6 +45222,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "8e8b791a-5c0f-5191-8c3e-9ef585ce7885",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fd69eb855f5dbd3a5504792e2c2969e65d2f0cea846cada8c5e721255688e46d",
+        "comment": "SHA-256 of extension package for Hit VPN (nlbmgbphkacbiccjjocpkjlehpendbhk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "a4536019-f2b7-5758-b1e3-b4bdb085a3f4",
         "type": "text",
         "category": "Other",
@@ -43885,6 +45349,20 @@
         "value": "https://chromewebstore.google.com/detail/kgocgajpdmdacjfhhcgjekdnpmeddjem",
         "comment": "Chrome Web Store entry for \u041c\u0430\u0441\u0442\u0435\u0440 VPN (kgocgajpdmdacjfhhcgjekdnpmeddjem)",
         "distribution": "5"
+      },
+      {
+        "uuid": "5e10ec95-e243-53b2-975a-9f058e800fe0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9b4706bec38a0d7a98b37ece9f6fead909d965a063408a9cd6544c129cde5804",
+        "comment": "SHA-256 of extension package for \u041c\u0430\u0441\u0442\u0435\u0440 VPN (kgocgajpdmdacjfhhcgjekdnpmeddjem)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "8bf00233-ea1a-5978-bb3b-eb873cb7eb05",
@@ -44174,6 +45652,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "fa6e4951-c754-5791-b467-3e84344ac55c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "502e836fc630167252457ca98de207a45915c91a6476ce916c8aadbf559048f9",
+        "comment": "SHA-256 of extension package for \u0414\u044f\u0434\u044f \u0412\u0430\u043d\u044f VPN (anpnhjikkhcoaaflifchcaenbpfagipo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "860faba3-9bc8-5691-ac48-262f5bce974d",
         "type": "text",
         "category": "Other",
@@ -44246,6 +45738,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "8e77d90b-ae21-54c1-a1d4-5b475b6f52e6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0ab080396196625d3dc98d3a09d28ef766d676c234e7e230e64b73a04fcfaadd",
+        "comment": "SHA-256 of extension package for Sota VPN \u2014 \u0441\u0435\u0442\u043a\u0430 \u0431\u044b\u0441\u0442\u0440\u044b\u0445 \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432 \u0434\u043b\u044f browser proxy (pddmlooojhnhglkdhhimocbnbdlaogdm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "36b21f46-124c-5352-976b-fc8ec975194f",
         "type": "text",
         "category": "Other",
@@ -44273,6 +45779,20 @@
         "value": "https://chromewebstore.google.com/detail/kmomhipjmbcobnaippannhmfdhgeadfa",
         "comment": "Chrome Web Store entry for Myxa VPN \u2014 \u043b\u0451\u0433\u043a\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435, \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 proxy (kmomhipjmbcobnaippannhmfdhgeadfa)",
         "distribution": "5"
+      },
+      {
+        "uuid": "63cb729a-bb79-577c-99ea-72f3b0ce713e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ffe9c4453c274dbdbdd76e9c731b487da029e4fad8eb0b43be11b059dc57db02",
+        "comment": "SHA-256 of extension package for Myxa VPN \u2014 \u043b\u0451\u0433\u043a\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435, \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 proxy (kmomhipjmbcobnaippannhmfdhgeadfa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "5b4442bc-ae93-5855-9dbc-ed424d4c0d32",
@@ -44390,6 +45910,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "d68c450f-fa21-57df-a1f5-952634c5e27b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0b92aaf68dfc2911f2025e54deb7a43459dc26ad8248d9e645cf27d1e3db4487",
+        "comment": "SHA-256 of extension package for Myxa Fast VPN (eandhmoghnfjemddjnmdimlloghflilf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "c79b3039-d2d2-58db-8066-2dee6bdddf36",
         "type": "text",
         "category": "Other",
@@ -44460,6 +45994,20 @@
         "value": "https://chromewebstore.google.com/detail/akibiigkdhioejdgkeophiphkpdhmice",
         "comment": "Chrome Web Store entry for \u041f\u043b\u0430\u043d\u0435\u0442\u0430 VPN \u2014 \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0439 proxy-\u0434\u043e\u0441\u0442\u0443\u043f \u0438 \u0441\u0435\u0440\u0432\u0435\u0440\u044b \u0440\u044f\u0434\u043e\u043c (akibiigkdhioejdgkeophiphkpdhmice)",
         "distribution": "5"
+      },
+      {
+        "uuid": "e933819d-5177-52e3-801d-acb04a28aa25",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3008c2dac4497a89ac756abb06c106058d44b98601dbbfde0882dc6c380fab1a",
+        "comment": "SHA-256 of extension package for \u041f\u043b\u0430\u043d\u0435\u0442\u0430 VPN \u2014 \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0439 proxy-\u0434\u043e\u0441\u0442\u0443\u043f \u0438 \u0441\u0435\u0440\u0432\u0435\u0440\u044b \u0440\u044f\u0434\u043e\u043c (akibiigkdhioejdgkeophiphkpdhmice)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "30bb6888-b182-5601-b1d8-4c1430885cc9",
@@ -45048,6 +46596,20 @@
         "value": "https://chromewebstore.google.com/detail/flgfmlcibjhdkmpkccifgmbckjnpcnil",
         "comment": "Chrome Web Store entry for \u0414\u044f\u0434\u044f \u0412\u0430\u043d\u044f VPN \u2014 \u041d\u0430\u0434\u0451\u0436\u043d\u044b\u0439 \u043c\u0430\u0440\u0448\u0440\u0443\u0442 (flgfmlcibjhdkmpkccifgmbckjnpcnil)",
         "distribution": "5"
+      },
+      {
+        "uuid": "70a3dbff-e009-5b06-bba2-ecb38e0c2521",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "29610e311e4cc6842b8170e0ebbd28c0b627e70f7c902392f5848a50138e38bf",
+        "comment": "SHA-256 of extension package for \u0414\u044f\u0434\u044f \u0412\u0430\u043d\u044f VPN \u2014 \u041d\u0430\u0434\u0451\u0436\u043d\u044b\u0439 \u043c\u0430\u0440\u0448\u0440\u0443\u0442 (flgfmlcibjhdkmpkccifgmbckjnpcnil)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "ca6ff44f-e950-5ccb-b6d4-e1a269eee5ef",
@@ -45681,6 +47243,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "8a11cd1f-6ac6-5079-bbac-912566925ae3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "df439cdc4e1bd3fa005c41c3b27ea1f30ce5d153b8e412aead9a4ea2320d6fc1",
+        "comment": "SHA-256 of extension package for \u0422\u0443\u0440\u0431\u043e VPN \u2014 \u0431\u0435\u0437 \u043b\u0430\u0433\u043e\u0432 (migapbdgcndcplpcfempbpfdlkeakoif)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "ae044781-dfb6-5569-97c9-8ae4a46ed444",
         "type": "text",
         "category": "Other",
@@ -45753,6 +47329,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "abb4b67c-d7ec-5b42-a39d-ad5929ea95af",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ef6745e34208e515c8dc36c5a160c5b1389c1f89eee3c74ef51378dae0427467",
+        "comment": "SHA-256 of extension package for \u0410\u043c\u043d\u0435\u0437\u0438\u044f VPN \u2014 \u0421\u043f\u043e\u043a\u043e\u0439\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f (gnbdhoigfbfnkiccfbmkpjhpgfbghhlp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "0d56be87-d1b4-506f-97a5-df6ecafc2f20",
         "type": "text",
         "category": "Other",
@@ -45782,6 +47372,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "9e725634-ca1c-5dd5-bf47-9b758d62c312",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2e42dd2e8c26ec93dc9f2299088d58fdc5c7a0a93cacb47d6e2abf0f9968448a",
+        "comment": "SHA-256 of extension package for Myxa VPN Lite \u2014 \u041b\u0451\u0433\u043a\u0438\u0439 \u0440\u0435\u0436\u0438\u043c (fipehomnnanfooidacjclhgopgpngoka)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "54676a3b-4a51-590e-abe0-a5fe9b4fca89",
         "type": "text",
         "category": "Other",
@@ -45809,6 +47413,20 @@
         "value": "https://chromewebstore.google.com/detail/caahmphonfnhadohfmkcgoeefmeoacfk",
         "comment": "Chrome Web Store entry for \u0413\u0443\u0441\u044c VPN \u2014 \u041b\u0451\u0433\u043a\u0438\u0439 \u043f\u043e\u043b\u0451\u0442 (caahmphonfnhadohfmkcgoeefmeoacfk)",
         "distribution": "5"
+      },
+      {
+        "uuid": "22769093-a27b-5fce-872a-b2b927292c3b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "dde1a5a828e798ad86256abd208f76a299f61e20ace99441fdd238a762b974b7",
+        "comment": "SHA-256 of extension package for \u0413\u0443\u0441\u044c VPN \u2014 \u041b\u0451\u0433\u043a\u0438\u0439 \u043f\u043e\u043b\u0451\u0442 (caahmphonfnhadohfmkcgoeefmeoacfk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "8d48561a-2f15-55ad-8fa5-0868a59ebddd",
@@ -46053,6 +47671,20 @@
         "value": "https://chromewebstore.google.com/detail/ojlmafdjhliipnjjppdiadpmfdeelnee",
         "comment": "Chrome Web Store entry for work VPN (ojlmafdjhliipnjjppdiadpmfdeelnee)",
         "distribution": "5"
+      },
+      {
+        "uuid": "f1ed6051-4959-5a08-9544-40330694791d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "db6790121112c706c659dae5056d6cf8b7226be19ce88bab4f03e618669f969a",
+        "comment": "SHA-256 of extension package for work VPN (ojlmafdjhliipnjjppdiadpmfdeelnee)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "acb64426-8ea7-5dc4-a0b3-cc5a529784dd",
@@ -47243,6 +48875,20 @@
         "value": "https://chromewebstore.google.com/detail/emlifninekjhlmmhioileilfdijfmaoe",
         "comment": "Chrome Web Store entry for JumP Proxy (emlifninekjhlmmhioileilfdijfmaoe)",
         "distribution": "5"
+      },
+      {
+        "uuid": "232f6755-9d34-5c86-b614-94a0ef93d473",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "311e5343f4c18cd2d26117c959a9998e28542cdd83391d312284eb63a8f86e0f",
+        "comment": "SHA-256 of extension package for JumP Proxy (emlifninekjhlmmhioileilfdijfmaoe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "7e50c22c-26d3-579a-aad0-e2a010b3a69a",
@@ -91232,6 +92878,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "9ec6a805-1ed5-505a-a3ed-d9cf503b932e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "85805d0e00a8d2d40129f1b9e35fac4f57c6d063f0184ea934f3dd99616198fc",
+        "comment": "SHA-256 of extension package for WA (pffefphikcmnobplhdcebakapfildmld)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "21bc73a3-bf4a-52e5-9496-b2e958f5bdeb",
         "type": "text",
         "category": "Other",
@@ -91345,6 +93005,20 @@
         "value": "https://chromewebstore.google.com/detail/kohoglcehlcbjpjnfekbgncnmojdlejd",
         "comment": "Chrome Web Store entry for ELIA IA CRM: CRM no whatsapp, Automa\u00e7\u00f5es e Ferramentas para venda (kohoglcehlcbjpjnfekbgncnmojdlejd)",
         "distribution": "5"
+      },
+      {
+        "uuid": "d89eac34-c7f9-59c0-bbb9-f952bc8549b6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b53e73aacda8a81270233a4f8ae3e7f84829e51debc03b8b4a652dcb10636106",
+        "comment": "SHA-256 of extension package for ELIA IA CRM: CRM no whatsapp, Automa\u00e7\u00f5es e Ferramentas para venda (kohoglcehlcbjpjnfekbgncnmojdlejd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "4bef9c63-0d41-5a41-9a17-fc4cb6eabcc1",
@@ -92019,6 +93693,20 @@
         "value": "https://chromewebstore.google.com/detail/kcnedhlgjbnfoenchlnjjakomgphcnom",
         "comment": "Chrome Web Store entry for Game of Thrones Night King Live Wallpaper (kcnedhlgjbnfoenchlnjjakomgphcnom)",
         "distribution": "5"
+      },
+      {
+        "uuid": "fc0f5273-2626-5bfb-8a97-2a9d4ceabc32",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c68928c9384ca9a7a5151fecf93a0017aee3c408c8792724beae7f65e5c23112",
+        "comment": "SHA-256 of extension package for Game of Thrones Night King Live Wallpaper (kcnedhlgjbnfoenchlnjjakomgphcnom)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "9acaa016-99b8-504e-a14a-a1145b30004c",
@@ -94688,6 +96376,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "c3348526-90cb-53c8-ab98-c29274ab3f1f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d6d0b18d2b6c6ee227ecd6a13e5f7f64609c1a6ac18c5c707754532b7b7be950",
+        "comment": "SHA-256 of extension package for Torrent Search Engine For Chrome Professional (khbokcdnjabjniiimkjdfhgnkccbkoah)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "2a7e8cef-f9ee-5de0-b29d-5bb6ed111f68",
         "type": "text",
         "category": "Other",
@@ -97209,6 +98911,20 @@
         "value": "https://chromewebstore.google.com/detail/dldbdcpgbgbefbjeljfofbijamjdbkpb",
         "comment": "Chrome Web Store entry for Keroppi Wallpapers New Tab (dldbdcpgbgbefbjeljfofbijamjdbkpb)",
         "distribution": "5"
+      },
+      {
+        "uuid": "4556c4f3-0796-5daa-bdc1-f39073da51be",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1950ff0166a89bff74912fbc90018acfda74f11c5ea1ef01ec84f17287ca3b2c",
+        "comment": "SHA-256 of extension package for Keroppi Wallpapers New Tab (dldbdcpgbgbefbjeljfofbijamjdbkpb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "76cbc6ba-ccd3-5f0c-9bb2-e3f85259aefd",
@@ -102888,6 +104604,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "ed974d21-e3f2-5dc4-b457-7a5e71829c83",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "436d77f25f3f94b378516d3454ac840d2ceda3523284168c45396a54e8fb673a",
+        "comment": "SHA-256 of extension package for Barcelona Live Wallpaper (phhdkihahhcbocofokjciigkbbnhfgdm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "fab55caf-57fa-5a29-82da-113e80449c8b",
         "type": "text",
         "category": "Other",
@@ -106486,6 +108216,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "a695e54d-4249-50da-a61b-92b1fb0f0863",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "971cc7d5525e24987183fe22e1c65a699239dd38f36f0473bc6322b01b83c49a",
+        "comment": "SHA-256 of extension package for Manchester City Wallpaper (ijppmbaiegjdokjabgcongkodablcepe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "bc5be9b5-5460-5e8d-9a8f-50a8ff32953b",
         "type": "text",
         "category": "Other",
@@ -106558,6 +108302,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "9a9066b1-8883-55fb-b3ba-962dfa3fba22",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d95dd88da404a70d3ff0dbdb69a1d196625c5b4de152bfe43e20eb5034dfc850",
+        "comment": "SHA-256 of extension package for Dante Devil May Cry Live Wallpaper (iingfcnnoibkdojcnfahhflafimjikce)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "4c599df1-38b0-5245-ad24-2b5f0a7b562c",
         "type": "text",
         "category": "Other",
@@ -106628,6 +108386,20 @@
         "value": "https://chromewebstore.google.com/detail/iffmgknlbnlconemdnhbdabblhiiknbl",
         "comment": "Chrome Web Store entry for Sonic the Hedgehog 3 Live Wallpaper (iffmgknlbnlconemdnhbdabblhiiknbl)",
         "distribution": "5"
+      },
+      {
+        "uuid": "a801647f-6788-5a47-bd52-2f28bb274fe0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cd2e49033df05c45d29b1bb8d8d47ac95bddc7206851c5022cd2d9e72ddccc36",
+        "comment": "SHA-256 of extension package for Sonic the Hedgehog 3 Live Wallpaper (iffmgknlbnlconemdnhbdabblhiiknbl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "bb8669a8-1eba-54b8-8d80-1b9c69a75880",
@@ -111447,6 +113219,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "82c95b29-288d-5f31-8e32-1fed535ec46f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e47470413ee97184debe101a73addb790dfb58c28980840c222d2dc9b1dc2fe6",
+        "comment": "SHA-256 of extension package for Coco Live Wallpaper (beglnacanekmkglpmakakfmedegbnbca)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "13dcc77a-7d74-509b-8500-77578c9fd9b5",
         "type": "text",
         "category": "Other",
@@ -111949,6 +113735,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "70a9d5ea-df4a-57ef-9dd6-da7ad9f4cc87",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e6b0669ba85026ed9941c0f6d0d0a6ff0ba0a871b0c5e136e64e003eac7b9992",
+        "comment": "SHA-256 of extension package for Sabrina Carpenter Wallpaper (afcfcblbgljibodhopliamokekkaaoac)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "788afe4e-0d1f-5dbf-b394-7f3d24d49464",
         "type": "text",
         "category": "Other",
@@ -112191,6 +113991,20 @@
         "value": "https://chromewebstore.google.com/detail/abbidppnicdipblbepcjhgnmclfoelai",
         "comment": "Chrome Web Store entry for Invincible Season 3 Live Wallpaper (abbidppnicdipblbepcjhgnmclfoelai)",
         "distribution": "5"
+      },
+      {
+        "uuid": "a1a5eee6-0a42-574b-971e-db6048f559ae",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2ad1a07371739a97a3a3ee5d840207453498358711bbe75e3f080960b0200d3e",
+        "comment": "SHA-256 of extension package for Invincible Season 3 Live Wallpaper (abbidppnicdipblbepcjhgnmclfoelai)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "009811b5-ae09-5bf2-bb68-41241e0a16dc",
@@ -117485,6 +119299,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "cb215690-7a5a-5f3a-994b-2494d7492454",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4463e570a2958921cc3a6e2f4f03bded2c20e920e020f6965b2ded03932a3890",
+        "comment": "SHA-256 of extension package for Cyberpunk Girl\u2019s Hidden Face Live Wallpaper New Tab (nbfdcmpfcecelmhiaccpekhplnkgaene)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "3dae1bd3-9f26-5aca-867f-89575859c82c",
         "type": "text",
         "category": "Other",
@@ -118716,6 +120544,20 @@
         "value": "https://chromewebstore.google.com/detail/joikbmoffcegolbcngfhoacpbbheadbf",
         "comment": "Chrome Web Store entry for Batman Dark Knight Rooftop Pose Live Wallpaper (joikbmoffcegolbcngfhoacpbbheadbf)",
         "distribution": "5"
+      },
+      {
+        "uuid": "590c92b3-cd85-51bd-8d85-a940ca840ce5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "63eb53332322c88fb3c2b2a72990acea89be9117fad4a9225ef653fc792123bb",
+        "comment": "SHA-256 of extension package for Batman Dark Knight Rooftop Pose Live Wallpaper (joikbmoffcegolbcngfhoacpbbheadbf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "1ba71aa5-858d-5643-b5f8-2ab69e8fe1d7",
@@ -134559,6 +136401,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "825479f7-9027-55bc-b3bc-ffd65b8938e9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0e4ad137f70043f0b185d34fbfc9cc4d5027b0140637212b35ab47c1206c7a6c",
+        "comment": "SHA-256 of extension package for SearchThatNow - Efficient Search History Extension (mnbalckdejcnmigjgihahifcmjfgijnc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "fbc9f868-1526-514f-bc98-3ab91b41186b",
         "type": "text",
         "category": "Other",
@@ -137023,6 +138879,20 @@
         "value": "https://chromewebstore.google.com/detail/bfhdkhapcgcedkenlmilgpdnedhnmbpl",
         "comment": "Chrome Web Store entry for SearchLock | Default Search (bfhdkhapcgcedkenlmilgpdnedhnmbpl)",
         "distribution": "5"
+      },
+      {
+        "uuid": "c09e4598-ec65-5fcf-83a4-493328dabbb6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fae188c66cecaa7a1cfa2262a55ffe82b892deb8be91d45ed7f2ce5fc1a0a80d",
+        "comment": "SHA-256 of extension package for SearchLock | Default Search (bfhdkhapcgcedkenlmilgpdnedhnmbpl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "83651960-9fb5-524a-91c6-908c60239723",
@@ -139863,6 +141733,20 @@
         "value": "https://chromewebstore.google.com/detail/pegbfjhhaifipofpkfecmilaplcdhopg",
         "comment": "Chrome Web Store entry for ELIA IA CRM: WhatsApp, Automa\u00e7\u00f5es e Ferramentas para venda (pegbfjhhaifipofpkfecmilaplcdhopg)",
         "distribution": "5"
+      },
+      {
+        "uuid": "0172971b-3ebe-507a-a83d-1748c31da0de",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e58d771b62427a4fd963ced09c5b68e623655c79e2116d30cdb5167f9f11ba6d",
+        "comment": "SHA-256 of extension package for ELIA IA CRM: WhatsApp, Automa\u00e7\u00f5es e Ferramentas para venda (pegbfjhhaifipofpkfecmilaplcdhopg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "3e1a09f8-dfd8-54b2-a5c6-7f16840c944e",
@@ -183660,6 +185544,20 @@
         "distribution": "5"
       },
       {
+        "uuid": "268400c5-0d89-5cb7-888a-2a17e6bf85dc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6e155a4139fbf3c1598f98f14c40e53fd6e40d43acbdca4c1cd95b7b1292c536",
+        "comment": "SHA-256 of extension package for N\u00fa\u00f1Ez Pagos 50% (agmjobjagbllceafphmfgokobflfbbbc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "b86ce868-2f82-557d-b49c-0b26cc690a0b",
         "type": "text",
         "category": "Other",
@@ -220524,6 +222422,20 @@
         "value": "https://chromewebstore.google.com/detail/gpacldldkpfobgbdabaollodfoilfela",
         "comment": "Chrome Web Store entry for Pokemon Cursor \u2605 Custom Cursor for Chrome\u2122 (gpacldldkpfobgbdabaollodfoilfela)",
         "distribution": "5"
+      },
+      {
+        "uuid": "44c91c7d-2ea9-5f73-8584-635b9d8efdba",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "12461a067df343cd3f7772beab1c9b64d8cfb240bc623bef68283bcc38078f00",
+        "comment": "SHA-256 of extension package for Pokemon Cursor \u2605 Custom Cursor for Chrome\u2122 (gpacldldkpfobgbdabaollodfoilfela)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "e5cfee9b-b882-5f61-824e-0a610ad825d1",
