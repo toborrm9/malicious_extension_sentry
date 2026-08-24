@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-08-24",
-    "timestamp": "1787594897",
+    "timestamp": "1787608609",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,608 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "811b4c4b-ab03-5e50-8c12-30dc2319dcc3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "olpfgimlmpcpofnabplhbanbpkcpopkh",
+        "comment": "ColorMaster | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1d3fe369-2b3a-5051-97be-cd6a435940e3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/olpfgimlmpcpofnabplhbanbpkcpopkh",
+        "comment": "Chrome Web Store entry for ColorMaster (olpfgimlmpcpofnabplhbanbpkcpopkh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fb7a89b0-0c7b-559d-b03d-a7a0911c1ffd",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6c78cbdd12768b44c459c4f22f6aeaf716c3fe3485979a7fffff82947aaf9118",
+        "comment": "SHA-256 of extension package for ColorMaster (olpfgimlmpcpofnabplhbanbpkcpopkh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f4d8ac8f-ac72-5571-b2de-1509f508cdb3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odhadpdionnnghcdgnfnaebbchninonm",
+        "comment": "Real Tennis | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b7533ddf-5a26-5e68-9bec-9c4affbc5b59",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/odhadpdionnnghcdgnfnaebbchninonm",
+        "comment": "Chrome Web Store entry for Real Tennis (odhadpdionnnghcdgnfnaebbchninonm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6148285f-8179-543c-b8e5-eba41dd4b8ed",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8bf9b6c9ef94609eb773420d6ab2dd6ccbcb324cbe1ecd539055912ffb7a648f",
+        "comment": "SHA-256 of extension package for Real Tennis (odhadpdionnnghcdgnfnaebbchninonm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3fae4f65-c922-56bc-a6bd-7e47a702fa2c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nojanoccemhagmebpkhheceeciakbnjj",
+        "comment": "Rodeo Gaming | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ed6de591-08fa-5b11-a68f-a217e30b968b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nojanoccemhagmebpkhheceeciakbnjj",
+        "comment": "Chrome Web Store entry for Rodeo Gaming (nojanoccemhagmebpkhheceeciakbnjj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3edb30e6-42c8-5b02-867f-2d671cd459d6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fb608067065e0e4e2c86a3371477255f0f2f0d74434a2944d3cb01d0d7e85036",
+        "comment": "SHA-256 of extension package for Rodeo Gaming (nojanoccemhagmebpkhheceeciakbnjj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9d0762a8-20a5-5754-89a4-ea83006d22a9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lanlgpbaimolmaddlhkdikbekkhgchnb",
+        "comment": "Snakes & Ladders | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2f9888c7-d78c-54a3-8124-c77100b60bf2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lanlgpbaimolmaddlhkdikbekkhgchnb",
+        "comment": "Chrome Web Store entry for Snakes & Ladders (lanlgpbaimolmaddlhkdikbekkhgchnb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2130e863-5e0d-568f-8906-68921f2f896f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e2989cd39aa109bafafeb3f67b08bb17948866a3a6aa4a291a02687a22129b07",
+        "comment": "SHA-256 of extension package for Snakes & Ladders (lanlgpbaimolmaddlhkdikbekkhgchnb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ef0dc7e8-1e6d-57dd-8baa-703ac7de10e6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kbjgcbphgpmocnifmiabfcnglomheonp",
+        "comment": "Draw on Web | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "59bf4dbf-25bc-5d3a-b899-8ca5b8ae36af",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kbjgcbphgpmocnifmiabfcnglomheonp",
+        "comment": "Chrome Web Store entry for Draw on Web (kbjgcbphgpmocnifmiabfcnglomheonp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "09887c42-12c5-5e2e-8a79-554727ff51ce",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d8670ee728345beb695b2d0bb098a95269986fdbe98993d61902970e144ecbfa",
+        "comment": "SHA-256 of extension package for Draw on Web (kbjgcbphgpmocnifmiabfcnglomheonp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e67ca45a-f866-5926-b1e3-0df4a7b22e0a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jehpcklodflliemeoalmcpbbjhmibnoa",
+        "comment": "Telegram \ufeff\ufeffMulti-account | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d69f4834-2f61-50d3-9226-93c7a9b9a143",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jehpcklodflliemeoalmcpbbjhmibnoa",
+        "comment": "Chrome Web Store entry for Telegram \ufeff\ufeffMulti-account (jehpcklodflliemeoalmcpbbjhmibnoa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "98824c6b-06dd-5f2b-b577-f558fa44e024",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fd4b676dc14e8aba74691f89fc2bd99f87664c012e3ad7e03ce4a6f227fa1aca",
+        "comment": "SHA-256 of extension package for Telegram \ufeff\ufeffMulti-account (jehpcklodflliemeoalmcpbbjhmibnoa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2b2f6826-3367-5581-9ca2-ba75ceeecefd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ifiaoagjidkedahdcgpjipkhmnkkhcid",
+        "comment": "SLOT KATANA FRUITS | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1e25ff33-e706-58a7-8970-1a333ff63b68",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ifiaoagjidkedahdcgpjipkhmnkkhcid",
+        "comment": "Chrome Web Store entry for SLOT KATANA FRUITS (ifiaoagjidkedahdcgpjipkhmnkkhcid)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "78938b52-1caf-572b-9211-7b12702b2866",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "08a66a48bfc158259505e5782dd99fad33e4e95612f91b266aae12774fba9841",
+        "comment": "SHA-256 of extension package for SLOT KATANA FRUITS (ifiaoagjidkedahdcgpjipkhmnkkhcid)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "93054d01-80d1-5f36-a9c6-ea53d97f7d64",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ialiakkbglbihgmbgeaoelcinpbhlilh",
+        "comment": "Game Kittygram Pro | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "10ddef05-52c3-5dc9-a24c-31d9cd42455c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ialiakkbglbihgmbgeaoelcinpbhlilh",
+        "comment": "Chrome Web Store entry for Game Kittygram Pro (ialiakkbglbihgmbgeaoelcinpbhlilh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "abd2ce20-4d7f-5b0a-9add-df6f90ff87e3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "65f9970bffdeff0d464168a02b85b87eb399eb6b0ba317a6588aca3cde3578a8",
+        "comment": "SHA-256 of extension package for Game Kittygram Pro (ialiakkbglbihgmbgeaoelcinpbhlilh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c163b958-cce4-54f7-8b88-831f2d711da6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eejjlbledknodmhedabibmagbofnonal",
+        "comment": "Traffic Escape Game | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3b1fe810-0bd9-5c09-bd7e-ed091f918e3d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eejjlbledknodmhedabibmagbofnonal",
+        "comment": "Chrome Web Store entry for Traffic Escape Game (eejjlbledknodmhedabibmagbofnonal)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e9ef51f0-2868-5018-a8fe-236baa321bea",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "471e4a4f889e887e0b6f256d94f584a05eaa26c92b9ba599d04326496ee3bb4d",
+        "comment": "SHA-256 of extension package for Traffic Escape Game (eejjlbledknodmhedabibmagbofnonal)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "75f681c5-13e6-5e15-afa9-17a05ae9a6c6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmnopdmknoocmplpjbgjpncgajiclbhj",
+        "comment": "EspoCRM chat for company | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6dbde8be-d3ed-5694-9618-5012ab33390c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dmnopdmknoocmplpjbgjpncgajiclbhj",
+        "comment": "Chrome Web Store entry for EspoCRM chat for company (dmnopdmknoocmplpjbgjpncgajiclbhj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "40c5aaa0-b243-5b11-9607-81f660e93fac",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "05b872707f525d505b50bcdb04611eed95ec52da0b12a0813ef5ea9992a45d03",
+        "comment": "SHA-256 of extension package for EspoCRM chat for company (dmnopdmknoocmplpjbgjpncgajiclbhj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f020e149-d438-5e3e-aebc-5cce69f348c4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dfolmkiioopcjhlgplmgghaafoobkfon",
+        "comment": "Gold Miner | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "69fe6c2b-53bc-5fcc-940e-bedbc9bc1c93",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dfolmkiioopcjhlgplmgghaafoobkfon",
+        "comment": "Chrome Web Store entry for Gold Miner (dfolmkiioopcjhlgplmgghaafoobkfon)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c17b1fd1-6cfb-581d-94ff-c952ce36f424",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fa5d28f257b99069478a3f7995b64d29862aa2c3d974d74a06d5ee36df9bb0ee",
+        "comment": "SHA-256 of extension package for Gold Miner (dfolmkiioopcjhlgplmgghaafoobkfon)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c0b0a0fd-4651-5212-acbf-ec9b75421f13",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "caiefmpbohoambhdmbgkejacmipnkomb",
+        "comment": "Best Blackjack | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "40245843-0706-5504-b9b4-119eb09222be",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/caiefmpbohoambhdmbgkejacmipnkomb",
+        "comment": "Chrome Web Store entry for Best Blackjack (caiefmpbohoambhdmbgkejacmipnkomb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "42088ca8-8eb9-5946-a16e-3c4b658336bc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "221df657e53ccf49c3189340702c8927a082411a2c36b64fef87b67c0bea32e2",
+        "comment": "SHA-256 of extension package for Best Blackjack (caiefmpbohoambhdmbgkejacmipnkomb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ef40259c-94a3-5db2-bb6e-cd67afa1698b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aahhemfjdkjamblajnjcddcffpcpmlia",
+        "comment": "Best Snake | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0432d002-1e46-50e4-9abe-83cf2c1eb336",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aahhemfjdkjamblajnjcddcffpcpmlia",
+        "comment": "Chrome Web Store entry for Best Snake (aahhemfjdkjamblajnjcddcffpcpmlia)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "59b54790-cdef-5166-959c-dc24b21f9e60",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3fa149b2e8cf0758575cafb817cd11149a30873c5b6e1de4fe17af79baa736de",
+        "comment": "SHA-256 of extension package for Best Snake (aahhemfjdkjamblajnjcddcffpcpmlia)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f256ab99-faf4-53ae-b42c-2e394609e3a1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "menihhcicpgkoakckmlcjnclmpmlijmi",
+        "comment": "Foosball | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-08-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "63b24134-c6e4-515b-a1b8-9ac44f3b2a78",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/menihhcicpgkoakckmlcjnclmpmlijmi",
+        "comment": "Chrome Web Store entry for Foosball (menihhcicpgkoakckmlcjnclmpmlijmi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "86bbc968-f3d8-5a5a-b189-5f3a309bb64b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b6c85b5faa8f0e56282b3a780713ae329db8ec7607099e44d62b5f94a5cdb2bf",
+        "comment": "SHA-256 of extension package for Foosball (menihhcicpgkoakckmlcjnclmpmlijmi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "0e8009dc-5c92-5ec6-8fad-0289b87f748e",
         "type": "text",
@@ -7870,6 +8472,20 @@
         "value": "https://chromewebstore.google.com/detail/gefiaaeadjbmhjndnhedfccdjjlgjhho",
         "comment": "Chrome Web Store entry for Enhanced Image Viewer (gefiaaeadjbmhjndnhedfccdjjlgjhho)",
         "distribution": "5"
+      },
+      {
+        "uuid": "7441dea8-763f-52e7-b8aa-aaf34c1cecb0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "73681d8cc78c8f407918f334fad0de602bbfa0795b0a46e439839416d9ca8943",
+        "comment": "SHA-256 of extension package for Enhanced Image Viewer (gefiaaeadjbmhjndnhedfccdjjlgjhho)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "4cff0fbb-0b4f-57f2-91f9-0a0012990a51",
