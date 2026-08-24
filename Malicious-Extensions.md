@@ -1,5 +1,42 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| djafnlldfhomhgdfffjefmampgdnejje | Ig Emails Exporter Pro | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| chalophnpjhcokicndlginmjenocddlh | Freevault Web Proxy | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
+| hmfdgglohegpbemenokedmennamogphp | 1 Porn Blocker | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
+| ninhbekacgejnflaeknpjflnenjbpolm | Draftrelay Draft Room Bet | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| cpgenigkjobhjmdoocpbnkegceddkiih | Instagram Comments Export | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| mnocbckemfajihnohefdokciipbdplng | Bestball Edge — Draft Ass | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| gpnfiechjlgobkgnmleiagibnngiieie | Ig Followers Exporter Pro | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| kfkokclkgdaoojdeelpgbpnlmldphgcn | Sprunki Jogue GráTis Onli | Malware | Store Monitoring | 24/08/26 | No | Google Chrome
+| mnbjbpiolcpopojmimlebibpdbpclonh | Dfs Army Best Ball Draft | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| mgllgankehlbdoilaceaonghicfmimmc | Ears Bass Boost Eq Any Au | Malware | Store Monitoring | 24/08/26 | No | Google Chrome
+| abgepmlcdhbbneomfbmodbjngmcalcjl | Instagram Follower Export | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| kplifmfngleolljpdhnialhbdngkdneb | Sprunki Phase 7 | Malware | Store Monitoring | 24/08/26 | No | Google Chrome
+| jiadfdbggbbncbpekpampldhhgeadeon | Ig Downloader Pro | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| dedjilppdnpbameljcbjiaaakkidhhmm | Ig Comments Exporter – Do | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| hllpcahjefcijlmlnhlmhjemcgkgdghh | Instagram Saved Media Exp | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| ffdneijdafjafecnjkegjhcpnejhmjdc | Instagram Profile Tools – | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| fkaobhijiabijdpgpgabbpdfbfkommfo | Export Instagram Follower | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| cfkbpiicadkonbjaddbnmjcaepjglpbk | LеDgеR Web3 Price Viewer | Malware | Store Monitoring | 24/08/26 | No | Google Chrome
+| ddoefjnfdljmcabjebkjfodacklofinf | Watch Movies Online Pro | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
+| fimgpffhikpemjcnfloodfdjfhjkoced | Ig Follower Export Tool I | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| pakhdpiedpnponclldmbkiidkhfblejc | Video Downloader Pro | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
+| kabldegednklibnfobahjjkagpbfadce | Ig Follower Export Tool B | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
+| flpilgddmpnebaiedbkofhofmplgiiil | Chatgpt For Google Cse | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
+| fkkaapfaieengllkkhmennbfkjajeoel | Ig Export Pro Instagram F | Policy Violation | Store Monitoring | 23/08/26 | No | Google Chrome
+| eheokfekdhicohflnahpfmifnlnbkfoj | Games Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 23/08/26 | No | Google Chrome
+| cgdelbjbpigakkmnampgkeigekpacodn | UPS Tracking | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 23/08/26 | No | Google Chrome
+| aajmeahnoefldipnjgodkobfdcpmapno | 青柠起始页 | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 23/08/26 | No | Google Chrome
+| jgkjicglapnoiojomfhcgchmckpgfmag | Majestic Mountain Views | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 23/08/26 | No | Google Chrome
+| inpoelmimmiplkcldmdljiboidfkcfbh | Presearch.com Search With Us | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 23/08/26 | No | Google Chrome
+| mpbjfchndgabpbglafphfphelhffelkg | GmCrm | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 23/08/26 | No | Google Chrome
+| klhdlmakggjklhafembcfpopdoideecl | Botzaper Premium | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 23/08/26 | No | Google Chrome
+| jeejphgepchmchdfihkceoleejbohmaj | MDU Voice | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 23/08/26 | No | Google Chrome
+| fmdkcjleingneojldbkfifminfmjiblf | ZappMaster CRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 23/08/26 | No | Google Chrome
+| eliddpopegfnapciabpclokjfedpnpij | WaUp | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 23/08/26 | No | Google Chrome
+| dgcmienmgppcgifalmokjfgkmlopdbcc | Luma Conecta | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 23/08/26 | No | Google Chrome
+| bhkibpbnfknollmiebgefgadfkjhnaph | Extract Leads | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 23/08/26 | No | Google Chrome
+| aldlfocdncmkocaeifmeihkddpanoioc | MoraesCRM | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 23/08/26 | No | Google Chrome
 | lknmnhjamocaadonhopjcbalpjpihhjf | Cfo Csflipsoptions | Bundling Unwanted Software | Store Monitoring | 23/08/26 | No | Google Chrome
 | lapdandjlmgkhplplkamaedocnnpmobg | Omnipost Ai | Policy Violation | Store Monitoring | 23/08/26 | No | Google Chrome
 | eebpkpoeaeipbacgonjddkndinpmpjbk | TTH - CS2TradersPlus | Bundling Unwanted Software | Store Monitoring | 23/08/26 | No | Google Chrome
@@ -112,7 +149,7 @@
 | ggkbabbeajcoacmcgobollpffemnkkll | Homr Home Bookmark Zillow | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | olejkcbaojpacndbaoicklebfmogkdlk | Ig Export | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | phhljlinhkgkcbgpiomadgmbgpcjhahp | Ig Hashtags Exporter Pro | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
-| mfdemjihbpojomhhimkifcakpkpcblbo | Kahoot Hacker | Malware | Store Monitoring | 14/08/26 | No | Google Chrome
+| mfdemjihbpojomhhimkifcakpkpcblbo | Kahoot Hacker | Malware | Store Monitoring | 14/08/26 | Yes | Google Chrome
 | linneellejnckgjhipdkdjpddcjhejme | Ip Address Finder | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | ljmdanhaffhbjbfjocjllhobfnjgljfi | Apolloio Scraper Export A | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | kmbfihflegnbopmbocpplfliiedoikdb | Fbadsdownloader Fb Ad Dow | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
