@@ -1,12 +1,138 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-08-24T18:08:16Z",
+  "generated": "2026-08-24T21:56:48Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 5910,
+  "total_indicators": 5924,
   "indicators": [
+    {
+      "extension_id": "olpfgimlmpcpofnabplhbanbpkcpopkh",
+      "name": "ColorMaster",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/olpfgimlmpcpofnabplhbanbpkcpopkh",
+      "sha256": "6c78cbdd12768b44c459c4f22f6aeaf716c3fe3485979a7fffff82947aaf9118"
+    },
+    {
+      "extension_id": "odhadpdionnnghcdgnfnaebbchninonm",
+      "name": "Real Tennis",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/odhadpdionnnghcdgnfnaebbchninonm",
+      "sha256": "8bf9b6c9ef94609eb773420d6ab2dd6ccbcb324cbe1ecd539055912ffb7a648f"
+    },
+    {
+      "extension_id": "nojanoccemhagmebpkhheceeciakbnjj",
+      "name": "Rodeo Gaming",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/nojanoccemhagmebpkhheceeciakbnjj",
+      "sha256": "fb608067065e0e4e2c86a3371477255f0f2f0d74434a2944d3cb01d0d7e85036"
+    },
+    {
+      "extension_id": "lanlgpbaimolmaddlhkdikbekkhgchnb",
+      "name": "Snakes & Ladders",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/lanlgpbaimolmaddlhkdikbekkhgchnb",
+      "sha256": "e2989cd39aa109bafafeb3f67b08bb17948866a3a6aa4a291a02687a22129b07"
+    },
+    {
+      "extension_id": "kbjgcbphgpmocnifmiabfcnglomheonp",
+      "name": "Draw on Web",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/kbjgcbphgpmocnifmiabfcnglomheonp",
+      "sha256": "d8670ee728345beb695b2d0bb098a95269986fdbe98993d61902970e144ecbfa"
+    },
+    {
+      "extension_id": "jehpcklodflliemeoalmcpbbjhmibnoa",
+      "name": "Telegram \ufeff\ufeffMulti-account",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/jehpcklodflliemeoalmcpbbjhmibnoa",
+      "sha256": "fd4b676dc14e8aba74691f89fc2bd99f87664c012e3ad7e03ce4a6f227fa1aca"
+    },
+    {
+      "extension_id": "ifiaoagjidkedahdcgpjipkhmnkkhcid",
+      "name": "SLOT KATANA FRUITS",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/ifiaoagjidkedahdcgpjipkhmnkkhcid",
+      "sha256": "08a66a48bfc158259505e5782dd99fad33e4e95612f91b266aae12774fba9841"
+    },
+    {
+      "extension_id": "ialiakkbglbihgmbgeaoelcinpbhlilh",
+      "name": "Game Kittygram Pro",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/ialiakkbglbihgmbgeaoelcinpbhlilh",
+      "sha256": "65f9970bffdeff0d464168a02b85b87eb399eb6b0ba317a6588aca3cde3578a8"
+    },
+    {
+      "extension_id": "eejjlbledknodmhedabibmagbofnonal",
+      "name": "Traffic Escape Game",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/eejjlbledknodmhedabibmagbofnonal",
+      "sha256": "471e4a4f889e887e0b6f256d94f584a05eaa26c92b9ba599d04326496ee3bb4d"
+    },
+    {
+      "extension_id": "dmnopdmknoocmplpjbgjpncgajiclbhj",
+      "name": "EspoCRM chat for company",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/dmnopdmknoocmplpjbgjpncgajiclbhj",
+      "sha256": "05b872707f525d505b50bcdb04611eed95ec52da0b12a0813ef5ea9992a45d03"
+    },
+    {
+      "extension_id": "dfolmkiioopcjhlgplmgghaafoobkfon",
+      "name": "Gold Miner",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/dfolmkiioopcjhlgplmgghaafoobkfon",
+      "sha256": "fa5d28f257b99069478a3f7995b64d29862aa2c3d974d74a06d5ee36df9bb0ee"
+    },
+    {
+      "extension_id": "caiefmpbohoambhdmbgkejacmipnkomb",
+      "name": "Best Blackjack",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/caiefmpbohoambhdmbgkejacmipnkomb",
+      "sha256": "221df657e53ccf49c3189340702c8927a082411a2c36b64fef87b67c0bea32e2"
+    },
+    {
+      "extension_id": "aahhemfjdkjamblajnjcddcffpcpmlia",
+      "name": "Best Snake",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/aahhemfjdkjamblajnjcddcffpcpmlia",
+      "sha256": "3fa149b2e8cf0758575cafb817cd11149a30873c5b6e1de4fe17af79baa736de"
+    },
+    {
+      "extension_id": "menihhcicpgkoakckmlcjnclmpmlijmi",
+      "name": "Foosball",
+      "source": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-24",
+      "store_url": "https://chromewebstore.google.com/detail/menihhcicpgkoakckmlcjnclmpmlijmi",
+      "sha256": "b6c85b5faa8f0e56282b3a780713ae329db8ec7607099e44d62b5f94a5cdb2bf"
+    },
     {
       "extension_id": "djafnlldfhomhgdfffjefmampgdnejje",
       "name": "Ig Emails Exporter Pro",
@@ -1805,7 +1931,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-13",
       "store_url": "https://chromewebstore.google.com/detail/gefiaaeadjbmhjndnhedfccdjjlgjhho",
-      "sha256": ""
+      "sha256": "73681d8cc78c8f407918f334fad0de602bbfa0795b0a46e439839416d9ca8943"
     },
     {
       "extension_id": "cdflnehplopihjenmpdpimigmajdfoon",
