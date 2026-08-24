@@ -1,5 +1,19 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| olpfgimlmpcpofnabplhbanbpkcpopkh | ColorMaster | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| odhadpdionnnghcdgnfnaebbchninonm | Real Tennis | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| nojanoccemhagmebpkhheceeciakbnjj | Rodeo Gaming | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| lanlgpbaimolmaddlhkdikbekkhgchnb | Snakes & Ladders | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| kbjgcbphgpmocnifmiabfcnglomheonp | Draw on Web | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| jehpcklodflliemeoalmcpbbjhmibnoa | Telegram ﻿﻿Multi-account | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| ifiaoagjidkedahdcgpjipkhmnkkhcid | SLOT KATANA FRUITS | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| ialiakkbglbihgmbgeaoelcinpbhlilh | Game Kittygram Pro | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| eejjlbledknodmhedabibmagbofnonal | Traffic Escape Game | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| dmnopdmknoocmplpjbgjpncgajiclbhj | EspoCRM chat for company | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| dfolmkiioopcjhlgplmgghaafoobkfon | Gold Miner | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| caiefmpbohoambhdmbgkejacmipnkomb | Best Blackjack | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| aahhemfjdkjamblajnjcddcffpcpmlia | Best Snake | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| menihhcicpgkoakckmlcjnclmpmlijmi | Foosball | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
 | djafnlldfhomhgdfffjefmampgdnejje | Ig Emails Exporter Pro | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
 | chalophnpjhcokicndlginmjenocddlh | Freevault Web Proxy | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
 | hmfdgglohegpbemenokedmennamogphp | 1 Porn Blocker | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
