@@ -1,5 +1,23 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| cigkgjjhaklfppedcelcdnffcnfhmcen | Whatsapp Bulk Messenger | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| nabkbdggdphbbmifmgmdioddechcdmfc | Smit Wa Connect | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| pcngchfbfgejllcbhmeadjhiebebiome | Ledgerlook Wallet Checker | Malware | Store Monitoring | 25/08/26 | No | Google Chrome
+| ogfhkjfpjfiffmhdkcfjhjeigilkaepo | Tiktok Enhanced Pro – Tik | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| pfdefjcfknbodekmaenhhbnpcbalegba | Web For Whatsapp | Malware | Store Monitoring | 25/08/26 | No | Google Chrome
+| mimgdhaipeoabahkhogcikfindhhnpej | Super Mario 64 New Stars | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| djjnmfmadfimhkkekdhgjggojncfdhca | The Solver Extension | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| lmhbkinmjbfihpkihjdhcagnigpklinh | Github File Diff | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| obbimeepfgnpanehhppdikckhbjcamng | Ottpro | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| gipefdkbappkbkdjdjagadoejgnklhml | Colonist Resource Tracker | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| amefmmaoenlhckgaoppgnmhlcolehkho | Github Vscode Icons Updat | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| kkbjdlhgkcjacpcogpffnaahanepnfch | Ai Chat Summarizer For Wa | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| iaanbmgemoggkbigfkpblobfdajkkmfo | Claude To Pdf | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| ligffiaiehimfbhjflgkkfanhfjmdaoi | Tokscript Tiktok Analytic | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| hiamcdfoigjkjihfmobahmmhmnnegplp | Claude Chat Manager | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| kalmlgjkibkjeepmlenkeljokfoijngl | Github Pull Request Helpe | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
+| hecfogjmfjkghhgggkmhlflilmjeckap | Uniswap Tracker Price Pro | Malware | Store Monitoring | 25/08/26 | No | Google Chrome
+| lellnghljljjbfbmmoigkoopbbcablio | Olx Pro — без реклами та | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
 | olpfgimlmpcpofnabplhbanbpkcpopkh | ColorMaster | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
 | odhadpdionnnghcdgnfnaebbchninonm | Real Tennis | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
 | nojanoccemhagmebpkhheceeciakbnjj | Rodeo Gaming | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
@@ -37,6 +55,7 @@
 | pakhdpiedpnponclldmbkiidkhfblejc | Video Downloader Pro | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
 | kabldegednklibnfobahjjkagpbfadce | Ig Follower Export Tool B | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
 | flpilgddmpnebaiedbkofhofmplgiiil | Chatgpt For Google Cse | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
+| lefcpjbffalgdcdgidjdnmabfenecjdf | Github Code Folding | Policy Violation | Store Monitoring | 23/08/26 | No | Google Chrome
 | fkkaapfaieengllkkhmennbfkjajeoel | Ig Export Pro Instagram F | Policy Violation | Store Monitoring | 23/08/26 | No | Google Chrome
 | eheokfekdhicohflnahpfmifnlnbkfoj | Games Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 23/08/26 | No | Google Chrome
 | cgdelbjbpigakkmnampgkeigekpacodn | UPS Tracking | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 23/08/26 | No | Google Chrome
@@ -158,7 +177,7 @@
 | omkemjhgpkjndbaodphkbcblhlepgilk | Habitloom | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | fifephmoifgenkpjphfkabncphifhmlg | Bettercomments Ai For You | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | jefegnbojiaffeogmfjglgoacdfibbaf | Instagram Image Downloade | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
-| lpcmlaeiogmdlfkbamjadfegnmonghok | Internet Archive Download | Malware | Store Monitoring | 14/08/26 | No | Google Chrome
+| lpcmlaeiogmdlfkbamjadfegnmonghok | Internet Archive Download | Malware | Store Monitoring | 14/08/26 | Yes | Google Chrome
 | denhicfhhkekhhklejdafkjboolgdhop | Vu Assist – Vu Lms Deadli | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | ggkbabbeajcoacmcgobollpffemnkkll | Homr Home Bookmark Zillow | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
 | olejkcbaojpacndbaoicklebfmogkdlk | Ig Export | Policy Violation | Store Monitoring | 14/08/26 | No | Google Chrome
