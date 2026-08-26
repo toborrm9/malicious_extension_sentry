@@ -1,5 +1,19 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ifebedegonbbimebaojpnhhhihdgjben | IG Sorter - Sort Feed - works on Instagram™ | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| annkjhcjigpmgklikjlgbjbjdfgiijhm | Inline Crypto Prices | Bundling Unwanted Software | Store Monitoring | 26/08/26 | No | Google Chrome
+| ebolpgppgaejjbaiihcehpjmoogabmga | Instagram Downloader | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| emihfclhkepdcpfpoopllonphpibodlk | Armc Url 단축기 | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| dpfcgnjfgkaglkmejflhbabfiahngchl | Ig Downloader Reels Profi | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| loeknhagajkghjogeeikkmmhammodihd | Ivory Silk | Bundling Unwanted Software | Store Monitoring | 26/08/26 | No | Google Chrome
+| cbadljfopamgkkekddmjhmkbpiildnik | Ig Video Downloader | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| docabaefjidccnojpiiflplkncplneie | Flamingo Pink | Bundling Unwanted Software | Store Monitoring | 26/08/26 | No | Google Chrome
+| ceikigfmhinbmemjcldleiikakbnkdll | Neon Mint | Bundling Unwanted Software | Store Monitoring | 26/08/26 | No | Google Chrome
+| hcjaejgpcoiihodipgahhcpeejanjhhb | Pulse Room Tip Bridge | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| aboofioldlelmncpifbbfhadebfmgchc | Instamedia Saver – Photo | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| popplfodeakahlnpocdpiiocgnpfepel | Archive Page - Wayback Machine & Web Archive | Bundling Unwanted Software | Store Monitoring | 26/08/26 | No | Google Chrome
+| jnmchoenmgoakgfjpeenknekgnpcmaei | Instagram Downloader For | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| klcdjmampbnbfccchhebjlmdkiddcadn | Lavender Mist | Bundling Unwanted Software | Store Monitoring | 26/08/26 | No | Google Chrome
 | cigkgjjhaklfppedcelcdnffcnfhmcen | Whatsapp Bulk Messenger | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
 | nabkbdggdphbbmifmgmdioddechcdmfc | Smit Wa Connect | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
 | pcngchfbfgejllcbhmeadjhiebebiome | Ledgerlook Wallet Checker | Malware | Store Monitoring | 25/08/26 | No | Google Chrome
@@ -41,7 +55,7 @@
 | gpnfiechjlgobkgnmleiagibnngiieie | Ig Followers Exporter Pro | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
 | kfkokclkgdaoojdeelpgbpnlmldphgcn | Sprunki Jogue GráTis Onli | Malware | Store Monitoring | 24/08/26 | No | Google Chrome
 | mnbjbpiolcpopojmimlebibpdbpclonh | Dfs Army Best Ball Draft | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
-| mgllgankehlbdoilaceaonghicfmimmc | Ears Bass Boost Eq Any Au | Malware | Store Monitoring | 24/08/26 | No | Google Chrome
+| mgllgankehlbdoilaceaonghicfmimmc | Ears Bass Boost Eq Any Au | Malware | Store Monitoring | 24/08/26 | Yes | Google Chrome
 | abgepmlcdhbbneomfbmodbjngmcalcjl | Instagram Follower Export | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
 | kplifmfngleolljpdhnialhbdngkdneb | Sprunki Phase 7 | Malware | Store Monitoring | 24/08/26 | No | Google Chrome
 | jiadfdbggbbncbpekpampldhhgeadeon | Ig Downloader Pro | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
@@ -49,7 +63,7 @@
 | hllpcahjefcijlmlnhlmhjemcgkgdghh | Instagram Saved Media Exp | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
 | ffdneijdafjafecnjkegjhcpnejhmjdc | Instagram Profile Tools – | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
 | fkaobhijiabijdpgpgabbpdfbfkommfo | Export Instagram Follower | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
-| cfkbpiicadkonbjaddbnmjcaepjglpbk | LеDgеR Web3 Price Viewer | Malware | Store Monitoring | 24/08/26 | No | Google Chrome
+| cfkbpiicadkonbjaddbnmjcaepjglpbk | LеDgеR Web3 Price Viewer | Malware | Store Monitoring | 24/08/26 | Yes | Google Chrome
 | ddoefjnfdljmcabjebkjfodacklofinf | Watch Movies Online Pro | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
 | fimgpffhikpemjcnfloodfdjfhjkoced | Ig Follower Export Tool I | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
 | pakhdpiedpnponclldmbkiidkhfblejc | Video Downloader Pro | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
