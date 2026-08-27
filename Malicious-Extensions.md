@@ -1,5 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| noepohpdhkiahhfkjcjkjmjnbgpeghno | Instaloader Download Stor | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| bnokdlbmmofjnfapgdnmdfidlganjpkb | كود خصم نون 80% قوي 2024 | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| ccnflongamhfnaogcbdgfcbmhhegejke | 4S Entrega A Canarias | Malware | Store Monitoring | 27/08/26 | No | Google Chrome
+| djipebaamoellnalpigkhbhlndjlfdoe | Sellaio Vinted Selling As | Malware | Store Monitoring | 27/08/26 | No | Google Chrome
+| jopholkclaegickcokicfdhifiammece | Cloakfy — Cloaker RáPido | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| aendjpnmgmjkommnipdjiebjehcpieai | Coworker Ai | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| mahlilfpphgcnjelgmakmhpekjnoeamp | Veepn — работает в рф в 2 | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| gcbopejmaooomanljccdndjkljgippha | Let Story Drive | Malware | Store Monitoring | 26/08/26 | No | Google Chrome
+| hdphablapjcicechbehicmkpcgfenhko | Inkfold — Quiet Page Them | Malware | Store Monitoring | 26/08/26 | No | Google Chrome
+| filokefpjdcpdnckablppnagjlfnigpo | Anonymous Search | Malware | Store Monitoring | 26/08/26 | No | Google Chrome
 | ifebedegonbbimebaojpnhhhihdgjben | IG Sorter - Sort Feed - works on Instagram™ | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | annkjhcjigpmgklikjlgbjbjdfgiijhm | Inline Crypto Prices | Bundling Unwanted Software | Store Monitoring | 26/08/26 | No | Google Chrome
 | ebolpgppgaejjbaiihcehpjmoogabmga | Instagram Downloader | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
@@ -11,7 +21,7 @@
 | ceikigfmhinbmemjcldleiikakbnkdll | Neon Mint | Bundling Unwanted Software | Store Monitoring | 26/08/26 | No | Google Chrome
 | hcjaejgpcoiihodipgahhcpeejanjhhb | Pulse Room Tip Bridge | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | aboofioldlelmncpifbbfhadebfmgchc | Instamedia Saver – Photo | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
-| popplfodeakahlnpocdpiiocgnpfepel | Archive Page - Wayback Machine & Web Archive | Bundling Unwanted Software | Store Monitoring | 26/08/26 | No | Google Chrome
+| popplfodeakahlnpocdpiiocgnpfepel | Archive Page - Wayback Machine & Web Archive | Bundling Unwanted Software | Store Monitoring | 26/08/26 | Yes | Google Chrome
 | jnmchoenmgoakgfjpeenknekgnpcmaei | Instagram Downloader For | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | klcdjmampbnbfccchhebjlmdkiddcadn | Lavender Mist | Bundling Unwanted Software | Store Monitoring | 26/08/26 | No | Google Chrome
 | cigkgjjhaklfppedcelcdnffcnfhmcen | Whatsapp Bulk Messenger | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
