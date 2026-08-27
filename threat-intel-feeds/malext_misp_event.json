@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-26",
-    "timestamp": "1787769711",
+    "date": "2026-08-27",
+    "timestamp": "1787830035",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,394 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "d0e6d0e4-04af-5261-aa0f-34721d22a970",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "noepohpdhkiahhfkjcjkjmjnbgpeghno",
+        "comment": "Instaloader Download Stor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "002d206e-22ca-52ad-b4ee-191a856ef1db",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/noepohpdhkiahhfkjcjkjmjnbgpeghno",
+        "comment": "Chrome Web Store entry for Instaloader Download Stor (noepohpdhkiahhfkjcjkjmjnbgpeghno)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5d91cb25-4fbb-57ba-8fc4-71c4d03168e5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "27a75263ae720dfe5af872bbee5a2578b15a7dac114572e64b39a8bf03e62077",
+        "comment": "SHA-256 of extension package for Instaloader Download Stor (noepohpdhkiahhfkjcjkjmjnbgpeghno)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "da756261-dad2-5ec5-b21a-dcd4cdedb5fd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bnokdlbmmofjnfapgdnmdfidlganjpkb",
+        "comment": "\u0643\u0648\u062f \u062e\u0635\u0645 \u0646\u0648\u0646 80% \u0642\u0648\u064a 2024 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "707fae8c-3405-574c-b2cf-81ecc965cf9a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bnokdlbmmofjnfapgdnmdfidlganjpkb",
+        "comment": "Chrome Web Store entry for \u0643\u0648\u062f \u062e\u0635\u0645 \u0646\u0648\u0646 80% \u0642\u0648\u064a 2024 (bnokdlbmmofjnfapgdnmdfidlganjpkb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2f666125-38db-528d-94d8-e83f907455ee",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1ed673fe0d159dbeb6e7fc0cbbcfa32f07fd410f165496cd4647456ee74a26e4",
+        "comment": "SHA-256 of extension package for \u0643\u0648\u062f \u062e\u0635\u0645 \u0646\u0648\u0646 80% \u0642\u0648\u064a 2024 (bnokdlbmmofjnfapgdnmdfidlganjpkb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "83dc68ef-af9a-5c8d-b5be-3b4b847b560f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ccnflongamhfnaogcbdgfcbmhhegejke",
+        "comment": "4S Entrega A Canarias | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9e0ec16f-a2fc-5c70-af95-29b803c2e6d2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ccnflongamhfnaogcbdgfcbmhhegejke",
+        "comment": "Chrome Web Store entry for 4S Entrega A Canarias (ccnflongamhfnaogcbdgfcbmhhegejke)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ea762573-7e46-5239-8efb-9e135f511443",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9222f7a7dce4bdd27677388fb6b194cedf768f59f004565773001fe2df6f82a0",
+        "comment": "SHA-256 of extension package for 4S Entrega A Canarias (ccnflongamhfnaogcbdgfcbmhhegejke)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "304bbae2-4ad0-59c5-a81a-f48f10678e0c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "djipebaamoellnalpigkhbhlndjlfdoe",
+        "comment": "Sellaio Vinted Selling As | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "56e132b0-b7ca-5d55-9bae-876edebdceb4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/djipebaamoellnalpigkhbhlndjlfdoe",
+        "comment": "Chrome Web Store entry for Sellaio Vinted Selling As (djipebaamoellnalpigkhbhlndjlfdoe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b4c77e10-ba09-5336-8c7f-1367df9cc00a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "61fe0a1abb9e59758a817d8a008c04119cc977a626f545efba2c823c905d5923",
+        "comment": "SHA-256 of extension package for Sellaio Vinted Selling As (djipebaamoellnalpigkhbhlndjlfdoe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0e248083-7f0a-525e-bcea-954dafb44d8c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jopholkclaegickcokicfdhifiammece",
+        "comment": "Cloakfy \u2014 Cloaker R\u00e1Pido | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "668de26a-7dcc-548e-b9d6-1460b3a0b225",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jopholkclaegickcokicfdhifiammece",
+        "comment": "Chrome Web Store entry for Cloakfy \u2014 Cloaker R\u00e1Pido (jopholkclaegickcokicfdhifiammece)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e90edde6-9308-5ae2-9d82-d31703aaac1c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e9a7fefbf28eb491c4823bb58bf2be9b27150fa772c542af0e8739ceb2f08714",
+        "comment": "SHA-256 of extension package for Cloakfy \u2014 Cloaker R\u00e1Pido (jopholkclaegickcokicfdhifiammece)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "74225031-fcd3-5525-a7f3-b03fe1657352",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aendjpnmgmjkommnipdjiebjehcpieai",
+        "comment": "Coworker Ai | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d1505262-12e1-5a8e-b03f-cd2321eea04c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aendjpnmgmjkommnipdjiebjehcpieai",
+        "comment": "Chrome Web Store entry for Coworker Ai (aendjpnmgmjkommnipdjiebjehcpieai)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e71ab1dc-2aee-5a82-8f1f-405dac5f1f6f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fbbc3d39d913228435d0da6585dd4d5e57936fe3cf16a8d51c96576d82b32ce3",
+        "comment": "SHA-256 of extension package for Coworker Ai (aendjpnmgmjkommnipdjiebjehcpieai)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "416539c3-75af-5f99-928b-10d4a845dd2f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mahlilfpphgcnjelgmakmhpekjnoeamp",
+        "comment": "Veepn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0432 2 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-27",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "19f24e95-55b0-59a0-ad80-f1a0f05efd72",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mahlilfpphgcnjelgmakmhpekjnoeamp",
+        "comment": "Chrome Web Store entry for Veepn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0432 2 (mahlilfpphgcnjelgmakmhpekjnoeamp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a4bf89dd-3e5e-5116-bcbe-0b577a29e153",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2dba2fdb0e7b12ed2b92641cf0dcf859d34942852b2f97718afc7ff424860d90",
+        "comment": "SHA-256 of extension package for Veepn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0432 2 (mahlilfpphgcnjelgmakmhpekjnoeamp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "365d237b-def4-5164-a976-dd8e62421ff6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gcbopejmaooomanljccdndjkljgippha",
+        "comment": "Let Story Drive | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0d05c23e-2a7d-581f-922e-75799f8630c7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gcbopejmaooomanljccdndjkljgippha",
+        "comment": "Chrome Web Store entry for Let Story Drive (gcbopejmaooomanljccdndjkljgippha)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1f07fc8d-3358-56e3-81c2-3b100b3ca9ef",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hdphablapjcicechbehicmkpcgfenhko",
+        "comment": "Inkfold \u2014 Quiet Page Them | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3e4903ef-e364-5e14-b04f-d047ca4e9035",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hdphablapjcicechbehicmkpcgfenhko",
+        "comment": "Chrome Web Store entry for Inkfold \u2014 Quiet Page Them (hdphablapjcicechbehicmkpcgfenhko)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f949a6c0-065f-511a-bf0f-29cca826bd27",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "filokefpjdcpdnckablppnagjlfnigpo",
+        "comment": "Anonymous Search | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f07ab635-5fe7-5538-98e9-08b088c36257",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/filokefpjdcpdnckablppnagjlfnigpo",
+        "comment": "Chrome Web Store entry for Anonymous Search (filokefpjdcpdnckablppnagjlfnigpo)",
+        "distribution": "5"
+      },
       {
         "uuid": "7acfa328-49cd-587b-8545-59733c32db51",
         "type": "text",
