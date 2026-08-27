@@ -1,5 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| gioehmkjkeamcinbdelehlpnpdcdjpdp | Video Speed Controller | Malware | Store Monitoring | 27/08/26 | No | Google Chrome
+| ajahfdehgfhmabhcboolclgljfcfbjfh | Instagram Unfollowers Ana | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| pgodpokbbnjajeegdmdgfkhhnjbdlbgb | Calculator | Bundling Unwanted Software | Store Monitoring | 27/08/26 | No | Google Chrome
+| bjloflngiikiaompabcfmijldljfjmeb | Instagram Turbo Downloade | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| poeflaognjmhagkpjjofnnfighbagecb | Veepn Vpn — современный V | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| hebkbokjnbplmbbjlnjdbnblabbbhimo | Instagram Downloader Phot | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| fnmjllgjoemhlphloacgocmlldcfphjl | Instagram Unfollow Checke | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| ejichjkgohmpmjggepcjmmdgpgobegmc | Send Url To Gmail | Malware | Store Monitoring | 27/08/26 | No | Google Chrome
+| okkhilbipckbhcdihhnilpgbjhcmgnam | ThôNg BáO | Malware | Store Monitoring | 27/08/26 | No | Google Chrome
+| aefkfnngcimbmgokglfhfnndlddnamde | F Social Scraper Export P | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| edhmpfaieckgngcldnlnndghefklgbkm | Veepn Vpn — современный V | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | noepohpdhkiahhfkjcjkjmjnbgpeghno | Instaloader Download Stor | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | bnokdlbmmofjnfapgdnmdfidlganjpkb | كود خصم نون 80% قوي 2024 | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | ccnflongamhfnaogcbdgfcbmhhegejke | 4S Entrega A Canarias | Malware | Store Monitoring | 27/08/26 | No | Google Chrome
