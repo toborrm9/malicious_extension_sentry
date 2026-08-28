@@ -1,12 +1,66 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-08-27T21:04:08Z",
+  "generated": "2026-08-28T16:36:16Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 5978,
+  "total_indicators": 5988,
   "indicators": [
+    {
+      "extension_id": "mdlmbadphiocmkjghlcofpdmnifimfpj",
+      "name": "Beyit \u2013 Trouver Le Meuble",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-28",
+      "store_url": "https://chromewebstore.google.com/detail/mdlmbadphiocmkjghlcofpdmnifimfpj",
+      "sha256": "08eebba339f6c8ee9135fd5574c79c788b58afbfa874c8ec3aaea1824d69d893"
+    },
+    {
+      "extension_id": "pmocfkabpcbbnoaffoplhpiniilgbccd",
+      "name": "Instagram Reels Downloade",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-28",
+      "store_url": "https://chromewebstore.google.com/detail/pmocfkabpcbbnoaffoplhpiniilgbccd",
+      "sha256": "b3dcc1f392e50c32e72ac9a4940c8ac0e4bb883304c7122afe1afb4404ddba3e"
+    },
+    {
+      "extension_id": "miidjpmjpkbpefhnfcdcoolaaedfmlam",
+      "name": "Instagram Downloader \u2014 Fa",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-28",
+      "store_url": "https://chromewebstore.google.com/detail/miidjpmjpkbpefhnfcdcoolaaedfmlam",
+      "sha256": "294a3d12e278a9a45b36db3ed6acc5eaf516f9e180ff6b423d75f62503d1a64b"
+    },
+    {
+      "extension_id": "fcgdejjichpgfaaafflplhfijcnieopb",
+      "name": "PixelCheck",
+      "source": "https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-28",
+      "store_url": "https://chromewebstore.google.com/detail/fcgdejjichpgfaaafflplhfijcnieopb",
+      "sha256": "fefd54146b56654d9221ebe617aceb352e4c3caefa73e12cc6b847901cad8628"
+    },
+    {
+      "extension_id": "jamminefolhgepgihbmcjjhgldbfcikp",
+      "name": "Password Protect PDF",
+      "source": "https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-28",
+      "store_url": "https://chromewebstore.google.com/detail/jamminefolhgepgihbmcjjhgldbfcikp",
+      "sha256": "7ac147e31f069872f53bcfff9ccef181a0a1d263069cc76aee3ae1fbb1ef69e3"
+    },
+    {
+      "extension_id": "inmkjedjdhgpknjogbjomhnbgdccckkg",
+      "name": "Allow Copy - Select &amp; Enable Right Click",
+      "source": "https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise",
+      "store": "Microsoft Edge",
+      "insert_date": "2026-08-28",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/inmkjedjdhgpknjogbjomhnbgdccckkg",
+      "sha256": "a21756e8c4e0e1f73f18a1ab8e0393ba38407d03263dfba83e76242d5f5f1181"
+    },
     {
       "extension_id": "gioehmkjkeamcinbdelehlpnpdcdjpdp",
       "name": "Video Speed Controller",
@@ -170,13 +224,49 @@
       "sha256": "2dba2fdb0e7b12ed2b92641cf0dcf859d34942852b2f97718afc7ff424860d90"
     },
     {
+      "extension_id": "fccbpogngmnjglejjdpaonideclomihp",
+      "name": "Ig Media Saver \u2013 Reels St",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-26",
+      "store_url": "https://chromewebstore.google.com/detail/fccbpogngmnjglejjdpaonideclomihp",
+      "sha256": "025723eeb53413452b432544d47d28749a349ae093973ef8119e059fa7b2f09a"
+    },
+    {
+      "extension_id": "ghgfdacpcfajmpnncjegemgiimecijkk",
+      "name": "Sage Os \u2014 Universal Intel",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-26",
+      "store_url": "https://chromewebstore.google.com/detail/ghgfdacpcfajmpnncjegemgiimecijkk",
+      "sha256": "d1d0edf85d45f71d0d165a8eb4dd43e5fa3c2f289093155bbf754596272be269"
+    },
+    {
+      "extension_id": "ahjkodgdnljbbinhdhhoipceclgfcpbe",
+      "name": "Instagram Video Downloade",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-26",
+      "store_url": "https://chromewebstore.google.com/detail/ahjkodgdnljbbinhdhhoipceclgfcpbe",
+      "sha256": "198748e67bccb259c03f2e976f531ca30e49bff853e2bee9f8e733104322b0dd"
+    },
+    {
+      "extension_id": "kgeblhhdapgiapcbbdpbgfmpgmdhchcb",
+      "name": "Whatfa",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-26",
+      "store_url": "https://chromewebstore.google.com/detail/kgeblhhdapgiapcbbdpbgfmpgmdhchcb",
+      "sha256": "6e5dd3e638fbbcd37e9cd013263bf3af3857fb08955418f46f9fbce58c20d15c"
+    },
+    {
       "extension_id": "gcbopejmaooomanljccdndjkljgippha",
       "name": "Let Story Drive",
       "source": "Store Monitoring",
       "store": "Google Chrome",
       "insert_date": "2026-08-26",
       "store_url": "https://chromewebstore.google.com/detail/gcbopejmaooomanljccdndjkljgippha",
-      "sha256": ""
+      "sha256": "abb25b6bdd6e67051bd6463935d07e5f26ec53b82e389ec935227dd789546849"
     },
     {
       "extension_id": "hdphablapjcicechbehicmkpcgfenhko",
@@ -185,7 +275,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-26",
       "store_url": "https://chromewebstore.google.com/detail/hdphablapjcicechbehicmkpcgfenhko",
-      "sha256": ""
+      "sha256": "d3ee8d715eadc5bb9eb6dd8dee8c4021a7e783b8707bf3bff6167029517ba025"
     },
     {
       "extension_id": "filokefpjdcpdnckablppnagjlfnigpo",
@@ -194,7 +284,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-26",
       "store_url": "https://chromewebstore.google.com/detail/filokefpjdcpdnckablppnagjlfnigpo",
-      "sha256": ""
+      "sha256": "594f35a6dcd5277ffe0300d4441db818b2c4021a94add3e9c5c3ab98dd92b080"
     },
     {
       "extension_id": "ifebedegonbbimebaojpnhhhihdgjben",
@@ -1211,7 +1301,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-21",
       "store_url": "https://chromewebstore.google.com/detail/fhmdokbnolljegookmejbcdmcgmldelo",
-      "sha256": ""
+      "sha256": "ee9c3ef5158ad20a5b8f11dca99621b6edb1123d6403b0c380aec728edbf6929"
     },
     {
       "extension_id": "iamblimkhijiipmkagophlemfddacpia",
@@ -1229,7 +1319,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-21",
       "store_url": "https://chromewebstore.google.com/detail/aidfankpgeehongkginbjihikkddhpnh",
-      "sha256": ""
+      "sha256": "f4ed5b4ce420e618b2be4eee1931cb5d07838a2e401eea31396a80ef28c9ed84"
     },
     {
       "extension_id": "knoihkkfoehbdbgealjafdmgngmmienk",
@@ -1265,7 +1355,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-21",
       "store_url": "https://chromewebstore.google.com/detail/pmgnjaijlgjkihdodlfimpgfohcdmplk",
-      "sha256": ""
+      "sha256": "19914f6478fe91a4a80e147cfcef81a1fb2be2b36039c194c7623e3ee869c8cb"
     },
     {
       "extension_id": "hfijkbdkpidafdbeebnnkhfccildbcle",
@@ -1283,7 +1373,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-21",
       "store_url": "https://chromewebstore.google.com/detail/lpfemeioodjbpieminkklglpmhlngfcn",
-      "sha256": ""
+      "sha256": "02e08cd96e67c635e37d5540b883101a7bff64827909677d5e80f9a8572c6a98"
     },
     {
       "extension_id": "hoecpacncalchikbmplgelfakglemgfb",
@@ -1301,7 +1391,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-21",
       "store_url": "https://chromewebstore.google.com/detail/pabollagmidggpgadabbicnohakbjhbh",
-      "sha256": ""
+      "sha256": "6702a9e6c7c980d345165ad47fc00db2f3d8db81221bca839ea506318695e272"
     },
     {
       "extension_id": "headbjfalpddcjbidmlncdkalnkhjjin",
@@ -1427,7 +1517,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-19",
       "store_url": "https://chromewebstore.google.com/detail/fpdecahflcdnkcbhbbelpgmdbogejnbk",
-      "sha256": ""
+      "sha256": "c5dd7334b0452eeebc1efa414e4b1fc5a4468163ba1ece691cd90929e594513f"
     },
     {
       "extension_id": "oajgkebdeioegjkaohcipgblnkjibple",
@@ -1463,7 +1553,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-19",
       "store_url": "https://chromewebstore.google.com/detail/fichokhkmcfkekhemokklhnnhmkojjhp",
-      "sha256": ""
+      "sha256": "77a85a310ef55f28c55893756f23ac10ba4abacd0f61d893e524c7896d537083"
     },
     {
       "extension_id": "cpchgbmeajbblgibpabmebjiiifjjnog",
@@ -1544,7 +1634,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-19",
       "store_url": "https://chromewebstore.google.com/detail/npegblfpjhdpkjjjnoebpganaflohada",
-      "sha256": ""
+      "sha256": "953d7c74030696e5c644470a9a0d32e3d00f900943077a1000066a57fdb98f4e"
     },
     {
       "extension_id": "lgdhgkhhglmhiacjecigalebiffjklec",
@@ -1571,7 +1661,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-19",
       "store_url": "https://chromewebstore.google.com/detail/hgefpjhmmdmhaobcjembpglgkjlogclh",
-      "sha256": ""
+      "sha256": "00a4a2fb0b62f845ad97fd5e1e22f1f4820421c802d3ff7668b24b11c0fbb510"
     },
     {
       "extension_id": "clgficggccelgifppbcaepjdkklfcefd",
@@ -1652,7 +1742,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-18",
       "store_url": "https://chromewebstore.google.com/detail/noekegnglokhjbnjhjolnimjeieffmpc",
-      "sha256": ""
+      "sha256": "204754e20ba29cf9360e591b660c8eca28531ee8527b6e7ebcbfc20da067e281"
     },
     {
       "extension_id": "lkglljbhdhdcjlcmfeopmaboidhgilcm",
@@ -1670,7 +1760,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-18",
       "store_url": "https://chromewebstore.google.com/detail/dbmciplpdhfafomegblkbbahplebbbck",
-      "sha256": ""
+      "sha256": "c59c8c2e8bac7bae30d852e674b375f79ef13d7944e7b91c29c6fa36fa04e308"
     },
     {
       "extension_id": "ajdebbjbeooifamghmcociacfilnnjke",
@@ -1715,7 +1805,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-17",
       "store_url": "https://chromewebstore.google.com/detail/adjdmjaifoghdepaplgnfkadkdkcgncd",
-      "sha256": ""
+      "sha256": "f5ad34ef6f05a24f9809e56732d5cc94931c7e26e13449a8e0ac71b712b125ec"
     },
     {
       "extension_id": "bnolicehjnimmdfkihmojhonickmhegp",
@@ -1760,7 +1850,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-15",
       "store_url": "https://chromewebstore.google.com/detail/lemlcbkckbbnpkheigiokeobcflangne",
-      "sha256": ""
+      "sha256": "15e7df8df2bf44409526ecffa0bc08ca060f245d007b9fa9aa815198d7b86ee8"
     },
     {
       "extension_id": "hfgnobciaakadflahfbognkofoggimlc",
@@ -1868,7 +1958,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/ajbmmmckhheefbaieldbdejleiakfeam",
-      "sha256": ""
+      "sha256": "82c5e08665363b4bb450ab94fe0ea10c3eee833ba6f4c1b8456d74787202d4c7"
     },
     {
       "extension_id": "amdcajcnofodjpgbbdnnjkffamfnidae",
@@ -1886,7 +1976,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/fffailogmnmehmjjikchagmgeandgifp",
-      "sha256": ""
+      "sha256": "40626d6b62503036cb7bcc60191ea3972dde5a9172e0f3a9a1136a8c28954156"
     },
     {
       "extension_id": "omkemjhgpkjndbaodphkbcblhlepgilk",
@@ -1913,7 +2003,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/jefegnbojiaffeogmfjglgoacdfibbaf",
-      "sha256": ""
+      "sha256": "78652fe0d1e28507b5985e18dbdb6f49c1190fe2050e4cc19ff25d85339c4d62"
     },
     {
       "extension_id": "lpcmlaeiogmdlfkbamjadfegnmonghok",
@@ -1931,7 +2021,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/denhicfhhkekhhklejdafkjboolgdhop",
-      "sha256": ""
+      "sha256": "c018015ea57241822093d70b2caf39f73ffc1ed47524f55b651d96dc6c027829"
     },
     {
       "extension_id": "ggkbabbeajcoacmcgobollpffemnkkll",
@@ -1940,7 +2030,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/ggkbabbeajcoacmcgobollpffemnkkll",
-      "sha256": ""
+      "sha256": "d24428c6471aca15b6915a4a43bfa807ac6ec01e0ada6772092816c858aa5b59"
     },
     {
       "extension_id": "olejkcbaojpacndbaoicklebfmogkdlk",
@@ -1949,7 +2039,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/olejkcbaojpacndbaoicklebfmogkdlk",
-      "sha256": ""
+      "sha256": "403a987fab09bc8e6dcb954178f79a8f4fded7cae777988f1781fd1b76d1810d"
     },
     {
       "extension_id": "phhljlinhkgkcbgpiomadgmbgpcjhahp",
@@ -1967,7 +2057,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/mfdemjihbpojomhhimkifcakpkpcblbo",
-      "sha256": ""
+      "sha256": "66f236c747182e7787c8a3b01bd070218af87399c376b9bbab377172f78b4947"
     },
     {
       "extension_id": "linneellejnckgjhipdkdjpddcjhejme",
@@ -1985,7 +2075,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/ljmdanhaffhbjbfjocjllhobfnjgljfi",
-      "sha256": ""
+      "sha256": "d1572dddadc43330ab1661b734e02bfd41ad1651c00cb2084ecdb1d3e513e167"
     },
     {
       "extension_id": "kmbfihflegnbopmbocpplfliiedoikdb",
@@ -1994,7 +2084,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/kmbfihflegnbopmbocpplfliiedoikdb",
-      "sha256": ""
+      "sha256": "503b840db6f9313d6511bd3ce8ad74c7fd4e5fc5f74ae3a15f238cc5c145b30a"
     },
     {
       "extension_id": "jigbajcickecllhfcpdfcaobdmpcdbnh",
@@ -2012,7 +2102,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/emcmgfgpjcikliiefmkcngfeakcopcdc",
-      "sha256": ""
+      "sha256": "060cb7f4ffdd29795395a6cb6a9f2208f4149492dcec70bd8ef84f66f5186d07"
     },
     {
       "extension_id": "idpffgabghnkilmipgihgdhmdhcaleen",
@@ -2030,7 +2120,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/pgjbfgpkjliaffjchgdbbefbkbcifemb",
-      "sha256": ""
+      "sha256": "82e85d86f6098558717cbdac5c0407f854d1af3f6b4efec8f0550b78930285a4"
     },
     {
       "extension_id": "cgnafleifgjloabngnnegkeeedopjaog",
@@ -2066,7 +2156,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/bbpbefhjibmlhnejbdgfjeckmglgcadp",
-      "sha256": ""
+      "sha256": "1ecce59633dc936bc354a3ea55206ad76eb2926768606f382ab10c03dfcf409d"
     },
     {
       "extension_id": "gfackggoapepdmnjnkblogdcjpgcjiak",
@@ -2075,7 +2165,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/gfackggoapepdmnjnkblogdcjpgcjiak",
-      "sha256": ""
+      "sha256": "7dbfa037dc9f52ddbbfce8e2789a23f7242c5cc0e8a78eb321b98394ac50dc15"
     },
     {
       "extension_id": "lnnbjejjanhgjakiobppbbchlgbbglio",
@@ -2084,7 +2174,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/lnnbjejjanhgjakiobppbbchlgbbglio",
-      "sha256": ""
+      "sha256": "86bc1560c92738111d811a41ddcc25714dcc692114bfdd4197f97bc3f764b570"
     },
     {
       "extension_id": "ggdabihkadphcoaelpnhefhacpjlkinj",
@@ -2093,7 +2183,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/ggdabihkadphcoaelpnhefhacpjlkinj",
-      "sha256": ""
+      "sha256": "68644f9437c803dbf091dd50cc5a97eac5acf48559ec10f3d9a2bcdb6aaf840f"
     },
     {
       "extension_id": "afmeoinleedkppffddmbefkjenaiefaa",
@@ -2129,7 +2219,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/chmmffdjkghbaihmmahkhlomgdlhpnbd",
-      "sha256": ""
+      "sha256": "069f1f4ad0aa641f0c61c3b3ecf23a6661e300f54581fac8c76e16af6c138b03"
     },
     {
       "extension_id": "llalepkemdeahfadgopnngobmfldfmld",
@@ -2138,7 +2228,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/llalepkemdeahfadgopnngobmfldfmld",
-      "sha256": ""
+      "sha256": "d44a95afcd4204919e6923832f130d537239990d06468273a24153bfcee94c54"
     },
     {
       "extension_id": "ebgimfckollnebpapgadnbklnpkplkag",
@@ -2147,7 +2237,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/ebgimfckollnebpapgadnbklnpkplkag",
-      "sha256": ""
+      "sha256": "f62fe1437c9bc21a993b1543a2e70aab1f969ac3e9e6c5821a32c7f6d9d32fcc"
     },
     {
       "extension_id": "ddpdhpckljlihjgcilgbihdlhhanbbdd",
@@ -2156,7 +2246,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/ddpdhpckljlihjgcilgbihdlhhanbbdd",
-      "sha256": ""
+      "sha256": "70ba349b18d63232d9ea28aaa4c727ec5c68271270bafd06f40d96326ea1769c"
     },
     {
       "extension_id": "ifheapamoameidejkkbboignhflofifj",
@@ -2165,7 +2255,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/ifheapamoameidejkkbboignhflofifj",
-      "sha256": ""
+      "sha256": "1b5ef3acfcf7b036fe9f8bdec4d7d338bdb8f18ff8a181e1cdaf7a117c5e82cb"
     },
     {
       "extension_id": "mjmpppckljipbiclkfdcgagedalogfeo",
@@ -2255,7 +2345,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/pkoccklolohdacbfooifnpebakpbeipc",
-      "sha256": ""
+      "sha256": "753419ba14e7b3647bda769a52279b799aa4356d8aa0f6da4b262ad8db09af95"
     },
     {
       "extension_id": "hnpiljfmekfjeaolnojfgblonmgekago",
@@ -2273,7 +2363,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/ccgfdpcandaoolokmfcmjdmfklcnbeki",
-      "sha256": ""
+      "sha256": "6fbca355f4ed429a704966d84c5e8e6d06a169c4ce077a573942566e02eea1a6"
     },
     {
       "extension_id": "ihnbkefpjapeogbdmamjgbhkihgchcim",
@@ -2282,7 +2372,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/ihnbkefpjapeogbdmamjgbhkihgchcim",
-      "sha256": ""
+      "sha256": "ae89461c09458c10cc58f8c8adf23d80311069538dcb0aa5d4d1f49131a711e6"
     },
     {
       "extension_id": "nhhighgihjikmgelmbpfblfcdeegbcmd",
@@ -2291,7 +2381,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/nhhighgihjikmgelmbpfblfcdeegbcmd",
-      "sha256": ""
+      "sha256": "a9f1375d0dc8c497fc308666d1266717d0d1ea0e9be2056bd2c7ba10dbc1d0eb"
     },
     {
       "extension_id": "ilhnnmiaoeiogojmdgokibkngmmadmoo",
@@ -2354,7 +2444,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-14",
       "store_url": "https://chromewebstore.google.com/detail/lmcgngnnonmkpendfjklelgoonofbgnd",
-      "sha256": ""
+      "sha256": "1eb9b05347d103c7bf20d17321dfb203431b38e457957543759a035d1f36dd26"
     },
     {
       "extension_id": "aocnpoeacdkliebfhpelljlncdhaioob",
@@ -2372,7 +2462,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-13",
       "store_url": "https://chromewebstore.google.com/detail/ndajfpegjbfighkffegpggkldibnheff",
-      "sha256": ""
+      "sha256": "426777be5adb7f389093501ccaf84cdee0e27fae17b40789d7a238e1536c45db"
     },
     {
       "extension_id": "jkeflcjglbnapakmmhcabdgokdjbgpgh",
@@ -2390,7 +2480,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-13",
       "store_url": "https://chromewebstore.google.com/detail/ifghdbobdcacioinidakemgegoekheoh",
-      "sha256": ""
+      "sha256": "3c725ff2c80398dbac6aeb7b4d25607b974540c3e97e7f3a8ba0637e56f5ee7c"
     },
     {
       "extension_id": "jbbabmpfeijejfppanomgkboefbbjlbp",
@@ -2408,7 +2498,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-13",
       "store_url": "https://chromewebstore.google.com/detail/pdfljehjkbbacjbgnocamgcllobmfocc",
-      "sha256": ""
+      "sha256": "fa0f9bde2607485c278695d60489b5510e7e72bc39b31390fb82c54c86974866"
     },
     {
       "extension_id": "gefiaaeadjbmhjndnhedfccdjjlgjhho",
@@ -2453,7 +2543,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-13",
       "store_url": "https://chromewebstore.google.com/detail/nidbhikhpaodemmejncjhdfapkdhdfkl",
-      "sha256": ""
+      "sha256": "d1859ca3047a78275e4cc9e42d143638142fd262b1ec0166e3089855732f6145"
     },
     {
       "extension_id": "jchmdadlihkhndkddiagaibdemndhajc",
@@ -2462,7 +2552,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-13",
       "store_url": "https://chromewebstore.google.com/detail/jchmdadlihkhndkddiagaibdemndhajc",
-      "sha256": ""
+      "sha256": "171a4b8e703048fd44850caf5ec796d70fe38532fd80a986acadef417dff4311"
     },
     {
       "extension_id": "cpjlhfibbpmfoijdicebahcjeoknpkfh",
@@ -2480,7 +2570,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-13",
       "store_url": "https://chromewebstore.google.com/detail/lnmpgeigaomcfkjmknmbcbidhialnfoe",
-      "sha256": ""
+      "sha256": "640514d36e7a4bd8408a1afd3f9ec4b5bdf54aa14109cbe489e19a30355ec204"
     },
     {
       "extension_id": "apilnokcbfedbfdgbmpfljlckbmfadib",
@@ -2489,7 +2579,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-13",
       "store_url": "https://chromewebstore.google.com/detail/apilnokcbfedbfdgbmpfljlckbmfadib",
-      "sha256": ""
+      "sha256": "fdad85196bcc79db52e01847d25592f5b4b4e9611537584364b6e9e8551edee1"
     },
     {
       "extension_id": "fkbdamdaoheghmjnldfbicfmgpppeffd",
@@ -2840,7 +2930,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-13",
       "store_url": "https://chromewebstore.google.com/detail/ckknpnhlibplhgffgchcgjadedcmkecb",
-      "sha256": ""
+      "sha256": "62b6dff168e247580a9c9279ee515b34bd034311db97a166dde8b03beef71da3"
     },
     {
       "extension_id": "jdihogecojffhidcdpcnpgbbegaeofnj",
@@ -3029,7 +3119,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-13",
       "store_url": "https://chromewebstore.google.com/detail/fjocjcfidommojjhcedgjmacmackjlan",
-      "sha256": ""
+      "sha256": "4af3eb270cbc764e140e916687fab9380c5aa4177244960ec28901ee523fd942"
     },
     {
       "extension_id": "bnajopgmcfoobgjooggalbpenbckchbo",
@@ -4955,7 +5045,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-11",
       "store_url": "https://chromewebstore.google.com/detail/pfpohepbjnhnebohjdgopbccmecfomkm",
-      "sha256": ""
+      "sha256": "302a165444bd0c52c7204334db7ba280c76b60033941ff1c6cb1c684181a8204"
     },
     {
       "extension_id": "nchghnaahdllgkgobmppafdnhhahpimf",
@@ -5252,7 +5342,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-08",
       "store_url": "https://chromewebstore.google.com/detail/glajkljjbfbiangbaolkeliobaimmdil",
-      "sha256": ""
+      "sha256": "81e4b757811dd1af77a6842c12f89e4cdd4df75f39809131ea0b508de1e9de50"
     },
     {
       "extension_id": "jhbdjdfjebflcoajbgefnpppfdbfbmnn",
@@ -5459,7 +5549,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-08",
       "store_url": "https://chromewebstore.google.com/detail/bleimifmiabmhihkdggbebohflemfhjl",
-      "sha256": ""
+      "sha256": "8a090fa2d52df29b5eef7ea705321542a2247bb3851007d13ddcfe3a1ab6d9ea"
     },
     {
       "extension_id": "ldfnfnhmcahjkabepggofpjbojlbgikj",
@@ -5594,7 +5684,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-08",
       "store_url": "https://chromewebstore.google.com/detail/pblgohklgienpmbdkipiecodogbdipdo",
-      "sha256": ""
+      "sha256": "fceed99e87db5860788ee40edc013e9c9b18f7108349af277f2c112cad0ac68b"
     },
     {
       "extension_id": "gacadjlkiojoenheoehplaiahghjohai",
@@ -5729,7 +5819,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-07",
       "store_url": "https://chromewebstore.google.com/detail/agchcjkheangfiopepndmenabbaopnpp",
-      "sha256": ""
+      "sha256": "3f42d2e6d10a7a3da02e31b16b4171ab4bc0f56a3d14e0fbae876c13f7fa5270"
     },
     {
       "extension_id": "okblbahgmoaidijdfnlkmaohpmjcolck",
@@ -6143,7 +6233,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-06",
       "store_url": "https://chromewebstore.google.com/detail/fgdoknedfpjibmgoanmgcmnkiloibdag",
-      "sha256": ""
+      "sha256": "b1fe4c74157e311ac335e5559e8785d86ec54cc6bcb55b44c738efbc926ce979"
     },
     {
       "extension_id": "amgdndfabpoddpebjanadfejghlkfdnp",
@@ -6260,7 +6350,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-05",
       "store_url": "https://chromewebstore.google.com/detail/ncedobmamfgfiphhpgbadnmhapafipan",
-      "sha256": ""
+      "sha256": "2714fd30ea2eb95473456dba2294971ca3d4ef77489debb471562909e90ca2ab"
     },
     {
       "extension_id": "nbpheppbncjcimpgjgdofifdfnoagpnf",
@@ -6503,7 +6593,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-04",
       "store_url": "https://chromewebstore.google.com/detail/kjaajhhdnbfppnllichedpelbgpljcce",
-      "sha256": ""
+      "sha256": "78498bd65344079c91b5a2548f80a5aebdd7626387b2b04505c6518734f5c964"
     },
     {
       "extension_id": "dajkpjadggkoaiokkdglalnmhgefjlop",
@@ -6512,7 +6602,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-04",
       "store_url": "https://chromewebstore.google.com/detail/dajkpjadggkoaiokkdglalnmhgefjlop",
-      "sha256": ""
+      "sha256": "dd13039a90de3459e4a6ff2b6712591f0fb4d51c65891c4c7319902d4b009f7d"
     },
     {
       "extension_id": "bhfcboeafhnhchjbhjpgbnnhnidmhglm",
@@ -6593,7 +6683,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-04",
       "store_url": "https://chromewebstore.google.com/detail/heibdjjdpjbnpghehkhmgflhcbgdhemc",
-      "sha256": ""
+      "sha256": "ca2529dd14b648d65c8fcb818c695b7105fa46891ea20b6a909474dd3d12c10a"
     },
     {
       "extension_id": "ihalngeilpabgppmcflhhhpaohbhgima",
@@ -8771,7 +8861,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-02",
       "store_url": "https://chromewebstore.google.com/detail/dejbkoamefcdbolpcpppeblbmbkdljmo",
-      "sha256": ""
+      "sha256": "6fe38053329fe5c5e10ea1926646c97c29ebe4fa27a09b379bceec79ad2f94d0"
     },
     {
       "extension_id": "ijidomgpacjmolpdobebnkocnogkphpp",
@@ -9806,7 +9896,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-08-02",
       "store_url": "https://chromewebstore.google.com/detail/kejenndfhndojdfoecjjkaeefogjgeid",
-      "sha256": ""
+      "sha256": "565e5c98f99bed01f43ebe6392e23c2f6c3ba787f65e1c4ba5202fc179c4a631"
     },
     {
       "extension_id": "clonlklkobdppgnhaklminjfgchpgiob",
@@ -31154,7 +31244,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-06-22",
       "store_url": "https://chromewebstore.google.com/detail/cckdnkffddcifghhlecfhdkaohikjnca",
-      "sha256": ""
+      "sha256": "aa22a6beea79e5220dd2b739783a3ab6699b86ff6cb71723b194675abd24e73c"
     },
     {
       "extension_id": "cbojomnehgiadpclibfpidkipekmeldd",
@@ -31766,7 +31856,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-06-16",
       "store_url": "https://chromewebstore.google.com/detail/faokdcbkhaommllbpffgplpmlkhjkkag",
-      "sha256": ""
+      "sha256": "32c636eaab93c34018a12a573e43626a5b5856f3702611de0e7d764725bca5ff"
     },
     {
       "extension_id": "elaekhpgbmapglaicephmgmpmimnjmpb",
@@ -34637,7 +34727,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-06-04",
       "store_url": "https://chromewebstore.google.com/detail/knjlljcpgcmcgaamhgcihkfcglgdmpfp",
-      "sha256": ""
+      "sha256": "36f0a89415846f73bba51a4b241abc74e3f2863dbf1321e736b51a88801d3b5c"
     },
     {
       "extension_id": "lobljgjhoaceknahaaijoelcebpchmii",
@@ -38525,7 +38615,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-05-13",
       "store_url": "https://chromewebstore.google.com/detail/pmkbdfddjmnceffcgdgfnenkngkkeheg",
-      "sha256": ""
+      "sha256": "875a0c6531f2fe4a251c64ed99dda6698e7502c9b1e01e41bebe0084a7cc35d6"
     },
     {
       "extension_id": "gadlhgaecbhahkiojnnfnkklomflhifh",
@@ -47237,7 +47327,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-02-10",
       "store_url": "https://chromewebstore.google.com/detail/dbfmnekepjoapopniengjbcpnbljalfg",
-      "sha256": ""
+      "sha256": "92634f28a8c8aa9ff6d3dd4ad99e6a005583323ef3ac82e09f5d34c77dd26cd8"
     },
     {
       "extension_id": "dakebdbeofhmlnmjlmhjdmmjmfohiicn",
