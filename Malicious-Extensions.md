@@ -1,5 +1,11 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| mdlmbadphiocmkjghlcofpdmnifimfpj | Beyit – Trouver Le Meuble | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
+| pmocfkabpcbbnoaffoplhpiniilgbccd | Instagram Reels Downloade | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
+| miidjpmjpkbpefhnfcdcoolaaedfmlam | Instagram Downloader — Fa | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
+| fcgdejjichpgfaaafflplhfijcnieopb | PixelCheck | Malware | [socket.dev](https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise) | 28/08/26 | No | Google Chrome
+| jamminefolhgepgihbmcjjhgldbfcikp | Password Protect PDF | Malware | [socket.dev](https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise) | 28/08/26 | No | Google Chrome
+| inmkjedjdhgpknjogbjomhnbgdccckkg | Allow Copy - Select &amp; Enable Right Click | Malware | [socket.dev](https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise) | 28/08/26 | No | Microsoft Edge
 | gioehmkjkeamcinbdelehlpnpdcdjpdp | Video Speed Controller | Malware | Store Monitoring | 27/08/26 | No | Google Chrome
 | ajahfdehgfhmabhcboolclgljfcfbjfh | Instagram Unfollowers Ana | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | pgodpokbbnjajeegdmdgfkhhnjbdlbgb | Calculator | Bundling Unwanted Software | Store Monitoring | 27/08/26 | No | Google Chrome
@@ -8,7 +14,7 @@
 | hebkbokjnbplmbbjlnjdbnblabbbhimo | Instagram Downloader Phot | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | fnmjllgjoemhlphloacgocmlldcfphjl | Instagram Unfollow Checke | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | ejichjkgohmpmjggepcjmmdgpgobegmc | Send Url To Gmail | Malware | Store Monitoring | 27/08/26 | No | Google Chrome
-| okkhilbipckbhcdihhnilpgbjhcmgnam | ThôNg BáO | Malware | Store Monitoring | 27/08/26 | No | Google Chrome
+| okkhilbipckbhcdihhnilpgbjhcmgnam | ThôNg BáO | Malware | Store Monitoring | 27/08/26 | Yes | Google Chrome
 | aefkfnngcimbmgokglfhfnndlddnamde | F Social Scraper Export P | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | edhmpfaieckgngcldnlnndghefklgbkm | Veepn Vpn — современный V | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | noepohpdhkiahhfkjcjkjmjnbgpeghno | Instaloader Download Stor | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
@@ -18,7 +24,11 @@
 | jopholkclaegickcokicfdhifiammece | Cloakfy — Cloaker RáPido | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | aendjpnmgmjkommnipdjiebjehcpieai | Coworker Ai | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | mahlilfpphgcnjelgmakmhpekjnoeamp | Veepn — работает в рф в 2 | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
-| gcbopejmaooomanljccdndjkljgippha | Let Story Drive | Malware | Store Monitoring | 26/08/26 | No | Google Chrome
+| fccbpogngmnjglejjdpaonideclomihp | Ig Media Saver – Reels St | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| ghgfdacpcfajmpnncjegemgiimecijkk | Sage Os — Universal Intel | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| ahjkodgdnljbbinhdhhoipceclgfcpbe | Instagram Video Downloade | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| kgeblhhdapgiapcbbdpbgfmpgmdhchcb | Whatfa | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| gcbopejmaooomanljccdndjkljgippha | Let Story Drive | Malware | Store Monitoring | 26/08/26 | Yes | Google Chrome
 | hdphablapjcicechbehicmkpcgfenhko | Inkfold — Quiet Page Them | Malware | Store Monitoring | 26/08/26 | No | Google Chrome
 | filokefpjdcpdnckablppnagjlfnigpo | Anonymous Search | Malware | Store Monitoring | 26/08/26 | No | Google Chrome
 | ifebedegonbbimebaojpnhhhihdgjben | IG Sorter - Sort Feed - works on Instagram™ | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
@@ -5308,7 +5318,7 @@
 | mkhdiephfhifcgpmkaaboknnbdpjlneg | DeepSeek Assistant: AI Chat, Minibar, SidePanel &amp; Search | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | ifhigdhiifbnjanhacoedbadhmlkjgae | Chat with AI | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | hafhkoalnlpoifpidohfjlmeemfifndi | Grok AI | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
-| fgbieegonkgdlkmeaapmkejdlfalonkb | DeepSeek AI | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
+| fgbieegonkgdlkmeaapmkejdlfalonkb | DeepSeek AI | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | Yes | Google Chrome
 | aoemlgniakbojcecmjefonjkgnceklpg | Grok 4 | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | bdcimkinofohfmldheklgfbjkfehfdhl | Chat GPT 5 | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | jlbpahgopcmomkgegpbmopfodolajhbl | ChatGPT for Chrome - GPT Search | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
