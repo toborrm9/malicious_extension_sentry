@@ -1,5 +1,14 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| mhncgbfifjnhlilpnccgbimimkjejada | Gotranslate | Policy Violation | Store Monitoring | 29/08/26 | No | Google Chrome
+| capklhcnphjcognojjgehofahbbbcofa | Quantpass — Quantum Safe | Policy Violation | Store Monitoring | 29/08/26 | No | Google Chrome
+| lefjfignfojkkikjeaaaggodnhhpgcpk | Leona Session Connector | Policy Violation | Store Monitoring | 29/08/26 | No | Google Chrome
+| nflgeofmjffgnlglbejacoiglicnplid | Autojob Ai | Policy Violation | Store Monitoring | 29/08/26 | No | Google Chrome
+| elaogkenfoddnegadkgeghpgkbnmmjgf | Enable Right Click Allow | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
+| hdcphljdjknhchbhiadnmgagcfnfbhle | Veladash | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
+| bcmnighlnebajobnfeeomoedeledkeeg | Whatsapp Group Number Exp | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
+| ddebicjafjgbpkabihkcgkbgbllebcbi | Instagram Downloader Vide | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
+| iajhefbpknacpdbpdamgeigojdnepebk | Clarisa Enhanced Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 28/08/26 | No | Google Chrome
 | mdlmbadphiocmkjghlcofpdmnifimfpj | Beyit – Trouver Le Meuble | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
 | pmocfkabpcbbnoaffoplhpiniilgbccd | Instagram Reels Downloade | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
 | miidjpmjpkbpefhnfcdcoolaaedfmlam | Instagram Downloader — Fa | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
@@ -24,6 +33,7 @@
 | jopholkclaegickcokicfdhifiammece | Cloakfy — Cloaker RáPido | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | aendjpnmgmjkommnipdjiebjehcpieai | Coworker Ai | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | mahlilfpphgcnjelgmakmhpekjnoeamp | Veepn — работает в рф в 2 | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| bcbhmmkddbmlhkiinbkgbgkbibpjkkjo | Chainprint | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | fccbpogngmnjglejjdpaonideclomihp | Ig Media Saver – Reels St | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | ghgfdacpcfajmpnncjegemgiimecijkk | Sage Os — Universal Intel | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | ahjkodgdnljbbinhdhhoipceclgfcpbe | Instagram Video Downloade | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
@@ -1813,7 +1823,7 @@
 | foimljlmpocnneeknjkeehngaipkllpi | Mushoku Tensei Wallpapers New Tab Anime Extension | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 31/07/26 | No | Google Chrome
 | eolegobhiehgdegahdefnebohcddgkhb | Ferrari F8 Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 31/07/26 | No | Google Chrome
 | jmgpiffneoeeilmeibedbanolmjhnbnc | Neon BMW Live Wallpaper New Tab | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 31/07/26 | No | Google Chrome
-| nlbglmnpellbhdblkhehibjlfiegeehg | Doreamon Live Wallpaper New Tab | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 31/07/26 | No | Google Chrome
+| nlbglmnpellbhdblkhehibjlfiegeehg | Doreamon Live Wallpaper New Tab | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 31/07/26 | Yes | Google Chrome
 | majpojheifofijcfjplijjkdjelndnfi | BTS Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 31/07/26 | No | Google Chrome
 | jefmddbgpieeleledeklkchkhpjnmjnc | Blue Lock Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 31/07/26 | No | Google Chrome
 | mjooaihklakcoejimcehbhplkohdodbp | Rengoku Live Wallpaper New Tab | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 31/07/26 | No | Google Chrome
@@ -5035,7 +5045,6 @@
 | akdajpomgjgldidenledjjiemgkjcchc | Giant Coupons Official Extension | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No | Google Chrome
 | jaioobipjdejpeckgojiojjahmkiaihp | Care.Sale | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No | Google Chrome
 | hokdpdlchkgcenfpiibjjfkfmleoknkp | Serpey.com official extension | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No | Google Chrome
-| fbakofpmbmcodpmbecdimecilceplfll | ChatGPT Turbo: Fix Lag in Long Chats | Policy Violation | Store Monitoring | 09/03/26 | No | Google Chrome
 | lollnjcjgkflfjicaijghbkoakeflolo | Webaix | Policy Violation | Store Monitoring | 08/03/26 | No | Google Chrome
 | jljejbnelnechodgbdnomodaliifgaek | Beyond Tally | Policy Violation | Store Monitoring | 08/03/26 | No | Google Chrome
 | inbiiigaagjmcbibnecadfgeihghhfja | Trоп Lіnҟ | Malware | Store Monitoring | 07/03/26 | No | Google Chrome
