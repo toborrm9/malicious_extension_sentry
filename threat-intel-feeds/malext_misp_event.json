@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-29",
-    "timestamp": "1787989324",
+    "date": "2026-08-31",
+    "timestamp": "1788186703",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,637 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "613672ad-089c-5740-bef5-2803e0b0f905",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pcdomkmadjedcfhjcopgcfmnjjppfgeh",
+        "comment": "Instagram Downloader Rise | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "219577c7-d67e-5432-9d46-2bb9120c967d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pcdomkmadjedcfhjcopgcfmnjjppfgeh",
+        "comment": "Chrome Web Store entry for Instagram Downloader Rise (pcdomkmadjedcfhjcopgcfmnjjppfgeh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "edf6447e-9ef2-5053-878a-bf43979b1d2e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "57eba3c1c629df775416ac1f74865c18c6625a44a9d1f1223f5b3e2e875ab634",
+        "comment": "SHA-256 of extension package for Instagram Downloader Rise (pcdomkmadjedcfhjcopgcfmnjjppfgeh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "68fbe78d-04a0-5c11-920d-22c9902584cd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mnnifiapknblhpnnkkckgpfcpakdlbci",
+        "comment": "Igdown Download Video And | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d4900c23-4ebe-570b-8db0-cdcb0ed8e3b9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mnnifiapknblhpnnkkckgpfcpakdlbci",
+        "comment": "Chrome Web Store entry for Igdown Download Video And (mnnifiapknblhpnnkkckgpfcpakdlbci)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dedfdbf0-d206-53eb-b244-95caf3eee1f3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4fab95347d452236ef7802118079e452d361dea7b9f6684072d20e2b57450773",
+        "comment": "SHA-256 of extension package for Igdown Download Video And (mnnifiapknblhpnnkkckgpfcpakdlbci)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6bc61899-d74f-5b3d-bd84-27389f83a5cc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "inganoheabmclhopknejmhiegdgobkci",
+        "comment": "Igsave Download Video Ree | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8ee920e8-e386-56f8-a664-fdd2025a4bc1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/inganoheabmclhopknejmhiegdgobkci",
+        "comment": "Chrome Web Store entry for Igsave Download Video Ree (inganoheabmclhopknejmhiegdgobkci)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5337a73a-b98c-58e0-a0db-9edaa87f00b2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0ad0dc24b8f51436565e83a6ada97b172fb692be5decd3206c7a04a3d0da238b",
+        "comment": "SHA-256 of extension package for Igsave Download Video Ree (inganoheabmclhopknejmhiegdgobkci)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f6951e3d-04b8-5618-9b02-c3ae228759d5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ibfadlbkolmeongpagiboljclcepegjm",
+        "comment": "Cpa Speedroll | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5ae92e4a-7ea2-5da1-8430-a7a05097237f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ibfadlbkolmeongpagiboljclcepegjm",
+        "comment": "Chrome Web Store entry for Cpa Speedroll (ibfadlbkolmeongpagiboljclcepegjm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6fa5e5a4-0264-5860-a9d2-5b8c6609c13a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6bd7929e7de97d58873c6a34488fe06d7b83953587c4c7931c3c7794cf8985c7",
+        "comment": "SHA-256 of extension package for Cpa Speedroll (ibfadlbkolmeongpagiboljclcepegjm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "16ec086d-2405-5668-99a3-2540e20ea7b6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fmfdlfhialfgbfojpmammglnlfknobpa",
+        "comment": "Markitly \u2014 Product Insigh | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "906df95f-aade-5f7c-bcaa-c9b850e132cf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fmfdlfhialfgbfojpmammglnlfknobpa",
+        "comment": "Chrome Web Store entry for Markitly \u2014 Product Insigh (fmfdlfhialfgbfojpmammglnlfknobpa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c9471a41-33aa-5947-9a4d-e799c027d5b8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d0e05af8c4eaa7bcb897e4c9f0ca35aed54e7befaa0c5394caecdba0b0ac6848",
+        "comment": "SHA-256 of extension package for Markitly \u2014 Product Insigh (fmfdlfhialfgbfojpmammglnlfknobpa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c773fb18-a17a-5e10-aca2-bdffad923aa0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljlbnjelkhhmellfjmimbkfnddpffcng",
+        "comment": "Vrax | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "de0e667b-ef0c-5584-8793-b9a626f8597e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljlbnjelkhhmellfjmimbkfnddpffcng",
+        "comment": "Chrome Web Store entry for Vrax (ljlbnjelkhhmellfjmimbkfnddpffcng)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "822388c5-ddae-5d5f-b2d1-7c85eab91498",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fe27d9eb7762581fd8ed061eba2097412e16959ab8800cd5141dd2d839171e1a",
+        "comment": "SHA-256 of extension package for Vrax (ljlbnjelkhhmellfjmimbkfnddpffcng)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a53d0d61-a0c7-5d92-9ca4-00f3fa266892",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hfelenejgclmmddkkpidajhljgbjojcn",
+        "comment": "Foxvox | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0f853d08-05f4-561a-80c5-db1db5faaf27",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hfelenejgclmmddkkpidajhljgbjojcn",
+        "comment": "Chrome Web Store entry for Foxvox (hfelenejgclmmddkkpidajhljgbjojcn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e1f591f3-8266-525b-8426-0838da6eafeb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "15355ccf1035040e2df5d57d53b1e17fa56eb8483ae8286e03e4e59b167c102b",
+        "comment": "SHA-256 of extension package for Foxvox (hfelenejgclmmddkkpidajhljgbjojcn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "34913e80-8d9c-55be-8d28-6ed1e2b4f4be",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fjcpkhkjibcmojfmmhofakhlmhhffoib",
+        "comment": "Cookieman | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ac4aa054-287b-5d19-b177-f020f4f27b95",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fjcpkhkjibcmojfmmhofakhlmhhffoib",
+        "comment": "Chrome Web Store entry for Cookieman (fjcpkhkjibcmojfmmhofakhlmhhffoib)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0cdcf03e-34c5-5dee-b51d-bcd956a2f3df",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bcacnpdalpdochchieangjpngigekkgn",
+        "comment": "Dear Lottery Results Toda | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "dfb435e1-cf2d-571b-9e5c-e39a2334252d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bcacnpdalpdochchieangjpngigekkgn",
+        "comment": "Chrome Web Store entry for Dear Lottery Results Toda (bcacnpdalpdochchieangjpngigekkgn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ff3d5cde-d660-5554-a04e-936922dd95fb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2d6a9ea806711c9e6eb8982e138189fcd85cb93e8baef8d11d8c5959aed3b597",
+        "comment": "SHA-256 of extension package for Dear Lottery Results Toda (bcacnpdalpdochchieangjpngigekkgn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "33f78d4e-5131-5646-ad14-c9f2a586c2af",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "noolbkccbkbnodhcmoaienkmmidhallh",
+        "comment": "Exvion Swap Instant Crypt | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "05df9c67-17d3-509b-bf88-825ecd5b0397",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/noolbkccbkbnodhcmoaienkmmidhallh",
+        "comment": "Chrome Web Store entry for Exvion Swap Instant Crypt (noolbkccbkbnodhcmoaienkmmidhallh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2ecd2248-471b-5b9d-bc05-16ff6448bfeb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6544af3bee2ddf78c12ce78803e08e4a13fd4a92985e05137dd8d95b41c2a486",
+        "comment": "SHA-256 of extension package for Exvion Swap Instant Crypt (noolbkccbkbnodhcmoaienkmmidhallh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "78b444e2-2096-5e20-9cf1-ebb53bfc6fd3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "efenjlfanbkpfjlkalojpccajonniamh",
+        "comment": "\u5a92\u9e2d\u68a8\u5c0f\u52a9\u624b | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "735e26bf-1835-5ffc-9481-49152e4c7b29",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/efenjlfanbkpfjlkalojpccajonniamh",
+        "comment": "Chrome Web Store entry for \u5a92\u9e2d\u68a8\u5c0f\u52a9\u624b (efenjlfanbkpfjlkalojpccajonniamh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "65d60b78-f6aa-5ec0-a199-57891c9b8f27",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4f0754f66df4793e0119e4691c834c4e79cc3d9387237df70b45c7a0961a95e4",
+        "comment": "SHA-256 of extension package for \u5a92\u9e2d\u68a8\u5c0f\u52a9\u624b (efenjlfanbkpfjlkalojpccajonniamh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bc39ebbb-98dc-5b17-ad6a-e9d57f6dd9a6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ojhednieodkapdinononghnffkidanfd",
+        "comment": "Scrapion | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "515d168e-416f-5c5e-95ba-c9d3b5f3e752",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ojhednieodkapdinononghnffkidanfd",
+        "comment": "Chrome Web Store entry for Scrapion (ojhednieodkapdinononghnffkidanfd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "677df32a-7c23-50a6-8977-90034c559dab",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ea9a7db99ecc7969f96a23c24a3a01b7cd79ae1349104db9b8b961c36cc1aea4",
+        "comment": "SHA-256 of extension package for Scrapion (ojhednieodkapdinononghnffkidanfd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "47a52f20-35bd-5ee8-aa3c-bcdb5018f986",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jaallccopdnbeomcnmleelehelbicjdo",
+        "comment": "Strava Gpx Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5f2109ff-7792-5094-804e-167afc004771",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jaallccopdnbeomcnmleelehelbicjdo",
+        "comment": "Chrome Web Store entry for Strava Gpx Downloader (jaallccopdnbeomcnmleelehelbicjdo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cdd1cb5e-b127-56ed-af21-59aebec44d60",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "dcf268ebb9c16f5aa93027e48baabda111afdb058bcf57f71565c4a39544232c",
+        "comment": "SHA-256 of extension package for Strava Gpx Downloader (jaallccopdnbeomcnmleelehelbicjdo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "75513203-7f43-554f-8bc9-d009625c867e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bodlenahbaomligpbeggbdgemlblicoe",
+        "comment": "Papertrade \u2014 Meme Coin Pa | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fedbd72b-00cf-54a5-8055-4db39dc33933",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bodlenahbaomligpbeggbdgemlblicoe",
+        "comment": "Chrome Web Store entry for Papertrade \u2014 Meme Coin Pa (bodlenahbaomligpbeggbdgemlblicoe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c4e49fa3-cc61-5349-8d29-2f113fed3023",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b7c18e6bd72c6a9deddfb473a9a6e72aea897becf8c2b9088d29897ef93dfa6d",
+        "comment": "SHA-256 of extension package for Papertrade \u2014 Meme Coin Pa (bodlenahbaomligpbeggbdgemlblicoe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0523c9ca-018e-555f-bdf1-a0c6f53bef08",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kcinopkenmaalcbpimfnoocgoihobjng",
+        "comment": "Downpictures Saver For Me | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b911a7fa-7e09-5695-8508-b75632b64daa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kcinopkenmaalcbpimfnoocgoihobjng",
+        "comment": "Chrome Web Store entry for Downpictures Saver For Me (kcinopkenmaalcbpimfnoocgoihobjng)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c0f11896-7f90-5f75-bd25-3986def369f6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fe507f8fc480b077e54ab9f3154a517fc64c75831d5f2cbb6e16313749a2db74",
+        "comment": "SHA-256 of extension package for Downpictures Saver For Me (kcinopkenmaalcbpimfnoocgoihobjng)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "7ba7af70-0589-5169-a5d0-7d0b0aa5dc3f",
         "type": "text",
@@ -1425,6 +2056,49 @@
         "to_ids": true,
         "value": "2dba2fdb0e7b12ed2b92641cf0dcf859d34942852b2f97718afc7ff424860d90",
         "comment": "SHA-256 of extension package for Veepn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0432 2 (mahlilfpphgcnjelgmakmhpekjnoeamp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "dd16de1c-6bf1-54c4-aec6-472d62862a90",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "coolcfcaobiabkcbdhkggmaebkmbplce",
+        "comment": "Jumpfind 2 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "26ea2a57-f5d5-5d3c-a22a-199219d56b09",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/coolcfcaobiabkcbdhkggmaebkmbplce",
+        "comment": "Chrome Web Store entry for Jumpfind 2 (coolcfcaobiabkcbdhkggmaebkmbplce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5c07fc72-d961-5cc6-bc88-d1b55405e8ef",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "58d13a24c1b7abfdba3714f343ce26f9dbc58a0760095fc2142345a9bb09488d",
+        "comment": "SHA-256 of extension package for Jumpfind 2 (coolcfcaobiabkcbdhkggmaebkmbplce)",
         "distribution": "5",
         "Tag": [
           {
