@@ -1,5 +1,20 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| pcdomkmadjedcfhjcopgcfmnjjppfgeh | Instagram Downloader Rise | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
+| mnnifiapknblhpnnkkckgpfcpakdlbci | Igdown Download Video And | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
+| inganoheabmclhopknejmhiegdgobkci | Igsave Download Video Ree | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
+| ibfadlbkolmeongpagiboljclcepegjm | Cpa Speedroll | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
+| fmfdlfhialfgbfojpmammglnlfknobpa | Markitly — Product Insigh | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
+| ljlbnjelkhhmellfjmimbkfnddpffcng | Vrax | Bundling Unwanted Software | Store Monitoring | 31/08/26 | No | Google Chrome
+| hfelenejgclmmddkkpidajhljgbjojcn | Foxvox | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
+| fjcpkhkjibcmojfmmhofakhlmhhffoib | Cookieman | Bundling Unwanted Software | Store Monitoring | 30/08/26 | No | Google Chrome
+| bcacnpdalpdochchieangjpngigekkgn | Dear Lottery Results Toda | Policy Violation | Store Monitoring | 30/08/26 | No | Google Chrome
+| noolbkccbkbnodhcmoaienkmmidhallh | Exvion Swap Instant Crypt | Policy Violation | Store Monitoring | 30/08/26 | No | Google Chrome
+| efenjlfanbkpfjlkalojpccajonniamh | 媒鸭梨小助手 | Policy Violation | Store Monitoring | 30/08/26 | No | Google Chrome
+| ojhednieodkapdinononghnffkidanfd | Scrapion | Policy Violation | Store Monitoring | 30/08/26 | No | Google Chrome
+| jaallccopdnbeomcnmleelehelbicjdo | Strava Gpx Downloader | Bundling Unwanted Software | Store Monitoring | 30/08/26 | No | Google Chrome
+| bodlenahbaomligpbeggbdgemlblicoe | Papertrade — Meme Coin Pa | Bundling Unwanted Software | Store Monitoring | 30/08/26 | No | Google Chrome
+| kcinopkenmaalcbpimfnoocgoihobjng | Downpictures Saver For Me | Policy Violation | Store Monitoring | 30/08/26 | No | Google Chrome
 | mhncgbfifjnhlilpnccgbimimkjejada | Gotranslate | Policy Violation | Store Monitoring | 29/08/26 | No | Google Chrome
 | capklhcnphjcognojjgehofahbbbcofa | Quantpass — Quantum Safe | Policy Violation | Store Monitoring | 29/08/26 | No | Google Chrome
 | lefjfignfojkkikjeaaaggodnhhpgcpk | Leona Session Connector | Policy Violation | Store Monitoring | 29/08/26 | No | Google Chrome
@@ -13,9 +28,9 @@
 | pmocfkabpcbbnoaffoplhpiniilgbccd | Instagram Reels Downloade | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
 | miidjpmjpkbpefhnfcdcoolaaedfmlam | Instagram Downloader — Fa | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
 | fcgdejjichpgfaaafflplhfijcnieopb | PixelCheck | Malware | [socket.dev](https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise) | 28/08/26 | No | Google Chrome
-| jamminefolhgepgihbmcjjhgldbfcikp | Password Protect PDF | Malware | [socket.dev](https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise) | 28/08/26 | No | Google Chrome
+| jamminefolhgepgihbmcjjhgldbfcikp | Password Protect PDF | Malware | [socket.dev](https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise) | 28/08/26 | Yes | Google Chrome
 | inmkjedjdhgpknjogbjomhnbgdccckkg | Allow Copy - Select &amp; Enable Right Click | Malware | [socket.dev](https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise) | 28/08/26 | No | Microsoft Edge
-| gioehmkjkeamcinbdelehlpnpdcdjpdp | Video Speed Controller | Malware | Store Monitoring | 27/08/26 | No | Google Chrome
+| gioehmkjkeamcinbdelehlpnpdcdjpdp | Video Speed Controller | Malware | Store Monitoring | 27/08/26 | Yes | Google Chrome
 | ajahfdehgfhmabhcboolclgljfcfbjfh | Instagram Unfollowers Ana | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | pgodpokbbnjajeegdmdgfkhhnjbdlbgb | Calculator | Bundling Unwanted Software | Store Monitoring | 27/08/26 | No | Google Chrome
 | bjloflngiikiaompabcfmijldljfjmeb | Instagram Turbo Downloade | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
@@ -33,6 +48,7 @@
 | jopholkclaegickcokicfdhifiammece | Cloakfy — Cloaker RáPido | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | aendjpnmgmjkommnipdjiebjehcpieai | Coworker Ai | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | mahlilfpphgcnjelgmakmhpekjnoeamp | Veepn — работает в рф в 2 | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| coolcfcaobiabkcbdhkggmaebkmbplce | Jumpfind 2 | Malware | Store Monitoring | 26/08/26 | No | Google Chrome
 | bcbhmmkddbmlhkiinbkgbgkbibpjkkjo | Chainprint | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | fccbpogngmnjglejjdpaonideclomihp | Ig Media Saver – Reels St | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | ghgfdacpcfajmpnncjegemgiimecijkk | Sage Os — Universal Intel | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
@@ -59,7 +75,7 @@
 | nabkbdggdphbbmifmgmdioddechcdmfc | Smit Wa Connect | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
 | pcngchfbfgejllcbhmeadjhiebebiome | Ledgerlook Wallet Checker | Malware | Store Monitoring | 25/08/26 | No | Google Chrome
 | ogfhkjfpjfiffmhdkcfjhjeigilkaepo | Tiktok Enhanced Pro – Tik | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
-| pfdefjcfknbodekmaenhhbnpcbalegba | Web For Whatsapp | Malware | Store Monitoring | 25/08/26 | No | Google Chrome
+| pfdefjcfknbodekmaenhhbnpcbalegba | Web For Whatsapp | Malware | Store Monitoring | 25/08/26 | Yes | Google Chrome
 | mimgdhaipeoabahkhogcikfindhhnpej | Super Mario 64 New Stars | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
 | djjnmfmadfimhkkekdhgjggojncfdhca | The Solver Extension | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
 | lmhbkinmjbfihpkihjdhcagnigpklinh | Github File Diff | Policy Violation | Store Monitoring | 25/08/26 | No | Google Chrome
@@ -78,7 +94,7 @@
 | nojanoccemhagmebpkhheceeciakbnjj | Rodeo Gaming | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
 | lanlgpbaimolmaddlhkdikbekkhgchnb | Snakes & Ladders | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
 | kbjgcbphgpmocnifmiabfcnglomheonp | Draw on Web | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
-| jehpcklodflliemeoalmcpbbjhmibnoa | Telegram ﻿﻿Multi-account | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
+| jehpcklodflliemeoalmcpbbjhmibnoa | Telegram ﻿﻿Multi-account | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | Yes | Google Chrome
 | ifiaoagjidkedahdcgpjipkhmnkkhcid | SLOT KATANA FRUITS | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
 | ialiakkbglbihgmbgeaoelcinpbhlilh | Game Kittygram Pro | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
 | eejjlbledknodmhedabibmagbofnonal | Traffic Escape Game | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 24/08/26 | No | Google Chrome
