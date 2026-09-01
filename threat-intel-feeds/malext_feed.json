@@ -1,12 +1,30 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-08-31T14:31:40Z",
+  "generated": "2026-09-01T07:51:42Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6013,
+  "total_indicators": 6015,
   "indicators": [
+    {
+      "extension_id": "liiidicicodopcikclnghfckikjjjgab",
+      "name": "Github Add Bulk Reviewers",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-01",
+      "store_url": "https://chromewebstore.google.com/detail/liiidicicodopcikclnghfckikjjjgab",
+      "sha256": "14acfbc8a43c7de486f38e0e41a7630466605f1f3a1b21e70319db0e22996db2"
+    },
+    {
+      "extension_id": "dloilnapkdfaihhpgglomebkfdaojcdb",
+      "name": "Kraken Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-01",
+      "store_url": "https://chromewebstore.google.com/detail/dloilnapkdfaihhpgglomebkfdaojcdb",
+      "sha256": "a24b23f97ce03e554be2603823b0ca60ef9d512bb4738888db303b40e771b995"
+    },
     {
       "extension_id": "pcdomkmadjedcfhjcopgcfmnjjppfgeh",
       "name": "Instagram Downloader Rise",
