@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-08-31",
-    "timestamp": "1788186703",
+    "date": "2026-09-01",
+    "timestamp": "1788249104",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,92 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "be76c689-171f-5d5f-8290-16dfb634a338",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "liiidicicodopcikclnghfckikjjjgab",
+        "comment": "Github Add Bulk Reviewers | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "76291c1a-582e-5202-aa64-19affde76a78",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/liiidicicodopcikclnghfckikjjjgab",
+        "comment": "Chrome Web Store entry for Github Add Bulk Reviewers (liiidicicodopcikclnghfckikjjjgab)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1d6238aa-9d18-5d29-9fe2-265d2575dde6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "14acfbc8a43c7de486f38e0e41a7630466605f1f3a1b21e70319db0e22996db2",
+        "comment": "SHA-256 of extension package for Github Add Bulk Reviewers (liiidicicodopcikclnghfckikjjjgab)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "42e83175-08c0-593a-8a0f-28dda559420e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dloilnapkdfaihhpgglomebkfdaojcdb",
+        "comment": "Kraken Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "747a3f2d-e854-5a4a-aa33-e6604f6e657a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dloilnapkdfaihhpgglomebkfdaojcdb",
+        "comment": "Chrome Web Store entry for Kraken Extension (dloilnapkdfaihhpgglomebkfdaojcdb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "38ab930c-ff6a-53c8-acae-34ba5eabbdf8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a24b23f97ce03e554be2603823b0ca60ef9d512bb4738888db303b40e771b995",
+        "comment": "SHA-256 of extension package for Kraken Extension (dloilnapkdfaihhpgglomebkfdaojcdb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "613672ad-089c-5740-bef5-2803e0b0f905",
         "type": "text",
