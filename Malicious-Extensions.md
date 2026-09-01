@@ -1,5 +1,7 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| liiidicicodopcikclnghfckikjjjgab | Github Add Bulk Reviewers | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
+| dloilnapkdfaihhpgglomebkfdaojcdb | Kraken Extension | Malware | Store Monitoring | 01/09/26 | No | Google Chrome
 | pcdomkmadjedcfhjcopgcfmnjjppfgeh | Instagram Downloader Rise | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
 | mnnifiapknblhpnnkkckgpfcpakdlbci | Igdown Download Video And | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
 | inganoheabmclhopknejmhiegdgobkci | Igsave Download Video Ree | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
