@@ -1,12 +1,2883 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-09-03T08:02:09Z",
+  "generated": "2026-09-03T14:54:46Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6045,
+  "total_indicators": 6364,
   "indicators": [
+    {
+      "extension_id": "pnechfmigooncmkdmckeploenpdokime",
+      "name": "Vpn \u0414\u043b\u044f \u041b\u044e\u0431\u044b\u0445 \u0421\u0430\u0439\u0442\u043e\u0432 Sock",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/pnechfmigooncmkdmckeploenpdokime",
+      "sha256": ""
+    },
+    {
+      "extension_id": "paeoffpheflnflpfndnilajhpefmjcnn",
+      "name": "Molecule Vpn \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u0442\u043d\u043e\u0441\u0442",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/paeoffpheflnflpfndnilajhpefmjcnn",
+      "sha256": "a38756d16e123c3a3c7464849891a800df4d12968b106833034f6a90c1b41499"
+    },
+    {
+      "extension_id": "aajbepboefmlklnahoafabgojcokghmo",
+      "name": "Proton Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/aajbepboefmlklnahoafabgojcokghmo",
+      "sha256": "df4827fb100188defe21f336f63a4f8d90776960c8fbdd4b59d5f87df18da4f4"
+    },
+    {
+      "extension_id": "cldgjlliipplmoklpacoofkklpndabkh",
+      "name": "Vpn \u0432 \u043e\u0434\u0438\u043d \u043a\u043b\u0438\u043a",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cldgjlliipplmoklpacoofkklpndabkh",
+      "sha256": ""
+    },
+    {
+      "extension_id": "jjoddljddjincadlndpmnoaacgllaipa",
+      "name": "Vpn Go Socks5 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jjoddljddjincadlndpmnoaacgllaipa",
+      "sha256": ""
+    },
+    {
+      "extension_id": "eijnopbblcamoajmmbckabkipchdigfe",
+      "name": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0417\u0430\u0449\u0438\u0442\u0430 \u041f\u0440\u0438",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/eijnopbblcamoajmmbckabkipchdigfe",
+      "sha256": ""
+    },
+    {
+      "extension_id": "lijgemmbhlnihojhoeklihcknjejibfo",
+      "name": "\u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0434\u043b\u044f Chrome",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lijgemmbhlnihojhoeklihcknjejibfo",
+      "sha256": "d5d7658da4e45da0bd37ebe024cb6e5f9707b2b68ca11504dfddd4acc47052ec"
+    },
+    {
+      "extension_id": "bdpfmpoapobjpijdfkailkdemofoikpl",
+      "name": "\u0432\u043f\u043d 2026 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bdpfmpoapobjpijdfkailkdemofoikpl",
+      "sha256": ""
+    },
+    {
+      "extension_id": "bfpjacpjaefmamliiigaegaljkoamkkp",
+      "name": "Argon Vpn \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bfpjacpjaefmamliiigaegaljkoamkkp",
+      "sha256": "bc707a01fb10ee0fdd064baa172ee1f456f06f40e97f86db1c68dd432d29a429"
+    },
+    {
+      "extension_id": "lcnmlhniagjijgfeeipblmiiojagiheo",
+      "name": "Happ Vpn \u2014 Vpn \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lcnmlhniagjijgfeeipblmiiojagiheo",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ipkabodgngmeokkpacepebghbpcofkjh",
+      "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u043f\u043d \u2014 Vpn \u0441 \u043c\u0430\u043a\u0441\u0438",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ipkabodgngmeokkpacepebghbpcofkjh",
+      "sha256": ""
+    },
+    {
+      "extension_id": "japjkbohafabgoobdjopbgogcaojghjn",
+      "name": "Rain Vpn \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0432\u043f\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/japjkbohafabgoobdjopbgogcaojghjn",
+      "sha256": ""
+    },
+    {
+      "extension_id": "agnmhhebllipfgbjapeaokbmookepach",
+      "name": "Veepn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 Vpn \u0434\u043b\u044f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/agnmhhebllipfgbjapeaokbmookepach",
+      "sha256": "1151dadcba1882eea1c742b0a55bc1fe4d99510522ab79bf9c991d4736aae91a"
+    },
+    {
+      "extension_id": "ihngndofkobdmakeialhcpdicpcjinkb",
+      "name": "Adguard Vpn \u2014 \u0437\u0430\u0449\u0438\u0442\u0430 \u0431\u0440\u0430\u0443",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ihngndofkobdmakeialhcpdicpcjinkb",
+      "sha256": ""
+    },
+    {
+      "extension_id": "hkbpbikcldilobnafmlkloejlphbeljl",
+      "name": "\u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Zyvex Vpn \u043e\u0431\u0445\u043e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hkbpbikcldilobnafmlkloejlphbeljl",
+      "sha256": ""
+    },
+    {
+      "extension_id": "nibloijlhkpmdafbanpddodlnpcnndcl",
+      "name": "Happ Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nibloijlhkpmdafbanpddodlnpcnndcl",
+      "sha256": ""
+    },
+    {
+      "extension_id": "gjfonhlbpjdkcokeobblldkpeemjllca",
+      "name": "\u0422\u0443\u0440\u0431\u043e Vpn Socks5 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gjfonhlbpjdkcokeobblldkpeemjllca",
+      "sha256": ""
+    },
+    {
+      "extension_id": "gofjijbknelcgffpjpamegogemggjjeb",
+      "name": "1Click Vpn \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0432 2026",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gofjijbknelcgffpjpamegogemggjjeb",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ibpnpknojlejkaegimefdkecipcandcb",
+      "name": "Hola Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ibpnpknojlejkaegimefdkecipcandcb",
+      "sha256": "e1b08cf6e4f260f718e731119803a1519774ed86f2269d4dae4489ab4258ccb6"
+    },
+    {
+      "extension_id": "hljadnobdcoimbiaghlnfdmjokplinlc",
+      "name": "Nova Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn P",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hljadnobdcoimbiaghlnfdmjokplinlc",
+      "sha256": ""
+    },
+    {
+      "extension_id": "kffbbgficaappmbiinbgdhokgkdkfldc",
+      "name": "Express Vpn \u0417\u0430\u0449\u0438\u0442\u0430 \u0414\u0430\u043d\u043d\u044b\u0445",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kffbbgficaappmbiinbgdhokgkdkfldc",
+      "sha256": ""
+    },
+    {
+      "extension_id": "epomjcecehacbbjccgongnebjfjipmmb",
+      "name": "\u0430\u0432\u043e\u043a\u0430\u0434\u043e \u0432\u043f\u043d \u2013 \u0432\u0441\u0435\u0433\u0434\u0430 \u0440\u0430\u0431\u043e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/epomjcecehacbbjccgongnebjfjipmmb",
+      "sha256": ""
+    },
+    {
+      "extension_id": "fkpnnabbhkejdpndhgldipdpigdjmbeb",
+      "name": "Veepn Vpn \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0432 \u0440\u0444 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fkpnnabbhkejdpndhgldipdpigdjmbeb",
+      "sha256": ""
+    },
+    {
+      "extension_id": "dgkglcdncbenpdookdibjmigcdpkebne",
+      "name": "Adguard Vpn \u2014 \u0447\u0438\u0441\u0442\u044b\u0439 Prox",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/dgkglcdncbenpdookdibjmigcdpkebne",
+      "sha256": "3e88420d04cd9a45efdc31428b4733b7db141e5f3d7b93904a663d5ca54a7464"
+    },
+    {
+      "extension_id": "phppjeldhmgpnflcpocffehdngadapga",
+      "name": "Hola Vpn \u043e\u0431\u0445\u043e\u0434 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043e\u043a",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/phppjeldhmgpnflcpocffehdngadapga",
+      "sha256": "66821f978ff5fb54da896fb8ac7611996f6f5aace11fdff1ff9448588d8df60f"
+    },
+    {
+      "extension_id": "bofmkebieoeaegmmffifmecgjldmaekm",
+      "name": "Happ Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0432\u043f\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bofmkebieoeaegmmffifmecgjldmaekm",
+      "sha256": "f1f2f2a9d81493918e927c62369eb6c28b1c538a24a9d954a1d33987ec484497"
+    },
+    {
+      "extension_id": "fjnddclkfikoaonclkhkjnnmajagdmik",
+      "name": "Veepn Vpn \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fjnddclkfikoaonclkhkjnnmajagdmik",
+      "sha256": ""
+    },
+    {
+      "extension_id": "aboofcahcihoedlompahehhmhccnlcfo",
+      "name": "Kobra Vpn \u0431\u0435\u0437\u043b\u0438\u043c\u0438\u0442\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/aboofcahcihoedlompahehhmhccnlcfo",
+      "sha256": ""
+    },
+    {
+      "extension_id": "jfclhhofknapokajceninppfiabelmdh",
+      "name": "Turbo Vpn \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jfclhhofknapokajceninppfiabelmdh",
+      "sha256": ""
+    },
+    {
+      "extension_id": "kpdlnkhkeimpdceckackhniadlcohafj",
+      "name": "Hola Vpn \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0432\u043f\u043d \u0432 \u0440\u0444",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kpdlnkhkeimpdceckackhniadlcohafj",
+      "sha256": "85ad1bc79b42301ad9505b442d1a6cd928b6957a7bddc6e424c777a7d2bd6aee"
+    },
+    {
+      "extension_id": "degmdmlofncekmdnhbdmllmeplbdjbpg",
+      "name": "Lava Vpn \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u043d\u043e\u0439 Vpn P",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/degmdmlofncekmdnhbdmllmeplbdjbpg",
+      "sha256": "1106ed0d36a9154ce66c3ad7660f5861a09ec52ed1efa38a4807352462cafa8d"
+    },
+    {
+      "extension_id": "npcnnofohpfchgkbeodcodnkgekmhhkh",
+      "name": "\u0430\u043c\u043d\u0435\u0437\u0438\u044f \u0432\u043f\u043d \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/npcnnofohpfchgkbeodcodnkgekmhhkh",
+      "sha256": ""
+    },
+    {
+      "extension_id": "igjafbnnlnnfgbbpophaplngbojdgcfa",
+      "name": "Liberty Vpn \u0417\u0430\u0449\u0438\u0442\u0430 \u0414\u0430\u043d\u043d\u044b\u0445",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/igjafbnnlnnfgbbpophaplngbojdgcfa",
+      "sha256": ""
+    },
+    {
+      "extension_id": "anacdbdlkjgjnnncdpdddkblmfkmhaho",
+      "name": "Vpnly Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0432\u043f\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/anacdbdlkjgjnnncdpdddkblmfkmhaho",
+      "sha256": ""
+    },
+    {
+      "extension_id": "kcabgepgapangjagpjgolfeblajcfpkb",
+      "name": "Purevpn \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0417\u0430",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kcabgepgapangjagpjgolfeblajcfpkb",
+      "sha256": ""
+    },
+    {
+      "extension_id": "bndhdgbeijlcafhahbgdlgpmhnkgkfoa",
+      "name": "\u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vyron Vpn Prox",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bndhdgbeijlcafhahbgdlgpmhnkgkfoa",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ljgfpgpbhlajkgbaahgijkhjndmlppjb",
+      "name": "Vpnly Vpn \u2014 \u0443\u0434\u043e\u0431\u043d\u043e\u0435 \u043f\u043e\u0434\u043a\u043b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ljgfpgpbhlajkgbaahgijkhjndmlppjb",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ojhonkmgcejnaffpemjbofkkkdhdnnac",
+      "name": "\u043a\u043e\u043c\u0430\u0440 Vpn \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0438 \u0431\u044b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ojhonkmgcejnaffpemjbofkkkdhdnnac",
+      "sha256": ""
+    },
+    {
+      "extension_id": "kcplchjjdpgehfdlggggoohdeoaikcan",
+      "name": "Amnezia Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kcplchjjdpgehfdlggggoohdeoaikcan",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ochjiaiabmbgpfhaedapjelkjehdmlhf",
+      "name": "\u0442\u0443\u0440\u0431\u043e \u0432\u043f\u043d \u0432\u043f\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ochjiaiabmbgpfhaedapjelkjehdmlhf",
+      "sha256": "a2c46e083614cdff2f2cd286afcdcb1b1e5abc88e3adaf7a63473d6d3a3e1495"
+    },
+    {
+      "extension_id": "pnnnbaaepebgmfpmdlgimhmeebocidfp",
+      "name": "\u043f\u0443\u0448\u043a\u0438\u043d Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/pnnnbaaepebgmfpmdlgimhmeebocidfp",
+      "sha256": ""
+    },
+    {
+      "extension_id": "jgdefbohamhjckdlhioadifmhfdahenl",
+      "name": "Veepn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0432 2",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jgdefbohamhjckdlhioadifmhfdahenl",
+      "sha256": "4374493d096c418acb9431c2d356b37ae6e256b744f89de6bb106f237dca2b80"
+    },
+    {
+      "extension_id": "jhllngjdkkaafogfbdejbjninfpelioc",
+      "name": "\u0445\u0438\u0442 \u0432\u043f\u043d \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u0432\u043f\u043d \u043f\u0440",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jhllngjdkkaafogfbdejbjninfpelioc",
+      "sha256": "f4101d24a9a62b70cc860baaa3d2ea70e44d8119980084c324a300c094f47d12"
+    },
+    {
+      "extension_id": "kpcdokjedaaifnfllokegepgnlcpkklb",
+      "name": "\u044d\u043a\u0441\u043f\u0440\u0435\u0441\u0441 \u0432\u043f\u043d \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kpcdokjedaaifnfllokegepgnlcpkklb",
+      "sha256": ""
+    },
+    {
+      "extension_id": "lgockjpddodkeapdpbfpnjhkccjegimf",
+      "name": "Myxa Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lgockjpddodkeapdpbfpnjhkccjegimf",
+      "sha256": ""
+    },
+    {
+      "extension_id": "pfhglhpielmhnngeddhfalohbbjmplhj",
+      "name": "\u0432\u0430\u043d\u044f Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0434",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/pfhglhpielmhnngeddhfalohbbjmplhj",
+      "sha256": "abdca1160cd449164c58382670a79327db17091eeb8a5112c5f609f8c5fc16e0"
+    },
+    {
+      "extension_id": "fdcfiefccdfljecdjghilliibohmmkeg",
+      "name": "Aerovix \u0432\u043f\u043d Proxy \u0434\u043b\u044f \u0431\u0440\u0430",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fdcfiefccdfljecdjghilliibohmmkeg",
+      "sha256": ""
+    },
+    {
+      "extension_id": "hkmkmdclalcgejfcfdofopapkhofjeee",
+      "name": "Vpn Proxy \u2014 \u0432\u043f\u043d \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hkmkmdclalcgejfcfdofopapkhofjeee",
+      "sha256": ""
+    },
+    {
+      "extension_id": "nikpeaidfekloonojddhohblnmieibgm",
+      "name": "Vpn Proxy Master \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nikpeaidfekloonojddhohblnmieibgm",
+      "sha256": ""
+    },
+    {
+      "extension_id": "obndikgdcbhidpgmpbjkbhnbadglpicg",
+      "name": "Smart Vpn Socks5 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/obndikgdcbhidpgmpbjkbhnbadglpicg",
+      "sha256": ""
+    },
+    {
+      "extension_id": "hemkjgalnnhdiacemkhonncplohclfgh",
+      "name": "Frog Vpn \u0441\u0432\u0435\u0440\u0445\u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0438 \u0431",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hemkjgalnnhdiacemkhonncplohclfgh",
+      "sha256": "48bb365e8885803806015e5891c1d37420e708084d09b5cbbc176ade81a83533"
+    },
+    {
+      "extension_id": "geogodfmhkaiekeklnjadpepbhjgiaib",
+      "name": "Red Shield Vpn \u2014 \u0447\u0438\u0441\u0442\u044b\u0439 \u0442",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/geogodfmhkaiekeklnjadpepbhjgiaib",
+      "sha256": ""
+    },
+    {
+      "extension_id": "hhojkcckcdmhophjjlaiemnmjpgfghif",
+      "name": "Hola Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hhojkcckcdmhophjjlaiemnmjpgfghif",
+      "sha256": ""
+    },
+    {
+      "extension_id": "npfkabpehmibmabggjhmfiklibimjoml",
+      "name": "Vpn Plus \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 Vpn \u0440\u0430\u0431",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/npfkabpehmibmabggjhmfiklibimjoml",
+      "sha256": ""
+    },
+    {
+      "extension_id": "cbagbihfhjpkglhcfhcjcepcififfcah",
+      "name": "Vpn \u0414\u043b\u044f Youtube \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cbagbihfhjpkglhcfhcjcepcififfcah",
+      "sha256": ""
+    },
+    {
+      "extension_id": "affkhnifjpajdeknlemiaiaeholimlfc",
+      "name": "Happ Vpn \u2014 \u043e\u0434\u0438\u043d \u043a\u043b\u0438\u043a",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/affkhnifjpajdeknlemiaiaeholimlfc",
+      "sha256": ""
+    },
+    {
+      "extension_id": "hfnmoobiadidoeadkbloimoecjpdmkaf",
+      "name": "Vpn \u0434\u043b\u044f \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u2014 \u0432\u043f\u043d \u0434\u043b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hfnmoobiadidoeadkbloimoecjpdmkaf",
+      "sha256": "34b2c2eb359adb1eb964bc3a97c1de6538b3aca7345dd1e21b27a857d192b539"
+    },
+    {
+      "extension_id": "jmiocmbgghjlgoadmhbeclfhgmmhckfi",
+      "name": "Vpn Satoshi \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jmiocmbgghjlgoadmhbeclfhgmmhckfi",
+      "sha256": ""
+    },
+    {
+      "extension_id": "jpkjmbgojfamdbanomiieehgaejbnmpa",
+      "name": "Bezlimit Krug Vpn \u2014 \u0431\u0435\u0441\u043f\u043b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jpkjmbgojfamdbanomiieehgaejbnmpa",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ekmamlikpgcmmgdfjhhollfkpjpmbghc",
+      "name": "\u041b\u0443\u0447\u0448\u0438\u0439 Vpn \u0414\u043b\u044f Chrome Soc",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ekmamlikpgcmmgdfjhhollfkpjpmbghc",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ieakmendicildlohomencafbopnfjnfi",
+      "name": "Vpnly \u0417\u0430\u0449\u0438\u0442\u0430 \u0414\u0430\u043d\u043d\u044b\u0445 Socks",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ieakmendicildlohomencafbopnfjnfi",
+      "sha256": ""
+    },
+    {
+      "extension_id": "phcbejgnlpffeablnkodialchkebmaji",
+      "name": "\u042e\u0442\u0443\u0431 \u0412\u043f\u043d \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0417",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/phcbejgnlpffeablnkodialchkebmaji",
+      "sha256": ""
+    },
+    {
+      "extension_id": "demlogledllmlgcjcecjedkiodimijhm",
+      "name": "\u0431\u0430\u0442\u044f Vpn \u2014 \u043a\u0440\u0435\u043f\u043a\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/demlogledllmlgcjcecjedkiodimijhm",
+      "sha256": ""
+    },
+    {
+      "extension_id": "lelmgpieoedkgcenoafkmoebjdipjoeo",
+      "name": "\u043c\u0443\u0445\u0430\u0431\u043e\u0439\u043a\u0430 Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lelmgpieoedkgcenoafkmoebjdipjoeo",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ddfjffoohifbhplmnnjkficekfccigoe",
+      "name": "\u041f\u0443\u043b\u044f \u0412\u043f\u043d \u0417\u0430\u0449\u0438\u0442\u0430 \u0414\u0430\u043d\u043d\u044b\u0445 So",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ddfjffoohifbhplmnnjkficekfccigoe",
+      "sha256": ""
+    },
+    {
+      "extension_id": "afojjlffdijdnlkiklimoidgfngeekif",
+      "name": "Free Avelon Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/afojjlffdijdnlkiklimoidgfngeekif",
+      "sha256": ""
+    },
+    {
+      "extension_id": "hbfhpoipegdohbncnmlofdhnjhdfpfnc",
+      "name": "Dance Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hbfhpoipegdohbncnmlofdhnjhdfpfnc",
+      "sha256": "4a61f4d25db9f602ae2d46c8c3add9f8955abb98974c1cc082c85df3c8a1fd3a"
+    },
+    {
+      "extension_id": "jaaghpailoflnimfgomjnfeildgjadkj",
+      "name": "Okeanis Vpn \u0443\u0434\u043e\u0431\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jaaghpailoflnimfgomjnfeildgjadkj",
+      "sha256": ""
+    },
+    {
+      "extension_id": "cgoacdpjaonbgieejeehfopdmelddihe",
+      "name": "Power Vpn Socks5 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cgoacdpjaonbgieejeehfopdmelddihe",
+      "sha256": ""
+    },
+    {
+      "extension_id": "bmcehedoeallkhbpoofmddbobkpaahjj",
+      "name": "\u0412\u043f\u043d \u0421\u0438\u043b\u0430 Socks5 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bmcehedoeallkhbpoofmddbobkpaahjj",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ngifmjfbjmccpgimmacbffmgfiinhnhd",
+      "name": "Adguard Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ngifmjfbjmccpgimmacbffmgfiinhnhd",
+      "sha256": "2b46ea1cac1f654a044493891dca4c1a59ec840c6563a9f46603d3fe273a1974"
+    },
+    {
+      "extension_id": "gghjjgcimdomeglmedjhofaohghcpbdc",
+      "name": "\u0430\u0432\u043e\u043a\u0430\u0434\u043e \u0432\u043f\u043d \u2013 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gghjjgcimdomeglmedjhofaohghcpbdc",
+      "sha256": ""
+    },
+    {
+      "extension_id": "bkdllhlbldecgmcimfcicakgngljbpfe",
+      "name": "\u043f\u0440\u043e\u043a\u0441\u0438 Verion Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bkdllhlbldecgmcimfcicakgngljbpfe",
+      "sha256": "d97b563f2d6b0390ee168786c885350a9e90eec3658341591e328311a67484b8"
+    },
+    {
+      "extension_id": "ninfkbdcdjcmcmojpbcdgclnoniaieoo",
+      "name": "\u041c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u044b\u0439 Vpn \u0414\u043b\u044f \u0411\u0440\u0430\u0443\u0437\u0435",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ninfkbdcdjcmcmojpbcdgclnoniaieoo",
+      "sha256": ""
+    },
+    {
+      "extension_id": "hmdghemjacnhbjofonbglimhgnfedacn",
+      "name": "Grom Vpn \u0417\u0430\u0449\u0438\u0442\u0430 \u0414\u0430\u043d\u043d\u044b\u0445 So",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hmdghemjacnhbjofonbglimhgnfedacn",
+      "sha256": ""
+    },
+    {
+      "extension_id": "hmcljpdjclhmgblfjfpjokaihholojcp",
+      "name": "Flash Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn Pro",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hmcljpdjclhmgblfjfpjokaihholojcp",
+      "sha256": ""
+    },
+    {
+      "extension_id": "cbfkebmkdjdedfmcknjedeacanplkjcc",
+      "name": "Vpn \u0414\u043b\u044f Chrome \u2014 \u0411\u044b\u0441\u0442\u0440\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cbfkebmkdjdedfmcknjedeacanplkjcc",
+      "sha256": ""
+    },
+    {
+      "extension_id": "gemjckjcdfgghenfdjhpblcjmjhkkmpc",
+      "name": "Avo Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gemjckjcdfgghenfdjhpblcjmjhkkmpc",
+      "sha256": ""
+    },
+    {
+      "extension_id": "cnbobchecopaifnmeklajjcpofdhabno",
+      "name": "Adguard Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cnbobchecopaifnmeklajjcpofdhabno",
+      "sha256": "f843fea0fd087e3a0830180b728dead1de311ee01d4a945072d27e7ba13c864e"
+    },
+    {
+      "extension_id": "oafjplehbjmeifojdgckdbpekomjfjpo",
+      "name": "\u044f\u0434\u0440\u043e Vpn \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0432\u043f\u043d \u043f\u0440\u043e\u043a",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/oafjplehbjmeifojdgckdbpekomjfjpo",
+      "sha256": "6bba6bc2630a38942c624c9ad41a432f7ab3c09427a55df17b314a0e5dc61d51"
+    },
+    {
+      "extension_id": "pdmbiifafihjjbmlcifgghdghcgjjeed",
+      "name": "Norelix Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0434\u043b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/pdmbiifafihjjbmlcifgghdghcgjjeed",
+      "sha256": "f9d22dbed619612c04c4efa030d36fa91aaf4f2a887b63f005ada0ef467ae92f"
+    },
+    {
+      "extension_id": "amcnahbkiglggdhhmiocpopjgachbhmg",
+      "name": "Hit Vpn \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0417\u0430",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/amcnahbkiglggdhhmiocpopjgachbhmg",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ikndhfnfolklghjimliafikaiohcmmgl",
+      "name": "Skylin Most Vpn \u2014 \u043e\u0442\u043a\u0440\u044b\u0442\u044b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ikndhfnfolklghjimliafikaiohcmmgl",
+      "sha256": ""
+    },
+    {
+      "extension_id": "fhenajbcenenhfkoblaakgnidkiakjfg",
+      "name": "Jump Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fhenajbcenenhfkoblaakgnidkiakjfg",
+      "sha256": ""
+    },
+    {
+      "extension_id": "pagmdkoblmmabonnpafnbgfpgkimfcbf",
+      "name": "Vpn \u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0414\u043b\u044f Google",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/pagmdkoblmmabonnpafnbgfpgkimfcbf",
+      "sha256": ""
+    },
+    {
+      "extension_id": "odgofcinnahbfjglcjkekbgoccgecklg",
+      "name": "Expressvpn \u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0412\u043f\u043d \u0414\u043b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/odgofcinnahbfjglcjkekbgoccgecklg",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ghdmdhniajjkfjgldgimnhdljalebbbo",
+      "name": "Adguard Vpn \u2014 \u0417\u0430\u0439\u0434\u0438 \u041a\u0430\u043a \u041d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ghdmdhniajjkfjgldgimnhdljalebbbo",
+      "sha256": ""
+    },
+    {
+      "extension_id": "jecaifjjekmanblbaoemmabopjcbagln",
+      "name": "Stars Vpn \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u043d\u043e\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jecaifjjekmanblbaoemmabopjcbagln",
+      "sha256": ""
+    },
+    {
+      "extension_id": "llgfjlihggbnidedpjgdenpflhoiaaji",
+      "name": "Vpn \u0431\u0435\u0437 \u043b\u0430\u0433\u043e\u0432 Socks5 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/llgfjlihggbnidedpjgdenpflhoiaaji",
+      "sha256": ""
+    },
+    {
+      "extension_id": "namblbcaacdfeeglaklbfbdpjmndcobf",
+      "name": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0412\u043f\u043d \u0417\u0430\u0449\u0438\u0442\u0430 \u0414\u0430\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/namblbcaacdfeeglaklbfbdpjmndcobf",
+      "sha256": ""
+    },
+    {
+      "extension_id": "akohckgogcbjjmdmcddhfdhldbcbhehe",
+      "name": "Veepn \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0417\u0430\u0449\u0438",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/akohckgogcbjjmdmcddhfdhldbcbhehe",
+      "sha256": ""
+    },
+    {
+      "extension_id": "bfgoepnoenodpgmcficdjlajnlbmadlc",
+      "name": "Sun Vpn \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u043d\u043e\u0439 \u0432\u043f\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bfgoepnoenodpgmcficdjlajnlbmadlc",
+      "sha256": "76f4090092c746f03bb15d4fde4730bfef9451359ca05f57b5d9cc8abedf1ea3"
+    },
+    {
+      "extension_id": "aalfhjflaokihbediiadmohipjlpbjpg",
+      "name": "Adguard Vpn \u2014 \u0437\u0430\u0449\u0438\u0442\u0430 \u0442\u0440\u0430\u0444",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/aalfhjflaokihbediiadmohipjlpbjpg",
+      "sha256": "d0a9923b0f70c7041df22bea9e48d6b0e06cf114c7ce5230d82522070ec54b53"
+    },
+    {
+      "extension_id": "ihdkpgmmappgdkngloldeiicfpkhgdml",
+      "name": "Amnezia Vpn \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ihdkpgmmappgdkngloldeiicfpkhgdml",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ejnnmgcdapkgoejlccbmiegopfbdabal",
+      "name": "Smile Vpn \u043d\u0430\u0434\u0435\u0436\u043d\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ejnnmgcdapkgoejlccbmiegopfbdabal",
+      "sha256": "b0c51c51e39497b213a5a875fb456a96d2dc5834ae1ba561cba706c7b11f8805"
+    },
+    {
+      "extension_id": "ofkmkjdcfpeiojhjifkpcjkfcpbkgpme",
+      "name": "\u0431\u0430\u0442\u044f Vpn \u2014 \u043a\u0440\u0435\u043f\u043a\u0438\u0439 \u043f\u0440\u043e\u043a\u0441\u0438",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ofkmkjdcfpeiojhjifkpcjkfcpbkgpme",
+      "sha256": ""
+    },
+    {
+      "extension_id": "nbnkhmjmofiemgifcmhcoiahjilmhbhl",
+      "name": "\u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Orelan Vpn \u0434\u043b\u044f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nbnkhmjmofiemgifcmhcoiahjilmhbhl",
+      "sha256": ""
+    },
+    {
+      "extension_id": "acfbcpibnbofjabglaeojkpafablikmi",
+      "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 Vpn \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/acfbcpibnbofjabglaeojkpafablikmi",
+      "sha256": ""
+    },
+    {
+      "extension_id": "eefkagdcgphioglegkcmfiflkgfjlegc",
+      "name": "Iskra Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/eefkagdcgphioglegkcmfiflkgfjlegc",
+      "sha256": ""
+    },
+    {
+      "extension_id": "bbjoeckmegkklkmlgihgebeiocmjhfpf",
+      "name": "Amnezia Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bbjoeckmegkklkmlgihgebeiocmjhfpf",
+      "sha256": "d8d6c3ca8bc08af804a0a912bce6ae1096452367aeaa3ddecf92ec8cb9b30e61"
+    },
+    {
+      "extension_id": "eomimmpkgdmeckpghogemcmkimcpigeg",
+      "name": "\u043e\u0441\u0430 Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/eomimmpkgdmeckpghogemcmkimcpigeg",
+      "sha256": "5172389957c4cea02d6132660a5ec79ddde61bd1fa9bcc346c2de92435d2a80a"
+    },
+    {
+      "extension_id": "bkngojapplbfdkipgbkhecljdfbfffim",
+      "name": "Rocket Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bkngojapplbfdkipgbkhecljdfbfffim",
+      "sha256": ""
+    },
+    {
+      "extension_id": "kacnibbepalcolkjnokkmmcdojdhcknp",
+      "name": "Hola Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kacnibbepalcolkjnokkmmcdojdhcknp",
+      "sha256": "4694f7210aad89974fa20d29b7d74ce609735ead685b544c6d275e7d2f7a6abe"
+    },
+    {
+      "extension_id": "ehmnoicopemjglampffnmjiakdgejfil",
+      "name": "Hola Vpn \u043e\u0431\u0445\u043e\u0434 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0446",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ehmnoicopemjglampffnmjiakdgejfil",
+      "sha256": ""
+    },
+    {
+      "extension_id": "glbekfbbkgblkncmkifamiflbeegmleh",
+      "name": "Proton Vpn \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/glbekfbbkgblkncmkifamiflbeegmleh",
+      "sha256": "0e889ad73f648f2f4ba10f52adf1c831212d5c19973b5bd6d08208e202c0d141"
+    },
+    {
+      "extension_id": "bgnccpihdpphnhcoadbmmpcngdfjhhip",
+      "name": "\u0440\u043a\u043d\u043e\u0444\u0444 \u0432\u043f\u043d \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0432\u043f\u043d \u0432",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bgnccpihdpphnhcoadbmmpcngdfjhhip",
+      "sha256": ""
+    },
+    {
+      "extension_id": "nfihjleaabaeabfakcieaekddodhknop",
+      "name": "Free Vpn \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0417",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nfihjleaabaeabfakcieaekddodhknop",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ibofhejeaghdadihdjicnpbokhlbmina",
+      "name": "Frost Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0438 \u0431\u044b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ibofhejeaghdadihdjicnpbokhlbmina",
+      "sha256": ""
+    },
+    {
+      "extension_id": "bediijfgephcioldkpemhpeefinafdmd",
+      "name": "Astar Vpn \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bediijfgephcioldkpemhpeefinafdmd",
+      "sha256": "57d656a1f2ff8db678bb2280c26da522a35d9fde542661976c21942da883649a"
+    },
+    {
+      "extension_id": "knamdoehgbapikbpadplghakheaainfn",
+      "name": "Urban Vpn \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn \u0434",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/knamdoehgbapikbpadplghakheaainfn",
+      "sha256": "d2bd0480ff21eed3356f6ca4af4f26705b62b9c9430e426b83bbbc21fa5b4f5e"
+    },
+    {
+      "extension_id": "paifkghgecedjhpiffccboiopabfkilj",
+      "name": "Windscribe Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/paifkghgecedjhpiffccboiopabfkilj",
+      "sha256": "68e016ef95eb1f0bc25d98cb7ca256270d0d831c9c68e24a331d40cd4a08c68f"
+    },
+    {
+      "extension_id": "gjggagebmdbamiifkcjlmmilkbmdejhf",
+      "name": "\u0434\u0435\u0434 \u0432\u043f\u043d \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0438 \u0440\u0430\u0431\u043e\u0447",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gjggagebmdbamiifkcjlmmilkbmdejhf",
+      "sha256": "e70c85c2c391abfc4088a3880465c43e4db11b1f088728f176d4ea35acd8ed56"
+    },
+    {
+      "extension_id": "doajnjgnapnobhdoodembkdhgoegokin",
+      "name": "Express Vpn \u2014 \u043f\u0440\u0435\u043c\u0438\u0430\u043b\u044c\u043d\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/doajnjgnapnobhdoodembkdhgoegokin",
+      "sha256": "f4ded566f726c5f3189cb5b7d66ea8d3bcc40ba3a21ae797f274fbca2585217f"
+    },
+    {
+      "extension_id": "lhacnmanojilhchljbehpnliojcngnfe",
+      "name": "Windscribe Vpn \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0435",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lhacnmanojilhchljbehpnliojcngnfe",
+      "sha256": "c85445d26009b78dcb0774f6371e50621f71228329880d980f51fde1ae074f8b"
+    },
+    {
+      "extension_id": "gpncanplicpnbgdeokhbegllddoefnlo",
+      "name": "V2Raytun Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gpncanplicpnbgdeokhbegllddoefnlo",
+      "sha256": "fcb83027f4b472cc2639c578999d1a226b60c1a47e08d90fede9b0d7fd1e0eac"
+    },
+    {
+      "extension_id": "bmoojnjfiggdpbajbknhmoldfbaoogem",
+      "name": "Urban Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn \u0434\u043b\u044f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bmoojnjfiggdpbajbknhmoldfbaoogem",
+      "sha256": "c8b3715b7835e15f0701c22a2bf347527da99654d5bfecc5c652990bfb6cd01c"
+    },
+    {
+      "extension_id": "hfengcfjpdlpkeokijnanjagbhgehgmg",
+      "name": "Astar Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hfengcfjpdlpkeokijnanjagbhgehgmg",
+      "sha256": "5cd7d67b9e57585f0dfe867f1f87b90e52ebc65697f7a63118067101c2811ac9"
+    },
+    {
+      "extension_id": "dgnnljdjmneoeojogfomogcgfbffjjhh",
+      "name": "Durev Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/dgnnljdjmneoeojogfomogcgfbffjjhh",
+      "sha256": "7108b4da4c0b9a1db917390f665f5c55ff729d0fa76f536663985c80c9768faf"
+    },
+    {
+      "extension_id": "hfmepibmajpakfjadbmdapiphbeheafd",
+      "name": "Windscribe Vpn \u0442\u043e\u043f\u043e\u0432\u044b\u0439 \u0432\u043f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hfmepibmajpakfjadbmdapiphbeheafd",
+      "sha256": "9211df747fc38ab1fa63a9f4f656c2e8def26a9baeaf9bdc58292f262cda9a3f"
+    },
+    {
+      "extension_id": "khodoekbhiiebhnjcgbjjekacjlnmjeg",
+      "name": "Telegram Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/khodoekbhiiebhnjcgbjjekacjlnmjeg",
+      "sha256": "0a52e1ad42862bf693ff75d1e21ee4dc2f0f5fca494695f6b3185b5e2a09b888"
+    },
+    {
+      "extension_id": "bnkeghcjecgagbajoiophjkpaaecncfn",
+      "name": "Zapret Discord Youtube",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bnkeghcjecgagbajoiophjkpaaecncfn",
+      "sha256": "e5a21676ca04bc8293b22f92bc140154ecd7bd495bc54db99bcf9a1c529e3454"
+    },
+    {
+      "extension_id": "acnhophhmnbgihhmgjlccplaabidjiak",
+      "name": "Hola Vpn \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn \u0434\u043b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/acnhophhmnbgihhmgjlccplaabidjiak",
+      "sha256": "cc1ea63b3775614049650533350d49664c15f89fdd292dcbd2de43e56d10cc76"
+    },
+    {
+      "extension_id": "fiohhhihdkhncmhapaclcahappdpfeah",
+      "name": "Vpn \u043d\u0430\u0440\u0443\u0436\u0443 \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fiohhhihdkhncmhapaclcahappdpfeah",
+      "sha256": "4edd0f76af54343ee3d0e0927e932ad76d45c2d29127ee14a6ee50adc162c02a"
+    },
+    {
+      "extension_id": "mmajiiadnkaciggbbniecpfdchdapikb",
+      "name": "Alpina Vpn \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0441\u0442\u0430\u0440",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/mmajiiadnkaciggbbniecpfdchdapikb",
+      "sha256": "26e6e10bd334e30f95abdfd0b5f7cd68d4ab231886bffbf957e2b6362b365591"
+    },
+    {
+      "extension_id": "hhjheeljkpfgppjegakbgfgijocddjde",
+      "name": "Express Vpn \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u0431\u0435",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hhjheeljkpfgppjegakbgfgijocddjde",
+      "sha256": "dda305c83938c468178769adb496f23b80034e91f85c9c5abf440769dd2cf9b7"
+    },
+    {
+      "extension_id": "meghgkmdmcncggfiamanleadfliacbgk",
+      "name": "\u0434\u0435\u0434 \u0432\u043f\u043d \u2014 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/meghgkmdmcncggfiamanleadfliacbgk",
+      "sha256": "77c941c05af8f826db06944c0ab543c64154a6fe6adbd064242a8e78cd3b670a"
+    },
+    {
+      "extension_id": "ajbimmblchdinnlcimmapiekmfmcppin",
+      "name": "Hit Vpn \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0434\u043b\u044f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ajbimmblchdinnlcimmapiekmfmcppin",
+      "sha256": "30f6c8c3629f656cbad1831f1fb6f01e2389e2a006fe36dd58734173d6224e30"
+    },
+    {
+      "extension_id": "fkjkkgfkadibilpiackaneifhogpojfe",
+      "name": "Urban Vpn \u0441\u0432\u0435\u0440\u0445\u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0432\u043f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fkjkkgfkadibilpiackaneifhogpojfe",
+      "sha256": "f9189b2e02be1f2db673a496b0558800a025bd6b9c5022b4e98f55ff8f78f60f"
+    },
+    {
+      "extension_id": "dhogjjpkggldkfonmdilkdhjpgokhkdn",
+      "name": "Troywell Vpn \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0438 \u0441",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/dhogjjpkggldkfonmdilkdhjpgokhkdn",
+      "sha256": "715b17b0b3c4afa4a0192e5761d9b3633577e2a41cc2d66b4f27d6cf4c05cbe7"
+    },
+    {
+      "extension_id": "ideookmbkaghncpgjmlnepaaiecmneaf",
+      "name": "Hola Vpn Proxy \u0432\u043f\u043d \u0434\u043b\u044f \u044e\u0442",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ideookmbkaghncpgjmlnepaaiecmneaf",
+      "sha256": "1fa68eb7aee1b94e1ca32aa88a4f8d03d89b9ffa5a3b84e4d1e845b6c62e29e0"
+    },
+    {
+      "extension_id": "mghiicaddmhklijoggbaaheonojgjchc",
+      "name": "Amnezia Vpn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/mghiicaddmhklijoggbaaheonojgjchc",
+      "sha256": "0f7f87c439c453b6beec8e6ff0f3332af50b2f579f269c0c4d459d08a1f1f2ce"
+    },
+    {
+      "extension_id": "mldnjhfcnklbdmelendmcebmjmdffpld",
+      "name": "1Vpn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 Vpn \u0440\u0430\u0431\u043e\u0442",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/mldnjhfcnklbdmelendmcebmjmdffpld",
+      "sha256": "920fbb98e32ec4ea817836ff87fe8d3aec7f5afdd74e4d99e26adbf1600b0356"
+    },
+    {
+      "extension_id": "afcmhalnacimnlgdkidbcmbkokdklboc",
+      "name": "\u0437\u0430\u0440\u0443\u0431\u043b\u044c Vpn \u0434\u043b\u044f Youtube \u0437",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/afcmhalnacimnlgdkidbcmbkokdklboc",
+      "sha256": "98b1429593557bef0e7f692806d05fa501bc883f882c7b34b324d81d04c17244"
+    },
+    {
+      "extension_id": "oigkfkpefgklbmhlfhdmagkcljgnbpgp",
+      "name": "Turbo Vpn \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u0431\u044b\u0441\u0442",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/oigkfkpefgklbmhlfhdmagkcljgnbpgp",
+      "sha256": "f3058ad61aae36f54b43fbe88652e3208cfc51123f9f74a58ae666c33e876f1e"
+    },
+    {
+      "extension_id": "fohfimjllhajalhhkiiddfjijcfphppb",
+      "name": "Surfshark Vpn \u2014 \u0432\u044b\u0441\u043e\u043a\u0430\u044f \u0441",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fohfimjllhajalhhkiiddfjijcfphppb",
+      "sha256": "230ebef7e6e0e11aed61bdd3996e4736d736587397615f5d3b5bfb482376c387"
+    },
+    {
+      "extension_id": "ddkeddjikhckaeadghadoidfmemkbjno",
+      "name": "Vpnly Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ddkeddjikhckaeadghadoidfmemkbjno",
+      "sha256": "e311250c6bdc9c10fe99349c7fa2ab238fae0aa9817c09e902f776ae4c234fa2"
+    },
+    {
+      "extension_id": "cfobandbiggohgmmbfnaccbfffajekdh",
+      "name": "Happ Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cfobandbiggohgmmbfnaccbfffajekdh",
+      "sha256": "9a0ecf30fe884a5b8c5f0a6aee9790b46dd6f4fe0fac05a995d4950ed95e96cd"
+    },
+    {
+      "extension_id": "ngkjielajlecigijlijjkhkhlhmmcgfh",
+      "name": "Troywell Vpn Pro High Spe",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ngkjielajlecigijlijjkhkhlhmmcgfh",
+      "sha256": "b7f1fef3eb3859dab2fe3296a7ad6e5a49fec0669b2992b3c8db80991ba2f8af"
+    },
+    {
+      "extension_id": "jgnaieemebmijpgpjebiihoknlneoede",
+      "name": "Amnezia Vpn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jgnaieemebmijpgpjebiihoknlneoede",
+      "sha256": "16e6842fe95d5041a8921c426da4b28a9afb8b5952fd3d27ea811e45f1b81602"
+    },
+    {
+      "extension_id": "mgolbnmjhhnhegljibdmkdpjpjimmpbc",
+      "name": "Uvpn \u2014 Vpn \u0434\u043b\u044f Youtube Te",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/mgolbnmjhhnhegljibdmkdpjpjimmpbc",
+      "sha256": "e53a3b2a79056257c87c5affc8a4f92efc624c3f4fed657438413d5a6a3db770"
+    },
+    {
+      "extension_id": "paijfkjloheggcedgnoglpojpdlkfgjd",
+      "name": "Troywell Vpn \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/paijfkjloheggcedgnoglpojpdlkfgjd",
+      "sha256": "959d20ab500718ff4e17048b83c8b6ee0a951442d7bf57d7770abe9d13297edb"
+    },
+    {
+      "extension_id": "jpaibdphjkblmjediahchjoiooimmkdb",
+      "name": "\u0434\u0435\u0434 \u0432\u043f\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jpaibdphjkblmjediahchjoiooimmkdb",
+      "sha256": "2172a5e26c049b2d4a5d46e740fbb7c86dcc6585e8271ce23de4a08c62e5a91a"
+    },
+    {
+      "extension_id": "onlnahnoifndfdmckikafiacnhlhcfff",
+      "name": "Uvpn \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0434\u043b\u044f Yo",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/onlnahnoifndfdmckikafiacnhlhcfff",
+      "sha256": "a45beabdbd90e9982fdf604af2a0a5271b5b6126b7aca098657a9c3e6761b4e2"
+    },
+    {
+      "extension_id": "ihdclbcpgnfgmbkhnlecljphdnegkngn",
+      "name": "Astar Vpn \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ihdclbcpgnfgmbkhnlecljphdnegkngn",
+      "sha256": "47d6ffecb4b9043f65b32ad62d9e3573a3e83e85cd2f7176c20faa50988aab94"
+    },
+    {
+      "extension_id": "jjohfacemkgbihagfgdefoohngncicjj",
+      "name": "Troywell Vpn \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jjohfacemkgbihagfgdefoohngncicjj",
+      "sha256": "5598043df910e6172e041f96c1290890f99aa0f570770a9a9d182e993a196f14"
+    },
+    {
+      "extension_id": "nhcmnljcidifkndjfbfjofhonpfcikch",
+      "name": "\u0434\u0435\u0434 \u0432\u043f\u043d \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 202",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nhcmnljcidifkndjfbfjofhonpfcikch",
+      "sha256": "9c2e6bd7bb7b3d38de3d312bd822dadcad99a8b80896632c4cbff02b118a1c2b"
+    },
+    {
+      "extension_id": "lbgbmkpmalnmmkcobmehdijbihfklejl",
+      "name": "Vpn \u043d\u0430\u0440\u0443\u0436\u0443 \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lbgbmkpmalnmmkcobmehdijbihfklejl",
+      "sha256": "5022263cdaade56b10439c868e09ba9ec91130e1900f80c472e061d9ee256e31"
+    },
+    {
+      "extension_id": "jilnanckohjaeiephdoihkfnpckdnfoo",
+      "name": "\u0434\u0435\u0434 \u0432\u043f\u043d \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0438 \u043f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jilnanckohjaeiephdoihkfnpckdnfoo",
+      "sha256": "f4a9385ed4c959a1c9c169b3290223bd9e031a3337876f3553924a7d27f2f1cb"
+    },
+    {
+      "extension_id": "mbgljjlneblmgciofdkkflmhiddibgoo",
+      "name": "Hitvpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/mbgljjlneblmgciofdkkflmhiddibgoo",
+      "sha256": "6db47d820a3a34800b59ba1829e45c7e3ed5dfb348f4ee6f638a796dd7b67095"
+    },
+    {
+      "extension_id": "gpefikhhckedlalbpjfncnocgfnoadpl",
+      "name": "Hit Vpn \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 Vpn \u0434\u043b\u044f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gpefikhhckedlalbpjfncnocgfnoadpl",
+      "sha256": "50d21ccc757e8c832d124cf9db050ef894c327acdc688a13fe3282ef47c24ba8"
+    },
+    {
+      "extension_id": "ddfplmclbalkmpanliclcamjhcjookpd",
+      "name": "Planet Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ddfplmclbalkmpanliclcamjhcjookpd",
+      "sha256": "25e99012b534499de154f95e844adf06abd8e76455af1963cda3fc69b29a2f03"
+    },
+    {
+      "extension_id": "ammmadeaaeediccnjgagkpdinmpkfbce",
+      "name": "Happ Vpn \u2014 One Click Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ammmadeaaeediccnjgagkpdinmpkfbce",
+      "sha256": "66b46fc9a4d4186d6b2636308754087ea10c1d4e75cc530d829819c308334aeb"
+    },
+    {
+      "extension_id": "hiddjonniafmibjlbfcpoagjkgliifne",
+      "name": "Windscribe Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hiddjonniafmibjlbfcpoagjkgliifne",
+      "sha256": "02d4b346dc945a39b4aa96a67ef6e2523e5041d816c7346baf7a36b2111baa74"
+    },
+    {
+      "extension_id": "emdookakhhdjokicppfdggfnhaafbaec",
+      "name": "Vpntype Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/emdookakhhdjokicppfdggfnhaafbaec",
+      "sha256": "a293e3ce47472de1e6afb2478123a1bcedbe86878748eedb9a7377441f87cbe5"
+    },
+    {
+      "extension_id": "aacgcpbjkblgddfjcimoioafoedhldhp",
+      "name": "\u0449\u0443\u043a\u0430 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/aacgcpbjkblgddfjcimoioafoedhldhp",
+      "sha256": "ef26570466dad4cb170ab760f7c057c4ed9de929b86bf0ca58a71f6de4dd122e"
+    },
+    {
+      "extension_id": "anbgakndpobfliabfikidjhcpflhnmem",
+      "name": "Free Vostok Vpn \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/anbgakndpobfliabfikidjhcpflhnmem",
+      "sha256": "b1d52a369a73682577f74c0df264ade35eefd8c9d8d4e38273c052740ab0e941"
+    },
+    {
+      "extension_id": "hgikgejnemplefjnopeekipnjceclkng",
+      "name": "Proton Vpn \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0432\u043f\u043d \u0432",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hgikgejnemplefjnopeekipnjceclkng",
+      "sha256": "9708e72d78cd25b24aea6a44b2c6d8f7529ffc6cebafa417acb6b1a5096ca2fb"
+    },
+    {
+      "extension_id": "lalmlmmepgkpeaepjkfapdjhikpodfcd",
+      "name": "Vpn \u043d\u0430\u0440\u0443\u0436\u0443 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lalmlmmepgkpeaepjkfapdjhikpodfcd",
+      "sha256": "2c35db56b208b487bbfdb2d65be51cfa04e74e0d5a3712a7c13e159d0b7b1fc8"
+    },
+    {
+      "extension_id": "fkbnmbhfddhddldfldblbjdnkfnbhoeo",
+      "name": "\u0434\u0435\u0434 \u0432\u043f\u043d \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0432\u043f\u043d \u0432 \u0440\u043e\u0441",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fkbnmbhfddhddldfldblbjdnkfnbhoeo",
+      "sha256": "2db993de1b7abd9e9b93bf08a771349858c44bb6da71ab6688bc99ca630712d2"
+    },
+    {
+      "extension_id": "khllhhmmnenklbpagjifnmieennmabne",
+      "name": "Uvpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/khllhhmmnenklbpagjifnmieennmabne",
+      "sha256": "32317fdd5be976f8de725445d46f520556da3b150c7e42dc60cd1550145ca11e"
+    },
+    {
+      "extension_id": "hmhmfclclghjomcbhbleehlpbomhdomg",
+      "name": "Windscribe Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hmhmfclclghjomcbhbleehlpbomhdomg",
+      "sha256": "d8feb3bdf71ae141fa646ef494f74a4c8c47c656d15e458e9b808ef59d215162"
+    },
+    {
+      "extension_id": "pfeikcgjglgcelfiolnlpjmcdedcmiie",
+      "name": "Happ Vpn \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn 2026",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/pfeikcgjglgcelfiolnlpjmcdedcmiie",
+      "sha256": "fff2b88e988e7f15204658e75aa658fbea83e70ffccd2819c8359633e2fc4e9b"
+    },
+    {
+      "extension_id": "mhpggpolcfckhlmpdngnmjklojplngdm",
+      "name": "Free Vpn \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0432 \u0440\u0444 202",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/mhpggpolcfckhlmpdngnmjklojplngdm",
+      "sha256": "e616128c972e72d2c42921453a188d4690cbcdb46b6d216893ed0eeb4e4314ed"
+    },
+    {
+      "extension_id": "kjlapochhonejbhekmlgjebfcknlhmna",
+      "name": "Vpn \u043d\u0430\u043e\u0431\u043e\u0440\u043e\u0442 \u2014 Vpn \u0434\u043b\u044f \u0431\u0440",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kjlapochhonejbhekmlgjebfcknlhmna",
+      "sha256": "f8a33606cb0bfb7638526463cd2ed4cd424e17ed7403be473c43785384d330a7"
+    },
+    {
+      "extension_id": "omklmcppldnjhpgchlffibpkndphfmli",
+      "name": "Hidiffy Vpn \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 20",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/omklmcppldnjhpgchlffibpkndphfmli",
+      "sha256": "8115c49edc944866f87905464925b5f0575188c3f144de8abd41594240562001"
+    },
+    {
+      "extension_id": "piklioippcbibkbkhmdlhhkfpooocgpd",
+      "name": "Uvpn \u0432\u043f\u043d \u0434\u043b\u044f Youtube Tele",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/piklioippcbibkbkhmdlhhkfpooocgpd",
+      "sha256": "ca8e22d1c56fb2b54d77394cbe230254658ed5116ca41149848facc0666216d4"
+    },
+    {
+      "extension_id": "fcgepeapicomdnijjipcjondmclcdgch",
+      "name": "Secure Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fcgepeapicomdnijjipcjondmclcdgch",
+      "sha256": "15c3488ae0579f2eed16b8e6f29de8a4a071de7735c073436b1d5929606e57ca"
+    },
+    {
+      "extension_id": "jjpaipndidlabeblhnhhhgciaapabaip",
+      "name": "Windscribe Vpn \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jjpaipndidlabeblhnhhhgciaapabaip",
+      "sha256": "e42a29b12f21d95aafb89a3b910c05162c33ad10dd34213417620368e5ca8c65"
+    },
+    {
+      "extension_id": "hgcpgjhpmoeknmgggeiaibkgdejgpaad",
+      "name": "Express Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0434\u043b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hgcpgjhpmoeknmgggeiaibkgdejgpaad",
+      "sha256": "80ef0fe242c7434425aba74b8398b131d4ce6bb27196d8164694f16055bb18e3"
+    },
+    {
+      "extension_id": "ggieheogpillmkemmonphfnenllpgefc",
+      "name": "Vpntype Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ggieheogpillmkemmonphfnenllpgefc",
+      "sha256": "2b1b93fc20e62b5b2efc173a939050ac9488f06e667a5d759dfbd571556ff90c"
+    },
+    {
+      "extension_id": "lpipoapkpmcpjfilmmhaagknjkjigklc",
+      "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u043f\u043d \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lpipoapkpmcpjfilmmhaagknjkjigklc",
+      "sha256": "0c3b358036a77c60934f116da66ca0b3b0d25d002318ba4c7594f2fa32532fbf"
+    },
+    {
+      "extension_id": "ojkdgdhiiklpkacbkbebflmienhlikec",
+      "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u043f\u043d \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ojkdgdhiiklpkacbkbebflmienhlikec",
+      "sha256": "5cd3f9a3c4e22d3ae71ea6266cf0072d69cb59fbbef964d2b2c870a218506074"
+    },
+    {
+      "extension_id": "bieefmacigggdondcbnfgehpaaafbdlf",
+      "name": "Prado Vpn \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0432\u043f\u043d \u043f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bieefmacigggdondcbnfgehpaaafbdlf",
+      "sha256": "e37aea444dbee986dbf8d2e7aa45ad8a8c1bf3eb9dd7950d7d20ac57559ab993"
+    },
+    {
+      "extension_id": "jhcbbncfjljeniagggahoheclmpllaek",
+      "name": "Vpnly Vpn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u043e\u0435 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jhcbbncfjljeniagggahoheclmpllaek",
+      "sha256": "a4a9bb9e80ff196b6e5da0b998a11c33ac81f908b1ef7a0528ecc9be9c7e327f"
+    },
+    {
+      "extension_id": "cinpfmbkbpmjhdffmlbokcpjhobpkaoj",
+      "name": "Wik Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn \u0432 202",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cinpfmbkbpmjhdffmlbokcpjhobpkaoj",
+      "sha256": "3f16830242c0e196ce736451f8a936c48c31b12951f786eed55a1d3407160188"
+    },
+    {
+      "extension_id": "ahmgibiekadomdndbgcfjbeenimkpgon",
+      "name": "Astar Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u043e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ahmgibiekadomdndbgcfjbeenimkpgon",
+      "sha256": "978ed7dea8a4258c58f830a1799562d14e454fc8126dd64737a8965868d859d5"
+    },
+    {
+      "extension_id": "hkpnhgaojokkjdkhccifkjkeihekhakb",
+      "name": "Incy Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hkpnhgaojokkjdkhccifkjkeihekhakb",
+      "sha256": "35538b9cd05d58ce9f77b434741075acc098b7214f51aa44cfba5e7ab7b94403"
+    },
+    {
+      "extension_id": "plcaklmjikobmiiafdikhepofcjflkga",
+      "name": "\u0434\u044f\u0434\u044f \u0432\u0430\u043d\u044f Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/plcaklmjikobmiiafdikhepofcjflkga",
+      "sha256": "640cd3c83690d05d23146566e02a9316137967d42929936e29672b40b3f18374"
+    },
+    {
+      "extension_id": "miocfdhncnkdfiiahmpbepncfoondhfa",
+      "name": "Urban Vpn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/miocfdhncnkdfiiahmpbepncfoondhfa",
+      "sha256": "55ea29976e106099d190ea43cb8caae036de5db9ce5acfff8e0f7a2dd3435834"
+    },
+    {
+      "extension_id": "gflgapnngkofndfgdmlecmkejbhgijng",
+      "name": "Hit Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gflgapnngkofndfgdmlecmkejbhgijng",
+      "sha256": "3570f921ba5f11ae862fa334d2fb486755b976b94297499cd13055117299859f"
+    },
+    {
+      "extension_id": "aidojmhjjhkpjpdkdkmoefjlcoldenmk",
+      "name": "Hit Vpn \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0431\u0435\u0437",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/aidojmhjjhkpjpdkdkmoefjlcoldenmk",
+      "sha256": "ce0ff2bfb9540e45eb36236ced8b346af1025e610baec836f15bc6c80f8ae85f"
+    },
+    {
+      "extension_id": "baglfifodllloppchbbpddiinccmignh",
+      "name": "Veepn Vpn \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/baglfifodllloppchbbpddiinccmignh",
+      "sha256": "5e10789fdf44d5addc0fe0b41b1248ab1724508173eea793ab20157d43753e24"
+    },
+    {
+      "extension_id": "ognaahknkaapmocokfgnfkpohacnifmi",
+      "name": "\u043e\u0431\u0445\u043e\u0434 \u0433\u043b\u0443\u0448\u0438\u043b\u043e\u043a",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ognaahknkaapmocokfgnfkpohacnifmi",
+      "sha256": "65f4c8d930347d3f2640d631638ae0ceb5c693dffdaa71923b144f44dccc48fa"
+    },
+    {
+      "extension_id": "mpnhfgcicibgjoadoicgaeejdhfnmlnk",
+      "name": "Vpnly \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0434\u043b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/mpnhfgcicibgjoadoicgaeejdhfnmlnk",
+      "sha256": "2291a2248fb7e6a39f76c8579b921da1ebedc435ea2f5bf5724a6e423329310e"
+    },
+    {
+      "extension_id": "aidbgjfclcdhjbmcbmebkgmnglgoaagn",
+      "name": "Hit Vpn Vpn \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/aidbgjfclcdhjbmcbmebkgmnglgoaagn",
+      "sha256": "fe49f7e0cf03cfa1a9f77f2fa761df7c00688412a4b46a83fa2b8a279df74e20"
+    },
+    {
+      "extension_id": "eigbonbcfemednkodkokippobohdbild",
+      "name": "Verdant Beacon Vpn \u2014 \u0437\u0435\u043b\u0451",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/eigbonbcfemednkodkokippobohdbild",
+      "sha256": "e953fb982687d9eb5aba456e023674d38e011abaa73f3783adf48c89beb55662"
+    },
+    {
+      "extension_id": "ojaggjmmabppdgaapofpidbdbinkonic",
+      "name": "Vpn Plus \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0432\u043f\u043d \u0434\u043b\u044f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ojaggjmmabppdgaapofpidbdbinkonic",
+      "sha256": "1be2805a646074e12dc7de56417551bc3e6ddc2b394eb9cf9d8704d04fb0e1a2"
+    },
+    {
+      "extension_id": "dmkkebpooaiodfnochelkgbknmiigmfe",
+      "name": "Turbo Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/dmkkebpooaiodfnochelkgbknmiigmfe",
+      "sha256": "bb846ecebeda2861d574884733f2b15bcd186dc4eb52379b5a701e4c3bb2abfc"
+    },
+    {
+      "extension_id": "ckfoaipekbfidcfigemllmiodbdomhhk",
+      "name": "Zoogvpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0434\u043b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ckfoaipekbfidcfigemllmiodbdomhhk",
+      "sha256": "10b454de47cae1369825db732e4fec63855b3ba40fefb9a6f2c636325ca13f3b"
+    },
+    {
+      "extension_id": "bobhaooijedocodpaehpmiplficlppco",
+      "name": "Vpnus Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bobhaooijedocodpaehpmiplficlppco",
+      "sha256": "7cdeb74abf2b6a07b18a3455a4b12d941bda556d3c8aad63bce0ecb6ce68fe40"
+    },
+    {
+      "extension_id": "dgoccknbhicbagggbiiombpebbmkdpio",
+      "name": "\u0444\u0435\u043d\u0438\u043a\u0441 Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043f\u0440\u043e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/dgoccknbhicbagggbiiombpebbmkdpio",
+      "sha256": "38dbc5bb3e10ac13bcc75da148d9b9e3edf71896c77728120abfeadafc03dfc7"
+    },
+    {
+      "extension_id": "diojakiakigacjdbijiodjopopbdfocl",
+      "name": "Cyberghost Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/diojakiakigacjdbijiodjopopbdfocl",
+      "sha256": "7b8bf2d41962888d8a12d258afac693a437c9b087c4a1021f89112befa4baf20"
+    },
+    {
+      "extension_id": "nlbgnmbhhbclebeclffmadckkgoigpcg",
+      "name": "Vpn \u043d\u0430\u0440\u0443\u0436\u0443 \u043e\u0431\u0445\u043e\u0434 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nlbgnmbhhbclebeclffmadckkgoigpcg",
+      "sha256": "5ce33fa93d267de1c5001ca2ec8452f3c52373a37be59edad5f1b1f8cb6aeb46"
+    },
+    {
+      "extension_id": "mdpchipcnfogbeolkcgfbioippedabei",
+      "name": "Vpnly Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0434\u043b\u044f Chr",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/mdpchipcnfogbeolkcgfbioippedabei",
+      "sha256": "505ab88dd75e0fa69f8f23d7631f8145a776a1db50b59ed418fd2aa1edd001d7"
+    },
+    {
+      "extension_id": "kmbmbjdabhabcjmebjhlieijelkaafjo",
+      "name": "\u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0434\u043b\u044f Chrome",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kmbmbjdabhabcjmebjhlieijelkaafjo",
+      "sha256": "6bc29ef12d92dd5a1be5b5378474aad7b72eba11cde1cda2d6181f045d137efe"
+    },
+    {
+      "extension_id": "abkdgombolkiaagoiachnedhcdmljjfo",
+      "name": "Vpntype \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0438 \u0440\u0430\u0431\u043e\u0447",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/abkdgombolkiaagoiachnedhcdmljjfo",
+      "sha256": "1ebf3e5eb334379e34181fff0e752aadbf23ef41c1d49a95090fb384684999f4"
+    },
+    {
+      "extension_id": "lgmeeibplclmipfdkenikbladlcdjiej",
+      "name": "Turbo Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn \u0434\u043b\u044f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lgmeeibplclmipfdkenikbladlcdjiej",
+      "sha256": "bec8af9e00ecb7d6ab8f9e33c0e275e89f3570d9f48bfb643c36ff0f9d2cf586"
+    },
+    {
+      "extension_id": "nholmoeapgncpmohkdbaddejeajdchoi",
+      "name": "\u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Tuman Signal P",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nholmoeapgncpmohkdbaddejeajdchoi",
+      "sha256": "224985ca1ce02db6040dc6a28c7f8b57d606d287cb5340b7c973294cd57431d3"
+    },
+    {
+      "extension_id": "hgfgplelbdifkmjpgpfhhaahocgihbed",
+      "name": "Freeflow Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hgfgplelbdifkmjpgpfhhaahocgihbed",
+      "sha256": "87834f19c0eee0d25264b87e1511dde0378ec06b0320537a728a81c6e47fb8a2"
+    },
+    {
+      "extension_id": "nokopmejllalihieeedjomkefhnpnfla",
+      "name": "Nash Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nokopmejllalihieeedjomkefhnpnfla",
+      "sha256": "60bb525609d215b025a5b1c55afd369aabe6018476d899de099a3d0d0bcdf972"
+    },
+    {
+      "extension_id": "honjoefhlidgdidlcdbipobjnoliiaid",
+      "name": "Troywell Vpn Lite Unlimit",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/honjoefhlidgdidlcdbipobjnoliiaid",
+      "sha256": "a97fb1496a5681fe416b95d5bfe589964d19c0684eb9aa70c7888b6243936886"
+    },
+    {
+      "extension_id": "glcmlljhmibnfffkllgpbeecoppnkmjk",
+      "name": "Urban Vpn \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn \u0432",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/glcmlljhmibnfffkllgpbeecoppnkmjk",
+      "sha256": "deb8343d8c0fc5f7461023756c981eeecaa1eae1261d67239fb4f462747d5c0b"
+    },
+    {
+      "extension_id": "lbceihajcopkbifhflfbbnclggibgiao",
+      "name": "Happ Vpn \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn \u0434\u043b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lbceihajcopkbifhflfbbnclggibgiao",
+      "sha256": "e06693cdd98b24bfaccf2073b2dc9634476b88273a77eb80c72251a30a5ab7aa"
+    },
+    {
+      "extension_id": "bobmofohlfifmnjkpobblfoobpbiechp",
+      "name": "Purevpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bobmofohlfifmnjkpobblfoobpbiechp",
+      "sha256": "c1fe2f1d888fea2b4d3743424c860132924a03fac4df8faa7451bf8f8242bba4"
+    },
+    {
+      "extension_id": "kifijalpmpoccbmpfdmdjefhdinhhbdk",
+      "name": "Amnezia Vpn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kifijalpmpoccbmpfdmdjefhdinhhbdk",
+      "sha256": "d289570bc3868f70fa6b6e2437693ab43a957f5d9da02716840b06678ff70d51"
+    },
+    {
+      "extension_id": "heljplmaaffhgglkkbiagahgjmpgoaih",
+      "name": "\u0432\u043f\u043d \u0441\u0438\u0433\u043d\u0430\u043b \u0434\u043b\u044f \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u044e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/heljplmaaffhgglkkbiagahgjmpgoaih",
+      "sha256": "dba6cad23112ec59267ec5bb6c5cef7aa9bebb8612128da9010f6c51b1a2642b"
+    },
+    {
+      "extension_id": "apnfjomepdnglbljoikkjimckcaiglcd",
+      "name": "Glush Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/apnfjomepdnglbljoikkjimckcaiglcd",
+      "sha256": "7823a3f751f892c38cab14811e9fc07606e53cefafed8cf1400cad55e424cc81"
+    },
+    {
+      "extension_id": "njapjlocglmmlikpjompjpbnldgaaaan",
+      "name": "Vpn \u043d\u0430\u043e\u0431\u043e\u0440\u043e\u0442 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/njapjlocglmmlikpjompjpbnldgaaaan",
+      "sha256": "36f83182fad23d506edfc2bffb2f9a0bb8e39fdb66a86f721194f75d89a5d634"
+    },
+    {
+      "extension_id": "annjapkccidcggmkbfoedckgkpcgpmgo",
+      "name": "Vpn Plus \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u043e\u0441",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/annjapkccidcggmkbfoedckgkpcgpmgo",
+      "sha256": "ffbfbcfa680b4a7760dd8ecdb4b59600b7f82ae389ef5a161693a7b9787b2c7b"
+    },
+    {
+      "extension_id": "jcgdmckmhldciaddglpelebbedopbjeo",
+      "name": "Urban Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jcgdmckmhldciaddglpelebbedopbjeo",
+      "sha256": "20c6bf5430f754b46f39f1acfeda5ef4da9cffc2c871edc4374d3f58132c356e"
+    },
+    {
+      "extension_id": "dhghffoilblhhmogiaomhbgcpapldmaj",
+      "name": "Premium Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/dhghffoilblhhmogiaomhbgcpapldmaj",
+      "sha256": "509b33e609074345a55bbd31e9026e0711867ab30aaf44c7d2232b08e566e7e8"
+    },
+    {
+      "extension_id": "adcnbeifompehccabimhaibllfahhfbi",
+      "name": "\u0430\u0440\u0431\u0443\u0437 \u0432\u043f\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0432\u043f\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/adcnbeifompehccabimhaibllfahhfbi",
+      "sha256": "08bdd1dd2451b1d7456faf41aa35c292ddf125db8786d077bcba9df335a91910"
+    },
+    {
+      "extension_id": "mlhboniclgfbcdpbdjkpinlcgbhcnpjl",
+      "name": "Amnezia Vpn \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 20",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/mlhboniclgfbcdpbdjkpinlcgbhcnpjl",
+      "sha256": "5f5273172d19ec7f8853885fd7322c58dca40e78031438f7aa38349c70528666"
+    },
+    {
+      "extension_id": "ehhedjnbbdgpfjafhngkfcaapglcfdfc",
+      "name": "Happ Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ehhedjnbbdgpfjafhngkfcaapglcfdfc",
+      "sha256": "604c26c54e98f6d9ce598b3cebb47dc1a4b1490c52858b365fa740bbffab299d"
+    },
+    {
+      "extension_id": "ekkpeplcllphkgplgcdljhppnkhppbfi",
+      "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u043f\u043d \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ekkpeplcllphkgplgcdljhppnkhppbfi",
+      "sha256": "67c1934a2dedf5df5d5f10f542021d7729621fccb8aaf48392873e2a40ea97c6"
+    },
+    {
+      "extension_id": "genlgfbbedgnldpfnocnolfdgdncmdgj",
+      "name": "\u0434\u0435\u0434 \u0432\u043f\u043d \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0432",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/genlgfbbedgnldpfnocnolfdgdncmdgj",
+      "sha256": "b4aa4a53e132974d9272f279ba14619dcc52e319329f2b7635b2f36f98468912"
+    },
+    {
+      "extension_id": "nbadihaihfegbdaofhoilincgjhakdmm",
+      "name": "Hit Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0432",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nbadihaihfegbdaofhoilincgjhakdmm",
+      "sha256": "ce6a01fed12120ebf58943ef0a16dd2993976f01f31cacf1fafe14807283327d"
+    },
+    {
+      "extension_id": "dchlfaoafjbplbdkokdkhnmfjcabfbig",
+      "name": "Happ Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/dchlfaoafjbplbdkokdkhnmfjcabfbig",
+      "sha256": "2f554c37af98a69353e1075ad744d7f65d486669e43374ab20bf6e868a096cd2"
+    },
+    {
+      "extension_id": "johcnpakjicllaphogocdhnmpdngllen",
+      "name": "Hit Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/johcnpakjicllaphogocdhnmpdngllen",
+      "sha256": "b9c4f72f43581361071a6eacc0e0a79bc60de20806848f010bd9f634c35a2209"
+    },
+    {
+      "extension_id": "akjdfmibilkfmhilmfkijklalnlnjlib",
+      "name": "Mullvad Vpn \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/akjdfmibilkfmhilmfkijklalnlnjlib",
+      "sha256": "2d3e50492c410addec7b75727e5c5f3656cf2fdf84176ea0cb61cb50eab911f7"
+    },
+    {
+      "extension_id": "nngceaekmjibhmhlneojknddbodbilof",
+      "name": "Astar Vpn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nngceaekmjibhmhlneojknddbodbilof",
+      "sha256": "b04858398ff35114308588976f7e6e7cea7e8c0cf530a11b870d144427c7fec1"
+    },
+    {
+      "extension_id": "fjjkonbdkemhimfjdgkafphpedldbapi",
+      "name": "Uvpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fjjkonbdkemhimfjdgkafphpedldbapi",
+      "sha256": "66d58f47a7628a435b6e64e1845477c6c2e1e89a46c1d67372a1a00007c8c3a5"
+    },
+    {
+      "extension_id": "dhlgcmakpoaapaejffgknhhlnohmicig",
+      "name": "Hit Vpn \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn \u0434\u043b\u044f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/dhlgcmakpoaapaejffgknhhlnohmicig",
+      "sha256": "82f18cd61dfbf9ed86153aa1d3f7e510b409e55ae8eb1493394147a7319315c6"
+    },
+    {
+      "extension_id": "agflfdjpnlobnmmmjkdlpdnncjkbgiej",
+      "name": "Vpn Duck \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0438 \u043d\u0430\u0434\u0435\u0436\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/agflfdjpnlobnmmmjkdlpdnncjkbgiej",
+      "sha256": "d1705f58c10b48614d26248b956fdbbe76879cf8150d23c193093b3179c760d7"
+    },
+    {
+      "extension_id": "ipionpcjdnnmblemgfnnoenlebgdhjke",
+      "name": "Hit Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0431",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ipionpcjdnnmblemgfnnoenlebgdhjke",
+      "sha256": "37675f267698f8244c9fdd92dc082b46c67a3f3b3f42c711878b6d5030c6784d"
+    },
+    {
+      "extension_id": "acgafpeepkbblomknnbekhpkblkkgflc",
+      "name": "Troywell Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0438 \u0441\u0442",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/acgafpeepkbblomknnbekhpkblkkgflc",
+      "sha256": "a8613f166238784e150ce8682591d29ae1c4a57c5b08dd806e17c40fdc23ddb5"
+    },
+    {
+      "extension_id": "cgmcmcndpapmpkhkhcfoncagjjgmnpik",
+      "name": "Hit Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0431",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cgmcmcndpapmpkhkhcfoncagjjgmnpik",
+      "sha256": "d18986c28ba74b1522e756c659d5f7722617e949a86226bf44793315fea4eaa1"
+    },
+    {
+      "extension_id": "jkpelkngpppfhfnlkebocdjpkaepekll",
+      "name": "Happ Vpn \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jkpelkngpppfhfnlkebocdjpkaepekll",
+      "sha256": "8e6349dc99df99329e32e60b2ec3045bb824c1ed0b5f53e5b701d8f14d39bf37"
+    },
+    {
+      "extension_id": "idjknlnbkhbiofhjcbmpbmganjapffkk",
+      "name": "Happ Vpn \u2014 \u043e\u0431\u0445\u043e\u0434 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/idjknlnbkhbiofhjcbmpbmganjapffkk",
+      "sha256": "32ac01e68f2b52d81efb6c71fbb470907ea6586b85e39151c8f60e3325d7b3e0"
+    },
+    {
+      "extension_id": "ppnblcjigcjdbcfhgelajahbebklodlp",
+      "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u043f\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ppnblcjigcjdbcfhgelajahbebklodlp",
+      "sha256": "d3bbac541892abd7bf0bc1aa71c6f0643bd88426cc1ed169e0c92d890cd9f1cf"
+    },
+    {
+      "extension_id": "endhleicdnfalloabndbkhoconedaejo",
+      "name": "Dotvpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/endhleicdnfalloabndbkhoconedaejo",
+      "sha256": "f26906c9e0737ddc5f45ae129e7debf7f10a8bc35b959f4ef72b9089fda8f9f3"
+    },
+    {
+      "extension_id": "fflfpipekinamppkgigedhagblohhmge",
+      "name": "Vpn Plus",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fflfpipekinamppkgigedhagblohhmge",
+      "sha256": "7a5c2fd1f1895ff7688c8be145c5a311e40bd63f3a1355cb0f712af46248a03a"
+    },
+    {
+      "extension_id": "knbfcpfldhbajlbdjgjdbgilioikghhl",
+      "name": "Urban Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/knbfcpfldhbajlbdjgjdbgilioikghhl",
+      "sha256": "95935ff2ff18594e9d5929a986514cf50bb67b9276186f17914672a9dc9c0f71"
+    },
+    {
+      "extension_id": "lpbjlicgpfmppjbflcainklkpoaimkee",
+      "name": "Urban Vpn \u043e\u0431\u0445\u043e\u0434 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lpbjlicgpfmppjbflcainklkpoaimkee",
+      "sha256": "d730d8ef477b1918b81f76bef0c00f2a51faae5143d2621c76b726d3233f21ea"
+    },
+    {
+      "extension_id": "pcifmakbkkhleddonhhbnaadodkpfgec",
+      "name": "Happ Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/pcifmakbkkhleddonhhbnaadodkpfgec",
+      "sha256": "4cd9967611f4e32f0061e20591b85aa5384a9451a2e439f6b084fd42a1e5a325"
+    },
+    {
+      "extension_id": "idakpdhldmdipfppiagjdkfpelplahgp",
+      "name": "Zashitavpn \u2014 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 V",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/idakpdhldmdipfppiagjdkfpelplahgp",
+      "sha256": "cc72a076773e78f640b6167f00dedda8d2b3b3a8dd7eea9409bfa3d4cc076edf"
+    },
+    {
+      "extension_id": "gmpecjmlhepfjmfhenjpjmommpkgimjk",
+      "name": "Vless Vpn \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0432\u043f\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gmpecjmlhepfjmfhenjpjmommpkgimjk",
+      "sha256": "51cc5f300ae788e9901ee32c6403a10a4a14d25795c2d897754907dbe6ad2d62"
+    },
+    {
+      "extension_id": "mekhmoakacmpddmiejmkjmmcihbmopnh",
+      "name": "\u0434\u0435\u0434 \u0432\u043f\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0434\u043b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/mekhmoakacmpddmiejmkjmmcihbmopnh",
+      "sha256": "fd2509b85f859ff589d34390b088f32319d88f8ef431680db0b6505955e8b924"
+    },
+    {
+      "extension_id": "cchmigooikpmolkiphbhfapncfkegcmk",
+      "name": "Vpn \u043d\u0430\u0440\u0443\u0436\u0443 \u2014 Vpn \u0441 \u043f\u043e\u0434\u043a\u043b\u044e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cchmigooikpmolkiphbhfapncfkegcmk",
+      "sha256": "05943a2d5e2160efca74d3691fc6ddc6d82b0e111a49031df2de34abc0cb41eb"
+    },
+    {
+      "extension_id": "ccfgkchbkckelnhmkidhlijcdcimaipi",
+      "name": "Happ Vpn \u043e\u0431\u0445\u043e\u0434 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043e\u043a",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ccfgkchbkckelnhmkidhlijcdcimaipi",
+      "sha256": "75ffd4bb4734616b8cdefc03a67a55b91ca2b77d2ef1103575a701d0ebf4d4a1"
+    },
+    {
+      "extension_id": "khanepmegdcnjlmocgcdklabolfgojab",
+      "name": "Express Vpn \u2014 \u043f\u0440\u0435\u043c\u0438\u0430\u043b\u044c\u043d\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/khanepmegdcnjlmocgcdklabolfgojab",
+      "sha256": "aefc0a9fc522a1f09b83b12f75dd4f3418543fbe6b10fd8912f49863dc49f257"
+    },
+    {
+      "extension_id": "ghabiheeillbfcmcanjpamhmakghbdha",
+      "name": "Sirius Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ghabiheeillbfcmcanjpamhmakghbdha",
+      "sha256": "fba02b3090840af8a9b90c83b1e1136a0652c2da5f7c6d72ec26717f28685d55"
+    },
+    {
+      "extension_id": "gfphjclfjnifpopnlbifplljfndoagah",
+      "name": "Happ Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gfphjclfjnifpopnlbifplljfndoagah",
+      "sha256": "1288c2655f18ccfb08d91725a725d6c4e06269cc1421c5bed7120ce1ddfc677e"
+    },
+    {
+      "extension_id": "jnpnfadobccbjefbfpoibmihcpaplfib",
+      "name": "Vpn \u043d\u0430\u0440\u0443\u0436\u0443",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jnpnfadobccbjefbfpoibmihcpaplfib",
+      "sha256": "0949ea34e348ad853ac4e9447ff6fb719e8f3992a0ca03d6bad15e62825d3dae"
+    },
+    {
+      "extension_id": "lkniebhmojhalhgafnolpeiogpccjbnm",
+      "name": "Astar Vpn \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lkniebhmojhalhgafnolpeiogpccjbnm",
+      "sha256": "42b2779b3d7717a3918380a752c25f0aa76287a2eba5062e205c3d077d3532f7"
+    },
+    {
+      "extension_id": "jjajohkphajaammllkihainemejpgknc",
+      "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u043f\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jjajohkphajaammllkihainemejpgknc",
+      "sha256": "d2cc1042a32a975c259940a99e29e205cf66bd3d2afccb903203d5d7c8204d92"
+    },
+    {
+      "extension_id": "knkjbonanbapgbnalcfpfbdakgfckkad",
+      "name": "Vpn Plus \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0438 \u0431",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/knkjbonanbapgbnalcfpfbdakgfckkad",
+      "sha256": "f60851badfacb93161c01c42200d1209ac03ef46a9f8502d2344603f4cd8dfef"
+    },
+    {
+      "extension_id": "cmokfjhldenhogochlfpailmmkmhnmgp",
+      "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u043f\u043d \u043e\u0431\u0445\u043e\u0434 \u0431\u043b\u043e\u043a\u0438\u0440\u043e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cmokfjhldenhogochlfpailmmkmhnmgp",
+      "sha256": "533082df1cd4cc8dc8456bedd64ca48fb466cb3cf3411744117e2239ee699145"
+    },
+    {
+      "extension_id": "ekgejlkdmgojnobgegkcomigednijpnl",
+      "name": "Vpn \u043d\u0430\u0440\u0443\u0436\u0443 \u0434\u043b\u044f Youtube \u043e\u0431",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ekgejlkdmgojnobgegkcomigednijpnl",
+      "sha256": "a2a77af0231b64166e16584b6d15457bacab8b34c79aa7df03d6e9481e227900"
+    },
+    {
+      "extension_id": "nppimbedejlkikknjnacjnbaalhdaofm",
+      "name": "Orange Vpn \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0432\u043f\u043d \u043f\u0440",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nppimbedejlkikknjnacjnbaalhdaofm",
+      "sha256": "645c62af88841969daf77d0648c9244d0369f1512e44c1018e70f6e091abc9bf"
+    },
+    {
+      "extension_id": "nbafgjlhmjpmafbkicpfepljlhpcifgo",
+      "name": "Troywell Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nbafgjlhmjpmafbkicpfepljlhpcifgo",
+      "sha256": "fbc3e90b9a47c072d7a748f539e55361a1c11c32d58aaca5786e68cd4c3baa6f"
+    },
+    {
+      "extension_id": "ihmfmohnahkgcmojnflblfokhhgmegof",
+      "name": "\u0432\u043f\u043d \u0440\u0430\u0431\u043e\u0447\u0438\u0439 2026 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ihmfmohnahkgcmojnflblfokhhgmegof",
+      "sha256": "10b5e04a2900f0760c0fa2ecbf74122d4978504c4fe271c52406217a935d08e7"
+    },
+    {
+      "extension_id": "imihfehmmikfahcaclnjkakmnpllmdld",
+      "name": "Signalvpn \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0441\u0438",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/imihfehmmikfahcaclnjkakmnpllmdld",
+      "sha256": "2bc023ce98de2813b051b1d1e987200fb30505ee6cafbf304ad8c5166261361d"
+    },
+    {
+      "extension_id": "emcibedcanahcnobjhdfkcffgnhhjioe",
+      "name": "Happ Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043f\u0440\u043e\u043a\u0441",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/emcibedcanahcnobjhdfkcffgnhhjioe",
+      "sha256": "55c8233c46257770070f64b67ca7ab79339fa428b6ad50f671288081665b8e47"
+    },
+    {
+      "extension_id": "adgnomaciajijinlhbmofgpfpeahflhm",
+      "name": "Expressvpn \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/adgnomaciajijinlhbmofgpfpeahflhm",
+      "sha256": "207b225fbba1276f2d0113969cc61d7f94ececd12d7498c5f0555cab9ac48525"
+    },
+    {
+      "extension_id": "ijiojinckjmkhmolppnfiiopmomdeghm",
+      "name": "Otkrytnet Vpn \u2014 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ijiojinckjmkhmolppnfiiopmomdeghm",
+      "sha256": "dc89cdbd1616d71d1c8c178d7dc28c7c643adacca5986c66c2c7c376c7fbeb01"
+    },
+    {
+      "extension_id": "japmnaafbolobggeboafeoopffooljma",
+      "name": "Troywell Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/japmnaafbolobggeboafeoopffooljma",
+      "sha256": "03365a4c98b18fd654e59963c093c71ed0fcd69ff19c8fd20f9cc0aa34b362db"
+    },
+    {
+      "extension_id": "caehfnhdnangncokfhbnimcaidgnfmfk",
+      "name": "Horizon Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/caehfnhdnangncokfhbnimcaidgnfmfk",
+      "sha256": "896337cae8d410abe3da093c7b2406d154509c172e22a8e2ee3c8a0baead04bc"
+    },
+    {
+      "extension_id": "dpcbncckdgmlifjkilakfdbhilbehbmb",
+      "name": "Ultima Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/dpcbncckdgmlifjkilakfdbhilbehbmb",
+      "sha256": "a6693884dc9d6863ac05ae1ee74592479fbc6c2d0944acfeff0e8d5e4de6a81b"
+    },
+    {
+      "extension_id": "elbpdmfheonoleiilkhocponckmnohba",
+      "name": "Vpn Plus \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 Vpn \u0434",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/elbpdmfheonoleiilkhocponckmnohba",
+      "sha256": "5fbd3ca8392c49012b223fb2970ac5df8e16cd4c346d4496febfc18f8d9350ec"
+    },
+    {
+      "extension_id": "nkhaoepgpgfmgfihbpeagjfjnchnfgpe",
+      "name": "Mullvad Vpn \u2014 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nkhaoepgpgfmgfihbpeagjfjnchnfgpe",
+      "sha256": "b73923eb91718a72fc2e406b08fdc56667aa942dd393e2d263ab7df2e1ad532f"
+    },
+    {
+      "extension_id": "nhjolbdkhnpbneljlpojgbgajjhfadoe",
+      "name": "Amnezia Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nhjolbdkhnpbneljlpojgbgajjhfadoe",
+      "sha256": "a1b89e9891579410f539d7963b5ac6eeb60b992360d5174cc48c1787d455b8ce"
+    },
+    {
+      "extension_id": "fkjnhiikncpkkkepbbggfdldiffbakjb",
+      "name": "Expressvpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 V",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fkjnhiikncpkkkepbbggfdldiffbakjb",
+      "sha256": "ce32ba3ad8d67e5606005f935dd85348b84a97e9784283d787fff33647d2716f"
+    },
+    {
+      "extension_id": "dkjjcgeccgnnkgfmdjkocdjplociikcp",
+      "name": "\u0434\u0435\u0434 \u0432\u043f\u043d \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u043e\u0431\u0445",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/dkjjcgeccgnnkgfmdjkocdjplociikcp",
+      "sha256": "4fa1dd9254fdad8415090f7c2cd742b77f84cbcc155e61daa64443556d776d6e"
+    },
+    {
+      "extension_id": "mpoknmklelafojpccoomjjfddfolkoge",
+      "name": "Turbo Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u043e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/mpoknmklelafojpccoomjjfddfolkoge",
+      "sha256": "0dc29cf6305ef0bd791fd854f1bbf8993386277e7893758165c0cc1d1b92d87b"
+    },
+    {
+      "extension_id": "bamfjplnijjofojfipjedamhhalgcond",
+      "name": "Windscribe Vpn \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bamfjplnijjofojfipjedamhhalgcond",
+      "sha256": "e72386eb8f407a0720f5044c92304fc3d637cf4f1b1a60c258ae4a33ae9fb9ca"
+    },
+    {
+      "extension_id": "jdbjahlnapijoebbblcbenccfkhbjkjo",
+      "name": "\u0431\u0430\u0442\u044f Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jdbjahlnapijoebbblcbenccfkhbjkjo",
+      "sha256": "5e2c87c1f1416969cd9f29b86baa514774cad5d393fe3ca094b6a5dfd5a0a783"
+    },
+    {
+      "extension_id": "hphgkgnpanldmijlablifonpgchmceim",
+      "name": "Astar Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hphgkgnpanldmijlablifonpgchmceim",
+      "sha256": "bd09338100d27b23ea64c58e1245ae0d88c3fc0745f8f20c5c87cd295c18d78e"
+    },
+    {
+      "extension_id": "aknkimpeemfoghdcobdcakjmekllgdkf",
+      "name": "\u043e\u0433\u043e\u043d\u044c \u0432\u043f\u043d \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn \u0434\u043b\u044f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/aknkimpeemfoghdcobdcakjmekllgdkf",
+      "sha256": "e614efde0ced4e751651b4157d7bbbf008f0aaab077fd931269ab7174442c491"
+    },
+    {
+      "extension_id": "kiliellhfhkklfphjhblndndlgmpmflf",
+      "name": "Hit Vpn \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0432\u043f\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kiliellhfhkklfphjhblndndlgmpmflf",
+      "sha256": "1c90ad5a3a3437688eb36955cb91c7ef371cbb84d940ccd34508bcb145553495"
+    },
+    {
+      "extension_id": "djmbcnnmnpjijioahndohhjhginfdpfe",
+      "name": "Turbo Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u043e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/djmbcnnmnpjijioahndohhjhginfdpfe",
+      "sha256": "c22a2145ba68e02bab68bd3a38e95307bbdc4dc1bd972003035502443d4b32f1"
+    },
+    {
+      "extension_id": "cdokblecifkcmhobpjfkfjpfbdhkhamc",
+      "name": "Violet Prism Vpn \u2014 \u0444\u0438\u043e\u043b\u0435\u0442",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cdokblecifkcmhobpjfkfjpfbdhkhamc",
+      "sha256": "ec3a568c6f98c4fb6bce4d4de782d9685afd24196b59baa4b68edea715808504"
+    },
+    {
+      "extension_id": "nljoclphaobipehplbojpabaepamlbah",
+      "name": "Windscribe Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nljoclphaobipehplbojpabaepamlbah",
+      "sha256": "2f5730d3b4dc045b5ed8de5abe25b5457d9aa4c248b07cda71eb3f41c8874ebe"
+    },
+    {
+      "extension_id": "fcacgknfionfdinghcdgjajpefgncjla",
+      "name": "\u0434\u0435\u0434 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fcacgknfionfdinghcdgjajpefgncjla",
+      "sha256": "20b58ada77ed02b1b578612351545f9e42d9ab1d180e9eb8b863653052472fcd"
+    },
+    {
+      "extension_id": "aphmmlcfillkgabnpdakkpelckibiaan",
+      "name": "Uvpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043e\u0431\u0445\u043e\u0434 \u0431\u043b\u043e\u043a\u0438\u0440",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/aphmmlcfillkgabnpdakkpelckibiaan",
+      "sha256": "8f8d97dcda9bf5b0aa3beea886ef98efef93936c68c75e8ffd4dded92ff2959d"
+    },
+    {
+      "extension_id": "mmccpogbmjchkdgkggiikcggjochobcn",
+      "name": "Vpntype Vpn \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/mmccpogbmjchkdgkggiikcggjochobcn",
+      "sha256": "8a434422f4b044ec38288a22f4a9cccce6c0036cac294bd005d6121315c0a16f"
+    },
+    {
+      "extension_id": "kiciibdldkjbaoclfppioahnadncljjm",
+      "name": "Amnezia Vpn \u2014 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0435",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kiciibdldkjbaoclfppioahnadncljjm",
+      "sha256": "8658d8ad89d164b03ea0baaeeeb4948bcc4dd1746737e281bc2d580cb8cd6179"
+    },
+    {
+      "extension_id": "hngjoambjhafonhbccnlhjhhngpbdbhf",
+      "name": "Shieldpass Vpn \u2014 \u0432\u043f\u043d \u0434\u043b\u044f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hngjoambjhafonhbccnlhjhhngpbdbhf",
+      "sha256": "0f53f6d71aeb900e0b3cee620236d8b32d32fb57f273a3907302c9826860fbfe"
+    },
+    {
+      "extension_id": "hliomffpkmpgmplfkhpnclpbengpkhdh",
+      "name": "Astar Vpn \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u0438 \u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hliomffpkmpgmplfkhpnclpbengpkhdh",
+      "sha256": "3de5ef16d4596d629521e91f84550e39741cc3fa8e95747bf09ef77ef59e40fd"
+    },
+    {
+      "extension_id": "giijecjngnnffaefianagjkcdkcnnipl",
+      "name": "Vpn \u043d\u0430\u0440\u0443\u0436\u0443",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/giijecjngnnffaefianagjkcdkcnnipl",
+      "sha256": "fe57e4ca3be137ae30a2e47a148369640b03410810a9a840be159d8e35225c15"
+    },
+    {
+      "extension_id": "pgdehgjcmgedooamahelcjeoghbnhmek",
+      "name": "Happ Vpn \u2014 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0432",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/pgdehgjcmgedooamahelcjeoghbnhmek",
+      "sha256": "287936cff9f094796e74bd7417b47c04f547d65d21a58de204a93db566e7a1ee"
+    },
+    {
+      "extension_id": "flpeddlbkieapkbahnlpinjblegodihg",
+      "name": "Vpn \u043d\u0430\u0440\u0443\u0436\u0443 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0432\u043f\u043d 20",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/flpeddlbkieapkbahnlpinjblegodihg",
+      "sha256": "213aeb83b9b7e23d8790762926810d90f7c8ececc1cb06e9827cc0d53e04916c"
+    },
+    {
+      "extension_id": "cgdonljgmcpgbmmppibifhidpniooebg",
+      "name": "Amnezia Vpn \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 V",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cgdonljgmcpgbmmppibifhidpniooebg",
+      "sha256": "35f752f10669db895d71e6d0f088efd425745a17c815a4961dff9dc9b12b930f"
+    },
+    {
+      "extension_id": "cnbpgnenkjffdpokphdljeiodfpcnlmh",
+      "name": "Vpnly Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cnbpgnenkjffdpokphdljeiodfpcnlmh",
+      "sha256": "aa459662780178adc318db8bda3909847b2d2343d0e47cfebf1474f35f5b0c75"
+    },
+    {
+      "extension_id": "jmciedlbgfbkmoafgngacjlibdnaakgb",
+      "name": "Troywell Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jmciedlbgfbkmoafgngacjlibdnaakgb",
+      "sha256": "af3851ff4cb32d777f56ea4e0baa7604e471a4179e979307ce625494343e0f2d"
+    },
+    {
+      "extension_id": "pjjaekbbbfhnagmcffknohdoifagibpn",
+      "name": "Veepn Vpn \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0431\u044b\u0441\u0442\u0440\u044b",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/pjjaekbbbfhnagmcffknohdoifagibpn",
+      "sha256": "5bc72332ef5312e950e809b9c05d5029733028f24b315c6e16f029e43137eb31"
+    },
+    {
+      "extension_id": "hbljfgdgkbncdgmdknidmfdpfochkcad",
+      "name": "Goose Vpn \u2014 \u043b\u0451\u0433\u043a\u0438\u0439 \u043c\u0430\u0440\u0448\u0440\u0443",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hbljfgdgkbncdgmdknidmfdpfochkcad",
+      "sha256": "298deabccaee56a88f89f58c22edb98b0e550733aed389201b6fc84bb1fd52d6"
+    },
+    {
+      "extension_id": "noelphadcndcjnhacfbfdindjcomcnbg",
+      "name": "Vpntype Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/noelphadcndcjnhacfbfdindjcomcnbg",
+      "sha256": "53aa06583ab26ee2f1f0c98086bd4b7a1520da0c7aa0e720cd22c26e41da1d21"
+    },
+    {
+      "extension_id": "npjkgdpgmkifgefbjcpfcanmnklcepln",
+      "name": "Vpnly Vpn \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/npjkgdpgmkifgefbjcpfcanmnklcepln",
+      "sha256": "3f53cc811092d2a9c23a655461410441489e5cb045830b777c3888a7d6a299af"
+    },
+    {
+      "extension_id": "lbgildenloepkifbfjhbjpbemjmcdofk",
+      "name": "Troywell Vpn \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vp",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lbgildenloepkifbfjhbjpbemjmcdofk",
+      "sha256": "1a56991fb464bbd17861009a42d562158bd7316cede27ad20b7f8f46e4456884"
+    },
+    {
+      "extension_id": "lklimgabcbcgnpdmhcgeomcpigimjdfe",
+      "name": "Bunny Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/lklimgabcbcgnpdmhcgeomcpigimjdfe",
+      "sha256": "1414802cad7cae91b1f1c86090fa4fe4af5b0e7cef8b3e26c6d77f342013ce82"
+    },
+    {
+      "extension_id": "alddieidogbjmfhacfefnlibhngfoeoc",
+      "name": "Mullvad Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/alddieidogbjmfhacfefnlibhngfoeoc",
+      "sha256": "c14b4dc317e10503f69f825dec934deb0af5540d54cb0d75e7a8cb4fb75018db"
+    },
+    {
+      "extension_id": "jmhjncbklobcgdbehlapilmchlemnmcj",
+      "name": "Velnora Vpn \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jmhjncbklobcgdbehlapilmchlemnmcj",
+      "sha256": "e9b770c5006aeec1db3bc5bb5f826fd66ff202a41f247162f2fd2917cdcd9a55"
+    },
+    {
+      "extension_id": "daeififldjlofojdfjfhniliooijanfi",
+      "name": "Oneok Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/daeififldjlofojdfjfhniliooijanfi",
+      "sha256": "011e1f15ab673d12cd5995dafdb861c502436f636d68e3987a4dd60ec1ef212c"
+    },
+    {
+      "extension_id": "ipaddljhaefbklbclhmmanhiihaadijo",
+      "name": "Vpn \u0434\u043b\u044f Chrome Amnezia \u0432\u043f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ipaddljhaefbklbclhmmanhiihaadijo",
+      "sha256": "7dd3b275c8e16db669fa2ffddeaa6ad222aff97657562b2e31ab463a1fbd3a41"
+    },
+    {
+      "extension_id": "imhiaobgilpnpamgdejojdidneoghkln",
+      "name": "Telegram Volna Vpn Free V",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/imhiaobgilpnpamgdejojdidneoghkln",
+      "sha256": "dcd8ddebf4ae66b224660ecdf1dddde66a334fd0cfe35408b3c4ed4dbcfac17c"
+    },
+    {
+      "extension_id": "aibncojippkhlkmpcocihapphmbcdeok",
+      "name": "Windscribe Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/aibncojippkhlkmpcocihapphmbcdeok",
+      "sha256": "d8d55e1ec3798c456b69b679736f602a33242bb75b68c1549a5254c98db379f6"
+    },
+    {
+      "extension_id": "anmniinfeejjkaombcglahpokifpbknc",
+      "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u043f\u043d \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/anmniinfeejjkaombcglahpokifpbknc",
+      "sha256": "1b4d30e0920b3fe9dcc0e0e84a86b31c258a0644b064a989248c320652b03e33"
+    },
+    {
+      "extension_id": "fjnicpggckjknbchncjcincjbiolnhgd",
+      "name": "Hola Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u043e\u0441",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fjnicpggckjknbchncjcincjbiolnhgd",
+      "sha256": "ece5218e909f07cb845787684fa11d52eaf5d1e8169427362cbc4adfb4f63b3f"
+    },
+    {
+      "extension_id": "hpeebolbfonphcbeglbhnlkbchiknndp",
+      "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u043f\u043d \u2014 \u043f\u0440\u0435\u043c\u0438\u0430\u043b\u044c\u043d\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hpeebolbfonphcbeglbhnlkbchiknndp",
+      "sha256": "8c57fddf454e8469df259c021f7f5b2bae21302fab9db0143e4e03439385fd50"
+    },
+    {
+      "extension_id": "halbgapgdfjlgfkkbbegmjnbbhmoifgk",
+      "name": "Vpn \u043d\u0430\u0440\u0443\u0436\u0443 \u043e\u0431\u0445\u043e\u0434 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/halbgapgdfjlgfkkbbegmjnbbhmoifgk",
+      "sha256": "7b745167ac7d0cc2a063290bc4e8063c0ce28b55a021c803145ebf5fafdb9871"
+    },
+    {
+      "extension_id": "bdnhcaefanbjmjlpfbkdpahdpjcgmgdc",
+      "name": "\u0434\u0435\u0434 \u0432\u043f\u043d \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0432 2",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/bdnhcaefanbjmjlpfbkdpahdpjcgmgdc",
+      "sha256": "495f90ef6332a303399a2f1ab15349e71297616be8fbf28fbe5850e4309b68fb"
+    },
+    {
+      "extension_id": "fnkodkpljckncnbgjfbinmknmjjjpkon",
+      "name": "Nadyozhnovpn \u2014 \u0437\u0430\u0449\u0438\u0442\u0430 \u0434\u0430\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fnkodkpljckncnbgjfbinmknmjjjpkon",
+      "sha256": "f32ccc4d64a8efa6a8d02bd2fdbac9c1805278b591031659065dc985f9d584d0"
+    },
+    {
+      "extension_id": "kcgbeioakbpmiepackmfiphoikgnbphf",
+      "name": "Io Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kcgbeioakbpmiepackmfiphoikgnbphf",
+      "sha256": "0cbd8925994e1691a419143ee0701c4c5a5e0fd4dfd43f872408d3a9c0930669"
+    },
+    {
+      "extension_id": "hhnedilafddknohmcohclpfhmcngmolp",
+      "name": "Vpntype Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hhnedilafddknohmcohclpfhmcngmolp",
+      "sha256": "3d82a7889a3066693680846030d5ff6451545de0fa6a1cd6303bbc3933fd7d79"
+    },
+    {
+      "extension_id": "cmchedgehojgoecihmilngakoojgnhpj",
+      "name": "Vpn \u043d\u0430\u0440\u0443\u0436\u0443 \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cmchedgehojgoecihmilngakoojgnhpj",
+      "sha256": "ce03b1b0bca982b74017607e7447d6f23d559da7811b0ad87b798c1ac6b02559"
+    },
+    {
+      "extension_id": "jipgijhhpbhbolifeedbilflmacdfdld",
+      "name": "V2Ray Vpn \u0431\u044b\u0441\u0442\u0440\u0430\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/jipgijhhpbhbolifeedbilflmacdfdld",
+      "sha256": "435fef674150fe161db6aa1f497a86817265a8a38c97bbb875a2cd8a930664b2"
+    },
+    {
+      "extension_id": "ahkhgkpeihecchndmpaeoaclcpfhlljn",
+      "name": "Uvpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0431\u0435\u0437",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ahkhgkpeihecchndmpaeoaclcpfhlljn",
+      "sha256": "9b1b8b154d89ad370b0a713515e3c13e99ff5c5a05def11f27121b18ed822a7e"
+    },
+    {
+      "extension_id": "cddciaeemphneocilindkliigofkefoi",
+      "name": "\u0432\u043f\u043d \u043f\u0440\u043e\u043a\u0441\u0438 \u0434\u043b\u044f \u044e\u0442\u0443\u0431 \u0442\u0435\u043b\u0435\u0433",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cddciaeemphneocilindkliigofkefoi",
+      "sha256": "304ffb8ddf687049f30c080acfa9d0f8f453c4f675610d843ba7756971826eab"
+    },
+    {
+      "extension_id": "gkaffhfdjnacogbifeplfeijfgdjooeh",
+      "name": "Express Vpn \u2014 \u043f\u0440\u0435\u043c\u0438\u0430\u043b\u044c\u043d\u044b\u0439",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gkaffhfdjnacogbifeplfeijfgdjooeh",
+      "sha256": "27cb6b08ec63e7b433dc651ce5ce997ace92a0f523b30d6fd5322594f3bff4b3"
+    },
+    {
+      "extension_id": "ehaaljiengbhgjjfjbepbaaakpppbabd",
+      "name": "Windscribe Vpn \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/ehaaljiengbhgjjfjbepbaaakpppbabd",
+      "sha256": "8b077e6ccc5240fbde9f2910c4b31e2102af7c5f0a0e6a96c2ac3fe9b0b20b0e"
+    },
+    {
+      "extension_id": "nbocbhmemglpmjcahjeacihhlpacpnmi",
+      "name": "Proton Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0438",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nbocbhmemglpmjcahjeacihhlpacpnmi",
+      "sha256": "604cb8cc9dcc1a00ab0336403613bae82985c4524e45f045e1a1330c3263e72a"
+    },
+    {
+      "extension_id": "doojbfaiapmikgmcngpfknbicfibkmje",
+      "name": "Jump Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 Vpn \u0441 Pr",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/doojbfaiapmikgmcngpfknbicfibkmje",
+      "sha256": "8353e41f3aa11f79765f0efe7f1b88417708cbe874daa289b6777fa46bd30553"
+    },
+    {
+      "extension_id": "njmmmffkihgbgnkbpgggcbhakpbpjdjn",
+      "name": "Astar Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u043e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/njmmmffkihgbgnkbpgggcbhakpbpjdjn",
+      "sha256": "eb4423674d1a65eea2bebaa697cdcf963cbc533e24945c0a718020c0c5d3880e"
+    },
+    {
+      "extension_id": "gifpfpofgiipdnmgcfpaapbmlhdplfja",
+      "name": "Hola Vpn \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gifpfpofgiipdnmgcfpaapbmlhdplfja",
+      "sha256": "f720f8b70c985f48b315cb4bdb157e2ae6faacf50ffe6a3436f4e0029e60327e"
+    },
+    {
+      "extension_id": "hdjaegakdmgegngopkhpdnbkhlbecpof",
+      "name": "Turbo Vpn \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 2026",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/hdjaegakdmgegngopkhpdnbkhlbecpof",
+      "sha256": "946977af85d5288cdaf8dc1b429ea1e623f00aab6368ee0c36f2ee2d180e54c5"
+    },
+    {
+      "extension_id": "nkohohegcmpebneeoicmlaobfflejfgn",
+      "name": "Bebra Vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/nkohohegcmpebneeoicmlaobfflejfgn",
+      "sha256": "555615e140feb29fdec90227fcb40132b8c26cb036d2f76bba1d54f5a9446639"
+    },
+    {
+      "extension_id": "inlhkemegibifgiodebhojabecbcbdol",
+      "name": "Uvpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0431\u0435\u0437",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/inlhkemegibifgiodebhojabecbcbdol",
+      "sha256": "73410b2ee6a67bdc70b6d5ffbf2118095b92ad1a6e128c97d00ee1f735313aa7"
+    },
+    {
+      "extension_id": "idiibjhjkcdnpcoiednphpfdmlpahgfo",
+      "name": "Amnezia Vpn Vpn \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/idiibjhjkcdnpcoiednphpfdmlpahgfo",
+      "sha256": "d75f18fe0219e6894c5abf644043fccbd550c3e2ce1540f9edc08e0a06ca41e7"
+    },
     {
       "extension_id": "bdagilkopmecjfcibneiaoenpgggcacg",
       "name": "Prohodvpn \u2014 \u043f\u0440\u043e\u0441\u0442\u043e\u0439 Vpn \u0441",
