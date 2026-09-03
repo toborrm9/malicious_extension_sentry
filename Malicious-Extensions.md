@@ -1,5 +1,324 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| pnechfmigooncmkdmckeploenpdokime | Vpn Для Любых Сайтов Sock | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| paeoffpheflnflpfndnilajhpefmjcnn | Molecule Vpn безопастност | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| aajbepboefmlklnahoafabgojcokghmo | Proton Vpn — работает в р | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cldgjlliipplmoklpacoofkklpndabkh | Vpn в один клик | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jjoddljddjincadlndpmnoaacgllaipa | Vpn Go Socks5 Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| eijnopbblcamoajmmbckabkipchdigfe | Бесплатный Vpn Защита При | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lijgemmbhlnihojhoeklihcknjejibfo | бесплатный Vpn для Chrome | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bdpfmpoapobjpijdfkailkdemofoikpl | впн 2026 рабочий бесплатн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bfpjacpjaefmamliiigaegaljkoamkkp | Argon Vpn безопасный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lcnmlhniagjijgfeeipblmiiojagiheo | Happ Vpn — Vpn для браузе | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ipkabodgngmeokkpacepebghbpcofkjh | русский впн — Vpn с макси | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| japjkbohafabgoobdjopbgogcaojghjn | Rain Vpn надежный впн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| agnmhhebllipfgbjapeaokbmookepach | Veepn — надежный Vpn для | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ihngndofkobdmakeialhcpdicpcjinkb | Adguard Vpn — защита брау | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hkbpbikcldilobnafmlkloejlphbeljl | бесплатный Zyvex Vpn обхо | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nibloijlhkpmdafbanpddodlnpcnndcl | Happ Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| gjfonhlbpjdkcokeobblldkpeemjllca | Турбо Vpn Socks5 Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| gofjijbknelcgffpjpamegogemggjjeb | 1Click Vpn рабочий в 2026 | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ibpnpknojlejkaegimefdkecipcandcb | Hola Vpn — бесплатный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hljadnobdcoimbiaghlnfdmjokplinlc | Nova Vpn бесплатный Vpn P | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| kffbbgficaappmbiinbgdhokgkdkfldc | Express Vpn Защита Данных | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| epomjcecehacbbjccgongnebjfjipmmb | авокадо впн – всегда рабо | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fkpnnabbhkejdpndhgldipdpigdjmbeb | Veepn Vpn рабочий в рф Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| dgkglcdncbenpdookdibjmigcdpkebne | Adguard Vpn — чистый Prox | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| phppjeldhmgpnflcpocffehdngadapga | Hola Vpn обход блокировок | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bofmkebieoeaegmmffifmecgjldmaekm | Happ Vpn — бесплатный впн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fjnddclkfikoaonclkhkjnnmajagdmik | Veepn Vpn — стабильный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| aboofcahcihoedlompahehhmhccnlcfo | Kobra Vpn безлимитный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jfclhhofknapokajceninppfiabelmdh | Turbo Vpn Бесплатный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| kpdlnkhkeimpdceckackhniadlcohafj | Hola Vpn рабочий впн в рф | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| degmdmlofncekmdnhbdmllmeplbdjbpg | Lava Vpn скоростной Vpn P | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| npcnnofohpfchgkbeodcodnkgekmhhkh | амнезия впн работает в рф | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| igjafbnnlnnfgbbpophaplngbojdgcfa | Liberty Vpn Защита Данных | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| anacdbdlkjgjnnncdpdddkblmfkmhaho | Vpnly Vpn бесплатный впн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| kcabgepgapangjagpjgolfeblajcfpkb | Purevpn Бесплатный Vpn За | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bndhdgbeijlcafhahbgdlgpmhnkgkfoa | бесплатный Vyron Vpn Prox | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ljgfpgpbhlajkgbaahgijkhjndmlppjb | Vpnly Vpn — удобное подкл | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ojhonkmgcejnaffpemjbofkkkdhdnnac | комар Vpn стабильный и бы | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| kcplchjjdpgehfdlggggoohdeoaikcan | Amnezia Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ochjiaiabmbgpfhaedapjelkjehdmlhf | турбо впн впн бесплатный | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| pnnnbaaepebgmfpmdlgimhmeebocidfp | пушкин Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jgdefbohamhjckdlhioadifmhfdahenl | Veepn — работает в рф в 2 | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jhllngjdkkaafogfbdejbjninfpelioc | хит впн безопасный впн пр | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| kpcdokjedaaifnfllokegepgnlcpkklb | экспресс впн работает в р | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lgockjpddodkeapdpbfpnjhkccjegimf | Myxa Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| pfhglhpielmhnngeddhfalohbbjmplhj | ваня Vpn бесплатный Vpn д | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fdcfiefccdfljecdjghilliibohmmkeg | Aerovix впн Proxy для бра | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hkmkmdclalcgejfcfdofopapkhofjeee | Vpn Proxy — впн расширени | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nikpeaidfekloonojddhohblnmieibgm | Vpn Proxy Master Бесплатн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| obndikgdcbhidpgmpbjkbhnbadglpicg | Smart Vpn Socks5 Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hemkjgalnnhdiacemkhonncplohclfgh | Frog Vpn сверхбыстрый и б | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| geogodfmhkaiekeklnjadpepbhjgiaib | Red Shield Vpn — чистый т | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hhojkcckcdmhophjjlaiemnmjpgfghif | Hola Vpn — работает в рф | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| npfkabpehmibmabggjhmfiklibimjoml | Vpn Plus надежный Vpn раб | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cbagbihfhjpkglhcfhcjcepcififfcah | Vpn Для Youtube Бесплатны | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| affkhnifjpajdeknlemiaiaeholimlfc | Happ Vpn — один клик | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hfnmoobiadidoeadkbloimoecjpdmkaf | Vpn для телеграм — впн дл | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jmiocmbgghjlgoadmhbeclfhgmmhckfi | Vpn Satoshi Бесплатный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jpkjmbgojfamdbanomiieehgaejbnmpa | Bezlimit Krug Vpn — беспл | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ekmamlikpgcmmgdfjhhollfkpjpmbghc | Лучший Vpn Для Chrome Soc | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ieakmendicildlohomencafbopnfjnfi | Vpnly Защита Данных Socks | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| phcbejgnlpffeablnkodialchkebmaji | Ютуб Впн Бесплатный Vpn З | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| demlogledllmlgcjcecjedkiodimijhm | батя Vpn — крепкое подклю | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lelmgpieoedkgcenoafkmoebjdipjoeo | мухабойка Vpn быстрый Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ddfjffoohifbhplmnnjkficekfccigoe | Пуля Впн Защита Данных So | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| afojjlffdijdnlkiklimoidgfngeekif | Free Avelon Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hbfhpoipegdohbncnmlofdhnjhdfpfnc | Dance Vpn бесплатный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jaaghpailoflnimfgomjnfeildgjadkj | Okeanis Vpn удобный досту | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cgoacdpjaonbgieejeehfopdmelddihe | Power Vpn Socks5 Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bmcehedoeallkhbpoofmddbobkpaahjj | Впн Сила Socks5 Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ngifmjfbjmccpgimmacbffmgfiinhnhd | Adguard Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| gghjjgcimdomeglmedjhofaohghcpbdc | авокадо впн – быстрый Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bkdllhlbldecgmcimfcicakgngljbpfe | прокси Verion Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ninfkbdcdjcmcmojpbcdgclnoniaieoo | Мгновенный Vpn Для Браузе | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hmdghemjacnhbjofonbglimhgnfedacn | Grom Vpn Защита Данных So | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hmcljpdjclhmgblfjfpjokaihholojcp | Flash Vpn быстрый Vpn Pro | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cbfkebmkdjdedfmcknjedeacanplkjcc | Vpn Для Chrome — Быстрый | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| gemjckjcdfgghenfdjhpblcjmjhkkmpc | Avo Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cnbobchecopaifnmeklajjcpofdhabno | Adguard Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| oafjplehbjmeifojdgckdbpekomjfjpo | ядро Vpn рабочий впн прок | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| pdmbiifafihjjbmlcifgghdghcgjjeed | Norelix Vpn бесплатный дл | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| amcnahbkiglggdhhmiocpopjgachbhmg | Hit Vpn Бесплатный Vpn За | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ikndhfnfolklghjimliafikaiohcmmgl | Skylin Most Vpn — открыты | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fhenajbcenenhfkoblaakgnidkiakjfg | Jump Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| pagmdkoblmmabonnpafnbgfpgkimfcbf | Vpn Расширение Для Google | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| odgofcinnahbfjglcjkekbgoccgecklg | Expressvpn Рабочий Впн Дл | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ghdmdhniajjkfjgldgimnhdljalebbbo | Adguard Vpn — Зайди Как Н | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jecaifjjekmanblbaoemmabopjcbagln | Stars Vpn скоростной Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| llgfjlihggbnidedpjgdenpflhoiaaji | Vpn без лагов Socks5 Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| namblbcaacdfeeglaklbfbdpjmndcobf | Бесплатный Впн Защита Дан | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| akohckgogcbjjmdmcddhfdhldbcbhehe | Veepn Бесплатный Vpn Защи | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bfgoepnoenodpgmcficdjlajnlbmadlc | Sun Vpn скоростной впн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| aalfhjflaokihbediiadmohipjlpbjpg | Adguard Vpn — защита траф | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ihdkpgmmappgdkngloldeiicfpkhgdml | Amnezia Vpn Бесплатный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ejnnmgcdapkgoejlccbmiegopfbdabal | Smile Vpn надежная защита | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ofkmkjdcfpeiojhjifkpcjkfcpbkgpme | батя Vpn — крепкий прокси | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nbnkhmjmofiemgifcmhcoiahjilmhbhl | бесплатный Orelan Vpn для | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| acfbcpibnbofjabglaeojkpafablikmi | Русский Vpn Бесплатный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| eefkagdcgphioglegkcmfiflkgfjlegc | Iskra Vpn бесплатный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bbjoeckmegkklkmlgihgebeiocmjhfpf | Amnezia Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| eomimmpkgdmeckpghogemcmkimcpigeg | оса Vpn быстрый Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bkngojapplbfdkipgbkhecljdfbfffim | Rocket Vpn быстрый Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| kacnibbepalcolkjnokkmmcdojdhcknp | Hola Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ehmnoicopemjglampffnmjiakdgejfil | Hola Vpn обход интернет ц | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| glbekfbbkgblkncmkifamiflbeegmleh | Proton Vpn — быстрый Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bgnccpihdpphnhcoadbmmpcngdfjhhip | ркнофф впн рабочий впн в | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nfihjleaabaeabfakcieaekddodhknop | Free Vpn Бесплатный Vpn З | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ibofhejeaghdadihdjicnpbokhlbmina | Frost Vpn бесплатный и бы | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bediijfgephcioldkpemhpeefinafdmd | Astar Vpn — стабильный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| knamdoehgbapikbpadplghakheaainfn | Urban Vpn — рабочий Vpn д | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| paifkghgecedjhpiffccboiopabfkilj | Windscribe Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| gjggagebmdbamiifkcjlmmilkbmdejhf | дед впн — быстрый и рабоч | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| doajnjgnapnobhdoodembkdhgoegokin | Express Vpn — премиальный | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lhacnmanojilhchljbehpnliojcngnfe | Windscribe Vpn — быстрые | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| gpncanplicpnbgdeokhbegllddoefnlo | V2Raytun Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bmoojnjfiggdpbajbknhmoldfbaoogem | Urban Vpn быстрый Vpn для | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hfengcfjpdlpkeokijnanjagbhgehgmg | Astar Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| dgnnljdjmneoeojogfomogcgfbffjjhh | Durev Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hfmepibmajpakfjadbmdapiphbeheafd | Windscribe Vpn топовый вп | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| khodoekbhiiebhnjcgbjjekacjlnmjeg | Telegram Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bnkeghcjecgagbajoiophjkpaaecncfn | Zapret Discord Youtube | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| acnhophhmnbgihhmgjlccplaabidjiak | Hola Vpn — рабочий Vpn дл | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fiohhhihdkhncmhapaclcahappdpfeah | Vpn наружу — работает в р | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| mmajiiadnkaciggbbniecpfdchdapikb | Alpina Vpn — быстрый стар | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hhjheeljkpfgppjegakbgfgijocddjde | Express Vpn безопасный бе | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| meghgkmdmcncggfiamanleadfliacbgk | дед впн — безопасный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ajbimmblchdinnlcimmapiekmfmcppin | Hit Vpn работает в рф для | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fkjkkgfkadibilpiackaneifhogpojfe | Urban Vpn сверхбыстрый вп | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| dhogjjpkggldkfonmdilkdhjpgokhkdn | Troywell Vpn надежный и с | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ideookmbkaghncpgjmlnepaaiecmneaf | Hola Vpn Proxy впн для ют | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| mghiicaddmhklijoggbaaheonojgjchc | Amnezia Vpn — надежный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| mldnjhfcnklbdmelendmcebmjmdffpld | 1Vpn — надежный Vpn работ | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| afcmhalnacimnlgdkidbcmbkokdklboc | зарубль Vpn для Youtube з | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| oigkfkpefgklbmhlfhdmagkcljgnbpgp | Turbo Vpn безопасный быст | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fohfimjllhajalhhkiiddfjijcfphppb | Surfshark Vpn — высокая с | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ddkeddjikhckaeadghadoidfmemkbjno | Vpnly Vpn бесплатный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cfobandbiggohgmmbfnaccbfffajekdh | Happ Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ngkjielajlecigijlijjkhkhlhmmcgfh | Troywell Vpn Pro High Spe | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jgnaieemebmijpgpjebiihoknlneoede | Amnezia Vpn — надежный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| mgolbnmjhhnhegljibdmkdpjpjimmpbc | Uvpn — Vpn для Youtube Te | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| paijfkjloheggcedgnoglpojpdlkfgjd | Troywell Vpn — стабильный | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jpaibdphjkblmjediahchjoiooimmkdb | дед впн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| onlnahnoifndfdmckikafiacnhlhcfff | Uvpn работает в рф для Yo | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ihdclbcpgnfgmbkhnlecljphdnegkngn | Astar Vpn современный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jjohfacemkgbihagfgdefoohngncicjj | Troywell Vpn — стабильный | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nhcmnljcidifkndjfbfjofhonpfcikch | дед впн работает в рф 202 | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lbgbmkpmalnmmkcobmehdijbihfklejl | Vpn наружу — рабочий Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jilnanckohjaeiephdoihkfnpckdnfoo | дед впн работает в рф и п | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| mbgljjlneblmgciofdkkflmhiddibgoo | Hitvpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| gpefikhhckedlalbpjfncnocgfnoadpl | Hit Vpn надежный Vpn для | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ddfplmclbalkmpanliclcamjhcjookpd | Planet Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ammmadeaaeediccnjgagkpdinmpkfbce | Happ Vpn — One Click Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hiddjonniafmibjlbfcpoagjkgliifne | Windscribe Vpn — бесплатн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| emdookakhhdjokicppfdggfnhaafbaec | Vpntype Vpn бесплатный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| aacgcpbjkblgddfjcimoioafoedhldhp | щука Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| anbgakndpobfliabfikidjhcpflhnmem | Free Vostok Vpn — быстрый | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hgikgejnemplefjnopeekipnjceclkng | Proton Vpn рабочий впн в | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lalmlmmepgkpeaepjkfapdjhikpodfcd | Vpn наружу работает в рф | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fkbnmbhfddhddldfldblbjdnkfnbhoeo | дед впн рабочий впн в рос | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| khllhhmmnenklbpagjifnmieennmabne | Uvpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hmhmfclclghjomcbhbleehlpbomhdomg | Windscribe Vpn бесплатный | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| pfeikcgjglgcelfiolnlpjmcdedcmiie | Happ Vpn рабочий Vpn 2026 | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| mhpggpolcfckhlmpdngnmjklojplngdm | Free Vpn рабочий в рф 202 | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| kjlapochhonejbhekmlgjebfcknlhmna | Vpn наоборот — Vpn для бр | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| omklmcppldnjhpgchlffibpkndphfmli | Hidiffy Vpn работает в 20 | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| piklioippcbibkbkhmdlhhkfpooocgpd | Uvpn впн для Youtube Tele | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fcgepeapicomdnijjipcjondmclcdgch | Secure Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jjpaipndidlabeblhnhhhgciaapabaip | Windscribe Vpn — стабильн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hgcpgjhpmoeknmgggeiaibkgdejgpaad | Express Vpn бесплатный дл | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ggieheogpillmkemmonphfnenllpgefc | Vpntype Vpn бесплатный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lpipoapkpmcpjfilmmhaagknjkjigklc | русский впн — рабочий Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ojkdgdhiiklpkacbkbebflmienhlikec | русский впн — рабочий Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bieefmacigggdondcbnfgehpaaafbdlf | Prado Vpn — быстрый впн п | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jhcbbncfjljeniagggahoheclmpllaek | Vpnly Vpn — надежное Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cinpfmbkbpmjhdffmlbokcpjhobpkaoj | Wik Vpn быстрый Vpn в 202 | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ahmgibiekadomdndbgcfjbeenimkpgon | Astar Vpn — работает в ро | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hkpnhgaojokkjdkhccifkjkeihekhakb | Incy Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| plcaklmjikobmiiafdikhepofcjflkga | дядя ваня Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| miocfdhncnkdfiiahmpbepncfoondhfa | Urban Vpn — надежный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| gflgapnngkofndfgdmlecmkejbhgijng | Hit Vpn — бесплатный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| aidojmhjjhkpjpdkdkmoefjlcoldenmk | Hit Vpn работает в рф без | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| baglfifodllloppchbbpddiinccmignh | Veepn Vpn безопасный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ognaahknkaapmocokfgnfkpohacnifmi | обход глушилок | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| mpnhfgcicibgjoadoicgaeejdhfnmlnk | Vpnly — бесплатный Vpn дл | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| aidbgjfclcdhjbmcbmebkgmnglgoaagn | Hit Vpn Vpn для браузера | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| eigbonbcfemednkodkokippobohdbild | Verdant Beacon Vpn — зелё | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ojaggjmmabppdgaapofpidbdbinkonic | Vpn Plus надежный впн для | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| dmkkebpooaiodfnochelkgbknmiigmfe | Turbo Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ckfoaipekbfidcfigemllmiodbdomhhk | Zoogvpn бесплатный Vpn дл | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bobhaooijedocodpaehpmiplficlppco | Vpnus Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| dgoccknbhicbagggbiiombpebbmkdpio | феникс Vpn бесплатный про | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| diojakiakigacjdbijiodjopopbdfocl | Cyberghost Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nlbgnmbhhbclebeclffmadckkgoigpcg | Vpn наружу обход блокиров | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| mdpchipcnfogbeolkcgfbioippedabei | Vpnly Vpn быстрый для Chr | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| kmbmbjdabhabcjmebjhlieijelkaafjo | бесплатный Vpn для Chrome | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| abkdgombolkiaagoiachnedhcdmljjfo | Vpntype — быстрый и рабоч | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lgmeeibplclmipfdkenikbladlcdjiej | Turbo Vpn быстрый Vpn для | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nholmoeapgncpmohkdbaddejeajdchoi | бесплатный Tuman Signal P | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hgfgplelbdifkmjpgpfhhaahocgihbed | Freeflow Vpn — бесплатный | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nokopmejllalihieeedjomkefhnpnfla | Nash Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| honjoefhlidgdidlcdbipobjnoliiaid | Troywell Vpn Lite Unlimit | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| glcmlljhmibnfffkllgpbeecoppnkmjk | Urban Vpn — рабочий Vpn в | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lbceihajcopkbifhflfbbnclggibgiao | Happ Vpn — рабочий Vpn дл | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bobmofohlfifmnjkpobblfoobpbiechp | Purevpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| kifijalpmpoccbmpfdmdjefhdinhhbdk | Amnezia Vpn — надежный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| heljplmaaffhgglkkbiagahgjmpgoaih | впн сигнал для телеграм ю | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| apnfjomepdnglbljoikkjimckcaiglcd | Glush Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| njapjlocglmmlikpjompjpbnldgaaaan | Vpn наоборот работает в р | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| annjapkccidcggmkbfoedckgkpcgpmgo | Vpn Plus — работает в рос | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jcgdmckmhldciaddglpelebbedopbjeo | Urban Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| dhghffoilblhhmogiaomhbgcpapldmaj | Premium Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| adcnbeifompehccabimhaibllfahhfbi | арбуз впн бесплатный впн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| mlhboniclgfbcdpbdjkpinlcgbhcnpjl | Amnezia Vpn работает в 20 | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ehhedjnbbdgpfjafhngkfcaapglcfdfc | Happ Vpn — работает в рф | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ekkpeplcllphkgplgcdljhppnkhppbfi | русский впн работает в рф | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| genlgfbbedgnldpfnocnolfdgdncmdgj | дед впн — работает в рф в | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nbadihaihfegbdaofhoilincgjhakdmm | Hit Vpn — работает в рф в | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| dchlfaoafjbplbdkokdkhnmfjcabfbig | Happ Vpn — работает в рф | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| johcnpakjicllaphogocdhnmpdngllen | Hit Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| akjdfmibilkfmhilmfkijklalnlnjlib | Mullvad Vpn — быстрый Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nngceaekmjibhmhlneojknddbodbilof | Astar Vpn — надежный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fjjkonbdkemhimfjdgkafphpedldbapi | Uvpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| dhlgcmakpoaapaejffgknhhlnohmicig | Hit Vpn — быстрый Vpn для | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| agflfdjpnlobnmmmjkdlpdnncjkbgiej | Vpn Duck быстрый и надежн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ipionpcjdnnmblemgfnnoenlebgdhjke | Hit Vpn — работает в рф б | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| acgafpeepkbblomknnbekhpkblkkgflc | Troywell Vpn быстрый и ст | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cgmcmcndpapmpkhkhcfoncagjjgmnpik | Hit Vpn — работает в рф б | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jkpelkngpppfhfnlkebocdjpkaepekll | Happ Vpn работает в рф Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| idjknlnbkhbiofhjcbmpbmganjapffkk | Happ Vpn — обход блокиров | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ppnblcjigcjdbcfhgelajahbebklodlp | русский впн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| endhleicdnfalloabndbkhoconedaejo | Dotvpn быстрый приватный | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fflfpipekinamppkgigedhagblohhmge | Vpn Plus | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| knbfcpfldhbajlbdjgjdbgilioikghhl | Urban Vpn — работает в рф | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lpbjlicgpfmppjbflcainklkpoaimkee | Urban Vpn обход блокирово | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| pcifmakbkkhleddonhhbnaadodkpfgec | Happ Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| idakpdhldmdipfppiagjdkfpelplahgp | Zashitavpn — безопасный V | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| gmpecjmlhepfjmfhenjpjmommpkgimjk | Vless Vpn надежный впн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| mekhmoakacmpddmiejmkjmmcihbmopnh | дед впн бесплатный Vpn дл | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cchmigooikpmolkiphbhfapncfkegcmk | Vpn наружу — Vpn с подклю | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ccfgkchbkckelnhmkidhlijcdcimaipi | Happ Vpn обход блокировок | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| khanepmegdcnjlmocgcdklabolfgojab | Express Vpn — премиальный | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ghabiheeillbfcmcanjpamhmakghbdha | Sirius Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| gfphjclfjnifpopnlbifplljfndoagah | Happ Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jnpnfadobccbjefbfpoibmihcpaplfib | Vpn наружу | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lkniebhmojhalhgafnolpeiogpccjbnm | Astar Vpn современный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jjajohkphajaammllkihainemejpgknc | русский впн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| knkjbonanbapgbnalcfpfbdakgfckkad | Vpn Plus — бесплатный и б | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cmokfjhldenhogochlfpailmmkmhnmgp | русский впн обход блокиро | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ekgejlkdmgojnobgegkcomigednijpnl | Vpn наружу для Youtube об | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nppimbedejlkikknjnacjnbaalhdaofm | Orange Vpn рабочий впн пр | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nbafgjlhmjpmafbkicpfepljlhpcifgo | Troywell Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ihmfmohnahkgcmojnflblfokhhgmegof | впн рабочий 2026 бесплатн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| imihfehmmikfahcaclnjkakmnpllmdld | Signalvpn — стабильный си | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| emcibedcanahcnobjhdfkcffgnhhjioe | Happ Vpn бесплатный прокс | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| adgnomaciajijinlhbmofgpfpeahflhm | Expressvpn — быстрый Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ijiojinckjmkhmolppnfiiopmomdeghm | Otkrytnet Vpn — открывает | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| japmnaafbolobggeboafeoopffooljma | Troywell Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| caehfnhdnangncokfhbnimcaidgnfmfk | Horizon Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| dpcbncckdgmlifjkilakfdbhilbehbmb | Ultima Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| elbpdmfheonoleiilkhocponckmnohba | Vpn Plus стабильный Vpn д | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nkhaoepgpgfmgfihbpeagjfjnchnfgpe | Mullvad Vpn — конфиденциа | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nhjolbdkhnpbneljlpojgbgajjhfadoe | Amnezia Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fkjnhiikncpkkkepbbggfdldiffbakjb | Expressvpn — бесплатный V | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| dkjjcgeccgnnkgfmdjkocdjplociikcp | дед впн работает в рф обх | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| mpoknmklelafojpccoomjjfddfolkoge | Turbo Vpn — работает в ро | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bamfjplnijjofojfipjedamhhalgcond | Windscribe Vpn стабильный | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jdbjahlnapijoebbblcbenccfkhbjkjo | батя Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hphgkgnpanldmijlablifonpgchmceim | Astar Vpn — бесплатный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| aknkimpeemfoghdcobdcakjmekllgdkf | огонь впн быстрый Vpn для | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| kiliellhfhkklfphjhblndndlgmpmflf | Hit Vpn надежный впн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| djmbcnnmnpjijioahndohhjhginfdpfe | Turbo Vpn — работает в ро | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cdokblecifkcmhobpjfkfjpfbdhkhamc | Violet Prism Vpn — фиолет | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nljoclphaobipehplbojpabaepamlbah | Windscribe Vpn — бесплатн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fcacgknfionfdinghcdgjajpefgncjla | дед Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| aphmmlcfillkgabnpdakkpelckibiaan | Uvpn быстрый обход блокир | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| mmccpogbmjchkdgkggiikcggjochobcn | Vpntype Vpn — быстрый Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| kiciibdldkjbaoclfppioahnadncljjm | Amnezia Vpn — безопасное | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hngjoambjhafonhbccnlhjhhngpbdbhf | Shieldpass Vpn — впн для | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hliomffpkmpgmplfkhpnclpbengpkhdh | Astar Vpn современный и н | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| giijecjngnnffaefianagjkcdkcnnipl | Vpn наружу | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| pgdehgjcmgedooamahelcjeoghbnhmek | Happ Vpn — подключение в | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| flpeddlbkieapkbahnlpinjblegodihg | Vpn наружу рабочий впн 20 | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cgdonljgmcpgbmmppibifhidpniooebg | Amnezia Vpn современный V | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cnbpgnenkjffdpokphdljeiodfpcnlmh | Vpnly Vpn — бесплатный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jmciedlbgfbkmoafgngacjlibdnaakgb | Troywell Vpn — работает в | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| pjjaekbbbfhnagmcffknohdoifagibpn | Veepn Vpn надежный быстры | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hbljfgdgkbncdgmdknidmfdpfochkcad | Goose Vpn — лёгкий маршру | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| noelphadcndcjnhacfbfdindjcomcnbg | Vpntype Vpn бесплатный Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| npjkgdpgmkifgefbjcpfcanmnklcepln | Vpnly Vpn бесплатный Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lbgildenloepkifbfjhbjpbemjmcdofk | Troywell Vpn — рабочий Vp | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| lklimgabcbcgnpdmhcgeomcpigimjdfe | Bunny Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| alddieidogbjmfhacfefnlibhngfoeoc | Mullvad Vpn — бесплатный | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jmhjncbklobcgdbehlapilmchlemnmcj | Velnora Vpn для браузера | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| daeififldjlofojdfjfhniliooijanfi | Oneok Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ipaddljhaefbklbclhmmanhiihaadijo | Vpn для Chrome Amnezia вп | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| imhiaobgilpnpamgdejojdidneoghkln | Telegram Volna Vpn Free V | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| aibncojippkhlkmpcocihapphmbcdeok | Windscribe Vpn — бесплатн | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| anmniinfeejjkaombcglahpokifpbknc | русский впн — работает в | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fjnicpggckjknbchncjcincjbiolnhgd | Hola Vpn — работает в рос | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hpeebolbfonphcbeglbhnlkbchiknndp | русский впн — премиальный | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| halbgapgdfjlgfkkbbegmjnbbhmoifgk | Vpn наружу обход блокиров | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| bdnhcaefanbjmjlpfbkdpahdpjcgmgdc | дед впн работает в рф в 2 | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| fnkodkpljckncnbgjfbinmknmjjjpkon | Nadyozhnovpn — защита дан | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| kcgbeioakbpmiepackmfiphoikgnbphf | Io Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hhnedilafddknohmcohclpfhmcngmolp | Vpntype Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cmchedgehojgoecihmilngakoojgnhpj | Vpn наружу — рабочий Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| jipgijhhpbhbolifeedbilflmacdfdld | V2Ray Vpn быстрая скорост | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ahkhgkpeihecchndmpaeoaclcpfhlljn | Uvpn — работает в рф без | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| cddciaeemphneocilindkliigofkefoi | впн прокси для ютуб телег | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| gkaffhfdjnacogbifeplfeijfgdjooeh | Express Vpn — премиальный | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| ehaaljiengbhgjjfjbepbaaakpppbabd | Windscribe Vpn работает в | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nbocbhmemglpmjcahjeacihhlpacpnmi | Proton Vpn — бесплатный и | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| doojbfaiapmikgmcngpfknbicfibkmje | Jump Vpn быстрый Vpn с Pr | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| njmmmffkihgbgnkbpgggcbhakpbpjdjn | Astar Vpn — работает в ро | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| gifpfpofgiipdnmgcfpaapbmlhdplfja | Hola Vpn свободный доступ | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| hdjaegakdmgegngopkhpdnbkhlbecpof | Turbo Vpn работает в 2026 | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| nkohohegcmpebneeoicmlaobfflejfgn | Bebra Vpn | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| inlhkemegibifgiodebhojabecbcbdol | Uvpn — работает в рф без | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
+| idiibjhjkcdnpcoiednphpfdmlpahgfo | Amnezia Vpn Vpn который н | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
 | bdagilkopmecjfcibneiaoenpgggcacg | Prohodvpn — простой Vpn с | Policy Violation | Store Monitoring | 03/09/26 | No | Google Chrome
 | lkibbnhfiamgmkfbikiofmdgekmkpmpc | Coretax Console | Policy Violation | Store Monitoring | 03/09/26 | No | Google Chrome
 | ookmdfcblcfgahhehkklgdagbohcfnel | Azurepr Pull Request Noti | Policy Violation | Store Monitoring | 03/09/26 | No | Google Chrome
