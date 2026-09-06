@@ -1,12 +1,804 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-09-03T14:54:46Z",
+  "generated": "2026-09-06T15:56:02Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6364,
+  "total_indicators": 6459,
   "indicators": [
+    {
+      "extension_id": "epckfdnjigdcfmdflnmiimeiopgocdnn",
+      "name": "Zimal World Clock",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/epckfdnjigdcfmdflnmiimeiopgocdnn",
+      "sha256": "d44bd54f9d7de055239b185f96ddbc67f51879a17744efa40d13a1af3d3fcf27"
+    },
+    {
+      "extension_id": "caaffmdaohbefkaffjacanjbfecgfiho",
+      "name": "Airplane In The Clouds",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/caaffmdaohbefkaffjacanjbfecgfiho",
+      "sha256": "51670683eff36bd94348b2050df77f68a3916e2940dfe9abc8f0ff428eedc78f"
+    },
+    {
+      "extension_id": "mckifljlejgcjjphjglkajibimcmpdjn",
+      "name": "Arctic Aurora",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/mckifljlejgcjjphjglkajibimcmpdjn",
+      "sha256": "5cf970ff067918138470d6eb330b74104caa9d75acd69ee89944294a1189d6da"
+    },
+    {
+      "extension_id": "mpebmkidaokicofipeckbobdecghpcil",
+      "name": "Film Scores For Netflix N",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/mpebmkidaokicofipeckbobdecghpcil",
+      "sha256": "5a9d69bc3c0283e228710acc4151897436ef3958aa38acca1d820a4ff5e2c0df"
+    },
+    {
+      "extension_id": "pjgpiiaiglklpdjfgjpklcfpcmlijlmk",
+      "name": "Videoshot Screenshot Yout",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/pjgpiiaiglklpdjfgjpklcfpcmlijlmk",
+      "sha256": "0c1358fdf7e9aa0027919d3038e9416ce494c0f5d8a740677a9ef18c14694de9"
+    },
+    {
+      "extension_id": "cocnhkojmmiijddilgmdeonjapnmlekc",
+      "name": "Copper Wire",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/cocnhkojmmiijddilgmdeonjapnmlekc",
+      "sha256": "0aa5d4d9871c26f7874140d4f5fe4826572c663b36995fc4a8a9bac8ceb9ea04"
+    },
+    {
+      "extension_id": "nlcjebdjoabcfaphlbicfphpcbfnllan",
+      "name": "Web3 Tracker \u2014 ETH Balance Lookup",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/nlcjebdjoabcfaphlbicfphpcbfnllan",
+      "sha256": "d3568f65b0bc27c4a95f92fbcba0f9394815183ed532cab8aa5b1ae6ffca5193"
+    },
+    {
+      "extension_id": "fdahfhnohohedobonkpkoigkhmhnefod",
+      "name": "DeFi Yield Converter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/fdahfhnohohedobonkpkoigkhmhnefod",
+      "sha256": "1bf3f8b6cf736ddfaa41beb7b02fc15f7067194a111cafce0209ce85b9464d07"
+    },
+    {
+      "extension_id": "ekkbonopkhkgagmkgnkldipmcnmnhkpm",
+      "name": "Amazon.com Dark Mode & Shopping Helper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/ekkbonopkhkgagmkgnkldipmcnmnhkpm",
+      "sha256": "22a5667acaa5e59f5d409188c96b4315d81152946534d6355af4818fc6b6615b"
+    },
+    {
+      "extension_id": "nfhbpdlimdicpjgjiimhgkmdablndhcp",
+      "name": "Nyan Cat Progress Bar for YouTube",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/nfhbpdlimdicpjgjiimhgkmdablndhcp",
+      "sha256": "23d6fd1d91bec62d353c00a20df57869c74132efb679658edad087b1de73f1c0"
+    },
+    {
+      "extension_id": "jlkihkgdajcdpbnkdlamhiggdggnjmil",
+      "name": "Moodle Session Extender",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/jlkihkgdajcdpbnkdlamhiggdggnjmil",
+      "sha256": "2e620613521c2718a69f9b37914749c531bde26100a9558b869425cdcfc11776"
+    },
+    {
+      "extension_id": "aahnibhpidkdaeaplfdogejgoajkjgob",
+      "name": "Bittorent For Chrome",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/aahnibhpidkdaeaplfdogejgoajkjgob",
+      "sha256": "dd657b6e09aebe619200dcdbed1535d57505fd1920987c896c6b96f207b03d0e"
+    },
+    {
+      "extension_id": "ehibdlfbnhonffhckipihipabaehjnop",
+      "name": "Platformer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/ehibdlfbnhonffhckipihipabaehjnop",
+      "sha256": "13ebb1af91c71dcd003219c89aa8a430c6e4a669282adfa17606152ebf471f05"
+    },
+    {
+      "extension_id": "nceoemejdmicfebngcjajiogpcmojimo",
+      "name": "Wikipedia Night Mode \u2013 Dark Theme for Wikipedia",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/nceoemejdmicfebngcjajiogpcmojimo",
+      "sha256": "84461461bb61ef988b91fda6d475b34f89f831a18588a7d86d178764cf47d83b"
+    },
+    {
+      "extension_id": "pcabeloffffhjdeaccpcmkpikkabnajj",
+      "name": "ModifyMyCookie - Cookie Editor",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/pcabeloffffhjdeaccpcmkpikkabnajj",
+      "sha256": "d9a2593dc89a90bb7c36fb76c4c3cc59c6d0ff3da305cd697da6011716e746bc"
+    },
+    {
+      "extension_id": "kfoaemampaajalocphgdlgfcnandlakc",
+      "name": "Custom Profile Picture for Netflix",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/kfoaemampaajalocphgdlgfcnandlakc",
+      "sha256": "07f178b499d44c3164e7d2f1225497491f4132370c0aa401e2ce21c1e255d0d5"
+    },
+    {
+      "extension_id": "njmgbimckgjpgignghgcobokiekgcnko",
+      "name": "Instagram Unfollower",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/njmgbimckgjpgignghgcobokiekgcnko",
+      "sha256": "1f9f9ae0825f1314c7bafc32210e95addb4040f4db580e765fa17a190ad256b4"
+    },
+    {
+      "extension_id": "gbnjkgbkmlpaaghmdenpponleogndocg",
+      "name": "iByzPaint Editor",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/gbnjkgbkmlpaaghmdenpponleogndocg",
+      "sha256": "eda3067aaf55b7c6ce9bbab99fedf3344fabf228e44bcb66eb39026b292bb749"
+    },
+    {
+      "extension_id": "lioikipbjbhmghpbidmhoncpjaojednb",
+      "name": "Copyfishx Plus -any website",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/lioikipbjbhmghpbidmhoncpjaojednb",
+      "sha256": "9fc9e2f19377cc95e09417e99b28d8c8639a1ab41859449a376fc9789831bf5d"
+    },
+    {
+      "extension_id": "ianlgjdaaaclippfdhnielfiogfjjlgb",
+      "name": "Prodigy Hacking Extension | X Loader",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/ianlgjdaaaclippfdhnielfiogfjjlgb",
+      "sha256": "8250aa2b78684352412bdb559420ecbd3e8472386c2c67b4861c2a2aacde2021"
+    },
+    {
+      "extension_id": "jcbndckafkkapjbmmbhiojoonflappkd",
+      "name": "Instagram Unfollower Checker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/jcbndckafkkapjbmmbhiojoonflappkd",
+      "sha256": "ad4fd47790c9ad54e5613c093d1b56234247c567046c76b5661848dbe1649745"
+    },
+    {
+      "extension_id": "idkfdbnpjoogjoaogednkjjdbmlhbkoj",
+      "name": "Private Chain Scanner",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/idkfdbnpjoogjoaogednkjjdbmlhbkoj",
+      "sha256": "5afbf36c424ecf7f2425d7b63cec91d886db07ce71b6e5dec4c0acda18dba2aa"
+    },
+    {
+      "extension_id": "labchilaaganafjdpaccbfgemcncnaam",
+      "name": "Spotify Downloader- any website",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/labchilaaganafjdpaccbfgemcncnaam",
+      "sha256": "ebe241de9fa7556feeb480cef7d44159142019b4443e68fbe7b5d7c2bd83f58e"
+    },
+    {
+      "extension_id": "mmgjipidkhkfimmfgcgklooinlcfonah",
+      "name": "Github Reviewer Groups",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/mmgjipidkhkfimmfgcgklooinlcfonah",
+      "sha256": "9cdd322f374369906932632838f55fbcf9c6ba8c83183715fed3b5d0b6d92349"
+    },
+    {
+      "extension_id": "jpmkdhdiohciojfgpempaecjjakifmna",
+      "name": "Toolkit for FB | Multiple Automation Tools for FB",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/jpmkdhdiohciojfgpempaecjjakifmna",
+      "sha256": "0d82bd36b374635132a8ebe277edfb6ecc710ffe86635957eb6c997da57d197c"
+    },
+    {
+      "extension_id": "bflkommelkcaamfgbknapbjjmacdpcbm",
+      "name": "JFIF to JPG Converter - MyExtHub",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/bflkommelkcaamfgbknapbjjmacdpcbm",
+      "sha256": "ed7923b2776ae87342ec3c7bf7de3da92607566445aa58b361a892ff24a445a3"
+    },
+    {
+      "extension_id": "mlgeagloiiedmbjneohajmgcaakajbak",
+      "name": "IG Auto Follow - Unfollow & Likes",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/mlgeagloiiedmbjneohajmgcaakajbak",
+      "sha256": "2e51891445927f34dbe20794468c8a7d9261774e46b60d04cecaefb6d818637b"
+    },
+    {
+      "extension_id": "aigfpfppkgfnaeglopkcfmpfnlgnkmpj",
+      "name": "I don't care about cookies - any website",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/aigfpfppkgfnaeglopkcfmpfnlgnkmpj",
+      "sha256": "ef09ee31b96f9ebbd5f34a8ae66ac40b00d7fd07b8701cc87d616ffa1963b933"
+    },
+    {
+      "extension_id": "habekoneiccpkjfpeiellgfmongceena",
+      "name": "Salesforce Dark Mode & Customizer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/habekoneiccpkjfpeiellgfmongceena",
+      "sha256": "ae2c90c61eb4bd8ffea4230c20205c1dd335ae5ed2042ce5d29e48e2b9b8b9de"
+    },
+    {
+      "extension_id": "edjhchbmggpiiojkhhnkcadaccllibmd",
+      "name": "Ig Unfollow - Unfollow For Instagram",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/edjhchbmggpiiojkhhnkcadaccllibmd",
+      "sha256": "2cf9089d9f73fd121997b63a3f07c79fc2aad05a5356ca604d47763120b10a6c"
+    },
+    {
+      "extension_id": "mlfkdflfdoklflcndcoacgaglmlafhoo",
+      "name": "Fake News Editor - any page",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/mlfkdflfdoklflcndcoacgaglmlafhoo",
+      "sha256": "34b49b0e5f537f00b20885e019a389e9cd24bee6f28f81c14552ba5b9177f0c7"
+    },
+    {
+      "extension_id": "jfhamolkkccljgjjbcbdhfpbhkgolgig",
+      "name": "YouTube Auto HD + FPS \u2014 Quality Controller",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/jfhamolkkccljgjjbcbdhfpbhkgolgig",
+      "sha256": "9fb88b1e2d2b1680ea285b4fce3805f62b9d8989e82100d971b22dec5add8f7d"
+    },
+    {
+      "extension_id": "ghaokdbknaiehcocnglhlkdhephelpnk",
+      "name": "AutoSkip YouTube - Ad Skipper & Speedup",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/ghaokdbknaiehcocnglhlkdhephelpnk",
+      "sha256": "c5b37bcc4df5105556c096428e6587678b32671169693671d15fdd78d6746243"
+    },
+    {
+      "extension_id": "fdpionfpmdlnakcckhhjehdbioinbddo",
+      "name": "HubSpot Dark Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/fdpionfpmdlnakcckhhjehdbioinbddo",
+      "sha256": "54464199d90fd3d24535e24888ddf1fa0bc338eb0a1649cd576a8de482c18521"
+    },
+    {
+      "extension_id": "ikpfiknabfnaakcnlcmflakmndodella",
+      "name": "Autoskip for Youtube",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/ikpfiknabfnaakcnlcmflakmndodella",
+      "sha256": "5abd98f459fcfa3dd5c2f273c6fbb36b2047e19846feedadb6323ac126ab5168"
+    },
+    {
+      "extension_id": "cjkbpfjegkcbncjomhggophngkdmkjdm",
+      "name": "Solana Fee Tracker for Chrome",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/cjkbpfjegkcbncjomhggophngkdmkjdm",
+      "sha256": "ea65f4bf13c9fe27ca1105a3b772a1efb9d8620d9b649a54bcf9dca6f32768f6"
+    },
+    {
+      "extension_id": "honfkfloemfbjccbkfpkgmgdpdkepphk",
+      "name": "Google Scholar Dark Mode & Reader Tools",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/honfkfloemfbjccbkfpkgmgdpdkepphk",
+      "sha256": "9c227908bbdc3bb0e4033acaf5b8d58f034eb5f7fa08106fb56da27af3fe03fd"
+    },
+    {
+      "extension_id": "nckflnjiioiepgnekoljlbfibdcmlpoj",
+      "name": "YouTube Improvements \u2013 Layout & Video Enhancer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/nckflnjiioiepgnekoljlbfibdcmlpoj",
+      "sha256": "c3c0c791acc03adadf4f032ee4c8248d99e7221041713a69b684b862f7d4bb80"
+    },
+    {
+      "extension_id": "ogcijbeeehimbagkolkagnkahnojbdfl",
+      "name": "Magic Actions for YouTube - MAY",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/ogcijbeeehimbagkolkagnkahnojbdfl",
+      "sha256": "bdacfb60bc3961ac959da623961d80d95910c4d7e9dfd8157fe24157710b0cfd"
+    },
+    {
+      "extension_id": "npajfdodgmoilnbjekioihdlpaogomgj",
+      "name": "Subtitles For YouTube - Custom SRT Captions",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/npajfdodgmoilnbjekioihdlpaogomgj",
+      "sha256": "9f6c1f5450542edaf7f40fbdb72b722186a3ce85afe9fe382b6c072fa89b5dcc"
+    },
+    {
+      "extension_id": "bpflmhbfcpmoahmbinmplaiamggephpp",
+      "name": "VLC 4 YouTube for Chrome",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/bpflmhbfcpmoahmbinmplaiamggephpp",
+      "sha256": "99926ed81bff8187b1474e421ae3d43ce4b12f51b167e06e8ccfa0dd20d34b7a"
+    },
+    {
+      "extension_id": "ddfnfkbfeadpachhgeaeoifahlhopgla",
+      "name": "Borderlands 4 Save Editor",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/ddfnfkbfeadpachhgeaeoifahlhopgla",
+      "sha256": "dd922f92e166155ea933e66833cb8e71b1a1de23e86b6aca7c60da9c406068e8"
+    },
+    {
+      "extension_id": "fnjdgjaoeoocemihaphhpnbodkdmbnld",
+      "name": "Salesforce Dark Mode & Night Theme",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/fnjdgjaoeoocemihaphhpnbodkdmbnld",
+      "sha256": "448284bcb8e20b644953ded011d09770b1ff0ea5f5963b8f2f89629745bc4b34"
+    },
+    {
+      "extension_id": "kpffiehgjfppndocohkpelpmkmaekddg",
+      "name": "Prodigy X Loader Hacker - Any Website",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/kpffiehgjfppndocohkpelpmkmaekddg",
+      "sha256": "16af322e898687a6994c4ca890bde19f183a59f9f450efce21b3e358e2fb0ddf"
+    },
+    {
+      "extension_id": "pagmkjicfbleoghmdhmdbikhfaofcgnb",
+      "name": "AxiomExtend",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/pagmkjicfbleoghmdhmdbikhfaofcgnb",
+      "sha256": "68609b2577d4cb5f2344cd89c7745e4c0708adf534a96baa2bb631257930451c"
+    },
+    {
+      "extension_id": "hgejeoepifbpifkjahaiakfciidhicde",
+      "name": "Prolific Night Shield",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/hgejeoepifbpifkjahaiakfciidhicde",
+      "sha256": "f9061c42960fa838652a2dee7aedf2df672165a95da36d131848e14fcb95ddba"
+    },
+    {
+      "extension_id": "ljcaaadoghpdfkkfkgdngobekppolakl",
+      "name": "Kahoot Hacker Pro",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/ljcaaadoghpdfkkfkgdngobekppolakl",
+      "sha256": "8b5d6605d8551d961aa2fc610d06bcf9e67d1d73735cdf879b9267ee8b5d0848"
+    },
+    {
+      "extension_id": "hfhoadmlpddpphnbhjmnpbiifjagblcl",
+      "name": "Singfy MP3 Music Downloader",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/hfhoadmlpddpphnbhjmnpbiifjagblcl",
+      "sha256": "3392b04c29a7d343bd3ca99498ca09227ba8b37780183f973490db7d7e4b295d"
+    },
+    {
+      "extension_id": "hcpncginlblddendcdnpockbjmojfpbj",
+      "name": "Tab Silencer Pro",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/hcpncginlblddendcdnpockbjmojfpbj",
+      "sha256": "829f0f517e2414fdc3022fbbb005ccd8bffe47cddc300a4e8f65b8519c9b4923"
+    },
+    {
+      "extension_id": "gbmekljjkebaibldbnjcccnjjcldelld",
+      "name": "Ultimate Video Translator - Live YouTube Subtitles & Text",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/gbmekljjkebaibldbnjcccnjjcldelld",
+      "sha256": "6a9aa1fa26dceb5336d171bcb1109640c10dcafa6aba58bb3ee19b2337326cf5"
+    },
+    {
+      "extension_id": "nhppchdnkpbpnbfimoiiaanmadhhhdgc",
+      "name": "Instagram Non-Followers",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/nhppchdnkpbpnbfimoiiaanmadhhhdgc",
+      "sha256": "3aab6c7fa169251f5940a0700870f53d87080460d78923e6cf12d9e527fcc217"
+    },
+    {
+      "extension_id": "ebdhjekiacpiimmjoflogffkjnhlapei",
+      "name": "Ad-block ClearWeb - any website",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/ebdhjekiacpiimmjoflogffkjnhlapei",
+      "sha256": "11fc7a46d49756c6d5ef83f0f379ca259a373128b92eb213c2bce23eaea5627f"
+    },
+    {
+      "extension_id": "liemkgjhcglagpmckdpmlbneinpedhal",
+      "name": "Instagram.com Dark Mode & Social Tools",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/liemkgjhcglagpmckdpmlbneinpedhal",
+      "sha256": "e8e9fac9c0b53cb2a6c62d18edc33a449b7f28dd63e50fe79337b85fc9d7de5f"
+    },
+    {
+      "extension_id": "cpojijpjgahpnagkfcglkiekdgjihpjo",
+      "name": "Web Page Converter - Web to PDF - MyExtHub",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/cpojijpjgahpnagkfcglkiekdgjihpjo",
+      "sha256": "6ef228fac0c9af5652fb517e52d4b3a991f04d07f6f57f834385a1666a29f8a5"
+    },
+    {
+      "extension_id": "oacldnkepneabndodockpmkifgljjkem",
+      "name": "Zoom Workplace Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/oacldnkepneabndodockpmkifgljjkem",
+      "sha256": "241349feef0a28f7afb2b2612da909d0709751e149c1e732f08cb61dd2ba0447"
+    },
+    {
+      "extension_id": "ogofgomacihhmachcbglogcnmenemcjb",
+      "name": "Nexus Download Collection",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/ogofgomacihhmachcbglogcnmenemcjb",
+      "sha256": "f2bb8fb63b1f00f3b841e9530750d342657c28fc4242b9dcd49853806b8132c9"
+    },
+    {
+      "extension_id": "njgfeaiajaemgihcekdebhnfipkjohoh",
+      "name": "Sketchfab Downloader Pro",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/njgfeaiajaemgihcekdebhnfipkjohoh",
+      "sha256": "336cb508b41db955f326201f422c012e0d55ba41499d8485aa763bda71acfd1e"
+    },
+    {
+      "extension_id": "gbcldggmblicofdecablilhbldickpnf",
+      "name": "LibKey any libraries",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/gbcldggmblicofdecablilhbldickpnf",
+      "sha256": "2ac5661de731ecb6e8369a8f0e945b1522787daf9d012ef48d36c35719e2bca3"
+    },
+    {
+      "extension_id": "pbfpeakgbpaflmckacogaammomeanddm",
+      "name": "SigMod Client - Sigmally Macros & Mods",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/pbfpeakgbpaflmckacogaammomeanddm",
+      "sha256": "f73b4267e796b1a51e2c6e8506f12bb576a944d8c735f57e50cb31323d300394"
+    },
+    {
+      "extension_id": "knecpieinlpceaacnncnbfohfljkfijd",
+      "name": "InteractiveFics",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/knecpieinlpceaacnncnbfohfljkfijd",
+      "sha256": "daea956b23acdbc34215c9d3ab20157160e68de6f5b04f00510a6de90d5b6a01"
+    },
+    {
+      "extension_id": "bheiclmpojkdhopajciakegoodhoieff",
+      "name": "Instagram Auto Unfollower",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/bheiclmpojkdhopajciakegoodhoieff",
+      "sha256": "45af05acb9421f1bcbab88d04574041b6cccb7b642b85353dbf328609165d03b"
+    },
+    {
+      "extension_id": "cpdhfnobmpfjddfebajaffggbagiggdj",
+      "name": "Web Page Downloader - Download any page",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/cpdhfnobmpfjddfebajaffggbagiggdj",
+      "sha256": "01d9935d19983bbfcb94bd71eb1f10d392cec9b0755fa19a0528c1326ec26dbd"
+    },
+    {
+      "extension_id": "hhnmphoelabeleobabpdhbmdgkbdllfd",
+      "name": "Batch HD Video Downloader for IG",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/hhnmphoelabeleobabpdhbmdgkbdllfd",
+      "sha256": "2d5a97fbad7cf76a8736a1a82a5dad9803c306ff09c5e59595b729ec0bc180f1"
+    },
+    {
+      "extension_id": "nndgkfgholghckojdglfeocfkkjmobng",
+      "name": "SwapIt - Word Replacer for Discord, X any Website",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/nndgkfgholghckojdglfeocfkkjmobng",
+      "sha256": "6b93d6884c6db0e31ba46715f6fa1a874bfc3896790743c695b8c94d58d0c29a"
+    },
+    {
+      "extension_id": "hlofghhnkgmlcenlkchinkhfnejnhhhn",
+      "name": "eBay Image Downloader & Video - MyExtHub",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/hlofghhnkgmlcenlkchinkhfnejnhhhn",
+      "sha256": "a61fd97b70d542b03fe54a6027f8f8ba1656260db89f37db313d6693ae04598c"
+    },
+    {
+      "extension_id": "ffjnceomioekaiianpbjfkhgkkncmlci",
+      "name": "Kour.io Vortex Menu",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/ffjnceomioekaiianpbjfkhgkkncmlci",
+      "sha256": "b21c4fa7c668e368d5950d03f9f9581e5b7589a9b57ac0c9665c9f0938a9e430"
+    },
+    {
+      "extension_id": "imibhdbmjdbjohopopmjoneedaddgbac",
+      "name": "Extension Temu - Best Shop Chrome Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/imibhdbmjdbjohopopmjoneedaddgbac",
+      "sha256": "16856191ef3aaf0e72dee058596989dda9ac688deb0ff48522b5c7e5ff75e0dc"
+    },
+    {
+      "extension_id": "bnmbjdgpdaphfabnppaflchebnnlplhh",
+      "name": "AdBlock Prime",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/bnmbjdgpdaphfabnppaflchebnnlplhh",
+      "sha256": "75880ba6f900209c10002de9552e9f8e1a2cf465e413911a49d7a757eb219e77"
+    },
+    {
+      "extension_id": "gmpdojhakefcdjccolnpapaogomcpkih",
+      "name": "Screenshot YouTube Video",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/gmpdojhakefcdjccolnpapaogomcpkih",
+      "sha256": "040dc53ef3750736140b2928fc2af19668c6ba39e7e57ece7df288d4444c901e"
+    },
+    {
+      "extension_id": "lgbiibancdnfpiihkehpfkijgnidfoap",
+      "name": "Confere Jogo \u2014 Preencher na Caixa",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/lgbiibancdnfpiihkehpfkijgnidfoap",
+      "sha256": "d763bac3ba5a5a0e53f9e7fb5869c88910269e937bfb01f39f1687c4e0537670"
+    },
+    {
+      "extension_id": "jpcljaibogokkgeeokaogljlmepoobcb",
+      "name": "Krunker 2026 BEST HACK AIMBOT WALLHACK",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/jpcljaibogokkgeeokaogljlmepoobcb",
+      "sha256": "381bb13713011a9592860bd4966e6619e37c3d7caf9d2932f6fcb2690ce4225a"
+    },
+    {
+      "extension_id": "khfjnooigjklcocioenjmjdjlollohil",
+      "name": "ReelShort - Short Movies & TV",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/khfjnooigjklcocioenjmjdjlollohil",
+      "sha256": "40dccc0f175fbca44747adc1ca5c54c9f094f7b602556f030ffcaca30abd9f8b"
+    },
+    {
+      "extension_id": "oghikpkkjgiemhnbnbpiebhokdfjdmnj",
+      "name": "Portfolio Rebalancer Calculator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/oghikpkkjgiemhnbnbpiebhokdfjdmnj",
+      "sha256": "528a94736199d445bc9d7c16b5a2886ae97cf8fd4356b91669f6f6b8e999c835"
+    },
+    {
+      "extension_id": "adgbliapipalgnmohnbipgojcgaphadl",
+      "name": "wikipedia.org - Wiki Reader & Dark Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/adgbliapipalgnmohnbipgojcgaphadl",
+      "sha256": "831c91f4979c2c185d5293efabe2ab8ffccfcfbb9d17c7d0ed045febcb5ba0a8"
+    },
+    {
+      "extension_id": "ncfnbfefiglgkkimnkhhmaepnikgahak",
+      "name": "FoxBank",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/ncfnbfefiglgkkimnkhhmaepnikgahak",
+      "sha256": "e10ce02584630698a9c934ad0085414797fa9e9c15722df80adcbc1c5ef324fc"
+    },
+    {
+      "extension_id": "hbjnjlphiignpgpfccofegplcjahkcod",
+      "name": "Google Sheets Dark Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/hbjnjlphiignpgpfccofegplcjahkcod",
+      "sha256": "3df455b2489c6a82028a96bddc76445f60badce3c65ae43be0de9d4dd7d93327"
+    },
+    {
+      "extension_id": "kjbpjdklnajlbnmaamncenafodoikakp",
+      "name": "ABPV America's best pics& vids",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/kjbpjdklnajlbnmaamncenafodoikakp",
+      "sha256": "01c46fc8ffb1a3349d78001321a134e02455db1ca4e6e7043014cd7367afa9fc"
+    },
+    {
+      "extension_id": "hjglcclcjjbihnljhgbmbbabnblgkbbh",
+      "name": "Convert Video to PDF - MyExtHub",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/hjglcclcjjbihnljhgbmbbabnblgkbbh",
+      "sha256": "1c4fd8ea9e9a2b41e931c1fbb0f86010c8916650322a64280e257dfc31434ad8"
+    },
+    {
+      "extension_id": "pppngljciplpbnnaolboeehaceafapga",
+      "name": "Web-Paint Anywhere",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-04",
+      "store_url": "https://chromewebstore.google.com/detail/pppngljciplpbnnaolboeehaceafapga",
+      "sha256": "deadd9e2f50f0f50e417a8dcf21b141bb570d9b0150b2d4abf28173ee50b02b2"
+    },
+    {
+      "extension_id": "fppadhdkfjcideooekehaabmccepcmhh",
+      "name": "GradeX FeedFill",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/fppadhdkfjcideooekehaabmccepcmhh",
+      "sha256": "dd89cead1d4120c15f44cdd346270313f1b75cef9f625836d0b44c3a2e496657"
+    },
+    {
+      "extension_id": "dblfldpldecohjpjgmhnigajjdjloega",
+      "name": "Youtube Detox Reclaim You",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/dblfldpldecohjpjgmhnigajjdjloega",
+      "sha256": "662118378aaf204cf73135a7a13672ab9467a429e7b45482aba16f7c7825bc10"
+    },
+    {
+      "extension_id": "cifjmcoepfjjlnfabplkbclmmfdlaiml",
+      "name": "Helios Surge Vpn \u2014 \u043e\u0440\u0430\u043d\u0436\u0435",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cifjmcoepfjjlnfabplkbclmmfdlaiml",
+      "sha256": "1f78091e414f60da1c9d277bbd24789f3ed5f49869efe4ae1c1e48b64c4b00b7"
+    },
+    {
+      "extension_id": "gfpflckicnbnkajmnjccbanfgocmhkmb",
+      "name": "Urban Vpn \u0432\u043f\u043d \u0434\u043b\u044f \u0442\u0435\u043b\u0435\u0433\u0440\u0430",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/gfpflckicnbnkajmnjccbanfgocmhkmb",
+      "sha256": "462acf00267671de6764de5d6a9496967783f1069e80bbb36787ae9e9252b34c"
+    },
+    {
+      "extension_id": "kgjcljcahihppdphbpjpnajpmlohbggh",
+      "name": "\u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn \u0434\u043b\u044f Chrome",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/kgjcljcahihppdphbpjpnajpmlohbggh",
+      "sha256": "93e6d5fe2ac4dc26c5070dd83a51bb69ac1152afa7ee3a1b939ccf76766fa7ed"
+    },
+    {
+      "extension_id": "npgicjacadajgjcmjfdeodgjamjkflhj",
+      "name": "\u0434\u0435\u0434 \u0432\u043f\u043d",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/npgicjacadajgjcmjfdeodgjamjkflhj",
+      "sha256": "696ff56bf2af3d8b90df666920233ff52ba2ed296c306cbf004ba6cdc8ec67d4"
+    },
+    {
+      "extension_id": "cehkmlepjinalhjhlkppoileadmajock",
+      "name": "Flux Vpn \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0438 \u0431\u0435\u0437\u043e\u043f\u0430",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cehkmlepjinalhjhlkppoileadmajock",
+      "sha256": "8dbc29f50e29fb7e88929f5710f7b200e23025a82d9d916a030f70086145d164"
+    },
+    {
+      "extension_id": "faonfojplcmgmfbkadiieckplaomhokf",
+      "name": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u043f\u043d \u043e\u0431\u0445\u043e\u0434 \u0431\u043b\u043e\u043a\u0438\u0440\u043e",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/faonfojplcmgmfbkadiieckplaomhokf",
+      "sha256": "d2dc8d9066e43c1bee04d407de10b5c3e235f516742b4ad9211b0b02ad4d4255"
+    },
+    {
+      "extension_id": "cmhmgmmecakmjeaeepdbfibbbjeaedgm",
+      "name": "Titanium Forge Vpn \u2014 \u043c\u0435\u0442\u0430",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-03",
+      "store_url": "https://chromewebstore.google.com/detail/cmhmgmmecakmjeaeepdbfibbbjeaedgm",
+      "sha256": "f822c8a5a61d4de5f1952de8e6354abc65fe04880f5e4250bc60cfeb597c8459"
+    },
     {
       "extension_id": "pnechfmigooncmkdmckeploenpdokime",
       "name": "Vpn \u0414\u043b\u044f \u041b\u044e\u0431\u044b\u0445 \u0421\u0430\u0439\u0442\u043e\u0432 Sock",
@@ -3057,6 +3849,69 @@
       "insert_date": "2026-09-02",
       "store_url": "https://chromewebstore.google.com/detail/lbfaonlamagammdnpfcnpghppfcchjao",
       "sha256": "1f78d2b602904de4d7163aa3f3c2e43b06e493660ba2c6daa454eda16876da13"
+    },
+    {
+      "extension_id": "gpnpbncjakifkeechdhlajmpmliablmc",
+      "name": "IG Tracker \u2013 Followers & Unfollowers",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-01",
+      "store_url": "https://chromewebstore.google.com/detail/gpnpbncjakifkeechdhlajmpmliablmc",
+      "sha256": "3b5032c71a8a6a6acfe066dbfbe2c770609d7accefafc7f804de25694b6ae293"
+    },
+    {
+      "extension_id": "edafhahkifbgibhbgbdammgfbplnejhk",
+      "name": "Urban Vpn \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u043e",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-01",
+      "store_url": "https://chromewebstore.google.com/detail/edafhahkifbgibhbgbdammgfbplnejhk",
+      "sha256": "b0bb2d9d68cc5afcf509fa33ee963aade8c70c2789dba4123e6e368eb0c0bf40"
+    },
+    {
+      "extension_id": "mibkbjgdjgngmjkkbncjognpdggckmik",
+      "name": "Aliexpress To Shopify",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-01",
+      "store_url": "https://chromewebstore.google.com/detail/mibkbjgdjgngmjkkbncjognpdggckmik",
+      "sha256": "dc748563499f9df8f428d627a889f2e1c43c018e61b71db04b94ac63b64e25ae"
+    },
+    {
+      "extension_id": "ambjmopdihmdndfenlecimbfdbgngeea",
+      "name": "uTorrent",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-01",
+      "store_url": "https://chromewebstore.google.com/detail/ambjmopdihmdndfenlecimbfdbgngeea",
+      "sha256": "68724021480135f05fd3d226f4065307049078cb4fe9c9c9fe0cacbc0f670027"
+    },
+    {
+      "extension_id": "mcepgjnmffnlonbkmemeppjndacfomhc",
+      "name": "Arzuno Humanizer: Write like a human",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-01",
+      "store_url": "https://chromewebstore.google.com/detail/mcepgjnmffnlonbkmemeppjndacfomhc",
+      "sha256": "9a94c2224c962db438d6014b83e1b4ec3925bcb28bf83e017fe9e742686547c8"
+    },
+    {
+      "extension_id": "ofedghbikfhfkdgeibflflbmdifcloih",
+      "name": "Free Auto Follow For Inst",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-01",
+      "store_url": "https://chromewebstore.google.com/detail/ofedghbikfhfkdgeibflflbmdifcloih",
+      "sha256": "831745c9713208f6f50a2d21d876b88c744cbe7c545a5beb56be15950647c073"
+    },
+    {
+      "extension_id": "nehmipanmmnkdpbjjfinnnlficndfhhd",
+      "name": "Web Highlighter Highlight",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-01",
+      "store_url": "https://chromewebstore.google.com/detail/nehmipanmmnkdpbjjfinnnlficndfhhd",
+      "sha256": "57779fb01d75f6755c8db950fc40190ecc15cb4f1ed909e02e044cd7e246a9b2"
     },
     {
       "extension_id": "enhiemnhaenljhiomnoaaafcdbcpomhi",
