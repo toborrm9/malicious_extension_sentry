@@ -1,5 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| gljfagglllgffohiedfgaaennnefpeio | Ring Shot | Malware | Store Monitoring | 07/09/26 | No | Google Chrome
+| lonhhpokiedoednjcncjfeiegnlkaale | Github View In Vs Code | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
+| opnokndmmanolamphnpknbpdkdbcfidl | Github Terraform Sources | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
+| odkdlljoangmamjilkamahebpkgpeacp | Github Dark Theme | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
+| mpieedhmialhnfbpdhlcjnbdjdcckipd | Github Notifications | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
+| nbiddhncecgemgccalnoanpnenalmkic | Github Issue Link Status | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
+| nepdghlcapkfgnficpnefibalbhjofaa | Github Unveiler | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
+| jkiiejigkjlloomkhpomoknkclhaabgc | Kyoku | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
+| llocongcggofebnijjhhkmdcccbcnlga | Github Roadmap Weekend Ho | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
+| ncmbmhhgfbmdcopgnpmjpjpicjoeflbi | Github Tree Downloader | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
+| hoemclmeahebepfmbfpgmfddiomgopfg | Hashhunter Blockchain Sea | Malware | Store Monitoring | 07/09/26 | No | Google Chrome
 | epckfdnjigdcfmdflnmiimeiopgocdnn | Zimal World Clock | Bundling Unwanted Software | Store Monitoring | 06/09/26 | No | Google Chrome
 | caaffmdaohbefkaffjacanjbfecgfiho | Airplane In The Clouds | Bundling Unwanted Software | Store Monitoring | 06/09/26 | No | Google Chrome
 | mckifljlejgcjjphjglkajibimcmpdjn | Arctic Aurora | Bundling Unwanted Software | Store Monitoring | 06/09/26 | No | Google Chrome
@@ -17,9 +28,9 @@
 | pcabeloffffhjdeaccpcmkpikkabnajj | ModifyMyCookie - Cookie Editor | Bundling Unwanted Software | Store Monitoring | 05/09/26 | No | Google Chrome
 | kfoaemampaajalocphgdlgfcnandlakc | Custom Profile Picture for Netflix | Bundling Unwanted Software | Store Monitoring | 05/09/26 | No | Google Chrome
 | njmgbimckgjpgignghgcobokiekgcnko | Instagram Unfollower | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
-| gbnjkgbkmlpaaghmdenpponleogndocg | iByzPaint Editor | Bundling Unwanted Software | Store Monitoring | 05/09/26 | No | Google Chrome
+| gbnjkgbkmlpaaghmdenpponleogndocg | iByzPaint Editor | Bundling Unwanted Software | Store Monitoring | 05/09/26 | Yes | Google Chrome
 | lioikipbjbhmghpbidmhoncpjaojednb | Copyfishx Plus -any website | Bundling Unwanted Software | Store Monitoring | 05/09/26 | No | Google Chrome
-| ianlgjdaaaclippfdhnielfiogfjjlgb | Prodigy Hacking Extension \| X Loader | Bundling Unwanted Software | Store Monitoring | 05/09/26 | No | Google Chrome
+| ianlgjdaaaclippfdhnielfiogfjjlgb | Prodigy Hacking Extension \| X Loader | Bundling Unwanted Software | Store Monitoring | 05/09/26 | Yes | Google Chrome
 | jcbndckafkkapjbmmbhiojoonflappkd | Instagram Unfollower Checker | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
 | idkfdbnpjoogjoaogednkjjdbmlhbkoj | Private Chain Scanner | Bundling Unwanted Software | Store Monitoring | 05/09/26 | No | Google Chrome
 | labchilaaganafjdpaccbfgemcncnaam | Spotify Downloader- any website | Bundling Unwanted Software | Store Monitoring | 05/09/26 | No | Google Chrome
@@ -67,7 +78,7 @@
 | hlofghhnkgmlcenlkchinkhfnejnhhhn | eBay Image Downloader & Video - MyExtHub | Bundling Unwanted Software | Store Monitoring | 04/09/26 | No | Google Chrome
 | ffjnceomioekaiianpbjfkhgkkncmlci | Kour.io Vortex Menu | Bundling Unwanted Software | Store Monitoring | 04/09/26 | No | Google Chrome
 | imibhdbmjdbjohopopmjoneedaddgbac | Extension Temu - Best Shop Chrome Extension | Bundling Unwanted Software | Store Monitoring | 04/09/26 | No | Google Chrome
-| bnmbjdgpdaphfabnppaflchebnnlplhh | AdBlock Prime | Bundling Unwanted Software | Store Monitoring | 04/09/26 | No | Google Chrome
+| bnmbjdgpdaphfabnppaflchebnnlplhh | AdBlock Prime | Bundling Unwanted Software | Store Monitoring | 04/09/26 | Yes | Google Chrome
 | gmpdojhakefcdjccolnpapaogomcpkih | Screenshot YouTube Video | Bundling Unwanted Software | Store Monitoring | 04/09/26 | No | Google Chrome
 | lgbiibancdnfpiihkehpfkijgnidfoap | Confere Jogo — Preencher na Caixa | Policy Violation | Store Monitoring | 04/09/26 | No | Google Chrome
 | jpcljaibogokkgeeokaogljlmepoobcb | Krunker 2026 BEST HACK AIMBOT WALLHACK | Bundling Unwanted Software | Store Monitoring | 04/09/26 | No | Google Chrome
@@ -430,7 +441,7 @@
 | gpnpbncjakifkeechdhlajmpmliablmc | IG Tracker – Followers & Unfollowers | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | edafhahkifbgibhbgbdammgfbplnejhk | Urban Vpn — стабильное по | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | mibkbjgdjgngmjkkbncjognpdggckmik | Aliexpress To Shopify | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
-| ambjmopdihmdndfenlecimbfdbgngeea | uTorrent | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
+| ambjmopdihmdndfenlecimbfdbgngeea | uTorrent | Policy Violation | Store Monitoring | 01/09/26 | Yes | Google Chrome
 | mcepgjnmffnlonbkmemeppjndacfomhc | Arzuno Humanizer: Write like a human | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | ofedghbikfhfkdgeibflflbmdifcloih | Free Auto Follow For Inst | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | nehmipanmmnkdpbjjfinnnlficndfhhd | Web Highlighter Highlight | Malware | Store Monitoring | 01/09/26 | No | Google Chrome
@@ -673,7 +684,7 @@
 | olfbgbikgjlfbmlcoioopfbmoilmfpmj | Whatsapp Service | Policy Violation | Store Monitoring | 18/08/26 | No | Google Chrome
 | adjdmjaifoghdepaplgnfkadkdkcgncd | Ig Reels Post Comments Ex | Policy Violation | Store Monitoring | 17/08/26 | No | Google Chrome
 | bnolicehjnimmdfkihmojhonickmhegp | Ghostape | Bundling Unwanted Software | Store Monitoring | 17/08/26 | No | Google Chrome
-| necnekfjdelopcanglfdlnekdnnmghpf | Seo All In One CôNg Cụ Ph | Policy Violation | Store Monitoring | 17/08/26 | No | Google Chrome
+| necnekfjdelopcanglfdlnekdnnmghpf | Seo All In One CôNg Cụ Ph | Policy Violation | Store Monitoring | 17/08/26 | Yes | Google Chrome
 | kkkoejaiilcofkhggclkbogjpinhjppm | Ghostape Color Theme Cust | Bundling Unwanted Software | Store Monitoring | 17/08/26 | No | Google Chrome
 | cemnfjlkkohbfibefnhbfbacenblohom | Domain Network Info | Policy Violation | Store Monitoring | 17/08/26 | No | Google Chrome
 | lemlcbkckbbnpkheigiokeobcflangne | Browsec Vpn | Policy Violation | Store Monitoring | 15/08/26 | No | Google Chrome
