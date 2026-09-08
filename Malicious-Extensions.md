@@ -1,5 +1,10 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| njlnfkifnhnbhclecinmajfccpenpbol | Github Packagejson Enhanc | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
+| ojpipmhmkeialjmgepiomippphlcoijn | Github Jira Ticket Linker | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
+| apldahmlgadlacfhdnheilfhhhaaaddo | Pip Boy Fallout Theme | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
+| fnkijdmhpcepojclillnlchbilfhcagm | Google Play Reviews Expor | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
+| gjlnchomjihmkokcnlolceldlkjaageg | Timer Clock Extension | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
 | gljfagglllgffohiedfgaaennnefpeio | Ring Shot | Malware | Store Monitoring | 07/09/26 | No | Google Chrome
 | lonhhpokiedoednjcncjfeiegnlkaale | Github View In Vs Code | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
 | opnokndmmanolamphnpknbpdkdbcfidl | Github Terraform Sources | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
@@ -11,6 +16,7 @@
 | llocongcggofebnijjhhkmdcccbcnlga | Github Roadmap Weekend Ho | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
 | ncmbmhhgfbmdcopgnpmjpjpicjoeflbi | Github Tree Downloader | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
 | hoemclmeahebepfmbfpgmfddiomgopfg | Hashhunter Blockchain Sea | Malware | Store Monitoring | 07/09/26 | No | Google Chrome
+| nmpojdflbpoepmmchmffpiccbhncpllf | Github Pr Pretty Link | Policy Violation | Store Monitoring | 06/09/26 | No | Google Chrome
 | epckfdnjigdcfmdflnmiimeiopgocdnn | Zimal World Clock | Bundling Unwanted Software | Store Monitoring | 06/09/26 | No | Google Chrome
 | caaffmdaohbefkaffjacanjbfecgfiho | Airplane In The Clouds | Bundling Unwanted Software | Store Monitoring | 06/09/26 | No | Google Chrome
 | mckifljlejgcjjphjglkajibimcmpdjn | Arctic Aurora | Bundling Unwanted Software | Store Monitoring | 06/09/26 | No | Google Chrome
@@ -24,6 +30,10 @@
 | jlkihkgdajcdpbnkdlamhiggdggnjmil | Moodle Session Extender | Policy Violation | Store Monitoring | 06/09/26 | No | Google Chrome
 | aahnibhpidkdaeaplfdogejgoajkjgob | Bittorent For Chrome | Policy Violation | Store Monitoring | 06/09/26 | No | Google Chrome
 | ehibdlfbnhonffhckipihipabaehjnop | Platformer | Bundling Unwanted Software | Store Monitoring | 06/09/26 | No | Google Chrome
+| ncckkapnfmioehkahgadbcnodoablkpl | Original Github Bar | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
+| likjkfbdljkkebbagkjbglkhifemjmbc | Starfield Nasa 3840X2160 | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
+| ooainhnpilebmgbdlencdokghlnljnmp | Myshows Player | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
+| blajnfchfeamokbmchdaloefhfongngi | Proper Github | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
 | nceoemejdmicfebngcjajiogpcmojimo | Wikipedia Night Mode – Dark Theme for Wikipedia | Bundling Unwanted Software | Store Monitoring | 05/09/26 | No | Google Chrome
 | pcabeloffffhjdeaccpcmkpikkabnajj | ModifyMyCookie - Cookie Editor | Bundling Unwanted Software | Store Monitoring | 05/09/26 | No | Google Chrome
 | kfoaemampaajalocphgdlgfcnandlakc | Custom Profile Picture for Netflix | Bundling Unwanted Software | Store Monitoring | 05/09/26 | No | Google Chrome
@@ -433,11 +443,13 @@
 | hmedicbckdhnimboecocchhegnjaoogc | Instagram Video Downloade | Policy Violation | Store Monitoring | 03/09/26 | No | Google Chrome
 | mogdacnhopimblfeoclddagimolopedi | Golden Love Field | Bundling Unwanted Software | Store Monitoring | 03/09/26 | No | Google Chrome
 | gboelmpgcicleimoohjpfhdelpfojgkb | United White Pride | Bundling Unwanted Software | Store Monitoring | 03/09/26 | No | Google Chrome
+| jgkgcihagdjdbfoeioibeohgfecgnbmh | Starfield Nasa 2560X1440 | Policy Violation | Store Monitoring | 02/09/26 | No | Google Chrome
 | bnhbifoilfojoafapfhejfllcglmeopg | Ig Downloader Video Contr | Policy Violation | Store Monitoring | 02/09/26 | No | Google Chrome
 | aiplpkidjcpbjopeallglaenfaipioko | Babbel Learn Languages Fo | Bundling Unwanted Software | Store Monitoring | 02/09/26 | No | Google Chrome
 | dgjaekgdhbmdnjccbhbogiamkaiojbpi | Snapchat Online Privacy S | Bundling Unwanted Software | Store Monitoring | 02/09/26 | No | Google Chrome
 | adbkmnjpohaofhdfjlkhhljplkloceml | Roku Tv For Chrome | Bundling Unwanted Software | Store Monitoring | 02/09/26 | No | Google Chrome
 | lbfaonlamagammdnpfcnpghppfcchjao | Meesho Autofill Product L | Policy Violation | Store Monitoring | 02/09/26 | No | Google Chrome
+| njgapeifgcpeabnaplfbjmfhmgeblmkm | Farchat | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | gpnpbncjakifkeechdhlajmpmliablmc | IG Tracker – Followers & Unfollowers | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | edafhahkifbgibhbgbdammgfbplnejhk | Urban Vpn — стабильное по | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | mibkbjgdjgngmjkkbncjognpdggckmik | Aliexpress To Shopify | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
@@ -450,6 +462,8 @@
 | mjbgaebjmdbhfaeimjfnfbfbhmgighad | Autolisterpro E Commerce | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | liiidicicodopcikclnghfckikjjjgab | Github Add Bulk Reviewers | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | dloilnapkdfaihhpgglomebkfdaojcdb | Kraken Extension | Malware | Store Monitoring | 01/09/26 | No | Google Chrome
+| kaalofacklcidaampbokdplbklpeldpj | Wide Github | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
+| ehnnmfnechlpbbllplflbagaicifgafb | Starfield Nasa 1920X1080 | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
 | imgnhdjnalhaanjdmjpllgpfjkaeohnb | Visa Slots Guru – Slot Co | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
 | lbmhimlgocdmpijbgmllijhbcjkebelm | Instagram Auto Follow — I | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
 | magldpiolabolljehhdpklomiphcmbnb | Nomi Product Team Assista | Policy Violation | Store Monitoring | 31/08/26 | No | Google Chrome
