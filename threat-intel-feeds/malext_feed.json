@@ -1,12 +1,165 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-09-07T14:09:14Z",
+  "generated": "2026-09-08T19:51:20Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6459,
+  "total_indicators": 6484,
   "indicators": [
+    {
+      "extension_id": "njlnfkifnhnbhclecinmajfccpenpbol",
+      "name": "Github Packagejson Enhanc",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-08",
+      "store_url": "https://chromewebstore.google.com/detail/njlnfkifnhnbhclecinmajfccpenpbol",
+      "sha256": "277b386fc6dc0dd3039cdd007cb2d5ca04aec083887d46b80dff8f63745e4193"
+    },
+    {
+      "extension_id": "ojpipmhmkeialjmgepiomippphlcoijn",
+      "name": "Github Jira Ticket Linker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-08",
+      "store_url": "https://chromewebstore.google.com/detail/ojpipmhmkeialjmgepiomippphlcoijn",
+      "sha256": "ad60dc40c4cb4faa7744a1bc8b6ca6d958503ed28873b52c49659c44d68482b6"
+    },
+    {
+      "extension_id": "apldahmlgadlacfhdnheilfhhhaaaddo",
+      "name": "Pip Boy Fallout Theme",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-08",
+      "store_url": "https://chromewebstore.google.com/detail/apldahmlgadlacfhdnheilfhhhaaaddo",
+      "sha256": "eaa6d299d975bbc597674e03e57ab75b2fa124a3554ad9c23970df610deadf6a"
+    },
+    {
+      "extension_id": "fnkijdmhpcepojclillnlchbilfhcagm",
+      "name": "Google Play Reviews Expor",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-08",
+      "store_url": "https://chromewebstore.google.com/detail/fnkijdmhpcepojclillnlchbilfhcagm",
+      "sha256": "09e3527506c1447faf7bf3fe483b91748162b1812c208891ac2dc9d13214f18d"
+    },
+    {
+      "extension_id": "gjlnchomjihmkokcnlolceldlkjaageg",
+      "name": "Timer Clock Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-08",
+      "store_url": "https://chromewebstore.google.com/detail/gjlnchomjihmkokcnlolceldlkjaageg",
+      "sha256": "3fa39427caad09035f2a7a971aa837cd1e2bd1b4feb6ed3565e722b51118f66c"
+    },
+    {
+      "extension_id": "gljfagglllgffohiedfgaaennnefpeio",
+      "name": "Ring Shot",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-07",
+      "store_url": "https://chromewebstore.google.com/detail/gljfagglllgffohiedfgaaennnefpeio",
+      "sha256": "0e533551ea7d2bc27dbdeaab654a39be753cef623b23abb5c1a32c681e8ca5a8"
+    },
+    {
+      "extension_id": "lonhhpokiedoednjcncjfeiegnlkaale",
+      "name": "Github View In Vs Code",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-07",
+      "store_url": "https://chromewebstore.google.com/detail/lonhhpokiedoednjcncjfeiegnlkaale",
+      "sha256": "d0a47f9250b957ad5a272ed0de51cf74ab6417649ec09703ec3b343d059eb96d"
+    },
+    {
+      "extension_id": "opnokndmmanolamphnpknbpdkdbcfidl",
+      "name": "Github Terraform Sources",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-07",
+      "store_url": "https://chromewebstore.google.com/detail/opnokndmmanolamphnpknbpdkdbcfidl",
+      "sha256": "b3ee7696c28063cfc2516ed97c6db23005893143bcaeaf22dfc0a5f983cb525b"
+    },
+    {
+      "extension_id": "odkdlljoangmamjilkamahebpkgpeacp",
+      "name": "Github Dark Theme",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-07",
+      "store_url": "https://chromewebstore.google.com/detail/odkdlljoangmamjilkamahebpkgpeacp",
+      "sha256": "7721d46a0069f57602a35f0deb615bf9b2474659e8901dee6ae676906594d708"
+    },
+    {
+      "extension_id": "mpieedhmialhnfbpdhlcjnbdjdcckipd",
+      "name": "Github Notifications",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-07",
+      "store_url": "https://chromewebstore.google.com/detail/mpieedhmialhnfbpdhlcjnbdjdcckipd",
+      "sha256": "e65a14b4fa0d046f94051d471062d78747f3370bd293e73feb2d23b47f8eb0c6"
+    },
+    {
+      "extension_id": "nbiddhncecgemgccalnoanpnenalmkic",
+      "name": "Github Issue Link Status",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-07",
+      "store_url": "https://chromewebstore.google.com/detail/nbiddhncecgemgccalnoanpnenalmkic",
+      "sha256": "d2e4fbb934c2604fd4979943bf38103969d7182cefd415608c1c0463f5a0b23b"
+    },
+    {
+      "extension_id": "nepdghlcapkfgnficpnefibalbhjofaa",
+      "name": "Github Unveiler",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-07",
+      "store_url": "https://chromewebstore.google.com/detail/nepdghlcapkfgnficpnefibalbhjofaa",
+      "sha256": "331aa0f1da1ba10586c1366d65eb5394cd837b27569c3d6ce6a263004cda6898"
+    },
+    {
+      "extension_id": "jkiiejigkjlloomkhpomoknkclhaabgc",
+      "name": "Kyoku",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-07",
+      "store_url": "https://chromewebstore.google.com/detail/jkiiejigkjlloomkhpomoknkclhaabgc",
+      "sha256": "d4a91934c90576b7b513cb146221a4b62464f62c836eb722088b8c3fca897924"
+    },
+    {
+      "extension_id": "llocongcggofebnijjhhkmdcccbcnlga",
+      "name": "Github Roadmap Weekend Ho",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-07",
+      "store_url": "https://chromewebstore.google.com/detail/llocongcggofebnijjhhkmdcccbcnlga",
+      "sha256": "a30bb11350d7f2cb9c7fa232b3e7f4239fd5431401326f36b65dabcb24620cb4"
+    },
+    {
+      "extension_id": "ncmbmhhgfbmdcopgnpmjpjpicjoeflbi",
+      "name": "Github Tree Downloader",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-07",
+      "store_url": "https://chromewebstore.google.com/detail/ncmbmhhgfbmdcopgnpmjpjpicjoeflbi",
+      "sha256": "e65a14b4fa0d046f94051d471062d78747f3370bd293e73feb2d23b47f8eb0c6"
+    },
+    {
+      "extension_id": "hoemclmeahebepfmbfpgmfddiomgopfg",
+      "name": "Hashhunter Blockchain Sea",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-07",
+      "store_url": "https://chromewebstore.google.com/detail/hoemclmeahebepfmbfpgmfddiomgopfg",
+      "sha256": "e8170886c4c63920e2bc85e9a23dbb701b10252b378def4ac3496a510ce1b96d"
+    },
+    {
+      "extension_id": "nmpojdflbpoepmmchmffpiccbhncpllf",
+      "name": "Github Pr Pretty Link",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/nmpojdflbpoepmmchmffpiccbhncpllf",
+      "sha256": "b400ca3222f30cd6d9615c602a9abb483f64ea30c9a996cbd91c5f4509be407f"
+    },
     {
       "extension_id": "epckfdnjigdcfmdflnmiimeiopgocdnn",
       "name": "Zimal World Clock",
@@ -123,6 +276,42 @@
       "insert_date": "2026-09-06",
       "store_url": "https://chromewebstore.google.com/detail/ehibdlfbnhonffhckipihipabaehjnop",
       "sha256": "13ebb1af91c71dcd003219c89aa8a430c6e4a669282adfa17606152ebf471f05"
+    },
+    {
+      "extension_id": "ncckkapnfmioehkahgadbcnodoablkpl",
+      "name": "Original Github Bar",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/ncckkapnfmioehkahgadbcnodoablkpl",
+      "sha256": "36f26ae736f02ff94755f5fc48312dd5d592f7d912435ac3b2f03b32d4301a3c"
+    },
+    {
+      "extension_id": "likjkfbdljkkebbagkjbglkhifemjmbc",
+      "name": "Starfield Nasa 3840X2160",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/likjkfbdljkkebbagkjbglkhifemjmbc",
+      "sha256": "eebb3917c4204e8fb8f0a086d4a2ab0ef6c17d3eb9a4fd39556508095a93ee7c"
+    },
+    {
+      "extension_id": "ooainhnpilebmgbdlencdokghlnljnmp",
+      "name": "Myshows Player",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/ooainhnpilebmgbdlencdokghlnljnmp",
+      "sha256": "f884d3f41e96187547586cb9ceb99c68035ebf0f4b76b9ea8324b06a476a7588"
+    },
+    {
+      "extension_id": "blajnfchfeamokbmchdaloefhfongngi",
+      "name": "Proper Github",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-05",
+      "store_url": "https://chromewebstore.google.com/detail/blajnfchfeamokbmchdaloefhfongngi",
+      "sha256": "30c839ab56e7a9bd5c51171c772fa88ad21f3f84eba3550af2ef0501b05f2c51"
     },
     {
       "extension_id": "nceoemejdmicfebngcjajiogpcmojimo",
@@ -3806,6 +3995,15 @@
       "sha256": "3649b07e583776a4ba86271fba9bcc8bbf0b066a5b22f3ea9093b1b0938c8d6d"
     },
     {
+      "extension_id": "jgkgcihagdjdbfoeioibeohgfecgnbmh",
+      "name": "Starfield Nasa 2560X1440",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-02",
+      "store_url": "https://chromewebstore.google.com/detail/jgkgcihagdjdbfoeioibeohgfecgnbmh",
+      "sha256": "c3ba9b258b248523f96205b1ac48823ea488a8cc03810a2aedbeb14e5aff3f44"
+    },
+    {
       "extension_id": "bnhbifoilfojoafapfhejfllcglmeopg",
       "name": "Ig Downloader Video Contr",
       "source": "Store Monitoring",
@@ -3849,6 +4047,15 @@
       "insert_date": "2026-09-02",
       "store_url": "https://chromewebstore.google.com/detail/lbfaonlamagammdnpfcnpghppfcchjao",
       "sha256": "1f78d2b602904de4d7163aa3f3c2e43b06e493660ba2c6daa454eda16876da13"
+    },
+    {
+      "extension_id": "njgapeifgcpeabnaplfbjmfhmgeblmkm",
+      "name": "Farchat",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-01",
+      "store_url": "https://chromewebstore.google.com/detail/njgapeifgcpeabnaplfbjmfhmgeblmkm",
+      "sha256": "eb5829470fd6c602e23b4b6cc29be872eede1f3bd1ccf65bcedfd66d648c88b8"
     },
     {
       "extension_id": "gpnpbncjakifkeechdhlajmpmliablmc",
@@ -3957,6 +4164,24 @@
       "insert_date": "2026-09-01",
       "store_url": "https://chromewebstore.google.com/detail/dloilnapkdfaihhpgglomebkfdaojcdb",
       "sha256": "a24b23f97ce03e554be2603823b0ca60ef9d512bb4738888db303b40e771b995"
+    },
+    {
+      "extension_id": "kaalofacklcidaampbokdplbklpeldpj",
+      "name": "Wide Github",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-31",
+      "store_url": "https://chromewebstore.google.com/detail/kaalofacklcidaampbokdplbklpeldpj",
+      "sha256": "91acca134086af4df4237ebedf145119c15f8e25d24a2c41a810dcc0fff9a4c4"
+    },
+    {
+      "extension_id": "ehnnmfnechlpbbllplflbagaicifgafb",
+      "name": "Starfield Nasa 1920X1080",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-31",
+      "store_url": "https://chromewebstore.google.com/detail/ehnnmfnechlpbbllplflbagaicifgafb",
+      "sha256": "c502c822bad1e2ca37ef8aa2e7485fcd76b67fc03de5733dcda96f9ad89a8990"
     },
     {
       "extension_id": "imgnhdjnalhaanjdmjpllgpfjkaeohnb",
