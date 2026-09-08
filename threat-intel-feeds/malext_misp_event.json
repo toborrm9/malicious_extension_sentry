@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-07",
-    "timestamp": "1788790155",
+    "date": "2026-09-08",
+    "timestamp": "1788897082",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,737 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "07f7df88-8842-5ad8-8506-8da34b4b03c4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "njlnfkifnhnbhclecinmajfccpenpbol",
+        "comment": "Github Packagejson Enhanc | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9dff3a94-ba83-5536-a303-c8dce9d57298",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/njlnfkifnhnbhclecinmajfccpenpbol",
+        "comment": "Chrome Web Store entry for Github Packagejson Enhanc (njlnfkifnhnbhclecinmajfccpenpbol)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9adfa46d-8e23-55ed-afeb-a763dde059f8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "277b386fc6dc0dd3039cdd007cb2d5ca04aec083887d46b80dff8f63745e4193",
+        "comment": "SHA-256 of extension package for Github Packagejson Enhanc (njlnfkifnhnbhclecinmajfccpenpbol)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e4375cd7-836f-5b1a-a610-ff30e71f13e3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ojpipmhmkeialjmgepiomippphlcoijn",
+        "comment": "Github Jira Ticket Linker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d01d417c-3bf9-5283-98d6-c9ae95dc1fb5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ojpipmhmkeialjmgepiomippphlcoijn",
+        "comment": "Chrome Web Store entry for Github Jira Ticket Linker (ojpipmhmkeialjmgepiomippphlcoijn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5015102c-3e42-5056-82f2-74b89def3ba4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ad60dc40c4cb4faa7744a1bc8b6ca6d958503ed28873b52c49659c44d68482b6",
+        "comment": "SHA-256 of extension package for Github Jira Ticket Linker (ojpipmhmkeialjmgepiomippphlcoijn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "fba2572d-537c-5265-a222-cfdb10dd57cb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "apldahmlgadlacfhdnheilfhhhaaaddo",
+        "comment": "Pip Boy Fallout Theme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0b2e9afa-afc1-55ae-a399-fc8717d50527",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/apldahmlgadlacfhdnheilfhhhaaaddo",
+        "comment": "Chrome Web Store entry for Pip Boy Fallout Theme (apldahmlgadlacfhdnheilfhhhaaaddo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "762702ed-b949-5acf-b4a3-96398a8aed2a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "eaa6d299d975bbc597674e03e57ab75b2fa124a3554ad9c23970df610deadf6a",
+        "comment": "SHA-256 of extension package for Pip Boy Fallout Theme (apldahmlgadlacfhdnheilfhhhaaaddo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f05c4ce5-4e9c-5812-9ca9-891d04e69224",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fnkijdmhpcepojclillnlchbilfhcagm",
+        "comment": "Google Play Reviews Expor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "be04a3f6-314c-57da-a1a8-fdacc21c4175",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fnkijdmhpcepojclillnlchbilfhcagm",
+        "comment": "Chrome Web Store entry for Google Play Reviews Expor (fnkijdmhpcepojclillnlchbilfhcagm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8e98a5ef-9753-5be5-9b0b-08fc197e0784",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "09e3527506c1447faf7bf3fe483b91748162b1812c208891ac2dc9d13214f18d",
+        "comment": "SHA-256 of extension package for Google Play Reviews Expor (fnkijdmhpcepojclillnlchbilfhcagm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f517ef28-b761-5425-985c-4d6d3a114100",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gjlnchomjihmkokcnlolceldlkjaageg",
+        "comment": "Timer Clock Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-08",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e8471669-90cf-5968-85b9-327f769e1860",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gjlnchomjihmkokcnlolceldlkjaageg",
+        "comment": "Chrome Web Store entry for Timer Clock Extension (gjlnchomjihmkokcnlolceldlkjaageg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1566974a-ec2a-56bf-9ede-a35d5278c8ea",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3fa39427caad09035f2a7a971aa837cd1e2bd1b4feb6ed3565e722b51118f66c",
+        "comment": "SHA-256 of extension package for Timer Clock Extension (gjlnchomjihmkokcnlolceldlkjaageg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4b4fdc8c-2c7c-51a3-9509-2ca87b857f8c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gljfagglllgffohiedfgaaennnefpeio",
+        "comment": "Ring Shot | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e0600b5f-a9a0-5be6-93e0-d8b2dd3cffe8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gljfagglllgffohiedfgaaennnefpeio",
+        "comment": "Chrome Web Store entry for Ring Shot (gljfagglllgffohiedfgaaennnefpeio)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2cd679a4-735e-5fa7-b3e3-88b9fd39d0ba",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0e533551ea7d2bc27dbdeaab654a39be753cef623b23abb5c1a32c681e8ca5a8",
+        "comment": "SHA-256 of extension package for Ring Shot (gljfagglllgffohiedfgaaennnefpeio)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c5901c55-8ca2-59b6-bbde-42db035de42c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lonhhpokiedoednjcncjfeiegnlkaale",
+        "comment": "Github View In Vs Code | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "320dfbe0-233f-572c-be9b-fcdfa39c12b0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lonhhpokiedoednjcncjfeiegnlkaale",
+        "comment": "Chrome Web Store entry for Github View In Vs Code (lonhhpokiedoednjcncjfeiegnlkaale)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e88c7766-12ff-5267-b4f7-ab1fb5480d3f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d0a47f9250b957ad5a272ed0de51cf74ab6417649ec09703ec3b343d059eb96d",
+        "comment": "SHA-256 of extension package for Github View In Vs Code (lonhhpokiedoednjcncjfeiegnlkaale)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8c7aa737-814c-5be9-88ab-04df45a26a34",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "opnokndmmanolamphnpknbpdkdbcfidl",
+        "comment": "Github Terraform Sources | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "877dee38-d3f8-5236-bca8-3b565f0d636e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/opnokndmmanolamphnpknbpdkdbcfidl",
+        "comment": "Chrome Web Store entry for Github Terraform Sources (opnokndmmanolamphnpknbpdkdbcfidl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "745f6d7f-528c-5cf6-ac1c-9ae89aba8077",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b3ee7696c28063cfc2516ed97c6db23005893143bcaeaf22dfc0a5f983cb525b",
+        "comment": "SHA-256 of extension package for Github Terraform Sources (opnokndmmanolamphnpknbpdkdbcfidl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e44a0aad-6da6-59df-815f-83ae38c44ffd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odkdlljoangmamjilkamahebpkgpeacp",
+        "comment": "Github Dark Theme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "41873d02-5d5c-50d0-b29b-e067925640f3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/odkdlljoangmamjilkamahebpkgpeacp",
+        "comment": "Chrome Web Store entry for Github Dark Theme (odkdlljoangmamjilkamahebpkgpeacp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f4669c13-f1cc-50e1-8bf6-1829a0a09c23",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7721d46a0069f57602a35f0deb615bf9b2474659e8901dee6ae676906594d708",
+        "comment": "SHA-256 of extension package for Github Dark Theme (odkdlljoangmamjilkamahebpkgpeacp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8df903ce-7640-59f5-8738-7c0155ee07ae",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mpieedhmialhnfbpdhlcjnbdjdcckipd",
+        "comment": "Github Notifications | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cba72b3d-5c40-5c7c-89d9-290dd90acf69",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mpieedhmialhnfbpdhlcjnbdjdcckipd",
+        "comment": "Chrome Web Store entry for Github Notifications (mpieedhmialhnfbpdhlcjnbdjdcckipd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fd4eea9e-7f0c-592f-bc1c-c8f07d7239b4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e65a14b4fa0d046f94051d471062d78747f3370bd293e73feb2d23b47f8eb0c6",
+        "comment": "SHA-256 of extension package for Github Notifications (mpieedhmialhnfbpdhlcjnbdjdcckipd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "86f412f8-f2a5-5086-9809-bebe91ce85d2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nbiddhncecgemgccalnoanpnenalmkic",
+        "comment": "Github Issue Link Status | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e0c9d21b-4fb9-5f48-aa18-2ecb02044f89",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nbiddhncecgemgccalnoanpnenalmkic",
+        "comment": "Chrome Web Store entry for Github Issue Link Status (nbiddhncecgemgccalnoanpnenalmkic)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "42446caa-f945-5cc1-8dbb-42f5d82b4f95",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d2e4fbb934c2604fd4979943bf38103969d7182cefd415608c1c0463f5a0b23b",
+        "comment": "SHA-256 of extension package for Github Issue Link Status (nbiddhncecgemgccalnoanpnenalmkic)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2852e9f3-441b-5a65-8176-585dfcf5f9bf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nepdghlcapkfgnficpnefibalbhjofaa",
+        "comment": "Github Unveiler | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "171b6d94-5d06-538f-9a14-dd9a715deb74",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nepdghlcapkfgnficpnefibalbhjofaa",
+        "comment": "Chrome Web Store entry for Github Unveiler (nepdghlcapkfgnficpnefibalbhjofaa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3979092a-dbb6-5cbb-aedf-71e6e8c7594e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "331aa0f1da1ba10586c1366d65eb5394cd837b27569c3d6ce6a263004cda6898",
+        "comment": "SHA-256 of extension package for Github Unveiler (nepdghlcapkfgnficpnefibalbhjofaa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7492e283-c205-5eb0-b8f9-c805c8ca48b9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jkiiejigkjlloomkhpomoknkclhaabgc",
+        "comment": "Kyoku | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "73643a81-6b8b-5c0c-b743-2f4d66bcca70",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jkiiejigkjlloomkhpomoknkclhaabgc",
+        "comment": "Chrome Web Store entry for Kyoku (jkiiejigkjlloomkhpomoknkclhaabgc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7cbce1ff-a8a6-5136-a4d4-261239b82d1e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d4a91934c90576b7b513cb146221a4b62464f62c836eb722088b8c3fca897924",
+        "comment": "SHA-256 of extension package for Kyoku (jkiiejigkjlloomkhpomoknkclhaabgc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d814a5b5-fa4c-5c99-9acc-01b8c3a5eb99",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "llocongcggofebnijjhhkmdcccbcnlga",
+        "comment": "Github Roadmap Weekend Ho | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cc4edf22-f289-5440-b47a-2a6e1c754dd3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/llocongcggofebnijjhhkmdcccbcnlga",
+        "comment": "Chrome Web Store entry for Github Roadmap Weekend Ho (llocongcggofebnijjhhkmdcccbcnlga)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "96c35c28-8b56-598b-a8e7-009e2c656cb2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a30bb11350d7f2cb9c7fa232b3e7f4239fd5431401326f36b65dabcb24620cb4",
+        "comment": "SHA-256 of extension package for Github Roadmap Weekend Ho (llocongcggofebnijjhhkmdcccbcnlga)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "cedda3a0-6d1b-5b79-8336-4b704b760fb8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ncmbmhhgfbmdcopgnpmjpjpicjoeflbi",
+        "comment": "Github Tree Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f49df3c0-eb29-5bef-85ef-1fb5efd1f217",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ncmbmhhgfbmdcopgnpmjpjpicjoeflbi",
+        "comment": "Chrome Web Store entry for Github Tree Downloader (ncmbmhhgfbmdcopgnpmjpjpicjoeflbi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1a094818-009f-53c4-ad8e-b425927f136b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e65a14b4fa0d046f94051d471062d78747f3370bd293e73feb2d23b47f8eb0c6",
+        "comment": "SHA-256 of extension package for Github Tree Downloader (ncmbmhhgfbmdcopgnpmjpjpicjoeflbi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1fdf900f-0921-5e63-a741-2b8bcfbc1096",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hoemclmeahebepfmbfpgmfddiomgopfg",
+        "comment": "Hashhunter Blockchain Sea | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ea6250e4-964e-5fc6-a932-8c6f0194fb02",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hoemclmeahebepfmbfpgmfddiomgopfg",
+        "comment": "Chrome Web Store entry for Hashhunter Blockchain Sea (hoemclmeahebepfmbfpgmfddiomgopfg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "13014c95-535e-5485-8023-2f81dc1bbccf",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e8170886c4c63920e2bc85e9a23dbb701b10252b378def4ac3496a510ce1b96d",
+        "comment": "SHA-256 of extension package for Hashhunter Blockchain Sea (hoemclmeahebepfmbfpgmfddiomgopfg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "16efdc26-1843-582c-a5ba-e826d68b8f29",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nmpojdflbpoepmmchmffpiccbhncpllf",
+        "comment": "Github Pr Pretty Link | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3c6b16c7-97d0-53e7-84c0-75bcd482dee4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nmpojdflbpoepmmchmffpiccbhncpllf",
+        "comment": "Chrome Web Store entry for Github Pr Pretty Link (nmpojdflbpoepmmchmffpiccbhncpllf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2e65fb07-e49a-541f-b4ee-ec4e285e9ad4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b400ca3222f30cd6d9615c602a9abb483f64ea30c9a996cbd91c5f4509be407f",
+        "comment": "SHA-256 of extension package for Github Pr Pretty Link (nmpojdflbpoepmmchmffpiccbhncpllf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "84bfe4a0-606f-5bcd-956d-5b98dada7e12",
         "type": "text",
@@ -579,6 +1310,178 @@
         "to_ids": true,
         "value": "13ebb1af91c71dcd003219c89aa8a430c6e4a669282adfa17606152ebf471f05",
         "comment": "SHA-256 of extension package for Platformer (ehibdlfbnhonffhckipihipabaehjnop)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "42d14950-b636-503e-8546-2f2b88e54110",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ncckkapnfmioehkahgadbcnodoablkpl",
+        "comment": "Original Github Bar | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "055b23c4-cd2e-5cc7-b163-8390e228f2eb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ncckkapnfmioehkahgadbcnodoablkpl",
+        "comment": "Chrome Web Store entry for Original Github Bar (ncckkapnfmioehkahgadbcnodoablkpl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d8e41b8c-085b-5549-95b7-d8efbeb7d04d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "36f26ae736f02ff94755f5fc48312dd5d592f7d912435ac3b2f03b32d4301a3c",
+        "comment": "SHA-256 of extension package for Original Github Bar (ncckkapnfmioehkahgadbcnodoablkpl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "fcfefcee-36f6-5cc1-b0ce-11d9ff720a4f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "likjkfbdljkkebbagkjbglkhifemjmbc",
+        "comment": "Starfield Nasa 3840X2160 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "079f447e-31e8-52d1-96c9-e0534566cbb9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/likjkfbdljkkebbagkjbglkhifemjmbc",
+        "comment": "Chrome Web Store entry for Starfield Nasa 3840X2160 (likjkfbdljkkebbagkjbglkhifemjmbc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "03d65ca9-a114-5a3d-a728-dea673223a4d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "eebb3917c4204e8fb8f0a086d4a2ab0ef6c17d3eb9a4fd39556508095a93ee7c",
+        "comment": "SHA-256 of extension package for Starfield Nasa 3840X2160 (likjkfbdljkkebbagkjbglkhifemjmbc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b7a67911-aa48-559a-abe5-ab0bc3620f01",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ooainhnpilebmgbdlencdokghlnljnmp",
+        "comment": "Myshows Player | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8bdee084-6df2-5521-a5b6-316c5c323b52",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ooainhnpilebmgbdlencdokghlnljnmp",
+        "comment": "Chrome Web Store entry for Myshows Player (ooainhnpilebmgbdlencdokghlnljnmp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "af502253-bd13-59d4-a6bd-154f68da9d7d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f884d3f41e96187547586cb9ceb99c68035ebf0f4b76b9ea8324b06a476a7588",
+        "comment": "SHA-256 of extension package for Myshows Player (ooainhnpilebmgbdlencdokghlnljnmp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "598540ba-965a-507e-bed8-1ffc7c1d7ba3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "blajnfchfeamokbmchdaloefhfongngi",
+        "comment": "Proper Github | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "408c0f00-049a-59ef-9a24-1ba2c726c645",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/blajnfchfeamokbmchdaloefhfongngi",
+        "comment": "Chrome Web Store entry for Proper Github (blajnfchfeamokbmchdaloefhfongngi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4dad8b79-f74c-5807-b659-ae5b0d76409b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "30c839ab56e7a9bd5c51171c772fa88ad21f3f84eba3550af2ef0501b05f2c51",
+        "comment": "SHA-256 of extension package for Proper Github (blajnfchfeamokbmchdaloefhfongngi)",
         "distribution": "5",
         "Tag": [
           {
@@ -17082,6 +17985,49 @@
         ]
       },
       {
+        "uuid": "a153229f-7a17-5c87-a406-ca3e6c84aed7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jgkgcihagdjdbfoeioibeohgfecgnbmh",
+        "comment": "Starfield Nasa 2560X1440 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f541077e-6e6d-59f2-a0ff-b8e2fed8adc8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jgkgcihagdjdbfoeioibeohgfecgnbmh",
+        "comment": "Chrome Web Store entry for Starfield Nasa 2560X1440 (jgkgcihagdjdbfoeioibeohgfecgnbmh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d79cb3c3-1719-5530-963e-0ed26c13e70b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c3ba9b258b248523f96205b1ac48823ea488a8cc03810a2aedbeb14e5aff3f44",
+        "comment": "SHA-256 of extension package for Starfield Nasa 2560X1440 (jgkgcihagdjdbfoeioibeohgfecgnbmh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "d85c5382-bbea-594d-ba3c-acdba65c52d5",
         "type": "text",
         "category": "Other",
@@ -17289,6 +18235,49 @@
         "to_ids": true,
         "value": "1f78d2b602904de4d7163aa3f3c2e43b06e493660ba2c6daa454eda16876da13",
         "comment": "SHA-256 of extension package for Meesho Autofill Product L (lbfaonlamagammdnpfcnpghppfcchjao)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6c1b4905-9094-5228-b4b7-e3ecda13d9f5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "njgapeifgcpeabnaplfbjmfhmgeblmkm",
+        "comment": "Farchat | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0b861c88-0f6f-5c68-ba0c-f243cf7f7428",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/njgapeifgcpeabnaplfbjmfhmgeblmkm",
+        "comment": "Chrome Web Store entry for Farchat (njgapeifgcpeabnaplfbjmfhmgeblmkm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8f0cf6f6-ff0a-53db-929f-55717fae50cf",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "eb5829470fd6c602e23b4b6cc29be872eede1f3bd1ccf65bcedfd66d648c88b8",
+        "comment": "SHA-256 of extension package for Farchat (njgapeifgcpeabnaplfbjmfhmgeblmkm)",
         "distribution": "5",
         "Tag": [
           {
@@ -17805,6 +18794,92 @@
         "to_ids": true,
         "value": "a24b23f97ce03e554be2603823b0ca60ef9d512bb4738888db303b40e771b995",
         "comment": "SHA-256 of extension package for Kraken Extension (dloilnapkdfaihhpgglomebkfdaojcdb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "92b91f5f-9808-5a18-9e57-20f08a9dc879",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kaalofacklcidaampbokdplbklpeldpj",
+        "comment": "Wide Github | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f333f543-eccd-5806-8e2e-b6122c6ec1a2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kaalofacklcidaampbokdplbklpeldpj",
+        "comment": "Chrome Web Store entry for Wide Github (kaalofacklcidaampbokdplbklpeldpj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "983c90af-6158-56be-ac24-22d18ec3a55e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "91acca134086af4df4237ebedf145119c15f8e25d24a2c41a810dcc0fff9a4c4",
+        "comment": "SHA-256 of extension package for Wide Github (kaalofacklcidaampbokdplbklpeldpj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2fbd5fee-eedb-5acd-97b6-f416c1f54250",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ehnnmfnechlpbbllplflbagaicifgafb",
+        "comment": "Starfield Nasa 1920X1080 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-31",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "49c095cd-8f20-50f1-8f80-540ef5084519",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ehnnmfnechlpbbllplflbagaicifgafb",
+        "comment": "Chrome Web Store entry for Starfield Nasa 1920X1080 (ehnnmfnechlpbbllplflbagaicifgafb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "574dc352-99ae-5dcd-b1e8-9e6ab3c767bf",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c502c822bad1e2ca37ef8aa2e7485fcd76b67fc03de5733dcda96f9ad89a8990",
+        "comment": "SHA-256 of extension package for Starfield Nasa 1920X1080 (ehnnmfnechlpbbllplflbagaicifgafb)",
         "distribution": "5",
         "Tag": [
           {
