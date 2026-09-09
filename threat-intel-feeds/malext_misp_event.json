@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-08",
-    "timestamp": "1788897082",
+    "date": "2026-09-09",
+    "timestamp": "1788968985",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,436 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "afebc82b-9f9e-5341-b4a6-d85a98261a43",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "coflpoldpkddmkiebgaokkndhdcembco",
+        "comment": "Gofullpage Dc | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7934b382-c45c-56cb-8e57-a2a5763aff1f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/coflpoldpkddmkiebgaokkndhdcembco",
+        "comment": "Chrome Web Store entry for Gofullpage Dc (coflpoldpkddmkiebgaokkndhdcembco)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "04fc379c-57b4-52d7-ac97-d5e1f81b369f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "57fc18403b3e3cef94e5b9819a66d5a28a467c563da21035002b50277e8e3f29",
+        "comment": "SHA-256 of extension package for Gofullpage Dc (coflpoldpkddmkiebgaokkndhdcembco)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a8898bfa-6316-502b-b29f-3a6285ae4cdf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "djbgaonafjabadgefhgmfbdfnfkoogjp",
+        "comment": "Ig Follower Count By Like | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4b1fd69d-3ad3-5307-97aa-047723538bbe",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/djbgaonafjabadgefhgmfbdfnfkoogjp",
+        "comment": "Chrome Web Store entry for Ig Follower Count By Like (djbgaonafjabadgefhgmfbdfnfkoogjp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ee6f2ce2-c953-5e17-b4fb-fe68433f7e97",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8d76a25eea04f9e688b240cf87c9fd5d58105c47c8138f8221d230cb1c746c4f",
+        "comment": "SHA-256 of extension package for Ig Follower Count By Like (djbgaonafjabadgefhgmfbdfnfkoogjp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "cadb25ea-b5fd-520f-a245-9292dc0da942",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dliepndefmbhmflgmpolafcpddgokdgm",
+        "comment": "Gofullpage Full Page Scre | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4f20a6c7-4a9f-554d-b2d9-5200683eede8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dliepndefmbhmflgmpolafcpddgokdgm",
+        "comment": "Chrome Web Store entry for Gofullpage Full Page Scre (dliepndefmbhmflgmpolafcpddgokdgm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0d6ee383-3835-5390-9c55-ba5dae103f50",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "07c5f432d570f4616d9a099873603b42e70330a2e2cb2e216310b8080df9b953",
+        "comment": "SHA-256 of extension package for Gofullpage Full Page Scre (dliepndefmbhmflgmpolafcpddgokdgm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "870b07b1-fe5d-5519-a726-d10adeb4e311",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "colpnkcegpmleaekjhnkpogdfpnkmhhb",
+        "comment": "Gofullpagex By Coderxpoin | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4dd124bd-0ff8-5a90-b23b-d111c8ef3588",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/colpnkcegpmleaekjhnkpogdfpnkmhhb",
+        "comment": "Chrome Web Store entry for Gofullpagex By Coderxpoin (colpnkcegpmleaekjhnkpogdfpnkmhhb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1e302837-28bb-56d5-ba83-559a98d2ba98",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "bc5dc7d628d4584fbf34afb0ed6720f50c4a22bc3fdc400aaa9042f671a3662f",
+        "comment": "SHA-256 of extension package for Gofullpagex By Coderxpoin (colpnkcegpmleaekjhnkpogdfpnkmhhb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "fe3d01c7-1fb8-537b-9a29-6c778cb55bd7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jfcndnbiaipopdhdphobghhblcngmnno",
+        "comment": " | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "23a548c9-eac4-550c-978b-ae9f8d03c239",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jfcndnbiaipopdhdphobghhblcngmnno",
+        "comment": "Chrome Web Store entry for  (jfcndnbiaipopdhdphobghhblcngmnno)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "30ca5aca-bfa5-5a85-9c82-662a1a44173c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "56c6b5cded587fbac9abc3416836ec941368693fb22cca88cdba943041616e61",
+        "comment": "SHA-256 of extension package for  (jfcndnbiaipopdhdphobghhblcngmnno)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "19ecce7a-c4d7-5245-a0cd-e48063b1c47d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dlkkakbocpnhmdbjlknaapnnfefigjoe",
+        "comment": "Gofullpage Plus Capture | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "dc1dc070-92f5-5794-a60d-90eeb4f7fa26",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dlkkakbocpnhmdbjlknaapnnfefigjoe",
+        "comment": "Chrome Web Store entry for Gofullpage Plus Capture (dlkkakbocpnhmdbjlknaapnnfefigjoe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "480e295e-eb2a-5aba-8ce8-efd25bf730ad",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "db2a8d97c035801bf87bbb2c82b8da6bbe110ef6423a151ce12cdfafa5dae9ca",
+        "comment": "SHA-256 of extension package for Gofullpage Plus Capture (dlkkakbocpnhmdbjlknaapnnfefigjoe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1621491d-f429-59b1-8eef-9a8f43e76944",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hfnikhbgpncbgfjnnccinpbijbaekaon",
+        "comment": "Fallout Vault Boy Live Wa | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b505f1b4-5b82-58df-83bb-bb1f86c6db1a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hfnikhbgpncbgfjnnccinpbijbaekaon",
+        "comment": "Chrome Web Store entry for Fallout Vault Boy Live Wa (hfnikhbgpncbgfjnnccinpbijbaekaon)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "281047c1-1569-5f8b-8315-c0caa190725e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e371499f7a7fd39d78c079450d957fee3a23a10fdb44fd8e4decbe307bd8937f",
+        "comment": "SHA-256 of extension package for Fallout Vault Boy Live Wa (hfnikhbgpncbgfjnnccinpbijbaekaon)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8e058d33-9cd6-5acc-9bd8-9d624c803946",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fmmbelaicccdkandcahkhelconjiokil",
+        "comment": "Gofullpage Full Page Scre | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "302acccd-35f2-578e-9248-498ce3ee4c79",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fmmbelaicccdkandcahkhelconjiokil",
+        "comment": "Chrome Web Store entry for Gofullpage Full Page Scre (fmmbelaicccdkandcahkhelconjiokil)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "37344a68-0604-5ea6-968d-da1419078836",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "13929a7adf858db625ed9bdd46a0d5483de9975cda07d8992b0899f784cf0edd",
+        "comment": "SHA-256 of extension package for Gofullpage Full Page Scre (fmmbelaicccdkandcahkhelconjiokil)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c37f936e-01ab-52fc-916c-2b1dc0cca4c5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ieplcgpmefghbhilagpemdpjekaadpnc",
+        "comment": "Screen Capture Editor Go | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8177f10a-3b37-5679-a87e-3eb2e6d8ebbd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ieplcgpmefghbhilagpemdpjekaadpnc",
+        "comment": "Chrome Web Store entry for Screen Capture Editor Go (ieplcgpmefghbhilagpemdpjekaadpnc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "364e5289-7378-5e84-b958-26ed8148d628",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fc85717fcac4618b31d7075ff8607ad6c1347169c2e91fcc8eb7ea759b26f7a3",
+        "comment": "SHA-256 of extension package for Screen Capture Editor Go (ieplcgpmefghbhilagpemdpjekaadpnc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "879dd2f1-4d7d-521d-a13b-fdf2248ee29a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "alenijgcmniiflkindapempdamibcekn",
+        "comment": "Gofullpage Premium Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "03d4abeb-b43c-5de6-b659-ad6c9699501e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/alenijgcmniiflkindapempdamibcekn",
+        "comment": "Chrome Web Store entry for Gofullpage Premium Pro (alenijgcmniiflkindapempdamibcekn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3ad06e27-2cc1-5d13-8ba1-a154acc85b4b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f4c3d159a4a6061e1d99adb0a56b2d7f7440ca5314bd9f68155d97648ffba6b7",
+        "comment": "SHA-256 of extension package for Gofullpage Premium Pro (alenijgcmniiflkindapempdamibcekn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "07f7df88-8842-5ad8-8506-8da34b4b03c4",
         "type": "text",
@@ -716,6 +1146,49 @@
         ]
       },
       {
+        "uuid": "9adece99-ae8b-5609-9e04-6cdbad623f80",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "goocncdclobemgahjikidjomjmbffabg",
+        "comment": "Skyrimbmw | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5068225e-6dd9-535e-b531-a79bc89d1a59",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/goocncdclobemgahjikidjomjmbffabg",
+        "comment": "Chrome Web Store entry for Skyrimbmw (goocncdclobemgahjikidjomjmbffabg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3e61abb6-e710-5c20-913f-9a9bddca292d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6d66378a95d894df12cab6cc414c6661f9d64da38b0085d8cac18649b5273235",
+        "comment": "SHA-256 of extension package for Skyrimbmw (goocncdclobemgahjikidjomjmbffabg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "16efdc26-1843-582c-a5ba-e826d68b8f29",
         "type": "text",
         "category": "Other",
@@ -1310,6 +1783,178 @@
         "to_ids": true,
         "value": "13ebb1af91c71dcd003219c89aa8a430c6e4a669282adfa17606152ebf471f05",
         "comment": "SHA-256 of extension package for Platformer (ehibdlfbnhonffhckipihipabaehjnop)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bfd95114-17ae-55bc-9e08-d9553f45576b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fmjcabikhegagckjkgkpgicfnmlfmkhc",
+        "comment": "Go Full Page Capture | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c5f506ff-dcf0-5002-a171-1803a35076b2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fmjcabikhegagckjkgkpgicfnmlfmkhc",
+        "comment": "Chrome Web Store entry for Go Full Page Capture (fmjcabikhegagckjkgkpgicfnmlfmkhc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "54740f88-6831-5fd1-b82b-164716048bcd",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d2f34986c5bac6a2a10d53c4e78266629444a2ecb9186fab1bad86a3aaf2410e",
+        "comment": "SHA-256 of extension package for Go Full Page Capture (fmjcabikhegagckjkgkpgicfnmlfmkhc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3de81851-4bde-581d-890d-d043eefec0da",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dcomiolpdfkdfkfkfhcecjhicfpeenej",
+        "comment": "Starfield Game | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8fef1da9-1d09-5eae-9e75-4d28e261da5e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dcomiolpdfkdfkfkfhcecjhicfpeenej",
+        "comment": "Chrome Web Store entry for Starfield Game (dcomiolpdfkdfkfkfhcecjhicfpeenej)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5038debf-9c64-5d78-b7b8-f33c26e763ee",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "15630ce49f11b5850c455987fc0bc153c075c73ad43a1554cc60bcfa6d239005",
+        "comment": "SHA-256 of extension package for Starfield Game (dcomiolpdfkdfkfkfhcecjhicfpeenej)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "98c3ea63-4db2-5f9e-95c3-1a9701a2207f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jembpcphhchfihcgfkclfeciajmjfbha",
+        "comment": "Reel Downloader For Insta | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ec37d441-addb-59a9-a816-db469ec34a1f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jembpcphhchfihcgfkclfeciajmjfbha",
+        "comment": "Chrome Web Store entry for Reel Downloader For Insta (jembpcphhchfihcgfkclfeciajmjfbha)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eac082d0-c2e2-505b-be57-c1dc4167b4ee",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3702f2182c5e3aba8cadb0d836ac23ebc34be3f29e9a018f636e1da34872a9b3",
+        "comment": "SHA-256 of extension package for Reel Downloader For Insta (jembpcphhchfihcgfkclfeciajmjfbha)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "314198c0-2e2d-5329-8e0c-f580432d43aa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pbdchaplhnppfjajooomldiloflhahhg",
+        "comment": "\u56fe\u4e2a\u5409\u5229Tuget Fullpage Gofull | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2b71ed50-3f46-56c3-a50e-9ba4170c4ae1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pbdchaplhnppfjajooomldiloflhahhg",
+        "comment": "Chrome Web Store entry for \u56fe\u4e2a\u5409\u5229Tuget Fullpage Gofull (pbdchaplhnppfjajooomldiloflhahhg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e4da1c42-dfce-50bd-b2a3-4c5a41e16c47",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "50cbc9f6469e9fee612d636588128fd26ed51f86e81dbe1c83faf0143fc51ee9",
+        "comment": "SHA-256 of extension package for \u56fe\u4e2a\u5409\u5229Tuget Fullpage Gofull (pbdchaplhnppfjajooomldiloflhahhg)",
         "distribution": "5",
         "Tag": [
           {
@@ -2342,6 +2987,150 @@
         "to_ids": true,
         "value": "c5b37bcc4df5105556c096428e6587678b32671169693671d15fdd78d6746243",
         "comment": "SHA-256 of extension package for AutoSkip YouTube - Ad Skipper & Speedup (ghaokdbknaiehcocnglhlkdhephelpnk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3ad1b740-919f-5781-a7cc-8ddf566e91d3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eljagiodakpnjbaceijefgmidmpmfimg",
+        "comment": "Smart Bookmark Variant | Source: https://socradar.io/blog/peep-browser-rat-chrome-extension/ | Store: Google Chrome | Added: 2026-09-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socradar.io/blog/peep-browser-rat-chrome-extension/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "54501b1d-683c-51e0-9493-1aa4337c7643",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eljagiodakpnjbaceijefgmidmpmfimg",
+        "comment": "Chrome Web Store entry for Smart Bookmark Variant (eljagiodakpnjbaceijefgmidmpmfimg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8943ea48-b365-5aab-b9c6-57864deac0db",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "akhljhifabhkcoboncoiekfpdodjaack",
+        "comment": "Smart Bookmarks Variant | Source: https://socradar.io/blog/peep-browser-rat-chrome-extension/ | Store: Google Chrome | Added: 2026-09-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socradar.io/blog/peep-browser-rat-chrome-extension/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a76b46f0-7c30-5d90-a999-b6cdf24daca3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/akhljhifabhkcoboncoiekfpdodjaack",
+        "comment": "Chrome Web Store entry for Smart Bookmarks Variant (akhljhifabhkcoboncoiekfpdodjaack)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0f4a09f5-802e-5c4d-a330-b494e27bda0d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bibjjhidpdmfcbkodddndmoejcloobdh",
+        "comment": "Smart Bookmarks Variant | Source: https://socradar.io/blog/peep-browser-rat-chrome-extension/ | Store: Google Chrome | Added: 2026-09-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socradar.io/blog/peep-browser-rat-chrome-extension/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d8aa4f83-6d0c-531c-9339-554f6b068799",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bibjjhidpdmfcbkodddndmoejcloobdh",
+        "comment": "Chrome Web Store entry for Smart Bookmarks Variant (bibjjhidpdmfcbkodddndmoejcloobdh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4bdf7073-f21b-57a7-84f8-066aaf04ba29",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6700e30a3224248085d30f2eb727cea28dec288355fca6753449a26d1c1d1eee",
+        "comment": "SHA-256 of extension package for Smart Bookmarks Variant (bibjjhidpdmfcbkodddndmoejcloobdh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "756e821a-49f0-535b-816f-04aa78fef175",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ejkndncpkdcjcikfhiamcdehdoegilbj",
+        "comment": "Smart Bookmarks | Source: https://socradar.io/blog/peep-browser-rat-chrome-extension/ | Store: Google Chrome | Added: 2026-09-04",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socradar.io/blog/peep-browser-rat-chrome-extension/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "32fa455f-515f-5eba-81e3-606a3e97fd0f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ejkndncpkdcjcikfhiamcdehdoegilbj",
+        "comment": "Chrome Web Store entry for Smart Bookmarks (ejkndncpkdcjcikfhiamcdehdoegilbj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a5ed33b3-3912-5209-8807-8189a014fb7a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "86a5fb2f14d175d1c13a7b49b55b968b2a5e96afc944d85a31b3db906af00beb",
+        "comment": "SHA-256 of extension package for Smart Bookmarks (ejkndncpkdcjcikfhiamcdehdoegilbj)",
         "distribution": "5",
         "Tag": [
           {
@@ -17985,6 +18774,49 @@
         ]
       },
       {
+        "uuid": "0b9f66d3-87d4-586f-8707-fea9ac97d853",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "enkggofchmjjjjhjbeokadihpjdmkoig",
+        "comment": "Doom | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "791120a2-185b-51e9-9854-5decf8056db6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/enkggofchmjjjjhjbeokadihpjdmkoig",
+        "comment": "Chrome Web Store entry for Doom (enkggofchmjjjjhjbeokadihpjdmkoig)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "101c8c2c-2494-5240-89cd-7e077853d414",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "21dc4bbbf1ca1296c1e03c2f9b95c4dab48291bfef73ccb64143d0519fd522c3",
+        "comment": "SHA-256 of extension package for Doom (enkggofchmjjjjhjbeokadihpjdmkoig)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "a153229f-7a17-5c87-a406-ca3e6c84aed7",
         "type": "text",
         "category": "Other",
@@ -18235,6 +19067,92 @@
         "to_ids": true,
         "value": "1f78d2b602904de4d7163aa3f3c2e43b06e493660ba2c6daa454eda16876da13",
         "comment": "SHA-256 of extension package for Meesho Autofill Product L (lbfaonlamagammdnpfcnpghppfcchjao)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b3d37de1-ea2a-55b7-a612-77d29691da77",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oekljdkcpomfbfmohmgfmnpiodeebmhf",
+        "comment": "Voxink | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "21fbb6fb-78af-5cf5-8c37-85a664c64053",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oekljdkcpomfbfmohmgfmnpiodeebmhf",
+        "comment": "Chrome Web Store entry for Voxink (oekljdkcpomfbfmohmgfmnpiodeebmhf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "52375774-3090-5e01-aa5f-17624839773c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2fde0033240215c3614bed02894a6536dc51293925262b6e046e89f140f7b563",
+        "comment": "SHA-256 of extension package for Voxink (oekljdkcpomfbfmohmgfmnpiodeebmhf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2125f0c3-9a42-5b2c-8df2-fa04a6a9b75f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adnjkmippimphiiklnaicbebfmhbjlgc",
+        "comment": "Instagram Unfollower Scan | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e54a779e-c881-5e3f-bd34-14f62365d5fa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/adnjkmippimphiiklnaicbebfmhbjlgc",
+        "comment": "Chrome Web Store entry for Instagram Unfollower Scan (adnjkmippimphiiklnaicbebfmhbjlgc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "566462f7-6450-5843-b695-3f6f40301ddc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9bcea9d7bb4e63310f574fb8193fd5561183e4e72b1ea7e3461db4e67af701a5",
+        "comment": "SHA-256 of extension package for Instagram Unfollower Scan (adnjkmippimphiiklnaicbebfmhbjlgc)",
         "distribution": "5",
         "Tag": [
           {
@@ -21131,6 +22049,92 @@
         "to_ids": true,
         "value": "2dba2fdb0e7b12ed2b92641cf0dcf859d34942852b2f97718afc7ff424860d90",
         "comment": "SHA-256 of extension package for Veepn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0432 2 (mahlilfpphgcnjelgmakmhpekjnoeamp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d83d5674-f2f6-5ca5-98b9-296ec92d6d40",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lcfjlldkhhhbpoeiaokckikmjgglmbah",
+        "comment": "Battle In The Dark Ages | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3bf060ac-f8c1-58fe-962f-26a473163464",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lcfjlldkhhhbpoeiaokckikmjgglmbah",
+        "comment": "Chrome Web Store entry for Battle In The Dark Ages (lcfjlldkhhhbpoeiaokckikmjgglmbah)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1387ae51-70bc-5d97-8266-dbcaa3546e7e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8f26922e51d23bc25cae30c831bca64081d4b4fcab249623237caf990a6235b7",
+        "comment": "SHA-256 of extension package for Battle In The Dark Ages (lcfjlldkhhhbpoeiaokckikmjgglmbah)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ae9abd37-772f-5ce1-a2a0-91e4faad587c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gklfkkkibebbiicgojfphjmoompnlgce",
+        "comment": "Rescue Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4a7c4eb7-9509-566b-9086-dd9205757adf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gklfkkkibebbiicgojfphjmoompnlgce",
+        "comment": "Chrome Web Store entry for Rescue Wallet (gklfkkkibebbiicgojfphjmoompnlgce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "febeb85b-6d76-58a6-b2a1-067432071c39",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cf6956f61c37374bf4cdd3bcfa98bec4738342e42c94297b8af53b2236e7df51",
+        "comment": "SHA-256 of extension package for Rescue Wallet (gklfkkkibebbiicgojfphjmoompnlgce)",
         "distribution": "5",
         "Tag": [
           {
@@ -24528,6 +25532,49 @@
         "to_ids": true,
         "value": "52505c68c22f3953e6ce7eb17774b6446e895af0547c95bd265e36e75934773f",
         "comment": "SHA-256 of extension package for Chatgpt For Google Cse (flpilgddmpnebaiedbkofhofmplgiiil)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9a787296-0218-568e-8010-d52020ae478a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abjcfabbhafbcdfjoecdgepllmpfceif",
+        "comment": "Magic Actions For Youtube | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a1a2a267-66c7-543e-89e1-c35ea52b2a9f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abjcfabbhafbcdfjoecdgepllmpfceif",
+        "comment": "Chrome Web Store entry for Magic Actions For Youtube (abjcfabbhafbcdfjoecdgepllmpfceif)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4aa2e918-1195-52bf-92b4-4fe7be6f0b71",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "df9a8a4ea4f83d656fd94898011ebb3e75f8be400a439fcbb75c013a02034f22",
+        "comment": "SHA-256 of extension package for Magic Actions For Youtube (abjcfabbhafbcdfjoecdgepllmpfceif)",
         "distribution": "5",
         "Tag": [
           {
