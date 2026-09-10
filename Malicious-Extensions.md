@@ -1,10 +1,22 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| niaenblglpcfcdjocpincoekkgfcceke | GoFullPage - Full Page Screenshot &amp; Editor | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
+| aofbdjhoknkbaefiicbkgppodcoanggg | SnapSolve – AI Answer Overlay | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
+| jejfecdelonkmgckbhllcjnhghpikakk | simple calculator | Bundling Unwanted Software | Store Monitoring | 10/09/26 | No | Google Chrome
+| jcgdofabnmpengiklhpnageaojaddnpj | GoFullPage - Full Page Screen Capture | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
+| gadmfdmnfichppcfmhopecmhmonophcd | Nexus | Bundling Unwanted Software | Store Monitoring | 10/09/26 | No | Google Chrome
+| gmehanbhbiicnjjocgfkdneodojkachb | GoFullPage PRO - Full Page Screen Capture | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
+| opcljncalpcjgbdaifbhhlmllcekjgbh | Instagram Non-Followers Checker | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
+| mbnpndhhmemafdachhajkbboiikhmlfl | IG Unfollower Tracker | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
+| kaibkgfibgoffomjemobnlojipabbbjd | video downloader | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
+| bodcackmmefldjpmeefapllhcpdlhfhp | Kanbox, Linkedin Automation and CRM | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
+| pceomhadfehclhdlgmonmkhbjpododno | GoFullPage Screenshot - 100% FREE | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
+| dfeechaceojmicfkeegljkcbflokciil | SpongeBob SquarePants Wallpaper | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
 | coflpoldpkddmkiebgaokkndhdcembco | Gofullpage Dc | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
 | djbgaonafjabadgefhgmfbdfnfkoogjp | Ig Follower Count By Like | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
 | dliepndefmbhmflgmpolafcpddgokdgm | Gofullpage Full Page Scre | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
 | colpnkcegpmleaekjhnkpogdfpnkmhhb | Gofullpagex By Coderxpoin | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
-| jfcndnbiaipopdhdphobghhblcngmnno |  | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
+| jfcndnbiaipopdhdphobghhblcngmnno | GoFullPage - Full Page Screenshot & Capture Editor | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
 | dlkkakbocpnhmdbjlknaapnnfefigjoe | Gofullpage Plus Capture | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
 | hfnikhbgpncbgfjnnccinpbijbaekaon | Fallout Vault Boy Live Wa | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
 | fmmbelaicccdkandcahkhelconjiokil | Gofullpage Full Page Scre | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
@@ -15,6 +27,7 @@
 | apldahmlgadlacfhdnheilfhhhaaaddo | Pip Boy Fallout Theme | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
 | fnkijdmhpcepojclillnlchbilfhcagm | Google Play Reviews Expor | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
 | gjlnchomjihmkokcnlolceldlkjaageg | Timer Clock Extension | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
+| ikpoefoancbhdekknaaohllmocalkobp | Go Full Page - Full Page Screen Capture | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
 | gljfagglllgffohiedfgaaennnefpeio | Ring Shot | Malware | Store Monitoring | 07/09/26 | No | Google Chrome
 | lonhhpokiedoednjcncjfeiegnlkaale | Github View In Vs Code | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
 | opnokndmmanolamphnpknbpdkdbcfidl | Github Terraform Sources | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
@@ -41,6 +54,10 @@
 | jlkihkgdajcdpbnkdlamhiggdggnjmil | Moodle Session Extender | Policy Violation | Store Monitoring | 06/09/26 | No | Google Chrome
 | aahnibhpidkdaeaplfdogejgoajkjgob | Bittorent For Chrome | Policy Violation | Store Monitoring | 06/09/26 | No | Google Chrome
 | ehibdlfbnhonffhckipihipabaehjnop | Platformer | Bundling Unwanted Software | Store Monitoring | 06/09/26 | No | Google Chrome
+| jklgndikcmjfkhohdbaldnhjengppokd | GoFullPage2 - One Click Full ScreenShot | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
+| plfechpeheenkmnjegohcpohnlkheaij | Full Page Screenshot - Go Full Page | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
+| fbccnclbchlcnpdlhdjfhbhdehoaafeg | InstaNote: Video Downloader for Instagram™ | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
+| phcogjldjjdpifenofblknhpianegplk | Tubly Downloader | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
 | fmjcabikhegagckjkgkpgicfnmlfmkhc | Go Full Page Capture | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
 | dcomiolpdfkdfkfkfhcecjhicfpeenej | Starfield Game | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
 | jembpcphhchfihcgfkclfeciajmjfbha | Reel Downloader For Insta | Policy Violation | Store Monitoring | 05/09/26 | No | Google Chrome
@@ -119,6 +136,7 @@
 | kjbpjdklnajlbnmaamncenafodoikakp | ABPV America's best pics& vids | Bundling Unwanted Software | Store Monitoring | 04/09/26 | No | Google Chrome
 | hjglcclcjjbihnljhgbmbbabnblgkbbh | Convert Video to PDF - MyExtHub | Bundling Unwanted Software | Store Monitoring | 04/09/26 | No | Google Chrome
 | pppngljciplpbnnaolboeehaceafapga | Web-Paint Anywhere | Bundling Unwanted Software | Store Monitoring | 04/09/26 | No | Google Chrome
+| jneoogacbbofhghbfhfenmdgdhfabjdg | GoFullPage - Full Page Screen Capture | Policy Violation | Store Monitoring | 03/09/26 | No | Google Chrome
 | fppadhdkfjcideooekehaabmccepcmhh | GradeX FeedFill | Policy Violation | Store Monitoring | 03/09/26 | No | Google Chrome
 | dblfldpldecohjpjgmhnigajjdjloega | Youtube Detox Reclaim You | Malware | Store Monitoring | 03/09/26 | No | Google Chrome
 | cifjmcoepfjjlnfabplkbclmmfdlaiml | Helios Surge Vpn — оранже | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 03/09/26 | No | Google Chrome
@@ -462,6 +480,8 @@
 | hmedicbckdhnimboecocchhegnjaoogc | Instagram Video Downloade | Policy Violation | Store Monitoring | 03/09/26 | No | Google Chrome
 | mogdacnhopimblfeoclddagimolopedi | Golden Love Field | Bundling Unwanted Software | Store Monitoring | 03/09/26 | No | Google Chrome
 | gboelmpgcicleimoohjpfhdelpfojgkb | United White Pride | Bundling Unwanted Software | Store Monitoring | 03/09/26 | No | Google Chrome
+| gieeedneboaipijmkejbjejdaleohlfd | GitHub Label Copier | Policy Violation | Store Monitoring | 02/09/26 | No | Google Chrome
+| jmbhdehjpkgdcnmijlcacbcplngcmajf | Insta Unfollow Checker | Policy Violation | Store Monitoring | 02/09/26 | No | Google Chrome
 | enkggofchmjjjjhjbeokadihpjdmkoig | Doom | Policy Violation | Store Monitoring | 02/09/26 | No | Google Chrome
 | jgkgcihagdjdbfoeioibeohgfecgnbmh | Starfield Nasa 2560X1440 | Policy Violation | Store Monitoring | 02/09/26 | No | Google Chrome
 | bnhbifoilfojoafapfhejfllcglmeopg | Ig Downloader Video Contr | Policy Violation | Store Monitoring | 02/09/26 | No | Google Chrome
@@ -469,6 +489,9 @@
 | dgjaekgdhbmdnjccbhbogiamkaiojbpi | Snapchat Online Privacy S | Bundling Unwanted Software | Store Monitoring | 02/09/26 | No | Google Chrome
 | adbkmnjpohaofhdfjlkhhljplkloceml | Roku Tv For Chrome | Bundling Unwanted Software | Store Monitoring | 02/09/26 | No | Google Chrome
 | lbfaonlamagammdnpfcnpghppfcchjao | Meesho Autofill Product L | Policy Violation | Store Monitoring | 02/09/26 | No | Google Chrome
+| jgfamjaigogakcepeknpemmphlfjoohm | Kryptic Wallet | Malware | Store Monitoring | 01/09/26 | No | Google Chrome
+| dakmadeodahfbkdmofehaaloildlmopg | Instagram Media Downloader | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
+| pmlpakmfnfendcfkpckbohdeajlnhgkh | Instagram Auto Follow &amp; Unfollow by InGage | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | oekljdkcpomfbfmohmgfmnpiodeebmhf | Voxink | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | adnjkmippimphiiklnaicbebfmhbjlgc | Instagram Unfollower Scan | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | njgapeifgcpeabnaplfbjmfhmgeblmkm | Farchat | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
@@ -539,6 +562,8 @@
 | jopholkclaegickcokicfdhifiammece | Cloakfy — Cloaker RáPido | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | aendjpnmgmjkommnipdjiebjehcpieai | Coworker Ai | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | mahlilfpphgcnjelgmakmhpekjnoeamp | Veepn — работает в рф в 2 | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
+| ialabgnikmojmnhoahngjiegigmfhghd | Instagram Follower Tracker &amp; Auto Follow | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| adlbpdjjpomajlnhffhcpkmjpdiepbhi | FullPagePlus - Full Page Screenshot Tool Go Full Page | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | lcfjlldkhhhbpoeiaokckikmjgglmbah | Battle In The Dark Ages | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | gklfkkkibebbiicgojfphjmoompnlgce | Rescue Wallet | Malware | Store Monitoring | 26/08/26 | No | Google Chrome
 | khbknmknlkegbeihnfkknjfopbgcbgal | Math Solver For Chrome – | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
@@ -620,7 +645,7 @@
 | pakhdpiedpnponclldmbkiidkhfblejc | Video Downloader Pro | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
 | kabldegednklibnfobahjjkagpbfadce | Ig Follower Export Tool B | Policy Violation | Store Monitoring | 24/08/26 | No | Google Chrome
 | flpilgddmpnebaiedbkofhofmplgiiil | Chatgpt For Google Cse | Bundling Unwanted Software | Store Monitoring | 24/08/26 | No | Google Chrome
-| abjcfabbhafbcdfjoecdgepllmpfceif | Magic Actions For Youtube | Malware | Store Monitoring | 23/08/26 | No | Google Chrome
+| abjcfabbhafbcdfjoecdgepllmpfceif | Magic Actions For Youtube | Malware | Store Monitoring | 23/08/26 | Yes | Google Chrome
 | ppjedbgpnnimhinhhlbgnkncffnofdcb | Stairoids Extension | Policy Violation | Store Monitoring | 23/08/26 | No | Google Chrome
 | lefcpjbffalgdcdgidjdnmabfenecjdf | Github Code Folding | Policy Violation | Store Monitoring | 23/08/26 | No | Google Chrome
 | fkkaapfaieengllkkhmennbfkjajeoel | Ig Export Pro Instagram F | Policy Violation | Store Monitoring | 23/08/26 | No | Google Chrome
