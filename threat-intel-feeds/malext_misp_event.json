@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-09",
-    "timestamp": "1788968985",
+    "date": "2026-09-10",
+    "timestamp": "1789029821",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,522 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "b6680584-df20-5910-a35c-f4553e3b6db6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "niaenblglpcfcdjocpincoekkgfcceke",
+        "comment": "GoFullPage - Full Page Screenshot &amp; Editor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ffc0a6ae-a451-52e4-92e5-e03a7f4eb9d5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/niaenblglpcfcdjocpincoekkgfcceke",
+        "comment": "Chrome Web Store entry for GoFullPage - Full Page Screenshot &amp; Editor (niaenblglpcfcdjocpincoekkgfcceke)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "09c965d9-d77f-5f2c-ba72-5ccb586c3025",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3603e7ddb7ae2c50d34c6a4fa25cd52d525b46332991f575f54f14306b514300",
+        "comment": "SHA-256 of extension package for GoFullPage - Full Page Screenshot &amp; Editor (niaenblglpcfcdjocpincoekkgfcceke)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e20d7526-3f2c-5e54-830b-8f2d97d3d18f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aofbdjhoknkbaefiicbkgppodcoanggg",
+        "comment": "SnapSolve \u2013 AI Answer Overlay | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4f3d43f2-7033-53a0-b948-40fede557105",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aofbdjhoknkbaefiicbkgppodcoanggg",
+        "comment": "Chrome Web Store entry for SnapSolve \u2013 AI Answer Overlay (aofbdjhoknkbaefiicbkgppodcoanggg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9bba4669-a2d0-5847-9b65-7989abb5a272",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fe6d841a41b21065e0df48ff1e7eb59e31878250d03406aadd40d69e577454a0",
+        "comment": "SHA-256 of extension package for SnapSolve \u2013 AI Answer Overlay (aofbdjhoknkbaefiicbkgppodcoanggg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6ad198c0-c258-572c-81c0-90fd9470c6bf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jejfecdelonkmgckbhllcjnhghpikakk",
+        "comment": "simple calculator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "78236d6d-60c5-5af9-8763-7b7003906451",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jejfecdelonkmgckbhllcjnhghpikakk",
+        "comment": "Chrome Web Store entry for simple calculator (jejfecdelonkmgckbhllcjnhghpikakk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "285d09d6-6db0-565a-87d1-cb74a85388b6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "876bce3e998c490c3767339b37580a875397f2868e739870f065f8813c91754d",
+        "comment": "SHA-256 of extension package for simple calculator (jejfecdelonkmgckbhllcjnhghpikakk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "697cdc24-043b-5b4b-ad8e-e3a0a7d86edd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jcgdofabnmpengiklhpnageaojaddnpj",
+        "comment": "GoFullPage - Full Page Screen Capture | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7b461d2a-b3bd-5dec-9ed6-a85f565c6b35",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jcgdofabnmpengiklhpnageaojaddnpj",
+        "comment": "Chrome Web Store entry for GoFullPage - Full Page Screen Capture (jcgdofabnmpengiklhpnageaojaddnpj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "21bfa3db-3a4f-5fc4-95b6-829d61d63c0a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "448c0a2be94ab52d0f19e6665a20d86d3651266ca22ee815132f3688d7024360",
+        "comment": "SHA-256 of extension package for GoFullPage - Full Page Screen Capture (jcgdofabnmpengiklhpnageaojaddnpj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "af260753-b919-5ac2-aa6f-9cbc8c7b4d7e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gadmfdmnfichppcfmhopecmhmonophcd",
+        "comment": "Nexus | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a397b986-9372-5f63-baa5-df7f30a31f1b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gadmfdmnfichppcfmhopecmhmonophcd",
+        "comment": "Chrome Web Store entry for Nexus (gadmfdmnfichppcfmhopecmhmonophcd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4b58c4a0-1cb3-5446-af38-9ed10a13f412",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1cb0cff2421b1eb8c3a99ea24f69afc61a29ba35ab64dcafa0231191f1732c1f",
+        "comment": "SHA-256 of extension package for Nexus (gadmfdmnfichppcfmhopecmhmonophcd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "31c7b01c-0a5b-559d-b2dc-a7a09bfe79bc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gmehanbhbiicnjjocgfkdneodojkachb",
+        "comment": "GoFullPage PRO - Full Page Screen Capture | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e3eafa7e-6377-54e2-9eb1-830aad0cd129",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gmehanbhbiicnjjocgfkdneodojkachb",
+        "comment": "Chrome Web Store entry for GoFullPage PRO - Full Page Screen Capture (gmehanbhbiicnjjocgfkdneodojkachb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e03d58a7-945a-56b7-89fc-537cc88c317e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b25e24056197fb94469344a39a135bc1479bad930a60a5b98b27c6bf20dc314e",
+        "comment": "SHA-256 of extension package for GoFullPage PRO - Full Page Screen Capture (gmehanbhbiicnjjocgfkdneodojkachb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "01f3d3c3-a300-5853-a3b4-765a84535c42",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "opcljncalpcjgbdaifbhhlmllcekjgbh",
+        "comment": "Instagram Non-Followers Checker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c7b437fb-215c-5047-8833-0b5a2b21d87a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/opcljncalpcjgbdaifbhhlmllcekjgbh",
+        "comment": "Chrome Web Store entry for Instagram Non-Followers Checker (opcljncalpcjgbdaifbhhlmllcekjgbh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3611cb58-8946-5d19-9013-c95531e88025",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c311dd5872d26c86046939516d645fdf780002a247a0d09d4a0edd7b0724fd76",
+        "comment": "SHA-256 of extension package for Instagram Non-Followers Checker (opcljncalpcjgbdaifbhhlmllcekjgbh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "68d96387-32ce-591c-9ffa-d5988c85a757",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mbnpndhhmemafdachhajkbboiikhmlfl",
+        "comment": "IG Unfollower Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "805c3ce4-c8b4-53ea-befe-1392a89e8756",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mbnpndhhmemafdachhajkbboiikhmlfl",
+        "comment": "Chrome Web Store entry for IG Unfollower Tracker (mbnpndhhmemafdachhajkbboiikhmlfl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4c24033c-5b95-5771-a0c6-b3c7ed7c306c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "95346d72aae687e285101c5f7db1ed810dea41a3951ab2b80c17279a35f13bf9",
+        "comment": "SHA-256 of extension package for IG Unfollower Tracker (mbnpndhhmemafdachhajkbboiikhmlfl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bba79ad0-836a-55ad-9f13-ec3617019e8f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kaibkgfibgoffomjemobnlojipabbbjd",
+        "comment": "video downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9fbc6f82-38c5-5c50-9d5c-07fd76bedce3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kaibkgfibgoffomjemobnlojipabbbjd",
+        "comment": "Chrome Web Store entry for video downloader (kaibkgfibgoffomjemobnlojipabbbjd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a58662fc-433c-5c18-a5d7-f60cc55f83c3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "da40ad12e81ba40d3a4d0eb7c9a68d771b901b0deacd86862ce8131820326741",
+        "comment": "SHA-256 of extension package for video downloader (kaibkgfibgoffomjemobnlojipabbbjd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1ab56064-185a-5ad2-a148-ef45472827bc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bodcackmmefldjpmeefapllhcpdlhfhp",
+        "comment": "Kanbox, Linkedin Automation and CRM | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bd42c2a6-1070-5159-8124-36101b57185d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bodcackmmefldjpmeefapllhcpdlhfhp",
+        "comment": "Chrome Web Store entry for Kanbox, Linkedin Automation and CRM (bodcackmmefldjpmeefapllhcpdlhfhp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "83f65093-da0f-5d29-8cb7-d44a13bd84bb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b37f4fa32d5426adb10f8172e5b2ec2a6e28372484a88e6b7255056edfd14b69",
+        "comment": "SHA-256 of extension package for Kanbox, Linkedin Automation and CRM (bodcackmmefldjpmeefapllhcpdlhfhp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3aa4ae09-7a01-5b09-a85a-7b5f02c8951d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pceomhadfehclhdlgmonmkhbjpododno",
+        "comment": "GoFullPage Screenshot - 100% FREE | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cbff9309-3b8a-52ca-b933-02c6f1ac97cf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pceomhadfehclhdlgmonmkhbjpododno",
+        "comment": "Chrome Web Store entry for GoFullPage Screenshot - 100% FREE (pceomhadfehclhdlgmonmkhbjpododno)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5f40f827-214d-5eaa-bfa3-721f25ebf5ea",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cdd02680666ff36c744c2da3641d0b2d6865fb44d91a91fdb7f535c10655ef5f",
+        "comment": "SHA-256 of extension package for GoFullPage Screenshot - 100% FREE (pceomhadfehclhdlgmonmkhbjpododno)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "03a02c9e-e3f1-5b49-9504-a0427afde99b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dfeechaceojmicfkeegljkcbflokciil",
+        "comment": "SpongeBob SquarePants Wallpaper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "12e2bfc2-a102-5b41-9979-2f241faa9141",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dfeechaceojmicfkeegljkcbflokciil",
+        "comment": "Chrome Web Store entry for SpongeBob SquarePants Wallpaper (dfeechaceojmicfkeegljkcbflokciil)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7fbcdbc8-0031-59c3-a5fc-ca5cb1dfaade",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0ad87cb31c499f343ae16395851d086baab243349351a3f0b87ee575eb35dd7a",
+        "comment": "SHA-256 of extension package for SpongeBob SquarePants Wallpaper (dfeechaceojmicfkeegljkcbflokciil)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "afebc82b-9f9e-5341-b4a6-d85a98261a43",
         "type": "text",
@@ -205,7 +721,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "jfcndnbiaipopdhdphobghhblcngmnno",
-        "comment": " | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09",
+        "comment": "GoFullPage - Full Page Screenshot & Capture Editor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09",
         "distribution": "5",
         "Tag": [
           {
@@ -225,7 +741,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/jfcndnbiaipopdhdphobghhblcngmnno",
-        "comment": "Chrome Web Store entry for  (jfcndnbiaipopdhdphobghhblcngmnno)",
+        "comment": "Chrome Web Store entry for GoFullPage - Full Page Screenshot & Capture Editor (jfcndnbiaipopdhdphobghhblcngmnno)",
         "distribution": "5"
       },
       {
@@ -234,7 +750,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "56c6b5cded587fbac9abc3416836ec941368693fb22cca88cdba943041616e61",
-        "comment": "SHA-256 of extension package for  (jfcndnbiaipopdhdphobghhblcngmnno)",
+        "comment": "SHA-256 of extension package for GoFullPage - Full Page Screenshot & Capture Editor (jfcndnbiaipopdhdphobghhblcngmnno)",
         "distribution": "5",
         "Tag": [
           {
@@ -665,6 +1181,49 @@
         "to_ids": true,
         "value": "3fa39427caad09035f2a7a971aa837cd1e2bd1b4feb6ed3565e722b51118f66c",
         "comment": "SHA-256 of extension package for Timer Clock Extension (gjlnchomjihmkokcnlolceldlkjaageg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b44bc517-39cc-57c9-afef-269ac7fa68c7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ikpoefoancbhdekknaaohllmocalkobp",
+        "comment": "Go Full Page - Full Page Screen Capture | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2ed00378-61b4-56c3-b58f-7d33c0d835fd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ikpoefoancbhdekknaaohllmocalkobp",
+        "comment": "Chrome Web Store entry for Go Full Page - Full Page Screen Capture (ikpoefoancbhdekknaaohllmocalkobp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "88a6a6fe-1bf3-54fa-8bbd-19fc8fccd29f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a695dc5f5d1965694babd2c7d9f13632af0862f587e434159bc74e0a54f55fb4",
+        "comment": "SHA-256 of extension package for Go Full Page - Full Page Screen Capture (ikpoefoancbhdekknaaohllmocalkobp)",
         "distribution": "5",
         "Tag": [
           {
@@ -1783,6 +2342,178 @@
         "to_ids": true,
         "value": "13ebb1af91c71dcd003219c89aa8a430c6e4a669282adfa17606152ebf471f05",
         "comment": "SHA-256 of extension package for Platformer (ehibdlfbnhonffhckipihipabaehjnop)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "75d801d1-abbc-5ccd-bbec-2c9bb25af111",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jklgndikcmjfkhohdbaldnhjengppokd",
+        "comment": "GoFullPage2 - One Click Full ScreenShot | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ec1dbc58-414e-5a4e-9f8b-664020438b0e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jklgndikcmjfkhohdbaldnhjengppokd",
+        "comment": "Chrome Web Store entry for GoFullPage2 - One Click Full ScreenShot (jklgndikcmjfkhohdbaldnhjengppokd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7e3a31dc-0524-54e9-868e-8df32715d988",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7a2a6c770d8e03b8e1984374835346c2742b1fdb8e668ed5396d1f3359bfbb23",
+        "comment": "SHA-256 of extension package for GoFullPage2 - One Click Full ScreenShot (jklgndikcmjfkhohdbaldnhjengppokd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "321f3af2-9e5e-5228-a4f8-fb69b27f7bcc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "plfechpeheenkmnjegohcpohnlkheaij",
+        "comment": "Full Page Screenshot - Go Full Page | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e213468d-d4e8-5072-9eac-b49f2869b039",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/plfechpeheenkmnjegohcpohnlkheaij",
+        "comment": "Chrome Web Store entry for Full Page Screenshot - Go Full Page (plfechpeheenkmnjegohcpohnlkheaij)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "18cd6554-77e9-526b-a212-3cc6bf846231",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f6b1a9aa3a05464d69e50752a9fc97f50590eb0bd319d3c8ae2a812b274df9b9",
+        "comment": "SHA-256 of extension package for Full Page Screenshot - Go Full Page (plfechpeheenkmnjegohcpohnlkheaij)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e1f281ef-070a-5685-a507-50120a7ab046",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fbccnclbchlcnpdlhdjfhbhdehoaafeg",
+        "comment": "InstaNote: Video Downloader for Instagram\u2122 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d04ac8e0-85dd-5dc9-be76-f91910e7c5a3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fbccnclbchlcnpdlhdjfhbhdehoaafeg",
+        "comment": "Chrome Web Store entry for InstaNote: Video Downloader for Instagram\u2122 (fbccnclbchlcnpdlhdjfhbhdehoaafeg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c8b5af65-a564-5fc5-b2f9-910bba72711f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7b99df15863452202ae8a3298884892bd5e40f6d8711f28a3741ac934652044c",
+        "comment": "SHA-256 of extension package for InstaNote: Video Downloader for Instagram\u2122 (fbccnclbchlcnpdlhdjfhbhdehoaafeg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0bd2ec08-3939-5b45-8a60-e3618e1eca44",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "phcogjldjjdpifenofblknhpianegplk",
+        "comment": "Tubly Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c693a42a-bcf1-56cf-8fac-b79cb25cc0d0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/phcogjldjjdpifenofblknhpianegplk",
+        "comment": "Chrome Web Store entry for Tubly Downloader (phcogjldjjdpifenofblknhpianegplk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "01a9c873-949b-571e-b1bf-262795aaec06",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5a75b802a5df20aa61493db2e9a585c89e63df5151ee7f7330650a9150737e3a",
+        "comment": "SHA-256 of extension package for Tubly Downloader (phcogjldjjdpifenofblknhpianegplk)",
         "distribution": "5",
         "Tag": [
           {
@@ -5109,6 +5840,49 @@
         "to_ids": true,
         "value": "deadd9e2f50f0f50e417a8dcf21b141bb570d9b0150b2d4abf28173ee50b02b2",
         "comment": "SHA-256 of extension package for Web-Paint Anywhere (pppngljciplpbnnaolboeehaceafapga)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7b284f65-4250-58f1-9eea-9f02a38a7060",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jneoogacbbofhghbfhfenmdgdhfabjdg",
+        "comment": "GoFullPage - Full Page Screen Capture | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-03",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "13688378-9d93-5128-b0f1-ceba1a19016d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jneoogacbbofhghbfhfenmdgdhfabjdg",
+        "comment": "Chrome Web Store entry for GoFullPage - Full Page Screen Capture (jneoogacbbofhghbfhfenmdgdhfabjdg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2c3d4646-62d6-51c8-9067-532ef47c216d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e01feceeac8db40062c2b6be0a613ae67d126f158e56e737abbcae6e6401a450",
+        "comment": "SHA-256 of extension package for GoFullPage - Full Page Screen Capture (jneoogacbbofhghbfhfenmdgdhfabjdg)",
         "distribution": "5",
         "Tag": [
           {
@@ -18774,6 +19548,92 @@
         ]
       },
       {
+        "uuid": "6fc82113-1131-5ff3-8aaf-5322c7718e8d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gieeedneboaipijmkejbjejdaleohlfd",
+        "comment": "GitHub Label Copier | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8d189c86-f807-547e-b9dc-afad0a1fe356",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gieeedneboaipijmkejbjejdaleohlfd",
+        "comment": "Chrome Web Store entry for GitHub Label Copier (gieeedneboaipijmkejbjejdaleohlfd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2ba068af-3d21-5f18-86fc-739dad265ca8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c5b73d431ad0b1d472c101c27286b185bcebfe7067daf37153ccee0a4ddbbbd6",
+        "comment": "SHA-256 of extension package for GitHub Label Copier (gieeedneboaipijmkejbjejdaleohlfd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ce715a42-bc57-56d6-b2b5-f21092a77c46",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jmbhdehjpkgdcnmijlcacbcplngcmajf",
+        "comment": "Insta Unfollow Checker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-02",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "55a553a9-ee00-5957-9998-9a9b1f551593",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jmbhdehjpkgdcnmijlcacbcplngcmajf",
+        "comment": "Chrome Web Store entry for Insta Unfollow Checker (jmbhdehjpkgdcnmijlcacbcplngcmajf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4b5d532f-6c45-5404-9969-aaa1f5cc3ca2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "47ac3a18b629357ce78881237f902c9e3cc38b253c9c25ae7b3ca46404e4a8e1",
+        "comment": "SHA-256 of extension package for Insta Unfollow Checker (jmbhdehjpkgdcnmijlcacbcplngcmajf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "0b9f66d3-87d4-586f-8707-fea9ac97d853",
         "type": "text",
         "category": "Other",
@@ -19067,6 +19927,135 @@
         "to_ids": true,
         "value": "1f78d2b602904de4d7163aa3f3c2e43b06e493660ba2c6daa454eda16876da13",
         "comment": "SHA-256 of extension package for Meesho Autofill Product L (lbfaonlamagammdnpfcnpghppfcchjao)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1b54727c-3ece-59f1-a430-f37a0d445a41",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jgfamjaigogakcepeknpemmphlfjoohm",
+        "comment": "Kryptic Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6fee581f-fab1-571a-b519-ba98ead8dc39",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jgfamjaigogakcepeknpemmphlfjoohm",
+        "comment": "Chrome Web Store entry for Kryptic Wallet (jgfamjaigogakcepeknpemmphlfjoohm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5ffe44e9-25bf-59aa-ae8e-8c1d9eea6de5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7828a18823df4002ba8a1ab56a25233c494ac0058ea1c1c806c68a37e899ba33",
+        "comment": "SHA-256 of extension package for Kryptic Wallet (jgfamjaigogakcepeknpemmphlfjoohm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c7099bfc-3a34-5312-a0f6-96c6ce9ec0f5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dakmadeodahfbkdmofehaaloildlmopg",
+        "comment": "Instagram Media Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d898298b-4796-5545-bf6b-bdc7ad7b3b74",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dakmadeodahfbkdmofehaaloildlmopg",
+        "comment": "Chrome Web Store entry for Instagram Media Downloader (dakmadeodahfbkdmofehaaloildlmopg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9cabb514-0104-5657-85ff-e9893fe4d2a1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9c0bc9b0340480f87c7897cd39e3a3ec8496b3664efcd2f565910e8064759acd",
+        "comment": "SHA-256 of extension package for Instagram Media Downloader (dakmadeodahfbkdmofehaaloildlmopg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "171fdbba-48e7-5677-8488-50a7ffda85e4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pmlpakmfnfendcfkpckbohdeajlnhgkh",
+        "comment": "Instagram Auto Follow &amp; Unfollow by InGage | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d7c66ea4-8293-5a23-a2b5-9e32f6e9d13a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pmlpakmfnfendcfkpckbohdeajlnhgkh",
+        "comment": "Chrome Web Store entry for Instagram Auto Follow &amp; Unfollow by InGage (pmlpakmfnfendcfkpckbohdeajlnhgkh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "50a7dea0-53e2-5d08-9dbb-5284eace8909",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "484e9a36d079dfd854fb3a35fe44e83938541f2aaed5b0e2142a42c993623ed5",
+        "comment": "SHA-256 of extension package for Instagram Auto Follow &amp; Unfollow by InGage (pmlpakmfnfendcfkpckbohdeajlnhgkh)",
         "distribution": "5",
         "Tag": [
           {
@@ -22049,6 +23038,92 @@
         "to_ids": true,
         "value": "2dba2fdb0e7b12ed2b92641cf0dcf859d34942852b2f97718afc7ff424860d90",
         "comment": "SHA-256 of extension package for Veepn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0444 \u0432 2 (mahlilfpphgcnjelgmakmhpekjnoeamp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c1d9cdb9-d7e9-59d5-8f76-42ef0f0199ae",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ialabgnikmojmnhoahngjiegigmfhghd",
+        "comment": "Instagram Follower Tracker &amp; Auto Follow | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3a13485b-de53-5376-8c66-0bbfdb478d2d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ialabgnikmojmnhoahngjiegigmfhghd",
+        "comment": "Chrome Web Store entry for Instagram Follower Tracker &amp; Auto Follow (ialabgnikmojmnhoahngjiegigmfhghd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e3815c11-54fb-56b2-bdd5-92074fbfd448",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "57c1b0a9b75766149cbbbeeb0e80cecc8233ccbc55c97f002d0c9783d5710c04",
+        "comment": "SHA-256 of extension package for Instagram Follower Tracker &amp; Auto Follow (ialabgnikmojmnhoahngjiegigmfhghd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "80ddac40-9e72-5e7d-bc70-dc6547089ef1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adlbpdjjpomajlnhffhcpkmjpdiepbhi",
+        "comment": "FullPagePlus - Full Page Screenshot Tool Go Full Page | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7e233745-e2ee-546b-83ea-92a1c7477597",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/adlbpdjjpomajlnhffhcpkmjpdiepbhi",
+        "comment": "Chrome Web Store entry for FullPagePlus - Full Page Screenshot Tool Go Full Page (adlbpdjjpomajlnhffhcpkmjpdiepbhi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f486fbdc-a167-5db2-9ac7-e6b388bc4bd7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7fd2eaf98e8f9ef43f114dfe4eafbe19c17b98ed8d5b35f7c92c2e24140b8030",
+        "comment": "SHA-256 of extension package for FullPagePlus - Full Page Screenshot Tool Go Full Page (adlbpdjjpomajlnhffhcpkmjpdiepbhi)",
         "distribution": "5",
         "Tag": [
           {
