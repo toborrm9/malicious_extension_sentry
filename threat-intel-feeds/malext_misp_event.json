@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-09-11",
-    "timestamp": "1789119921",
+    "timestamp": "1789157208",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,694 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "e4951593-a9c0-5d6d-a81f-ab60d5b1939f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nlpoaepiigdlogdobnoofjglplmimnkk",
+        "comment": "Doom Live Wallpaper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2ff8fef6-8713-5b9a-9f11-e3893000ae16",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nlpoaepiigdlogdobnoofjglplmimnkk",
+        "comment": "Chrome Web Store entry for Doom Live Wallpaper (nlpoaepiigdlogdobnoofjglplmimnkk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "70b4e822-3ea1-528f-b5cb-ca6eb070cb3e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "071aebcc2e34ecd5ef81bc662c591620827de6c75a30736096647a12bdf7fdb1",
+        "comment": "SHA-256 of extension package for Doom Live Wallpaper (nlpoaepiigdlogdobnoofjglplmimnkk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e60d6051-811c-58f6-aebc-057eddf631e6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dnaklikpfgalebhiiobbdfdjmkpgkmna",
+        "comment": "Download Claude Artifacts - Save Code & Docs | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0c7740de-a1ed-5200-8e29-2a4ee6f43119",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dnaklikpfgalebhiiobbdfdjmkpgkmna",
+        "comment": "Chrome Web Store entry for Download Claude Artifacts - Save Code & Docs (dnaklikpfgalebhiiobbdfdjmkpgkmna)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dea7eb2c-ccb7-5265-8df4-e8abc747b777",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c0bab9261a491efdb183e0a27b9dacbe626c8f977008291c536081194030910c",
+        "comment": "SHA-256 of extension package for Download Claude Artifacts - Save Code & Docs (dnaklikpfgalebhiiobbdfdjmkpgkmna)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "392fbeaf-f7ad-5764-9a36-6ed5c5a70373",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gjpinhcpfmeokkonngflhkolacglkpmh",
+        "comment": "Doom Rampage Live Wallpapaper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c45332dc-5a72-5b23-8424-8562d92a5e68",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gjpinhcpfmeokkonngflhkolacglkpmh",
+        "comment": "Chrome Web Store entry for Doom Rampage Live Wallpapaper (gjpinhcpfmeokkonngflhkolacglkpmh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d727f94a-20f1-56ce-bce0-161e4dc55d9b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fa568197a5e48d5f44730105acd0024127cff2d973d711d5f42407cc0f90372e",
+        "comment": "SHA-256 of extension package for Doom Rampage Live Wallpapaper (gjpinhcpfmeokkonngflhkolacglkpmh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f6344364-f937-52da-8a11-53f1a1732086",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "apolgijammkhhegipenhdfgohjcegamd",
+        "comment": "Xml Sitemap Finder | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6a272c38-2597-59b4-87e0-54e63dc0d83e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/apolgijammkhhegipenhdfgohjcegamd",
+        "comment": "Chrome Web Store entry for Xml Sitemap Finder (apolgijammkhhegipenhdfgohjcegamd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f6eccc8e-1a08-55d5-96d9-732334094d7d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4660a7e958469ef5ba8cc660c4e5e8a136213495180bf076d0183378689ea025",
+        "comment": "SHA-256 of extension package for Xml Sitemap Finder (apolgijammkhhegipenhdfgohjcegamd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "dc7cd64f-7d33-5680-aeaf-11a601d153c5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eekdmjfjckkhchnmheehkaijgdgpgndk",
+        "comment": "Bionic Reading Faster Reading | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b2ff26e2-4f2f-5d10-9984-30691e28d927",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eekdmjfjckkhchnmheehkaijgdgpgndk",
+        "comment": "Chrome Web Store entry for Bionic Reading Faster Reading (eekdmjfjckkhchnmheehkaijgdgpgndk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6655b638-8ec1-5078-b783-56b20ca37d8e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5932ad6b5378a0757cc4981810d3c97d665f8c200d9ff1d59412c227be7da694",
+        "comment": "SHA-256 of extension package for Bionic Reading Faster Reading (eekdmjfjckkhchnmheehkaijgdgpgndk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4dd88ee2-9358-5e83-93de-5301baec6734",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hfnijplhnclmidpjhlpfnpmcopggnmgo",
+        "comment": "Spaceship In Starfield | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "daa6c01c-f4ad-5ce7-8d0b-a3b85639bf03",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hfnijplhnclmidpjhlpfnpmcopggnmgo",
+        "comment": "Chrome Web Store entry for Spaceship In Starfield (hfnijplhnclmidpjhlpfnpmcopggnmgo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "de6e2a29-0736-5c92-9faf-6cd03f70638b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "73422441cb0524076a40ce65ba135d47f2be3b3e10bbc7c4bef039b4d4b125dd",
+        "comment": "SHA-256 of extension package for Spaceship In Starfield (hfnijplhnclmidpjhlpfnpmcopggnmgo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "77aba3e6-1761-5f37-94c1-83ad0650bee4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ollchoijpmdibhmgmpdmibapgeildloe",
+        "comment": "Kindroid Backup - Export Chats & Memories | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3a6643d4-6211-535d-a6ea-d94cd1c3e3cf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ollchoijpmdibhmgmpdmibapgeildloe",
+        "comment": "Chrome Web Store entry for Kindroid Backup - Export Chats & Memories (ollchoijpmdibhmgmpdmibapgeildloe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e0451c82-5bd6-5226-b0cc-937bb8257452",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2ed4896a138de1eda4c5de19ea8d11dded486d99597b50bd472cbd34249c1fa4",
+        "comment": "SHA-256 of extension package for Kindroid Backup - Export Chats & Memories (ollchoijpmdibhmgmpdmibapgeildloe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "93ce57e8-52a8-5831-9669-6e7b204dc963",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hbfceagckhcegciagailbienoagekfoo",
+        "comment": "\ub124\uc774\ubc84 \uc9c0\ub3c4 \uc88c\ud45c \ubcf5\uc0ac \uce74\uce74\uc624\ub9f5\u00b7\uad6c\uae00\ub9f5 \uc5f4\uae30 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bd079025-b533-5a68-ad73-0782e719dafb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hbfceagckhcegciagailbienoagekfoo",
+        "comment": "Chrome Web Store entry for \ub124\uc774\ubc84 \uc9c0\ub3c4 \uc88c\ud45c \ubcf5\uc0ac \uce74\uce74\uc624\ub9f5\u00b7\uad6c\uae00\ub9f5 \uc5f4\uae30 (hbfceagckhcegciagailbienoagekfoo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "aceaa400-bb32-56c1-b54b-a827f10dd258",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c7bd60ad8b66dc90c61522d34e70e249e9155aa750a02251a4250cc94f033757",
+        "comment": "SHA-256 of extension package for \ub124\uc774\ubc84 \uc9c0\ub3c4 \uc88c\ud45c \ubcf5\uc0ac \uce74\uce74\uc624\ub9f5\u00b7\uad6c\uae00\ub9f5 \uc5f4\uae30 (hbfceagckhcegciagailbienoagekfoo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3dfcecc5-eccd-5cc5-96f9-6604a446029d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ojdciceeajhajikmkgmjkgjgganihcon",
+        "comment": "Letterboxd Stats Watchlis | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c3c66beb-f66c-552e-a8aa-8058b291ef60",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ojdciceeajhajikmkgmjkgjgganihcon",
+        "comment": "Chrome Web Store entry for Letterboxd Stats Watchlis (ojdciceeajhajikmkgmjkgjgganihcon)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "44f795f7-acf8-5081-a41f-6116c3cc042f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f571faecf3dd925752c126aa49d15e362c39704f0478a070c5f5b6317b179212",
+        "comment": "SHA-256 of extension package for Letterboxd Stats Watchlis (ojdciceeajhajikmkgmjkgjgganihcon)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ddc63a52-474e-5cd9-9581-b968bd51ef51",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jmbcmdpblbnffejpkjleginbboegaegm",
+        "comment": "Starfield Constellation T | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f6625de3-bfb9-5277-b708-24cf90ea80b6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jmbcmdpblbnffejpkjleginbboegaegm",
+        "comment": "Chrome Web Store entry for Starfield Constellation T (jmbcmdpblbnffejpkjleginbboegaegm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "33d6ce66-ff81-5ab1-910f-59a4fedcb448",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "70cfe7ca446d904f2d99b914db76accb468e2ad2d30d300a14fc3f99829d1e1c",
+        "comment": "SHA-256 of extension package for Starfield Constellation T (jmbcmdpblbnffejpkjleginbboegaegm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "08460631-816b-5df3-a661-374ed9cc5426",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "enelholpfjeaealkegdfmabghkjamjgd",
+        "comment": "Word Counter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2ac1c204-6eab-55e6-977e-f043dc9deb56",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/enelholpfjeaealkegdfmabghkjamjgd",
+        "comment": "Chrome Web Store entry for Word Counter (enelholpfjeaealkegdfmabghkjamjgd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b7b9021c-1824-58e9-953c-d9c564d5a1b8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4a2b6dcd0eea9d19b546d96f3fe11df70896d08a12c202318a240f45e509ef38",
+        "comment": "SHA-256 of extension package for Word Counter (enelholpfjeaealkegdfmabghkjamjgd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bd13ea65-4dfb-5a2d-9112-a7f727106985",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aondnikcfgpeejbnnkbccmfceobjnafe",
+        "comment": "Characterai Image Avatar | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1db80785-9be8-5462-81cb-e296fad418c3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aondnikcfgpeejbnnkbccmfceobjnafe",
+        "comment": "Chrome Web Store entry for Characterai Image Avatar (aondnikcfgpeejbnnkbccmfceobjnafe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "da95f32b-b16d-5af7-b743-065051b0e8fb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "66ff0c1398bb0c0c8fa227d66f13870a9e7bcda1303f8867ef5bdc2ce81e4493",
+        "comment": "SHA-256 of extension package for Characterai Image Avatar (aondnikcfgpeejbnnkbccmfceobjnafe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "aceb5a95-38e2-5e46-92ca-fe438ac3e87f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kffcemncnjaibemimeibhpgemjnnback",
+        "comment": "Naver Blog & Cafe Image Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6e88ef11-a723-5056-bab1-289fbfcb5591",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kffcemncnjaibemimeibhpgemjnnback",
+        "comment": "Chrome Web Store entry for Naver Blog & Cafe Image Downloader (kffcemncnjaibemimeibhpgemjnnback)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d5daf4ae-8f8e-57f9-99be-50b266462e82",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3c5bccfe6b32bed5d2c52682665a7b79a1009af27c09e20149112a0579e35927",
+        "comment": "SHA-256 of extension package for Naver Blog & Cafe Image Downloader (kffcemncnjaibemimeibhpgemjnnback)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8112b5b7-1f1b-5a9b-b78d-f1ee0f1aa8b1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "edcchhdikebeodfeimogeoglgffiimef",
+        "comment": "Crucible Blade Live Wallp | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "798baaa6-24f3-5803-a233-65b7e2089d14",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/edcchhdikebeodfeimogeoglgffiimef",
+        "comment": "Chrome Web Store entry for Crucible Blade Live Wallp (edcchhdikebeodfeimogeoglgffiimef)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5d48ebc3-4b17-52c3-be1e-3242b2ce007a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b6edfa24e248f0ac78473745f4d783acd22d85050faa5183db2cfd740515ae33",
+        "comment": "SHA-256 of extension package for Crucible Blade Live Wallp (edcchhdikebeodfeimogeoglgffiimef)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2bde3987-f9c1-507a-a598-223ef12bec8f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nobkdipfakggfeblpbnfnoihilkmbhmi",
+        "comment": "Serializd Backloggd Diary Export CSV | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b9250104-e8a6-565f-ae6a-473d8c4a72d5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nobkdipfakggfeblpbnfnoihilkmbhmi",
+        "comment": "Chrome Web Store entry for Serializd Backloggd Diary Export CSV (nobkdipfakggfeblpbnfnoihilkmbhmi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b6dac153-e0ce-5933-9b0b-1624ff94e7aa",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e8010d9bb377eb394695b6c7e61b32e8f76dc11ba6093dbcc69e670fedbef479",
+        "comment": "SHA-256 of extension package for Serializd Backloggd Diary Export CSV (nobkdipfakggfeblpbnfnoihilkmbhmi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f11db41c-f14b-5a0b-9de3-29aa5a5aaee2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "onlhaodddhkokflnpdioabacoggmdahc",
+        "comment": "Find Replace Edit Text On Page | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7a8650d4-97d0-504c-9ac2-be6dbec5dcbe",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/onlhaodddhkokflnpdioabacoggmdahc",
+        "comment": "Chrome Web Store entry for Find Replace Edit Text On Page (onlhaodddhkokflnpdioabacoggmdahc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "223642c2-71a0-5a0c-82a1-5a1fffd5ddcd",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "169f170c1d1eb62dc880da8e8246b7efacfb543b9d6a8f558c27201b616f9ab8",
+        "comment": "SHA-256 of extension package for Find Replace Edit Text On Page (onlhaodddhkokflnpdioabacoggmdahc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "602d4a75-fcf4-503e-bef7-612d81a6190e",
         "type": "text",
