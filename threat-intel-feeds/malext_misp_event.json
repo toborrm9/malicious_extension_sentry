@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-09-11",
-    "timestamp": "1789157208",
+    "timestamp": "1789161864",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,995 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "8965c8e3-e735-5945-9c1a-dc2c42253c98",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gedbdbjhlpkhclnoffpjhejkmdnfcfbh",
+        "comment": "Finn Adventure Time Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b531547a-3e4a-5ff1-93ec-87015176ddec",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gedbdbjhlpkhclnoffpjhejkmdnfcfbh",
+        "comment": "Chrome Web Store entry for Finn Adventure Time Live Wallpaper (gedbdbjhlpkhclnoffpjhejkmdnfcfbh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "629528c9-25a7-502d-9504-7df1b80a6dab",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d7b8b1c19d93b1b55389c47b6baa6d655d83e38c524cc71c3f59fdf18e67e2e5",
+        "comment": "SHA-256 of extension package for Finn Adventure Time Live Wallpaper (gedbdbjhlpkhclnoffpjhejkmdnfcfbh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "261febe5-909b-5319-ac3a-0bc23f212009",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bhdmhlpnmhlpfbdciaehgbampiifimij",
+        "comment": "Goku And Shenron Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6ffec18a-7d04-5ab2-af8c-884bc783b504",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bhdmhlpnmhlpfbdciaehgbampiifimij",
+        "comment": "Chrome Web Store entry for Goku And Shenron Live Wallpaper (bhdmhlpnmhlpfbdciaehgbampiifimij)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "91fc935f-c26a-52d9-aaa3-5ceb42c0b7a6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "660c65fa51c877feed581c5f9708caff4756943e4b20c6d5074d2c17391a2245",
+        "comment": "SHA-256 of extension package for Goku And Shenron Live Wallpaper (bhdmhlpnmhlpfbdciaehgbampiifimij)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "86d30bc4-ecf0-5bb7-b472-c9cc5e62dad2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ejdnannakafapmmclnaialpnpjgbomik",
+        "comment": "Ellen Joe Zenless Zone Ze | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3b94cecc-666c-5843-a151-0177daf4a662",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ejdnannakafapmmclnaialpnpjgbomik",
+        "comment": "Chrome Web Store entry for Ellen Joe Zenless Zone Ze (ejdnannakafapmmclnaialpnpjgbomik)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e9378ecc-9fcb-5d2e-b0b4-64c6ebd26319",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4aeba469ce4a47c7fa205f5da49ec11798bd3129f9abb0bfc6971baa4a2e9d78",
+        "comment": "SHA-256 of extension package for Ellen Joe Zenless Zone Ze (ejdnannakafapmmclnaialpnpjgbomik)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b4a5fd2d-fa3d-5af6-b1e6-cfb2e99cdb68",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hcejfbgahhlgblpmnedjgcgjppcfkccb",
+        "comment": "Cherry Blossom Girl Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c17e3b65-78ad-5242-8715-5923bb44d284",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hcejfbgahhlgblpmnedjgcgjppcfkccb",
+        "comment": "Chrome Web Store entry for Cherry Blossom Girl Live Wallpaper (hcejfbgahhlgblpmnedjgcgjppcfkccb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7bb8c2ae-db63-5270-bb90-3949d58f9a2e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7bd89530938dc7be2572c1b6089447477034236afdf999848625c4b1c4696feb",
+        "comment": "SHA-256 of extension package for Cherry Blossom Girl Live Wallpaper (hcejfbgahhlgblpmnedjgcgjppcfkccb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d5e5fdf7-3b89-5253-a27a-a01e6dea2597",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "agfppecmpkdhfbilkkhonedjnjfnmimg",
+        "comment": "Dipper Mabels Adventures | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "73a72598-5308-5481-82e4-d972a98fda35",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/agfppecmpkdhfbilkkhonedjnjfnmimg",
+        "comment": "Chrome Web Store entry for Dipper Mabels Adventures (agfppecmpkdhfbilkkhonedjnjfnmimg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "03754912-f5de-5e2a-ae98-2631748b1253",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b3dae6e992841f3ab6c4f78e05249f465be7371564e511c4978d4ad8e8275f8f",
+        "comment": "SHA-256 of extension package for Dipper Mabels Adventures (agfppecmpkdhfbilkkhonedjnjfnmimg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "31971c04-79a7-58c4-92a0-e69eec63c473",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jhmgdchobljcbbjbjfadeafgiijlnfoh",
+        "comment": "Godzilla Underwater Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "768549e3-641d-5ef2-ba9e-61a77c1e9be6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jhmgdchobljcbbjbjfadeafgiijlnfoh",
+        "comment": "Chrome Web Store entry for Godzilla Underwater Live Wallpaper (jhmgdchobljcbbjbjfadeafgiijlnfoh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cf940e58-b274-5059-abc7-075edf4e5c8b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3dfd970fcbd320aada0c6b8f013b84374882824e4d3bc4acaec8500dddccb207",
+        "comment": "SHA-256 of extension package for Godzilla Underwater Live Wallpaper (jhmgdchobljcbbjbjfadeafgiijlnfoh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1604ad9b-f7f0-5926-9abe-1aa550d569cc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mhpepelcnaaimjinkkhiafelnnpjpeak",
+        "comment": "Olivia Rodrigo Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "90d97f54-6605-5b1a-8b7d-86259b9fed34",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mhpepelcnaaimjinkkhiafelnnpjpeak",
+        "comment": "Chrome Web Store entry for Olivia Rodrigo Wallpaper (mhpepelcnaaimjinkkhiafelnnpjpeak)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0230bc7a-1dc3-5336-92e4-3cbe3096dc44",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3b177e1b009ed5b662d3000dd5e08128ce344495a5a46d9325dcb1de7f4aff08",
+        "comment": "SHA-256 of extension package for Olivia Rodrigo Wallpaper (mhpepelcnaaimjinkkhiafelnnpjpeak)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "46afa787-488c-5f9b-91bc-50cb0477e90e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ebdnenkkggfgfggjnclmbnmknadnddcf",
+        "comment": "Invincible Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "49ac2a88-f10e-5a91-b8b9-f2e37a5b0024",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ebdnenkkggfgfggjnclmbnmknadnddcf",
+        "comment": "Chrome Web Store entry for Invincible Live Wallpaper (ebdnenkkggfgfggjnclmbnmknadnddcf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5bc52c2c-bc25-5571-92a1-1005eee8db83",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "76e5fcf9e69d86dca3fb57c686ac27cc725b8276f1e9b4779834030ebb1b8c5d",
+        "comment": "SHA-256 of extension package for Invincible Live Wallpaper (ebdnenkkggfgfggjnclmbnmknadnddcf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "914f0a65-887e-57e3-819a-d72aa0e57a68",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mdohohfkniopbhlhbfcamnighdncdhbn",
+        "comment": "Crash Bandicoot Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "45185863-4ac6-5ff0-a0d7-82ce05624320",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mdohohfkniopbhlhbfcamnighdncdhbn",
+        "comment": "Chrome Web Store entry for Crash Bandicoot Live Wallpaper (mdohohfkniopbhlhbfcamnighdncdhbn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ace20a99-63f4-5a62-b8da-1731e1614725",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ad7b824e52e7fef06c6a9054e77d78536a60cc27dd1f986b9df1561311e46c06",
+        "comment": "SHA-256 of extension package for Crash Bandicoot Live Wallpaper (mdohohfkniopbhlhbfcamnighdncdhbn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ec4491e8-4fc5-5667-8d46-16db387410be",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "maljiabfpbgadpiaakjddheibghlioep",
+        "comment": "Jotaro Kujo Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2fc3c7c9-1aa4-5120-aa0d-c434bd8870f7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/maljiabfpbgadpiaakjddheibghlioep",
+        "comment": "Chrome Web Store entry for Jotaro Kujo Live Wallpaper (maljiabfpbgadpiaakjddheibghlioep)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b2ee4dd7-bc20-5924-b1c8-1234f637ab5c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ee49d4b2beffba68d634fc69db8d01b4eb0dcf57fe00c62163123defaadfbd38",
+        "comment": "SHA-256 of extension package for Jotaro Kujo Live Wallpaper (maljiabfpbgadpiaakjddheibghlioep)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0bd6bac3-6064-50d1-a3a2-c5e0a8e53537",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pbefelffimdnjeabfmdbefifknlidlil",
+        "comment": "Ktm Motorcycle Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8efc7254-6a8a-5df6-9427-64da5bdeeedc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pbefelffimdnjeabfmdbefifknlidlil",
+        "comment": "Chrome Web Store entry for Ktm Motorcycle Live Wallpaper (pbefelffimdnjeabfmdbefifknlidlil)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e0753870-a3bf-542d-b369-7ab26f01e688",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "480ec70acfc0a0d8d2d25a3c997ec61cf198cc2a3a92541dad758f2ce4671345",
+        "comment": "SHA-256 of extension package for Ktm Motorcycle Live Wallpaper (pbefelffimdnjeabfmdbefifknlidlil)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c2867902-1244-54af-b849-1c5f6539cbc7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ielpnpjijceclolhdegcdehhdjbbjaep",
+        "comment": "Hacker Station Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e386ebc4-7eee-58ee-a8d3-f22046008733",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ielpnpjijceclolhdegcdehhdjbbjaep",
+        "comment": "Chrome Web Store entry for Hacker Station Live Wallpaper (ielpnpjijceclolhdegcdehhdjbbjaep)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4c918861-053c-5e63-90de-1bc6bdc2f061",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b59562c0a1451650548713753da61f54af965a876888b085c1e75da18ac91375",
+        "comment": "SHA-256 of extension package for Hacker Station Live Wallpaper (ielpnpjijceclolhdegcdehhdjbbjaep)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3559cfae-24e9-5b2a-87c2-0b1db946bb05",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "efkofpfbcjpghclibjhkabkkhipeagko",
+        "comment": "Lamborghini Countach Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6408aebb-2c65-5171-afb4-e7776ab22ced",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/efkofpfbcjpghclibjhkabkkhipeagko",
+        "comment": "Chrome Web Store entry for Lamborghini Countach Live Wallpaper (efkofpfbcjpghclibjhkabkkhipeagko)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e0c755ce-5399-54d0-96a3-82313923b684",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2557596100809e517100e436697896da001a968ad1a6e3c0c0882b6d103eb318",
+        "comment": "SHA-256 of extension package for Lamborghini Countach Live Wallpaper (efkofpfbcjpghclibjhkabkkhipeagko)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "83188306-6e50-5ef6-9d5c-491a9345e082",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "afcjbeaomliemmngehinaekimohojokc",
+        "comment": "Malenia Elden Ring Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b64b8e4a-b666-5fe4-a676-b63c5f0a41b5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/afcjbeaomliemmngehinaekimohojokc",
+        "comment": "Chrome Web Store entry for Malenia Elden Ring Live Wallpaper (afcjbeaomliemmngehinaekimohojokc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d4c7b2f5-99a1-5dc1-982b-8abd87120287",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "260e0a3bd16f8b3cfbc0a641753762c6c5a6e1f435bc99bbc432b7e09754d975",
+        "comment": "SHA-256 of extension package for Malenia Elden Ring Live Wallpaper (afcjbeaomliemmngehinaekimohojokc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8b6ec470-ea3c-5d49-a37b-ee98902eee96",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aapnmkahgdkfafhehiecejjbnondpkli",
+        "comment": "Akaza Kimetsu No Yaiba Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d59ae0e8-4737-5e5b-9ab8-5249d9761bf4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aapnmkahgdkfafhehiecejjbnondpkli",
+        "comment": "Chrome Web Store entry for Akaza Kimetsu No Yaiba Live Wallpaper (aapnmkahgdkfafhehiecejjbnondpkli)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2b88243c-7e7a-5a52-b3e4-2f732d4bb43c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0449ad51942d0e40dc4cfccfa7b69dd3e77f969c8f3c5f182c762cf6bc776086",
+        "comment": "SHA-256 of extension package for Akaza Kimetsu No Yaiba Live Wallpaper (aapnmkahgdkfafhehiecejjbnondpkli)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "64e2f2ae-af92-5cd0-9332-279824df8991",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mfhplkljcmmdilbmfgaipddkdpehiodi",
+        "comment": "Tanjiro Kamado Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0af21ddf-2a74-5144-b032-3539ea18e2d1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mfhplkljcmmdilbmfgaipddkdpehiodi",
+        "comment": "Chrome Web Store entry for Tanjiro Kamado Live Wallpaper (mfhplkljcmmdilbmfgaipddkdpehiodi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b31f1889-a29e-57ae-896d-52565631e17d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cc1b3a85938e09e0d14078065a0216821729a514a85735b6232a40f302adce28",
+        "comment": "SHA-256 of extension package for Tanjiro Kamado Live Wallpaper (mfhplkljcmmdilbmfgaipddkdpehiodi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c04147e8-453b-5ef1-9234-642e31f376e6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "plbebfjeklpfmffhcknkhbbdpjfkoenc",
+        "comment": "Animal Crossing D\u014dbutsu N | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ec0f3761-9251-5720-aacc-34706a508b2f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/plbebfjeklpfmffhcknkhbbdpjfkoenc",
+        "comment": "Chrome Web Store entry for Animal Crossing D\u014dbutsu N (plbebfjeklpfmffhcknkhbbdpjfkoenc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "97b74ddd-4332-59e3-b4f9-acb5ba5a37a7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "113da2fa5067b6c9748a6aa9231305c8c6b7841d42a6760a4f2e2741323f4173",
+        "comment": "SHA-256 of extension package for Animal Crossing D\u014dbutsu N (plbebfjeklpfmffhcknkhbbdpjfkoenc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6a55722f-f482-576d-af5c-6605f26f254e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nbfolchlmihbblljgkihfojkgibgpmji",
+        "comment": "Cardcaptor Sakura Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "81de39d4-0ae1-5e27-863b-3ce41e181138",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nbfolchlmihbblljgkihfojkgibgpmji",
+        "comment": "Chrome Web Store entry for Cardcaptor Sakura Live Wallpaper (nbfolchlmihbblljgkihfojkgibgpmji)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "45e745a8-66d0-561b-9d4d-3bfbf2332b72",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a55c8c72c4a593636a4728ce5a9278f69e0f67e8c2beda100aff61048cd0c3f2",
+        "comment": "SHA-256 of extension package for Cardcaptor Sakura Live Wallpaper (nbfolchlmihbblljgkihfojkgibgpmji)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2d4d8175-2139-5f93-b8d6-f933cc2c9109",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ijbpegpcaiencppbgaldjflmllhhdfog",
+        "comment": "Fnaf Live Wallpaper | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9c2bb8dc-9d18-5053-8a85-a1b7288c14bd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ijbpegpcaiencppbgaldjflmllhhdfog",
+        "comment": "Chrome Web Store entry for Fnaf Live Wallpaper (ijbpegpcaiencppbgaldjflmllhhdfog)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bd9625b3-6b19-5b06-9637-eb04ecf82f33",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d08aec8cb8379d07f22e3b8499646deaca58b05ef83e2069f8605dbba78425b0",
+        "comment": "SHA-256 of extension package for Fnaf Live Wallpaper (ijbpegpcaiencppbgaldjflmllhhdfog)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7e673ffd-c062-51fe-a4db-936a5fc6d818",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cndggnjcfcohfgfnnmelmokjlebmcpjd",
+        "comment": "Electric Cursor - Energy Themed Cursor for Chrome | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1990bb8a-8e61-50d8-80be-e3426fea2793",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cndggnjcfcohfgfnnmelmokjlebmcpjd",
+        "comment": "Chrome Web Store entry for Electric Cursor - Energy Themed Cursor for Chrome (cndggnjcfcohfgfnnmelmokjlebmcpjd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2ed95dd4-7256-5dd4-b360-95c03e85d68f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "aae514f2758e95c50b8a031fdc00cc7de1da995e99269525749ee1c91fe7d4f3",
+        "comment": "SHA-256 of extension package for Electric Cursor - Energy Themed Cursor for Chrome (cndggnjcfcohfgfnnmelmokjlebmcpjd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7f26df46-a11c-5338-a778-85be86793cf4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "phgblalkiodcgekeddpmmpcllfohpaeg",
+        "comment": "Fitness Cursor - Health Sports Cursor for Chrome | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "243c1d41-2e63-57bd-8caa-1be4ab46d7b9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/phgblalkiodcgekeddpmmpcllfohpaeg",
+        "comment": "Chrome Web Store entry for Fitness Cursor - Health Sports Cursor for Chrome (phgblalkiodcgekeddpmmpcllfohpaeg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b43e91e9-7ff3-501e-b1ad-e810f7bee828",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "241c75b821f74636b5864457096a15dc4576cd3c9e31cde48a63bbc9d84a0a39",
+        "comment": "SHA-256 of extension package for Fitness Cursor - Health Sports Cursor for Chrome (phgblalkiodcgekeddpmmpcllfohpaeg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "078653db-65e6-5b3d-8e8c-4c84cf1ce58a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fjffjbcahnhdkgknhdmjejadifiiippm",
+        "comment": "Final Fantasy Cursor - RPG Game Cursor for Chrome | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cbf28fd4-8aa7-5400-9bc1-05a2c936854c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fjffjbcahnhdkgknhdmjejadifiiippm",
+        "comment": "Chrome Web Store entry for Final Fantasy Cursor - RPG Game Cursor for Chrome (fjffjbcahnhdkgknhdmjejadifiiippm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d0cd31e5-a488-5501-a8ea-e967c07c4dfe",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "294a01ca07709ed0dbe36a6db57ff41e41647deb7979174384565e3f38f25f94",
+        "comment": "SHA-256 of extension package for Final Fantasy Cursor - RPG Game Cursor for Chrome (fjffjbcahnhdkgknhdmjejadifiiippm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1b32623d-8b57-5a8f-a3be-2e385ed846f4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lhhoicpajfbijboekonjnedpicpdijfe",
+        "comment": "Dark Anime Wallpapers New Tab - Gothic Horror Aesthetic Backgrounds | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "44d9e6e0-4b8f-557f-a8c3-3469fe683c59",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lhhoicpajfbijboekonjnedpicpdijfe",
+        "comment": "Chrome Web Store entry for Dark Anime Wallpapers New Tab - Gothic Horror Aesthetic Backgrounds (lhhoicpajfbijboekonjnedpicpdijfe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3416b80f-af4e-5795-b314-c65c3b471aac",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "26d83b5e34f4d7618de02c403c457d1311abb6d5c478e9d16c216830c1f4fda1",
+        "comment": "SHA-256 of extension package for Dark Anime Wallpapers New Tab - Gothic Horror Aesthetic Backgrounds (lhhoicpajfbijboekonjnedpicpdijfe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "e4951593-a9c0-5d6d-a81f-ab60d5b1939f",
         "type": "text",
@@ -232017,49 +233006,6 @@
         "distribution": "5"
       },
       {
-        "uuid": "9427e900-0efa-56bd-8d65-2f749f108039",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "phngohjapibeemmkofldldedlbbndbag",
-        "comment": "Image 2 Text by EERIE | Source: Store Monitoring | Store: Google Chrome | Added: 2026-03-01",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          },
-          {
-            "name": "malext:store=\"Google Chrome\""
-          }
-        ]
-      },
-      {
-        "uuid": "fada201a-4f03-5664-a4f0-b90ea45295bd",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/phngohjapibeemmkofldldedlbbndbag",
-        "comment": "Chrome Web Store entry for Image 2 Text by EERIE (phngohjapibeemmkofldldedlbbndbag)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "ddd3c088-6db7-54db-9b63-3bf5e13b0762",
-        "type": "sha256",
-        "category": "Payload delivery",
-        "to_ids": true,
-        "value": "7fd83b7e22795bedc6cb7d7f06f7e15bda439740f3beb2c301960375cf0f4f9b",
-        "comment": "SHA-256 of extension package for Image 2 Text by EERIE (phngohjapibeemmkofldldedlbbndbag)",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          }
-        ]
-      },
-      {
         "uuid": "5325bd56-8a8d-553b-920b-de1f6cafa718",
         "type": "text",
         "category": "Other",
@@ -256372,7 +257318,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "cedgndijpacnfbdggppddacngjfdkaca",
-        "comment": "WayinVideo - AI YouTube Summarizer &amp; Transcript Generator & Moments | Source: https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/ | Store: Google Chrome | Added: 2025-02-25",
+        "comment": "WayinVideo - AI YouTube Summarizer & Transcript Generator & Moments | Source: https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/ | Store: Google Chrome | Added: 2025-02-25",
         "distribution": "5",
         "Tag": [
           {
@@ -256392,7 +257338,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/cedgndijpacnfbdggppddacngjfdkaca",
-        "comment": "Chrome Web Store entry for WayinVideo - AI YouTube Summarizer &amp; Transcript Generator & Moments (cedgndijpacnfbdggppddacngjfdkaca)",
+        "comment": "Chrome Web Store entry for WayinVideo - AI YouTube Summarizer & Transcript Generator & Moments (cedgndijpacnfbdggppddacngjfdkaca)",
         "distribution": "5"
       },
       {
@@ -256401,7 +257347,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "3eda175fb1d6ffec0cca7b5bd2476bc379cc6ddf2c442b9544ed0e95f2aec8dc",
-        "comment": "SHA-256 of extension package for WayinVideo - AI YouTube Summarizer &amp; Transcript Generator & Moments (cedgndijpacnfbdggppddacngjfdkaca)",
+        "comment": "SHA-256 of extension package for WayinVideo - AI YouTube Summarizer & Transcript Generator & Moments (cedgndijpacnfbdggppddacngjfdkaca)",
         "distribution": "5",
         "Tag": [
           {
