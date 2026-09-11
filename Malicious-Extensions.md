@@ -1,5 +1,21 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| nlpoaepiigdlogdobnoofjglplmimnkk | Doom Live Wallpaper | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| dnaklikpfgalebhiiobbdfdjmkpgkmna | Download Claude Artifacts - Save Code & Docs | Bundling Unwanted Software | Store Monitoring | 11/09/26 | No | Google Chrome
+| gjpinhcpfmeokkonngflhkolacglkpmh | Doom Rampage Live Wallpapaper | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| apolgijammkhhegipenhdfgohjcegamd | Xml Sitemap Finder | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| eekdmjfjckkhchnmheehkaijgdgpgndk | Bionic Reading Faster Reading | Bundling Unwanted Software | Store Monitoring | 11/09/26 | No | Google Chrome
+| hfnijplhnclmidpjhlpfnpmcopggnmgo | Spaceship In Starfield | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| ollchoijpmdibhmgmpdmibapgeildloe | Kindroid Backup - Export Chats & Memories | Bundling Unwanted Software | Store Monitoring | 11/09/26 | No | Google Chrome
+| hbfceagckhcegciagailbienoagekfoo | 네이버 지도 좌표 복사 카카오맵·구글맵 열기 | Bundling Unwanted Software | Store Monitoring | 11/09/26 | No | Google Chrome
+| ojdciceeajhajikmkgmjkgjgganihcon | Letterboxd Stats Watchlis | Bundling Unwanted Software | Store Monitoring | 11/09/26 | No | Google Chrome
+| jmbcmdpblbnffejpkjleginbboegaegm | Starfield Constellation T | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| enelholpfjeaealkegdfmabghkjamjgd | Word Counter | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| aondnikcfgpeejbnnkbccmfceobjnafe | Characterai Image Avatar | Bundling Unwanted Software | Store Monitoring | 11/09/26 | No | Google Chrome
+| kffcemncnjaibemimeibhpgemjnnback | Naver Blog & Cafe Image Downloader | Bundling Unwanted Software | Store Monitoring | 11/09/26 | No | Google Chrome
+| edcchhdikebeodfeimogeoglgffiimef | Crucible Blade Live Wallp | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| nobkdipfakggfeblpbnfnoihilkmbhmi | Serializd Backloggd Diary Export CSV | Bundling Unwanted Software | Store Monitoring | 11/09/26 | No | Google Chrome
+| onlhaodddhkokflnpdioabacoggmdahc | Find Replace Edit Text On Page | Bundling Unwanted Software | Store Monitoring | 11/09/26 | No | Google Chrome
 | abmdhhfbjcbloljngggdajoikodeabcc | Doom Element | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
 | cnfnakdefmbdddpeihibplijgkodbglb | Starfield 4K | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
 | ifeadllngfmlpefehpakbijkcffjpbac | Elder Scrolls Online Soulburst Theme | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
