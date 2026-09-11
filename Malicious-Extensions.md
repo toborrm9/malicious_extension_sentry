@@ -1,6 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
-| niaenblglpcfcdjocpincoekkgfcceke | GoFullPage - Full Page Screenshot &amp; Editor | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
+| abmdhhfbjcbloljngggdajoikodeabcc | Doom Element | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| cnfnakdefmbdddpeihibplijgkodbglb | Starfield 4K | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| ifeadllngfmlpefehpakbijkcffjpbac | Elder Scrolls Online Soulburst Theme | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| jlojplebdgbjllmagfjdmnjkmcpeoeol | Page Summarizer | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| nmkhomipjojbiocbghjmccgjpfogdcnn | The Elder Scrolls Online | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| kpgbdepodmebeljbodlgalpofpoednme | The Elder Scrolls Online | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| peioojhnmijhjoikobgepmmddfnhamlm | Fallout 4 Fallout: New Vegas Fallout 3 Bethes | Policy Violation | Store Monitoring | 11/09/26 | No | Google Chrome
+| niaenblglpcfcdjocpincoekkgfcceke | GoFullPage - Full Page Screenshot & Editor | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
 | aofbdjhoknkbaefiicbkgppodcoanggg | SnapSolve – AI Answer Overlay | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
 | jejfecdelonkmgckbhllcjnhghpikakk | simple calculator | Bundling Unwanted Software | Store Monitoring | 10/09/26 | No | Google Chrome
 | jcgdofabnmpengiklhpnageaojaddnpj | GoFullPage - Full Page Screen Capture | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
@@ -27,6 +34,7 @@
 | apldahmlgadlacfhdnheilfhhhaaaddo | Pip Boy Fallout Theme | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
 | fnkijdmhpcepojclillnlchbilfhcagm | Google Play Reviews Expor | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
 | gjlnchomjihmkokcnlolceldlkjaageg | Timer Clock Extension | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
+| edfckhkancehgepjlohhbemjpjljckii | Vodsspace Companion | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
 | ikpoefoancbhdekknaaohllmocalkobp | Go Full Page - Full Page Screen Capture | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
 | gljfagglllgffohiedfgaaennnefpeio | Ring Shot | Malware | Store Monitoring | 07/09/26 | No | Google Chrome
 | lonhhpokiedoednjcncjfeiegnlkaale | Github View In Vs Code | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
@@ -491,7 +499,7 @@
 | lbfaonlamagammdnpfcnpghppfcchjao | Meesho Autofill Product L | Policy Violation | Store Monitoring | 02/09/26 | No | Google Chrome
 | jgfamjaigogakcepeknpemmphlfjoohm | Kryptic Wallet | Malware | Store Monitoring | 01/09/26 | No | Google Chrome
 | dakmadeodahfbkdmofehaaloildlmopg | Instagram Media Downloader | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
-| pmlpakmfnfendcfkpckbohdeajlnhgkh | Instagram Auto Follow &amp; Unfollow by InGage | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
+| pmlpakmfnfendcfkpckbohdeajlnhgkh | Instagram Auto Follow & Unfollow by InGage | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | oekljdkcpomfbfmohmgfmnpiodeebmhf | Voxink | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | adnjkmippimphiiklnaicbebfmhbjlgc | Instagram Unfollower Scan | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
 | njgapeifgcpeabnaplfbjmfhmgeblmkm | Farchat | Policy Violation | Store Monitoring | 01/09/26 | No | Google Chrome
@@ -543,7 +551,7 @@
 | miidjpmjpkbpefhnfcdcoolaaedfmlam | Instagram Downloader — Fa | Policy Violation | Store Monitoring | 28/08/26 | No | Google Chrome
 | fcgdejjichpgfaaafflplhfijcnieopb | PixelCheck | Malware | [socket.dev](https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise) | 28/08/26 | No | Google Chrome
 | jamminefolhgepgihbmcjjhgldbfcikp | Password Protect PDF | Malware | [socket.dev](https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise) | 28/08/26 | Yes | Google Chrome
-| inmkjedjdhgpknjogbjomhnbgdccckkg | Allow Copy - Select &amp; Enable Right Click | Malware | [socket.dev](https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise) | 28/08/26 | No | Microsoft Edge
+| inmkjedjdhgpknjogbjomhnbgdccckkg | Allow Copy - Select & Enable Right Click | Malware | [socket.dev](https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise) | 28/08/26 | No | Microsoft Edge
 | gioehmkjkeamcinbdelehlpnpdcdjpdp | Video Speed Controller | Malware | Store Monitoring | 27/08/26 | Yes | Google Chrome
 | ajahfdehgfhmabhcboolclgljfcfbjfh | Instagram Unfollowers Ana | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | pgodpokbbnjajeegdmdgfkhhnjbdlbgb | Calculator | Bundling Unwanted Software | Store Monitoring | 27/08/26 | No | Google Chrome
@@ -562,7 +570,8 @@
 | jopholkclaegickcokicfdhifiammece | Cloakfy — Cloaker RáPido | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | aendjpnmgmjkommnipdjiebjehcpieai | Coworker Ai | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
 | mahlilfpphgcnjelgmakmhpekjnoeamp | Veepn — работает в рф в 2 | Policy Violation | Store Monitoring | 27/08/26 | No | Google Chrome
-| ialabgnikmojmnhoahngjiegigmfhghd | Instagram Follower Tracker &amp; Auto Follow | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| lpokjkoemgmmacpocfjecamnoheidcfd | Wolfenstein 3D Game | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
+| ialabgnikmojmnhoahngjiegigmfhghd | Instagram Follower Tracker & Auto Follow | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | adlbpdjjpomajlnhffhcpkmjpdiepbhi | FullPagePlus - Full Page Screenshot Tool Go Full Page | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | lcfjlldkhhhbpoeiaokckikmjgglmbah | Battle In The Dark Ages | Policy Violation | Store Monitoring | 26/08/26 | No | Google Chrome
 | gklfkkkibebbiicgojfphjmoompnlgce | Rescue Wallet | Malware | Store Monitoring | 26/08/26 | No | Google Chrome
@@ -3728,7 +3737,7 @@
 | gggjlnkbmgmjboipaegjmjmehmcekamo | GIPHY for Edge | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | gclhifbbggfamoojmienffegbmmfnfll | Adblock for Youtube | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | flmkfmdmcaepdaoedepihfkhmgopiago | YouTube™ Adblock Plus | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
-| fljmegmgjebjdionedkjfgffikhnmcgg | ! Spell &amp; Grammar Check Tool | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
+| fljmegmgjebjdionedkjfgffikhnmcgg | ! Spell & Grammar Check Tool | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | flcgalphjnojjefjnnimnejbkkefbjgo | TikTok Downloader Without Watermark | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | fkkoeecbjckjpnmenebojblcljjgbpoj | fkkoeecbjckjpnmenebojblcljjgbpoj | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | fhkijdlfjnpimenfpnegkecbbijmoipm | fhkijdlfjnpimenfpnegkecbbijmoipm | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
@@ -3771,7 +3780,7 @@
 | eglhokebokdmejdfpejnagcmnmjbfhig | DIPU & COMPANY GSTR-N | Policy Violation | Store Monitoring | 29/06/26 | No | Google Chrome
 | fifeankddgioinbcchlokclbcgjlopjj | Similar Sites - Discover Related Websites | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | olcibgopfmndlnghnmogcgdhdffdbicg | olcibgopfmndlnghnmogcgdhdffdbicg | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
-| nlapjaaepfeadiecaipnacimidfjginj | Focus To-Do: Pomodoro Timer &amp; To Do List | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
+| nlapjaaepfeadiecaipnacimidfjginj | Focus To-Do: Pomodoro Timer & To Do List | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | pgcamkdibinodcpkhenjmofbfobpebpn | pgcamkdibinodcpkhenjmofbfobpebpn | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | pdnjhppcgkdbjolbeplcabkcfmpnbjmh | VPN | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | nmhdjlflloeeahacgomilnhmpfnhlpkn | 7TV | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
@@ -3784,11 +3793,11 @@
 | pohfogacehhgefhgmcmnojflfakllkal | pohfogacehhgefhgmcmnojflfakllkal | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | pjhoiegecdlpaohfffpajaldpbilngog | Magic Actions for YouTube | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | okmfpehbgckbneedidbladdaiekikcdo | ssYoutube - Video Downloader | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
-| oiolhdeinoaidggfcpebifcbedppbgog | Video &amp; MP3 Downloader | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
+| oiolhdeinoaidggfcpebifcbedppbgog | Video & MP3 Downloader | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | oejbpnadmkdiofacgknaaagbmmonhgpb | Efficient Adblocker for Youtube | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | nphphgkcccnlmdiihcedabnhfacfmojk | U-Tube Downloader | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | nipggfgilmoiofmnkbeabghbcaohmjih | Adblock for Youtube™ | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
-| nhjdhmbdahdidccpobobccagmmijndmp | Gmail Checker - Read, Label &amp; Manage | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
+| nhjdhmbdahdidccpobobccagmmijndmp | Gmail Checker - Read, Label & Manage | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | nhfohdhgahjpmniccbgflilignkcnmai | AdFly Skipper for Edge | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | ngeoikidkjbegoifbnmfimacmbilfcgi | Image Downloader - Batch Download Image | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
 | nepdfkaidpemglngbgpnmmhnleiekpin | 一键翻译 | Malware | [microsoftedge.github.io](https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf) | 29/06/26 | No | Microsoft Edge
@@ -5820,12 +5829,12 @@
 | bgkdocoihppjkdfaghndpjlfoehjcmka | Pkaaa New Tab | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | Yes | Google Chrome
 | bajoeadpdidoahbhphmhejmbdmgnbdci | YUYI-NewTab | In store but Suspicious | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | apoklfecapckgpbbcpaiebemaghmkncf | minitab | Malware | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Microsoft Edge
-| ambcheakfbokmebglefpbbphbccekhhl | GTab New Tab (with ChatGPT &amp; Claude 4.0) | Malware | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
+| ambcheakfbokmebglefpbbphbccekhhl | GTab New Tab (with ChatGPT & Claude 4.0) | Malware | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | ajfokipknlmjhcioemgnofkpmdnbaldi | Auto-join for Google Meet | Malware | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | aikflfpejipbpjdlfabpgclhblkpaafo | WeTab 新标签页 | Malware | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | aghafppaelpjbjajpgcogcojcbmappoi | V视频下载解析播放器 | Malware | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Microsoft Edge
 | agepkkdokhlaoiaenedmjbfnblfdiboc | One-click reading image (OCR) | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
-| aedgpiecagcpmehhelbibfbgpfiafdkm | GoToWebinar &amp; GoToMeeting Download Recordings | Policy Violation | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
+| aedgpiecagcpmehhelbibfbgpfiafdkm | GoToWebinar & GoToMeeting Download Recordings | Policy Violation | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | adjoknoacleghaejlggocbakidkoifle | Photon Bot | Policy Violation | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | pmjnfndhdjmocibhfoddhinhpgjpipjb | South Park Wallpaper | Policy Violation | Store Monitoring | 09/02/26 | No | Google Chrome
 | edieaiaimjhldokpcoalkfbeeeobaodc | South park | Policy Violation | Store Monitoring | 09/02/26 | No | Google Chrome
@@ -5861,7 +5870,7 @@
 | nfijbcmjagdmmkchgicfdidblofopkdp | Search with AI on Chrome™ | Malware | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | kbkajekcpifoekenleplhefobiponkmp | Deepseek Chat | Removal reason Unknown | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | hodafefeincjlgijbiabbmaffambjeaa | Grok Sidebar | Removal reason Unknown | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
-| mkhdiephfhifcgpmkaaboknnbdpjlneg | DeepSeek Assistant: AI Chat, Minibar, SidePanel &amp; Search | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
+| mkhdiephfhifcgpmkaaboknnbdpjlneg | DeepSeek Assistant: AI Chat, Minibar, SidePanel & Search | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | ifhigdhiifbnjanhacoedbadhmlkjgae | Chat with AI | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | hafhkoalnlpoifpidohfjlmeemfifndi | Grok AI | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | fgbieegonkgdlkmeaapmkejdlfalonkb | DeepSeek AI | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | Yes | Google Chrome
@@ -5871,7 +5880,7 @@
 | hiiildgldbpfbegcfgemoliikibfhaeh | ChatGPT to PDF | Removal reason Unknown | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | fmncmpginchogfdnjfeopdopoiegjjjp | Search GPT for Chrome | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | mehpokgiebgcnelgnlfkeldlfnpdhdha | ChatGPT Extension | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
-| feeonheemodpkdckaljcjogdncpiiban | Zuvu AI: The Ultimate AI Agent Sidebar for Google Search &amp; Beyond | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
+| feeonheemodpkdckaljcjogdncpiiban | Zuvu AI: The Ultimate AI Agent Sidebar for Google Search & Beyond | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | adjiljljjoeielcjmafljkicjncjpbha | DeepSeek app | Removal reason Unknown | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | giaooddllfkkkblpaedgkhfmhocponbo | DeepSeek v3 | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | npphdmcakmfhllhblkealgkeefamebih | AI Chatbot | Removal reason Unknown | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
@@ -5892,19 +5901,19 @@
 | behckapcoohededfbgjgkgefgkpodeho | Amazon Profit Calculator Lite | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | nipfdfkjnidadibpbflijepbllfkokac | Amazon Result Numbering | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | hkhmodcdjhcidbcncgmnknjppphcpgmh | Amazon Sticky Notes | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
-| ekomkpgkmieaaekmaldmaljljahehkoi | Amazon Keyword Density &amp; SEO Tool | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
+| ekomkpgkmieaaekmaldmaljljahehkoi | Amazon Keyword Density & SEO Tool | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | jaojpdijbaolkhkifpgbjnhfbmckoojh | Amazon Listing Score Checker | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | hkkkipfcdagiocekjdhobgmlkhejjfoj | Amazon Negative Review Highlighter | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | cpcojeeblggnjjgnpiicndnahfhjdobd | Amazon Image Downloader | Malware | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | gfdbbmngalhmegpkejhidhgdpmehlmnd | Amazon Keyword Cloud Generator | Malware | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | aohfjaadlbiifnnajpobdhokecjokhab | Amazon ASIN Copy | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | kppfbknppimnoociaomjcdgkebdmenkh | Amazon Price History Saver | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
-| johobikccpnmifjjpephegmfpipfbfme | Amazon Stock Checker &amp; 999 Trick | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
+| johobikccpnmifjjpephegmfpipfbfme | Amazon Stock Checker & 999 Trick | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | nigamacoibifjohkmepefofohfedblgg | Amazon Quick Brand Search | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | mnacfoefejolpobogooghoclppjcgfcm | Amazon Product Scraper \| 10X | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | dnmfcojgjchpjcmjgpgonmhccibjopnb | Amazon Search Suggestion | Malware | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | ljcgnobemekghgobhlplpehijemdgcgo | Amazon ASIN Lookup \| 10Xprofit | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
-| ahlnchhkedmjbdocaamkbmhppnligmoh | 10Xprofit - Amazon Seller Tools (FBA &amp; FBM) | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
+| ahlnchhkedmjbdocaamkbmhppnligmoh | 10Xprofit - Amazon Seller Tools (FBA & FBM) | In store but Suspicious | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking) | 02/02/26 | No | Google Chrome
 | ffodnimfejbfabkkmloghfafjmahejep | Crypto Whales \| Alert of Major Crypto Transactions | Malware | Store Monitoring | 31/01/26 | No | Google Chrome
 | nfclcncdkemmmhcbfglghbnloenkjjcl | Calendly House \| Meeting Notes | Malware | Store Monitoring | 31/01/26 | No | Google Chrome
 | ghoagfhlabpingcilncecimoegncljmd | Ledger AI Quiz | Malware | Store Monitoring | 31/01/26 | Yes | Google Chrome
@@ -5934,7 +5943,7 @@
 | ioaeacncbhpmlkediaagefiegegknglc | ChatGPT Prompt Manager, Folder, Library, Auto Send - ChatGPT Mods | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/) | 28/01/26 | No | Google Chrome
 | hfdpdgblphooommgcjdnnmhpglleaafj | ChatGPT Token counter - ChatGPT Mods | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/) | 28/01/26 | No | Google Chrome
 | hpcejjllhbalkcmdikecfngkepppoknd | Search with ChatGPT - ChatGPT Mods | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/) | 28/01/26 | No | Google Chrome
-| nhnfaiiobkpbenbbiblmgncgokeknnno | Multi-Profile Management &amp; Switching - ChatGPT Mods | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/) | 28/01/26 | No | Google Chrome
+| nhnfaiiobkpbenbbiblmgncgokeknnno | Multi-Profile Management & Switching - ChatGPT Mods | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/) | 28/01/26 | No | Google Chrome
 | lechagcebaneoafonkbfkljmbmaaoaec | Collapsed message - ChatGPT Mods | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/) | 28/01/26 | No | Google Chrome
 | mmjmcfaejolfbenlplfoihnobnggljij | Init Revoke Extension | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/) | 28/01/26 | No | Google Chrome
 | ipjgfhcjeckaibnohigmbcaonfcjepmb | ChatGPT search history, locate specific messages - ChatGPT Mods | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/) | 28/01/26 | No | Google Chrome
@@ -5988,7 +5997,7 @@
 | pdgghfndbkndiojjojcmbkfianekifna | Ledger Live Pro Extension | Malware | Store Monitoring | 07/01/26 | No | Google Chrome
 | opkbjlbkejhjmnchhlllccoglphmimdc | Init Revoke Extension | Malware | Store Monitoring | 07/01/26 | No | Google Chrome
 | inhcgfpbfdjbjogdfjbclgolkmhnooop | AI Sidebar with Deepseek, ChatGPT, Claude and more. | In store but Suspicious | [socradar.io](https://socradar.io/blog/chrome-extensions-steal-chatgpt-deepseek-chats/) | 07/01/26 | No | Google Chrome
-| fnmihdojmnkclgjpcoonokmkhjpjechg | Smart Sidebar: Chat GPT, Claude &amp; DeepSeek | In store but Suspicious | [socradar.io](https://socradar.io/blog/chrome-extensions-steal-chatgpt-deepseek-chats/) | 07/01/26 | No | Google Chrome
+| fnmihdojmnkclgjpcoonokmkhjpjechg | Smart Sidebar: Chat GPT, Claude & DeepSeek | In store but Suspicious | [socradar.io](https://socradar.io/blog/chrome-extensions-steal-chatgpt-deepseek-chats/) | 07/01/26 | No | Google Chrome
 | ljoinkecfhmbfehhdmnbpcdncbgkffgd | Noise-Less | Malware | Store Monitoring | 06/01/26 | No | Google Chrome
 | hmdhdelmoedfklkgbleddopfgacmhfik | Airdrop Radar | Malware | Store Monitoring | 06/01/26 | No | Google Chrome
 | ocpcmfmiidofonkbodpdhgddhlcmcofd | Phantom Shuttle | Removal reason Unknown | [socket.dev](https://socket.dev/blog/malicious-chrome-extensions-phantom-shuttle) | 22/12/25 | Yes | Google Chrome
@@ -6290,7 +6299,7 @@
 | dhhmopcmpiadcgchhhldcpoeppcofdic | Free VPN – Orchid \| Unlimited VPN | Bundling Unwanted Software | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | Yes | Google Chrome
 | nejfdccopmpimplhmmdfjobodgeaoihd | Free VPN – Raccoon \| Unlimited VPN | Bundling Unwanted Software | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No | Google Chrome
 | ohhhngpnknpdhmdmpmoccgjmmkkleipn | Meta Spy - Free Ad Spy tool for Facebook | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No | Google Chrome
-| odhmhkkhpibfjijmpgcdjondompgocog | Similar Net - Website Traffic &amp; SEO Checker | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No | Google Chrome
+| odhmhkkhpibfjijmpgcdjondompgocog | Similar Net - Website Traffic & SEO Checker | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No | Google Chrome
 | gdfjahfbaillhkeigeinoomhjnfajbon | Ad Vision – Free Ad Spy tool for Facebook | Policy Violation | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | Yes | Google Chrome
 | pbpobpjppnecgcinajfpaninmjkdbidm | Web Analytics – Website Traffic & SEO Checker | Bundling Unwanted Software | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | Yes | Google Chrome
 | ckcfkaikieiicfdeomgehmnjglnofhde | Crypto Whale Alert - Blockchain Transaction Data | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No | Google Chrome
@@ -6386,13 +6395,13 @@
 | bibjgkidgpfbblifamdlkdlhgihmfohh | AI Assistant ChatGPT and Gemini for Chrome | Malware | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | Yes | Google Chrome
 | egmennebgadmncfjafcemlecimkepcle | VidHelper - Video Download Helper | In store but Suspicious | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | No | Google Chrome
 | bbdnohkpnbkdkmnkddobeafboooinpla | Search Copilot AI Assistant for Chrome | Malware | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | Yes | Google Chrome
-| cedgndijpacnfbdggppddacngjfdkaca | WayinVideo - AI YouTube Summarizer &amp; Transcript Generator &amp; Moments | In store but Suspicious | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | No | Google Chrome
+| cedgndijpacnfbdggppddacngjfdkaca | WayinVideo - AI YouTube Summarizer &amp; Transcript Generator & Moments | In store but Suspicious | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | No | Google Chrome
 | mnhffkhmpnefgklngfmlndmkimimbphc | Castorus | In store but Suspicious | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | No | Google Chrome
 | acmfnomgphggonodopogfbmkneepfgnh | Bookmark Favicon Changer | In store but Suspicious | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | No | Google Chrome
-| dpggmcodlahmljkhlmpgpdcffdaoccni | Internxt VPN - Free, Encrypted &amp; Unlimited VPN | In store but Suspicious | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | No | Google Chrome
+| dpggmcodlahmljkhlmpgpdcffdaoccni | Internxt VPN - Free, Encrypted & Unlimited VPN | In store but Suspicious | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | No | Google Chrome
 | oaikpkmjciadfpddlpjjdapglcihgdle | Uvoice | In store but Suspicious | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | No | Google Chrome
 | kkodiihpgodmdankclfibbiphjkfdenh | ParrotTalks抄筆記 | In store but Suspicious | [blog.pulsedive.com](https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/) | 25/02/25 | No | Google Chrome
-| pjlheckmodimboibhpdcgkpkbpjfhooe | Font Expert: Identify Fonts from Images &amp; Websites | Removal reason Unknown | [gitlab-com.gitlab.io](https://gitlab-com.gitlab.io/gl-security/security-tech-notes/threat-intelligence-tech-notes/malicious-browser-extensions-feb-2025/) | 13/02/25 | No | Google Chrome
+| pjlheckmodimboibhpdcgkpkbpjfhooe | Font Expert: Identify Fonts from Images & Websites | Removal reason Unknown | [gitlab-com.gitlab.io](https://gitlab-com.gitlab.io/gl-security/security-tech-notes/threat-intelligence-tech-notes/malicious-browser-extensions-feb-2025/) | 13/02/25 | No | Google Chrome
 | gdocgbfmddcfnlnpmnghmjicjognhonm | KProxy | Malware | [gitlab-com.gitlab.io](https://gitlab-com.gitlab.io/gl-security/security-tech-notes/threat-intelligence-tech-notes/malicious-browser-extensions-feb-2025/) | 13/02/25 | Yes | Google Chrome
 | bpconcjcammlapcogcnnelfmaeghhagj | Nimble capture | Malware | [gitlab-com.gitlab.io](https://gitlab-com.gitlab.io/gl-security/security-tech-notes/threat-intelligence-tech-notes/malicious-browser-extensions-feb-2025/) | 13/02/25 | Yes | Google Chrome
 | onomjaelhagjjojbkcafidnepbfkpnee | Adblock for Chrome | Malware | [gitlab-com.gitlab.io](https://gitlab-com.gitlab.io/gl-security/security-tech-notes/threat-intelligence-tech-notes/malicious-browser-extensions-feb-2025/) | 13/02/25 | Yes | Google Chrome
@@ -6413,7 +6422,7 @@
 | pgejmpeimhjncennkkddmdknpgfblbcl | Camera Picture In Picture (PIP Overlay) | In store but Suspicious | [palant.info](https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/) | 20/01/25 | No | Google Chrome
 | njmhcidcdbaannpafjdljminaigdgolj | Noise Cancelling App | In store but Suspicious | [palant.info](https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/) | 20/01/25 | No | Google Chrome
 | mleflnbfifngdmiknggikhfmjjmioofi | LookGood Live | In store but Suspicious | [palant.info](https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/) | 20/01/25 | No | Google Chrome
-| iedbphhbpflhgpihkcceocomcdnemcbj | AI Webcam Effects + Recorder: Google Meet, Zoom, Discord &amp; Other Meetings | In store but Suspicious | [palant.info](https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/) | 20/01/25 | No | Google Chrome
+| iedbphhbpflhgpihkcceocomcdnemcbj | AI Webcam Effects + Recorder: Google Meet, Zoom, Discord & Other Meetings | In store but Suspicious | [palant.info](https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/) | 20/01/25 | No | Google Chrome
 | fklkhoeemdncdhacelfjeaajhfhoenaa | Halloween backgrounds and stickers for video calls and chats | Removal reason Unknown | [palant.info](https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/) | 20/01/25 | No | Google Chrome
 | bgnpgpfjdpmgfdegmmjdbppccdhjhdpe | Screen Recorder | In store but Suspicious | [palant.info](https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/) | 20/01/25 | No | Google Chrome
 | ocbfgbpocngolfigkhfehckgeihdhgll | Manual Finder 2024 | Removal reason Unknown | [palant.info](https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/) | 20/01/25 | Yes | Google Chrome
@@ -6443,11 +6452,11 @@
 | lbneaaedflankmgmfbmaplggbmjjmbae | ChatGPT App | Policy Violation | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
 | eaijffijbobmnonfhilihbejadplhddo | Web Mirror | Policy Violation | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
 | emedckhdnioeieppmeojgegjfkhdlaeo | Where is Cookie? | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
-| nnpnnpemnckcfdebeekibpiijlicmpom | VPNCity - Fast &amp; Unlimited VPN \| Unblocker | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
+| nnpnnpemnckcfdebeekibpiijlicmpom | VPNCity - Fast & Unlimited VPN \| Unblocker | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
 | befflofjcniongenjmbkgkoljhgliihe | TinaMind - The most powerful AI Assistant! | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
 | oeiomhmbaapihbilkfkhmlajkeegnjhe | Primus | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
 | llimhhconnjiflfimocjggfjdlmlhblm | Reader Mode | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
-| cplhlgabfijoiabgkigdafklbhhdkahj | Vidnoz Flex - Video recorder &amp; Video share | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
+| cplhlgabfijoiabgkigdafklbhhdkahj | Vidnoz Flex - Video recorder & Video share | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
 | jiofmdifioeejeilfkpegipdjiopiekl | YesCaptcha assistant | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
 | hihblcmlaaademjlakdpicchbjnnnkbo | Proxy SwitchyOmega (V3) | In store but Suspicious | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) | 08/01/25 | No | Google Chrome
 | nlcebdoehkdiojeahkofcfnolkleembf | Clean Master: the best Edge Cache Cleaner | Removal reason Unknown | Store Monitoring | 17/11/24 | No | Microsoft Edge
