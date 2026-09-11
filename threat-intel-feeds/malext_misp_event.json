@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-10",
-    "timestamp": "1789029821",
+    "date": "2026-09-11",
+    "timestamp": "1789119921",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -28,12 +28,313 @@
     ],
     "Attribute": [
       {
+        "uuid": "602d4a75-fcf4-503e-bef7-612d81a6190e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abmdhhfbjcbloljngggdajoikodeabcc",
+        "comment": "Doom Element | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "209b17c4-01a9-5e12-8d1c-445023ca3177",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abmdhhfbjcbloljngggdajoikodeabcc",
+        "comment": "Chrome Web Store entry for Doom Element (abmdhhfbjcbloljngggdajoikodeabcc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c32c7a36-8106-5ed7-985f-7926276f0cad",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3030d53f5583f16496a98684cef43b1349f411d2ea33fe135d82dce9b9b723c9",
+        "comment": "SHA-256 of extension package for Doom Element (abmdhhfbjcbloljngggdajoikodeabcc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f71cb5c3-3845-5699-8099-6d211520e563",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cnfnakdefmbdddpeihibplijgkodbglb",
+        "comment": "Starfield 4K | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6b37d740-6e86-560a-8e0c-097f07ae5343",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cnfnakdefmbdddpeihibplijgkodbglb",
+        "comment": "Chrome Web Store entry for Starfield 4K (cnfnakdefmbdddpeihibplijgkodbglb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "63f63f81-1561-54df-9d39-a9b0514697c1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9c0b68ec43134bd3a758bac77b250bac042850ba701db545f507376bf185ff24",
+        "comment": "SHA-256 of extension package for Starfield 4K (cnfnakdefmbdddpeihibplijgkodbglb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b618596d-852b-50b6-914c-586d234d3e77",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ifeadllngfmlpefehpakbijkcffjpbac",
+        "comment": "Elder Scrolls Online Soulburst Theme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6480711d-99bc-53e9-9bf7-be268d279446",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ifeadllngfmlpefehpakbijkcffjpbac",
+        "comment": "Chrome Web Store entry for Elder Scrolls Online Soulburst Theme (ifeadllngfmlpefehpakbijkcffjpbac)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ab3eb8ab-39c8-5d78-8523-f682e3e9cc8f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0b4b5f05ea27460e9e9405c79f38fe567c962d1ea006e7dd293dae1474fd0c1f",
+        "comment": "SHA-256 of extension package for Elder Scrolls Online Soulburst Theme (ifeadllngfmlpefehpakbijkcffjpbac)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "abaed6b6-fabd-5ae6-844b-470bbb189807",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jlojplebdgbjllmagfjdmnjkmcpeoeol",
+        "comment": "Page Summarizer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "52011ff6-21d3-5b62-a861-15c71bc412fb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jlojplebdgbjllmagfjdmnjkmcpeoeol",
+        "comment": "Chrome Web Store entry for Page Summarizer (jlojplebdgbjllmagfjdmnjkmcpeoeol)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b5db8d58-24f0-5136-a882-191465208fec",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b65a17da914a0a414151d080a3eef7d80f52cb27913d2e7bef0c20bfb48f7c9c",
+        "comment": "SHA-256 of extension package for Page Summarizer (jlojplebdgbjllmagfjdmnjkmcpeoeol)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "76cc2b86-011d-584d-89ad-ea51f95687b5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nmkhomipjojbiocbghjmccgjpfogdcnn",
+        "comment": "The Elder Scrolls Online | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bbb9ef93-3c5d-5f33-a667-1f1704c1d875",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nmkhomipjojbiocbghjmccgjpfogdcnn",
+        "comment": "Chrome Web Store entry for The Elder Scrolls Online (nmkhomipjojbiocbghjmccgjpfogdcnn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0f327242-dadf-5399-bab5-31a5964350d7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "493d34e8ed9c4768e278a3ad410fa22e6caac9058feeefe300e7a897652bfd12",
+        "comment": "SHA-256 of extension package for The Elder Scrolls Online (nmkhomipjojbiocbghjmccgjpfogdcnn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bbaec52c-119a-54e2-b287-a084ff817535",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kpgbdepodmebeljbodlgalpofpoednme",
+        "comment": "The Elder Scrolls Online | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "53f95ff2-4df6-5733-9219-213f222ae68b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kpgbdepodmebeljbodlgalpofpoednme",
+        "comment": "Chrome Web Store entry for The Elder Scrolls Online (kpgbdepodmebeljbodlgalpofpoednme)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "91cf49fe-a532-5d19-bd5c-d76610953a6e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "73d601cb6ff88abf5e3bcbaf156a83275e05cd623a6e27e0a12bf5ed122838f8",
+        "comment": "SHA-256 of extension package for The Elder Scrolls Online (kpgbdepodmebeljbodlgalpofpoednme)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bcffa67d-8f85-5310-8c96-12e82d42f3a4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "peioojhnmijhjoikobgepmmddfnhamlm",
+        "comment": "Fallout 4 Fallout: New Vegas Fallout 3 Bethes | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e4d16d91-2c72-592d-b2e5-e9c7eae61c45",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/peioojhnmijhjoikobgepmmddfnhamlm",
+        "comment": "Chrome Web Store entry for Fallout 4 Fallout: New Vegas Fallout 3 Bethes (peioojhnmijhjoikobgepmmddfnhamlm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7f262860-5a3b-577d-be8f-80ea00d90330",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "74b21ecbcdd6d9ad52de4f920d4487d5322c53722518a989b64ad614c2dba7fa",
+        "comment": "SHA-256 of extension package for Fallout 4 Fallout: New Vegas Fallout 3 Bethes (peioojhnmijhjoikobgepmmddfnhamlm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "b6680584-df20-5910-a35c-f4553e3b6db6",
         "type": "text",
         "category": "Other",
         "to_ids": false,
         "value": "niaenblglpcfcdjocpincoekkgfcceke",
-        "comment": "GoFullPage - Full Page Screenshot &amp; Editor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
+        "comment": "GoFullPage - Full Page Screenshot & Editor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-10",
         "distribution": "5",
         "Tag": [
           {
@@ -53,7 +354,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/niaenblglpcfcdjocpincoekkgfcceke",
-        "comment": "Chrome Web Store entry for GoFullPage - Full Page Screenshot &amp; Editor (niaenblglpcfcdjocpincoekkgfcceke)",
+        "comment": "Chrome Web Store entry for GoFullPage - Full Page Screenshot & Editor (niaenblglpcfcdjocpincoekkgfcceke)",
         "distribution": "5"
       },
       {
@@ -62,7 +363,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "3603e7ddb7ae2c50d34c6a4fa25cd52d525b46332991f575f54f14306b514300",
-        "comment": "SHA-256 of extension package for GoFullPage - Full Page Screenshot &amp; Editor (niaenblglpcfcdjocpincoekkgfcceke)",
+        "comment": "SHA-256 of extension package for GoFullPage - Full Page Screenshot & Editor (niaenblglpcfcdjocpincoekkgfcceke)",
         "distribution": "5",
         "Tag": [
           {
@@ -1181,6 +1482,49 @@
         "to_ids": true,
         "value": "3fa39427caad09035f2a7a971aa837cd1e2bd1b4feb6ed3565e722b51118f66c",
         "comment": "SHA-256 of extension package for Timer Clock Extension (gjlnchomjihmkokcnlolceldlkjaageg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d4878c96-b7c4-58fb-8864-4eebdf5983d6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "edfckhkancehgepjlohhbemjpjljckii",
+        "comment": "Vodsspace Companion | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-07",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "146093a1-cc78-56a7-9915-320553776041",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/edfckhkancehgepjlohhbemjpjljckii",
+        "comment": "Chrome Web Store entry for Vodsspace Companion (edfckhkancehgepjlohhbemjpjljckii)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "55ac8007-ba46-5f09-a7b3-76c2625fef2f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c2ea0842de9466b4f4b8758d4efeaf56a3311d54935e2f2e27a804f928db6055",
+        "comment": "SHA-256 of extension package for Vodsspace Companion (edfckhkancehgepjlohhbemjpjljckii)",
         "distribution": "5",
         "Tag": [
           {
@@ -20026,7 +20370,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "pmlpakmfnfendcfkpckbohdeajlnhgkh",
-        "comment": "Instagram Auto Follow &amp; Unfollow by InGage | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-01",
+        "comment": "Instagram Auto Follow & Unfollow by InGage | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-01",
         "distribution": "5",
         "Tag": [
           {
@@ -20046,7 +20390,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/pmlpakmfnfendcfkpckbohdeajlnhgkh",
-        "comment": "Chrome Web Store entry for Instagram Auto Follow &amp; Unfollow by InGage (pmlpakmfnfendcfkpckbohdeajlnhgkh)",
+        "comment": "Chrome Web Store entry for Instagram Auto Follow & Unfollow by InGage (pmlpakmfnfendcfkpckbohdeajlnhgkh)",
         "distribution": "5"
       },
       {
@@ -20055,7 +20399,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "484e9a36d079dfd854fb3a35fe44e83938541f2aaed5b0e2142a42c993623ed5",
-        "comment": "SHA-256 of extension package for Instagram Auto Follow &amp; Unfollow by InGage (pmlpakmfnfendcfkpckbohdeajlnhgkh)",
+        "comment": "SHA-256 of extension package for Instagram Auto Follow & Unfollow by InGage (pmlpakmfnfendcfkpckbohdeajlnhgkh)",
         "distribution": "5",
         "Tag": [
           {
@@ -22234,7 +22578,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "inmkjedjdhgpknjogbjomhnbgdccckkg",
-        "comment": "Allow Copy - Select &amp; Enable Right Click | Source: https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise | Store: Microsoft Edge | Added: 2026-08-28",
+        "comment": "Allow Copy - Select & Enable Right Click | Source: https://socket.dev/blog/chrome-edge-extension-wallet-drainer#Indicators-of-Compromise | Store: Microsoft Edge | Added: 2026-08-28",
         "distribution": "5",
         "Tag": [
           {
@@ -22254,7 +22598,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/inmkjedjdhgpknjogbjomhnbgdccckkg",
-        "comment": "Microsoft Edge entry for Allow Copy - Select &amp; Enable Right Click (inmkjedjdhgpknjogbjomhnbgdccckkg)",
+        "comment": "Microsoft Edge entry for Allow Copy - Select & Enable Right Click (inmkjedjdhgpknjogbjomhnbgdccckkg)",
         "distribution": "5"
       },
       {
@@ -22263,7 +22607,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "a21756e8c4e0e1f73f18a1ab8e0393ba38407d03263dfba83e76242d5f5f1181",
-        "comment": "SHA-256 of extension package for Allow Copy - Select &amp; Enable Right Click (inmkjedjdhgpknjogbjomhnbgdccckkg)",
+        "comment": "SHA-256 of extension package for Allow Copy - Select & Enable Right Click (inmkjedjdhgpknjogbjomhnbgdccckkg)",
         "distribution": "5",
         "Tag": [
           {
@@ -23046,12 +23390,55 @@
         ]
       },
       {
+        "uuid": "395c6088-de51-54e2-b240-5d2b8bedcde1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lpokjkoemgmmacpocfjecamnoheidcfd",
+        "comment": "Wolfenstein 3D Game | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-26",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bf0c8631-f784-535c-8a83-83abe4b06798",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lpokjkoemgmmacpocfjecamnoheidcfd",
+        "comment": "Chrome Web Store entry for Wolfenstein 3D Game (lpokjkoemgmmacpocfjecamnoheidcfd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "325cf8d3-ec4b-5e31-ab9a-b03928f16cd9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "612db2cefb0125073d926a682adece55605e4891ceab49e34232fa84c6e68a8a",
+        "comment": "SHA-256 of extension package for Wolfenstein 3D Game (lpokjkoemgmmacpocfjecamnoheidcfd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "c1d9cdb9-d7e9-59d5-8f76-42ef0f0199ae",
         "type": "text",
         "category": "Other",
         "to_ids": false,
         "value": "ialabgnikmojmnhoahngjiegigmfhghd",
-        "comment": "Instagram Follower Tracker &amp; Auto Follow | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-26",
+        "comment": "Instagram Follower Tracker & Auto Follow | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-26",
         "distribution": "5",
         "Tag": [
           {
@@ -23071,7 +23458,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/ialabgnikmojmnhoahngjiegigmfhghd",
-        "comment": "Chrome Web Store entry for Instagram Follower Tracker &amp; Auto Follow (ialabgnikmojmnhoahngjiegigmfhghd)",
+        "comment": "Chrome Web Store entry for Instagram Follower Tracker & Auto Follow (ialabgnikmojmnhoahngjiegigmfhghd)",
         "distribution": "5"
       },
       {
@@ -23080,7 +23467,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "57c1b0a9b75766149cbbbeeb0e80cecc8233ccbc55c97f002d0c9783d5710c04",
-        "comment": "SHA-256 of extension package for Instagram Follower Tracker &amp; Auto Follow (ialabgnikmojmnhoahngjiegigmfhghd)",
+        "comment": "SHA-256 of extension package for Instagram Follower Tracker & Auto Follow (ialabgnikmojmnhoahngjiegigmfhghd)",
         "distribution": "5",
         "Tag": [
           {
@@ -156039,7 +156426,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "fljmegmgjebjdionedkjfgffikhnmcgg",
-        "comment": "! Spell &amp; Grammar Check Tool | Source: https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf | Store: Microsoft Edge | Added: 2026-06-29",
+        "comment": "! Spell & Grammar Check Tool | Source: https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf | Store: Microsoft Edge | Added: 2026-06-29",
         "distribution": "5",
         "Tag": [
           {
@@ -156059,7 +156446,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/fljmegmgjebjdionedkjfgffikhnmcgg",
-        "comment": "Microsoft Edge entry for ! Spell &amp; Grammar Check Tool (fljmegmgjebjdionedkjfgffikhnmcgg)",
+        "comment": "Microsoft Edge entry for ! Spell & Grammar Check Tool (fljmegmgjebjdionedkjfgffikhnmcgg)",
         "distribution": "5"
       },
       {
@@ -157328,7 +157715,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "nlapjaaepfeadiecaipnacimidfjginj",
-        "comment": "Focus To-Do: Pomodoro Timer &amp; To Do List | Source: https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf | Store: Microsoft Edge | Added: 2026-06-29",
+        "comment": "Focus To-Do: Pomodoro Timer & To Do List | Source: https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf | Store: Microsoft Edge | Added: 2026-06-29",
         "distribution": "5",
         "Tag": [
           {
@@ -157348,7 +157735,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/nlapjaaepfeadiecaipnacimidfjginj",
-        "comment": "Microsoft Edge entry for Focus To-Do: Pomodoro Timer &amp; To Do List (nlapjaaepfeadiecaipnacimidfjginj)",
+        "comment": "Microsoft Edge entry for Focus To-Do: Pomodoro Timer & To Do List (nlapjaaepfeadiecaipnacimidfjginj)",
         "distribution": "5"
       },
       {
@@ -157705,7 +158092,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "oiolhdeinoaidggfcpebifcbedppbgog",
-        "comment": "Video &amp; MP3 Downloader | Source: https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf | Store: Microsoft Edge | Added: 2026-06-29",
+        "comment": "Video & MP3 Downloader | Source: https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf | Store: Microsoft Edge | Added: 2026-06-29",
         "distribution": "5",
         "Tag": [
           {
@@ -157725,7 +158112,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/oiolhdeinoaidggfcpebifcbedppbgog",
-        "comment": "Microsoft Edge entry for Video &amp; MP3 Downloader (oiolhdeinoaidggfcpebifcbedppbgog)",
+        "comment": "Microsoft Edge entry for Video & MP3 Downloader (oiolhdeinoaidggfcpebifcbedppbgog)",
         "distribution": "5"
       },
       {
@@ -157821,7 +158208,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "nhjdhmbdahdidccpobobccagmmijndmp",
-        "comment": "Gmail Checker - Read, Label &amp; Manage | Source: https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf | Store: Microsoft Edge | Added: 2026-06-29",
+        "comment": "Gmail Checker - Read, Label & Manage | Source: https://microsoftedge.github.io/edgevr/assets/files/stego_ad/Microsoft_Edge_Security_StegoAd.pdf | Store: Microsoft Edge | Added: 2026-06-29",
         "distribution": "5",
         "Tag": [
           {
@@ -157841,7 +158228,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://microsoftedge.microsoft.com/addons/detail/nhjdhmbdahdidccpobobccagmmijndmp",
-        "comment": "Microsoft Edge entry for Gmail Checker - Read, Label &amp; Manage (nhjdhmbdahdidccpobobccagmmijndmp)",
+        "comment": "Microsoft Edge entry for Gmail Checker - Read, Label & Manage (nhjdhmbdahdidccpobobccagmmijndmp)",
         "distribution": "5"
       },
       {
@@ -236909,7 +237296,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "ambcheakfbokmebglefpbbphbccekhhl",
-        "comment": "GTab New Tab (with ChatGPT &amp; Claude 4.0) | Source: https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers | Store: Google Chrome | Added: 2026-02-10",
+        "comment": "GTab New Tab (with ChatGPT & Claude 4.0) | Source: https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers | Store: Google Chrome | Added: 2026-02-10",
         "distribution": "5",
         "Tag": [
           {
@@ -236929,7 +237316,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/ambcheakfbokmebglefpbbphbccekhhl",
-        "comment": "Chrome Web Store entry for GTab New Tab (with ChatGPT &amp; Claude 4.0) (ambcheakfbokmebglefpbbphbccekhhl)",
+        "comment": "Chrome Web Store entry for GTab New Tab (with ChatGPT & Claude 4.0) (ambcheakfbokmebglefpbbphbccekhhl)",
         "distribution": "5"
       },
       {
@@ -236938,7 +237325,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "84d4d14d692f541df023fc30d9e458f76f5a440a6ce1776ab6c07f01b92510c8",
-        "comment": "SHA-256 of extension package for GTab New Tab (with ChatGPT &amp; Claude 4.0) (ambcheakfbokmebglefpbbphbccekhhl)",
+        "comment": "SHA-256 of extension package for GTab New Tab (with ChatGPT & Claude 4.0) (ambcheakfbokmebglefpbbphbccekhhl)",
         "distribution": "5",
         "Tag": [
           {
@@ -237096,7 +237483,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "aedgpiecagcpmehhelbibfbgpfiafdkm",
-        "comment": "GoToWebinar &amp; GoToMeeting Download Recordings | Source: https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers | Store: Google Chrome | Added: 2026-02-10",
+        "comment": "GoToWebinar & GoToMeeting Download Recordings | Source: https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers | Store: Google Chrome | Added: 2026-02-10",
         "distribution": "5",
         "Tag": [
           {
@@ -237116,7 +237503,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/aedgpiecagcpmehhelbibfbgpfiafdkm",
-        "comment": "Chrome Web Store entry for GoToWebinar &amp; GoToMeeting Download Recordings (aedgpiecagcpmehhelbibfbgpfiafdkm)",
+        "comment": "Chrome Web Store entry for GoToWebinar & GoToMeeting Download Recordings (aedgpiecagcpmehhelbibfbgpfiafdkm)",
         "distribution": "5"
       },
       {
@@ -238168,7 +238555,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "mkhdiephfhifcgpmkaaboknnbdpjlneg",
-        "comment": "DeepSeek Assistant: AI Chat, Minibar, SidePanel &amp; Search | Source: https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys | Store: Google Chrome | Added: 2026-02-04",
+        "comment": "DeepSeek Assistant: AI Chat, Minibar, SidePanel & Search | Source: https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys | Store: Google Chrome | Added: 2026-02-04",
         "distribution": "5",
         "Tag": [
           {
@@ -238188,7 +238575,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/mkhdiephfhifcgpmkaaboknnbdpjlneg",
-        "comment": "Chrome Web Store entry for DeepSeek Assistant: AI Chat, Minibar, SidePanel &amp; Search (mkhdiephfhifcgpmkaaboknnbdpjlneg)",
+        "comment": "Chrome Web Store entry for DeepSeek Assistant: AI Chat, Minibar, SidePanel & Search (mkhdiephfhifcgpmkaaboknnbdpjlneg)",
         "distribution": "5"
       },
       {
@@ -238197,7 +238584,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "86007f7c05bde2eeca7dd2e95a8d07da0d8129bce151343eb87ba6beed9c8ee7",
-        "comment": "SHA-256 of extension package for DeepSeek Assistant: AI Chat, Minibar, SidePanel &amp; Search (mkhdiephfhifcgpmkaaboknnbdpjlneg)",
+        "comment": "SHA-256 of extension package for DeepSeek Assistant: AI Chat, Minibar, SidePanel & Search (mkhdiephfhifcgpmkaaboknnbdpjlneg)",
         "distribution": "5",
         "Tag": [
           {
@@ -238584,7 +238971,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "feeonheemodpkdckaljcjogdncpiiban",
-        "comment": "Zuvu AI: The Ultimate AI Agent Sidebar for Google Search &amp; Beyond | Source: https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys | Store: Google Chrome | Added: 2026-02-04",
+        "comment": "Zuvu AI: The Ultimate AI Agent Sidebar for Google Search & Beyond | Source: https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys | Store: Google Chrome | Added: 2026-02-04",
         "distribution": "5",
         "Tag": [
           {
@@ -238604,7 +238991,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/feeonheemodpkdckaljcjogdncpiiban",
-        "comment": "Chrome Web Store entry for Zuvu AI: The Ultimate AI Agent Sidebar for Google Search &amp; Beyond (feeonheemodpkdckaljcjogdncpiiban)",
+        "comment": "Chrome Web Store entry for Zuvu AI: The Ultimate AI Agent Sidebar for Google Search & Beyond (feeonheemodpkdckaljcjogdncpiiban)",
         "distribution": "5"
       },
       {
@@ -238613,7 +239000,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "25fa60897409cf44efc5b09f18fadec7dffe346b6f0a625b14fe4463ca7d49d1",
-        "comment": "SHA-256 of extension package for Zuvu AI: The Ultimate AI Agent Sidebar for Google Search &amp; Beyond (feeonheemodpkdckaljcjogdncpiiban)",
+        "comment": "SHA-256 of extension package for Zuvu AI: The Ultimate AI Agent Sidebar for Google Search & Beyond (feeonheemodpkdckaljcjogdncpiiban)",
         "distribution": "5",
         "Tag": [
           {
@@ -239431,7 +239818,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "ekomkpgkmieaaekmaldmaljljahehkoi",
-        "comment": "Amazon Keyword Density &amp; SEO Tool | Source: https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking | Store: Google Chrome | Added: 2026-02-02",
+        "comment": "Amazon Keyword Density & SEO Tool | Source: https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking | Store: Google Chrome | Added: 2026-02-02",
         "distribution": "5",
         "Tag": [
           {
@@ -239451,7 +239838,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/ekomkpgkmieaaekmaldmaljljahehkoi",
-        "comment": "Chrome Web Store entry for Amazon Keyword Density &amp; SEO Tool (ekomkpgkmieaaekmaldmaljljahehkoi)",
+        "comment": "Chrome Web Store entry for Amazon Keyword Density & SEO Tool (ekomkpgkmieaaekmaldmaljljahehkoi)",
         "distribution": "5"
       },
       {
@@ -239460,7 +239847,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "93213cb053a45ea805984d9b6b55d80e7617dbb8005eec31ae360778fdc252d0",
-        "comment": "SHA-256 of extension package for Amazon Keyword Density &amp; SEO Tool (ekomkpgkmieaaekmaldmaljljahehkoi)",
+        "comment": "SHA-256 of extension package for Amazon Keyword Density & SEO Tool (ekomkpgkmieaaekmaldmaljljahehkoi)",
         "distribution": "5",
         "Tag": [
           {
@@ -239732,7 +240119,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "johobikccpnmifjjpephegmfpipfbfme",
-        "comment": "Amazon Stock Checker &amp; 999 Trick | Source: https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking | Store: Google Chrome | Added: 2026-02-02",
+        "comment": "Amazon Stock Checker & 999 Trick | Source: https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking | Store: Google Chrome | Added: 2026-02-02",
         "distribution": "5",
         "Tag": [
           {
@@ -239752,7 +240139,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/johobikccpnmifjjpephegmfpipfbfme",
-        "comment": "Chrome Web Store entry for Amazon Stock Checker &amp; 999 Trick (johobikccpnmifjjpephegmfpipfbfme)",
+        "comment": "Chrome Web Store entry for Amazon Stock Checker & 999 Trick (johobikccpnmifjjpephegmfpipfbfme)",
         "distribution": "5"
       },
       {
@@ -239761,7 +240148,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "895c3232f1fe680e7dd1fc48a9763ddc1550f009f568c224aaaf768513734add",
-        "comment": "SHA-256 of extension package for Amazon Stock Checker &amp; 999 Trick (johobikccpnmifjjpephegmfpipfbfme)",
+        "comment": "SHA-256 of extension package for Amazon Stock Checker & 999 Trick (johobikccpnmifjjpephegmfpipfbfme)",
         "distribution": "5",
         "Tag": [
           {
@@ -239947,7 +240334,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "ahlnchhkedmjbdocaamkbmhppnligmoh",
-        "comment": "10Xprofit - Amazon Seller Tools (FBA &amp; FBM) | Source: https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking | Store: Google Chrome | Added: 2026-02-02",
+        "comment": "10Xprofit - Amazon Seller Tools (FBA & FBM) | Source: https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking | Store: Google Chrome | Added: 2026-02-02",
         "distribution": "5",
         "Tag": [
           {
@@ -239967,7 +240354,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/ahlnchhkedmjbdocaamkbmhppnligmoh",
-        "comment": "Chrome Web Store entry for 10Xprofit - Amazon Seller Tools (FBA &amp; FBM) (ahlnchhkedmjbdocaamkbmhppnligmoh)",
+        "comment": "Chrome Web Store entry for 10Xprofit - Amazon Seller Tools (FBA & FBM) (ahlnchhkedmjbdocaamkbmhppnligmoh)",
         "distribution": "5"
       },
       {
@@ -239976,7 +240363,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "ad7b8c547722052facc8808edcae2f8c9361f5ac9326e7f8820eddbc5061dbc1",
-        "comment": "SHA-256 of extension package for 10Xprofit - Amazon Seller Tools (FBA &amp; FBM) (ahlnchhkedmjbdocaamkbmhppnligmoh)",
+        "comment": "SHA-256 of extension package for 10Xprofit - Amazon Seller Tools (FBA & FBM) (ahlnchhkedmjbdocaamkbmhppnligmoh)",
         "distribution": "5",
         "Tag": [
           {
@@ -240859,7 +241246,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "nhnfaiiobkpbenbbiblmgncgokeknnno",
-        "comment": "Multi-Profile Management &amp; Switching - ChatGPT Mods | Source: https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/ | Store: Google Chrome | Added: 2026-01-28",
+        "comment": "Multi-Profile Management & Switching - ChatGPT Mods | Source: https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/ | Store: Google Chrome | Added: 2026-01-28",
         "distribution": "5",
         "Tag": [
           {
@@ -240879,7 +241266,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/nhnfaiiobkpbenbbiblmgncgokeknnno",
-        "comment": "Chrome Web Store entry for Multi-Profile Management &amp; Switching - ChatGPT Mods (nhnfaiiobkpbenbbiblmgncgokeknnno)",
+        "comment": "Chrome Web Store entry for Multi-Profile Management & Switching - ChatGPT Mods (nhnfaiiobkpbenbbiblmgncgokeknnno)",
         "distribution": "5"
       },
       {
@@ -242439,7 +242826,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "fnmihdojmnkclgjpcoonokmkhjpjechg",
-        "comment": "Smart Sidebar: Chat GPT, Claude &amp; DeepSeek | Source: https://socradar.io/blog/chrome-extensions-steal-chatgpt-deepseek-chats/ | Store: Google Chrome | Added: 2026-01-07",
+        "comment": "Smart Sidebar: Chat GPT, Claude & DeepSeek | Source: https://socradar.io/blog/chrome-extensions-steal-chatgpt-deepseek-chats/ | Store: Google Chrome | Added: 2026-01-07",
         "distribution": "5",
         "Tag": [
           {
@@ -242459,7 +242846,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/fnmihdojmnkclgjpcoonokmkhjpjechg",
-        "comment": "Chrome Web Store entry for Smart Sidebar: Chat GPT, Claude &amp; DeepSeek (fnmihdojmnkclgjpcoonokmkhjpjechg)",
+        "comment": "Chrome Web Store entry for Smart Sidebar: Chat GPT, Claude & DeepSeek (fnmihdojmnkclgjpcoonokmkhjpjechg)",
         "distribution": "5"
       },
       {
@@ -242468,7 +242855,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "12a88a1a69580c0b10b65abac70af53b0634db5e29e635e00dcfdbec65555d46",
-        "comment": "SHA-256 of extension package for Smart Sidebar: Chat GPT, Claude &amp; DeepSeek (fnmihdojmnkclgjpcoonokmkhjpjechg)",
+        "comment": "SHA-256 of extension package for Smart Sidebar: Chat GPT, Claude & DeepSeek (fnmihdojmnkclgjpcoonokmkhjpjechg)",
         "distribution": "5",
         "Tag": [
           {
@@ -252359,7 +252746,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "odhmhkkhpibfjijmpgcdjondompgocog",
-        "comment": "Similar Net - Website Traffic &amp; SEO Checker | Source: https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/ | Store: Google Chrome | Added: 2025-05-22",
+        "comment": "Similar Net - Website Traffic & SEO Checker | Source: https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/ | Store: Google Chrome | Added: 2025-05-22",
         "distribution": "5",
         "Tag": [
           {
@@ -252379,7 +252766,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/odhmhkkhpibfjijmpgcdjondompgocog",
-        "comment": "Chrome Web Store entry for Similar Net - Website Traffic &amp; SEO Checker (odhmhkkhpibfjijmpgcdjondompgocog)",
+        "comment": "Chrome Web Store entry for Similar Net - Website Traffic & SEO Checker (odhmhkkhpibfjijmpgcdjondompgocog)",
         "distribution": "5"
       },
       {
@@ -255297,7 +255684,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "cedgndijpacnfbdggppddacngjfdkaca",
-        "comment": "WayinVideo - AI YouTube Summarizer &amp; Transcript Generator &amp; Moments | Source: https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/ | Store: Google Chrome | Added: 2025-02-25",
+        "comment": "WayinVideo - AI YouTube Summarizer &amp; Transcript Generator & Moments | Source: https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/ | Store: Google Chrome | Added: 2025-02-25",
         "distribution": "5",
         "Tag": [
           {
@@ -255317,7 +255704,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/cedgndijpacnfbdggppddacngjfdkaca",
-        "comment": "Chrome Web Store entry for WayinVideo - AI YouTube Summarizer &amp; Transcript Generator &amp; Moments (cedgndijpacnfbdggppddacngjfdkaca)",
+        "comment": "Chrome Web Store entry for WayinVideo - AI YouTube Summarizer &amp; Transcript Generator & Moments (cedgndijpacnfbdggppddacngjfdkaca)",
         "distribution": "5"
       },
       {
@@ -255326,7 +255713,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "3eda175fb1d6ffec0cca7b5bd2476bc379cc6ddf2c442b9544ed0e95f2aec8dc",
-        "comment": "SHA-256 of extension package for WayinVideo - AI YouTube Summarizer &amp; Transcript Generator &amp; Moments (cedgndijpacnfbdggppddacngjfdkaca)",
+        "comment": "SHA-256 of extension package for WayinVideo - AI YouTube Summarizer &amp; Transcript Generator & Moments (cedgndijpacnfbdggppddacngjfdkaca)",
         "distribution": "5",
         "Tag": [
           {
@@ -255426,7 +255813,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "dpggmcodlahmljkhlmpgpdcffdaoccni",
-        "comment": "Internxt VPN - Free, Encrypted &amp; Unlimited VPN | Source: https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/ | Store: Google Chrome | Added: 2025-02-25",
+        "comment": "Internxt VPN - Free, Encrypted & Unlimited VPN | Source: https://blog.pulsedive.com/compromised-browser-extensions-a-growing-threat-vector/ | Store: Google Chrome | Added: 2025-02-25",
         "distribution": "5",
         "Tag": [
           {
@@ -255446,7 +255833,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/dpggmcodlahmljkhlmpgpdcffdaoccni",
-        "comment": "Chrome Web Store entry for Internxt VPN - Free, Encrypted &amp; Unlimited VPN (dpggmcodlahmljkhlmpgpdcffdaoccni)",
+        "comment": "Chrome Web Store entry for Internxt VPN - Free, Encrypted & Unlimited VPN (dpggmcodlahmljkhlmpgpdcffdaoccni)",
         "distribution": "5"
       },
       {
@@ -255455,7 +255842,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "df510feba4e9a578f49643c71376d14f501c8f9e3d4139100d07b3e5305db676",
-        "comment": "SHA-256 of extension package for Internxt VPN - Free, Encrypted &amp; Unlimited VPN (dpggmcodlahmljkhlmpgpdcffdaoccni)",
+        "comment": "SHA-256 of extension package for Internxt VPN - Free, Encrypted & Unlimited VPN (dpggmcodlahmljkhlmpgpdcffdaoccni)",
         "distribution": "5",
         "Tag": [
           {
@@ -255555,7 +255942,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "pjlheckmodimboibhpdcgkpkbpjfhooe",
-        "comment": "Font Expert: Identify Fonts from Images &amp; Websites | Source: https://gitlab-com.gitlab.io/gl-security/security-tech-notes/threat-intelligence-tech-notes/malicious-browser-extensions-feb-2025/ | Store: Google Chrome | Added: 2025-02-13",
+        "comment": "Font Expert: Identify Fonts from Images & Websites | Source: https://gitlab-com.gitlab.io/gl-security/security-tech-notes/threat-intelligence-tech-notes/malicious-browser-extensions-feb-2025/ | Store: Google Chrome | Added: 2025-02-13",
         "distribution": "5",
         "Tag": [
           {
@@ -255575,7 +255962,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/pjlheckmodimboibhpdcgkpkbpjfhooe",
-        "comment": "Chrome Web Store entry for Font Expert: Identify Fonts from Images &amp; Websites (pjlheckmodimboibhpdcgkpkbpjfhooe)",
+        "comment": "Chrome Web Store entry for Font Expert: Identify Fonts from Images & Websites (pjlheckmodimboibhpdcgkpkbpjfhooe)",
         "distribution": "5"
       },
       {
@@ -256220,7 +256607,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "iedbphhbpflhgpihkcceocomcdnemcbj",
-        "comment": "AI Webcam Effects + Recorder: Google Meet, Zoom, Discord &amp; Other Meetings | Source: https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/ | Store: Google Chrome | Added: 2025-01-20",
+        "comment": "AI Webcam Effects + Recorder: Google Meet, Zoom, Discord & Other Meetings | Source: https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/ | Store: Google Chrome | Added: 2025-01-20",
         "distribution": "5",
         "Tag": [
           {
@@ -256240,7 +256627,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/iedbphhbpflhgpihkcceocomcdnemcbj",
-        "comment": "Chrome Web Store entry for AI Webcam Effects + Recorder: Google Meet, Zoom, Discord &amp; Other Meetings (iedbphhbpflhgpihkcceocomcdnemcbj)",
+        "comment": "Chrome Web Store entry for AI Webcam Effects + Recorder: Google Meet, Zoom, Discord & Other Meetings (iedbphhbpflhgpihkcceocomcdnemcbj)",
         "distribution": "5"
       },
       {
@@ -256249,7 +256636,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "3cdf00fcf3fc42157ac7935b0fba1a435639c1e645002c974d7119510a507c80",
-        "comment": "SHA-256 of extension package for AI Webcam Effects + Recorder: Google Meet, Zoom, Discord &amp; Other Meetings (iedbphhbpflhgpihkcceocomcdnemcbj)",
+        "comment": "SHA-256 of extension package for AI Webcam Effects + Recorder: Google Meet, Zoom, Discord & Other Meetings (iedbphhbpflhgpihkcceocomcdnemcbj)",
         "distribution": "5",
         "Tag": [
           {
@@ -257244,7 +257631,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "nnpnnpemnckcfdebeekibpiijlicmpom",
-        "comment": "VPNCity - Fast &amp; Unlimited VPN | Unblocker | Source: https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign | Store: Google Chrome | Added: 2025-01-08",
+        "comment": "VPNCity - Fast & Unlimited VPN | Unblocker | Source: https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign | Store: Google Chrome | Added: 2025-01-08",
         "distribution": "5",
         "Tag": [
           {
@@ -257264,7 +257651,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/nnpnnpemnckcfdebeekibpiijlicmpom",
-        "comment": "Chrome Web Store entry for VPNCity - Fast &amp; Unlimited VPN | Unblocker (nnpnnpemnckcfdebeekibpiijlicmpom)",
+        "comment": "Chrome Web Store entry for VPNCity - Fast & Unlimited VPN | Unblocker (nnpnnpemnckcfdebeekibpiijlicmpom)",
         "distribution": "5"
       },
       {
@@ -257273,7 +257660,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "32cf1970e875d2651fb41a9ddefc2cecfc28addc92897ff79cbabc0f05a7686e",
-        "comment": "SHA-256 of extension package for VPNCity - Fast &amp; Unlimited VPN | Unblocker (nnpnnpemnckcfdebeekibpiijlicmpom)",
+        "comment": "SHA-256 of extension package for VPNCity - Fast & Unlimited VPN | Unblocker (nnpnnpemnckcfdebeekibpiijlicmpom)",
         "distribution": "5",
         "Tag": [
           {
@@ -257416,7 +257803,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "cplhlgabfijoiabgkigdafklbhhdkahj",
-        "comment": "Vidnoz Flex - Video recorder &amp; Video share | Source: https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign | Store: Google Chrome | Added: 2025-01-08",
+        "comment": "Vidnoz Flex - Video recorder & Video share | Source: https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign | Store: Google Chrome | Added: 2025-01-08",
         "distribution": "5",
         "Tag": [
           {
@@ -257436,7 +257823,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/cplhlgabfijoiabgkigdafklbhhdkahj",
-        "comment": "Chrome Web Store entry for Vidnoz Flex - Video recorder &amp; Video share (cplhlgabfijoiabgkigdafklbhhdkahj)",
+        "comment": "Chrome Web Store entry for Vidnoz Flex - Video recorder & Video share (cplhlgabfijoiabgkigdafklbhhdkahj)",
         "distribution": "5"
       },
       {
@@ -257445,7 +257832,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "4980ab3b88fbf4984da02ccd03dc75f3b7a8f3cc1ed78209847e2d4a45dae482",
-        "comment": "SHA-256 of extension package for Vidnoz Flex - Video recorder &amp; Video share (cplhlgabfijoiabgkigdafklbhhdkahj)",
+        "comment": "SHA-256 of extension package for Vidnoz Flex - Video recorder & Video share (cplhlgabfijoiabgkigdafklbhhdkahj)",
         "distribution": "5",
         "Tag": [
           {
