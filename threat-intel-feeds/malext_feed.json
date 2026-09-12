@@ -1,12 +1,120 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-09-11T21:24:22Z",
+  "generated": "2026-09-12T07:37:18Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6581,
+  "total_indicators": 6593,
   "indicators": [
+    {
+      "extension_id": "jmnjgeldahmfkeljhhndomacjdfebikl",
+      "name": "LinkedIn Profile Notes - Tags & CRM",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-12",
+      "store_url": "https://chromewebstore.google.com/detail/jmnjgeldahmfkeljhhndomacjdfebikl",
+      "sha256": "35247eb980731d252819cd6464e5161ad1c1ce666c1654cf254547b330c50bb6"
+    },
+    {
+      "extension_id": "jpiaoabdahimfmchfipanmhoemnpkfnp",
+      "name": "GitHub Unfollowers & Un-stars Tracker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-12",
+      "store_url": "https://chromewebstore.google.com/detail/jpiaoabdahimfmchfipanmhoemnpkfnp",
+      "sha256": "43c7f5da575d3f9aa19b0caec4c48549f166eff7e7931d25173e177d85d11a37"
+    },
+    {
+      "extension_id": "bipfmfenklfkpcndlabflmabipnbnfif",
+      "name": "Hide Seen Reddit Posts - Auto Dim & Scroll",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-12",
+      "store_url": "https://chromewebstore.google.com/detail/bipfmfenklfkpcndlabflmabipnbnfif",
+      "sha256": "cc79cd6b49530a4674027bf0a2d6c8f30a54aee11ca99215ae42f7a44eb121b1"
+    },
+    {
+      "extension_id": "lenioaoffdjndbgkjgneiokanecehgkc",
+      "name": "Reddit Focus Mode - Hide the Feed",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-12",
+      "store_url": "https://chromewebstore.google.com/detail/lenioaoffdjndbgkjgneiokanecehgkc",
+      "sha256": "7b5a3bfe84eadd79d81285d8de994961b5f886c7b9571145854df71849314e03"
+    },
+    {
+      "extension_id": "gagdlbnieakljbnahplplfdichlkbaad",
+      "name": "Anki Cards - Make Flashcards Fast",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-12",
+      "store_url": "https://chromewebstore.google.com/detail/gagdlbnieakljbnahplplfdichlkbaad",
+      "sha256": "843c486c9df5baa67963bfbfb055c0cae05b709178c3428acb5ce2843725a8da"
+    },
+    {
+      "extension_id": "nafcmopmcglbdfgpjigipdjmcclhjbcb",
+      "name": "SOOP \u00b7 AfreecaTV Live Start Alerts",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-12",
+      "store_url": "https://chromewebstore.google.com/detail/nafcmopmcglbdfgpjigipdjmcclhjbcb",
+      "sha256": "b1cbba76ef987519ccca762f59754ae8ae0f06c7050d2cac2452ad2a4549f69d"
+    },
+    {
+      "extension_id": "fkpofcfbflpembpmfkkncmlcjijmlopa",
+      "name": "Search Reddit Comments - In-Thread Find",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-12",
+      "store_url": "https://chromewebstore.google.com/detail/fkpofcfbflpembpmfkkncmlcjijmlopa",
+      "sha256": "470180644ab7b235988d4b50065c825c6fac0929bf9822e90e7a3c4ebf722835"
+    },
+    {
+      "extension_id": "ljpkdhngbaecpjomphkbpnfifbmfjfbd",
+      "name": "Tistory Backup - Markdown & HTML Export",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-12",
+      "store_url": "https://chromewebstore.google.com/detail/ljpkdhngbaecpjomphkbpnfifbmfjfbd",
+      "sha256": "2f4a6d61483c3e64ab3e266956f6426b317fe5934edb58baab3426e20d1e032c"
+    },
+    {
+      "extension_id": "filajccfoepinjkflaneipabaafejbcb",
+      "name": "Amazon Order History to CSV & Excel Export",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-12",
+      "store_url": "https://chromewebstore.google.com/detail/filajccfoepinjkflaneipabaafejbcb",
+      "sha256": "c38e315043bd7cc784419d4dbc424cecd0e0963d6737104bc173e6db2740742d"
+    },
+    {
+      "extension_id": "famccdddmdpgadipnbggfpopldapofle",
+      "name": "Cite This Page - APA, MLA, BibTeX",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-12",
+      "store_url": "https://chromewebstore.google.com/detail/famccdddmdpgadipnbggfpopldapofle",
+      "sha256": "f6f54a05e2cbb467d0e7055bc478d82f147dd1f5fb83ca34c48c4f8797460168"
+    },
+    {
+      "extension_id": "kaodjoooddhmdjdpogllamnhcdmmikgf",
+      "name": "Notion Table &amp; Database to CSV / Markdown",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-12",
+      "store_url": "https://chromewebstore.google.com/detail/kaodjoooddhmdjdpogllamnhcdmmikgf",
+      "sha256": "15accb2c0f7dd69085a670b164717add36ee29e74c22eb038f69ca8f15d1eb0d"
+    },
+    {
+      "extension_id": "pnhhdhhcadcjfckjhpmjneldiegbojfb",
+      "name": "Twitch Enhanced Viewer | JeetBot",
+      "source": "https://socket.dev/blog/malicious-twitch-browser-extension#Indicators-of-Compromise-(IOCs)",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-11",
+      "store_url": "https://chromewebstore.google.com/detail/pnhhdhhcadcjfckjhpmjneldiegbojfb",
+      "sha256": "eb2f4a74bf95b8864d1e9bd32af82fb864d377272eeca9b75e280ec4f1d10eda"
+    },
     {
       "extension_id": "gedbdbjhlpkhclnoffpjhejkmdnfcfbh",
       "name": "Finn Adventure Time Live Wallpaper",
