@@ -1,5 +1,17 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| jmnjgeldahmfkeljhhndomacjdfebikl | LinkedIn Profile Notes - Tags & CRM | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
+| jpiaoabdahimfmchfipanmhoemnpkfnp | GitHub Unfollowers & Un-stars Tracker | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
+| bipfmfenklfkpcndlabflmabipnbnfif | Hide Seen Reddit Posts - Auto Dim & Scroll | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
+| lenioaoffdjndbgkjgneiokanecehgkc | Reddit Focus Mode - Hide the Feed | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
+| gagdlbnieakljbnahplplfdichlkbaad | Anki Cards - Make Flashcards Fast | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
+| nafcmopmcglbdfgpjigipdjmcclhjbcb | SOOP · AfreecaTV Live Start Alerts | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
+| fkpofcfbflpembpmfkkncmlcjijmlopa | Search Reddit Comments - In-Thread Find | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
+| ljpkdhngbaecpjomphkbpnfifbmfjfbd | Tistory Backup - Markdown & HTML Export | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
+| filajccfoepinjkflaneipabaafejbcb | Amazon Order History to CSV & Excel Export | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
+| famccdddmdpgadipnbggfpopldapofle | Cite This Page - APA, MLA, BibTeX | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
+| kaodjoooddhmdjdpogllamnhcdmmikgf | Notion Table &amp; Database to CSV / Markdown | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
+| pnhhdhhcadcjfckjhpmjneldiegbojfb | Twitch Enhanced Viewer \| JeetBot | Malware | [socket.dev](https://socket.dev/blog/malicious-twitch-browser-extension#Indicators-of-Compromise-(IOCs)) | 11/09/26 | No | Google Chrome
 | gedbdbjhlpkhclnoffpjhejkmdnfcfbh | Finn Adventure Time Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 11/09/26 | No | Google Chrome
 | bhdmhlpnmhlpfbdciaehgbampiifimij | Goku And Shenron Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 11/09/26 | No | Google Chrome
 | ejdnannakafapmmclnaialpnpjgbomik | Ellen Joe Zenless Zone Ze | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 11/09/26 | No | Google Chrome
