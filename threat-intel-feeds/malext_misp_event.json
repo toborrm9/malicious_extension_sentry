@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-11",
-    "timestamp": "1789161864",
+    "date": "2026-09-12",
+    "timestamp": "1789198640",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,522 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "c1204b3e-c8de-5ee8-b9aa-ebb882224893",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jmnjgeldahmfkeljhhndomacjdfebikl",
+        "comment": "LinkedIn Profile Notes - Tags & CRM | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e1047cd0-0e9e-5206-b624-bf62ab9595c5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jmnjgeldahmfkeljhhndomacjdfebikl",
+        "comment": "Chrome Web Store entry for LinkedIn Profile Notes - Tags & CRM (jmnjgeldahmfkeljhhndomacjdfebikl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3532ee35-03ee-51a3-bdd5-75041c27cc11",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "35247eb980731d252819cd6464e5161ad1c1ce666c1654cf254547b330c50bb6",
+        "comment": "SHA-256 of extension package for LinkedIn Profile Notes - Tags & CRM (jmnjgeldahmfkeljhhndomacjdfebikl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c33a3b83-4bc1-5769-b652-99d7f1cda301",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jpiaoabdahimfmchfipanmhoemnpkfnp",
+        "comment": "GitHub Unfollowers & Un-stars Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "69dcf8c7-7c59-529d-a59a-a0e4ff439df7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jpiaoabdahimfmchfipanmhoemnpkfnp",
+        "comment": "Chrome Web Store entry for GitHub Unfollowers & Un-stars Tracker (jpiaoabdahimfmchfipanmhoemnpkfnp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "81c23d2e-0fc5-573c-82b9-7d41a9825530",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "43c7f5da575d3f9aa19b0caec4c48549f166eff7e7931d25173e177d85d11a37",
+        "comment": "SHA-256 of extension package for GitHub Unfollowers & Un-stars Tracker (jpiaoabdahimfmchfipanmhoemnpkfnp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f20d5dbb-5bbb-5522-81cb-2ea81c1bae98",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bipfmfenklfkpcndlabflmabipnbnfif",
+        "comment": "Hide Seen Reddit Posts - Auto Dim & Scroll | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "c52149fe-a571-5f41-8149-c299ca4e0a9f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bipfmfenklfkpcndlabflmabipnbnfif",
+        "comment": "Chrome Web Store entry for Hide Seen Reddit Posts - Auto Dim & Scroll (bipfmfenklfkpcndlabflmabipnbnfif)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "77fead9d-5187-562b-a6d0-11aacca126c0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cc79cd6b49530a4674027bf0a2d6c8f30a54aee11ca99215ae42f7a44eb121b1",
+        "comment": "SHA-256 of extension package for Hide Seen Reddit Posts - Auto Dim & Scroll (bipfmfenklfkpcndlabflmabipnbnfif)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "cedafb82-cca0-5389-8172-db2194ca38c1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lenioaoffdjndbgkjgneiokanecehgkc",
+        "comment": "Reddit Focus Mode - Hide the Feed | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b3a0430d-165d-5cb9-a2b2-cb1e116636c7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lenioaoffdjndbgkjgneiokanecehgkc",
+        "comment": "Chrome Web Store entry for Reddit Focus Mode - Hide the Feed (lenioaoffdjndbgkjgneiokanecehgkc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "98018e20-fc58-55ba-8450-f20001be2b8b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7b5a3bfe84eadd79d81285d8de994961b5f886c7b9571145854df71849314e03",
+        "comment": "SHA-256 of extension package for Reddit Focus Mode - Hide the Feed (lenioaoffdjndbgkjgneiokanecehgkc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c83a9265-652f-5a29-a899-884a470ff934",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gagdlbnieakljbnahplplfdichlkbaad",
+        "comment": "Anki Cards - Make Flashcards Fast | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ccaa4df8-274d-56d3-a9ad-22159a0340bf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gagdlbnieakljbnahplplfdichlkbaad",
+        "comment": "Chrome Web Store entry for Anki Cards - Make Flashcards Fast (gagdlbnieakljbnahplplfdichlkbaad)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "14af2887-10e5-5614-bc39-c32b0a5ee2da",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "843c486c9df5baa67963bfbfb055c0cae05b709178c3428acb5ce2843725a8da",
+        "comment": "SHA-256 of extension package for Anki Cards - Make Flashcards Fast (gagdlbnieakljbnahplplfdichlkbaad)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c2a391db-ceee-557f-bc1f-c44099113074",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nafcmopmcglbdfgpjigipdjmcclhjbcb",
+        "comment": "SOOP \u00b7 AfreecaTV Live Start Alerts | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b10724dc-d44b-5800-8f01-409ad2df9717",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nafcmopmcglbdfgpjigipdjmcclhjbcb",
+        "comment": "Chrome Web Store entry for SOOP \u00b7 AfreecaTV Live Start Alerts (nafcmopmcglbdfgpjigipdjmcclhjbcb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "032e6dd5-71af-56f3-b186-0bfd7071a3b5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b1cbba76ef987519ccca762f59754ae8ae0f06c7050d2cac2452ad2a4549f69d",
+        "comment": "SHA-256 of extension package for SOOP \u00b7 AfreecaTV Live Start Alerts (nafcmopmcglbdfgpjigipdjmcclhjbcb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "409bbdfb-f05f-55bd-b4f7-cd8dedc7659e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fkpofcfbflpembpmfkkncmlcjijmlopa",
+        "comment": "Search Reddit Comments - In-Thread Find | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9ca1c501-fe20-5ee3-a0bc-2b04307cba8b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fkpofcfbflpembpmfkkncmlcjijmlopa",
+        "comment": "Chrome Web Store entry for Search Reddit Comments - In-Thread Find (fkpofcfbflpembpmfkkncmlcjijmlopa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e7542553-4fcf-5094-879c-94fb5fdead23",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "470180644ab7b235988d4b50065c825c6fac0929bf9822e90e7a3c4ebf722835",
+        "comment": "SHA-256 of extension package for Search Reddit Comments - In-Thread Find (fkpofcfbflpembpmfkkncmlcjijmlopa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9dd1f514-a6e3-5041-9421-0ab77a966865",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljpkdhngbaecpjomphkbpnfifbmfjfbd",
+        "comment": "Tistory Backup - Markdown & HTML Export | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "58931162-923e-5dd4-abf9-9156a52475dd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljpkdhngbaecpjomphkbpnfifbmfjfbd",
+        "comment": "Chrome Web Store entry for Tistory Backup - Markdown & HTML Export (ljpkdhngbaecpjomphkbpnfifbmfjfbd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bda521ad-8dbc-5451-b8f4-5afdcaa58d66",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2f4a6d61483c3e64ab3e266956f6426b317fe5934edb58baab3426e20d1e032c",
+        "comment": "SHA-256 of extension package for Tistory Backup - Markdown & HTML Export (ljpkdhngbaecpjomphkbpnfifbmfjfbd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2da52891-1681-5605-be62-a90e13070b41",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "filajccfoepinjkflaneipabaafejbcb",
+        "comment": "Amazon Order History to CSV & Excel Export | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e5b8fae0-bdd3-5b0b-8f71-c94606cf98b8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/filajccfoepinjkflaneipabaafejbcb",
+        "comment": "Chrome Web Store entry for Amazon Order History to CSV & Excel Export (filajccfoepinjkflaneipabaafejbcb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "496e4465-99a4-5b96-9845-cf2e5f4861f5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c38e315043bd7cc784419d4dbc424cecd0e0963d6737104bc173e6db2740742d",
+        "comment": "SHA-256 of extension package for Amazon Order History to CSV & Excel Export (filajccfoepinjkflaneipabaafejbcb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "73e571af-8610-5e40-9ab8-23b8ae7d8a5e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "famccdddmdpgadipnbggfpopldapofle",
+        "comment": "Cite This Page - APA, MLA, BibTeX | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "da369ec3-ff17-517e-89ad-ec0bcc779235",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/famccdddmdpgadipnbggfpopldapofle",
+        "comment": "Chrome Web Store entry for Cite This Page - APA, MLA, BibTeX (famccdddmdpgadipnbggfpopldapofle)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9334171b-35bb-5cc1-b911-c328629717cc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f6f54a05e2cbb467d0e7055bc478d82f147dd1f5fb83ca34c48c4f8797460168",
+        "comment": "SHA-256 of extension package for Cite This Page - APA, MLA, BibTeX (famccdddmdpgadipnbggfpopldapofle)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6c5d3eb3-57ad-55a2-b019-9b3cb3667e1a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kaodjoooddhmdjdpogllamnhcdmmikgf",
+        "comment": "Notion Table &amp; Database to CSV / Markdown | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e5f39526-d35f-5446-b769-9bd921a7d021",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kaodjoooddhmdjdpogllamnhcdmmikgf",
+        "comment": "Chrome Web Store entry for Notion Table &amp; Database to CSV / Markdown (kaodjoooddhmdjdpogllamnhcdmmikgf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "350e64ee-e87d-5c44-883f-dcb178be1e4e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "15accb2c0f7dd69085a670b164717add36ee29e74c22eb038f69ca8f15d1eb0d",
+        "comment": "SHA-256 of extension package for Notion Table &amp; Database to CSV / Markdown (kaodjoooddhmdjdpogllamnhcdmmikgf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3e706d07-1290-5965-af56-0c7673ba0e0c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pnhhdhhcadcjfckjhpmjneldiegbojfb",
+        "comment": "Twitch Enhanced Viewer | JeetBot | Source: https://socket.dev/blog/malicious-twitch-browser-extension#Indicators-of-Compromise-(IOCs) | Store: Google Chrome | Added: 2026-09-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/malicious-twitch-browser-extension#Indicators-of-Compromise-(IOCs)\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "536d29ac-33b6-501f-acfb-a4b254774ff3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pnhhdhhcadcjfckjhpmjneldiegbojfb",
+        "comment": "Chrome Web Store entry for Twitch Enhanced Viewer | JeetBot (pnhhdhhcadcjfckjhpmjneldiegbojfb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "195505d7-b476-5401-9131-8b53050ad232",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "eb2f4a74bf95b8864d1e9bd32af82fb864d377272eeca9b75e280ec4f1d10eda",
+        "comment": "SHA-256 of extension package for Twitch Enhanced Viewer | JeetBot (pnhhdhhcadcjfckjhpmjneldiegbojfb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "8965c8e3-e735-5945-9c1a-dc2c42253c98",
         "type": "text",
