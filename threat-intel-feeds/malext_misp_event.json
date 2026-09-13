@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-12",
-    "timestamp": "1789198640",
+    "date": "2026-09-13",
+    "timestamp": "1789338493",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,423 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "188fe7a0-f929-559a-8503-321489b5ace5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pchanhmaapdlmdlgoiplnegjlffeomml",
+        "comment": "Disextension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "87dc662a-c864-58e7-a9e9-c2e12d4be4ea",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pchanhmaapdlmdlgoiplnegjlffeomml",
+        "comment": "Chrome Web Store entry for Disextension (pchanhmaapdlmdlgoiplnegjlffeomml)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "22c4b52a-9afa-597f-87c6-8ad95d678144",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d91d336843b8c3a6f728142922050a953f8ce03cf9c0adefd98c75d6e48401cf",
+        "comment": "SHA-256 of extension package for Disextension (pchanhmaapdlmdlgoiplnegjlffeomml)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f01b2745-f8f7-5e91-81e5-402bb8483ac8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "domfglpmfjkgemkmkabhccodfbbpfofm",
+        "comment": "Yahoo!\u7c21\u5358\u30bb\u30c3\u30c8\u30a2\u30c3\u30d7 | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-09-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4002e46a-eb0f-53a6-a3fb-cf6e663b4203",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/domfglpmfjkgemkmkabhccodfbbpfofm",
+        "comment": "Chrome Web Store entry for Yahoo!\u7c21\u5358\u30bb\u30c3\u30c8\u30a2\u30c3\u30d7 (domfglpmfjkgemkmkabhccodfbbpfofm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "707a083e-89d3-53d8-8fbd-cc947463a911",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eaedgkaaeapgmndpfdhljpfknmmmklaf",
+        "comment": "oWebster Search | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-09-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "996c9837-d5d1-53a7-9fd8-9df29914091e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eaedgkaaeapgmndpfdhljpfknmmmklaf",
+        "comment": "Chrome Web Store entry for oWebster Search (eaedgkaaeapgmndpfdhljpfknmmmklaf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "008021ca-625e-540f-a88d-388fc2600f0d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bcbophdefccgmbbmfcmgjgkchfoghodo",
+        "comment": "City Scapes | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-09-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "60c99dba-e749-5169-ac6f-f14b7f332d9f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bcbophdefccgmbbmfcmgjgkchfoghodo",
+        "comment": "Chrome Web Store entry for City Scapes (bcbophdefccgmbbmfcmgjgkchfoghodo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "90d0c751-b558-5f43-aaa8-04b293355caa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "amelaaifnhgegallekdnnfndlilhhmde",
+        "comment": "Active8 | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-09-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7411b61d-c7dd-5af7-a23a-4f2ee2bdead0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/amelaaifnhgegallekdnnfndlilhhmde",
+        "comment": "Chrome Web Store entry for Active8 (amelaaifnhgegallekdnnfndlilhhmde)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2bafbc53-8079-53d7-bc4b-ab2156d9e573",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ahmjnhhjmlbndpklcekkbkkdoehlledk",
+        "comment": "AI Search | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-09-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a6f15671-7bfe-5d9a-a194-3f05e36835d0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ahmjnhhjmlbndpklcekkbkkdoehlledk",
+        "comment": "Chrome Web Store entry for AI Search (ahmjnhhjmlbndpklcekkbkkdoehlledk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "427211fa-194f-5934-b01f-9d591c280ec4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "baf1d582295e75a831b284ea4b097251296b4b2bdf3caf8f1e2f5ea8d94b3dfa",
+        "comment": "SHA-256 of extension package for AI Search (ahmjnhhjmlbndpklcekkbkkdoehlledk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "089d6ade-cf59-52bf-81b4-5af695cb9392",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ofodifcbehjpefnhgclcgaedblbnjije",
+        "comment": "SoloSearch | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-09-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "077ce61d-db09-5665-80a4-bcbf8e563085",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ofodifcbehjpefnhgclcgaedblbnjije",
+        "comment": "Chrome Web Store entry for SoloSearch (ofodifcbehjpefnhgclcgaedblbnjije)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fe4f3ca2-3ac0-57f5-a079-fa4d339e4583",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ddc3328e11b41def7431b1ce819eee8857ebdbd338cee5df6a1e591cd1c507f4",
+        "comment": "SHA-256 of extension package for SoloSearch (ofodifcbehjpefnhgclcgaedblbnjije)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "60b509ac-74f6-576d-af96-28000ea3ec45",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "olfbkhppebggpboiafdnhklaccadhmkm",
+        "comment": "DogDog - feed dogs with every search from your browser bar | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-09-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "016e31ed-7955-5782-ac2d-18c805c42be2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/olfbkhppebggpboiafdnhklaccadhmkm",
+        "comment": "Chrome Web Store entry for DogDog - feed dogs with every search from your browser bar (olfbkhppebggpboiafdnhklaccadhmkm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c2fe0c37-48ea-5cd3-90df-38fef8688013",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e3aa31b5ade8f65ccccf22a2c1111062f4f7384e454b83ee2d757eb6f55ec3c4",
+        "comment": "SHA-256 of extension package for DogDog - feed dogs with every search from your browser bar (olfbkhppebggpboiafdnhklaccadhmkm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "cabb6f04-e84d-5ca1-a1f7-54e792b8252a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ggjakfijchdkbmmhbfemjciidhnipgoe",
+        "comment": "Search Commands | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-09-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a4189fa9-ef97-511a-94e3-f7228c102d65",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ggjakfijchdkbmmhbfemjciidhnipgoe",
+        "comment": "Chrome Web Store entry for Search Commands (ggjakfijchdkbmmhbfemjciidhnipgoe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6783ec7d-092c-5588-b1b6-636d7dce270d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f5c0217cd3ec54cca19bb3ad258166f0bd56719c1123f7ff662c8c485182bec0",
+        "comment": "SHA-256 of extension package for Search Commands (ggjakfijchdkbmmhbfemjciidhnipgoe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8e933872-7697-5db6-b014-451d719667bc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lbmokfklpmlklngnbmfiafnaoncadldc",
+        "comment": "Secure Shield by Secure Shell | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-09-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "11319e5d-38be-5f35-9ec3-afbb9db0cbd2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lbmokfklpmlklngnbmfiafnaoncadldc",
+        "comment": "Chrome Web Store entry for Secure Shield by Secure Shell (lbmokfklpmlklngnbmfiafnaoncadldc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1cd1cd2b-e2a9-5d3f-83af-c24f8e29b851",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9408cb1d40c75f5ecac587f7c8280b6e4d611f36f9b575484b211f257a5f4e3d",
+        "comment": "SHA-256 of extension package for Secure Shield by Secure Shell (lbmokfklpmlklngnbmfiafnaoncadldc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "63208147-7b3f-54c8-8833-fdd3ee5174a3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "depnaiojakmmjcdpccbffphcgjghniol",
+        "comment": "Get Weather Today | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-09-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b87a81e5-73bf-5036-932a-59951f6fbb13",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/depnaiojakmmjcdpccbffphcgjghniol",
+        "comment": "Chrome Web Store entry for Get Weather Today (depnaiojakmmjcdpccbffphcgjghniol)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "de955672-b28e-560a-b07c-505b5b84dcba",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6877074c66f734505ac1e0595f6411d43d58380f6e789b05972e6201d95b8294",
+        "comment": "SHA-256 of extension package for Get Weather Today (depnaiojakmmjcdpccbffphcgjghniol)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "c1204b3e-c8de-5ee8-b9aa-ebb882224893",
         "type": "text",
@@ -4240,6 +4657,35 @@
             "name": "malware:category=\"browser-extension\""
           }
         ]
+      },
+      {
+        "uuid": "a5ca46fe-2c70-550e-b037-d8dca97a08e6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ipihfpalipjpdoboegoemfhfldcpdeke",
+        "comment": "Zmetrics \u2013 Crypto Price Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-06",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6e7b075c-97bf-5faf-90a5-1925dad961f4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ipihfpalipjpdoboegoemfhfldcpdeke",
+        "comment": "Chrome Web Store entry for Zmetrics \u2013 Crypto Price Tracker (ipihfpalipjpdoboegoemfhfldcpdeke)",
+        "distribution": "5"
       },
       {
         "uuid": "9adece99-ae8b-5609-9e04-6cdbad623f80",
