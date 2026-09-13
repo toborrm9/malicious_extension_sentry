@@ -1,5 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| pchanhmaapdlmdlgoiplnegjlffeomml | Disextension | Policy Violation | Store Monitoring | 13/09/26 | No | Google Chrome
+| domfglpmfjkgemkmkabhccodfbbpfofm | Yahoo!簡単セットアップ | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| eaedgkaaeapgmndpfdhljpfknmmmklaf | oWebster Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| bcbophdefccgmbbmfcmgjgkchfoghodo | City Scapes | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| amelaaifnhgegallekdnnfndlilhhmde | Active8 | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| ahmjnhhjmlbndpklcekkbkkdoehlledk | AI Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| ofodifcbehjpefnhgclcgaedblbnjije | SoloSearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| olfbkhppebggpboiafdnhklaccadhmkm | DogDog - feed dogs with every search from your browser bar | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| ggjakfijchdkbmmhbfemjciidhnipgoe | Search Commands | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| lbmokfklpmlklngnbmfiafnaoncadldc | Secure Shield by Secure Shell | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| depnaiojakmmjcdpccbffphcgjghniol | Get Weather Today | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
 | jmnjgeldahmfkeljhhndomacjdfebikl | LinkedIn Profile Notes - Tags & CRM | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
 | jpiaoabdahimfmchfipanmhoemnpkfnp | GitHub Unfollowers & Un-stars Tracker | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
 | bipfmfenklfkpcndlabflmabipnbnfif | Hide Seen Reddit Posts - Auto Dim & Scroll | Bundling Unwanted Software | Store Monitoring | 12/09/26 | No | Google Chrome
@@ -98,6 +109,7 @@
 | llocongcggofebnijjhhkmdcccbcnlga | Github Roadmap Weekend Ho | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
 | ncmbmhhgfbmdcopgnpmjpjpicjoeflbi | Github Tree Downloader | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
 | hoemclmeahebepfmbfpgmfddiomgopfg | Hashhunter Blockchain Sea | Malware | Store Monitoring | 07/09/26 | No | Google Chrome
+| ipihfpalipjpdoboegoemfhfldcpdeke | Zmetrics – Crypto Price Tracker | Policy Violation | Store Monitoring | 06/09/26 | No | Google Chrome
 | goocncdclobemgahjikidjomjmbffabg | Skyrimbmw | Policy Violation | Store Monitoring | 06/09/26 | No | Google Chrome
 | nmpojdflbpoepmmchmffpiccbhncpllf | Github Pr Pretty Link | Policy Violation | Store Monitoring | 06/09/26 | No | Google Chrome
 | epckfdnjigdcfmdflnmiimeiopgocdnn | Zimal World Clock | Bundling Unwanted Software | Store Monitoring | 06/09/26 | No | Google Chrome
