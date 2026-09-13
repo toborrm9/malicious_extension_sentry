@@ -1,12 +1,111 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-09-12T07:37:18Z",
+  "generated": "2026-09-13T22:28:11Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6593,
+  "total_indicators": 6605,
   "indicators": [
+    {
+      "extension_id": "pchanhmaapdlmdlgoiplnegjlffeomml",
+      "name": "Disextension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/pchanhmaapdlmdlgoiplnegjlffeomml",
+      "sha256": "d91d336843b8c3a6f728142922050a953f8ce03cf9c0adefd98c75d6e48401cf"
+    },
+    {
+      "extension_id": "domfglpmfjkgemkmkabhccodfbbpfofm",
+      "name": "Yahoo!\u7c21\u5358\u30bb\u30c3\u30c8\u30a2\u30c3\u30d7",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/domfglpmfjkgemkmkabhccodfbbpfofm",
+      "sha256": ""
+    },
+    {
+      "extension_id": "eaedgkaaeapgmndpfdhljpfknmmmklaf",
+      "name": "oWebster Search",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/eaedgkaaeapgmndpfdhljpfknmmmklaf",
+      "sha256": ""
+    },
+    {
+      "extension_id": "bcbophdefccgmbbmfcmgjgkchfoghodo",
+      "name": "City Scapes",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/bcbophdefccgmbbmfcmgjgkchfoghodo",
+      "sha256": ""
+    },
+    {
+      "extension_id": "amelaaifnhgegallekdnnfndlilhhmde",
+      "name": "Active8",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/amelaaifnhgegallekdnnfndlilhhmde",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ahmjnhhjmlbndpklcekkbkkdoehlledk",
+      "name": "AI Search",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/ahmjnhhjmlbndpklcekkbkkdoehlledk",
+      "sha256": "baf1d582295e75a831b284ea4b097251296b4b2bdf3caf8f1e2f5ea8d94b3dfa"
+    },
+    {
+      "extension_id": "ofodifcbehjpefnhgclcgaedblbnjije",
+      "name": "SoloSearch",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/ofodifcbehjpefnhgclcgaedblbnjije",
+      "sha256": "ddc3328e11b41def7431b1ce819eee8857ebdbd338cee5df6a1e591cd1c507f4"
+    },
+    {
+      "extension_id": "olfbkhppebggpboiafdnhklaccadhmkm",
+      "name": "DogDog - feed dogs with every search from your browser bar",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/olfbkhppebggpboiafdnhklaccadhmkm",
+      "sha256": "e3aa31b5ade8f65ccccf22a2c1111062f4f7384e454b83ee2d757eb6f55ec3c4"
+    },
+    {
+      "extension_id": "ggjakfijchdkbmmhbfemjciidhnipgoe",
+      "name": "Search Commands",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/ggjakfijchdkbmmhbfemjciidhnipgoe",
+      "sha256": "f5c0217cd3ec54cca19bb3ad258166f0bd56719c1123f7ff662c8c485182bec0"
+    },
+    {
+      "extension_id": "lbmokfklpmlklngnbmfiafnaoncadldc",
+      "name": "Secure Shield by Secure Shell",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/lbmokfklpmlklngnbmfiafnaoncadldc",
+      "sha256": "9408cb1d40c75f5ecac587f7c8280b6e4d611f36f9b575484b211f257a5f4e3d"
+    },
+    {
+      "extension_id": "depnaiojakmmjcdpccbffphcgjghniol",
+      "name": "Get Weather Today",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/depnaiojakmmjcdpccbffphcgjghniol",
+      "sha256": "6877074c66f734505ac1e0595f6411d43d58380f6e789b05972e6201d95b8294"
+    },
     {
       "extension_id": "jmnjgeldahmfkeljhhndomacjdfebikl",
       "name": "LinkedIn Profile Notes - Tags & CRM",
@@ -888,6 +987,15 @@
       "insert_date": "2026-09-07",
       "store_url": "https://chromewebstore.google.com/detail/hoemclmeahebepfmbfpgmfddiomgopfg",
       "sha256": "e8170886c4c63920e2bc85e9a23dbb701b10252b378def4ac3496a510ce1b96d"
+    },
+    {
+      "extension_id": "ipihfpalipjpdoboegoemfhfldcpdeke",
+      "name": "Zmetrics \u2013 Crypto Price Tracker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-06",
+      "store_url": "https://chromewebstore.google.com/detail/ipihfpalipjpdoboegoemfhfldcpdeke",
+      "sha256": ""
     },
     {
       "extension_id": "goocncdclobemgahjikidjomjmbffabg",
