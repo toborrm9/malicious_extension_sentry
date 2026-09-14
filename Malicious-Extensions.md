@@ -1,6 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
-| pchanhmaapdlmdlgoiplnegjlffeomml | Disextension | Policy Violation | Store Monitoring | 13/09/26 | No | Google Chrome
+| hchgpickaccllllieicdgolcickgbbgn | Unriddle | Policy Violation | Store Monitoring | 14/09/26 | No | Google Chrome
+| ekchdpohdefapomdafjaaancoklocjgg | Adsift | Bundling Unwanted Software | Store Monitoring | 14/09/26 | No | Google Chrome
+| ppemikmneckkgmmbedecgnclmcgfhemf | 360Airo LinkedIn Automation | Malware | [chromewebstore.google.com](https://chromewebstore.google.com/detail/ppemikmneckkgmmbedecgnclmcgfhemf) | 14/09/26 | No | Google Chrome
+| hdgadgplbbdjlbjgdociahdlmbglfeen | Quick Spotify Search: Instant Music & Podcast Finder | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| hckckfcmmebhhdmmijemjopbpabgcjbn | Fast Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| hafjjpdeoiaipmfgchhjkgbnhgbjjlam | Searcheira - Search Engine | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| gbjffmkncjkpnkhjdigbigahdkiccmhd | Snap Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| eljpaanodclgcpecgiiobnbbfnihnblj | FindIt-All | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| ekjeihglfgjljniionjdlifffekmgkjf | Animal Search Now | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| eimgmoipajakfkbcpchdlfhhkdjhilnn | Deal Search Plus | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
+| pchanhmaapdlmdlgoiplnegjlffeomml | DisExtension | Policy Violation | Store Monitoring | 13/09/26 | No | Google Chrome
 | domfglpmfjkgemkmkabhccodfbbpfofm | Yahoo!簡単セットアップ | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
 | eaedgkaaeapgmndpfdhljpfknmmmklaf | oWebster Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
 | bcbophdefccgmbbmfcmgjgkchfoghodo | City Scapes | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
