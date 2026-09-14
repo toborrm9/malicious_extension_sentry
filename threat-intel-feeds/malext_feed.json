@@ -1,15 +1,105 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-09-13T22:28:11Z",
+  "generated": "2026-09-14T20:07:46Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6605,
+  "total_indicators": 6615,
   "indicators": [
     {
+      "extension_id": "hchgpickaccllllieicdgolcickgbbgn",
+      "name": "Unriddle",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-14",
+      "store_url": "https://chromewebstore.google.com/detail/hchgpickaccllllieicdgolcickgbbgn",
+      "sha256": "c38aa289233c040f8b974b3ec85a32c780f0bc8106e73b32e77871e2e0e95ea3"
+    },
+    {
+      "extension_id": "ekchdpohdefapomdafjaaancoklocjgg",
+      "name": "Adsift",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-14",
+      "store_url": "https://chromewebstore.google.com/detail/ekchdpohdefapomdafjaaancoklocjgg",
+      "sha256": "0d9abb7dd409afa739e53e2775befc4abc659c9e7ba734b1822c12dc650d7a9d"
+    },
+    {
+      "extension_id": "ppemikmneckkgmmbedecgnclmcgfhemf",
+      "name": "360Airo LinkedIn Automation",
+      "source": "https://chromewebstore.google.com/detail/ppemikmneckkgmmbedecgnclmcgfhemf",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-14",
+      "store_url": "https://chromewebstore.google.com/detail/ppemikmneckkgmmbedecgnclmcgfhemf",
+      "sha256": "9ea1d6027e8b0a3767e5e232fcef6d433195448655e7dbab5704e9c0cca87acf"
+    },
+    {
+      "extension_id": "hdgadgplbbdjlbjgdociahdlmbglfeen",
+      "name": "Quick Spotify Search: Instant Music & Podcast Finder",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/hdgadgplbbdjlbjgdociahdlmbglfeen",
+      "sha256": "fefb75f0e6d164f45ce52201ff8acda4867c8dd678d86f16f3c2b2ab45400e31"
+    },
+    {
+      "extension_id": "hckckfcmmebhhdmmijemjopbpabgcjbn",
+      "name": "Fast Search",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/hckckfcmmebhhdmmijemjopbpabgcjbn",
+      "sha256": "eb09f93ad2f17f9cce7fab28a00492221046b5f9ed33f3119fce0289c8de46bf"
+    },
+    {
+      "extension_id": "hafjjpdeoiaipmfgchhjkgbnhgbjjlam",
+      "name": "Searcheira - Search Engine",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/hafjjpdeoiaipmfgchhjkgbnhgbjjlam",
+      "sha256": "02bcd07f59de3a5acd42c306da8764e06217afe377e1f7f0843091d77e0e9e5d"
+    },
+    {
+      "extension_id": "gbjffmkncjkpnkhjdigbigahdkiccmhd",
+      "name": "Snap Search",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/gbjffmkncjkpnkhjdigbigahdkiccmhd",
+      "sha256": "bb30e9c3ea442cec09133b0472755ceef64056150eec8650b21aebeac6f4123e"
+    },
+    {
+      "extension_id": "eljpaanodclgcpecgiiobnbbfnihnblj",
+      "name": "FindIt-All",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/eljpaanodclgcpecgiiobnbbfnihnblj",
+      "sha256": "8292329a81195258bbfeb0d9494c5d4c027ed943c378b6bee414f277f2056db6"
+    },
+    {
+      "extension_id": "ekjeihglfgjljniionjdlifffekmgkjf",
+      "name": "Animal Search Now",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/ekjeihglfgjljniionjdlifffekmgkjf",
+      "sha256": "25a58c5bff373d7de04504346486f422461240e7f51680b7f74dd31441c306c0"
+    },
+    {
+      "extension_id": "eimgmoipajakfkbcpchdlfhhkdjhilnn",
+      "name": "Deal Search Plus",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-13",
+      "store_url": "https://chromewebstore.google.com/detail/eimgmoipajakfkbcpchdlfhhkdjhilnn",
+      "sha256": "f6259a6d2d80fc5a4812b26e8acfc8a2ff2103df071422b6a7fd38926b92c0bc"
+    },
+    {
       "extension_id": "pchanhmaapdlmdlgoiplnegjlffeomml",
-      "name": "Disextension",
+      "name": "DisExtension",
       "source": "Store Monitoring",
       "store": "Google Chrome",
       "insert_date": "2026-09-13",
@@ -23,7 +113,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-09-13",
       "store_url": "https://chromewebstore.google.com/detail/domfglpmfjkgemkmkabhccodfbbpfofm",
-      "sha256": ""
+      "sha256": "403d084d4842a52811315ff0bbfd5cdf9c904b6df4baecf20a33aabb7538d39b"
     },
     {
       "extension_id": "eaedgkaaeapgmndpfdhljpfknmmmklaf",
@@ -32,7 +122,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-09-13",
       "store_url": "https://chromewebstore.google.com/detail/eaedgkaaeapgmndpfdhljpfknmmmklaf",
-      "sha256": ""
+      "sha256": "666c90ff20103d2a82d9abddf3e47a96051c971125a728d21545b107aee0e72b"
     },
     {
       "extension_id": "bcbophdefccgmbbmfcmgjgkchfoghodo",
@@ -41,7 +131,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-09-13",
       "store_url": "https://chromewebstore.google.com/detail/bcbophdefccgmbbmfcmgjgkchfoghodo",
-      "sha256": ""
+      "sha256": "666c90ff20103d2a82d9abddf3e47a96051c971125a728d21545b107aee0e72b"
     },
     {
       "extension_id": "amelaaifnhgegallekdnnfndlilhhmde",
@@ -50,7 +140,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-09-13",
       "store_url": "https://chromewebstore.google.com/detail/amelaaifnhgegallekdnnfndlilhhmde",
-      "sha256": ""
+      "sha256": "73a16bdc00f324d93f43760ad7452e3fb3c12bcd7dc7fdbd89ca739c6e45edc6"
     },
     {
       "extension_id": "ahmjnhhjmlbndpklcekkbkkdoehlledk",
