@@ -2,14 +2,14 @@
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
 | cncdmciajmaojninbopinpijdodjgfpd | Trendtrack - eCommerce Analysis &amp; All in one tool (Website, Trends, Ads..) | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | cdefclacljnokbljcieocckgdkdidhbf | eFPS Master Dashboard | Bundling Unwanted Software | Store Monitoring | 16/09/26 | No | Google Chrome
-| ciadmnanclfadfcfjbbajmggediammha | Lock Adblock | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
+| ciadmnanclfadfcfjbbajmggediammha | Lock Adblock | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
 | ecpcaohnjhcjoogfckoogcgjcgjgccfm | eFPS Auto Clicker (Fast Billing) | Bundling Unwanted Software | Store Monitoring | 16/09/26 | No | Google Chrome
 | phedebkchfhnadinmggbaofgokabocck | Rain Thread | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
 | jkihideonihmchmjcmkogncgfaiigafa | Google Sheets Dark Mode + | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
-| kgaleicefmhgoefglnbdfpmbgbngnnmd | Adblock King | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
-| knnmlfjaelcpgldncmbcpcpamlikabbl | Smart Video &amp; Audio Downloader | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
+| kgaleicefmhgoefglnbdfpmbgbngnnmd | Adblock King | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
+| knnmlfjaelcpgldncmbcpcpamlikabbl | Smart Video &amp; Audio Downloader | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
 | lnbghmdpkjophllflodfeecibncbbclo | Claude Usage Dashboard | Bundling Unwanted Software | Store Monitoring | 16/09/26 | No | Google Chrome
-| pgikimmdpmicebmkahcacehgehjgphgn | Incognito Adblocker | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
+| pgikimmdpmicebmkahcacehgehjgphgn | Incognito Adblocker | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
 | jafackgafmaldnpmjcooihjkbpkjoibm | Meu Quiropraxista Importa | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | jaglgjgjinhafahmcfjgodoimomdpncp | Clean Stack | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
 | nciblfonjbeolfdlenfjjnnicamhnnnj | Habab-Discord-Quest-Extension | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
@@ -28,13 +28,13 @@
 | geccgkamffoopnapneffldmmfdfdkbek | Relocare Compliance App | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | mbilpedlanmoiogaclhhieekjkhaoddn | Live Color Picker | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
 | lcehlhbicfbnblgdhegjhphooeeikegn | HOU Learning Assistant | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
-| ledbnlkgdianknelhjdmllmnkafikodi | YouTube Adblocker | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
+| ledbnlkgdianknelhjdmllmnkafikodi | YouTube Adblocker | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
 | gdpkohfbpipajkjbkpafjpgcmofnecdl | Prism Relay | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
 | kkojnbehdedilloknacoonogkmbfeakj | Soccer Random Game | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | ocfdgncpifmegplaglcnglhioflaimkd | GitHub Better Line Counts | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | kijmncepdjeabghcjppndcgbogkfhbje | TG Content Downloader - Telegram Downloader | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | cbfjhpdflcjcndojkebpgjlbmdmeamij | Echo Tiles | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
-| jbbiolmffnambllfgoaaphalhojbmaom | Pulse Path | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
+| jbbiolmffnambllfgoaaphalhojbmaom | Pulse Path | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
 | kgaanolpnilipfmglgfmgfohpcboabic | Google Chrome Password lock | Policy Violation | Store Monitoring | 14/09/26 | No | Google Chrome
 | amlielhlgedcjnbkilihjhoheammcbgm | Best Free Maps | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 14/09/26 | No | Google Chrome
 | mocjldcbnkegopdodplogkdpbfmoeclk | QuickSearch - חיפוש בטוח | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 14/09/26 | No | Google Chrome
