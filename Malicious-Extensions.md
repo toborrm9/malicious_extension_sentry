@@ -1,11 +1,28 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| gcnjnebcdmdbmhgofbendacgmffggpik | 海投助手 | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
+| plekcodddmkiankdhefefccokbmflcfl | Saved Answer Autofill for Google Forms | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
+| kjocjdlibmipmdlbhklgclfbhlhlgfcm | ЮНИТ — юнит-экономика WB и Ozon | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
+| comglfkbkcippbiheejbaimphjngliab | OmniFlow Pro | Malware | Store Monitoring | 18/09/26 | No | Google Chrome
+| dlnkkgimkfhelgadchbkiinpklaehhnl | Barficient Helper | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
+| kbeldoikacknooocojnkeajckcifcpjb | License Badges for Civitai Model Cards | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
+| khflfgmcpjmdejmmkilcendgfnkomjdn | Chat Spike Chapters for CHZZK VOD | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
+| gbdjcgalliefpinpmggefbloehmmknca | Ad block & Adblocker - No Ads extension | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
+| phcfbbeacdjdkjkoplocilfmfckljkhl | Exchange Flow Monitor | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
+| hdjdfodjddfjpopfadifjchogolljcjb | Cake Wallet | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
+| heindapglbfblblbgohohmblhcnkhihc | Weekly Invitation Limit Meter for LinkedIn | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
+| jagledonklkpolmjfbfploojmdnclelk | Download All Course Files for Canvas LMS | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
+| mnmljheaeallkjgcgdabjpoiebocaiio | Auto Color Code Events for Google Calendar | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
+| ncijmiglidmmpignohiphmmlaedkgehc | Word Count for All Tabs in Google Docs | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
+| bifjefoimhhfolaciijdmgflpopoiknc | Customs Duty Preview for Overseas Orders | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
+| lblnbldblpeiikndppnekobccdocccho | Github Sidebar | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
+| bhhdjpgbfegfppmgghgcjbennmjkgpog | Fomy de Profit CSGOnet 3.0 | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
 | cncdmciajmaojninbopinpijdodjgfpd | Trendtrack - eCommerce Analysis &amp; All in one tool (Website, Trends, Ads..) | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | cdefclacljnokbljcieocckgdkdidhbf | eFPS Master Dashboard | Bundling Unwanted Software | Store Monitoring | 16/09/26 | No | Google Chrome
 | ciadmnanclfadfcfjbbajmggediammha | Lock Adblock | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
 | ecpcaohnjhcjoogfckoogcgjcgjgccfm | eFPS Auto Clicker (Fast Billing) | Bundling Unwanted Software | Store Monitoring | 16/09/26 | No | Google Chrome
 | phedebkchfhnadinmggbaofgokabocck | Rain Thread | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
-| jkihideonihmchmjcmkogncgfaiigafa | Google Sheets Dark Mode + | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
+| jkihideonihmchmjcmkogncgfaiigafa | Google Sheets Dark Mode + | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
 | kgaleicefmhgoefglnbdfpmbgbngnnmd | Adblock King | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
 | knnmlfjaelcpgldncmbcpcpamlikabbl | Smart Video &amp; Audio Downloader | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
 | lnbghmdpkjophllflodfeecibncbbclo | Claude Usage Dashboard | Bundling Unwanted Software | Store Monitoring | 16/09/26 | No | Google Chrome
@@ -5708,7 +5725,7 @@
 | hklhhkchffegjfojbofhfkckjidfbjhe | Free VPN for Chrome: Secure VPN Proxy in One Click | Policy Violation | Store Monitoring | 09/03/26 | No | Google Chrome
 | dnajedcbehnncdbmhbpglgacejjjcpic | Pokemon TCG Pocket PC Gacha Game | Policy Violation | Store Monitoring | 09/03/26 | No | Google Chrome
 | gengfhhkjekmlejbhmmopegofnoifnjp | ShotBird - Scrolling Screenshots, Tweet Images & Editor | Malware | Store Monitoring | 09/03/26 | Yes | Google Chrome
-| ajfanjhcdgaohcbphpaceglgpgaaohod | OmniBar AI Chat and Search | Policy Violation | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No | Google Chrome
+| ajfanjhcdgaohcbphpaceglgpgaaohod | OmniBar AI Chat and Search | Policy Violation | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | Yes | Google Chrome
 | mkkfklcadlnkhgapjeejemflhamcdjld | Consensus - Reddit Comment Summarizer | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No | Google Chrome
 | akdajpomgjgldidenledjjiemgkjcchc | Giant Coupons Official Extension | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No | Google Chrome
 | jaioobipjdejpeckgojiojjahmkiaihp | Care.Sale | In store but Suspicious | [thehackernews.com](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html) | 09/03/26 | No | Google Chrome
