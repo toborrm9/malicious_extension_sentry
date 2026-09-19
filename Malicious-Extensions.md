@@ -1,5 +1,7 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| mfhampeadkmdabjdajneilccjcddfhkm | Neon Guitar Vibes | Bundling Unwanted Software | Store Monitoring | 19/09/26 | No | Google Chrome
+| ogpbpjacchpcmleoilfeobecddgchbog | Bip39 Seed Validator | Bundling Unwanted Software | Store Monitoring | 19/09/26 | No | Google Chrome
 | cfdebjlglomegoliaoanlcgnjakgbaji | Delete All Messages | Potentially Unwanted Software | MalExt Analysis | 19/09/26 | No | Google Chrome
 | kodeildfcdapijabpfanpcajiolahiae | Proton Vpn — надёжный Vpn | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
 | bcajajodmhjfljbnkgifkfjjcdnekjmg | Web Sniffer | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
