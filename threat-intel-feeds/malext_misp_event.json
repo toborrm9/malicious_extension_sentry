@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-18",
-    "timestamp": "1789729270",
+    "date": "2026-09-19",
+    "timestamp": "1789811257",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,479 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "89fa251d-c087-5681-a17f-6606b236bcb2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cfdebjlglomegoliaoanlcgnjakgbaji",
+        "comment": "Delete All Messages | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-09-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "80e335b7-e4ef-57b6-aa04-2bfd15590504",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cfdebjlglomegoliaoanlcgnjakgbaji",
+        "comment": "Chrome Web Store entry for Delete All Messages (cfdebjlglomegoliaoanlcgnjakgbaji)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0d7784cc-a4bd-5152-b283-d74ff395c738",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "dca793dc047c5406a9d957fd633cb9f3bafbf8d9f238ade0d5b5c575fc5b40bc",
+        "comment": "SHA-256 of extension package for Delete All Messages (cfdebjlglomegoliaoanlcgnjakgbaji)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e4af64c7-cc10-56d3-8a2f-efd2f03d4db7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kodeildfcdapijabpfanpcajiolahiae",
+        "comment": "Proton Vpn \u2014 \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u0439 Vpn | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fe0009b5-7420-5f65-98d8-8df3644e6272",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kodeildfcdapijabpfanpcajiolahiae",
+        "comment": "Chrome Web Store entry for Proton Vpn \u2014 \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u0439 Vpn (kodeildfcdapijabpfanpcajiolahiae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5593a5f5-d325-5551-9018-a1addf2b1790",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0df850562bb45a3b85f935322c4c9848a9ec48a61b654ee1a72949df6a945c62",
+        "comment": "SHA-256 of extension package for Proton Vpn \u2014 \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u0439 Vpn (kodeildfcdapijabpfanpcajiolahiae)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7d60f4b7-7ffc-5d59-a8da-f91b018b855a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bcajajodmhjfljbnkgifkfjjcdnekjmg",
+        "comment": "Web Sniffer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "6f35063c-12ea-54b1-b344-f26b5ff839d4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bcajajodmhjfljbnkgifkfjjcdnekjmg",
+        "comment": "Chrome Web Store entry for Web Sniffer (bcajajodmhjfljbnkgifkfjjcdnekjmg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6c8127e5-5781-5dce-9d81-6bc656d1b8bd",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c9e7e9fc5fa1973d1c890d29b4b15e7494913b27f701d5ba3c2ccd9ba03edfca",
+        "comment": "SHA-256 of extension package for Web Sniffer (bcajajodmhjfljbnkgifkfjjcdnekjmg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3cc80997-664a-5966-95ba-23b8c6c78ab4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pigfnhfamffliailhilcblpgpbflpojo",
+        "comment": "Super Mario All-Stars - World Improvement | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "01052274-e0a6-5913-962f-6f7ea57eadc4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pigfnhfamffliailhilcblpgpbflpojo",
+        "comment": "Chrome Web Store entry for Super Mario All-Stars - World Improvement (pigfnhfamffliailhilcblpgpbflpojo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5b602381-7d1c-5b64-9660-bcdd9b4df9f0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8bc8e497f58245ef15af6b859f6740a0260207edb11379fb1a6a0084e4f60694",
+        "comment": "SHA-256 of extension package for Super Mario All-Stars - World Improvement (pigfnhfamffliailhilcblpgpbflpojo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6ddfff24-3e84-5685-b292-ee3022714a9e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kphlndllpbmfepipkhifdhkhgaogdlmd",
+        "comment": "Conector Pesquisa Promo | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1e3129b3-4cc0-51dc-b8a3-fdf8b68bcb76",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kphlndllpbmfepipkhifdhkhgaogdlmd",
+        "comment": "Chrome Web Store entry for Conector Pesquisa Promo (kphlndllpbmfepipkhifdhkhgaogdlmd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f9c6aa08-4418-5f5b-9bb2-49ebf2391929",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "037c7195bfdb9725368e58b7c8a9f6ccbd0805eceac38ddfafa26b251adf7d8d",
+        "comment": "SHA-256 of extension package for Conector Pesquisa Promo (kphlndllpbmfepipkhifdhkhgaogdlmd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "36b4e1c2-237d-5dc7-9746-da92ccaae66a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bnghaaanckjeindlklichhioddpjbmog",
+        "comment": "Designhub | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2150a1d-aa1d-5094-ac1c-4f4e38f7ae08",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bnghaaanckjeindlklichhioddpjbmog",
+        "comment": "Chrome Web Store entry for Designhub (bnghaaanckjeindlklichhioddpjbmog)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "be053506-26c5-5df3-9774-0da4689ae6df",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "306de8271dfd57c4650733e4c6456b0be6251a30e87be98110ad29a8ecb6c275",
+        "comment": "SHA-256 of extension package for Designhub (bnghaaanckjeindlklichhioddpjbmog)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "59bbea6f-cc88-5e1a-8ce8-c603b12b360f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gdejignmmojhnmdhbdjdmmoaidmcdema",
+        "comment": "TubeBlocker - AdBlock for YouTube\u2122 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b9981f48-c022-54d4-842c-a5bffab53627",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gdejignmmojhnmdhbdjdmmoaidmcdema",
+        "comment": "Chrome Web Store entry for TubeBlocker - AdBlock for YouTube\u2122 (gdejignmmojhnmdhbdjdmmoaidmcdema)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9791a173-4812-5f84-a649-5d7f92881657",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3ffdca39ac59a13c44436030e7a42c6ded6d8a39d24a28f118b18617da81a7d7",
+        "comment": "SHA-256 of extension package for TubeBlocker - AdBlock for YouTube\u2122 (gdejignmmojhnmdhbdjdmmoaidmcdema)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a070ca72-2397-50b3-b729-3ea45a0b5ec3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oldafjppjeolkbdipbhnkjighopdihjd",
+        "comment": "Dumpster Fire | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b8890ccf-028e-5412-b71a-fcf563eb11c6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oldafjppjeolkbdipbhnkjighopdihjd",
+        "comment": "Chrome Web Store entry for Dumpster Fire (oldafjppjeolkbdipbhnkjighopdihjd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fe3c3d47-4b3b-5ee4-86f7-81d1e13b2603",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7f983b2f63c917b0d2323e9aac7a0caa50e471133d73929c6907e6e1a01d7867",
+        "comment": "SHA-256 of extension package for Dumpster Fire (oldafjppjeolkbdipbhnkjighopdihjd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "276c0461-7286-5467-a767-941e85ef456f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kobjnlfldekgigkmaijanoaoekihoghp",
+        "comment": "Portal Video Downloader | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-09-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "51888512-87ed-5bde-abab-ee94fde76b81",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kobjnlfldekgigkmaijanoaoekihoghp",
+        "comment": "Chrome Web Store entry for Portal Video Downloader (kobjnlfldekgigkmaijanoaoekihoghp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "13172459-4d4f-50f7-931c-92339a38e88c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "07c237e3eb9ae9c421cfe2e1c6abdca7ce5fdee846d378da7b6771a43f5cb9d5",
+        "comment": "SHA-256 of extension package for Portal Video Downloader (kobjnlfldekgigkmaijanoaoekihoghp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4cae9029-4ee4-57b7-9aac-10aa22b77445",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fagjmplkfdopalfkkajedcgmhnlfdjjc",
+        "comment": "Obelisk Vpn \u2014 The Fastest | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-09-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8edda193-b08e-57c2-be36-836e20a5d3e6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fagjmplkfdopalfkkajedcgmhnlfdjjc",
+        "comment": "Chrome Web Store entry for Obelisk Vpn \u2014 The Fastest (fagjmplkfdopalfkkajedcgmhnlfdjjc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6f69af96-d655-543a-97db-20c87b345ad5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "dc0381ff6b0d9183c2de3dc5f4a8bccb42c3e229cef5581b528700104a3ecf1a",
+        "comment": "SHA-256 of extension package for Obelisk Vpn \u2014 The Fastest (fagjmplkfdopalfkkajedcgmhnlfdjjc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e9abaf07-35df-5fc4-9d4f-65335ec92239",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "apclkkkcoeknilhnbahghnmoclbbopka",
+        "comment": "Notiq \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0437\u0430\u043c\u0435\u0442\u043a\u0438 | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-09-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9dfda2de-89ae-527f-ad88-34e3826da2e0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/apclkkkcoeknilhnbahghnmoclbbopka",
+        "comment": "Chrome Web Store entry for Notiq \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0437\u0430\u043c\u0435\u0442\u043a\u0438 (apclkkkcoeknilhnbahghnmoclbbopka)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8966ebed-92cb-5626-9906-ec887d00a224",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "91558e1b58debaf1a44cf111df4e75df2a463c3521ecc75da7c55b684e2c9629",
+        "comment": "SHA-256 of extension package for Notiq \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0437\u0430\u043c\u0435\u0442\u043a\u0438 (apclkkkcoeknilhnbahghnmoclbbopka)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "c171f84f-85ae-51dc-8521-089e8787d4e9",
         "type": "text",
