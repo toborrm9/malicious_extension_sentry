@@ -1,12 +1,30 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-09-19T09:47:36Z",
+  "generated": "2026-09-19T18:20:05Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6692,
+  "total_indicators": 6694,
   "indicators": [
+    {
+      "extension_id": "mfhampeadkmdabjdajneilccjcddfhkm",
+      "name": "Neon Guitar Vibes",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-19",
+      "store_url": "https://chromewebstore.google.com/detail/mfhampeadkmdabjdajneilccjcddfhkm",
+      "sha256": "00cba623dd1c041c03ad50d78a77a6329495df12aa3094e464257c47af6a8804"
+    },
+    {
+      "extension_id": "ogpbpjacchpcmleoilfeobecddgchbog",
+      "name": "Bip39 Seed Validator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-19",
+      "store_url": "https://chromewebstore.google.com/detail/ogpbpjacchpcmleoilfeobecddgchbog",
+      "sha256": "d61dddc0ea2599744ecf913d0b9cdfbe355f82b94272ffda3f738423467537bd"
+    },
     {
       "extension_id": "cfdebjlglomegoliaoanlcgnjakgbaji",
       "name": "Delete All Messages",
@@ -37868,7 +37886,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-06-21",
       "store_url": "https://chromewebstore.google.com/detail/ejkiikneibegknkgimmihdpcbcedgmpo",
-      "sha256": "d92ea0a1ff9780a163e732b92ea0acd739473ec00674f80c4d5a217e6de084b0"
+      "sha256": "56324784d2a1af04a38ff1b62cd85379d36d0872befa057f71a76af0d125d2e5"
     },
     {
       "extension_id": "giolfdhelhkknfnplanblpbjeaiojikm",
