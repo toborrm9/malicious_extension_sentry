@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-09-19",
-    "timestamp": "1789811257",
+    "timestamp": "1789842006",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,92 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "434a7f4b-5d38-5fbf-8fa8-c76fe78cb159",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mfhampeadkmdabjdajneilccjcddfhkm",
+        "comment": "Neon Guitar Vibes | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "726bc1e4-dd20-547f-bf5d-9228da7f4998",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mfhampeadkmdabjdajneilccjcddfhkm",
+        "comment": "Chrome Web Store entry for Neon Guitar Vibes (mfhampeadkmdabjdajneilccjcddfhkm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "800102b5-45ee-54ab-bd78-5bc83fe0d1db",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "00cba623dd1c041c03ad50d78a77a6329495df12aa3094e464257c47af6a8804",
+        "comment": "SHA-256 of extension package for Neon Guitar Vibes (mfhampeadkmdabjdajneilccjcddfhkm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "54493cfb-d9eb-537f-982e-c64a3c9b6e79",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ogpbpjacchpcmleoilfeobecddgchbog",
+        "comment": "Bip39 Seed Validator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "eb053dde-7cb3-57a6-bca0-d7ab78ae6eec",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ogpbpjacchpcmleoilfeobecddgchbog",
+        "comment": "Chrome Web Store entry for Bip39 Seed Validator (ogpbpjacchpcmleoilfeobecddgchbog)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0757b4bd-2875-5ea8-9f4c-a114a8e0c9f6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d61dddc0ea2599744ecf913d0b9cdfbe355f82b94272ffda3f738423467537bd",
+        "comment": "SHA-256 of extension package for Bip39 Seed Validator (ogpbpjacchpcmleoilfeobecddgchbog)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "89fa251d-c087-5681-a17f-6606b236bcb2",
         "type": "text",
@@ -174927,7 +175013,7 @@
         "type": "sha256",
         "category": "Payload delivery",
         "to_ids": true,
-        "value": "d92ea0a1ff9780a163e732b92ea0acd739473ec00674f80c4d5a217e6de084b0",
+        "value": "56324784d2a1af04a38ff1b62cd85379d36d0872befa057f71a76af0d125d2e5",
         "comment": "SHA-256 of extension package for Volume Booster (ejkiikneibegknkgimmihdpcbcedgmpo)",
         "distribution": "5",
         "Tag": [
