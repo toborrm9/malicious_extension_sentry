@@ -1,9 +1,20 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| cfdebjlglomegoliaoanlcgnjakgbaji | Delete All Messages | Potentially Unwanted Software | MalExt Analysis | 19/09/26 | No | Google Chrome
+| kodeildfcdapijabpfanpcajiolahiae | Proton Vpn — надёжный Vpn | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
+| bcajajodmhjfljbnkgifkfjjcdnekjmg | Web Sniffer | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
+| pigfnhfamffliailhilcblpgpbflpojo | Super Mario All-Stars - World Improvement | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
+| kphlndllpbmfepipkhifdhkhgaogdlmd | Conector Pesquisa Promo | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
+| bnghaaanckjeindlklichhioddpjbmog | Designhub | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
+| gdejignmmojhnmdhbdjdmmoaidmcdema | TubeBlocker - AdBlock for YouTube™ | Malware | Store Monitoring | 19/09/26 | No | Google Chrome
+| oldafjppjeolkbdipbhnkjighopdihjd | Dumpster Fire | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
+| kobjnlfldekgigkmaijanoaoekihoghp | Portal Video Downloader | Malware | MalExt Analysis | 18/09/26 | No | Google Chrome
+| fagjmplkfdopalfkkajedcgmhnlfdjjc | Obelisk Vpn — The Fastest | Malware | MalExt Analysis | 18/09/26 | No | Google Chrome
+| apclkkkcoeknilhnbahghnmoclbbopka | Notiq быстрые заметки | Malware | MalExt Analysis | 18/09/26 | No | Google Chrome
 | gcnjnebcdmdbmhgofbendacgmffggpik | 海投助手 | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
 | plekcodddmkiankdhefefccokbmflcfl | Saved Answer Autofill for Google Forms | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
 | kjocjdlibmipmdlbhklgclfbhlhlgfcm | ЮНИТ — юнит-экономика WB и Ozon | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
-| comglfkbkcippbiheejbaimphjngliab | OmniFlow Pro | Malware | Store Monitoring | 18/09/26 | No | Google Chrome
+| comglfkbkcippbiheejbaimphjngliab | OmniFlow Pro | Malware | Store Monitoring | 18/09/26 | Yes | Google Chrome
 | dlnkkgimkfhelgadchbkiinpklaehhnl | Barficient Helper | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
 | kbeldoikacknooocojnkeajckcifcpjb | License Badges for Civitai Model Cards | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
 | khflfgmcpjmdejmmkilcendgfnkomjdn | Chat Spike Chapters for CHZZK VOD | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
