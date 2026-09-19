@@ -1,12 +1,111 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-09-18T11:01:09Z",
+  "generated": "2026-09-19T09:47:36Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6681,
+  "total_indicators": 6692,
   "indicators": [
+    {
+      "extension_id": "cfdebjlglomegoliaoanlcgnjakgbaji",
+      "name": "Delete All Messages",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-19",
+      "store_url": "https://chromewebstore.google.com/detail/cfdebjlglomegoliaoanlcgnjakgbaji",
+      "sha256": "dca793dc047c5406a9d957fd633cb9f3bafbf8d9f238ade0d5b5c575fc5b40bc"
+    },
+    {
+      "extension_id": "kodeildfcdapijabpfanpcajiolahiae",
+      "name": "Proton Vpn \u2014 \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u0439 Vpn",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-19",
+      "store_url": "https://chromewebstore.google.com/detail/kodeildfcdapijabpfanpcajiolahiae",
+      "sha256": "0df850562bb45a3b85f935322c4c9848a9ec48a61b654ee1a72949df6a945c62"
+    },
+    {
+      "extension_id": "bcajajodmhjfljbnkgifkfjjcdnekjmg",
+      "name": "Web Sniffer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-19",
+      "store_url": "https://chromewebstore.google.com/detail/bcajajodmhjfljbnkgifkfjjcdnekjmg",
+      "sha256": "c9e7e9fc5fa1973d1c890d29b4b15e7494913b27f701d5ba3c2ccd9ba03edfca"
+    },
+    {
+      "extension_id": "pigfnhfamffliailhilcblpgpbflpojo",
+      "name": "Super Mario All-Stars - World Improvement",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-19",
+      "store_url": "https://chromewebstore.google.com/detail/pigfnhfamffliailhilcblpgpbflpojo",
+      "sha256": "8bc8e497f58245ef15af6b859f6740a0260207edb11379fb1a6a0084e4f60694"
+    },
+    {
+      "extension_id": "kphlndllpbmfepipkhifdhkhgaogdlmd",
+      "name": "Conector Pesquisa Promo",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-19",
+      "store_url": "https://chromewebstore.google.com/detail/kphlndllpbmfepipkhifdhkhgaogdlmd",
+      "sha256": "037c7195bfdb9725368e58b7c8a9f6ccbd0805eceac38ddfafa26b251adf7d8d"
+    },
+    {
+      "extension_id": "bnghaaanckjeindlklichhioddpjbmog",
+      "name": "Designhub",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-19",
+      "store_url": "https://chromewebstore.google.com/detail/bnghaaanckjeindlklichhioddpjbmog",
+      "sha256": "306de8271dfd57c4650733e4c6456b0be6251a30e87be98110ad29a8ecb6c275"
+    },
+    {
+      "extension_id": "gdejignmmojhnmdhbdjdmmoaidmcdema",
+      "name": "TubeBlocker - AdBlock for YouTube\u2122",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-19",
+      "store_url": "https://chromewebstore.google.com/detail/gdejignmmojhnmdhbdjdmmoaidmcdema",
+      "sha256": "3ffdca39ac59a13c44436030e7a42c6ded6d8a39d24a28f118b18617da81a7d7"
+    },
+    {
+      "extension_id": "oldafjppjeolkbdipbhnkjighopdihjd",
+      "name": "Dumpster Fire",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-19",
+      "store_url": "https://chromewebstore.google.com/detail/oldafjppjeolkbdipbhnkjighopdihjd",
+      "sha256": "7f983b2f63c917b0d2323e9aac7a0caa50e471133d73929c6907e6e1a01d7867"
+    },
+    {
+      "extension_id": "kobjnlfldekgigkmaijanoaoekihoghp",
+      "name": "Portal Video Downloader",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-18",
+      "store_url": "https://chromewebstore.google.com/detail/kobjnlfldekgigkmaijanoaoekihoghp",
+      "sha256": "07c237e3eb9ae9c421cfe2e1c6abdca7ce5fdee846d378da7b6771a43f5cb9d5"
+    },
+    {
+      "extension_id": "fagjmplkfdopalfkkajedcgmhnlfdjjc",
+      "name": "Obelisk Vpn \u2014 The Fastest",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-18",
+      "store_url": "https://chromewebstore.google.com/detail/fagjmplkfdopalfkkajedcgmhnlfdjjc",
+      "sha256": "dc0381ff6b0d9183c2de3dc5f4a8bccb42c3e229cef5581b528700104a3ecf1a"
+    },
+    {
+      "extension_id": "apclkkkcoeknilhnbahghnmoclbbopka",
+      "name": "Notiq \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0437\u0430\u043c\u0435\u0442\u043a\u0438",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-18",
+      "store_url": "https://chromewebstore.google.com/detail/apclkkkcoeknilhnbahghnmoclbbopka",
+      "sha256": "91558e1b58debaf1a44cf111df4e75df2a463c3521ecc75da7c55b684e2c9629"
+    },
     {
       "extension_id": "gcnjnebcdmdbmhgofbendacgmffggpik",
       "name": "\u6d77\u6295\u52a9\u624b",
