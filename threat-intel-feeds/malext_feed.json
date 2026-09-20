@@ -1,12 +1,390 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-09-19T18:20:05Z",
+  "generated": "2026-09-20T20:44:51Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6694,
+  "total_indicators": 6736,
   "indicators": [
+    {
+      "extension_id": "pceglhkjfpdbfdpflbfkoakaedegggfo",
+      "name": "Crypto Ticker Tracker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/pceglhkjfpdbfdpflbfkoakaedegggfo",
+      "sha256": "a1dcb5e8f30b63cfc6830f0d95a1809b240ee875e8d333595c79716afa051e6e"
+    },
+    {
+      "extension_id": "fdgcbdgmldcoapldhjjcapnkajkiogfp",
+      "name": "Crypto Whale Alert Tracker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/fdgcbdgmldcoapldhjjcapnkajkiogfp",
+      "sha256": "b93449d4869654a53681b40ccfb52cb2c09c6c227770e596bbd108833759c17f"
+    },
+    {
+      "extension_id": "ifpnohpjhndkloplmhdggjbablkfalik",
+      "name": "Result Hunter Search Engi",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/ifpnohpjhndkloplmhdggjbablkfalik",
+      "sha256": "f91474128c13411e2a20d28ecbdce940ee234e4be943d5069b12b7f94a231d6c"
+    },
+    {
+      "extension_id": "jpflgehebdhjjcdojdloemfeflelhmoh",
+      "name": "Weather In",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/jpflgehebdhjjcdojdloemfeflelhmoh",
+      "sha256": "058f8a0aa8b0c41f4b108f433ce9613519666afacdb1ebbb6ebebca975f0fc25"
+    },
+    {
+      "extension_id": "kpgiemggflcojcamfppapffbhlpmdjaf",
+      "name": "Cleaner Searcher",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/kpgiemggflcojcamfppapffbhlpmdjaf",
+      "sha256": "4f5877fb8fde65ae72078045d7268b217fe51353155f91751e3cc421b8dbca22"
+    },
+    {
+      "extension_id": "mlfelkmlpmhleeclefagnddgocdngibo",
+      "name": "Pomodoro",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/mlfelkmlpmhleeclefagnddgocdngibo",
+      "sha256": "c14d82f3b15289dd7b1d7b1c7da135e60d0d570331bd1507152c9e8a8a0f4f09"
+    },
+    {
+      "extension_id": "llflfgnpglhgnbmfebokdfladhdhchoh",
+      "name": "Pure Planet Earth",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/llflfgnpglhgnbmfebokdfladhdhchoh",
+      "sha256": "1626c1ad409ffab9412bdd939707c6f86d2b4b3bc1bbd4dc4b93458c45b5c288"
+    },
+    {
+      "extension_id": "mhjgkeookbbpfgdfleaihlcbbelpfnik",
+      "name": "SearchIT New Tab",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/mhjgkeookbbpfgdfleaihlcbbelpfnik",
+      "sha256": "3781774b56977778cb766778fd6355417d188ec6b4e518988e8f3f12e2af87df"
+    },
+    {
+      "extension_id": "gekbhjoiibbppcdciojghnmkemdkakdb",
+      "name": "Spectra",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/gekbhjoiibbppcdciojghnmkemdkakdb",
+      "sha256": "a3093266cb3951761802dbe11cb3351e109e704f9bfeaad56f4b627ec9a3718e"
+    },
+    {
+      "extension_id": "gdknneaohbogmjleoiclncnpaaffeaof",
+      "name": "Vera",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/gdknneaohbogmjleoiclncnpaaffeaof",
+      "sha256": "9a2b5795042471debc4044d088a2376aa34ccd33ebd69ec1f1bdb7724ae044d6"
+    },
+    {
+      "extension_id": "joblmpncnhkabllppandobdiheffbhdg",
+      "name": "Classy Art Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/joblmpncnhkabllppandobdiheffbhdg",
+      "sha256": "cd81a346318bc6d51827b6ae3bcb88ac4ae31ef679a60b77d5e5b4509092d312"
+    },
+    {
+      "extension_id": "jhnhhbbkpcemehnimghkpmpdameaandj",
+      "name": "Seekit \u2014 Get 1Tb Free Sto",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/jhnhhbbkpcemehnimghkpmpdameaandj",
+      "sha256": "1e6cb5ffd997ced01b522cb41d3cc88233b1af6301e64caa9dbfbd3c7a1b3a0b"
+    },
+    {
+      "extension_id": "jhbfcalfobmllnekklmpciomgndpdgmd",
+      "name": "My Manual Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/jhbfcalfobmllnekklmpciomgndpdgmd",
+      "sha256": "359853ba82903386cdf5a2eb88224434aa38e89b5e8c631929f68a13e7b545e5"
+    },
+    {
+      "extension_id": "jcdaoohaljcljjiomabifnminbebbopo",
+      "name": "Smart Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/jcdaoohaljcljjiomabifnminbebbopo",
+      "sha256": "2fbfece0ef36964933784edb85e43436568f84cac8607b9166d424188d8cbc24"
+    },
+    {
+      "extension_id": "jbkddljkfbmpdkapglddcgbmjfhjnflg",
+      "name": "Engestension Address Bar",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/jbkddljkfbmpdkapglddcgbmjfhjnflg",
+      "sha256": "e61de702d337d748a58f46187ff6b4d7c76f8dd4749e3ec257d57a6ca3d9ad3a"
+    },
+    {
+      "extension_id": "hngacenlcfldjhhdjdimghflfoapocol",
+      "name": "Breeze Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/hngacenlcfldjhhdjdimghflfoapocol",
+      "sha256": "a2629385c4e5d7e75d66df7322d57ff738c016b1324a9d10b08047be3b67b5d9"
+    },
+    {
+      "extension_id": "hnejomncipegjafegedbaifgpaimllik",
+      "name": "Speed Test",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/hnejomncipegjafegedbaifgpaimllik",
+      "sha256": "24381fb2b5d44513980ebbf2c3430193aa1ccdf3807b8d8e67df0fff4e007891"
+    },
+    {
+      "extension_id": "hjnifeicdfiekelbhjleendehebljfna",
+      "name": "Yougo Internet Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/hjnifeicdfiekelbhjleendehebljfna",
+      "sha256": "b834ea08994f4431d0112e038c7c6a610a835850e58c53022cf5b3aba039e9ea"
+    },
+    {
+      "extension_id": "hglilafajifgadplomjacjbjgmlecmpo",
+      "name": "Simple Tab",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/hglilafajifgadplomjacjbjgmlecmpo",
+      "sha256": "e1c9bbec1c12aeda1e6b683620b459f130dcb9d94a8f765f4d40348eb7d96542"
+    },
+    {
+      "extension_id": "hemlonokddoppkinfoikmdghgclljnba",
+      "name": "Onesearch",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/hemlonokddoppkinfoikmdghgclljnba",
+      "sha256": "b2d8c5b2ef8db1f31ee16e0702425e84e4620256787f2c8f70ee6b18ced337f0"
+    },
+    {
+      "extension_id": "djbhkckghjaphlfpkahjjcpacdghojmj",
+      "name": "Watch Read Play Install O",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/djbhkckghjaphlfpkahjjcpacdghojmj",
+      "sha256": "67847758fa34a85ba511d672d44eb1b4fa33498044fa5c2cd242ec3f02a6046a"
+    },
+    {
+      "extension_id": "bhgocaboiejjaddkenndiccocpbpajnf",
+      "name": "Searchmanualz",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/bhgocaboiejjaddkenndiccocpbpajnf",
+      "sha256": "69f7ce32db779a95c19253094ac6db37a162e62e15ecf892482cb01712a568cc"
+    },
+    {
+      "extension_id": "agpoehmhgoieigdbjhgphpagmloehamn",
+      "name": "Amazing Tab Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/agpoehmhgoieigdbjhgphpagmloehamn",
+      "sha256": "e4fc38683c0f81773d12e3dcea75b9ca420743506a2b2b3e188a8fb2e79d4a0f"
+    },
+    {
+      "extension_id": "ecaghpdkedfadecjjagilfadcphnngal",
+      "name": "Dark Search Search Engine",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/ecaghpdkedfadecjjagilfadcphnngal",
+      "sha256": "d2c4c398fda4362c06b97fc1de2e9fec9c08b54db9a38a43f5d446b127c1050e"
+    },
+    {
+      "extension_id": "finbbidhmoalbmkikcekkabneclfcijl",
+      "name": "Advanced Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/finbbidhmoalbmkikcekkabneclfcijl",
+      "sha256": "cd4b119b4dae9ec667cdaf1cf2d4afb04eee1636f00515c43f205d4b0d50d93f"
+    },
+    {
+      "extension_id": "fimchmdegfgcabkcbabbehjgbonbhjgf",
+      "name": "Searchhub Change Default",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/fimchmdegfgcabkcbabbehjgbonbhjgf",
+      "sha256": "9e847e81b6d9325a3cdebc56dc0d92ef4aed58f15d830c8e009e89b3e670f5ed"
+    },
+    {
+      "extension_id": "fihpdhiickfcaoopfpfkgkjccfhfdgpd",
+      "name": "Private Search Mode",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/fihpdhiickfcaoopfpfkgkjccfhfdgpd",
+      "sha256": "c491222a2b4a727356c2683bcfe828fb94bfd0e22d89c6f0b8045989725abe0c"
+    },
+    {
+      "extension_id": "elhibonhhojgnmonfgikkleaeoeflbmo",
+      "name": "Mapstosearch",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/elhibonhhojgnmonfgikkleaeoeflbmo",
+      "sha256": "f09bd597a5ad4375c01be80643676f3622b4da01490511f991f77d9b809c7173"
+    },
+    {
+      "extension_id": "eldanaaeiflfoaifghpiicmpnmmljfed",
+      "name": "Tabun Smart Newtab",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/eldanaaeiflfoaifghpiicmpnmmljfed",
+      "sha256": "94b644123443525c3084052887c55388ecdf995c2d040170cf96854374f56690"
+    },
+    {
+      "extension_id": "efbfdligbgcbihnigaiicmmakaonaeng",
+      "name": "Expertwig Search Web Like",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/efbfdligbgcbihnigaiicmmakaonaeng",
+      "sha256": "a31f81321f99a2d417fc5ea98523f7adf4b6d4e6ce594d6cfcb046e087e8352d"
+    },
+    {
+      "extension_id": "edlgjpfddpdbokeadnobjgocepdfbgki",
+      "name": "Smart Shopping Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/edlgjpfddpdbokeadnobjgocepdfbgki",
+      "sha256": "81dfaae8e0d10caa2340c1036d119ad4080ffccb8a1ae20c26c46438e16cc935"
+    },
+    {
+      "extension_id": "falmmodfnnkfehdbcnhcemhgdgkikjoo",
+      "name": "Menu Price Viewer",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/falmmodfnnkfehdbcnhcemhgdgkikjoo",
+      "sha256": "23a85a7f8320bd8b749a838bef555cdf10df419af8e3ab556ba338eca714d575"
+    },
+    {
+      "extension_id": "epfphghfejmpfiigjchkccmebechdomk",
+      "name": "Smartsearcher",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/epfphghfejmpfiigjchkccmebechdomk",
+      "sha256": "7675525c542d0d8fdc400f710fee1828384c16fa32d85fee5ee7e30d5778bce2"
+    },
+    {
+      "extension_id": "ajdjbmgfjbllcllmmccgpnajkfcinppk",
+      "name": "Livinghistory",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/ajdjbmgfjbllcllmmccgpnajkfcinppk",
+      "sha256": "48b125df97f218454006cb9636fbe58e0c02bf7a3575ac03bd8d767c9e6e0a7b"
+    },
+    {
+      "extension_id": "aimhphojmbjjcfekkdoahgodacfkccen",
+      "name": "Smarter Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/aimhphojmbjjcfekkdoahgodacfkccen",
+      "sha256": "0b00df888a00e9920ba3e770c4d502fa479b12d1a141707b82b4d277d6373c24"
+    },
+    {
+      "extension_id": "cffadfhhcjjlpopfalhiplpjmbnnneoi",
+      "name": "Free Chat Gpt On New Tab",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/cffadfhhcjjlpopfalhiplpjmbnnneoi",
+      "sha256": "efbf0b8dba3cd6dc67ff49176570f60ae52e73d35124f027888686d43437696d"
+    },
+    {
+      "extension_id": "ccgnahfinamcfihmlggmnaclnlphepcl",
+      "name": "Recherche Yahoo Par Pdf E",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/ccgnahfinamcfihmlggmnaclnlphepcl",
+      "sha256": "b2f7235ca7c29a0debb7e41ac95238ea9bc9a93dbcb37945f805e5a075a4e748"
+    },
+    {
+      "extension_id": "cankfpcllgjejanlkhlnpibiahlbejcc",
+      "name": "Magic Ia Query Search Eng",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/cankfpcllgjejanlkhlnpibiahlbejcc",
+      "sha256": "ec024252bdd68936fda05a275e697fba6a3de8e1cf508036272f868cd16cc983"
+    },
+    {
+      "extension_id": "boicianejaacgkcclkcbgniohhpdmahk",
+      "name": "Shop Navigator",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/boicianejaacgkcclkcbgniohhpdmahk",
+      "sha256": "1ccf9abd69cb5ea3f6cd895fb4ea41dcd65ba17a1032736f535f841494f5806f"
+    },
+    {
+      "extension_id": "ehglbobdmeendkdmfofehilledphegjj",
+      "name": "Zipline Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/ehglbobdmeendkdmfofehilledphegjj",
+      "sha256": "24c41f595b1510bd41cc2b60d699237866ff9fd723de7f1666e8d7b97f8a1912"
+    },
+    {
+      "extension_id": "dojdepnhnlebmcjndhehcekjemalcdmf",
+      "name": "Sqoo Search Engine",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/dojdepnhnlebmcjndhehcekjemalcdmf",
+      "sha256": "7ae24a7ab69c49ea1371f7cf64505620aff71eb22b358029d63224630a1a503d"
+    },
+    {
+      "extension_id": "aoplnphcigkdcmkomojcafggibfhmcem",
+      "name": "Mp3Studio Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-20",
+      "store_url": "https://chromewebstore.google.com/detail/aoplnphcigkdcmkomojcafggibfhmcem",
+      "sha256": "093bc22ca60425d6f22f2bb2013e4e7206f3a72e41a0285df42878d2806c32b3"
+    },
     {
       "extension_id": "mfhampeadkmdabjdajneilccjcddfhkm",
       "name": "Neon Guitar Vibes",
