@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-20",
-    "timestamp": "1789937092",
+    "date": "2026-09-21",
+    "timestamp": "1790017970",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,135 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "7849e318-7d0a-5449-af0e-189559942837",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mdplfconnjkbnbfjggghggdjigalocpi",
+        "comment": "Seoprospector | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9fd0e87b-b3cd-5795-bf61-580de443c12c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mdplfconnjkbnbfjggghggdjigalocpi",
+        "comment": "Chrome Web Store entry for Seoprospector (mdplfconnjkbnbfjggghggdjigalocpi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d095b190-4f86-5e58-9512-60ad94281d12",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "61d678cda40433d1934dee85d0f693453949b801cba59d0196794e06f37ce4ba",
+        "comment": "SHA-256 of extension package for Seoprospector (mdplfconnjkbnbfjggghggdjigalocpi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2031e36-5a06-5bca-bcb2-beb125b87ac5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nbjicjkppoagjgpjhfhbpapklhjccbmi",
+        "comment": "Asqui Kanban Para Whatsap | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5ccaffa0-6d15-52c4-853d-703103b04457",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nbjicjkppoagjgpjhfhbpapklhjccbmi",
+        "comment": "Chrome Web Store entry for Asqui Kanban Para Whatsap (nbjicjkppoagjgpjhfhbpapklhjccbmi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "817d7348-a64f-5a69-ac62-cd6b50298c71",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e495db07cf44bf6bb81c4a58cdfd928a60aaba41b12d5e8b8f602a5c2b023507",
+        "comment": "SHA-256 of extension package for Asqui Kanban Para Whatsap (nbjicjkppoagjgpjhfhbpapklhjccbmi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "779ecab7-b5dc-5140-875c-3b937df961b1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fiedhaiildjjiohpldkpdehklanpeeal",
+        "comment": "Blooket Hacker Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "7f9204f7-0cc1-5b67-92df-1a469960809f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fiedhaiildjjiohpldkpdehklanpeeal",
+        "comment": "Chrome Web Store entry for Blooket Hacker Pro (fiedhaiildjjiohpldkpdehklanpeeal)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c7f8827f-27eb-53ad-8f99-bea5f899c93d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ac5c596d9ba9148890136f07c1c35094d36f1d9fbcb4141a2468fe43bcb5a72b",
+        "comment": "SHA-256 of extension package for Blooket Hacker Pro (fiedhaiildjjiohpldkpdehklanpeeal)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "9541be2d-2c7a-577a-af33-2adff74c2148",
         "type": "text",
