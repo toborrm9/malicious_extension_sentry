@@ -1,12 +1,39 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-09-20T20:44:51Z",
+  "generated": "2026-09-21T19:12:48Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6736,
+  "total_indicators": 6739,
   "indicators": [
+    {
+      "extension_id": "mdplfconnjkbnbfjggghggdjigalocpi",
+      "name": "Seoprospector",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-21",
+      "store_url": "https://chromewebstore.google.com/detail/mdplfconnjkbnbfjggghggdjigalocpi",
+      "sha256": "61d678cda40433d1934dee85d0f693453949b801cba59d0196794e06f37ce4ba"
+    },
+    {
+      "extension_id": "nbjicjkppoagjgpjhfhbpapklhjccbmi",
+      "name": "Asqui Kanban Para Whatsap",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-21",
+      "store_url": "https://chromewebstore.google.com/detail/nbjicjkppoagjgpjhfhbpapklhjccbmi",
+      "sha256": "e495db07cf44bf6bb81c4a58cdfd928a60aaba41b12d5e8b8f602a5c2b023507"
+    },
+    {
+      "extension_id": "fiedhaiildjjiohpldkpdehklanpeeal",
+      "name": "Blooket Hacker Pro",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-21",
+      "store_url": "https://chromewebstore.google.com/detail/fiedhaiildjjiohpldkpdehklanpeeal",
+      "sha256": "ac5c596d9ba9148890136f07c1c35094d36f1d9fbcb4141a2468fe43bcb5a72b"
+    },
     {
       "extension_id": "pceglhkjfpdbfdpflbfkoakaedegggfo",
       "name": "Crypto Ticker Tracker",
