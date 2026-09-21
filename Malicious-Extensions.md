@@ -1,5 +1,8 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| mdplfconnjkbnbfjggghggdjigalocpi | Seoprospector | Policy Violation | Store Monitoring | 21/09/26 | No | Google Chrome
+| nbjicjkppoagjgpjhfhbpapklhjccbmi | Asqui Kanban Para Whatsap | Bundling Unwanted Software | Store Monitoring | 21/09/26 | No | Google Chrome
+| fiedhaiildjjiohpldkpdehklanpeeal | Blooket Hacker Pro | Bundling Unwanted Software | Store Monitoring | 21/09/26 | No | Google Chrome
 | pceglhkjfpdbfdpflbfkoakaedegggfo | Crypto Ticker Tracker | Bundling Unwanted Software | Store Monitoring | 20/09/26 | No | Google Chrome
 | fdgcbdgmldcoapldhjjcapnkajkiogfp | Crypto Whale Alert Tracker | Bundling Unwanted Software | Store Monitoring | 20/09/26 | No | Google Chrome
 | ifpnohpjhndkloplmhdggjbablkfalik | Result Hunter Search Engi | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
