@@ -1,5 +1,18 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| lndongjadjljhmkklnhaggkfeplpcicb | Colorful Sally Lightfoot Crab on Lava Rocks | Policy Violation | Store Monitoring | 22/09/26 | No | Google Chrome
+| nhejampjhfhnalboieehcfhehmmfljhg | GitHub PR Merge Strategy Restrictor | Policy Violation | Store Monitoring | 22/09/26 | No | Google Chrome
+| lnmgmpjanhckceiigpdkbebdcajiameg | SlopCheckr — AI Slop & Design Inspector | Policy Violation | Store Monitoring | 22/09/26 | No | Google Chrome
+| fpijinnnjpobmkgpfonhlemkpdliejcb | GitHub Keyboard Navigator | Policy Violation | Store Monitoring | 22/09/26 | No | Google Chrome
+| jhkfjpfhioaoopiapaipleecedggpimi | GitHub Mermaid JSDoc Viewer | Policy Violation | Store Monitoring | 22/09/26 | No | Google Chrome
+| efmgilagbapbligkdgoafidahffeffpk | Watch Job | Policy Violation | Store Monitoring | 22/09/26 | No | Google Chrome
+| fopdoffoffmkoomockcjopikkoajbcih | Robin Wallet | Malware | Store Monitoring | 22/09/26 | No | Google Chrome
+| delloplkkhpkellloiepopnbbhcdmmpn | BuzzPost — חיבור פייסבוק | Bundling Unwanted Software | Store Monitoring | 22/09/26 | No | Google Chrome
+| ojdnigegmbfgkdeapmhaepcmffmapkjl | Voidline Tap | Malware | Store Monitoring | 22/09/26 | No | Google Chrome
+| onibhfpjiiendmejmgccflkcjhifgbgn | GitHub Linker | Policy Violation | Store Monitoring | 22/09/26 | No | Google Chrome
+| kagjkiiecagemklhmhkabbalfpbianbe | AI Exporter - Save ChatGPT, Claude and Gemini chats to PDF, MD and more | Policy Violation | Store Monitoring | 22/09/26 | No | Google Chrome
+| oggfmoogaedapgampbfedliclpofigmn | GitHub Hardware Viewer | Policy Violation | Store Monitoring | 22/09/26 | No | Google Chrome
+| mljnindiomijojginkplkboekjiffmmf | Northbound Needle | Malware | Store Monitoring | 21/09/26 | No | Google Chrome
 | mdplfconnjkbnbfjggghggdjigalocpi | Seoprospector | Policy Violation | Store Monitoring | 21/09/26 | No | Google Chrome
 | nbjicjkppoagjgpjhfhbpapklhjccbmi | Asqui Kanban Para Whatsap | Bundling Unwanted Software | Store Monitoring | 21/09/26 | No | Google Chrome
 | fiedhaiildjjiohpldkpdehklanpeeal | Blooket Hacker Pro | Bundling Unwanted Software | Store Monitoring | 21/09/26 | No | Google Chrome
@@ -75,6 +88,10 @@
 | bifjefoimhhfolaciijdmgflpopoiknc | Customs Duty Preview for Overseas Orders | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
 | lblnbldblpeiikndppnekobccdocccho | Github Sidebar | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
 | bhhdjpgbfegfppmgghgcjbennmjkgpog | Fomy de Profit CSGOnet 3.0 | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
+| mfgmbajjmpafkgffpgoboidnkfnblbcl | GitHub PR Tracker | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| hlfihkgnacdflbmmcpdlhibegfnhggjb | Q-bot 2.0 | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
+| npleadnddajjokllpjmpkekijopogeci | Github Bulk Delete | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| maicebkpagigefioggjaboaodmaeklok | GitHub Link Preview | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | cncdmciajmaojninbopinpijdodjgfpd | Trendtrack - eCommerce Analysis &amp; All in one tool (Website, Trends, Ads..) | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | cdefclacljnokbljcieocckgdkdidhbf | eFPS Master Dashboard | Bundling Unwanted Software | Store Monitoring | 16/09/26 | No | Google Chrome
 | ciadmnanclfadfcfjbbajmggediammha | Lock Adblock | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
