@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-22",
-    "timestamp": "1790098837",
+    "date": "2026-09-24",
+    "timestamp": "1790248543",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,852 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "0cb24e80-ac2b-5031-ba0a-cd8f4a973232",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gnpfeifbbfkoapeichdefgjlgpljbiga",
+        "comment": "Fallout 4 Fallout 3 Video Games Bethesda Soft | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2b9226b5-3f17-5cf6-aa63-19c8afc1e304",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gnpfeifbbfkoapeichdefgjlgpljbiga",
+        "comment": "Chrome Web Store entry for Fallout 4 Fallout 3 Video Games Bethesda Soft (gnpfeifbbfkoapeichdefgjlgpljbiga)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0eaff6f5-30e2-5147-a076-9bb1f6d650c5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f0cc36572a58134e10f23f6912c3dd763aa40910000f21ca4dd2bfcccdd27ba4",
+        "comment": "SHA-256 of extension package for Fallout 4 Fallout 3 Video Games Bethesda Soft (gnpfeifbbfkoapeichdefgjlgpljbiga)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4f043793-8be6-52fa-8113-6eb6786671dc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "agiiofgnfipbpadogjiefoapdiaodhnl",
+        "comment": "Lumina Reader - Reader Mode &amp; Readability | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b9a44610-a0fb-526b-9edb-276552c334a0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/agiiofgnfipbpadogjiefoapdiaodhnl",
+        "comment": "Chrome Web Store entry for Lumina Reader - Reader Mode &amp; Readability (agiiofgnfipbpadogjiefoapdiaodhnl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5f4f7358-2aa7-5b4a-939c-593075b89f49",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9ced75c2a382ce5333891727498beae4e0562b920e58be85880cfaeba7db078c",
+        "comment": "SHA-256 of extension package for Lumina Reader - Reader Mode &amp; Readability (agiiofgnfipbpadogjiefoapdiaodhnl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9ae8f042-c596-5ec5-b28d-f50e84874037",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dgbcmdcacfpelkofmgkphnblpmjicllc",
+        "comment": "fnaf 4 online | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "12ae1806-c75a-5352-902a-0fc44a695899",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dgbcmdcacfpelkofmgkphnblpmjicllc",
+        "comment": "Chrome Web Store entry for fnaf 4 online (dgbcmdcacfpelkofmgkphnblpmjicllc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "48585a19-207c-5d86-811c-37a17503382f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "751c6d23d77a4367dade328e55431978c2f494a9029cc9546f5ade9f8e2e8cd0",
+        "comment": "SHA-256 of extension package for fnaf 4 online (dgbcmdcacfpelkofmgkphnblpmjicllc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "867434e2-3e41-5bfe-8db4-7e989094957d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aipdbahblbipgkcmnmkcmkbkfmmblmbl",
+        "comment": "Pudi Battery Monitor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-24",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5e8b863b-8bf8-5c3d-8df2-b3d27106294c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aipdbahblbipgkcmnmkcmkbkfmmblmbl",
+        "comment": "Chrome Web Store entry for Pudi Battery Monitor (aipdbahblbipgkcmnmkcmkbkfmmblmbl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "878bd0db-0e5b-512d-ae2c-1bda4240306e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6e49b9a71fac4f340859cd174042ea5f952ecff7b4978c235ccf2a89e369ebcc",
+        "comment": "SHA-256 of extension package for Pudi Battery Monitor (aipdbahblbipgkcmnmkcmkbkfmmblmbl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a5a42d17-7abc-5c9e-a266-2615dab704cf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "danjnkmlealdpmbcjkecaliibpgkhhkj",
+        "comment": "Fallout 76 Theme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4e8b9442-21b9-5905-b9fc-642bd2d13958",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/danjnkmlealdpmbcjkecaliibpgkhhkj",
+        "comment": "Chrome Web Store entry for Fallout 76 Theme (danjnkmlealdpmbcjkecaliibpgkhhkj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "31090fe3-d62a-531c-8245-41af22adc60e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ddbd0661c4623036a0682038645f1a53f7b69f1fec4835d6d0730c60ecd1cda7",
+        "comment": "SHA-256 of extension package for Fallout 76 Theme (danjnkmlealdpmbcjkecaliibpgkhhkj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "523a28a4-43c6-5f8c-88cf-5530b779df03",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "edpnojegdmbmpaaaedjbglhohomkiibd",
+        "comment": "Fallout Pip-Boy Blue | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8f63f41d-1b76-5bed-8255-1c08a1f682eb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/edpnojegdmbmpaaaedjbglhohomkiibd",
+        "comment": "Chrome Web Store entry for Fallout Pip-Boy Blue (edpnojegdmbmpaaaedjbglhohomkiibd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d5b38b5d-44eb-519d-9e68-48182c61aacf",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f06ae3cf475158b8697a68238d8f739b88f8072dd163caf917726df1b00fd8bd",
+        "comment": "SHA-256 of extension package for Fallout Pip-Boy Blue (edpnojegdmbmpaaaedjbglhohomkiibd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4dce6be1-2708-5b12-a94f-26cd321d9352",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ndpbidppejfanjbhfgjlohfanbfbklff",
+        "comment": "AVSync System Inc. | Source: https://www.elastic.co/security-labs/threat-command/malicious-browser-extension-kremlin-banking-malware | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://www.elastic.co/security-labs/threat-command/malicious-browser-extension-kremlin-banking-malware\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a80b2454-42b7-5747-9707-8dc68ba7a471",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ndpbidppejfanjbhfgjlohfanbfbklff",
+        "comment": "Chrome Web Store entry for AVSync System Inc. (ndpbidppejfanjbhfgjlohfanbfbklff)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ec6c60f1-9333-5c9f-861b-08d4a1cf365a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lndongjadjljhmkklnhaggkfeplpcicb",
+        "comment": "Colorful Sally Lightfoot Crab on Lava Rocks | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "212f5250-e56f-5c1f-b9e5-30da94616195",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lndongjadjljhmkklnhaggkfeplpcicb",
+        "comment": "Chrome Web Store entry for Colorful Sally Lightfoot Crab on Lava Rocks (lndongjadjljhmkklnhaggkfeplpcicb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2b0a5125-abca-5ec6-9b25-28132f01a6b9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "83f4f375a44b7de54c4bb94d73c32f17df99953bc374988f0263fa0e9d013075",
+        "comment": "SHA-256 of extension package for Colorful Sally Lightfoot Crab on Lava Rocks (lndongjadjljhmkklnhaggkfeplpcicb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e56affe8-382e-546a-8d30-42131c2fc919",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nhejampjhfhnalboieehcfhehmmfljhg",
+        "comment": "GitHub PR Merge Strategy Restrictor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "245db371-0cac-5b8f-b863-134a69f83e70",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nhejampjhfhnalboieehcfhehmmfljhg",
+        "comment": "Chrome Web Store entry for GitHub PR Merge Strategy Restrictor (nhejampjhfhnalboieehcfhehmmfljhg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d4415a78-9126-5a1f-90ac-c10377aa7b93",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1b9196c00e026cfdf37cbbae6997ab6b4320f81fadf5540ae22f2728ae20126e",
+        "comment": "SHA-256 of extension package for GitHub PR Merge Strategy Restrictor (nhejampjhfhnalboieehcfhehmmfljhg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "58420d74-ec60-5f6a-9e08-24d6c2761254",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lnmgmpjanhckceiigpdkbebdcajiameg",
+        "comment": "SlopCheckr \u2014 AI Slop & Design Inspector | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "048bd8f2-2029-5a71-afbb-97d77c0f1e74",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lnmgmpjanhckceiigpdkbebdcajiameg",
+        "comment": "Chrome Web Store entry for SlopCheckr \u2014 AI Slop & Design Inspector (lnmgmpjanhckceiigpdkbebdcajiameg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fd4c6f9e-b416-55c1-963b-e64cdb17c431",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d19fabc344c8efdcb926bb6ca7fffece240917958d196144349a7ccd251454ba",
+        "comment": "SHA-256 of extension package for SlopCheckr \u2014 AI Slop & Design Inspector (lnmgmpjanhckceiigpdkbebdcajiameg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "58ddb2e6-c5a3-50a9-aba2-085f14901652",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fpijinnnjpobmkgpfonhlemkpdliejcb",
+        "comment": "GitHub Keyboard Navigator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "76e0fd5a-5ca5-5f5d-bdff-823a0ab88856",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fpijinnnjpobmkgpfonhlemkpdliejcb",
+        "comment": "Chrome Web Store entry for GitHub Keyboard Navigator (fpijinnnjpobmkgpfonhlemkpdliejcb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1aac3dca-cccf-5eb7-9b8b-4672477917ca",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5e6799c3a41f2027c3f34d29091c4b8352832b90373669a419b4690725848e30",
+        "comment": "SHA-256 of extension package for GitHub Keyboard Navigator (fpijinnnjpobmkgpfonhlemkpdliejcb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e60fa970-83f1-5de3-b0f3-c70164951406",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jhkfjpfhioaoopiapaipleecedggpimi",
+        "comment": "GitHub Mermaid JSDoc Viewer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "363fea71-5069-5423-ba5c-d044b7b0174c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jhkfjpfhioaoopiapaipleecedggpimi",
+        "comment": "Chrome Web Store entry for GitHub Mermaid JSDoc Viewer (jhkfjpfhioaoopiapaipleecedggpimi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1255eccc-0e74-5017-af6d-3a91ca21b42e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "77be71e2137309975d367cc6ee11d74b51817774f2984f31d239d19231b9933b",
+        "comment": "SHA-256 of extension package for GitHub Mermaid JSDoc Viewer (jhkfjpfhioaoopiapaipleecedggpimi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6e011702-50de-5a0c-b38f-577786a03a18",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "efmgilagbapbligkdgoafidahffeffpk",
+        "comment": "Watch Job | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "649113cd-4d03-5259-b041-5a04e5e9f0c8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/efmgilagbapbligkdgoafidahffeffpk",
+        "comment": "Chrome Web Store entry for Watch Job (efmgilagbapbligkdgoafidahffeffpk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e0ce81a1-9561-5425-8594-2f3fb20e5b89",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4da321b0b0e261a4ac249b1f636fec0f4de0bf2c307552c791d7f50f1a06fea8",
+        "comment": "SHA-256 of extension package for Watch Job (efmgilagbapbligkdgoafidahffeffpk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7cbb5927-3636-52e5-ad31-623fe098f368",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fopdoffoffmkoomockcjopikkoajbcih",
+        "comment": "Robin Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5e38b954-9f5f-57e5-bef5-e95bca15ac2e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fopdoffoffmkoomockcjopikkoajbcih",
+        "comment": "Chrome Web Store entry for Robin Wallet (fopdoffoffmkoomockcjopikkoajbcih)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6196149a-b14c-5d73-8433-b07b05ee8e19",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2b7e99d0e7df18dc361d8bacf4b3f57115ec4631c797e4c76b8d1c3c76f3ad97",
+        "comment": "SHA-256 of extension package for Robin Wallet (fopdoffoffmkoomockcjopikkoajbcih)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "081a2ae1-0647-5c4b-acce-5fac5970a74f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "delloplkkhpkellloiepopnbbhcdmmpn",
+        "comment": "BuzzPost \u2014 \u05d7\u05d9\u05d1\u05d5\u05e8 \u05e4\u05d9\u05d9\u05e1\u05d1\u05d5\u05e7 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "92d3b187-2fd5-5c25-a7f4-fc7371900c94",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/delloplkkhpkellloiepopnbbhcdmmpn",
+        "comment": "Chrome Web Store entry for BuzzPost \u2014 \u05d7\u05d9\u05d1\u05d5\u05e8 \u05e4\u05d9\u05d9\u05e1\u05d1\u05d5\u05e7 (delloplkkhpkellloiepopnbbhcdmmpn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "35430d6f-f685-5b1a-8a19-cfdd6c23c84b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "af2e574ac8e5de94ef894775f7c040540545fd6128410057b34ca89324870ed0",
+        "comment": "SHA-256 of extension package for BuzzPost \u2014 \u05d7\u05d9\u05d1\u05d5\u05e8 \u05e4\u05d9\u05d9\u05e1\u05d1\u05d5\u05e7 (delloplkkhpkellloiepopnbbhcdmmpn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "27d60939-724c-5127-9cc3-b894711d8315",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ojdnigegmbfgkdeapmhaepcmffmapkjl",
+        "comment": "Voidline Tap | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "10203dab-a8dd-58fc-88fc-301b2c1d9f74",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ojdnigegmbfgkdeapmhaepcmffmapkjl",
+        "comment": "Chrome Web Store entry for Voidline Tap (ojdnigegmbfgkdeapmhaepcmffmapkjl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ee3811fc-177e-5f11-a312-e0454a05da34",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6b743311602b5d3d7be7083e69599bd8452f89b62279c40157497067392a7893",
+        "comment": "SHA-256 of extension package for Voidline Tap (ojdnigegmbfgkdeapmhaepcmffmapkjl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1e3621b3-0aa6-556f-9950-c7b14d69b7a7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "onibhfpjiiendmejmgccflkcjhifgbgn",
+        "comment": "GitHub Linker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "91716d91-34f9-5514-99ec-18ff13a19252",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/onibhfpjiiendmejmgccflkcjhifgbgn",
+        "comment": "Chrome Web Store entry for GitHub Linker (onibhfpjiiendmejmgccflkcjhifgbgn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "56fa6c65-4096-5c10-adeb-1892e6d64def",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6910d75956c187b4583b9b027441b5e4be1bf117501a2ac8149a30f1d6bc2071",
+        "comment": "SHA-256 of extension package for GitHub Linker (onibhfpjiiendmejmgccflkcjhifgbgn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7a1bfa0e-2bc8-52ed-b8e2-6fd3a3a72869",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kagjkiiecagemklhmhkabbalfpbianbe",
+        "comment": "AI Exporter - Save ChatGPT, Claude and Gemini chats to PDF, MD and more | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2fee7bd0-d59b-590a-958e-314d9198ef7d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kagjkiiecagemklhmhkabbalfpbianbe",
+        "comment": "Chrome Web Store entry for AI Exporter - Save ChatGPT, Claude and Gemini chats to PDF, MD and more (kagjkiiecagemklhmhkabbalfpbianbe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ce1e1798-cda4-505b-ab4d-79d2685d4647",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e512036ae55ab90dc1a12fbde55bb9e21ec36c9938d8c70046277b617b4464ca",
+        "comment": "SHA-256 of extension package for AI Exporter - Save ChatGPT, Claude and Gemini chats to PDF, MD and more (kagjkiiecagemklhmhkabbalfpbianbe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "46bb22c9-cae1-5f13-9c3b-9098a6490859",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oggfmoogaedapgampbfedliclpofigmn",
+        "comment": "GitHub Hardware Viewer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-22",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3dec3bd8-3ecf-564e-ab25-1faa0797fea5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oggfmoogaedapgampbfedliclpofigmn",
+        "comment": "Chrome Web Store entry for GitHub Hardware Viewer (oggfmoogaedapgampbfedliclpofigmn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "07f0c221-350c-5c6e-b2ed-61a82b44229f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5ff12af9d4a0cac8b809f92d0044f5122733007869c3635aacfdfc66cbf9a7a3",
+        "comment": "SHA-256 of extension package for GitHub Hardware Viewer (oggfmoogaedapgampbfedliclpofigmn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "40764fa7-2f9f-5a4b-86ee-8b5c240d57eb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mljnindiomijojginkplkboekjiffmmf",
+        "comment": "Northbound Needle | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-21",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1efbf556-6f43-5fe2-a5b6-b05b66f35a6f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mljnindiomijojginkplkboekjiffmmf",
+        "comment": "Chrome Web Store entry for Northbound Needle (mljnindiomijojginkplkboekjiffmmf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0f861a0f-dbe4-51c1-89df-646e90b9081e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e162f972de8a01102860beccc1b7c7b7c171d78601374f93b09e57e5ffc36cf9",
+        "comment": "SHA-256 of extension package for Northbound Needle (mljnindiomijojginkplkboekjiffmmf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "7849e318-7d0a-5449-af0e-189559942837",
         "type": "text",
@@ -3245,6 +4091,393 @@
         "to_ids": true,
         "value": "bb1eb3a363dd4624d119603b6093e1cfed3b4f065731c38eab0db1a658423e96",
         "comment": "SHA-256 of extension package for Fomy de Profit CSGOnet 3.0 (bhhdjpgbfegfppmgghgcjbennmjkgpog)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e0a2f9db-32ba-5028-af7b-9f352d33c91d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "deenbenblhhgokihamofcpdpccjfcejp",
+        "comment": "BePro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "24329746-6d2f-5861-affa-343cc1102cf7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/deenbenblhhgokihamofcpdpccjfcejp",
+        "comment": "Chrome Web Store entry for BePro (deenbenblhhgokihamofcpdpccjfcejp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "aa1dfe7c-b804-59f1-bd8c-d9351c729982",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f8f3b9edc9bda538d62d5313df8db4c6c6cadd3bbcfe6ee579bbeadef926601e",
+        "comment": "SHA-256 of extension package for BePro (deenbenblhhgokihamofcpdpccjfcejp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e186dc78-9b4d-50c4-997c-c4f34627688c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "clkeaijkhhhoiafheolnoheijbghoppa",
+        "comment": "Fallout 3 Fallout 4 Fallout 76 Fallout: New V | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fc2a492a-25fe-5728-bff9-fed0024e6172",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/clkeaijkhhhoiafheolnoheijbghoppa",
+        "comment": "Chrome Web Store entry for Fallout 3 Fallout 4 Fallout 76 Fallout: New V (clkeaijkhhhoiafheolnoheijbghoppa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4e9cd75b-e554-5184-907f-22dcd50c3c3f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "99a817e9d8c6782b6c55e7a234145b9f51df34c8e7eefb18728009126ce70ec1",
+        "comment": "SHA-256 of extension package for Fallout 3 Fallout 4 Fallout 76 Fallout: New V (clkeaijkhhhoiafheolnoheijbghoppa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "76d29add-5bf1-5e02-a920-213cf2ee38e8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lagmnikdijkhbggnahaagjlbcebpikom",
+        "comment": "Fallout Live Wallpaper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4557e9b3-e6ab-540b-bf3a-164c94bc501e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lagmnikdijkhbggnahaagjlbcebpikom",
+        "comment": "Chrome Web Store entry for Fallout Live Wallpaper (lagmnikdijkhbggnahaagjlbcebpikom)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d4863916-33b4-543f-8e58-94a1b3e682cd",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "687d7b59b80f5ef27f7d6797d9bb80cc8d3bc4e853227f132a54394686f9cc8a",
+        "comment": "SHA-256 of extension package for Fallout Live Wallpaper (lagmnikdijkhbggnahaagjlbcebpikom)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1b7430b0-b930-5ace-8892-169d2fa2f745",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fjoigefjdlinileegfbkkbfjjfeldbgb",
+        "comment": "Brandsearch - eCommerce, Dropshipping, Shopify Spy, Meta ads | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "eb460ca3-18de-551c-900e-4a58b823385e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fjoigefjdlinileegfbkkbfjjfeldbgb",
+        "comment": "Chrome Web Store entry for Brandsearch - eCommerce, Dropshipping, Shopify Spy, Meta ads (fjoigefjdlinileegfbkkbfjjfeldbgb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "86f71dbf-50e7-584e-8658-64844a436edf",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4b96937e3af08283f7aaa235b9910cac01601fd547c5866d829526e9fb66791e",
+        "comment": "SHA-256 of extension package for Brandsearch - eCommerce, Dropshipping, Shopify Spy, Meta ads (fjoigefjdlinileegfbkkbfjjfeldbgb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "78c42c7d-7d3b-52e6-8850-a15b004c417e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "afbjehbldolncmpaglgfnpphneejghmk",
+        "comment": "Fallout Pip-Boy Green | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "74a35016-72cf-512f-ad85-0e6712e3cd65",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/afbjehbldolncmpaglgfnpphneejghmk",
+        "comment": "Chrome Web Store entry for Fallout Pip-Boy Green (afbjehbldolncmpaglgfnpphneejghmk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5d8c83f6-00b0-5cb9-ba5d-d0a43b65ad83",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "95e00bd2cba57e00d5a93bbd96d1e55f174b318e35f6cb416ef45393cd28b593",
+        "comment": "SHA-256 of extension package for Fallout Pip-Boy Green (afbjehbldolncmpaglgfnpphneejghmk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b483b87f-fe3c-5bb8-841c-257f593c97c0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mfgmbajjmpafkgffpgoboidnkfnblbcl",
+        "comment": "GitHub PR Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e43ed507-e32b-5765-b6c2-23ce00ce8140",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mfgmbajjmpafkgffpgoboidnkfnblbcl",
+        "comment": "Chrome Web Store entry for GitHub PR Tracker (mfgmbajjmpafkgffpgoboidnkfnblbcl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a6885f15-0684-50f9-a348-9071b5ee339d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "25df01e08ebce3df5d8d826dc9aa5767511920d4b2d8c1aaeb1ab58472c13236",
+        "comment": "SHA-256 of extension package for GitHub PR Tracker (mfgmbajjmpafkgffpgoboidnkfnblbcl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b057c71b-83a5-51fd-8afc-ca48b31d02d0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hlfihkgnacdflbmmcpdlhibegfnhggjb",
+        "comment": "Q-bot 2.0 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "20957839-e0f3-5e8a-8640-707a25932583",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hlfihkgnacdflbmmcpdlhibegfnhggjb",
+        "comment": "Chrome Web Store entry for Q-bot 2.0 (hlfihkgnacdflbmmcpdlhibegfnhggjb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8ec9aba2-1e3b-55bf-9804-e49607d7ddab",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ee7e8c54833ff6500476934383ab984defa4ff8a9edf97b667b179ac4f3a1ad4",
+        "comment": "SHA-256 of extension package for Q-bot 2.0 (hlfihkgnacdflbmmcpdlhibegfnhggjb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a55e9220-b9dc-5ad5-930b-e34e9be08d7d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "npleadnddajjokllpjmpkekijopogeci",
+        "comment": "Github Bulk Delete | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9b3ef92c-a385-56eb-b623-24723ed36bbd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/npleadnddajjokllpjmpkekijopogeci",
+        "comment": "Chrome Web Store entry for Github Bulk Delete (npleadnddajjokllpjmpkekijopogeci)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b2252e7e-5cc0-5eb0-97da-f972b1092813",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3acf996490b3bbaa2793453858be5d6475046ff9f613ccd92f72292be9c1a611",
+        "comment": "SHA-256 of extension package for Github Bulk Delete (npleadnddajjokllpjmpkekijopogeci)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "02af1315-e49b-5ea6-bf25-f5b0a9803996",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "maicebkpagigefioggjaboaodmaeklok",
+        "comment": "GitHub Link Preview | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1603d12b-67e9-5092-a942-b6bf99968fa7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/maicebkpagigefioggjaboaodmaeklok",
+        "comment": "Chrome Web Store entry for GitHub Link Preview (maicebkpagigefioggjaboaodmaeklok)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0e2a2b6a-d3ff-58e1-ae52-bacd5908261e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "bd3448e7d8bab04f0917237646567ae379ba3c02ed116734ab895ba8619f0701",
+        "comment": "SHA-256 of extension package for GitHub Link Preview (maicebkpagigefioggjaboaodmaeklok)",
         "distribution": "5",
         "Tag": [
           {
