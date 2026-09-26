@@ -1,7 +1,20 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| pbjloihjdichecopkenmpaejnodiailm | Zookay Search | Policy Violation | Store Monitoring | 26/09/26 | No | Google Chrome
+| ikiinfggjlkmlldgeldchjbokpafbcba | PassVault - Passkey Manager | Bundling Unwanted Software | Store Monitoring | 26/09/26 | No | Google Chrome
+| mlcjbakdfnoedkdppimchdhapoehbmjp | Courtline Focus | Bundling Unwanted Software | Store Monitoring | 26/09/26 | No | Google Chrome
+| mcplkeiigonncoeaaeniohhimipilcpo | Prompt Pocket | Policy Violation | Store Monitoring | 26/09/26 | No | Google Chrome
+| ieipgiggfmachgjedalldnlgampociol | LyricFlow — Live Lyrics | Policy Violation | Store Monitoring | 26/09/26 | No | Google Chrome
+| fnjjhkongghpbledllhneknlgfagdned | Adjust Page Brightness - Control Tab Brightness🔅 | Policy Violation | Store Monitoring | 26/09/26 | No | Google Chrome
+| emfbcbibjobmkmciokklgbojkbbbnalk | Personal AI | Policy Violation | Store Monitoring | 26/09/26 | No | Google Chrome
+| ebpjgidgdhbfeoonbkmpbfapooikdhnk | Praxis: Master YouTube Tutorials — Extract Key Insights, Build Real Skills | Bundling Unwanted Software | Store Monitoring | 26/09/26 | No | Google Chrome
+| aieehkpcgamkdlmlckembcgplojdhana | Genius Posts | Bundling Unwanted Software | Store Monitoring | 26/09/26 | No | Google Chrome
+| hfhfhmjmahcmfnpoheijkhhlicgjabmk | AI SEO AEO Optimizer | Policy Violation | Store Monitoring | 25/09/26 | No | Google Chrome
+| enhokpgcomnpmbjancincfdppkldemhi | Chess Analysis | Policy Violation | Store Monitoring | 25/09/26 | No | Google Chrome
+| bfefmpekcckkccokkapdlahapobiabpi | SaaSet | Policy Violation | Store Monitoring | 25/09/26 | No | Google Chrome
+| lfllggaagjhnmcajgkmhlggpmdocnjfc | J7Tracker Extension | Bundling Unwanted Software | Store Monitoring | 25/09/26 | No | Google Chrome
 | gnpfeifbbfkoapeichdefgjlgpljbiga | Fallout 4 Fallout 3 Video Games Bethesda Soft | Policy Violation | Store Monitoring | 24/09/26 | No | Google Chrome
-| agiiofgnfipbpadogjiefoapdiaodhnl | Lumina Reader - Reader Mode &amp; Readability | Bundling Unwanted Software | Store Monitoring | 24/09/26 | No | Google Chrome
+| agiiofgnfipbpadogjiefoapdiaodhnl | Lumina Reader - Reader Mode & Readability | Bundling Unwanted Software | Store Monitoring | 24/09/26 | No | Google Chrome
 | dgbcmdcacfpelkofmgkphnblpmjicllc | fnaf 4 online | Bundling Unwanted Software | Store Monitoring | 24/09/26 | No | Google Chrome
 | aipdbahblbipgkcmnmkcmkbkfmmblmbl | Pudi Battery Monitor | Bundling Unwanted Software | Store Monitoring | 24/09/26 | No | Google Chrome
 | danjnkmlealdpmbcjkecaliibpgkhhkj | Fallout 76 Theme | Policy Violation | Store Monitoring | 23/09/26 | No | Google Chrome
@@ -23,9 +36,10 @@
 | mdplfconnjkbnbfjggghggdjigalocpi | Seoprospector | Policy Violation | Store Monitoring | 21/09/26 | No | Google Chrome
 | nbjicjkppoagjgpjhfhbpapklhjccbmi | Asqui Kanban Para Whatsap | Bundling Unwanted Software | Store Monitoring | 21/09/26 | No | Google Chrome
 | fiedhaiildjjiohpldkpdehklanpeeal | Blooket Hacker Pro | Bundling Unwanted Software | Store Monitoring | 21/09/26 | No | Google Chrome
+| pdeglbcbdehfjfllclngapefcppbbjmp | GistGem: WhatsApp & Telegram Chat Summarizer | Policy Violation | Store Monitoring | 20/09/26 | No | Google Chrome
 | pceglhkjfpdbfdpflbfkoakaedegggfo | Crypto Ticker Tracker | Bundling Unwanted Software | Store Monitoring | 20/09/26 | No | Google Chrome
 | fdgcbdgmldcoapldhjjcapnkajkiogfp | Crypto Whale Alert Tracker | Bundling Unwanted Software | Store Monitoring | 20/09/26 | No | Google Chrome
-| ifpnohpjhndkloplmhdggjbablkfalik | Result Hunter Search Engi | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
+| ifpnohpjhndkloplmhdggjbablkfalik | Result Hunter Search Engine | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
 | jpflgehebdhjjcdojdloemfeflelhmoh | Weather In | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
 | kpgiemggflcojcamfppapffbhlpmdjaf | Cleaner Searcher | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
 | mlfelkmlpmhleeclefagnddgocdngibo | Pomodoro | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
@@ -34,7 +48,7 @@
 | gekbhjoiibbppcdciojghnmkemdkakdb | Spectra | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
 | gdknneaohbogmjleoiclncnpaaffeaof | Vera | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
 | joblmpncnhkabllppandobdiheffbhdg | Classy Art Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
-| jhnhhbbkpcemehnimghkpmpdameaandj | Seekit — Get 1Tb Free Sto | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
+| jhnhhbbkpcemehnimghkpmpdameaandj | Seekit — Get 1Tb Free Storage | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
 | jhbfcalfobmllnekklmpciomgndpdgmd | My Manual Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
 | jcdaoohaljcljjiomabifnminbebbopo | Smart Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
 | jbkddljkfbmpdkapglddcgbmjfhjnflg | Engestension Address Bar | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 20/09/26 | No | Google Chrome
@@ -75,6 +89,8 @@
 | bnghaaanckjeindlklichhioddpjbmog | Designhub | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
 | gdejignmmojhnmdhbdjdmmoaidmcdema | TubeBlocker - AdBlock for YouTube™ | Malware | Store Monitoring | 19/09/26 | Yes | Google Chrome
 | oldafjppjeolkbdipbhnkjighopdihjd | Dumpster Fire | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
+| bgicabojdlenimkmeabfhahflehglibg | Smart Locator Inspector | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
+| ghohdnpenjaojhibcjkkmmmnckdgkbhf | JSON Query Tool | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
 | kobjnlfldekgigkmaijanoaoekihoghp | Portal Video Downloader | Malware | MalExt Analysis | 18/09/26 | No | Google Chrome
 | fagjmplkfdopalfkkajedcgmhnlfdjjc | Obelisk Vpn — The Fastest | Malware | MalExt Analysis | 18/09/26 | No | Google Chrome
 | apclkkkcoeknilhnbahghnmoclbbopka | Notiq быстрые заметки | Malware | MalExt Analysis | 18/09/26 | No | Google Chrome
@@ -95,6 +111,15 @@
 | bifjefoimhhfolaciijdmgflpopoiknc | Customs Duty Preview for Overseas Orders | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
 | lblnbldblpeiikndppnekobccdocccho | Github Sidebar | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
 | bhhdjpgbfegfppmgghgcjbennmjkgpog | Fomy de Profit CSGOnet 3.0 | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
+| nmlemiahmhcclpifhmpbjbikdgbndief | GitHub Colorful Contributions | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| dknpldlgooamknmnkcogbojkkogcckkm | ChessSolve | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| iileeepiffnlhbdelipccaingjgklnng | ChessHelper.ai | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| ekmbbjdpakacalghjkikfppebgdpoebb | SoundCloud Track Downloader | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| ihdgemgmkgijkbibpbmpgmkaloddjngf | Timer for Google Slides™ | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| nakcddgmfmjmdbfahkkiijejmmfkfipc | N-able Passportal | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| akmlmlfleggdgfjkldecimdinejkkadb | Support Tool for Bing Chat | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| pdamkddidfadkgaocfglaidaegaklkbp | StomppAI | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| gojabhkegjnlnklkkpkglaembhlknkgk | GfG to GitHub | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | deenbenblhhgokihamofcpdpccjfcejp | BePro | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | clkeaijkhhhoiafheolnoheijbghoppa | Fallout 3 Fallout 4 Fallout 76 Fallout: New V | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | lagmnikdijkhbggnahaagjlbcebpikom | Fallout Live Wallpaper | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
@@ -139,6 +164,7 @@
 | kijmncepdjeabghcjppndcgbogkfhbje | TG Content Downloader - Telegram Downloader | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | cbfjhpdflcjcndojkebpgjlbmdmeamij | Echo Tiles | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
 | jbbiolmffnambllfgoaaphalhojbmaom | Pulse Path | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
+| nbklbljfgmpkblljbbedkhkhamejdmce | Personalization Campaign Auditor | Policy Violation | Store Monitoring | 14/09/26 | No | Google Chrome
 | kgaanolpnilipfmglgfmgfohpcboabic | Google Chrome Password lock | Policy Violation | Store Monitoring | 14/09/26 | No | Google Chrome
 | amlielhlgedcjnbkilihjhoheammcbgm | Best Free Maps | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 14/09/26 | No | Google Chrome
 | mocjldcbnkegopdodplogkdpbfmoeclk | QuickSearch - חיפוש בטוח | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 14/09/26 | No | Google Chrome
