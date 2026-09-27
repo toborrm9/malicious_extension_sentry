@@ -1,5 +1,39 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| endjefbdafoojmddnfgfiifgldeobfkc | Word/Character Counter | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| gmhogccdhkolfnflagpdlhknonbfdgpf | Genius Form Filler | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| lahpeofjijdebekbokgjajpjniagfbap | Genius Connector | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| jonammnemacbodpkngolbinlhiicniog | Akeru: Your AI LinkedIn Assistant | Policy Violation | Store Monitoring | 27/09/26 | No | Google Chrome
+| nhljkdjmeglheolcmmkjdaofmpnedglk | Genius Replies | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| nclkjindalbbkeipandkioglmcppdfmp | RevvedUp | Policy Violation | Store Monitoring | 27/09/26 | No | Google Chrome
+| dbinlkbdabhijobekdlldigkeajbbmkm | PinRSS Feed Finder | Policy Violation | Store Monitoring | 27/09/26 | No | Google Chrome
+| lhllegiomlipndonidmafhifefiflbkg | Member Mover | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| djdlkoihbhgbjfabpgpclknhjoalmkjk | Bookmarks Management | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| ohfphjhbilmblbbhdihnmabcagahmkhc | Ad Skipper for Youtube™ | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| banapepmdjohobhkmellbmkoahcjheok | Genius Group Spy | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| cakejefemdjbmhdjkjhibjhmhgjefidm | FatCoupon Cashback &amp; Promo Codes | Policy Violation | Store Monitoring | 27/09/26 | No | Google Chrome
+| hefnbibhemdeoelofjicejccjgbljadb | Youtube Video Speed Controller | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| djijpkidiloakhgopmijjdcancpfekma | Currency Converter | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| bphnmjlejonaeiapcnimchlmhbpbdiip | Social Media Downloader | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| efjpnacmoddnjjgeaeckdkgbdedicmfe | Genius CF Page Cloner | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| dlbplpijognabhikohgjgchkjpecabci | Genius Bot | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| cbjhifphajilffhlebmcmmomcfmgjlli | Genius Birthday Posts | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| infidkkgnkakeecjakbpeejpdknncpdk | HackerEarth Challenges | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| acdllcpdcblafecjimcgjplammocncgf | Jira Deactivation Banner Remover | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| ddfpegobeihgfdlplojagflgpjjemlbl | Genius Ad Library | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| nghpjljfbaafgkddgehkhnjgpceoamgp | Posting AI | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| cadifmkkpfjmclahophinapkpamdejfl | Beam Leads Extension | Policy Violation | Store Monitoring | 27/09/26 | No | Google Chrome
+| efnhameebhmajhmadlgcpipoeeaejccb | Genius Disconnector | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| annfoikeecpfihncdkpbacediapknmnh | Allow Right Click | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| jfnchnfmkjiehpejhindhbiafldoigoo | Genius Messenger CRM | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| jfdnmeinoomideonlnecffalcenihllm | To-Do Task Manager | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| epfhdcdemadgoifnchgpgpjofoamgncp | Genius Giveaway | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| afdfpkhbdpioonfeknablodaejkklbdn | Sidebarr - Bookmarks, Apps and more | Policy Violation | Store Monitoring | 27/09/26 | No | Google Chrome
+| hkkdclokefjmciimjjkblcbnolnhamfn | Linky Leads | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| ianiomiigpifmdngoikpkgejcddgochn | Genius Post Filter | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| ddknoicjjimjmfkhhggdcfnaadnjakko | PicPortal | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| nahkcohcfljjjkhdcbfdphegdoiflbjd | Enable Copy Everywhere | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| oeildcbgkelljbnjdfapciedkcjgjaid | Group Maximizer | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
 | pbjloihjdichecopkenmpaejnodiailm | Zookay Search | Policy Violation | Store Monitoring | 26/09/26 | No | Google Chrome
 | ikiinfggjlkmlldgeldchjbokpafbcba | PassVault - Passkey Manager | Bundling Unwanted Software | Store Monitoring | 26/09/26 | No | Google Chrome
 | mlcjbakdfnoedkdppimchdhapoehbmjp | Courtline Focus | Bundling Unwanted Software | Store Monitoring | 26/09/26 | No | Google Chrome
@@ -111,6 +145,9 @@
 | bifjefoimhhfolaciijdmgflpopoiknc | Customs Duty Preview for Overseas Orders | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
 | lblnbldblpeiikndppnekobccdocccho | Github Sidebar | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
 | bhhdjpgbfegfppmgghgcjbennmjkgpog | Fomy de Profit CSGOnet 3.0 | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
+| fghbfikeodjkbajmokiekipabfckcpgc | Free B2B Contact Info by AroundDeal | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| ldecmalpmimbhlmaifaimbbiijjjbpkl | Instagram Session Manager | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| nnhbalocjegncbfhoamigcoekhgacbpl | Hook Hunter: X Content Research | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | nmlemiahmhcclpifhmpbjbikdgbndief | GitHub Colorful Contributions | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | dknpldlgooamknmnkcogbojkkogcckkm | ChessSolve | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | iileeepiffnlhbdelipccaingjgklnng | ChessHelper.ai | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
