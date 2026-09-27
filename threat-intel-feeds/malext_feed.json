@@ -1,12 +1,318 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-09-26T07:43:42Z",
+  "generated": "2026-09-27T08:21:04Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6794,
+  "total_indicators": 6831,
   "indicators": [
+    {
+      "extension_id": "endjefbdafoojmddnfgfiifgldeobfkc",
+      "name": "Word/Character Counter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/endjefbdafoojmddnfgfiifgldeobfkc",
+      "sha256": "77da66c535c8c3cbeaede8edce05a4c5bbc16b61d667e711fbdb31df2c24ac63"
+    },
+    {
+      "extension_id": "gmhogccdhkolfnflagpdlhknonbfdgpf",
+      "name": "Genius Form Filler",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/gmhogccdhkolfnflagpdlhknonbfdgpf",
+      "sha256": "cb75e0032b491040bc54751a81a83548ecd56a05ade52d5fdb4185b0f7394e6f"
+    },
+    {
+      "extension_id": "lahpeofjijdebekbokgjajpjniagfbap",
+      "name": "Genius Connector",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/lahpeofjijdebekbokgjajpjniagfbap",
+      "sha256": "3214852e9d995a109e0899044b0229eb12577814118498c16a8ae09a8df79e2f"
+    },
+    {
+      "extension_id": "jonammnemacbodpkngolbinlhiicniog",
+      "name": "Akeru: Your AI LinkedIn Assistant",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/jonammnemacbodpkngolbinlhiicniog",
+      "sha256": "6f3a29b8d2cb33a9d0c30319cd2536e589375f9f03da0bef8be182083ece9646"
+    },
+    {
+      "extension_id": "nhljkdjmeglheolcmmkjdaofmpnedglk",
+      "name": "Genius Replies",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/nhljkdjmeglheolcmmkjdaofmpnedglk",
+      "sha256": "2f66e0aa6cdd596b1b70258e4046c988fc11b7e2b6e0eab35f85852587f6b9ed"
+    },
+    {
+      "extension_id": "nclkjindalbbkeipandkioglmcppdfmp",
+      "name": "RevvedUp",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/nclkjindalbbkeipandkioglmcppdfmp",
+      "sha256": "3d603767b1f23aa243fcba6351353ce944ef7b11a05cb1697c0ae265523291d2"
+    },
+    {
+      "extension_id": "dbinlkbdabhijobekdlldigkeajbbmkm",
+      "name": "PinRSS Feed Finder",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/dbinlkbdabhijobekdlldigkeajbbmkm",
+      "sha256": "6f5a8b6b8ab887ffe68e3307902bcc7462578afcd92f411a2109fdeee935bd88"
+    },
+    {
+      "extension_id": "lhllegiomlipndonidmafhifefiflbkg",
+      "name": "Member Mover",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/lhllegiomlipndonidmafhifefiflbkg",
+      "sha256": "2fecfdf4f0f5038dd30cd30311a3586f0d4cc73e549420e71458d7499b7c5d8a"
+    },
+    {
+      "extension_id": "djdlkoihbhgbjfabpgpclknhjoalmkjk",
+      "name": "Bookmarks Management",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/djdlkoihbhgbjfabpgpclknhjoalmkjk",
+      "sha256": "f9bc07703bf07f96c64cccc86fdd8942f639c8e7bfb7d1a63ce1cc4e2dd26f47"
+    },
+    {
+      "extension_id": "ohfphjhbilmblbbhdihnmabcagahmkhc",
+      "name": "Ad Skipper for Youtube\u2122",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/ohfphjhbilmblbbhdihnmabcagahmkhc",
+      "sha256": "11da64c8c49d8bcc62814eb8905faf5cbcff11421c12b594d40ca133c08a8ed4"
+    },
+    {
+      "extension_id": "banapepmdjohobhkmellbmkoahcjheok",
+      "name": "Genius Group Spy",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/banapepmdjohobhkmellbmkoahcjheok",
+      "sha256": "20d75c531f90be9ad235be087b61bee330fad297f4164f209df5d03f6abbfe7d"
+    },
+    {
+      "extension_id": "cakejefemdjbmhdjkjhibjhmhgjefidm",
+      "name": "FatCoupon Cashback &amp; Promo Codes",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/cakejefemdjbmhdjkjhibjhmhgjefidm",
+      "sha256": "01470b997f77d758a0a328c45d8f88f90675a45960c486e1828071aa45c66b7c"
+    },
+    {
+      "extension_id": "hefnbibhemdeoelofjicejccjgbljadb",
+      "name": "Youtube Video Speed Controller",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/hefnbibhemdeoelofjicejccjgbljadb",
+      "sha256": "e05291562259be60b3ed22b367f5a6a2f08026c05e5890b72ea74f15d8f5b69c"
+    },
+    {
+      "extension_id": "djijpkidiloakhgopmijjdcancpfekma",
+      "name": "Currency Converter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/djijpkidiloakhgopmijjdcancpfekma",
+      "sha256": "b44bf78ccc205045a7b42c120de9fad3f6885837541d9bd422b5df956bdc288a"
+    },
+    {
+      "extension_id": "bphnmjlejonaeiapcnimchlmhbpbdiip",
+      "name": "Social Media Downloader",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/bphnmjlejonaeiapcnimchlmhbpbdiip",
+      "sha256": "fa58adbcf7b65e114d59a1104b7036645e6fbd4a101dce04c7d85dc035412973"
+    },
+    {
+      "extension_id": "efjpnacmoddnjjgeaeckdkgbdedicmfe",
+      "name": "Genius CF Page Cloner",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/efjpnacmoddnjjgeaeckdkgbdedicmfe",
+      "sha256": "f5c64c278a12a5d844ced6d0523629e6d73778c8add79a755000832c5094cf98"
+    },
+    {
+      "extension_id": "dlbplpijognabhikohgjgchkjpecabci",
+      "name": "Genius Bot",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/dlbplpijognabhikohgjgchkjpecabci",
+      "sha256": "c25c934fca86579f8537c57bb56af471893472b58a6e87d75a01928ec0d0b7ad"
+    },
+    {
+      "extension_id": "cbjhifphajilffhlebmcmmomcfmgjlli",
+      "name": "Genius Birthday Posts",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/cbjhifphajilffhlebmcmmomcfmgjlli",
+      "sha256": "cbbdc5b8d25bac692de0935713a11bb997b35b7dc09f277b26983b514008cb7a"
+    },
+    {
+      "extension_id": "infidkkgnkakeecjakbpeejpdknncpdk",
+      "name": "HackerEarth Challenges",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/infidkkgnkakeecjakbpeejpdknncpdk",
+      "sha256": "e664a20cef200eec0b8221cc8169e78cedac480e57b8a20039820231cac8cc61"
+    },
+    {
+      "extension_id": "acdllcpdcblafecjimcgjplammocncgf",
+      "name": "Jira Deactivation Banner Remover",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/acdllcpdcblafecjimcgjplammocncgf",
+      "sha256": "a63e86649a20d2e929a0cabdb84c5a05ef1af1c5e9a403b42e36b3b1fd9f80e5"
+    },
+    {
+      "extension_id": "ddfpegobeihgfdlplojagflgpjjemlbl",
+      "name": "Genius Ad Library",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/ddfpegobeihgfdlplojagflgpjjemlbl",
+      "sha256": "9e2d972e3c66902bb04872c3eb1b1054e56b5f1f6a6dc7f4e891f58a96a0a58b"
+    },
+    {
+      "extension_id": "nghpjljfbaafgkddgehkhnjgpceoamgp",
+      "name": "Posting AI",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/nghpjljfbaafgkddgehkhnjgpceoamgp",
+      "sha256": "2f4810a7ba7e9a0ebfffefaff84261c570e2e7e9ee7c129dad99bfae1ca82092"
+    },
+    {
+      "extension_id": "cadifmkkpfjmclahophinapkpamdejfl",
+      "name": "Beam Leads Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/cadifmkkpfjmclahophinapkpamdejfl",
+      "sha256": "b99cc20268902d2ce3732fd37dbf0d149c80a0e86e6d0a0afa471ee1acba8bed"
+    },
+    {
+      "extension_id": "efnhameebhmajhmadlgcpipoeeaejccb",
+      "name": "Genius Disconnector",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/efnhameebhmajhmadlgcpipoeeaejccb",
+      "sha256": "69debe69fd6ffdc3170d67d642e4a985d166e920c2632d8047296ef9d9a0e3bc"
+    },
+    {
+      "extension_id": "annfoikeecpfihncdkpbacediapknmnh",
+      "name": "Allow Right Click",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/annfoikeecpfihncdkpbacediapknmnh",
+      "sha256": "be04101ecb975c9ab2d77bcd375b0a363a7ddd99219c948af7dcaa7e82a39148"
+    },
+    {
+      "extension_id": "jfnchnfmkjiehpejhindhbiafldoigoo",
+      "name": "Genius Messenger CRM",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/jfnchnfmkjiehpejhindhbiafldoigoo",
+      "sha256": "949a68dd302c2bb4e5d1fce6b2567e44f33e285baa1f88616c9b136af03d2532"
+    },
+    {
+      "extension_id": "jfdnmeinoomideonlnecffalcenihllm",
+      "name": "To-Do Task Manager",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/jfdnmeinoomideonlnecffalcenihllm",
+      "sha256": "ab23ad4f31c4d8257624e8732e6fe73baa25b25d8a9660ccd7ecf324fdb10634"
+    },
+    {
+      "extension_id": "epfhdcdemadgoifnchgpgpjofoamgncp",
+      "name": "Genius Giveaway",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/epfhdcdemadgoifnchgpgpjofoamgncp",
+      "sha256": "010e8078c7d4ceb574eade1a2f3ac9835ff106dd1e899fa006309434898e03ae"
+    },
+    {
+      "extension_id": "afdfpkhbdpioonfeknablodaejkklbdn",
+      "name": "Sidebarr - Bookmarks, Apps and more",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/afdfpkhbdpioonfeknablodaejkklbdn",
+      "sha256": "c1f263bd88facd43ca461221849e275b101d994e6bb46531f65c84240cbfac2b"
+    },
+    {
+      "extension_id": "hkkdclokefjmciimjjkblcbnolnhamfn",
+      "name": "Linky Leads",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/hkkdclokefjmciimjjkblcbnolnhamfn",
+      "sha256": "6d35c55799e20ec330c04d7004b832671905a44e98c961446f63f038bb3f604a"
+    },
+    {
+      "extension_id": "ianiomiigpifmdngoikpkgejcddgochn",
+      "name": "Genius Post Filter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/ianiomiigpifmdngoikpkgejcddgochn",
+      "sha256": "7d9404b7a198e0a4a2602b1a7772f5727d6a4acb71fdf846555643d6f4070d8a"
+    },
+    {
+      "extension_id": "ddknoicjjimjmfkhhggdcfnaadnjakko",
+      "name": "PicPortal",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/ddknoicjjimjmfkhhggdcfnaadnjakko",
+      "sha256": "4df6e3067a19c5d7fc7ae1bd222fd9170c94093bc205f24dfac4ca1ecc275d58"
+    },
+    {
+      "extension_id": "nahkcohcfljjjkhdcbfdphegdoiflbjd",
+      "name": "Enable Copy Everywhere",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/nahkcohcfljjjkhdcbfdphegdoiflbjd",
+      "sha256": "022e122cf7cd3218b2d772c6c6de94ac6fdb940646d70cb478901dce0b88edd6"
+    },
+    {
+      "extension_id": "oeildcbgkelljbnjdfapciedkcjgjaid",
+      "name": "Group Maximizer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-27",
+      "store_url": "https://chromewebstore.google.com/detail/oeildcbgkelljbnjdfapciedkcjgjaid",
+      "sha256": "5bfea2500eb669229d41981d12ef4461ed72800d78cc39d1e37653497ec11082"
+    },
     {
       "extension_id": "pbjloihjdichecopkenmpaejnodiailm",
       "name": "Zookay Search",
@@ -1005,6 +1311,33 @@
       "insert_date": "2026-09-17",
       "store_url": "https://chromewebstore.google.com/detail/bhhdjpgbfegfppmgghgcjbennmjkgpog",
       "sha256": "bb1eb3a363dd4624d119603b6093e1cfed3b4f065731c38eab0db1a658423e96"
+    },
+    {
+      "extension_id": "fghbfikeodjkbajmokiekipabfckcpgc",
+      "name": "Free B2B Contact Info by AroundDeal",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-16",
+      "store_url": "https://chromewebstore.google.com/detail/fghbfikeodjkbajmokiekipabfckcpgc",
+      "sha256": "3a9bc7f60c967c40568c84c4d1aa59ae313d206efc22f6f17ed7a7ef028ee20b"
+    },
+    {
+      "extension_id": "ldecmalpmimbhlmaifaimbbiijjjbpkl",
+      "name": "Instagram Session Manager",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-16",
+      "store_url": "https://chromewebstore.google.com/detail/ldecmalpmimbhlmaifaimbbiijjjbpkl",
+      "sha256": "2550d287ad783f938ba8d7935ee1a6a703247795013d282c55704a4b477286c2"
+    },
+    {
+      "extension_id": "nnhbalocjegncbfhoamigcoekhgacbpl",
+      "name": "Hook Hunter: X Content Research",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-16",
+      "store_url": "https://chromewebstore.google.com/detail/nnhbalocjegncbfhoamigcoekhgacbpl",
+      "sha256": "708a5ef991fdd4706b189e8a7871db562823bad24cd09ed17f7c55c64b752a3a"
     },
     {
       "extension_id": "nmlemiahmhcclpifhmpbjbikdgbndief",
