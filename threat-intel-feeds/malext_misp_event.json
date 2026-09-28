@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-27",
-    "timestamp": "1790529143",
+    "date": "2026-09-28",
+    "timestamp": "1790618914",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,178 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "3c87ae5e-7cba-5795-9774-39d1daefeaa4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fndkoopalankcpdahendaibfcldhnfei",
+        "comment": "Sound Recorder | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "583f5f47-dfe3-584c-ba6f-89d0224b1dfe",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fndkoopalankcpdahendaibfcldhnfei",
+        "comment": "Chrome Web Store entry for Sound Recorder (fndkoopalankcpdahendaibfcldhnfei)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7df5e78d-55d1-56b2-809e-630df33e6e46",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "147d425ae32a3add16c256097a6690033b8298086324da9771a79fc336c00e7c",
+        "comment": "SHA-256 of extension package for Sound Recorder (fndkoopalankcpdahendaibfcldhnfei)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "587bd76c-f35c-5d87-86be-2a0e66ffe882",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fpdmbflbbohnojfkojinkgbjddkeagpm",
+        "comment": "Chessr Review Unlocker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "816977d3-194c-5462-8a37-816387aa6cff",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fpdmbflbbohnojfkojinkgbjddkeagpm",
+        "comment": "Chrome Web Store entry for Chessr Review Unlocker (fpdmbflbbohnojfkojinkgbjddkeagpm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "beb5b8fc-3904-5c36-808c-9904ebd64c9f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e62865ede8e6d72187d9f9cba609de337f66aaee1aea29838491f3d264734790",
+        "comment": "SHA-256 of extension package for Chessr Review Unlocker (fpdmbflbbohnojfkojinkgbjddkeagpm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3b562c16-d637-5ccb-af47-f47215cf88f4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mbgjhobomlfkmihcgofgfbekkaeafjho",
+        "comment": "Driving Test Grabber | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f4cacc85-c3ef-5de0-b0b8-6bf6bab5b447",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mbgjhobomlfkmihcgofgfbekkaeafjho",
+        "comment": "Chrome Web Store entry for Driving Test Grabber (mbgjhobomlfkmihcgofgfbekkaeafjho)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3609dcb1-63a5-5282-8265-b005f6841688",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6e1d4bf52f78a6a1e3e0be246c533f386c74b9dc39880a15b2b9370e86bace6b",
+        "comment": "SHA-256 of extension package for Driving Test Grabber (mbgjhobomlfkmihcgofgfbekkaeafjho)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "76abc293-0f15-5e5c-a3ac-0aae40292728",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ndophfllmdjffpbglbeembkdimmeihfi",
+        "comment": "Github Show Avatar | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-28",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "cbcd2597-a6de-5ee3-ba37-e01a7237925d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ndophfllmdjffpbglbeembkdimmeihfi",
+        "comment": "Chrome Web Store entry for Github Show Avatar (ndophfllmdjffpbglbeembkdimmeihfi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e5b1ea93-82b2-5ff1-b02e-3f8ddfb8fc7d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0e19e58e9a8e10c6c7b2b3e7014814e11eccc0fb2996bdbb540621ad762a0ce4",
+        "comment": "SHA-256 of extension package for Github Show Avatar (ndophfllmdjffpbglbeembkdimmeihfi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "b6ced40a-9812-50cf-9e2d-972b6b1ffd5e",
         "type": "text",
@@ -5295,6 +5467,49 @@
         "to_ids": true,
         "value": "7f983b2f63c917b0d2323e9aac7a0caa50e471133d73929c6907e6e1a01d7867",
         "comment": "SHA-256 of extension package for Dumpster Fire (oldafjppjeolkbdipbhnkjighopdihjd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a853eefe-e9b3-593a-9c8a-26e37b17dc9c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pplohkfbnhphkmhggaddfklcpoggemip",
+        "comment": "Mailtrackio | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-18",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9810d72c-00a9-53fd-97fb-582df23d5fa0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pplohkfbnhphkmhggaddfklcpoggemip",
+        "comment": "Chrome Web Store entry for Mailtrackio (pplohkfbnhphkmhggaddfklcpoggemip)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "229ae8f0-a934-5672-8355-568da88c1302",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1d6365641c551e267ae5a05277f6cbc941b59b750988d6489d8d0216bdd09c7e",
+        "comment": "SHA-256 of extension package for Mailtrackio (pplohkfbnhphkmhggaddfklcpoggemip)",
         "distribution": "5",
         "Tag": [
           {
