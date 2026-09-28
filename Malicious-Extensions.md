@@ -1,5 +1,9 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| fndkoopalankcpdahendaibfcldhnfei | Sound Recorder | Policy Violation | Store Monitoring | 28/09/26 | No | Google Chrome
+| fpdmbflbbohnojfkojinkgbjddkeagpm | Chessr Review Unlocker | Policy Violation | Store Monitoring | 28/09/26 | No | Google Chrome
+| mbgjhobomlfkmihcgofgfbekkaeafjho | Driving Test Grabber | Policy Violation | Store Monitoring | 28/09/26 | No | Google Chrome
+| ndophfllmdjffpbglbeembkdimmeihfi | Github Show Avatar | Policy Violation | Store Monitoring | 28/09/26 | No | Google Chrome
 | endjefbdafoojmddnfgfiifgldeobfkc | Word/Character Counter | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
 | gmhogccdhkolfnflagpdlhknonbfdgpf | Genius Form Filler | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
 | lahpeofjijdebekbokgjajpjniagfbap | Genius Connector | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
@@ -14,7 +18,7 @@
 | cakejefemdjbmhdjkjhibjhmhgjefidm | FatCoupon Cashback &amp; Promo Codes | Policy Violation | Store Monitoring | 27/09/26 | No | Google Chrome
 | hefnbibhemdeoelofjicejccjgbljadb | Youtube Video Speed Controller | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
 | djijpkidiloakhgopmijjdcancpfekma | Currency Converter | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
-| bphnmjlejonaeiapcnimchlmhbpbdiip | Social Media Downloader | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| bphnmjlejonaeiapcnimchlmhbpbdiip | Social Media Downloader | Bundling Unwanted Software | Store Monitoring | 27/09/26 | Yes | Google Chrome
 | efjpnacmoddnjjgeaeckdkgbdedicmfe | Genius CF Page Cloner | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
 | dlbplpijognabhikohgjgchkjpecabci | Genius Bot | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
 | cbjhifphajilffhlebmcmmomcfmgjlli | Genius Birthday Posts | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
@@ -32,7 +36,7 @@
 | hkkdclokefjmciimjjkblcbnolnhamfn | Linky Leads | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
 | ianiomiigpifmdngoikpkgejcddgochn | Genius Post Filter | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
 | ddknoicjjimjmfkhhggdcfnaadnjakko | PicPortal | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
-| nahkcohcfljjjkhdcbfdphegdoiflbjd | Enable Copy Everywhere | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
+| nahkcohcfljjjkhdcbfdphegdoiflbjd | Enable Copy Everywhere | Bundling Unwanted Software | Store Monitoring | 27/09/26 | Yes | Google Chrome
 | oeildcbgkelljbnjdfapciedkcjgjaid | Group Maximizer | Bundling Unwanted Software | Store Monitoring | 27/09/26 | No | Google Chrome
 | pbjloihjdichecopkenmpaejnodiailm | Zookay Search | Policy Violation | Store Monitoring | 26/09/26 | No | Google Chrome
 | ikiinfggjlkmlldgeldchjbokpafbcba | PassVault - Passkey Manager | Bundling Unwanted Software | Store Monitoring | 26/09/26 | No | Google Chrome
@@ -123,6 +127,7 @@
 | bnghaaanckjeindlklichhioddpjbmog | Designhub | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
 | gdejignmmojhnmdhbdjdmmoaidmcdema | TubeBlocker - AdBlock for YouTube™ | Malware | Store Monitoring | 19/09/26 | Yes | Google Chrome
 | oldafjppjeolkbdipbhnkjighopdihjd | Dumpster Fire | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
+| pplohkfbnhphkmhggaddfklcpoggemip | Mailtrackio | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
 | bgicabojdlenimkmeabfhahflehglibg | Smart Locator Inspector | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
 | ghohdnpenjaojhibcjkkmmmnckdgkbhf | JSON Query Tool | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
 | kobjnlfldekgigkmaijanoaoekihoghp | Portal Video Downloader | Malware | MalExt Analysis | 18/09/26 | No | Google Chrome
