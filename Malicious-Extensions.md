@@ -1,5 +1,6 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| bkkbcggnhapdmkeljlodobbkopceiche | Pop up blocker for Chrome™ - Poper Blocker | Malware | [www.darkreading.com](https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions) | 29/09/26 | No | Google Chrome
 | fndkoopalankcpdahendaibfcldhnfei | Sound Recorder | Policy Violation | Store Monitoring | 28/09/26 | No | Google Chrome
 | fpdmbflbbohnojfkojinkgbjddkeagpm | Chessr Review Unlocker | Policy Violation | Store Monitoring | 28/09/26 | No | Google Chrome
 | mbgjhobomlfkmihcgofgfbekkaeafjho | Driving Test Grabber | Policy Violation | Store Monitoring | 28/09/26 | No | Google Chrome
