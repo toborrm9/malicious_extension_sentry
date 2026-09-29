@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-28",
-    "timestamp": "1790618914",
+    "date": "2026-09-29",
+    "timestamp": "1790686983",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,49 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "550b7b39-a195-5116-b097-953c61bb3e28",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bkkbcggnhapdmkeljlodobbkopceiche",
+        "comment": "Pop up blocker for Chrome\u2122 - Poper Blocker | Source: https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions | Store: Google Chrome | Added: 2026-09-29",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "fd242976-6ca5-5534-959c-f0c7bded107b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bkkbcggnhapdmkeljlodobbkopceiche",
+        "comment": "Chrome Web Store entry for Pop up blocker for Chrome\u2122 - Poper Blocker (bkkbcggnhapdmkeljlodobbkopceiche)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3a51bbc9-3236-5a6c-a871-f9ad712c9377",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e249ecebe62f444acc8d8a1a8814b4e16dce1152321d7ce2548db425a6e375aa",
+        "comment": "SHA-256 of extension package for Pop up blocker for Chrome\u2122 - Poper Blocker (bkkbcggnhapdmkeljlodobbkopceiche)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "3c87ae5e-7cba-5795-9774-39d1daefeaa4",
         "type": "text",
