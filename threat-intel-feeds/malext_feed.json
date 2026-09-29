@@ -1,12 +1,21 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-09-28T18:08:33Z",
+  "generated": "2026-09-29T13:03:02Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6836,
+  "total_indicators": 6837,
   "indicators": [
+    {
+      "extension_id": "bkkbcggnhapdmkeljlodobbkopceiche",
+      "name": "Pop up blocker for Chrome\u2122 - Poper Blocker",
+      "source": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-29",
+      "store_url": "https://chromewebstore.google.com/detail/bkkbcggnhapdmkeljlodobbkopceiche",
+      "sha256": "e249ecebe62f444acc8d8a1a8814b4e16dce1152321d7ce2548db425a6e375aa"
+    },
     {
       "extension_id": "fndkoopalankcpdahendaibfcldhnfei",
       "name": "Sound Recorder",
