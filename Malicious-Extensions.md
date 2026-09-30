@@ -1,5 +1,10 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| abnmgemfnjndaolfflfpjcckiamamein | Vpn Browser | Policy Violation | Store Monitoring | 30/09/26 | No | Google Chrome
+| hakdahbkblapibbmbdmhnehcjofckkia | SpongeBob SquarePants Cursor | Policy Violation | Store Monitoring | 30/09/26 | No | Google Chrome
+| nppeakfdbipcbbgkbjhfkcgnpgeofmba | The Elder Scrolls Online | Policy Violation | Store Monitoring | 30/09/26 | No | Google Chrome
+| acakkiphjmkiobanaddhcicflfloodkp | Gestão 360° CRM de CHAT Atendimento Web | Policy Violation | Store Monitoring | 30/09/26 | No | Google Chrome
+| npdnjifcapmndlinpglfmjhgmcaigekf | Dishonored Dishonored Def | Policy Violation | Store Monitoring | 30/09/26 | No | Google Chrome
 | bkkbcggnhapdmkeljlodobbkopceiche | Pop up blocker for Chrome™ - Poper Blocker | Spyware | [www.darkreading.com](https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions) | 29/09/26 | No | Google Chrome
 | fndkoopalankcpdahendaibfcldhnfei | Sound Recorder | Policy Violation | Store Monitoring | 28/09/26 | No | Google Chrome
 | fpdmbflbbohnojfkojinkgbjddkeagpm | Chessr Review Unlocker | Policy Violation | Store Monitoring | 28/09/26 | No | Google Chrome
@@ -207,6 +212,7 @@
 | kijmncepdjeabghcjppndcgbogkfhbje | TG Content Downloader - Telegram Downloader | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | cbfjhpdflcjcndojkebpgjlbmdmeamij | Echo Tiles | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
 | jbbiolmffnambllfgoaaphalhojbmaom | Pulse Path | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
+| cimelnkhnffcenamjdjhjdieknlcbeaj | Video Downloader & AI Transcriber — Save & Transcribe Videos | Malware | Store Monitoring | 14/09/26 | No | Google Chrome
 | nbklbljfgmpkblljbbedkhkhamejdmce | Personalization Campaign Auditor | Policy Violation | Store Monitoring | 14/09/26 | No | Google Chrome
 | kgaanolpnilipfmglgfmgfohpcboabic | Google Chrome Password lock | Policy Violation | Store Monitoring | 14/09/26 | No | Google Chrome
 | amlielhlgedcjnbkilihjhoheammcbgm | Best Free Maps | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 14/09/26 | No | Google Chrome
