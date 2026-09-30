@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-29",
-    "timestamp": "1790687288",
+    "date": "2026-09-30",
+    "timestamp": "1790771063",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,221 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "d6fd512d-6b7b-555d-a885-dce67d707211",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abnmgemfnjndaolfflfpjcckiamamein",
+        "comment": "Vpn Browser | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "937ca1be-6918-5689-9e65-e4718b82b658",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abnmgemfnjndaolfflfpjcckiamamein",
+        "comment": "Chrome Web Store entry for Vpn Browser (abnmgemfnjndaolfflfpjcckiamamein)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "99152293-2a9f-5fe9-8244-a6704b4a707c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2b09822976368590c0f414733500e1127e4242049bb472f808c216816edb22aa",
+        "comment": "SHA-256 of extension package for Vpn Browser (abnmgemfnjndaolfflfpjcckiamamein)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "69ebd4d5-567e-5a38-8f1d-40c500d22616",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hakdahbkblapibbmbdmhnehcjofckkia",
+        "comment": "SpongeBob SquarePants Cursor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d3587430-85a1-51e1-9f49-f3da9a49dc01",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hakdahbkblapibbmbdmhnehcjofckkia",
+        "comment": "Chrome Web Store entry for SpongeBob SquarePants Cursor (hakdahbkblapibbmbdmhnehcjofckkia)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b9f7640c-85ff-527a-a708-62f476e0c506",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1e2c77ed0b198a7efd45a4915ded44db9203483b4bbc5791bba05038e3be729c",
+        "comment": "SHA-256 of extension package for SpongeBob SquarePants Cursor (hakdahbkblapibbmbdmhnehcjofckkia)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bb81b56e-565b-5f4c-912b-a81f12db91fd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nppeakfdbipcbbgkbjhfkcgnpgeofmba",
+        "comment": "The Elder Scrolls Online | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1e200ca3-9cdd-54d4-81f8-08107015ea85",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nppeakfdbipcbbgkbjhfkcgnpgeofmba",
+        "comment": "Chrome Web Store entry for The Elder Scrolls Online (nppeakfdbipcbbgkbjhfkcgnpgeofmba)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6dd7178f-5f4b-5f5e-baf6-4bea4683fab9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "756dd19d6c772d123818bbb039c115b26d126bac5e40084d4d5ade88d10d2efe",
+        "comment": "SHA-256 of extension package for The Elder Scrolls Online (nppeakfdbipcbbgkbjhfkcgnpgeofmba)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0bf8e94f-2751-5dd9-83a0-e07b096a11c4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "acakkiphjmkiobanaddhcicflfloodkp",
+        "comment": "Gest\u00e3o 360\u00b0 CRM de CHAT Atendimento Web | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "e5a1ce5f-f9af-59ba-8ec0-b12506a6e50b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/acakkiphjmkiobanaddhcicflfloodkp",
+        "comment": "Chrome Web Store entry for Gest\u00e3o 360\u00b0 CRM de CHAT Atendimento Web (acakkiphjmkiobanaddhcicflfloodkp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bb1f7e42-39bc-5057-8705-3fb1a610151f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9fbf0c247f807eaf5d8d12431eec949dbfa360c49f36a837f6e9d3f83235952e",
+        "comment": "SHA-256 of extension package for Gest\u00e3o 360\u00b0 CRM de CHAT Atendimento Web (acakkiphjmkiobanaddhcicflfloodkp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "660de4bc-5cf2-5193-9d3d-0ad6c9e89bf1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "npdnjifcapmndlinpglfmjhgmcaigekf",
+        "comment": "Dishonored Dishonored Def | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-30",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8896aedd-e61c-54ad-a2fa-e57346362171",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/npdnjifcapmndlinpglfmjhgmcaigekf",
+        "comment": "Chrome Web Store entry for Dishonored Dishonored Def (npdnjifcapmndlinpglfmjhgmcaigekf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8fcf3a97-07bf-5409-9628-fc7e1d06df3a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1b6288c6bd9f904e4a172f90684a27c1f36ec05a9c7411b588a526fd6aac83b5",
+        "comment": "SHA-256 of extension package for Dishonored Dishonored Def (npdnjifcapmndlinpglfmjhgmcaigekf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "550b7b39-a195-5116-b097-953c61bb3e28",
         "type": "text",
@@ -8907,6 +9122,49 @@
         "to_ids": true,
         "value": "08eaa36e4583465a9e28e7ee5199a9a4431e47e313665d94b251fae5b8e0e065",
         "comment": "SHA-256 of extension package for Pulse Path (jbbiolmffnambllfgoaaphalhojbmaom)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "268caefb-dbfa-5864-ba5a-8476eb2dcf79",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cimelnkhnffcenamjdjhjdieknlcbeaj",
+        "comment": "Video Downloader & AI Transcriber \u2014 Save & Transcribe Videos | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9761a9f5-7e9b-5f90-aa49-c037016d60ab",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cimelnkhnffcenamjdjhjdieknlcbeaj",
+        "comment": "Chrome Web Store entry for Video Downloader & AI Transcriber \u2014 Save & Transcribe Videos (cimelnkhnffcenamjdjhjdieknlcbeaj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0bbe6c9b-2b93-57c4-9a7b-849a11e580d7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a8b8a09cdfd46dc6b9e8588b6e33afd55b66570fd5eec04de410a7111e037c8f",
+        "comment": "SHA-256 of extension package for Video Downloader & AI Transcriber \u2014 Save & Transcribe Videos (cimelnkhnffcenamjdjhjdieknlcbeaj)",
         "distribution": "5",
         "Tag": [
           {
