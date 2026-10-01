@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-09-30",
-    "timestamp": "1790771063",
+    "date": "2026-10-01",
+    "timestamp": "1790861069",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,264 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "8e6c3c24-1e82-57fa-a327-caeecbc2058d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mjnmolplinickaigofdpejfgfoehnlbh",
+        "comment": "Ferret | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "a64c5fdb-ab7f-5af0-8383-de0e9ef86c09",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mjnmolplinickaigofdpejfgfoehnlbh",
+        "comment": "Chrome Web Store entry for Ferret (mjnmolplinickaigofdpejfgfoehnlbh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "00cb6475-3273-5c91-a3fb-4fb3e9fe64bc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9be8ad425b175e70567ca6bade8ab05499027c5a180768b59cc638f9592f91c4",
+        "comment": "SHA-256 of extension package for Ferret (mjnmolplinickaigofdpejfgfoehnlbh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a331839e-71a1-5163-ab7c-21976a6264d1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cmaakmibipanaffnpnemkdagmpkcchlg",
+        "comment": "The Evil Within - Face Up | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "08c5b63d-d3b4-5d16-90bd-67fc6ab6d989",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cmaakmibipanaffnpnemkdagmpkcchlg",
+        "comment": "Chrome Web Store entry for The Evil Within - Face Up (cmaakmibipanaffnpnemkdagmpkcchlg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7acf7fce-b947-50e3-8dc9-106d70d3d318",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "04dbf1765845578e81d6d2f70975ef16127394baa233eef3406a6ed8f9fc8d14",
+        "comment": "SHA-256 of extension package for The Evil Within - Face Up (cmaakmibipanaffnpnemkdagmpkcchlg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bb9c4aa1-dc03-53e1-a571-765ea3430879",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "manmmmhaiepbhcoifikogmjffoaacdlf",
+        "comment": "Doom Eternal theme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "34f94de8-240f-518b-9a17-d30ee2f1e0c2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/manmmmhaiepbhcoifikogmjffoaacdlf",
+        "comment": "Chrome Web Store entry for Doom Eternal theme (manmmmhaiepbhcoifikogmjffoaacdlf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e029d362-4375-5c5f-8e1c-0d580238d3aa",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c014bd88f28742e67a35326a9fa62a8a49bb308836d130f6d082d6ec35d570f5",
+        "comment": "SHA-256 of extension package for Doom Eternal theme (manmmmhaiepbhcoifikogmjffoaacdlf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "707e7cdd-d344-5897-8ba1-ca9ee86b56d1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kecelcmfploggondgiojacddgmcbkbgo",
+        "comment": "The Loud House Cursor - Cartoon Cursor for Chrome | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1739961a-13e4-502f-82f2-6c435e1ce4cc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kecelcmfploggondgiojacddgmcbkbgo",
+        "comment": "Chrome Web Store entry for The Loud House Cursor - Cartoon Cursor for Chrome (kecelcmfploggondgiojacddgmcbkbgo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d322a21a-b316-5e5b-b1a8-52bb86fbd62d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "869bd46f516bee0e587a46a7cfa3b293a94ef91afaf3dcf21841056437feec00",
+        "comment": "SHA-256 of extension package for The Loud House Cursor - Cartoon Cursor for Chrome (kecelcmfploggondgiojacddgmcbkbgo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a4605816-3551-5883-82b8-eeb42922827f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "djdaaghafdbopiighgoiicjmbgjpecen",
+        "comment": "Ninja Turtles Cursor - TMNT Cursor Pack | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5d01e225-b833-5aeb-b134-47806f1ea147",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/djdaaghafdbopiighgoiicjmbgjpecen",
+        "comment": "Chrome Web Store entry for Ninja Turtles Cursor - TMNT Cursor Pack (djdaaghafdbopiighgoiicjmbgjpecen)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "59b100a2-0a27-57d3-8b0c-fde6d6841172",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6fb415e94c2fb8b4e34c326e46a00d4946fdc19194c9ed3c4cb5725cb69a8cd1",
+        "comment": "SHA-256 of extension package for Ninja Turtles Cursor - TMNT Cursor Pack (djdaaghafdbopiighgoiicjmbgjpecen)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a8315bf7-a191-5610-8072-e5540231a76f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cadanfdgojoclmplhcnobkjchcecfdje",
+        "comment": "Coding Plan Dashboard | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "5dc03be4-8baf-540a-a07d-cf58c3413ecd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cadanfdgojoclmplhcnobkjchcecfdje",
+        "comment": "Chrome Web Store entry for Coding Plan Dashboard (cadanfdgojoclmplhcnobkjchcecfdje)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "39307728-a31c-514e-bbf5-1c41cb75fe38",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "dd37e9af3d3762f4d2f065de34cf329065d60608016b98483ac87d5d2ff38462",
+        "comment": "SHA-256 of extension package for Coding Plan Dashboard (cadanfdgojoclmplhcnobkjchcecfdje)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "d6fd512d-6b7b-555d-a885-dce67d707211",
         "type": "text",
@@ -3454,6 +3712,49 @@
         ]
       },
       {
+        "uuid": "3de3696e-57fb-584e-a246-488871d3a12a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jijpagjcjhicbiejgajjnbnlpibiggik",
+        "comment": "TeamPulse Activity Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "8fca8f3f-d27a-5729-a9e5-eb619908fd20",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jijpagjcjhicbiejgajjnbnlpibiggik",
+        "comment": "Chrome Web Store entry for TeamPulse Activity Tracker (jijpagjcjhicbiejgajjnbnlpibiggik)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1e2b070a-0a3a-5ccb-b6b5-34404247cdc7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b691e2dfd3695d9044ff352b2e143b838c903339511247cee00e0dfbb1b7eecc",
+        "comment": "SHA-256 of extension package for TeamPulse Activity Tracker (jijpagjcjhicbiejgajjnbnlpibiggik)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "b73a018b-db6d-5660-a96e-b0ade2cef64e",
         "type": "text",
         "category": "Other",
@@ -6722,6 +7023,264 @@
         ]
       },
       {
+        "uuid": "a3819f64-68a9-5e05-92f5-0f53c855719c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fpncfojakaoniabjokdgebiepabhljmd",
+        "comment": "GitHub Filters | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b329087e-42d5-50bd-86f1-3b06efdaa0be",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fpncfojakaoniabjokdgebiepabhljmd",
+        "comment": "Chrome Web Store entry for GitHub Filters (fpncfojakaoniabjokdgebiepabhljmd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4e12729d-2087-522c-98b5-b105c4600594",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5015cdbe9df8dd595626f279f4c1693bc7185af3bf39229148cdc1f6e76b59ed",
+        "comment": "SHA-256 of extension package for GitHub Filters (fpncfojakaoniabjokdgebiepabhljmd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "56d42606-3f7f-5f05-9bf0-c11ac238769b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cnbhhgjkoboamkmoonajdclidaepgikd",
+        "comment": "Sports Betting Odds Finder | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4d6febbf-4236-5bbe-9798-f7e73fbac979",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cnbhhgjkoboamkmoonajdclidaepgikd",
+        "comment": "Chrome Web Store entry for Sports Betting Odds Finder (cnbhhgjkoboamkmoonajdclidaepgikd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2476cf46-63b1-5513-a6b7-9bc9a5c370c3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c2c697fdb845f3e222f466856051dad88416720ffcfbe52db7e8016f6db47a7f",
+        "comment": "SHA-256 of extension package for Sports Betting Odds Finder (cnbhhgjkoboamkmoonajdclidaepgikd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d457676a-0ce8-5e25-9c4d-126d8af3ebc0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cecmiiiamjiklldkgnllopnlchnejaia",
+        "comment": "PantryChef Flavor Injector | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0840e694-5f03-5b7f-b3f0-72deb4cd0b18",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cecmiiiamjiklldkgnllopnlchnejaia",
+        "comment": "Chrome Web Store entry for PantryChef Flavor Injector (cecmiiiamjiklldkgnllopnlchnejaia)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3f752cca-897d-59ad-a552-b8083897e20d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6c8879623c44817ca5363506b197a5922682d9c20fd63ddaa8e06045457c3aee",
+        "comment": "SHA-256 of extension package for PantryChef Flavor Injector (cecmiiiamjiklldkgnllopnlchnejaia)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "92a0ea47-7fc8-55fe-b69c-c7875563d913",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "imhabfamlbnipgkjpmjigmgdbohidiki",
+        "comment": "American Odds Everywhere | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "9039be6b-62e3-5c8f-9e7f-f95201d19d01",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/imhabfamlbnipgkjpmjigmgdbohidiki",
+        "comment": "Chrome Web Store entry for American Odds Everywhere (imhabfamlbnipgkjpmjigmgdbohidiki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "17370313-e15f-55c4-964f-92e582d6a087",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a5083be66d4b199361151761129d66a044107cf4dc266980f1e5913a99e80e78",
+        "comment": "SHA-256 of extension package for American Odds Everywhere (imhabfamlbnipgkjpmjigmgdbohidiki)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8e556471-1eb3-5122-96c6-32031ba497f5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eihmaimpjpomamfpemhkjpmejokcnicb",
+        "comment": "The Evil Within - Its Hammer Time | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "59575882-e8c0-5b3f-9af8-a81fc25a6a86",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eihmaimpjpomamfpemhkjpmejokcnicb",
+        "comment": "Chrome Web Store entry for The Evil Within - Its Hammer Time (eihmaimpjpomamfpemhkjpmejokcnicb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cfa52b83-2694-5133-bcb6-d26edd7d256b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "78a9ca354397aa61104614b69e839ac8f8dda3ae2e2acbeb886fe95562f93c89",
+        "comment": "SHA-256 of extension package for The Evil Within - Its Hammer Time (eihmaimpjpomamfpemhkjpmejokcnicb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "addb2068-0364-5111-ad6e-f25f39693094",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adhgmflfoijpfocklpgcghceadlpkola",
+        "comment": "Doom Eternal | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "d6c5b514-92dd-5e20-961f-a4f73de1535f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/adhgmflfoijpfocklpgcghceadlpkola",
+        "comment": "Chrome Web Store entry for Doom Eternal (adhgmflfoijpfocklpgcghceadlpkola)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c253352c-c2af-5724-a7fa-0f4f070cf5e6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4fc3103fd882e20a0d42bdaee42638e71904e2124a5f8697719bc774fe5febd3",
+        "comment": "SHA-256 of extension package for Doom Eternal (adhgmflfoijpfocklpgcghceadlpkola)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "2fc3805b-d191-50f1-93df-344d16af7870",
         "type": "text",
         "category": "Other",
@@ -9724,6 +10283,49 @@
         "to_ids": true,
         "value": "9ea1d6027e8b0a3767e5e232fcef6d433195448655e7dbab5704e9c0cca87acf",
         "comment": "SHA-256 of extension package for 360Airo LinkedIn Automation (ppemikmneckkgmmbedecgnclmcgfhemf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c9412456-23dd-5690-af91-c9138c441760",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hkobeinmfiiihegbcflpmpnpdgdcciga",
+        "comment": "TikTok View Bot | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "857a2206-135c-53ee-a785-4484adda78f2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hkobeinmfiiihegbcflpmpnpdgdcciga",
+        "comment": "Chrome Web Store entry for TikTok View Bot (hkobeinmfiiihegbcflpmpnpdgdcciga)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4bb1c923-4b61-5d06-85ad-8a03f951690b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "041bfecdd79dbe7ffc9f4006df368aa64c13270bad0b05a17a7c3552f18a2047",
+        "comment": "SHA-256 of extension package for TikTok View Bot (hkobeinmfiiihegbcflpmpnpdgdcciga)",
         "distribution": "5",
         "Tag": [
           {
