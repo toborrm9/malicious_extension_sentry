@@ -1,5 +1,11 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| mjnmolplinickaigofdpejfgfoehnlbh | Ferret | Policy Violation | Store Monitoring | 01/10/26 | No | Google Chrome
+| cmaakmibipanaffnpnemkdagmpkcchlg | The Evil Within - Face Up | Policy Violation | Store Monitoring | 01/10/26 | No | Google Chrome
+| manmmmhaiepbhcoifikogmjffoaacdlf | Doom Eternal theme | Policy Violation | Store Monitoring | 01/10/26 | No | Google Chrome
+| kecelcmfploggondgiojacddgmcbkbgo | The Loud House Cursor - Cartoon Cursor for Chrome | Policy Violation | Store Monitoring | 01/10/26 | No | Google Chrome
+| djdaaghafdbopiighgoiicjmbgjpecen | Ninja Turtles Cursor - TMNT Cursor Pack | Policy Violation | Store Monitoring | 01/10/26 | No | Google Chrome
+| cadanfdgojoclmplhcnobkjchcecfdje | Coding Plan Dashboard | Policy Violation | Store Monitoring | 01/10/26 | No | Google Chrome
 | abnmgemfnjndaolfflfpjcckiamamein | Vpn Browser | Policy Violation | Store Monitoring | 30/09/26 | No | Google Chrome
 | hakdahbkblapibbmbdmhnehcjofckkia | SpongeBob SquarePants Cursor | Policy Violation | Store Monitoring | 30/09/26 | No | Google Chrome
 | nppeakfdbipcbbgkbjhfkcgnpgeofmba | The Elder Scrolls Online | Policy Violation | Store Monitoring | 30/09/26 | No | Google Chrome
@@ -80,6 +86,7 @@
 | mdplfconnjkbnbfjggghggdjigalocpi | Seoprospector | Policy Violation | Store Monitoring | 21/09/26 | No | Google Chrome
 | nbjicjkppoagjgpjhfhbpapklhjccbmi | Asqui Kanban Para Whatsap | Bundling Unwanted Software | Store Monitoring | 21/09/26 | No | Google Chrome
 | fiedhaiildjjiohpldkpdehklanpeeal | Blooket Hacker Pro | Bundling Unwanted Software | Store Monitoring | 21/09/26 | No | Google Chrome
+| jijpagjcjhicbiejgajjnbnlpibiggik | TeamPulse Activity Tracker | Policy Violation | Store Monitoring | 20/09/26 | No | Google Chrome
 | pdeglbcbdehfjfllclngapefcppbbjmp | GistGem: WhatsApp & Telegram Chat Summarizer | Policy Violation | Store Monitoring | 20/09/26 | No | Google Chrome
 | pceglhkjfpdbfdpflbfkoakaedegggfo | Crypto Ticker Tracker | Bundling Unwanted Software | Store Monitoring | 20/09/26 | No | Google Chrome
 | fdgcbdgmldcoapldhjjcapnkajkiogfp | Crypto Whale Alert Tracker | Bundling Unwanted Software | Store Monitoring | 20/09/26 | No | Google Chrome
@@ -156,6 +163,12 @@
 | bifjefoimhhfolaciijdmgflpopoiknc | Customs Duty Preview for Overseas Orders | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
 | lblnbldblpeiikndppnekobccdocccho | Github Sidebar | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
 | bhhdjpgbfegfppmgghgcjbennmjkgpog | Fomy de Profit CSGOnet 3.0 | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
+| fpncfojakaoniabjokdgebiepabhljmd | GitHub Filters | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| cnbhhgjkoboamkmoonajdclidaepgikd | Sports Betting Odds Finder | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| cecmiiiamjiklldkgnllopnlchnejaia | PantryChef Flavor Injector | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| imhabfamlbnipgkjpmjigmgdbohidiki | American Odds Everywhere | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| eihmaimpjpomamfpemhkjpmejokcnicb | The Evil Within - Its Hammer Time | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| adhgmflfoijpfocklpgcghceadlpkola | Doom Eternal | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | fghbfikeodjkbajmokiekipabfckcpgc | Free B2B Contact Info by AroundDeal | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | ldecmalpmimbhlmaifaimbbiijjjbpkl | Instagram Session Manager | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | nnhbalocjegncbfhoamigcoekhgacbpl | Hook Hunter: X Content Research | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
@@ -226,6 +239,7 @@
 | hchgpickaccllllieicdgolcickgbbgn | Unriddle | Policy Violation | Store Monitoring | 14/09/26 | No | Google Chrome
 | ekchdpohdefapomdafjaaancoklocjgg | Adsift | Bundling Unwanted Software | Store Monitoring | 14/09/26 | No | Google Chrome
 | ppemikmneckkgmmbedecgnclmcgfhemf | 360Airo LinkedIn Automation | Malware | [chromewebstore.google.com](https://chromewebstore.google.com/detail/ppemikmneckkgmmbedecgnclmcgfhemf) | 14/09/26 | No | Google Chrome
+| hkobeinmfiiihegbcflpmpnpdgdcciga | TikTok View Bot | Policy Violation | Store Monitoring | 13/09/26 | No | Google Chrome
 | agaikmbaghikkfofnphbglihkieeadnb | Newtabtvds | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
 | achlokfmjbnihekifloifoepmhhphink | Quick Engine Switch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
 | apjmjgfkklgfmpmgajijdhheipjekfpa | Stunning Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 13/09/26 | No | Google Chrome
