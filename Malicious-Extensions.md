@@ -1,5 +1,17 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| agnahncoeolioalccjpgbnkecogkjaef | Enterprise Policy Sync | Bundling Unwanted Software | Store Monitoring | 02/10/26 | No | Google Chrome
+| nhahfpklkfopcnimccfendidbeimjhnh | PodcastCreator Studio | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
+| kdkdegmfokimghnafhjlpiahgiicfcla | PolyArbitrage - Polymarket Odds Scanner | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
+| mobnliklfmafcjafjkbjcjginigaidhl | TikTok Video Saver — No Watermark | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
+| fpfdkingmfhfgpjkbnngdianoohlgeho | LichessDotCom | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
+| eeojhffigionaocclbmdockiodmkigpo | New Title Extension! | Bundling Unwanted Software | Store Monitoring | 02/10/26 | No | Google Chrome
+| bacpmpojkggibcadipnkpifihlfcljbg | LeetRank Pro &amp; Sync | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
+| obmgknlhnleakpmjecfjdfidgkbgahmm | TubePark — Frictionless Visual Scratchpad for YouTube | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
+| chkhmagfndeajmfikjimgcahhmdkdhfe | Stream-win — MultiSkin | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
+| nlabgdamijgifhlibogjohecehfemkee | Pinned Proton Mail Window Starter | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
+| njglijkehpdjockbieohgmcagepkbfop | Mimo | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
+| pnkelkiidecmeipeoplbmkobilckijff | 캐시플랜 도우미 | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
 | mjnmolplinickaigofdpejfgfoehnlbh | Ferret | Policy Violation | Store Monitoring | 01/10/26 | No | Google Chrome
 | cmaakmibipanaffnpnemkdagmpkcchlg | The Evil Within - Face Up | Policy Violation | Store Monitoring | 01/10/26 | No | Google Chrome
 | manmmmhaiepbhcoifikogmjffoaacdlf | Doom Eternal theme | Policy Violation | Store Monitoring | 01/10/26 | No | Google Chrome
@@ -225,7 +237,7 @@
 | kijmncepdjeabghcjppndcgbogkfhbje | TG Content Downloader - Telegram Downloader | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | cbfjhpdflcjcndojkebpgjlbmdmeamij | Echo Tiles | Malware | Store Monitoring | 16/09/26 | No | Google Chrome
 | jbbiolmffnambllfgoaaphalhojbmaom | Pulse Path | Malware | Store Monitoring | 16/09/26 | Yes | Google Chrome
-| cimelnkhnffcenamjdjhjdieknlcbeaj | Video Downloader & AI Transcriber — Save & Transcribe Videos | Malware | Store Monitoring | 14/09/26 | No | Google Chrome
+| cimelnkhnffcenamjdjhjdieknlcbeaj | Video Downloader & AI Transcriber — Save & Transcribe Videos | Malware | Store Monitoring | 14/09/26 | Yes | Google Chrome
 | nbklbljfgmpkblljbbedkhkhamejdmce | Personalization Campaign Auditor | Policy Violation | Store Monitoring | 14/09/26 | No | Google Chrome
 | kgaanolpnilipfmglgfmgfohpcboabic | Google Chrome Password lock | Policy Violation | Store Monitoring | 14/09/26 | No | Google Chrome
 | amlielhlgedcjnbkilihjhoheammcbgm | Best Free Maps | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 14/09/26 | No | Google Chrome
