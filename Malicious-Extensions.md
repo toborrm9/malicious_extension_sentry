@@ -1,11 +1,88 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| bffdhafoiokheeldgggplbflmppjebcl | Dopamodoro Adhd Pomodoro | Policy Violation | Store Monitoring | 03/10/26 | No | Google Chrome
+| ldhlnkgkhfbcaalhiapgnfbiaoknlcfl | I2Canada Form Filler | Policy Violation | Store Monitoring | 03/10/26 | No | Google Chrome
+| pinoohfkdmpdbjnailmgpjmmdbfmfmfn | Super Video Popup | Policy Violation | Store Monitoring | 03/10/26 | No | Google Chrome
+| jefeejcmocgiekfpmiepdjjoopodmnmb | Glorifind Search Engine | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| baooihonffppdgichicdnahdlehiglpm | Fetchus Loyal Search Engine | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ehkckfcdejknkmnomghnljibmkogbeil | Abcsearch Search Engine | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| hbmmidflopehdmpfofdpkgopopmodffj | Price Comparison – Amazon vs. Walmart, Target, Best Buy, eBay &amp; more | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| hfjoaohgiikdanjdmgalfmmkcbajodko | Local Media Player | Malware | MalExt Analysis | 03/10/26 | No | Google Chrome
+| cplfpogibkkmmficaepjiemimenignoh | Simple Audio Voice Sound | Malware | MalExt Analysis | 03/10/26 | No | Google Chrome
+| hnlkeooopnkhndcaafmdolkkgjkdnmfe | CogiSearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| gpbjkpeplkgbglpinncflpeejgkppdkc | SearchCamp: Turn Your Searches Into Support | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| lkdiahigpohkffehijobjjfepchnmgak | BuzzNews Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| jpdicggblolgaodngdljnmmnnodhpafb | Digital Ease - Safer | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| khngdllgpoifpfakbhmjofobackgdoaj | Search Easy | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| apgbgahjjipjnkgmflnfacfbnpdegaog | My Tab | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| lfcdepcdmhhbdanjmcncmciboddgooah | search.jaetbo.com | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| hoahknejncfppniniebcmmmfgbbkoopp | SearchSwiftly | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| oobjhfefockmhcjniogpphbahliiemfm | Total Search - Safer Searching, Smarter Browsing | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| lcipcnkaddnbbplbldgnfflflikloabc | Daily Quote | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| kfdpljoblfegbafdiggoiddakigdofec | QweZ | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| chledhoifpcbdhjalhlmkgmcghcejnip | Reddit Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| igeomhhnjgocnedanlmfobhigpecbmdo | SimplyFound | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ikpfldiknficpkhengmaeabhofikajoi | Multsearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| gbjanaamghfmlocjnncejdjafoomhbbh | Shopping Helper+ | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| dblppmongpoalahfeocngbamkplfbenk | Vagrantquest | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| likpjeepgjhfnmfpekbbjjkdcknomijo | Tephraexplorer | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| lnggbclicfphhejijcdnfmaaklmioomg | Exploremycrema | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| gbmehnljoagfghaeaohdodlnocgcnonk | Tesserafinder | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| lfgjmdjciokgldnaleebdmlhhlldilib | Windaft | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ibjgcgopmabjdiceaoejlejfegabbemf | Right Click To Search Any | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| kpkookmoimnebanjalogloohpapajpee | Recipe Finder With Ingred | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| gkljjenlnccadianipccdggaabhpnfjf | Academic Search Navigator | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| pileljahoggbiobjjmiakkoagcbaceji | Usa Coupons Deals Promo C | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ilemanhbkcklijjeoakoimffopoemajj | MyCodingFinder | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| hnpmcbkjlbnlcojhjbnibneckkdgkhip | My Search Panel | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| gbkifnmjkjmmncjcfcpdcnajlipadhem | People | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| doigcihcfafbhlpgeicidfidfoookdim | Site Download | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| dilmlopkhhfpnclgpealaenbpgcelced | Movieztab Default Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| dhoolcnhokmhfjlenbefdhilmhnjphhd | Delete Search History- Automagically! | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| dadaikpnpabblcfljbmgkpgpnmjlnnka | Donald Trump | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| cogjjnjmkpcekoeelcoklnfpmbjiacma | Calendar Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| cldncpmlmnmkmpbnelgabeefcjhjhjll | Half Time Daily | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ckafdclckohinidlkoclbgjnikaphmha | Safe Search by Wander | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| mnalniddbofncejdkbgkpkhgmhbejega | Yahoo Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| mihejilgifecplfpdfhjghfmhbhajcke | Discussions on HN, Reddit and Lobsters | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ldmnpfbhdhmdakfdlgfehcojocicialc | Space Web Results | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| kdalbfjkendenkpffjdamiklbcdbggbj | AnsweritWow | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| maijndpinneklhifoccjlgjajknhfplb | Petal Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| pclnlcppchahhhnnmgfdjglmmgklcpma | Safe Web Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ldldaoanfockieamnojlpadoepcehnlh | Perfection Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| liahgbgjbkhppckjjifbikabilcaldij | Safe Search 67 | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| naebcgbikbihkhhmkmfkaiochcokalne | SmartSpeedTester | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ncpaocdidimfckjmhafkpghjpedlcocc | The search engine to improve your productivity - GoSearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| lihjaejnopneagkmhhdohihdkegafilg | GDAI - Web and AI Search for everyone | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| hboldpniicbdhlfcejjlkdgnbppiaajn | Anywhere Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ofncnkgfhljinmkjbjckpdfccginklph | Prefind - Your AI Search powered by Claude-3 &amp; GPT-4 | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| oadlamjbejlcfifalhbnmhggeinoegjc | Search Freshy | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| klkjgpmdjocaabfgddmnbahcaibjnene | MultiSearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ibnhcclcebpcmcgnplkamfolnkgaigjd | Global Search Switcher | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| jobhcapecbgkfcaopephnmoaoklkgokm | Image Search Pro | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| pofigoikkklphmgfobjkcommfoccjomj | Dream Vacations Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ogeojedmbbkegmemndbinckochofelkh | After Dark Mode | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| npogpbnkjaklhbhfhnlmjkmbkgofnhbl | NotedIt | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| noegilljdkidappjfcpoogfalfbdbplb | Easy Social Searcher | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| nibcomahncdgfpomleflglbefefieape | Explore To Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| mpenggiajpfhgcmjgapbgmpldcekpcbf | Live Password Generator | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ppkekhfpeebogclgcliggnngplndbpem | Bing™ Chatbot | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ophmlbpllbngfhopljfmopkboaklomgf | Earth Satellite Map | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| pckodmjhkabfmljinocgadlpmlefefoi | PDF Manuals | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| keofgecifdfhcacnmppohlpklmjoealp | Webstatsearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 03/10/26 | No | Google Chrome
+| ogpmhbaencdkalhoinfnlpelohofinpj | Automate Bing Searches Re | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 02/10/26 | No | Google Chrome
+| mpdhbebandcpmhidddlgkjjnkadhaemf | Youcare The Charitable Se | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 02/10/26 | No | Google Chrome
+| kcolfknbiiflcnighkobmmleifimapee | נגן שירים פלוס | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 02/10/26 | No | Google Chrome
+| iaddnieblncoaceemlhlbaegajapbcmi | Goodsearch Search Earn Mo | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 02/10/26 | No | Google Chrome
+| gopekdefbcehhdiejdiaijhojgbepgec | поиск и стартовая — яндек | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 02/10/26 | No | Google Chrome
+| poechimcablfflpdhiamobbkgjpbgmnp | Bing Search For Chrome | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 02/10/26 | No | Google Chrome
+| pofncackllobleibkanhlbiaagjbgeao | Searchbits | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 02/10/26 | No | Google Chrome
 | agnahncoeolioalccjpgbnkecogkjaef | Enterprise Policy Sync | Bundling Unwanted Software | Store Monitoring | 02/10/26 | No | Google Chrome
 | nhahfpklkfopcnimccfendidbeimjhnh | PodcastCreator Studio | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
 | kdkdegmfokimghnafhjlpiahgiicfcla | PolyArbitrage - Polymarket Odds Scanner | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
 | mobnliklfmafcjafjkbjcjginigaidhl | TikTok Video Saver — No Watermark | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
 | fpfdkingmfhfgpjkbnngdianoohlgeho | LichessDotCom | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
-| eeojhffigionaocclbmdockiodmkigpo | New Title Extension! | Bundling Unwanted Software | Store Monitoring | 02/10/26 | No | Google Chrome
+| eeojhffigionaocclbmdockiodmkigpo | New Title Extension! | Bundling Unwanted Software | Store Monitoring | 02/10/26 | Yes | Google Chrome
 | bacpmpojkggibcadipnkpifihlfcljbg | LeetRank Pro &amp; Sync | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
 | obmgknlhnleakpmjecfjdfidgkbgahmm | TubePark — Frictionless Visual Scratchpad for YouTube | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
 | chkhmagfndeajmfikjimgcahhmdkdhfe | Stream-win — MultiSkin | Policy Violation | Store Monitoring | 02/10/26 | No | Google Chrome
