@@ -1,5 +1,25 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| jhkkmmignhdlfklcelejoniboohcfmep | Language Learning | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| bjokekhmbkkgohiedecgkkfgppoghjji | Reading Time — Article Read Time Calculator | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| efieelkohffbjnblcmomcejjbapaipnh | Scroll to Top - Back to Top Button | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| jkmnlcgkacoccikmklcmfanpenefmpac | 내려가개 — 쿠팡 가격 추적 | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| mfnlknmbkfnlgcjebdogolbakcekohfj | KoreaDropdown | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| klfmmbomaiilnflhijhoclmnghkpbkni | Color Picker | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| hgcmokdfbgnakiifclhfifdphfofmngp | Quick Memo | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| pllpmojagjlnbclefckhdebmlkjhhcfh | Air Quality Monitor | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| eobmkhocignkllbfigodhemdefbjldcb | Video Speed Controller - Playback Speed | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| gbgdekgkmaaamplkcdaanpdokmjjcdbm | Image Downloader - Save All Images | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| bfmbfkjblcjafoppfkaciebmmmocdbld | Metamask Tracker Wallet | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| iclkfegmbldfjjlgngidahinmhogbfna | Auto Scroll - Hands Free Page Scroller | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| pifjjafdfdkglnnkeahlcndkmknlgocm | Reaction Time Test - New Tab Game | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| ebkkpkifaojdccgpaldnpclompdojmbh | SEO Toolkit | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| ofgiffiieajicdflklkoapgndinhfacm | Eye Rest Reminder | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| pneghlnjfomljbhmgkomelljpfgfgadf | Velog Cleaner | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| npnpaeaokmghimmdkkmccgnkmeonbajk | Gmn Image Captioner | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| ihkahonemdakgeolnfemflljeopokgni | YouTube Enhancer | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| fkddfdhkgfneiibakfdhgpbkkcnnlook | GitHub 한국어 (GitHub Korean) | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| idljngaiennojhhjpdlhlmgdhepkdoid | Uyap çOklu Giriş | Malware |  | 04/10/26 | No | Google Chrome
 | bffdhafoiokheeldgggplbflmppjebcl | Dopamodoro Adhd Pomodoro | Policy Violation | Store Monitoring | 03/10/26 | No | Google Chrome
 | ldhlnkgkhfbcaalhiapgnfbiaoknlcfl | I2Canada Form Filler | Policy Violation | Store Monitoring | 03/10/26 | No | Google Chrome
 | pinoohfkdmpdbjnailmgpjmmdbfmfmfn | Super Video Popup | Policy Violation | Store Monitoring | 03/10/26 | No | Google Chrome
@@ -252,6 +272,8 @@
 | bifjefoimhhfolaciijdmgflpopoiknc | Customs Duty Preview for Overseas Orders | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
 | lblnbldblpeiikndppnekobccdocccho | Github Sidebar | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
 | bhhdjpgbfegfppmgghgcjbennmjkgpog | Fomy de Profit CSGOnet 3.0 | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
+| ipmjojeobpacemeikblemggmjfclbanc | MeetingCost — Real-Time Meeting Calculator | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
+| aiinndlgapecapnickeejalanphmkmid | Cs2Deal Extension | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | fpncfojakaoniabjokdgebiepabhljmd | GitHub Filters | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | cnbhhgjkoboamkmoonajdclidaepgikd | Sports Betting Odds Finder | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | cecmiiiamjiklldkgnllopnlchnejaia | PantryChef Flavor Injector | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
