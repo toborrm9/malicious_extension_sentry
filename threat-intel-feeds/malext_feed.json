@@ -1,12 +1,21 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-04T23:27:57Z",
+  "generated": "2026-10-04T23:49:49Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6984,
+  "total_indicators": 6985,
   "indicators": [
+    {
+      "extension_id": "hlnijgamhhjgdlchhfbpkgfgdkpifghl",
+      "name": "RBX Multiple Account",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-05",
+      "store_url": "https://chromewebstore.google.com/detail/hlnijgamhhjgdlchhfbpkgfgdkpifghl",
+      "sha256": "ed27e4894fb1d711c90951fd282966adeaadbdf3c5f1043c2e9e52bf2d87c5ff"
+    },
     {
       "extension_id": "akopacbpfbbmmneakppnblmpcnbibapl",
       "name": "Pomodoro Timer",
