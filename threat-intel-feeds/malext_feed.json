@@ -1,12 +1,156 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-04T22:16:38Z",
+  "generated": "2026-10-04T23:27:57Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6968,
+  "total_indicators": 6984,
   "indicators": [
+    {
+      "extension_id": "akopacbpfbbmmneakppnblmpcnbibapl",
+      "name": "Pomodoro Timer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/akopacbpfbbmmneakppnblmpcnbibapl",
+      "sha256": ""
+    },
+    {
+      "extension_id": "kdicdaagghojkopcbbmnkopgcafmfpkl",
+      "name": "Tab Manager - Organize &amp; Search Tabs",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/kdicdaagghojkopcbbmnkopgcafmfpkl",
+      "sha256": ""
+    },
+    {
+      "extension_id": "mpkhcmfllidldnccpljofholbpinffgp",
+      "name": "Link Preview - Hover to Preview Any Link",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/mpkhcmfllidldnccpljofholbpinffgp",
+      "sha256": ""
+    },
+    {
+      "extension_id": "ndoihodpeipgbogeecdiphdkjpcjoofp",
+      "name": "Page Ruler - Measure Pixels on Screen",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/ndoihodpeipgbogeecdiphdkjpcjoofp",
+      "sha256": ""
+    },
+    {
+      "extension_id": "fnbgmclafobbiehnefgblkbgkelbjgeb",
+      "name": "ScreenDiet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/fnbgmclafobbiehnefgblkbgkelbjgeb",
+      "sha256": ""
+    },
+    {
+      "extension_id": "pokemmhcmjimabblchgdfpfbgepjpcbh",
+      "name": "Focus Guard \u2014 Distraction Blocker & Mindful Browsing",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/pokemmhcmjimabblchgdfpfbgepjpcbh",
+      "sha256": ""
+    },
+    {
+      "extension_id": "kgmlpkchejkdknjibcepilibdphlmlen",
+      "name": "BugSnap",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/kgmlpkchejkdknjibcepilibdphlmlen",
+      "sha256": ""
+    },
+    {
+      "extension_id": "dicihfjifnnpchakgjinoeimpcakdooa",
+      "name": "Sword Growth",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/dicihfjifnnpchakgjinoeimpcakdooa",
+      "sha256": "0145d56e5016d53c3ecd244f276a9de3ddfe505039db42618ab785a0af36fce6"
+    },
+    {
+      "extension_id": "afmbmopgghfhljmgbedgncchioikaneo",
+      "name": "JSON Formatter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/afmbmopgghfhljmgbedgncchioikaneo",
+      "sha256": ""
+    },
+    {
+      "extension_id": "jllmohigdkohbdbbdjhkcdjmlekmoaff",
+      "name": "Dark Mode - Dark Theme",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/jllmohigdkohbdbbdjhkcdjmlekmoaff",
+      "sha256": ""
+    },
+    {
+      "extension_id": "nkepplpgeiaickdemigblebniopmhben",
+      "name": "Text Counter - Word & Character Count",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/nkepplpgeiaickdemigblebniopmhben",
+      "sha256": "581b39955932a22f9f9f20b7f07bc854d99ef6d2f44cd60e8a85cffb03df8d74"
+    },
+    {
+      "extension_id": "ijecodohnknaigliedkgpjgmnhdnpcna",
+      "name": "Password Generator - Strong & Secure",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/ijecodohnknaigliedkgpjgmnhdnpcna",
+      "sha256": ""
+    },
+    {
+      "extension_id": "bjofhamegblegelepiffcbhgnidepjld",
+      "name": "Happy Pet - Virtual Pet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/bjofhamegblegelepiffcbhgnidepjld",
+      "sha256": ""
+    },
+    {
+      "extension_id": "bgpchhbmjdlepmiddcceelppipmkpdii",
+      "name": "QR Code Generator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/bgpchhbmjdlepmiddcceelppipmkpdii",
+      "sha256": "cbae8cd7229dc1e434efe136a469d376398b82af8414056daf4239c790888622"
+    },
+    {
+      "extension_id": "hjogdnifcbkncgjfofbilhancehpfcil",
+      "name": "Copy as Markdown",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/hjogdnifcbkncgjfofbilhancehpfcil",
+      "sha256": "6297dedf20463d7535ce2ba2c698dce0c6c3984af039ea6a6236b5d4b2ee573d"
+    },
+    {
+      "extension_id": "fhamfcpbiebknehclppmomfcofafkbbj",
+      "name": "Scenic View",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/fhamfcpbiebknehclppmomfcofafkbbj",
+      "sha256": ""
+    },
     {
       "extension_id": "jhkkmmignhdlfklcelejoniboohcfmep",
       "name": "Language Learning",
