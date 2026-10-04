@@ -1,12 +1,192 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-03T17:17:54Z",
+  "generated": "2026-10-04T22:16:38Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6946,
+  "total_indicators": 6968,
   "indicators": [
+    {
+      "extension_id": "jhkkmmignhdlfklcelejoniboohcfmep",
+      "name": "Language Learning",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/jhkkmmignhdlfklcelejoniboohcfmep",
+      "sha256": "8c07f98b5b43bff7f00166c5faf1ed9ea0e9c2f009c210e0732dd268b739a906"
+    },
+    {
+      "extension_id": "bjokekhmbkkgohiedecgkkfgppoghjji",
+      "name": "Reading Time \u2014 Article Read Time Calculator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/bjokekhmbkkgohiedecgkkfgppoghjji",
+      "sha256": "f81cae952028c7b26d5efbe055e50f070b913cb6a6fcd96e20ee7df3b48dac1e"
+    },
+    {
+      "extension_id": "efieelkohffbjnblcmomcejjbapaipnh",
+      "name": "Scroll to Top - Back to Top Button",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/efieelkohffbjnblcmomcejjbapaipnh",
+      "sha256": "ddb9ad72148abeaacfe5f7dd00061225e67c87953049c2f650f7ed863d54259f"
+    },
+    {
+      "extension_id": "jkmnlcgkacoccikmklcmfanpenefmpac",
+      "name": "\ub0b4\ub824\uac00\uac1c \u2014 \ucfe0\ud321 \uac00\uaca9 \ucd94\uc801",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/jkmnlcgkacoccikmklcmfanpenefmpac",
+      "sha256": "f3e7ce0745c26db5e1f41bb781d422853765e3ca789e83bc079e05381603ccee"
+    },
+    {
+      "extension_id": "mfnlknmbkfnlgcjebdogolbakcekohfj",
+      "name": "KoreaDropdown",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/mfnlknmbkfnlgcjebdogolbakcekohfj",
+      "sha256": "9c4308c1342d34abf9f2b855fff9e74f20c02af53ddfb1aa03eb944b3eb0d45c"
+    },
+    {
+      "extension_id": "klfmmbomaiilnflhijhoclmnghkpbkni",
+      "name": "Color Picker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/klfmmbomaiilnflhijhoclmnghkpbkni",
+      "sha256": "57b6ef097910f526f673ed4e57481cebb8a50108d6455dba16cbd6708eadc984"
+    },
+    {
+      "extension_id": "hgcmokdfbgnakiifclhfifdphfofmngp",
+      "name": "Quick Memo",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/hgcmokdfbgnakiifclhfifdphfofmngp",
+      "sha256": "23b63b28ca30701beac3f245b31b61722ca144e92271567d04b689aafbef92f2"
+    },
+    {
+      "extension_id": "pllpmojagjlnbclefckhdebmlkjhhcfh",
+      "name": "Air Quality Monitor",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/pllpmojagjlnbclefckhdebmlkjhhcfh",
+      "sha256": "0d8a486077d625e8064d0e07ce46f1d54117090a4df4cd6ab696eb32a5c9ae61"
+    },
+    {
+      "extension_id": "eobmkhocignkllbfigodhemdefbjldcb",
+      "name": "Video Speed Controller - Playback Speed",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/eobmkhocignkllbfigodhemdefbjldcb",
+      "sha256": "12d687de2756b80905c18395996c8cbc93da3544ba07c0aa7829916483418f47"
+    },
+    {
+      "extension_id": "gbgdekgkmaaamplkcdaanpdokmjjcdbm",
+      "name": "Image Downloader - Save All Images",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/gbgdekgkmaaamplkcdaanpdokmjjcdbm",
+      "sha256": "60e215e1e468606722c6355a3407ef6896e9f6826e457e6025aa92fc217a7f73"
+    },
+    {
+      "extension_id": "bfmbfkjblcjafoppfkaciebmmmocdbld",
+      "name": "Metamask Tracker Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/bfmbfkjblcjafoppfkaciebmmmocdbld",
+      "sha256": "661a3e8c7d34fbbc8384b1ed159a8bc855ceb5221fef9b7f603b38a28996f4ea"
+    },
+    {
+      "extension_id": "iclkfegmbldfjjlgngidahinmhogbfna",
+      "name": "Auto Scroll - Hands Free Page Scroller",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/iclkfegmbldfjjlgngidahinmhogbfna",
+      "sha256": "114f30b7698edbcbfc037f9b1ec792a1f93aa973e2c0571569aa2a0449f7daf8"
+    },
+    {
+      "extension_id": "pifjjafdfdkglnnkeahlcndkmknlgocm",
+      "name": "Reaction Time Test - New Tab Game",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/pifjjafdfdkglnnkeahlcndkmknlgocm",
+      "sha256": "54187f7462fc15ac3a9f8d493ee305fd345de847929507d7824c1f553aae92c6"
+    },
+    {
+      "extension_id": "ebkkpkifaojdccgpaldnpclompdojmbh",
+      "name": "SEO Toolkit",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/ebkkpkifaojdccgpaldnpclompdojmbh",
+      "sha256": "0be9cddbc8aa39cc3e1c689d9e45ef47b699d533fc979d2f0d0796ae3457d9ea"
+    },
+    {
+      "extension_id": "ofgiffiieajicdflklkoapgndinhfacm",
+      "name": "Eye Rest Reminder",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/ofgiffiieajicdflklkoapgndinhfacm",
+      "sha256": "7736183c2c0d8b46be5e4be34d6fd371e78b45bb1293c021fe3450c0fb244ef5"
+    },
+    {
+      "extension_id": "pneghlnjfomljbhmgkomelljpfgfgadf",
+      "name": "Velog Cleaner",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/pneghlnjfomljbhmgkomelljpfgfgadf",
+      "sha256": "45d12b922f9b31bd99cabb415548e7019770d60b5b571741cf99b30b1d8b91ff"
+    },
+    {
+      "extension_id": "npnpaeaokmghimmdkkmccgnkmeonbajk",
+      "name": "Gmn Image Captioner",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/npnpaeaokmghimmdkkmccgnkmeonbajk",
+      "sha256": "ed5d83b89fa6e2828300083bf12a1f0baa632ff2999d4cb5db3fb73286072865"
+    },
+    {
+      "extension_id": "ihkahonemdakgeolnfemflljeopokgni",
+      "name": "YouTube Enhancer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/ihkahonemdakgeolnfemflljeopokgni",
+      "sha256": "d935fff857bbbc6ce7d9dedfb376e94d2bc8e887b7aeb535d190eac0fed2ec46"
+    },
+    {
+      "extension_id": "fkddfdhkgfneiibakfdhgpbkkcnnlook",
+      "name": "GitHub \ud55c\uad6d\uc5b4 (GitHub Korean)",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/fkddfdhkgfneiibakfdhgpbkkcnnlook",
+      "sha256": "05bd3fefec9c54d522fd63bba1831dfacce0743ba6514032b382e2f1d61ffa66"
+    },
+    {
+      "extension_id": "idljngaiennojhhjpdlhlmgdhepkdoid",
+      "name": "Uyap \u00e7Oklu Giri\u015f",
+      "source": "",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-04",
+      "store_url": "https://chromewebstore.google.com/detail/idljngaiennojhhjpdlhlmgdhepkdoid",
+      "sha256": "5bec93ff26ccbc64f512009f84b43ba6a329060b541f6afa5c19f7633ee438cf"
+    },
     {
       "extension_id": "bffdhafoiokheeldgggplbflmppjebcl",
       "name": "Dopamodoro Adhd Pomodoro",
@@ -2274,6 +2454,24 @@
       "insert_date": "2026-09-17",
       "store_url": "https://chromewebstore.google.com/detail/bhhdjpgbfegfppmgghgcjbennmjkgpog",
       "sha256": "bb1eb3a363dd4624d119603b6093e1cfed3b4f065731c38eab0db1a658423e96"
+    },
+    {
+      "extension_id": "ipmjojeobpacemeikblemggmjfclbanc",
+      "name": "MeetingCost \u2014 Real-Time Meeting Calculator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-16",
+      "store_url": "https://chromewebstore.google.com/detail/ipmjojeobpacemeikblemggmjfclbanc",
+      "sha256": "a43e398462d2016275a7010a1c80e642b24cce452a915f5fc05ec68410f45d97"
+    },
+    {
+      "extension_id": "aiinndlgapecapnickeejalanphmkmid",
+      "name": "Cs2Deal Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-16",
+      "store_url": "https://chromewebstore.google.com/detail/aiinndlgapecapnickeejalanphmkmid",
+      "sha256": "45e73cdeab569af3e3f4edefd4dcbab90d5e94332e2c528df7c4a1738ed0a657"
     },
     {
       "extension_id": "fpncfojakaoniabjokdgebiepabhljmd",
