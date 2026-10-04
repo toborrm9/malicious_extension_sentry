@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-10-04",
-    "timestamp": "1791156478",
+    "timestamp": "1791157791",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,49 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "71aa56cb-3841-5cb9-924d-096a7adb2725",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hlnijgamhhjgdlchhfbpkgfgdkpifghl",
+        "comment": "RBX Multiple Account | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-10-05",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "0114c96f-560d-5b4a-96e0-0d125504de98",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hlnijgamhhjgdlchhfbpkgfgdkpifghl",
+        "comment": "Chrome Web Store entry for RBX Multiple Account (hlnijgamhhjgdlchhfbpkgfgdkpifghl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d4efa673-3211-5a67-9866-822d4d41dc93",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ed27e4894fb1d711c90951fd282966adeaadbdf3c5f1043c2e9e52bf2d87c5ff",
+        "comment": "SHA-256 of extension package for RBX Multiple Account (hlnijgamhhjgdlchhfbpkgfgdkpifghl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "cb4e4f0d-36b1-56dd-b106-46b4fcd9a673",
         "type": "text",
