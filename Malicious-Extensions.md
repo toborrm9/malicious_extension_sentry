@@ -1,5 +1,6 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hlnijgamhhjgdlchhfbpkgfgdkpifghl | RBX Multiple Account | Malware | MalExt Analysis | 05/10/26 | No | Google Chrome
 | akopacbpfbbmmneakppnblmpcnbibapl | Pomodoro Timer | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
 | kdicdaagghojkopcbbmnkopgcafmfpkl | Tab Manager - Organize &amp; Search Tabs | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
 | mpkhcmfllidldnccpljofholbpinffgp | Link Preview - Hover to Preview Any Link | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
