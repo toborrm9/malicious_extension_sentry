@@ -1,5 +1,21 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| akopacbpfbbmmneakppnblmpcnbibapl | Pomodoro Timer | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| kdicdaagghojkopcbbmnkopgcafmfpkl | Tab Manager - Organize &amp; Search Tabs | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| mpkhcmfllidldnccpljofholbpinffgp | Link Preview - Hover to Preview Any Link | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| ndoihodpeipgbogeecdiphdkjpcjoofp | Page Ruler - Measure Pixels on Screen | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| fnbgmclafobbiehnefgblkbgkelbjgeb | ScreenDiet | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| pokemmhcmjimabblchgdfpfbgepjpcbh | Focus Guard — Distraction Blocker & Mindful Browsing | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| kgmlpkchejkdknjibcepilibdphlmlen | BugSnap | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| dicihfjifnnpchakgjinoeimpcakdooa | Sword Growth | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| afmbmopgghfhljmgbedgncchioikaneo | JSON Formatter | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| jllmohigdkohbdbbdjhkcdjmlekmoaff | Dark Mode - Dark Theme | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| nkepplpgeiaickdemigblebniopmhben | Text Counter - Word & Character Count | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| ijecodohnknaigliedkgpjgmnhdnpcna | Password Generator - Strong & Secure | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| bjofhamegblegelepiffcbhgnidepjld | Happy Pet - Virtual Pet | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| bgpchhbmjdlepmiddcceelppipmkpdii | QR Code Generator | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| hjogdnifcbkncgjfofbilhancehpfcil | Copy as Markdown | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| fhamfcpbiebknehclppmomfcofafkbbj | Scenic View | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
 | jhkkmmignhdlfklcelejoniboohcfmep | Language Learning | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
 | bjokekhmbkkgohiedecgkkfgppoghjji | Reading Time — Article Read Time Calculator | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
 | efieelkohffbjnblcmomcejjbapaipnh | Scroll to Top - Back to Top Button | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
