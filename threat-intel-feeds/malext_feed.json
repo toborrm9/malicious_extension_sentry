@@ -1,12 +1,22 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-05T11:35:20Z",
+  "generated": "2026-10-05T20:34:35Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6987,
+  "total_indicators": 6988,
   "indicators": [
+    {
+      "extension_id": "ndgimibanhlabgdgjcpbbndiehljcpfh",
+      "name": "Selectorshub",
+      "source": "https://malext.io/reports/RedirectorsHub/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-05",
+      "store_url": "https://chromewebstore.google.com/detail/ndgimibanhlabgdgjcpbbndiehljcpfh",
+      "sha256": "825cba49fe9a33aec29265633efa4200ff77ca745ed51b4a030b66863a755667",
+      "version": "5.8.5"
+    },
     {
       "extension_id": "neadealkfeligebmmolcibhbcdfplhhg",
       "name": "Github Wiki Search",
