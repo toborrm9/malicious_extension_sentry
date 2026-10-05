@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-10-05",
-    "timestamp": "1791200121",
+    "timestamp": "1791232476",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,52 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "422eb018-dee7-5fe0-a7e3-a9d8b3670b5c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ndgimibanhlabgdgjcpbbndiehljcpfh",
+        "comment": "Selectorshub | Source: https://malext.io/reports/RedirectorsHub/ | Store: Google Chrome | Added: 2026-10-05 | Version: 5.8.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/RedirectorsHub/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"5.8.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "2d165faa-d230-5347-b46c-f75ce444845b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ndgimibanhlabgdgjcpbbndiehljcpfh",
+        "comment": "Chrome Web Store entry for Selectorshub (ndgimibanhlabgdgjcpbbndiehljcpfh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0189a553-3e16-5b4f-853d-6d354019ba85",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "825cba49fe9a33aec29265633efa4200ff77ca745ed51b4a030b66863a755667",
+        "comment": "SHA-256 of extension package for Selectorshub (ndgimibanhlabgdgjcpbbndiehljcpfh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "cad15211-e390-5366-bc04-4050ae400614",
         "type": "text",
