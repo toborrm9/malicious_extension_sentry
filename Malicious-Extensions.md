@@ -1,5 +1,7 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| neadealkfeligebmmolcibhbcdfplhhg | Github Wiki Search | Policy Violation | Store Monitoring | 05/10/26 | No | Google Chrome
+| hfbgkihicidcdhldjagbgojpiogmglnk | Microsoft Teams Status Manager with Weekly Scheduling | Policy Violation | Store Monitoring | 05/10/26 | No | Google Chrome
 | hlnijgamhhjgdlchhfbpkgfgdkpifghl | RBX Multiple Account | Malware | MalExt Analysis | 05/10/26 | No | Sideloaded
 | akopacbpfbbmmneakppnblmpcnbibapl | Pomodoro Timer | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
 | kdicdaagghojkopcbbmnkopgcafmfpkl | Tab Manager - Organize &amp; Search Tabs | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
@@ -266,7 +268,6 @@
 | bnghaaanckjeindlklichhioddpjbmog | Designhub | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
 | gdejignmmojhnmdhbdjdmmoaidmcdema | TubeBlocker - AdBlock for YouTube™ | Malware | Store Monitoring | 19/09/26 | Yes | Google Chrome
 | oldafjppjeolkbdipbhnkjighopdihjd | Dumpster Fire | Policy Violation | Store Monitoring | 19/09/26 | No | Google Chrome
-| neadealkfeligebmmolcibhbcdfplhhg | Github Wiki Search | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
 | pplohkfbnhphkmhggaddfklcpoggemip | Mailtrackio | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
 | bgicabojdlenimkmeabfhahflehglibg | Smart Locator Inspector | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
 | ghohdnpenjaojhibcjkkmmmnckdgkbhf | JSON Query Tool | Policy Violation | Store Monitoring | 18/09/26 | No | Google Chrome
@@ -290,7 +291,6 @@
 | bifjefoimhhfolaciijdmgflpopoiknc | Customs Duty Preview for Overseas Orders | Bundling Unwanted Software | Store Monitoring | 18/09/26 | No | Google Chrome
 | lblnbldblpeiikndppnekobccdocccho | Github Sidebar | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
 | bhhdjpgbfegfppmgghgcjbennmjkgpog | Fomy de Profit CSGOnet 3.0 | Policy Violation | Store Monitoring | 17/09/26 | No | Google Chrome
-| hfbgkihicidcdhldjagbgojpiogmglnk | Microsoft Teams Status Manager with Weekly Scheduling | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | ipmjojeobpacemeikblemggmjfclbanc | MeetingCost — Real-Time Meeting Calculator | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | aiinndlgapecapnickeejalanphmkmid | Cs2Deal Extension | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
 | fpncfojakaoniabjokdgebiepabhljmd | GitHub Filters | Policy Violation | Store Monitoring | 16/09/26 | No | Google Chrome
