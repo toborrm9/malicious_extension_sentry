@@ -1,19 +1,39 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-05T11:18:32Z",
+  "generated": "2026-10-05T11:35:20Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6985,
+  "total_indicators": 6987,
   "indicators": [
+    {
+      "extension_id": "neadealkfeligebmmolcibhbcdfplhhg",
+      "name": "Github Wiki Search",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-05",
+      "store_url": "https://chromewebstore.google.com/detail/neadealkfeligebmmolcibhbcdfplhhg",
+      "sha256": "a9ed3138dd43ccffcf31d004416f33c4be84b3e8d3b63461a7d694af164ad1d5",
+      "version": "2.0.0"
+    },
+    {
+      "extension_id": "hfbgkihicidcdhldjagbgojpiogmglnk",
+      "name": "Microsoft Teams Status Manager with Weekly Scheduling",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-05",
+      "store_url": "https://chromewebstore.google.com/detail/hfbgkihicidcdhldjagbgojpiogmglnk",
+      "sha256": "4106ff02661a3c1d6f16e56b12c75d09d1a919dfa6c5d6777cbc65893e5384d3",
+      "version": "1.0"
+    },
     {
       "extension_id": "hlnijgamhhjgdlchhfbpkgfgdkpifghl",
       "name": "RBX Multiple Account",
       "source": "MalExt Analysis",
-      "store": "Google Chrome",
+      "store": "Sideloaded",
       "insert_date": "2026-10-05",
-      "store_url": "https://chromewebstore.google.com/detail/hlnijgamhhjgdlchhfbpkgfgdkpifghl",
+      "store_url": "",
       "sha256": "ed27e4894fb1d711c90951fd282966adeaadbdf3c5f1043c2e9e52bf2d87c5ff",
       "version": "1.6.16"
     },
@@ -1961,9 +1981,9 @@
       "extension_id": "ndpbidppejfanjbhfgjlohfanbfbklff",
       "name": "AVSync System Inc.",
       "source": "https://www.elastic.co/security-labs/threat-command/malicious-browser-extension-kremlin-banking-malware",
-      "store": "Google Chrome",
+      "store": "Sideloaded",
       "insert_date": "2026-09-22",
-      "store_url": "https://chromewebstore.google.com/detail/ndpbidppejfanjbhfgjlohfanbfbklff",
+      "store_url": "",
       "sha256": "",
       "version": "1.0"
     },
