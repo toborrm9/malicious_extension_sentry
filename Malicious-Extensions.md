@@ -1,5 +1,6 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ndgimibanhlabgdgjcpbbndiehljcpfh | Selectorshub | Adware | [malext.io](https://malext.io/reports/RedirectorsHub/) | 05/10/26 | No | Google Chrome
 | neadealkfeligebmmolcibhbcdfplhhg | Github Wiki Search | Policy Violation | Store Monitoring | 05/10/26 | No | Google Chrome
 | hfbgkihicidcdhldjagbgojpiogmglnk | Microsoft Teams Status Manager with Weekly Scheduling | Policy Violation | Store Monitoring | 05/10/26 | No | Google Chrome
 | hlnijgamhhjgdlchhfbpkgfgdkpifghl | RBX Multiple Account | Malware | MalExt Analysis | 05/10/26 | No | Sideloaded
