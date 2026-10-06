@@ -1,12 +1,32 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-05T20:34:35Z",
+  "generated": "2026-10-06T11:40:55Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6988,
+  "total_indicators": 6989,
   "indicators": [
+    {
+      "extension_id": "oflkkabfokadmncdbhdggeedngllccak",
+      "name": "Github Active Forks",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-06",
+      "store_url": "https://chromewebstore.google.com/detail/oflkkabfokadmncdbhdggeedngllccak",
+      "sha256": "6b96ef0032abe931776a64cad9ce64695d5eebec94021acd9fb2cef00581064d",
+      "version": "0.3.3"
+    },
+    {
+      "extension_id": "fgbkadjnnoadejkncdepkgjocfopjifg",
+      "name": "Zoom Workplace Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-06",
+      "store_url": "https://chromewebstore.google.com/detail/fgbkadjnnoadejkncdepkgjocfopjifg",
+      "sha256": "fca502434035ae92b5ce02653c5e4d07392cf1139e7ffb8a230f1bdf1e7e08cc",
+      "version": "1.0"
+    },
     {
       "extension_id": "ndgimibanhlabgdgjcpbbndiehljcpfh",
       "name": "Selectorshub",
@@ -4666,16 +4686,6 @@
       "store_url": "https://chromewebstore.google.com/detail/djbgaonafjabadgefhgmfbdfnfkoogjp",
       "sha256": "8d76a25eea04f9e688b240cf87c9fd5d58105c47c8138f8221d230cb1c746c4f",
       "version": "1.0.0"
-    },
-    {
-      "extension_id": "dliepndefmbhmflgmpolafcpddgokdgm",
-      "name": "Gofullpage Full Page Scre",
-      "source": "Store Monitoring",
-      "store": "Google Chrome",
-      "insert_date": "2026-09-09",
-      "store_url": "https://chromewebstore.google.com/detail/dliepndefmbhmflgmpolafcpddgokdgm",
-      "sha256": "07c5f432d570f4616d9a099873603b42e70330a2e2cb2e216310b8080df9b953",
-      "version": "1.0.1"
     },
     {
       "extension_id": "colpnkcegpmleaekjhnkpogdfpnkmhhb",
