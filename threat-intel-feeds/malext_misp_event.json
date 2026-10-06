@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-05",
-    "timestamp": "1791232476",
+    "date": "2026-10-06",
+    "timestamp": "1791286856",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,98 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "5cf5de39-d0b6-5ce8-875a-5af8ca34bbe8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oflkkabfokadmncdbhdggeedngllccak",
+        "comment": "Github Active Forks | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-06 | Version: 0.3.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.3.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "3c9d85f4-29c5-5c48-b744-77a61bd661ce",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oflkkabfokadmncdbhdggeedngllccak",
+        "comment": "Chrome Web Store entry for Github Active Forks (oflkkabfokadmncdbhdggeedngllccak)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "49ae142d-16f7-5f51-959f-b4b43bd225e8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6b96ef0032abe931776a64cad9ce64695d5eebec94021acd9fb2cef00581064d",
+        "comment": "SHA-256 of extension package for Github Active Forks (oflkkabfokadmncdbhdggeedngllccak)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "373fad06-9b14-5931-a01f-7887212ee256",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fgbkadjnnoadejkncdepkgjocfopjifg",
+        "comment": "Zoom Workplace Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-06 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "ec8a1e6b-1372-59f7-95f9-2e891a8cbdf8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fgbkadjnnoadejkncdepkgjocfopjifg",
+        "comment": "Chrome Web Store entry for Zoom Workplace Extension (fgbkadjnnoadejkncdepkgjocfopjifg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "323bd52b-151c-557a-9ee6-0a9705b35d16",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fca502434035ae92b5ce02653c5e4d07392cf1139e7ffb8a230f1bdf1e7e08cc",
+        "comment": "SHA-256 of extension package for Zoom Workplace Extension (fgbkadjnnoadejkncdepkgjocfopjifg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "422eb018-dee7-5fe0-a7e3-a9d8b3670b5c",
         "type": "text",
@@ -21236,52 +21328,6 @@
         "to_ids": true,
         "value": "8d76a25eea04f9e688b240cf87c9fd5d58105c47c8138f8221d230cb1c746c4f",
         "comment": "SHA-256 of extension package for Ig Follower Count By Like (djbgaonafjabadgefhgmfbdfnfkoogjp)",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          }
-        ]
-      },
-      {
-        "uuid": "cadb25ea-b5fd-520f-a245-9292dc0da942",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "dliepndefmbhmflgmpolafcpddgokdgm",
-        "comment": "Gofullpage Full Page Scre | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-09 | Version: 1.0.1",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          },
-          {
-            "name": "malext:store=\"Google Chrome\""
-          },
-          {
-            "name": "malext:version=\"1.0.1\""
-          }
-        ]
-      },
-      {
-        "uuid": "4f20a6c7-4a9f-554d-b2d9-5200683eede8",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/dliepndefmbhmflgmpolafcpddgokdgm",
-        "comment": "Chrome Web Store entry for Gofullpage Full Page Scre (dliepndefmbhmflgmpolafcpddgokdgm)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "0d6ee383-3835-5390-9c55-ba5dae103f50",
-        "type": "sha256",
-        "category": "Payload delivery",
-        "to_ids": true,
-        "value": "07c5f432d570f4616d9a099873603b42e70330a2e2cb2e216310b8080df9b953",
-        "comment": "SHA-256 of extension package for Gofullpage Full Page Scre (dliepndefmbhmflgmpolafcpddgokdgm)",
         "distribution": "5",
         "Tag": [
           {
