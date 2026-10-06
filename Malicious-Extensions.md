@@ -1556,7 +1556,6 @@
 | khemilhafiaadeomfbagpkjnobinlpki | Clean Facebook | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
 | fomdmfbdhdfifcljbmeaikhbeahdldbi | Facebook Ad Library Downl | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
 | idcomkdhhebbpnignimgfggphneepmke | Tele Go Sender – Telegram | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
-| fdpohaocaechififmbbbbbknoalclacl | Gofullpage Full Page Scre | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
 | ecgoocindeffodaifgeejamcilbfiokg | Gram Snap | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
 | icgnidcfkkhphgjooccokclmgjiiefpa | Insta Leads 20 | Policy Violation | Store Monitoring | 11/08/26 | No | Google Chrome
 | ddmjmbkgdcknajaomkmpmonaeafgkdhn | Casarc Wallet | Malware | Store Monitoring | 11/08/26 | No | Google Chrome
