@@ -1,5 +1,7 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| oflkkabfokadmncdbhdggeedngllccak | Github Active Forks | Policy Violation | Store Monitoring | 06/10/26 | No | Google Chrome
+| fgbkadjnnoadejkncdepkgjocfopjifg | Zoom Workplace Extension | Policy Violation | Store Monitoring | 06/10/26 | No | Google Chrome
 | ndgimibanhlabgdgjcpbbndiehljcpfh | Selectorshub | Adware | [malext.io](https://malext.io/reports/RedirectorsHub/) | 05/10/26 | No | Google Chrome
 | neadealkfeligebmmolcibhbcdfplhhg | Github Wiki Search | Policy Violation | Store Monitoring | 05/10/26 | No | Google Chrome
 | hfbgkihicidcdhldjagbgojpiogmglnk | Microsoft Teams Status Manager with Weekly Scheduling | Policy Violation | Store Monitoring | 05/10/26 | No | Google Chrome
@@ -466,7 +468,6 @@
 | dfeechaceojmicfkeegljkcbflokciil | SpongeBob SquarePants Wallpaper | Policy Violation | Store Monitoring | 10/09/26 | No | Google Chrome
 | coflpoldpkddmkiebgaokkndhdcembco | Gofullpage Dc | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
 | djbgaonafjabadgefhgmfbdfnfkoogjp | Ig Follower Count By Like | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
-| dliepndefmbhmflgmpolafcpddgokdgm | Gofullpage Full Page Scre | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
 | colpnkcegpmleaekjhnkpogdfpnkmhhb | Gofullpagex By Coderxpoin | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
 | jfcndnbiaipopdhdphobghhblcngmnno | GoFullPage - Full Page Screenshot & Capture Editor | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
 | dlkkakbocpnhmdbjlknaapnnfefigjoe | Gofullpage Plus Capture | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
