@@ -1,5 +1,17 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ajdljbgfgdenkjkcpphlgipkbghbmcfj | Okx Wallet Tracker Crypto | Bundling Unwanted Software | Store Monitoring | 07/10/26 | No | Google Chrome
+| edoefkpbifgpalopdbikblemhdjhbkja | Github File Collapser | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
+| bjmjhchaboblphooedaadglpcpjbmeah | Tone — Light By Time | Bundling Unwanted Software | Store Monitoring | 07/10/26 | No | Google Chrome
+| hkbmodekajagpppbpmplamefjfjekehk | Lido App | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
+| jfpelgifknjgdkoibcmaapnhjcnakbih | Metamap | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
+| cheapakebegonhikckggcbilehdjkgkf | Github Exporter | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
+| nmlkcbnplhaffhooaioodjlghepdlopk | Mcmaster Smart Lite | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
+| fdaakkagehjogjhojpjeelklgagcknkg | Morpho Enhancements | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
+| pehfheklmebgnepcebgnajlpejbmdogp | Meme Coin Tracker | Bundling Unwanted Software | Store Monitoring | 07/10/26 | No | Google Chrome
+| cloiconpmchdcmbnokhedmfoopddpkkl | Browsec VPN — Приватный VPN для работы и браузинга в России | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
+| bcnicogbehmgcpjhfinaiehfmpipnlad | Navikit Tiktok Shop Selle | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
+| ajjkfoidajnfodfdpnndohcpodcmnhle | Sf Helper | Malware | Store Monitoring | 07/10/26 | No | Google Chrome
 | oflkkabfokadmncdbhdggeedngllccak | Github Active Forks | Policy Violation | Store Monitoring | 06/10/26 | No | Google Chrome
 | fgbkadjnnoadejkncdepkgjocfopjifg | Zoom Workplace Extension | Policy Violation | Store Monitoring | 06/10/26 | No | Google Chrome
 | ndgimibanhlabgdgjcpbbndiehljcpfh | Selectorshub | Adware | [malext.io](https://malext.io/reports/RedirectorsHub/) | 05/10/26 | No | Google Chrome
