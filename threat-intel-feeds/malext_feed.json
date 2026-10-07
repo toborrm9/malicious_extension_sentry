@@ -1,12 +1,132 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-06T12:57:11Z",
+  "generated": "2026-10-07T09:28:01Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 6988,
+  "total_indicators": 7000,
   "indicators": [
+    {
+      "extension_id": "ajdljbgfgdenkjkcpphlgipkbghbmcfj",
+      "name": "Okx Wallet Tracker Crypto",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-07",
+      "store_url": "https://chromewebstore.google.com/detail/ajdljbgfgdenkjkcpphlgipkbghbmcfj",
+      "sha256": "68f0a7417f2d0fb9666594d6e45afd9c1cf5ef63565b0db0a21684ad95e21e9f",
+      "version": "1.1.0"
+    },
+    {
+      "extension_id": "edoefkpbifgpalopdbikblemhdjhbkja",
+      "name": "Github File Collapser",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-07",
+      "store_url": "https://chromewebstore.google.com/detail/edoefkpbifgpalopdbikblemhdjhbkja",
+      "sha256": "7c6c20d95669b9e144d4e70546af49aea4236eb3d008ce2a9e75522b73fc6604",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "bjmjhchaboblphooedaadglpcpjbmeah",
+      "name": "Tone \u2014 Light By Time",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-07",
+      "store_url": "https://chromewebstore.google.com/detail/bjmjhchaboblphooedaadglpcpjbmeah",
+      "sha256": "69dfadd1c365b9a5760aec033a1809fc22b31385ed05874df3bcce1efe3f7313",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "hkbmodekajagpppbpmplamefjfjekehk",
+      "name": "Lido App",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-07",
+      "store_url": "https://chromewebstore.google.com/detail/hkbmodekajagpppbpmplamefjfjekehk",
+      "sha256": "48556545bf3f515d03a3d67d72ff5bcdd9363935b7ceb6ff9ff4c020c47fed5a",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "jfpelgifknjgdkoibcmaapnhjcnakbih",
+      "name": "Metamap",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-07",
+      "store_url": "https://chromewebstore.google.com/detail/jfpelgifknjgdkoibcmaapnhjcnakbih",
+      "sha256": "bd6a82992bf421a19a706ad7620853c3a134da11c5034d4886fac80283b6ff09",
+      "version": "10.23.2"
+    },
+    {
+      "extension_id": "cheapakebegonhikckggcbilehdjkgkf",
+      "name": "Github Exporter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-07",
+      "store_url": "https://chromewebstore.google.com/detail/cheapakebegonhikckggcbilehdjkgkf",
+      "sha256": "ccffb25fafc6e7a44b0fe7812e37d2cb716bf315fc0173e2847ca8a2dd18f718",
+      "version": "0.1.1"
+    },
+    {
+      "extension_id": "nmlkcbnplhaffhooaioodjlghepdlopk",
+      "name": "Mcmaster Smart Lite",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-07",
+      "store_url": "https://chromewebstore.google.com/detail/nmlkcbnplhaffhooaioodjlghepdlopk",
+      "sha256": "975d73b9b1610805084354174666cf2bb29c95543d6cdccf7313b815c6802489",
+      "version": "1.1.2"
+    },
+    {
+      "extension_id": "fdaakkagehjogjhojpjeelklgagcknkg",
+      "name": "Morpho Enhancements",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-07",
+      "store_url": "https://chromewebstore.google.com/detail/fdaakkagehjogjhojpjeelklgagcknkg",
+      "sha256": "e658f09676b7501cc6f69d25fe88f68ef5889d26b3514bf0833eb7e5141f7232",
+      "version": "0.4.0"
+    },
+    {
+      "extension_id": "pehfheklmebgnepcebgnajlpejbmdogp",
+      "name": "Meme Coin Tracker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-07",
+      "store_url": "https://chromewebstore.google.com/detail/pehfheklmebgnepcebgnajlpejbmdogp",
+      "sha256": "5dfcbba86c23931c4841813090f909abdbbb35cb0469e81a035ca5f3ccd72108",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "cloiconpmchdcmbnokhedmfoopddpkkl",
+      "name": "Browsec VPN \u2014 \u041f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0439 VPN \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0438 \u0431\u0440\u0430\u0443\u0437\u0438\u043d\u0433\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-07",
+      "store_url": "https://chromewebstore.google.com/detail/cloiconpmchdcmbnokhedmfoopddpkkl",
+      "sha256": "223005b1b1a45d99285575ebde40bb5dc99bddb1d55cb4f12d78afa21c76492f",
+      "version": "1.9.8"
+    },
+    {
+      "extension_id": "bcnicogbehmgcpjhfinaiehfmpipnlad",
+      "name": "Navikit Tiktok Shop Selle",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-07",
+      "store_url": "https://chromewebstore.google.com/detail/bcnicogbehmgcpjhfinaiehfmpipnlad",
+      "sha256": "81325aa3f3c85d105b2a004c8c240e6c214a4e89f82f75b4695f0edd214d7a61",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ajjkfoidajnfodfdpnndohcpodcmnhle",
+      "name": "Sf Helper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-07",
+      "store_url": "https://chromewebstore.google.com/detail/ajjkfoidajnfodfdpnndohcpodcmnhle",
+      "sha256": "e69788a2897d05a34b1815cc7863d52e926c083fad804308b2e1969e73279d69",
+      "version": "10.61"
+    },
     {
       "extension_id": "oflkkabfokadmncdbhdggeedngllccak",
       "name": "Github Active Forks",
