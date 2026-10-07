@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-06",
-    "timestamp": "1791291433",
+    "date": "2026-10-07",
+    "timestamp": "1791365282",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,558 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "a5b1c4e0-3ed5-5e61-a488-d86e72eac1ae",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ajdljbgfgdenkjkcpphlgipkbghbmcfj",
+        "comment": "Okx Wallet Tracker Crypto | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 1.1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "bab48ab5-b526-5b6a-bd72-0dcfb9e359a9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ajdljbgfgdenkjkcpphlgipkbghbmcfj",
+        "comment": "Chrome Web Store entry for Okx Wallet Tracker Crypto (ajdljbgfgdenkjkcpphlgipkbghbmcfj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4b7f37cd-f4ce-5e50-a63d-1747ced95b0e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "68f0a7417f2d0fb9666594d6e45afd9c1cf5ef63565b0db0a21684ad95e21e9f",
+        "comment": "SHA-256 of extension package for Okx Wallet Tracker Crypto (ajdljbgfgdenkjkcpphlgipkbghbmcfj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "17b4e3e3-9153-5dec-9bec-5e20f5d7c527",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "edoefkpbifgpalopdbikblemhdjhbkja",
+        "comment": "Github File Collapser | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "0c3f5dec-8444-57d8-942d-436bfcec111b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/edoefkpbifgpalopdbikblemhdjhbkja",
+        "comment": "Chrome Web Store entry for Github File Collapser (edoefkpbifgpalopdbikblemhdjhbkja)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dffd4e2b-3940-596a-884e-e1cce438cfb0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7c6c20d95669b9e144d4e70546af49aea4236eb3d008ce2a9e75522b73fc6604",
+        "comment": "SHA-256 of extension package for Github File Collapser (edoefkpbifgpalopdbikblemhdjhbkja)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "128c857a-eb19-5fc7-b2b6-6f86f4058962",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bjmjhchaboblphooedaadglpcpjbmeah",
+        "comment": "Tone \u2014 Light By Time | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "f4fc74c8-fb2f-5405-a6c5-46057d00ee44",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bjmjhchaboblphooedaadglpcpjbmeah",
+        "comment": "Chrome Web Store entry for Tone \u2014 Light By Time (bjmjhchaboblphooedaadglpcpjbmeah)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2fecf23c-468c-54a8-9a7c-dd4add53d26d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "69dfadd1c365b9a5760aec033a1809fc22b31385ed05874df3bcce1efe3f7313",
+        "comment": "SHA-256 of extension package for Tone \u2014 Light By Time (bjmjhchaboblphooedaadglpcpjbmeah)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "dd172175-85ae-5277-9b9e-69587de5e4c4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hkbmodekajagpppbpmplamefjfjekehk",
+        "comment": "Lido App | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "3f3b0b35-21b2-5360-bb7e-c53261c1637a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hkbmodekajagpppbpmplamefjfjekehk",
+        "comment": "Chrome Web Store entry for Lido App (hkbmodekajagpppbpmplamefjfjekehk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "254b3ee5-d6ba-576a-9e1f-021a2adc05a0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "48556545bf3f515d03a3d67d72ff5bcdd9363935b7ceb6ff9ff4c020c47fed5a",
+        "comment": "SHA-256 of extension package for Lido App (hkbmodekajagpppbpmplamefjfjekehk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "80dff04f-55f8-531c-af61-68cfb32cf339",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jfpelgifknjgdkoibcmaapnhjcnakbih",
+        "comment": "Metamap | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 10.23.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"10.23.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "efb4a5e8-86e4-5066-93ba-5471bfc3db08",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jfpelgifknjgdkoibcmaapnhjcnakbih",
+        "comment": "Chrome Web Store entry for Metamap (jfpelgifknjgdkoibcmaapnhjcnakbih)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "595e09b0-2132-54cb-8248-e53152bce80b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "bd6a82992bf421a19a706ad7620853c3a134da11c5034d4886fac80283b6ff09",
+        "comment": "SHA-256 of extension package for Metamap (jfpelgifknjgdkoibcmaapnhjcnakbih)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "612d2eba-4ff7-5456-956f-cb7d79484b9f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cheapakebegonhikckggcbilehdjkgkf",
+        "comment": "Github Exporter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 0.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "a64f37f8-59d9-5b7f-9e5c-a22cecc8b153",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cheapakebegonhikckggcbilehdjkgkf",
+        "comment": "Chrome Web Store entry for Github Exporter (cheapakebegonhikckggcbilehdjkgkf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e3c369cb-8ba2-5a07-bdd4-21e83a25700c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ccffb25fafc6e7a44b0fe7812e37d2cb716bf315fc0173e2847ca8a2dd18f718",
+        "comment": "SHA-256 of extension package for Github Exporter (cheapakebegonhikckggcbilehdjkgkf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "cbc3dac5-e5e7-5a29-a301-052911263a48",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nmlkcbnplhaffhooaioodjlghepdlopk",
+        "comment": "Mcmaster Smart Lite | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 1.1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "37577bfe-45d7-557c-8d76-149a9364182c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nmlkcbnplhaffhooaioodjlghepdlopk",
+        "comment": "Chrome Web Store entry for Mcmaster Smart Lite (nmlkcbnplhaffhooaioodjlghepdlopk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5474f19c-5ef1-579d-9702-cb87fc931f65",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "975d73b9b1610805084354174666cf2bb29c95543d6cdccf7313b815c6802489",
+        "comment": "SHA-256 of extension package for Mcmaster Smart Lite (nmlkcbnplhaffhooaioodjlghepdlopk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "dc5529d5-a523-50c5-836d-47a6c2c64271",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fdaakkagehjogjhojpjeelklgagcknkg",
+        "comment": "Morpho Enhancements | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 0.4.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.4.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "7bcc60fc-80b8-52fc-aa65-8bcf102d2f5d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fdaakkagehjogjhojpjeelklgagcknkg",
+        "comment": "Chrome Web Store entry for Morpho Enhancements (fdaakkagehjogjhojpjeelklgagcknkg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2916ed03-897b-5fdb-b5e6-562a885a2fe3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e658f09676b7501cc6f69d25fe88f68ef5889d26b3514bf0833eb7e5141f7232",
+        "comment": "SHA-256 of extension package for Morpho Enhancements (fdaakkagehjogjhojpjeelklgagcknkg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "77e13f16-b236-5ef8-a896-ed19abbbb3f5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pehfheklmebgnepcebgnajlpejbmdogp",
+        "comment": "Meme Coin Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "a10af4d0-6909-5711-a827-1ac0b9ec425e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pehfheklmebgnepcebgnajlpejbmdogp",
+        "comment": "Chrome Web Store entry for Meme Coin Tracker (pehfheklmebgnepcebgnajlpejbmdogp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9d5586ec-6258-57c1-9ea6-1db900f237d4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5dfcbba86c23931c4841813090f909abdbbb35cb0469e81a035ca5f3ccd72108",
+        "comment": "SHA-256 of extension package for Meme Coin Tracker (pehfheklmebgnepcebgnajlpejbmdogp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5d34990c-927a-59d1-a9f5-7d186755f531",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cloiconpmchdcmbnokhedmfoopddpkkl",
+        "comment": "Browsec VPN \u2014 \u041f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0439 VPN \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0438 \u0431\u0440\u0430\u0443\u0437\u0438\u043d\u0433\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 1.9.8",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.9.8\""
+          }
+        ]
+      },
+      {
+        "uuid": "97e3552c-8a1a-53c2-95a2-a5a67abf7060",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cloiconpmchdcmbnokhedmfoopddpkkl",
+        "comment": "Chrome Web Store entry for Browsec VPN \u2014 \u041f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0439 VPN \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0438 \u0431\u0440\u0430\u0443\u0437\u0438\u043d\u0433\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 (cloiconpmchdcmbnokhedmfoopddpkkl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8d973c9d-b1d4-5172-b131-fc3d06ce011c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "223005b1b1a45d99285575ebde40bb5dc99bddb1d55cb4f12d78afa21c76492f",
+        "comment": "SHA-256 of extension package for Browsec VPN \u2014 \u041f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0439 VPN \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0438 \u0431\u0440\u0430\u0443\u0437\u0438\u043d\u0433\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 (cloiconpmchdcmbnokhedmfoopddpkkl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "de25e1e8-be43-5542-8767-4781aeb0e5f5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bcnicogbehmgcpjhfinaiehfmpipnlad",
+        "comment": "Navikit Tiktok Shop Selle | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "3d97a8c8-7f88-5e06-8be6-4648343e5fd5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bcnicogbehmgcpjhfinaiehfmpipnlad",
+        "comment": "Chrome Web Store entry for Navikit Tiktok Shop Selle (bcnicogbehmgcpjhfinaiehfmpipnlad)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "033e2a81-1389-55b1-a9e9-f3e4614a8ae6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "81325aa3f3c85d105b2a004c8c240e6c214a4e89f82f75b4695f0edd214d7a61",
+        "comment": "SHA-256 of extension package for Navikit Tiktok Shop Selle (bcnicogbehmgcpjhfinaiehfmpipnlad)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "718f642e-0949-5670-808a-b3f8de9b8005",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ajjkfoidajnfodfdpnndohcpodcmnhle",
+        "comment": "Sf Helper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 10.61",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"10.61\""
+          }
+        ]
+      },
+      {
+        "uuid": "2c3482c7-0064-5946-a45d-29d1f56b7521",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ajjkfoidajnfodfdpnndohcpodcmnhle",
+        "comment": "Chrome Web Store entry for Sf Helper (ajjkfoidajnfodfdpnndohcpodcmnhle)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "394e5783-87ad-5c1c-9ac7-15479200a67f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e69788a2897d05a34b1815cc7863d52e926c083fad804308b2e1969e73279d69",
+        "comment": "SHA-256 of extension package for Sf Helper (ajjkfoidajnfodfdpnndohcpodcmnhle)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "5cf5de39-d0b6-5ce8-875a-5af8ca34bbe8",
         "type": "text",
