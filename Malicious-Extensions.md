@@ -1,8 +1,52 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| bbccghlkhjimagoafacahpibophlkplk | StarKey Wallet - The wallet for Supra | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| imgiklhbdjkgfdoieenmmjjmjjdbjnpk | Claude to Notion - Export &amp; Save Chats | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| ilkhenocanldeldoloophlhibcnfbnld | GitHub Email Extension | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| bhpdfepcgpegdnoadeiajalnbdehdecb | Password Generator | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| bkkidmfmmolehbjjckjejobnbjikmiaf | AIAP - Font | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| liehoajmmfmfecjdkmfajdmohemhhnna | Rakuten Review Signal — Review Trust | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| bphmlmkddnicnopjpmhjoicojheglcfh | Download Images from Zillow - Listing Photos | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| okiipmldfdjgagekjmhlpafohifgdmab | Auto Refresh - Reload Tab on Timer | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| jcoolahkkmgkkgkocjbkhinoepgbmlpf | Huntify | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| bccjineabmjhheibpeiklacmplfafemm | Snaptik - TikTok Video Downloader (No Watermark) | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| hjicfmegmcaocgieimhddcinhadabmnf | CekAman — Tokopedia/Shopee Review Trust | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| jeokhfhofmjmdagaehbkkkaajfnofnen | Digital Hunters Flow | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| aolaikdpldcfkanbdaohladjegimemcp | MercadoTrust — Review Trust for MercadoLibre | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| bmjfihimcegeooadgibjjjpijkceboja | DeBank + Extension | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| nhoidfbanollkjeljcmnlemmanonbeme | Goodreads to StoryGraph - CSV Migrate | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| klfbepgaggdhmajpfdfmjjnahkhnecne | Group Members Exporter | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| pfdcpfijmjnmpjkjaaagdfclhedjhmel | AotuLogin | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| dpbcmlbhbiieidkhdjndjaikmgmljlcb | Salvar Conversas WhatsApp | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| kddlakognmligakoedibblggnpcoamof | VUB Budget Tracker | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| ofnjjefjhffdfbilmcfhmidollkclldc | Claude Usage Dashboard | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| gnnbicblnglgjplblalhlhoieedcpkph | WA Blaster | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| glgejhhhdoinplmcioigeioegiddlaoa | AI 网页总结助手 | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| ajmiofkgebokdfiicngpgiajiokbcded | Adblock Star - Browse ad-free and safe | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| pbnlcjoehojdbohflcffkjcmmjjjkbpb | Bluesky Bulk Block &amp; Mute - List Cleaner | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| mcnodibhblfbpcljcjagplgehoijbhig | Sora Analytics - Creator Stats &amp; Export | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| knklpoeefcgpmdmfchahpcccfhgaamdf | BlurKit | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| ohgjocffdljdlnffpfdjkakdanobppon | Quick Notes | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| giloifdpokgcdhdpcnmjgakghbcmkjec | Folders &amp; Search for Character.AI Chats | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| jlpnblicpepkjhjgeanjcmchnclngccp | Speed Reader - RSVP Fast Reading | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| hbedkggodmjoklfhbffomflnajceglei | Grok Exporter - Save Chats to Markdown &amp; PDF | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| gfhamidmdeaeigdfkilbjbhdkilkhnol | Suno Downloader - Save Your Songs as MP3 | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| ddjcmlmfenmgfkmgnfhkoconnlkhgcad | TindahanTrust — Lazada/Shopee PH Reviews | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| ammejahpekhohgichmecggjcdhnndlko | Color Contrast Checker - WCAG | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| docejnnjfcpmlmniibkopmmcalocnnkp | AI Form Filler | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| hbegjfmdhebllgafamhiakfnhmoeodha | TikTok Video Downloader Without Watermark - SSSTikTok HD | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| ljfpfpjollcjaenfmkdknbiomkdblamg | AI Credit Meter - v0, Lovable, Bolt | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| gleeaadbifbadgjipfnpoegcdefijedj | DAC Web Auditor | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| edilpmeogodpgldlegkjedbaodhnmolk | PaisaVasool — Best Card at Checkout (India) | Bundling Unwanted Software | Store Monitoring | 09/10/26 | No | Google Chrome
+| lcbengnelahgladaedcmlkjamcjbnmik | Perplexity Exporter - Threads to Markdown | Bundling Unwanted Software | Store Monitoring | 08/10/26 | No | Google Chrome
+| ofeddkbbohdgmdgmfhgjapckgebgbepk | NotebookLM Clipper - Add Sources Fast | Bundling Unwanted Software | Store Monitoring | 08/10/26 | No | Google Chrome
+| gjjkmdnppbomigiokimnkfjiiceojifm | Stack Overflow 한국어 (Korean) | Bundling Unwanted Software | Store Monitoring | 08/10/26 | No | Google Chrome
+| gnengalhkcehpjlgmmgobpnpmamnkinm | Review Signal — Coupang Review Trust | Bundling Unwanted Software | Store Monitoring | 08/10/26 | No | Google Chrome
+| nfcgagoniilpnnpghohojpafmmmpkleo | OneNote Dark Mode | Policy Violation | Store Monitoring | 08/10/26 | No | Google Chrome
+| hfnkgefpgmpjnhmloigilhlhhdijmfke | Cày view | Malware | Store Monitoring | 08/10/26 | No | Google Chrome
 | ajdljbgfgdenkjkcpphlgipkbghbmcfj | Okx Wallet Tracker Crypto | Bundling Unwanted Software | Store Monitoring | 07/10/26 | No | Google Chrome
 | edoefkpbifgpalopdbikblemhdjhbkja | Github File Collapser | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
-| bjmjhchaboblphooedaadglpcpjbmeah | Tone — Light By Time | Bundling Unwanted Software | Store Monitoring | 07/10/26 | No | Google Chrome
+| bjmjhchaboblphooedaadglpcpjbmeah | Tone — Light By Time | Bundling Unwanted Software | Store Monitoring | 07/10/26 | Yes | Google Chrome
 | hkbmodekajagpppbpmplamefjfjekehk | Lido App | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
 | jfpelgifknjgdkoibcmaapnhjcnakbih | Metamap | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
 | cheapakebegonhikckggcbilehdjkgkf | Github Exporter | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
