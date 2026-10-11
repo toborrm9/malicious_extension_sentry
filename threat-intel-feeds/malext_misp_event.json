@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-09",
-    "timestamp": "1791541468",
+    "date": "2026-10-11",
+    "timestamp": "1791723611",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,1532 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "2ee976c8-f623-5632-a431-9bfa0c9a1815",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mpnfoddkacdjocmjaobmkcphfncdoogp",
+        "comment": "Unblocked Games \u2014 New Tab | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-11 | Version: 24.12.20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"24.12.20\""
+          }
+        ]
+      },
+      {
+        "uuid": "4ef688b0-feee-534d-92ad-72d3478d6d42",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mpnfoddkacdjocmjaobmkcphfncdoogp",
+        "comment": "Chrome Web Store entry for Unblocked Games \u2014 New Tab (mpnfoddkacdjocmjaobmkcphfncdoogp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "07dc11aa-5f15-5c91-96d5-e8110d6b2a22",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0951d5a8d9abe6b4df2b5036e916e0ffc83f7664c191b1ced8ace7b051797008",
+        "comment": "SHA-256 of extension package for Unblocked Games \u2014 New Tab (mpnfoddkacdjocmjaobmkcphfncdoogp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5457ecc7-655c-5d9c-9268-3cda8dbbd020",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fgdhcbomckihpiffkfjnnakkkbebdhhh",
+        "comment": "TabMosaic \u2013 Auto Tab Groups by Domain | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-11 | Version: 2.9.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.9.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "2f78acc1-7575-500e-bd8d-da14bdaff058",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fgdhcbomckihpiffkfjnnakkkbebdhhh",
+        "comment": "Chrome Web Store entry for TabMosaic \u2013 Auto Tab Groups by Domain (fgdhcbomckihpiffkfjnnakkkbebdhhh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "19ac6557-df27-51f3-9e93-4c6b93e2c8b2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7e9c8045a248df115dab6428e02f9d5f7eeae1bd67d43cd481be1208e5746fa3",
+        "comment": "SHA-256 of extension package for TabMosaic \u2013 Auto Tab Groups by Domain (fgdhcbomckihpiffkfjnnakkkbebdhhh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "55493999-4ed9-5bca-b51b-a90f6dca83f4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mkiebookdgphpeehoaaohajdcjohcfmb",
+        "comment": "Exod\u03c5s - Extension For Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85 | Store: Google Chrome | Added: 2026-10-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1b21ac15-3dd7-5a91-ba18-2abd3d1ed5a2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mkiebookdgphpeehoaaohajdcjohcfmb",
+        "comment": "Chrome Web Store entry for Exod\u03c5s - Extension For Chrome (mkiebookdgphpeehoaaohajdcjohcfmb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b7b9d92f-91aa-5116-bb01-615f529bb3e0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c44ae41c5ec40094e7c3c5c670792d94ecc877ff6e198fc0ef5f9e5b25b034ba",
+        "comment": "SHA-256 of extension package for Exod\u03c5s - Extension For Chrome (mkiebookdgphpeehoaaohajdcjohcfmb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4d675c63-bbbd-527d-bbe3-7affc09cdf97",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nhjjepfbhpdhehdeiolbnjembodcgaee",
+        "comment": "Token.im - Browser Extension | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85 | Store: Google Chrome | Added: 2026-10-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1f305c0a-9337-53c5-b07b-279d4814f484",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nhjjepfbhpdhehdeiolbnjembodcgaee",
+        "comment": "Chrome Web Store entry for Token.im - Browser Extension (nhjjepfbhpdhehdeiolbnjembodcgaee)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0495a2f0-461b-5e77-8d80-c6a70758cca7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5c48ab4e76c9a766172f4c58596bec6bafa8fc145d1bf49f9d355d5439930e0f",
+        "comment": "SHA-256 of extension package for Token.im - Browser Extension (nhjjepfbhpdhehdeiolbnjembodcgaee)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "18ce5740-e32a-5f2d-90af-84fd35840d10",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mdbhibcfeakbnlfbmfedjppfkenpklne",
+        "comment": "Edge - Chrome Extension | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "603209a7-35e7-5aad-a3ea-f33dbaa266d5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mdbhibcfeakbnlfbmfedjppfkenpklne",
+        "comment": "Chrome Web Store entry for Edge - Chrome Extension (mdbhibcfeakbnlfbmfedjppfkenpklne)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "32fa4e26-85a0-57cc-8cca-9f960e3370b2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3951a71398d41a4c354111a4e0a35ddb937721b28d635eaf7a9605bf4927726c",
+        "comment": "SHA-256 of extension package for Edge - Chrome Extension (mdbhibcfeakbnlfbmfedjppfkenpklne)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4ee4ca69-e574-59c7-be8d-00dbc17873ec",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "knamebhlnelgjefbmjngodcgiknhmnhk",
+        "comment": "Zen - Extension for Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "77291b55-f4db-581a-b8c4-c125c6d843d2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/knamebhlnelgjefbmjngodcgiknhmnhk",
+        "comment": "Chrome Web Store entry for Zen - Extension for Chrome (knamebhlnelgjefbmjngodcgiknhmnhk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7937f4f3-32fe-5fb9-8256-45b1df87b679",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c65a78b900df6481eaa33edb1d356ce8ec8fe784219dea108afe98315ee15689",
+        "comment": "SHA-256 of extension package for Zen - Extension for Chrome (knamebhlnelgjefbmjngodcgiknhmnhk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ccb912e7-e2dd-5b86-95af-9ed88cbdf3e7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nhkdchmlljcklaloabakpcnbpdlcffgk",
+        "comment": "Pinterest Dark Mode | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-10 | Version: 4.1.7",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.1.7\""
+          }
+        ]
+      },
+      {
+        "uuid": "e4b4e54c-a2c2-52bb-b71a-1e2f01b6eb4f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nhkdchmlljcklaloabakpcnbpdlcffgk",
+        "comment": "Chrome Web Store entry for Pinterest Dark Mode (nhkdchmlljcklaloabakpcnbpdlcffgk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a3c4f46b-43f7-5320-a69b-28d67835b562",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "26611d56f8b45b111a47b7532085c5a5c1de90d2c013eaf9680def3665e383b3",
+        "comment": "SHA-256 of extension package for Pinterest Dark Mode (nhkdchmlljcklaloabakpcnbpdlcffgk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "abe4a141-ec87-5010-a9a5-b6f1a30dfef4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ecjjhklhmpepmnhcegmajpdpmhmaiamh",
+        "comment": "Carexport \u2014 Dongchedi \u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-10 | Version: 1.13.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.13.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "6e9427a3-4b6d-5832-8b66-3607e6da1bcf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ecjjhklhmpepmnhcegmajpdpmhmaiamh",
+        "comment": "Chrome Web Store entry for Carexport \u2014 Dongchedi \u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a (ecjjhklhmpepmnhcegmajpdpmhmaiamh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bd00b0ba-979f-5ee5-bc7a-a5fa395ef815",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9945fd4696813c08e7dfebab750106912530f48367d619a9601613cafe7e795e",
+        "comment": "SHA-256 of extension package for Carexport \u2014 Dongchedi \u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a (ecjjhklhmpepmnhcegmajpdpmhmaiamh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "eb11c56f-5437-5923-962e-d722784f8b6b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ghbmpbdefklbjbnebdcpbjflekgmalpb",
+        "comment": "Salvage Auction Research Tool | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-10 | Version: 1.0.7",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.7\""
+          }
+        ]
+      },
+      {
+        "uuid": "83123bc5-0842-5e7a-b98f-255e9bcb18b3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ghbmpbdefklbjbnebdcpbjflekgmalpb",
+        "comment": "Chrome Web Store entry for Salvage Auction Research Tool (ghbmpbdefklbjbnebdcpbjflekgmalpb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "de19bcfc-1e16-5263-bb44-d7cb09633339",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8f248f917ca24174f1ac84bb7b199d87f020485a9ec90257190dc3d80ff40d48",
+        "comment": "SHA-256 of extension package for Salvage Auction Research Tool (ghbmpbdefklbjbnebdcpbjflekgmalpb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e8e23c29-ee93-5308-bb00-c62a8d6aa759",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jhgpcbfjmmkclnkdoplcpinejekdjomp",
+        "comment": "AdBlock Pro \u2013 Ad Blocker & Privacy | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-10 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "3352be4a-313f-56f7-88f8-e5efc5e1967c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jhgpcbfjmmkclnkdoplcpinejekdjomp",
+        "comment": "Chrome Web Store entry for AdBlock Pro \u2013 Ad Blocker & Privacy (jhgpcbfjmmkclnkdoplcpinejekdjomp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cbc671f0-a682-5fc4-9309-fcb4f3deb0dd",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7d69d75a06dc5ce4e7c3e518470c7ce5b59e11bf22a57b144f81cdd3bd313d9a",
+        "comment": "SHA-256 of extension package for AdBlock Pro \u2013 Ad Blocker & Privacy (jhgpcbfjmmkclnkdoplcpinejekdjomp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d910f498-65bd-5890-b23c-cc8e7d3f15e8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ombjdobdekonhhipddhpcpdfflmdakfe",
+        "comment": "Base - Extension For Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85 | Store: Google Chrome | Added: 2026-10-10 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "d9ff2d97-7fc9-52fc-a183-b7d0485b1131",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ombjdobdekonhhipddhpcpdfflmdakfe",
+        "comment": "Chrome Web Store entry for Base - Extension For Chrome (ombjdobdekonhhipddhpcpdfflmdakfe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "acb1dfe7-552c-5f1f-a149-e0054cd8b23f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "266b245353c88929abb2f194513e9a81e4ef101ee42f511607c7a1ccbd605bed",
+        "comment": "SHA-256 of extension package for Base - Extension For Chrome (ombjdobdekonhhipddhpcpdfflmdakfe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b34e625d-961e-54d7-9a43-a168328ae6c6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jfegcjipmnolppcnpgpmfogkmooelibl",
+        "comment": "Robin - Chrome Extension | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "08f8c50d-5e67-58e3-bdf3-d29a80280320",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jfegcjipmnolppcnpgpmfogkmooelibl",
+        "comment": "Chrome Web Store entry for Robin - Chrome Extension (jfegcjipmnolppcnpgpmfogkmooelibl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bbb2a55b-0a74-5992-aeb7-e3f955f86c8d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fafbc3a2b3061087cdc4370471b6bc90d1370fef138fb7d6d6b2e457ba283723",
+        "comment": "SHA-256 of extension package for Robin - Chrome Extension (jfegcjipmnolppcnpgpmfogkmooelibl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d67979d4-da5b-5206-aa2a-3f1675914653",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gbafgofiefjephjoodfphmojinnfiada",
+        "comment": "Coinom - Browser Extension | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "623ab826-e5b6-5cf6-8039-3ced6d0938a7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gbafgofiefjephjoodfphmojinnfiada",
+        "comment": "Chrome Web Store entry for Coinom - Browser Extension (gbafgofiefjephjoodfphmojinnfiada)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3036f87c-beb0-5c71-9eac-57e51d6a96f2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "88ff466376f1eb9b1e0c7304f8daab8e8ac77250d83d4ca45023a25c48d5a971",
+        "comment": "SHA-256 of extension package for Coinom - Browser Extension (gbafgofiefjephjoodfphmojinnfiada)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "42d8822a-9f78-5939-bf04-4349ea989a56",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dnbfneandcjphnkgcjkdkphmaoajiojh",
+        "comment": "Base - Extension Pad for Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "97e31952-8cf6-5bd5-9cda-d9a023cb42ab",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dnbfneandcjphnkgcjkdkphmaoajiojh",
+        "comment": "Chrome Web Store entry for Base - Extension Pad for Chrome (dnbfneandcjphnkgcjkdkphmaoajiojh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "12177be6-9d28-5c4a-8009-e1d74ce72e74",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bbljaeojdeehoihejgmdjgjmnnolgdbm",
+        "comment": "Robinhood - Extension For Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85 | Store: Google Chrome | Added: 2026-10-10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "4c3b5d41-68a7-5060-a304-16d070f2b2fa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bbljaeojdeehoihejgmdjgjmnnolgdbm",
+        "comment": "Chrome Web Store entry for Robinhood - Extension For Chrome (bbljaeojdeehoihejgmdjgjmnnolgdbm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "aed24add-b467-5e92-a4ea-5de816aa7efc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0e8750d0e5bc184978211976c5b299606b683767b62909ff6ae2f346c250ec09",
+        "comment": "SHA-256 of extension package for Robinhood - Extension For Chrome (bbljaeojdeehoihejgmdjgjmnnolgdbm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ee12ae68-52f4-58ab-a800-b84f0151f6f3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mpbnfoedhandidcdhhngghmpcoemebal",
+        "comment": "HoldPick \u2014 Long-Press Image Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "09151159-9320-5a6d-abd0-7735a58d4d87",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mpbnfoedhandidcdhhngghmpcoemebal",
+        "comment": "Chrome Web Store entry for HoldPick \u2014 Long-Press Image Downloader (mpbnfoedhandidcdhhngghmpcoemebal)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "94d2a5dc-5759-573c-9920-034e184dadcc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0c56aef55f3c3d56ba531fe828ac657f892f9fa496888f19bc9400477d6375e9",
+        "comment": "SHA-256 of extension package for HoldPick \u2014 Long-Press Image Downloader (mpbnfoedhandidcdhhngghmpcoemebal)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5366348a-6c24-529d-8b9c-dafd56f2e6b0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dafaanohplfgoihgjbmnniknmjaeajki",
+        "comment": "FunnelSnap | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 1.0.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "3f7a2c9c-6275-56b9-8eea-cc3146a33790",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dafaanohplfgoihgjbmnniknmjaeajki",
+        "comment": "Chrome Web Store entry for FunnelSnap (dafaanohplfgoihgjbmnniknmjaeajki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ad787116-29d0-5e71-be99-d88a27cbb104",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d7338addf84cbc6cf157f297ed9183c7494596bec76518b7b8c45f875eb063b7",
+        "comment": "SHA-256 of extension package for FunnelSnap (dafaanohplfgoihgjbmnniknmjaeajki)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3f8ee0ed-a0a5-50dc-be68-a00aec2fd374",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cjdaccpcajkfpaodphogohknlkfiipeb",
+        "comment": "ShopCompare AI | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2054829-8702-5103-b047-6e4dbb128df0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cjdaccpcajkfpaodphogohknlkfiipeb",
+        "comment": "Chrome Web Store entry for ShopCompare AI (cjdaccpcajkfpaodphogohknlkfiipeb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "78a94fee-8c70-50e6-83c7-3a3b53a7c3a1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "676052b5a9f39cb2b7b55b2a6401242712ac01b36004d3e3ee3b199b4bcffd4b",
+        "comment": "SHA-256 of extension package for ShopCompare AI (cjdaccpcajkfpaodphogohknlkfiipeb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "012dc1ad-13b7-5dd6-8ac2-97f88418d512",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iklfpdeiaeeookjohbiblmkffnhdippe",
+        "comment": "SelectorsHub | Source: https://malext.io/reports/RedirectorsHub/ | Store: Microsoft Edge | Added: 2026-10-09 | Version: 5.8.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/RedirectorsHub/\""
+          },
+          {
+            "name": "malext:store=\"Microsoft Edge\""
+          },
+          {
+            "name": "malext:version=\"5.8.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "55a4e5fa-9460-543b-a9a2-111458010c00",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://microsoftedge.microsoft.com/addons/detail/iklfpdeiaeeookjohbiblmkffnhdippe",
+        "comment": "Microsoft Edge Add-ons entry for SelectorsHub (iklfpdeiaeeookjohbiblmkffnhdippe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e9479d23-8ec0-591b-8bbd-3c2de89647bf",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "12c7a68a1ba7798f74fd4016bb42011a5864e410efbe10c185e346b1a77a8a55",
+        "comment": "SHA-256 of extension package for SelectorsHub (iklfpdeiaeeookjohbiblmkffnhdippe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7d2af047-f395-5de9-8009-f8d4b2f607ad",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ookeahbpgdngohdkcnkdpodnppkkhmhn",
+        "comment": "WA imports: Bulk add contacts to whatsapp group | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-10-09 | Version: 1.0.8",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.8\""
+          }
+        ]
+      },
+      {
+        "uuid": "60e616c8-bfc7-51b5-9f4e-44e6c0d54edb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ookeahbpgdngohdkcnkdpodnppkkhmhn",
+        "comment": "Chrome Web Store entry for WA imports: Bulk add contacts to whatsapp group (ookeahbpgdngohdkcnkdpodnppkkhmhn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1ad4c91c-519c-55f9-9992-5ab88f09c018",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b8f58b27ba76c9ab8b726f5c7fec9a44b9903837eba49bd5e974479593b54e67",
+        "comment": "SHA-256 of extension package for WA imports: Bulk add contacts to whatsapp group (ookeahbpgdngohdkcnkdpodnppkkhmhn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8a7b2d95-048b-5545-96b7-0aa0c5ab0c2c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fdnjfblfaddbodlgibpdfipmjfmdleon",
+        "comment": "Send bulk SMS using Send Blaster Pro | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-10-09 | Version: 1.0.9",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.9\""
+          }
+        ]
+      },
+      {
+        "uuid": "368c8c84-72ca-547c-8bdc-dee45b3b4400",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fdnjfblfaddbodlgibpdfipmjfmdleon",
+        "comment": "Chrome Web Store entry for Send bulk SMS using Send Blaster Pro (fdnjfblfaddbodlgibpdfipmjfmdleon)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1b262a1b-2112-5dc7-a928-9406b213d7e8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3e3fcc6340377fb2cf303bb15b8b3a0c322a456d4c660bda0ef31c2f980b3bb8",
+        "comment": "SHA-256 of extension package for Send bulk SMS using Send Blaster Pro (fdnjfblfaddbodlgibpdfipmjfmdleon)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6c0047cc-0290-5fed-b7e8-63509a738547",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ejnfnacdkkcgljcialgkaklmofahphca",
+        "comment": "WASendBulk Bulk WhatsApp Sender for FREE | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-10-09 | Version: 2.1.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.1.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "70335de6-2d80-5514-acd4-0f824f8cf47e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ejnfnacdkkcgljcialgkaklmofahphca",
+        "comment": "Chrome Web Store entry for WASendBulk Bulk WhatsApp Sender for FREE (ejnfnacdkkcgljcialgkaklmofahphca)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "704c193c-5c25-5c1e-ab89-b7d2ff1ea5c8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "877a527134dc3787a2498682a7bdbdec16ce7d43c4d6a839eb227f1b2ac559cd",
+        "comment": "SHA-256 of extension package for WASendBulk Bulk WhatsApp Sender for FREE (ejnfnacdkkcgljcialgkaklmofahphca)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5c2d46f0-c32f-5d7e-a1f2-dfb044ae1f9e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ilgjeogcieakklcagmidpiclclcpojjb",
+        "comment": "Verify Whatsapp numbers in Bulk | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-10-09 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "f7f7ce28-b928-53cd-9206-4801f771bdb9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ilgjeogcieakklcagmidpiclclcpojjb",
+        "comment": "Chrome Web Store entry for Verify Whatsapp numbers in Bulk (ilgjeogcieakklcagmidpiclclcpojjb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5cf541dd-f2f3-5871-97db-7a8d3e27795e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "01c1bf28d68b5dbeb49239ae46d7d5e4644df8a418f355a84031474c26bf660a",
+        "comment": "SHA-256 of extension package for Verify Whatsapp numbers in Bulk (ilgjeogcieakklcagmidpiclclcpojjb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3f97ef50-4583-5b0d-b8f4-025109312ab5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gcfkcnpjagingoehnjljceonhckfmchl",
+        "comment": "Send Whatsapp Direct Mess | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-10-09 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "fff7e511-6c70-554c-abf6-f8bca29e4e53",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gcfkcnpjagingoehnjljceonhckfmchl",
+        "comment": "Chrome Web Store entry for Send Whatsapp Direct Mess (gcfkcnpjagingoehnjljceonhckfmchl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "19db0778-efe0-5f42-9e8d-2ec9d4bf5b5d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ec053b941e2fbfd97d13dc3c907a67706066c69cfbe8aacbc8ea31c0f7319f97",
+        "comment": "SHA-256 of extension package for Send Whatsapp Direct Mess (gcfkcnpjagingoehnjljceonhckfmchl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "39f130da-d6e0-5e8b-9fce-ae320d143ea0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ibnpncnjhkhbhkkjljmgmkchmloiclma",
+        "comment": "Wa Labels Whatsapp Labels | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-10-09 | Version: 1.0.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "9ce90cc7-6d05-584c-8b64-10573ec023a7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ibnpncnjhkhbhkkjljmgmkchmloiclma",
+        "comment": "Chrome Web Store entry for Wa Labels Whatsapp Labels (ibnpncnjhkhbhkkjljmgmkchmloiclma)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "032ce3d9-c5d7-56ab-9d2c-5343d977b083",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8fed5f97c4cd4245dd23cbeb5df0fa4f9ed486d78a196758898cbf64259a9c4c",
+        "comment": "SHA-256 of extension package for Wa Labels Whatsapp Labels (ibnpncnjhkhbhkkjljmgmkchmloiclma)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d4385fef-bd51-5585-9b15-be0a015c8c48",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dckmplobjgdehjckjinbampmachapmoo",
+        "comment": "Wa Export Export Whatsapp | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-10-09 | Version: 1.0.13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.13\""
+          }
+        ]
+      },
+      {
+        "uuid": "45ec6ebc-8b22-5385-923c-e4c2c7b9ed0f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dckmplobjgdehjckjinbampmachapmoo",
+        "comment": "Chrome Web Store entry for Wa Export Export Whatsapp (dckmplobjgdehjckjinbampmachapmoo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b9d049b2-c3a2-5d91-bd7e-09ed8c194b9e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "469636c487745ed7e3ec1d414651965728c733e6cc21f807934924b6272fe144",
+        "comment": "SHA-256 of extension package for Wa Export Export Whatsapp (dckmplobjgdehjckjinbampmachapmoo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b528fc92-7188-5bb1-abd6-50d5b64a08a1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "emfeefeailjadpdgjlocipnlmikdjlkn",
+        "comment": "Js And Css Snippets For W | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-10-09 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "6a7fb020-9b9f-5ed1-9f2b-9dd0af215d26",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/emfeefeailjadpdgjlocipnlmikdjlkn",
+        "comment": "Chrome Web Store entry for Js And Css Snippets For W (emfeefeailjadpdgjlocipnlmikdjlkn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7261aef9-3db0-57cd-a54b-6625cacb33cd",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6e71fef01fbd8a8c53b27fb4d9513c22feee19f6a5bb3ec186ed481df30875e3",
+        "comment": "SHA-256 of extension package for Js And Css Snippets For W (emfeefeailjadpdgjlocipnlmikdjlkn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8f68111b-af26-5d80-9e43-04abd77e5807",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljlecfbgcbfkbhekgjpddahmohmkedkp",
+        "comment": "Hola Vpn \u2014 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 Vpn \u0434\u043b | Source: https://socket.dev/blog/chrome-vpn-extension-impersonation | Store: Google Chrome | Added: 2026-10-09 | Version: 2.7.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/chrome-vpn-extension-impersonation\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.7.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "271d99ec-7be6-5f14-ba4e-0ca35aff5728",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljlecfbgcbfkbhekgjpddahmohmkedkp",
+        "comment": "Chrome Web Store entry for Hola Vpn \u2014 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 Vpn \u0434\u043b (ljlecfbgcbfkbhekgjpddahmohmkedkp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e3dafb82-8d50-553e-ba07-df6706dfc6f0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4e3e3c1c1d0901f17262d9c5888cd14a45982d0c5e98801931c83fcb533479f0",
+        "comment": "SHA-256 of extension package for Hola Vpn \u2014 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 Vpn \u0434\u043b (ljlecfbgcbfkbhekgjpddahmohmkedkp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c0752a12-6d5f-505f-82a0-9c9fc9adfa38",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "khdnodoenampigiobficipbbeaomlffj",
+        "comment": "Vpn Plus \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u043e\u0441 | Source: https://socket.dev/blog/chrome-vpn-extension-impersonation | Store: Google Chrome | Added: 2026-10-09 | Version: 1.3.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/chrome-vpn-extension-impersonation\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.3.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "a75b6b05-dcd8-5749-80c3-08f0ed74b777",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/khdnodoenampigiobficipbbeaomlffj",
+        "comment": "Chrome Web Store entry for Vpn Plus \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u043e\u0441 (khdnodoenampigiobficipbbeaomlffj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3c7157d3-ef9b-5bb9-8912-675665287bb5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "611186dd3217a5c551b6a6e20b856bee70d0b7163bedf22cb6076b031e45beb1",
+        "comment": "SHA-256 of extension package for Vpn Plus \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u043e\u0441 (khdnodoenampigiobficipbbeaomlffj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4fd819a7-2859-5af4-9119-e1a234b628d1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aedgjcmfgakhimjcggidaoogjdchbhal",
+        "comment": "Vpnly \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn \u0434\u043b\u044f \u0440 | Source: https://socket.dev/blog/chrome-vpn-extension-impersonation | Store: Google Chrome | Added: 2026-10-09 | Version: 2.7.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/chrome-vpn-extension-impersonation\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.7.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "d31f1272-a237-5f1a-bbdc-cc3f2433788c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aedgjcmfgakhimjcggidaoogjdchbhal",
+        "comment": "Chrome Web Store entry for Vpnly \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn \u0434\u043b\u044f \u0440 (aedgjcmfgakhimjcggidaoogjdchbhal)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b38b1627-3ce3-5ddf-9af6-614263cc4f68",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6f7525bca41a19b7dc3ad32b73dc1e0ccc3e66b29ff2720a3454876bf7cff8d1",
+        "comment": "SHA-256 of extension package for Vpnly \u2014 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 Vpn \u0434\u043b\u044f \u0440 (aedgjcmfgakhimjcggidaoogjdchbhal)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2de2daa8-7fd8-5cfc-8e7b-413731e9f060",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oiboifjlhhjpikbjfjcgmhlfjnffnpmn",
+        "comment": "Touch Vpn \u2014 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0439 Vpn | Source: https://socket.dev/blog/chrome-vpn-extension-impersonation | Store: Google Chrome | Added: 2026-10-09 | Version: 2.7.7",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/chrome-vpn-extension-impersonation\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.7.7\""
+          }
+        ]
+      },
+      {
+        "uuid": "f83cdefb-6c9a-5dbb-b5d1-1606e19ec215",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oiboifjlhhjpikbjfjcgmhlfjnffnpmn",
+        "comment": "Chrome Web Store entry for Touch Vpn \u2014 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0439 Vpn (oiboifjlhhjpikbjfjcgmhlfjnffnpmn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e8b4d0dd-39ff-53ea-9fb0-16ce611f4ba9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "139de75413e9dcb3550daeb1927f377b7a18ef70d7cfaa234d9301abf811fad1",
+        "comment": "SHA-256 of extension package for Touch Vpn \u2014 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0439 Vpn (oiboifjlhhjpikbjfjcgmhlfjnffnpmn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f392d00c-e3e2-5961-8e0e-fe9468097d8f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ndoafghdkgnafecpbeelfpffblpaladc",
+        "comment": "Hola Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn | Source: https://socket.dev/blog/chrome-vpn-extension-impersonation | Store: Google Chrome | Added: 2026-10-09 | Version: 1.3.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/chrome-vpn-extension-impersonation\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.3.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "474ed173-7b19-5143-b653-f8465a9005b2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ndoafghdkgnafecpbeelfpffblpaladc",
+        "comment": "Chrome Web Store entry for Hola Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn (ndoafghdkgnafecpbeelfpffblpaladc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dbd82134-6185-5214-a07e-c246400d3921",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8370dac017b30ce8ac8d081bcabc8e61c3d550236d0fc0416f9dd1fd006f5636",
+        "comment": "SHA-256 of extension package for Hola Vpn \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 Vpn (ndoafghdkgnafecpbeelfpffblpaladc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "db6c5c17-09ac-51a4-8e3b-0a92171dce93",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "efanfbldpedehgeegakmknaffcknidii",
+        "comment": "Turbo Vpn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 Vpn | Source: https://socket.dev/blog/chrome-vpn-extension-impersonation | Store: Google Chrome | Added: 2026-10-09 | Version: 2.0.7",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/chrome-vpn-extension-impersonation\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.7\""
+          }
+        ]
+      },
+      {
+        "uuid": "10fa8dee-e021-5741-9058-ce92f0b5f863",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/efanfbldpedehgeegakmknaffcknidii",
+        "comment": "Chrome Web Store entry for Turbo Vpn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 Vpn (efanfbldpedehgeegakmknaffcknidii)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b8b91ada-060b-5ad2-a272-3b72dac94b2b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "077dbf24c5b511dcd30dc8fac8cb8b60bb3fbb44b6e84517b0015a327d735ea8",
+        "comment": "SHA-256 of extension package for Turbo Vpn \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 Vpn (efanfbldpedehgeegakmknaffcknidii)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ac47187d-06d7-58a0-a561-6e98aad43630",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "epkoecehhdadepboammdamgmnfoigoho",
+        "comment": "Turbo Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u043e | Source: https://socket.dev/blog/chrome-vpn-extension-impersonation | Store: Google Chrome | Added: 2026-10-09 | Version: 1.4.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/chrome-vpn-extension-impersonation\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "3ec9900f-1c53-5dfd-bb93-583b91240f60",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/epkoecehhdadepboammdamgmnfoigoho",
+        "comment": "Chrome Web Store entry for Turbo Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u043e (epkoecehhdadepboammdamgmnfoigoho)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6b614c7d-1dba-5e5c-947e-a48789734047",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "78a0d0b1e9791811027cf30a53ef6e2de392e15a8b34804e96dae325902c5e77",
+        "comment": "SHA-256 of extension package for Turbo Vpn \u2014 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u043e (epkoecehhdadepboammdamgmnfoigoho)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "2dc42fe3-911d-5545-bc0d-8f47c7662ffd",
         "type": "text",
@@ -79,7 +1605,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "imgiklhbdjkgfdoieenmmjjmjjdbjnpk",
-        "comment": "Claude to Notion - Export &amp; Save Chats | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 3.0.2",
+        "comment": "Claude to Notion - Export & Save Chats | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 3.0.2",
         "distribution": "5",
         "Tag": [
           {
@@ -102,7 +1628,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/imgiklhbdjkgfdoieenmmjjmjjdbjnpk",
-        "comment": "Chrome Web Store entry for Claude to Notion - Export &amp; Save Chats (imgiklhbdjkgfdoieenmmjjmjjdbjnpk)",
+        "comment": "Chrome Web Store entry for Claude to Notion - Export & Save Chats (imgiklhbdjkgfdoieenmmjjmjjdbjnpk)",
         "distribution": "5"
       },
       {
@@ -111,7 +1637,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "da8641db4e7138b99d3042e4c812732084b856a7b7b8bd1f0533113175e31c37",
-        "comment": "SHA-256 of extension package for Claude to Notion - Export &amp; Save Chats (imgiklhbdjkgfdoieenmmjjmjjdbjnpk)",
+        "comment": "SHA-256 of extension package for Claude to Notion - Export & Save Chats (imgiklhbdjkgfdoieenmmjjmjjdbjnpk)",
         "distribution": "5",
         "Tag": [
           {
@@ -1091,7 +2617,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "pbnlcjoehojdbohflcffkjcmmjjjkbpb",
-        "comment": "Bluesky Bulk Block &amp; Mute - List Cleaner | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 3.0.2",
+        "comment": "Bluesky Bulk Block & Mute - List Cleaner | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 3.0.2",
         "distribution": "5",
         "Tag": [
           {
@@ -1114,7 +2640,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/pbnlcjoehojdbohflcffkjcmmjjjkbpb",
-        "comment": "Chrome Web Store entry for Bluesky Bulk Block &amp; Mute - List Cleaner (pbnlcjoehojdbohflcffkjcmmjjjkbpb)",
+        "comment": "Chrome Web Store entry for Bluesky Bulk Block & Mute - List Cleaner (pbnlcjoehojdbohflcffkjcmmjjjkbpb)",
         "distribution": "5"
       },
       {
@@ -1123,7 +2649,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "feb80de73e01828b034d5003055371182788a677deb38ddcb933be279e06a61b",
-        "comment": "SHA-256 of extension package for Bluesky Bulk Block &amp; Mute - List Cleaner (pbnlcjoehojdbohflcffkjcmmjjjkbpb)",
+        "comment": "SHA-256 of extension package for Bluesky Bulk Block & Mute - List Cleaner (pbnlcjoehojdbohflcffkjcmmjjjkbpb)",
         "distribution": "5",
         "Tag": [
           {
@@ -1137,7 +2663,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "mcnodibhblfbpcljcjagplgehoijbhig",
-        "comment": "Sora Analytics - Creator Stats &amp; Export | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 3.0.3",
+        "comment": "Sora Analytics - Creator Stats & Export | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 3.0.3",
         "distribution": "5",
         "Tag": [
           {
@@ -1160,7 +2686,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/mcnodibhblfbpcljcjagplgehoijbhig",
-        "comment": "Chrome Web Store entry for Sora Analytics - Creator Stats &amp; Export (mcnodibhblfbpcljcjagplgehoijbhig)",
+        "comment": "Chrome Web Store entry for Sora Analytics - Creator Stats & Export (mcnodibhblfbpcljcjagplgehoijbhig)",
         "distribution": "5"
       },
       {
@@ -1169,7 +2695,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "0e436a0069b55c7a42d80466563e1d3629f07ab90cc4c13184891647a08f46a8",
-        "comment": "SHA-256 of extension package for Sora Analytics - Creator Stats &amp; Export (mcnodibhblfbpcljcjagplgehoijbhig)",
+        "comment": "SHA-256 of extension package for Sora Analytics - Creator Stats & Export (mcnodibhblfbpcljcjagplgehoijbhig)",
         "distribution": "5",
         "Tag": [
           {
@@ -1275,7 +2801,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "giloifdpokgcdhdpcnmjgakghbcmkjec",
-        "comment": "Folders &amp; Search for Character.AI Chats | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 3.0.2",
+        "comment": "Folders & Search for Character.AI Chats | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 3.0.2",
         "distribution": "5",
         "Tag": [
           {
@@ -1298,7 +2824,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/giloifdpokgcdhdpcnmjgakghbcmkjec",
-        "comment": "Chrome Web Store entry for Folders &amp; Search for Character.AI Chats (giloifdpokgcdhdpcnmjgakghbcmkjec)",
+        "comment": "Chrome Web Store entry for Folders & Search for Character.AI Chats (giloifdpokgcdhdpcnmjgakghbcmkjec)",
         "distribution": "5"
       },
       {
@@ -1307,7 +2833,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "2743723913f6790bb7a6c0c09247b73a40735ff94957e37267dd091ac4bed34d",
-        "comment": "SHA-256 of extension package for Folders &amp; Search for Character.AI Chats (giloifdpokgcdhdpcnmjgakghbcmkjec)",
+        "comment": "SHA-256 of extension package for Folders & Search for Character.AI Chats (giloifdpokgcdhdpcnmjgakghbcmkjec)",
         "distribution": "5",
         "Tag": [
           {
@@ -1367,7 +2893,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "hbedkggodmjoklfhbffomflnajceglei",
-        "comment": "Grok Exporter - Save Chats to Markdown &amp; PDF | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 3.0.2",
+        "comment": "Grok Exporter - Save Chats to Markdown & PDF | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 3.0.2",
         "distribution": "5",
         "Tag": [
           {
@@ -1390,7 +2916,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/hbedkggodmjoklfhbffomflnajceglei",
-        "comment": "Chrome Web Store entry for Grok Exporter - Save Chats to Markdown &amp; PDF (hbedkggodmjoklfhbffomflnajceglei)",
+        "comment": "Chrome Web Store entry for Grok Exporter - Save Chats to Markdown & PDF (hbedkggodmjoklfhbffomflnajceglei)",
         "distribution": "5"
       },
       {
@@ -1399,7 +2925,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "aec9a6aef429d62893ca14ffc95a4202fcc7faea77a04433254b51b24d2993e0",
-        "comment": "SHA-256 of extension package for Grok Exporter - Save Chats to Markdown &amp; PDF (hbedkggodmjoklfhbffomflnajceglei)",
+        "comment": "SHA-256 of extension package for Grok Exporter - Save Chats to Markdown & PDF (hbedkggodmjoklfhbffomflnajceglei)",
         "distribution": "5",
         "Tag": [
           {
@@ -2044,6 +3570,52 @@
         "to_ids": true,
         "value": "807f11b5391987b0cfb74dc839746277cc6214ace2e9d802de9a691649508333",
         "comment": "SHA-256 of extension package for C\u00e0y view (hfnkgefpgmpjnhmloigilhlhhdijmfke)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "83591ba2-31bc-5859-baba-5e2797770c63",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "blmcjodakkekahobekcbbplaacdocehj",
+        "comment": "Bitmoji Toolkit | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 3.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "330d7132-e6e9-5e65-bcee-a367a2be59fc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/blmcjodakkekahobekcbbplaacdocehj",
+        "comment": "Chrome Web Store entry for Bitmoji Toolkit (blmcjodakkekahobekcbbplaacdocehj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d9e28359-16a9-5eff-9c30-c7a5f364caee",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4e43b521beb3eae425fc5dced4c9357e14c8157a4cc69cf914b4c04b7c2724c9",
+        "comment": "SHA-256 of extension package for Bitmoji Toolkit (blmcjodakkekahobekcbbplaacdocehj)",
         "distribution": "5",
         "Tag": [
           {
@@ -2908,7 +4480,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "kdicdaagghojkopcbbmnkopgcafmfpkl",
-        "comment": "Tab Manager - Organize &amp; Search Tabs | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-04 | Version: 0.5.0",
+        "comment": "Tab Manager - Organize & Search Tabs | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-04 | Version: 0.5.0",
         "distribution": "5",
         "Tag": [
           {
@@ -2931,7 +4503,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/kdicdaagghojkopcbbmnkopgcafmfpkl",
-        "comment": "Chrome Web Store entry for Tab Manager - Organize &amp; Search Tabs (kdicdaagghojkopcbbmnkopgcafmfpkl)",
+        "comment": "Chrome Web Store entry for Tab Manager - Organize & Search Tabs (kdicdaagghojkopcbbmnkopgcafmfpkl)",
         "distribution": "5"
       },
       {
@@ -4640,7 +6212,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "hbmmidflopehdmpfofdpkgopopmodffj",
-        "comment": "Price Comparison \u2013 Amazon vs. Walmart, Target, Best Buy, eBay &amp; more | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-03 | Version: 1.3",
+        "comment": "Price Comparison \u2013 Amazon vs. Walmart, Target, Best Buy, eBay & more | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-03 | Version: 1.3",
         "distribution": "5",
         "Tag": [
           {
@@ -4663,7 +6235,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/hbmmidflopehdmpfofdpkgopopmodffj",
-        "comment": "Chrome Web Store entry for Price Comparison \u2013 Amazon vs. Walmart, Target, Best Buy, eBay &amp; more (hbmmidflopehdmpfofdpkgopopmodffj)",
+        "comment": "Chrome Web Store entry for Price Comparison \u2013 Amazon vs. Walmart, Target, Best Buy, eBay & more (hbmmidflopehdmpfofdpkgopopmodffj)",
         "distribution": "5"
       },
       {
@@ -4672,7 +6244,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "3aba38b24c20284856bd4f3dc934c2280c91fb1fc5723d7d7d8676d9b6b3721f",
-        "comment": "SHA-256 of extension package for Price Comparison \u2013 Amazon vs. Walmart, Target, Best Buy, eBay &amp; more (hbmmidflopehdmpfofdpkgopopmodffj)",
+        "comment": "SHA-256 of extension package for Price Comparison \u2013 Amazon vs. Walmart, Target, Best Buy, eBay & more (hbmmidflopehdmpfofdpkgopopmodffj)",
         "distribution": "5",
         "Tag": [
           {
@@ -6894,7 +8466,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "ofncnkgfhljinmkjbjckpdfccginklph",
-        "comment": "Prefind - Your AI Search powered by Claude-3 &amp; GPT-4 | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-03 | Version: 1.0.0",
+        "comment": "Prefind - Your AI Search powered by Claude-3 & GPT-4 | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-03 | Version: 1.0.0",
         "distribution": "5",
         "Tag": [
           {
@@ -6917,7 +8489,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/ofncnkgfhljinmkjbjckpdfccginklph",
-        "comment": "Chrome Web Store entry for Prefind - Your AI Search powered by Claude-3 &amp; GPT-4 (ofncnkgfhljinmkjbjckpdfccginklph)",
+        "comment": "Chrome Web Store entry for Prefind - Your AI Search powered by Claude-3 & GPT-4 (ofncnkgfhljinmkjbjckpdfccginklph)",
         "distribution": "5"
       },
       {
@@ -6926,7 +8498,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "bb0174c2d73a360c29519e773c79c9428f232a753067919125d246f40ce0942a",
-        "comment": "SHA-256 of extension package for Prefind - Your AI Search powered by Claude-3 &amp; GPT-4 (ofncnkgfhljinmkjbjckpdfccginklph)",
+        "comment": "SHA-256 of extension package for Prefind - Your AI Search powered by Claude-3 & GPT-4 (ofncnkgfhljinmkjbjckpdfccginklph)",
         "distribution": "5",
         "Tag": [
           {
@@ -8168,7 +9740,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "bacpmpojkggibcadipnkpifihlfcljbg",
-        "comment": "LeetRank Pro &amp; Sync | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-02 | Version: 1.1.3",
+        "comment": "LeetRank Pro & Sync | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-02 | Version: 1.1.3",
         "distribution": "5",
         "Tag": [
           {
@@ -8191,7 +9763,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/bacpmpojkggibcadipnkpifihlfcljbg",
-        "comment": "Chrome Web Store entry for LeetRank Pro &amp; Sync (bacpmpojkggibcadipnkpifihlfcljbg)",
+        "comment": "Chrome Web Store entry for LeetRank Pro & Sync (bacpmpojkggibcadipnkpifihlfcljbg)",
         "distribution": "5"
       },
       {
@@ -8200,7 +9772,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "f4dcd4aaec9d77c4b7d66069e9cda0f317477214d499a94311636c0dcecbb847",
-        "comment": "SHA-256 of extension package for LeetRank Pro &amp; Sync (bacpmpojkggibcadipnkpifihlfcljbg)",
+        "comment": "SHA-256 of extension package for LeetRank Pro & Sync (bacpmpojkggibcadipnkpifihlfcljbg)",
         "distribution": "5",
         "Tag": [
           {
@@ -9686,7 +11258,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "cakejefemdjbmhdjkjhibjhmhgjefidm",
-        "comment": "FatCoupon Cashback &amp; Promo Codes | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-27 | Version: 1.0.25",
+        "comment": "FatCoupon Cashback & Promo Codes | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-27 | Version: 1.0.25",
         "distribution": "5",
         "Tag": [
           {
@@ -9709,7 +11281,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/cakejefemdjbmhdjkjhibjhmhgjefidm",
-        "comment": "Chrome Web Store entry for FatCoupon Cashback &amp; Promo Codes (cakejefemdjbmhdjkjhibjhmhgjefidm)",
+        "comment": "Chrome Web Store entry for FatCoupon Cashback & Promo Codes (cakejefemdjbmhdjkjhibjhmhgjefidm)",
         "distribution": "5"
       },
       {
@@ -9718,7 +11290,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "01470b997f77d758a0a328c45d8f88f90675a45960c486e1828071aa45c66b7c",
-        "comment": "SHA-256 of extension package for FatCoupon Cashback &amp; Promo Codes (cakejefemdjbmhdjkjhibjhmhgjefidm)",
+        "comment": "SHA-256 of extension package for FatCoupon Cashback & Promo Codes (cakejefemdjbmhdjkjhibjhmhgjefidm)",
         "distribution": "5",
         "Tag": [
           {
@@ -17247,7 +18819,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "cncdmciajmaojninbopinpijdodjgfpd",
-        "comment": "Trendtrack - eCommerce Analysis &amp; All in one tool (Website, Trends, Ads..) | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16 | Version: 1.3.21",
+        "comment": "Trendtrack - eCommerce Analysis & All in one tool (Website, Trends, Ads..) | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16 | Version: 1.3.21",
         "distribution": "5",
         "Tag": [
           {
@@ -17270,7 +18842,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/cncdmciajmaojninbopinpijdodjgfpd",
-        "comment": "Chrome Web Store entry for Trendtrack - eCommerce Analysis &amp; All in one tool (Website, Trends, Ads..) (cncdmciajmaojninbopinpijdodjgfpd)",
+        "comment": "Chrome Web Store entry for Trendtrack - eCommerce Analysis & All in one tool (Website, Trends, Ads..) (cncdmciajmaojninbopinpijdodjgfpd)",
         "distribution": "5"
       },
       {
@@ -17279,7 +18851,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "c9d447ec394c2beafa3d1999c2e5bc04f1e63e7e4ed12360d00d47593759cc68",
-        "comment": "SHA-256 of extension package for Trendtrack - eCommerce Analysis &amp; All in one tool (Website, Trends, Ads..) (cncdmciajmaojninbopinpijdodjgfpd)",
+        "comment": "SHA-256 of extension package for Trendtrack - eCommerce Analysis & All in one tool (Website, Trends, Ads..) (cncdmciajmaojninbopinpijdodjgfpd)",
         "distribution": "5",
         "Tag": [
           {
@@ -17569,7 +19141,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "knnmlfjaelcpgldncmbcpcpamlikabbl",
-        "comment": "Smart Video &amp; Audio Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16 | Version: 2.2.1",
+        "comment": "Smart Video & Audio Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-16 | Version: 2.2.1",
         "distribution": "5",
         "Tag": [
           {
@@ -17592,7 +19164,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/knnmlfjaelcpgldncmbcpcpamlikabbl",
-        "comment": "Chrome Web Store entry for Smart Video &amp; Audio Downloader (knnmlfjaelcpgldncmbcpcpamlikabbl)",
+        "comment": "Chrome Web Store entry for Smart Video & Audio Downloader (knnmlfjaelcpgldncmbcpcpamlikabbl)",
         "distribution": "5"
       },
       {
@@ -17601,7 +19173,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "8c820fe8fd1056e5bcf60685d37aeff19f809b90952bf91144cc220350dd826f",
-        "comment": "SHA-256 of extension package for Smart Video &amp; Audio Downloader (knnmlfjaelcpgldncmbcpcpamlikabbl)",
+        "comment": "SHA-256 of extension package for Smart Video & Audio Downloader (knnmlfjaelcpgldncmbcpcpamlikabbl)",
         "distribution": "5",
         "Tag": [
           {
@@ -21065,7 +22637,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "kaodjoooddhmdjdpogllamnhcdmmikgf",
-        "comment": "Notion Table &amp; Database to CSV / Markdown | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12 | Version: 0.1.0",
+        "comment": "Notion Table & Database to CSV / Markdown | Source: Store Monitoring | Store: Google Chrome | Added: 2026-09-12 | Version: 0.1.0",
         "distribution": "5",
         "Tag": [
           {
@@ -21088,7 +22660,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/kaodjoooddhmdjdpogllamnhcdmmikgf",
-        "comment": "Chrome Web Store entry for Notion Table &amp; Database to CSV / Markdown (kaodjoooddhmdjdpogllamnhcdmmikgf)",
+        "comment": "Chrome Web Store entry for Notion Table & Database to CSV / Markdown (kaodjoooddhmdjdpogllamnhcdmmikgf)",
         "distribution": "5"
       },
       {
@@ -21097,7 +22669,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "15accb2c0f7dd69085a670b164717add36ee29e74c22eb038f69ca8f15d1eb0d",
-        "comment": "SHA-256 of extension package for Notion Table &amp; Database to CSV / Markdown (kaodjoooddhmdjdpogllamnhcdmmikgf)",
+        "comment": "SHA-256 of extension package for Notion Table & Database to CSV / Markdown (kaodjoooddhmdjdpogllamnhcdmmikgf)",
         "distribution": "5",
         "Tag": [
           {
@@ -105446,7 +107018,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "imaoedkofdaconheiolmmokmimlplaii",
-        "comment": "PassShield: Cryptographic Vault | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.0.2",
+        "comment": "PassShield: Cryptographic Vault | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.0.2",
         "distribution": "5",
         "Tag": [
           {
@@ -105456,7 +107028,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.0.2\""
@@ -105492,7 +107064,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "mdondgockboebafloibbhjofmoedmnnn",
-        "comment": "InstaSkip | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.3",
+        "comment": "InstaSkip | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.3",
         "distribution": "5",
         "Tag": [
           {
@@ -105502,7 +107074,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.3\""
@@ -105538,7 +107110,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "lcgkjnfnhklmdeeobejaaamhphjgajom",
-        "comment": "MarkdownMind: Reader & Markdown Converter | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.0.2",
+        "comment": "MarkdownMind: Reader & Markdown Converter | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.0.2",
         "distribution": "5",
         "Tag": [
           {
@@ -105548,7 +107120,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.0.2\""
@@ -105584,7 +107156,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "bfpoikdkeehibolnodnidehanfhejflp",
-        "comment": "NetShift: Custom Header & Redirect Manager | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.0.2",
+        "comment": "NetShift: Custom Header & Redirect Manager | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.0.2",
         "distribution": "5",
         "Tag": [
           {
@@ -105594,7 +107166,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.0.2\""
@@ -105630,7 +107202,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "cdcepcbnmhmcbihicmhfbijjokidcple",
-        "comment": "ClipFlow: Visual Screenshot Editor | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02",
+        "comment": "ClipFlow: Visual Screenshot Editor | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02",
         "distribution": "5",
         "Tag": [
           {
@@ -105640,7 +107212,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           }
         ]
       },
@@ -105659,7 +107231,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "lnogaakgoicoepejofienogdohbnbcdf",
-        "comment": "PagePalette: CSS Style & Color Inspector | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.0.2",
+        "comment": "PagePalette: CSS Style & Color Inspector | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.0.2",
         "distribution": "5",
         "Tag": [
           {
@@ -105669,7 +107241,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.0.2\""
@@ -105705,7 +107277,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "bahegaolgkmgnjnppnlgkfedbfnnfila",
-        "comment": "TabLoom: Visual Tab Group Mindmap | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.0.2",
+        "comment": "TabLoom: Visual Tab Group Mindmap | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.0.2",
         "distribution": "5",
         "Tag": [
           {
@@ -105715,7 +107287,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.0.2\""
@@ -105751,7 +107323,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "dakecfndpkgfpifeigpelocnomgcgonj",
-        "comment": "SnoozeTab: Tab Scheduler & Alarm | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.0.1",
+        "comment": "SnoozeTab: Tab Scheduler & Alarm | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.0.1",
         "distribution": "5",
         "Tag": [
           {
@@ -105761,7 +107333,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.0.1\""
@@ -105797,7 +107369,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "geipbnpjdpignhlbgpjjokiponedfpdm",
-        "comment": "JsonLoom: Visual JSON Mindmap | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.0.2",
+        "comment": "JsonLoom: Visual JSON Mindmap | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.0.2",
         "distribution": "5",
         "Tag": [
           {
@@ -105807,7 +107379,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.0.2\""
@@ -105843,7 +107415,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "fnghapbcbeindlipfffoildfkhjepofn",
-        "comment": "Focus Flow | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.0",
+        "comment": "Focus Flow | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.0",
         "distribution": "5",
         "Tag": [
           {
@@ -105853,7 +107425,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.0\""
@@ -105889,7 +107461,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "kfecocknjlfelgafkkedmibpdoidfdln",
-        "comment": "Memeify My Tabs! | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.0",
+        "comment": "Memeify My Tabs! | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.0",
         "distribution": "5",
         "Tag": [
           {
@@ -105899,7 +107471,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.0\""
@@ -105935,7 +107507,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "jjhepmoeblmpiecjclakeeolfdemhepb",
-        "comment": "SNES Mate - SNES Emulator | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.0.3",
+        "comment": "SNES Mate - SNES Emulator | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.0.3",
         "distribution": "5",
         "Tag": [
           {
@@ -105945,7 +107517,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.0.3\""
@@ -105981,7 +107553,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "plgeoddeimaoamhcadaonmcjhpjhamim",
-        "comment": "NES Emulator | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 2.1.0",
+        "comment": "NES Emulator | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 2.1.0",
         "distribution": "5",
         "Tag": [
           {
@@ -105991,7 +107563,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"2.1.0\""
@@ -106027,7 +107599,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "jfhpelccbpfcomeacbikkpjpoplckmgp",
-        "comment": "NES Emulator | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 2.1.0",
+        "comment": "NES Emulator | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 2.1.0",
         "distribution": "5",
         "Tag": [
           {
@@ -106037,7 +107609,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"2.1.0\""
@@ -106073,7 +107645,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "lklpgnoakidgmajbkachidckmhjjdage",
-        "comment": "Poster Print | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.0.4",
+        "comment": "Poster Print | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.0.4",
         "distribution": "5",
         "Tag": [
           {
@@ -106083,7 +107655,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.0.4\""
@@ -106119,7 +107691,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "nmimfmbgigfapfdbgmdpljpdmdgogadl",
-        "comment": "Pesca Abisal | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.0.5",
+        "comment": "Pesca Abisal | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.0.5",
         "distribution": "5",
         "Tag": [
           {
@@ -106129,7 +107701,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.0.5\""
@@ -106165,7 +107737,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "joloppoccabgdmcemcipplgnkliadbkf",
-        "comment": "PingTrack: Web Speed Diagnostician | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Chrome | Added: 2026-08-02 | Version: 1.1.0",
+        "comment": "PingTrack: Web Speed Diagnostician | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt | Store: Google Chrome | Added: 2026-08-02 | Version: 1.1.0",
         "distribution": "5",
         "Tag": [
           {
@@ -106175,7 +107747,7 @@
             "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-07-29-Browser-as-proxy-extensions.txt\""
           },
           {
-            "name": "malext:store=\"Chrome\""
+            "name": "malext:store=\"Google Chrome\""
           },
           {
             "name": "malext:version=\"1.1.0\""
