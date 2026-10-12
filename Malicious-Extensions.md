@@ -1,20 +1,23 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| kdgpjifighhheplkckdekkegigjcfpki | Tv Co Pilot | Policy Violation | Store Monitoring | 12/10/26 | No | Google Chrome
+| mkdmkojplcnaplaigkepaldmiopecida | Google Gemini Sidepanel T | Policy Violation | Store Monitoring | 12/10/26 | No | Google Chrome
+| lncocdbgkaafheecbfckfhjcnmjijhbc | Tiktok Shop Spy Scraper P | Policy Violation | Store Monitoring | 12/10/26 | No | Google Chrome
 | mpnfoddkacdjocmjaobmkcphfncdoogp | Unblocked Games — New Tab | Policy Violation | Store Monitoring | 11/10/26 | No | Google Chrome
 | fgdhcbomckihpiffkfjnnakkkbebdhhh | TabMosaic – Auto Tab Groups by Domain | Bundling Unwanted Software | Store Monitoring | 11/10/26 | No | Google Chrome
-| mkiebookdgphpeehoaaohajdcjohcfmb | Exodυs - Extension For Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85) | 11/10/26 | No | Google Chrome
-| nhjjepfbhpdhehdeiolbnjembodcgaee | Token.im - Browser Extension | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85) | 11/10/26 | No | Google Chrome
+| mkiebookdgphpeehoaaohajdcjohcfmb | Exodυs - Extension For Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 11/10/26 | No | Google Chrome
+| nhjjepfbhpdhehdeiolbnjembodcgaee | Token.im - Browser Extension | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 11/10/26 | No | Google Chrome
 | mdbhibcfeakbnlfbmfedjppfkenpklne | Edge - Chrome Extension | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 11/10/26 | No | Google Chrome
 | knamebhlnelgjefbmjngodcgiknhmnhk | Zen - Extension for Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 11/10/26 | No | Google Chrome
-| nhkdchmlljcklaloabakpcnbpdlcffgk | Pinterest Dark Mode | Bundling Unwanted Software | Store Monitoring | 10/10/26 | No | Google Chrome
+| nhkdchmlljcklaloabakpcnbpdlcffgk | Pinterest Dark Mode | Bundling Unwanted Software | Store Monitoring | 10/10/26 | Yes | Google Chrome
 | ecjjhklhmpepmnhcegmajpdpmhmaiamh | Carexport — Dongchedi помощник | Policy Violation | Store Monitoring | 10/10/26 | No | Google Chrome
 | ghbmpbdefklbjbnebdcpbjflekgmalpb | Salvage Auction Research Tool | Policy Violation | Store Monitoring | 10/10/26 | No | Google Chrome
-| jhgpcbfjmmkclnkdoplcpinejekdjomp | AdBlock Pro – Ad Blocker & Privacy | Bundling Unwanted Software | Store Monitoring | 10/10/26 | No | Google Chrome
-| ombjdobdekonhhipddhpcpdfflmdakfe | Base - Extension For Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85) | 10/10/26 | No | Google Chrome
+| jhgpcbfjmmkclnkdoplcpinejekdjomp | AdBlock Pro – Ad Blocker & Privacy | Bundling Unwanted Software | Store Monitoring | 10/10/26 | Yes | Google Chrome
+| ombjdobdekonhhipddhpcpdfflmdakfe | Base - Extension For Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
 | jfegcjipmnolppcnpgpmfogkmooelibl | Robin - Chrome Extension  | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
 | gbafgofiefjephjoodfphmojinnfiada | Coinom - Browser Extension | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
 | dnbfneandcjphnkgcjkdkphmaoajiojh | Base - Extension Pad for Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
-| bbljaeojdeehoihejgmdjgjmnnolgdbm | Robinhood - Extension For Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85) | 10/10/26 | No | Google Chrome
+| bbljaeojdeehoihejgmdjgjmnnolgdbm | Robinhood - Extension For Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
 | mpbnfoedhandidcdhhngghmpcoemebal | HoldPick — Long-Press Image Downloader | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
 | dafaanohplfgoihgjbmnniknmjaeajki | FunnelSnap | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
 | cjdaccpcajkfpaodphogohknlkfiipeb | ShopCompare AI | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
