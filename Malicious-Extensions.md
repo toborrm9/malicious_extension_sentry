@@ -1,5 +1,11 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ohdkkamihjkjadflmpbcmofhhkheekge | Comment Bot For YouTube | Malware | Store Monitoring | 13/10/26 | No | Google Chrome
+| lkeiofdebabkefjeknngfoaepejoecdm | CloudDrafts: Secure Lightweight Pad | Malware | Store Monitoring | 13/10/26 | No | Google Chrome
+| ocghebkoeeoejbhkkhcibjancmfllcpf | YouTube Swipe File Generator | Policy Violation | Store Monitoring | 13/10/26 | No | Google Chrome
+| nfaikdfgmkoogpcfopoicjmghfghonic | YouTube Comment Bot | Malware | Store Monitoring | 13/10/26 | No | Google Chrome
+| jmmkejlfappekbhikniancfecdjdnbcn | 0KX Ai Powered Edition | Malware | Store Monitoring | 13/10/26 | No | Google Chrome
+| afhagkdljenpjghnnalahhlgdaibcbka | AutoBanana for Google Gemini™ - Automatic Batch Creator | Policy Violation | Store Monitoring | 13/10/26 | No | Google Chrome
 | kdgpjifighhheplkckdekkegigjcfpki | Tv Co Pilot | Policy Violation | Store Monitoring | 12/10/26 | No | Google Chrome
 | mkdmkojplcnaplaigkepaldmiopecida | Google Gemini Sidepanel T | Policy Violation | Store Monitoring | 12/10/26 | No | Google Chrome
 | lncocdbgkaafheecbfckfhjcnmjijhbc | Tiktok Shop Spy Scraper P | Policy Violation | Store Monitoring | 12/10/26 | No | Google Chrome
