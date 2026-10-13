@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-12",
-    "timestamp": "1791822066",
+    "date": "2026-10-13",
+    "timestamp": "1791911313",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,420 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "d13fe74c-aec7-597c-a1da-b1e82a000031",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ohdkkamihjkjadflmpbcmofhhkheekge",
+        "comment": "Comment Bot For YouTube | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-13 | Version: 1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "aae34a1a-9507-5a3e-9b7b-a141e7a904a8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ohdkkamihjkjadflmpbcmofhhkheekge",
+        "comment": "Chrome Web Store entry for Comment Bot For YouTube (ohdkkamihjkjadflmpbcmofhhkheekge)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d7fd2b7f-760e-544c-ac54-5da21da173eb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7ee0dc117b877f2cec3281e36e2d785815d9fec6464dc4217993620b64ce7a7a",
+        "comment": "SHA-256 of extension package for Comment Bot For YouTube (ohdkkamihjkjadflmpbcmofhhkheekge)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "87f458a0-b106-5454-b4bd-fd558635ef4a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lkeiofdebabkefjeknngfoaepejoecdm",
+        "comment": "CloudDrafts: Secure Lightweight Pad | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-13 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "bf2599f3-ed82-5060-bc54-681cc828a638",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lkeiofdebabkefjeknngfoaepejoecdm",
+        "comment": "Chrome Web Store entry for CloudDrafts: Secure Lightweight Pad (lkeiofdebabkefjeknngfoaepejoecdm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8870d968-3b1a-5ed6-a9f4-94bc10ebb623",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2bb9c352ecb3ee423fc7623f7d94a60eadf5971f5407e28a1b151f8cb7c59ffe",
+        "comment": "SHA-256 of extension package for CloudDrafts: Secure Lightweight Pad (lkeiofdebabkefjeknngfoaepejoecdm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5bfa92e0-0c18-5799-a333-f46e62e275b9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ocghebkoeeoejbhkkhcibjancmfllcpf",
+        "comment": "YouTube Swipe File Generator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-13 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "4c1961ca-8df6-5412-a1bd-62d0179ca667",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ocghebkoeeoejbhkkhcibjancmfllcpf",
+        "comment": "Chrome Web Store entry for YouTube Swipe File Generator (ocghebkoeeoejbhkkhcibjancmfllcpf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f3b9233b-8c9d-55c6-9baf-23f05890d77d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "31d757ca1ca51e0ef531024fe902c745299f6e28110a3a1623ec68048eaf397b",
+        "comment": "SHA-256 of extension package for YouTube Swipe File Generator (ocghebkoeeoejbhkkhcibjancmfllcpf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2b2419f-40fb-55a5-907a-1e84e227735c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nfaikdfgmkoogpcfopoicjmghfghonic",
+        "comment": "YouTube Comment Bot | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-13 | Version: 1.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "babf0baa-1d5e-5a7d-8c47-5adc8a3933ea",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nfaikdfgmkoogpcfopoicjmghfghonic",
+        "comment": "Chrome Web Store entry for YouTube Comment Bot (nfaikdfgmkoogpcfopoicjmghfghonic)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d6261d40-1212-5179-ad56-c00abe2d9c05",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4cc2b76492ed0a7008510df351b098563435004aebacf4594229f093d26d2520",
+        "comment": "SHA-256 of extension package for YouTube Comment Bot (nfaikdfgmkoogpcfopoicjmghfghonic)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1422b915-33be-5436-bf29-2eb2f6662b81",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jmmkejlfappekbhikniancfecdjdnbcn",
+        "comment": "0KX Ai Powered Edition | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-13 | Version: 7.4.8",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"7.4.8\""
+          }
+        ]
+      },
+      {
+        "uuid": "7f2bc2f5-926d-5358-94c2-98770fe391f5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jmmkejlfappekbhikniancfecdjdnbcn",
+        "comment": "Chrome Web Store entry for 0KX Ai Powered Edition (jmmkejlfappekbhikniancfecdjdnbcn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0ce8b6fa-8fe7-5ac1-af0c-b077b62ba338",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "53f10ec24d13317900349e8fb63939545e4c45d5a6d1c6037c15237799fb6fff",
+        "comment": "SHA-256 of extension package for 0KX Ai Powered Edition (jmmkejlfappekbhikniancfecdjdnbcn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bc78fb0a-fcb1-58cc-ad18-86e24bcab2a6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "afhagkdljenpjghnnalahhlgdaibcbka",
+        "comment": "AutoBanana for Google Gemini\u2122 - Automatic Batch Creator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-13 | Version: 2.0.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "5a41d086-7c1a-563c-a139-7def13aa3b0e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/afhagkdljenpjghnnalahhlgdaibcbka",
+        "comment": "Chrome Web Store entry for AutoBanana for Google Gemini\u2122 - Automatic Batch Creator (afhagkdljenpjghnnalahhlgdaibcbka)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cfcbd235-0685-5d95-87ec-fe115f76e681",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "775581920a82761933d19ff15826883609379b364e1fb89d0dadd0892b6d8856",
+        "comment": "SHA-256 of extension package for AutoBanana for Google Gemini\u2122 - Automatic Batch Creator (afhagkdljenpjghnnalahhlgdaibcbka)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bf74b540-22fb-5a43-a4cb-f1f40e6a7470",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kdgpjifighhheplkckdekkegigjcfpki",
+        "comment": "Tv Co Pilot | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-12 | Version: 0.4.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.4.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "cefa8ca0-f23a-5202-a25b-1dcc97fd2f64",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kdgpjifighhheplkckdekkegigjcfpki",
+        "comment": "Chrome Web Store entry for Tv Co Pilot (kdgpjifighhheplkckdekkegigjcfpki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cc999a2d-f7e9-52a9-b9e3-62790324b921",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b320eb5c7a09c002aeadb8ec078983d4d3a7997e9d369c8046157c72ccaf3990",
+        "comment": "SHA-256 of extension package for Tv Co Pilot (kdgpjifighhheplkckdekkegigjcfpki)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "57a8d82c-5f36-5dc2-81de-5b5972013901",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mkdmkojplcnaplaigkepaldmiopecida",
+        "comment": "Google Gemini Sidepanel T | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-12 | Version: 1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "eb187f55-0eae-537c-8302-943678e2dc6e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mkdmkojplcnaplaigkepaldmiopecida",
+        "comment": "Chrome Web Store entry for Google Gemini Sidepanel T (mkdmkojplcnaplaigkepaldmiopecida)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ff5f0637-bb49-53c7-a358-960e93961d6b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d7dd2a31861d3c256750613185af01959be689695ef363d5bb43871ffee89f0e",
+        "comment": "SHA-256 of extension package for Google Gemini Sidepanel T (mkdmkojplcnaplaigkepaldmiopecida)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9cfc3e6b-23c4-51b8-8877-981373c8e352",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lncocdbgkaafheecbfckfhjcnmjijhbc",
+        "comment": "Tiktok Shop Spy Scraper P | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-12 | Version: 1.1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "41b7c31a-0e4a-5147-9403-4b3964b36d48",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lncocdbgkaafheecbfckfhjcnmjijhbc",
+        "comment": "Chrome Web Store entry for Tiktok Shop Spy Scraper P (lncocdbgkaafheecbfckfhjcnmjijhbc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c5d8dd21-caa4-586a-9b4a-5969fe2f0a14",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f4d4c99b7c67c33543d3a8e6fabadd400a1c9adda97e9b356f2a6e97751cd416",
+        "comment": "SHA-256 of extension package for Tiktok Shop Spy Scraper P (lncocdbgkaafheecbfckfhjcnmjijhbc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "2ee976c8-f623-5632-a431-9bfa0c9a1815",
         "type": "text",
@@ -125,17 +539,20 @@
         "category": "Other",
         "to_ids": false,
         "value": "mkiebookdgphpeehoaaohajdcjohcfmb",
-        "comment": "Exod\u03c5s - Extension For Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85 | Store: Google Chrome | Added: 2026-10-11",
+        "comment": "Exod\u03c5s - Extension For Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-11 | Version: 1.0.0",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85\""
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
           }
         ]
       },
@@ -168,17 +585,20 @@
         "category": "Other",
         "to_ids": false,
         "value": "nhjjepfbhpdhehdeiolbnjembodcgaee",
-        "comment": "Token.im - Browser Extension | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85 | Store: Google Chrome | Added: 2026-10-11",
+        "comment": "Token.im - Browser Extension | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-11 | Version: 1.0.0",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85\""
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
           }
         ]
       },
@@ -211,7 +631,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "mdbhibcfeakbnlfbmfedjppfkenpklne",
-        "comment": "Edge - Chrome Extension | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-11",
+        "comment": "Edge - Chrome Extension | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-11 | Version: 1.0.0",
         "distribution": "5",
         "Tag": [
           {
@@ -222,6 +642,9 @@
           },
           {
             "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
           }
         ]
       },
@@ -254,7 +677,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "knamebhlnelgjefbmjngodcgiknhmnhk",
-        "comment": "Zen - Extension for Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-11",
+        "comment": "Zen - Extension for Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-11 | Version: 1.0.0",
         "distribution": "5",
         "Tag": [
           {
@@ -265,6 +688,9 @@
           },
           {
             "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
           }
         ]
       },
@@ -481,14 +907,14 @@
         "category": "Other",
         "to_ids": false,
         "value": "ombjdobdekonhhipddhpcpdfflmdakfe",
-        "comment": "Base - Extension For Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85 | Store: Google Chrome | Added: 2026-10-10 | Version: 1.0.0",
+        "comment": "Base - Extension For Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-10 | Version: 1.0.0",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85\""
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
@@ -527,7 +953,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "jfegcjipmnolppcnpgpmfogkmooelibl",
-        "comment": "Robin - Chrome Extension | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-10",
+        "comment": "Robin - Chrome Extension | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-10 | Version: 2.0.0",
         "distribution": "5",
         "Tag": [
           {
@@ -538,6 +964,9 @@
           },
           {
             "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.0\""
           }
         ]
       },
@@ -570,7 +999,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "gbafgofiefjephjoodfphmojinnfiada",
-        "comment": "Coinom - Browser Extension | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-10",
+        "comment": "Coinom - Browser Extension | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-10 | Version: 1.0.0",
         "distribution": "5",
         "Tag": [
           {
@@ -581,6 +1010,9 @@
           },
           {
             "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
           }
         ]
       },
@@ -613,7 +1045,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "dnbfneandcjphnkgcjkdkphmaoajiojh",
-        "comment": "Base - Extension Pad for Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-10",
+        "comment": "Base - Extension Pad for Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-10 | Version: 1.5.1",
         "distribution": "5",
         "Tag": [
           {
@@ -624,6 +1056,9 @@
           },
           {
             "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.5.1\""
           }
         ]
       },
@@ -637,22 +1072,39 @@
         "distribution": "5"
       },
       {
+        "uuid": "c4f5526b-66ab-5442-9041-b373391003f2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2590a893b0bd712133b9ddecb4cdbf0074a5a569fa6f0329a932ad3f89098c3b",
+        "comment": "SHA-256 of extension package for Base - Extension Pad for Chrome (dnbfneandcjphnkgcjkdkphmaoajiojh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "12177be6-9d28-5c4a-8009-e1d74ce72e74",
         "type": "text",
         "category": "Other",
         "to_ids": false,
         "value": "bbljaeojdeehoihejgmdjgjmnnolgdbm",
-        "comment": "Robinhood - Extension For Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85 | Store: Google Chrome | Added: 2026-10-10",
+        "comment": "Robinhood - Extension For Chrome | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt | Store: Google Chrome | Added: 2026-10-10 | Version: 1.5.0",
         "distribution": "5",
         "Tag": [
           {
             "name": "malware:category=\"browser-extension\""
           },
           {
-            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85\""
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt\""
           },
           {
             "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.5.0\""
           }
         ]
       },
