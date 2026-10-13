@@ -1,12 +1,102 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-12T16:21:05Z",
+  "generated": "2026-10-13T17:08:31Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 7079,
+  "total_indicators": 7088,
   "indicators": [
+    {
+      "extension_id": "ohdkkamihjkjadflmpbcmofhhkheekge",
+      "name": "Comment Bot For YouTube",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-13",
+      "store_url": "https://chromewebstore.google.com/detail/ohdkkamihjkjadflmpbcmofhhkheekge",
+      "sha256": "7ee0dc117b877f2cec3281e36e2d785815d9fec6464dc4217993620b64ce7a7a",
+      "version": "1.1"
+    },
+    {
+      "extension_id": "lkeiofdebabkefjeknngfoaepejoecdm",
+      "name": "CloudDrafts: Secure Lightweight Pad",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-13",
+      "store_url": "https://chromewebstore.google.com/detail/lkeiofdebabkefjeknngfoaepejoecdm",
+      "sha256": "2bb9c352ecb3ee423fc7623f7d94a60eadf5971f5407e28a1b151f8cb7c59ffe",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ocghebkoeeoejbhkkhcibjancmfllcpf",
+      "name": "YouTube Swipe File Generator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-13",
+      "store_url": "https://chromewebstore.google.com/detail/ocghebkoeeoejbhkkhcibjancmfllcpf",
+      "sha256": "31d757ca1ca51e0ef531024fe902c745299f6e28110a3a1623ec68048eaf397b",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "nfaikdfgmkoogpcfopoicjmghfghonic",
+      "name": "YouTube Comment Bot",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-13",
+      "store_url": "https://chromewebstore.google.com/detail/nfaikdfgmkoogpcfopoicjmghfghonic",
+      "sha256": "4cc2b76492ed0a7008510df351b098563435004aebacf4594229f093d26d2520",
+      "version": "1.2.1"
+    },
+    {
+      "extension_id": "jmmkejlfappekbhikniancfecdjdnbcn",
+      "name": "0KX Ai Powered Edition",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-13",
+      "store_url": "https://chromewebstore.google.com/detail/jmmkejlfappekbhikniancfecdjdnbcn",
+      "sha256": "53f10ec24d13317900349e8fb63939545e4c45d5a6d1c6037c15237799fb6fff",
+      "version": "7.4.8"
+    },
+    {
+      "extension_id": "afhagkdljenpjghnnalahhlgdaibcbka",
+      "name": "AutoBanana for Google Gemini\u2122 - Automatic Batch Creator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-13",
+      "store_url": "https://chromewebstore.google.com/detail/afhagkdljenpjghnnalahhlgdaibcbka",
+      "sha256": "775581920a82761933d19ff15826883609379b364e1fb89d0dadd0892b6d8856",
+      "version": "2.0.5"
+    },
+    {
+      "extension_id": "kdgpjifighhheplkckdekkegigjcfpki",
+      "name": "Tv Co Pilot",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-12",
+      "store_url": "https://chromewebstore.google.com/detail/kdgpjifighhheplkckdekkegigjcfpki",
+      "sha256": "b320eb5c7a09c002aeadb8ec078983d4d3a7997e9d369c8046157c72ccaf3990",
+      "version": "0.4.5"
+    },
+    {
+      "extension_id": "mkdmkojplcnaplaigkepaldmiopecida",
+      "name": "Google Gemini Sidepanel T",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-12",
+      "store_url": "https://chromewebstore.google.com/detail/mkdmkojplcnaplaigkepaldmiopecida",
+      "sha256": "d7dd2a31861d3c256750613185af01959be689695ef363d5bb43871ffee89f0e",
+      "version": "1.2"
+    },
+    {
+      "extension_id": "lncocdbgkaafheecbfckfhjcnmjijhbc",
+      "name": "Tiktok Shop Spy Scraper P",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-12",
+      "store_url": "https://chromewebstore.google.com/detail/lncocdbgkaafheecbfckfhjcnmjijhbc",
+      "sha256": "f4d4c99b7c67c33543d3a8e6fabadd400a1c9adda97e9b356f2a6e97751cd416",
+      "version": "1.1.0"
+    },
     {
       "extension_id": "mpnfoddkacdjocmjaobmkcphfncdoogp",
       "name": "Unblocked Games \u2014 New Tab",
@@ -30,22 +120,22 @@
     {
       "extension_id": "mkiebookdgphpeehoaaohajdcjohcfmb",
       "name": "Exod\u03c5s - Extension For Chrome",
-      "source": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85",
+      "source": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-11",
       "store_url": "https://chromewebstore.google.com/detail/mkiebookdgphpeehoaaohajdcjohcfmb",
       "sha256": "c44ae41c5ec40094e7c3c5c670792d94ecc877ff6e198fc0ef5f9e5b25b034ba",
-      "version": ""
+      "version": "1.0.0"
     },
     {
       "extension_id": "nhjjepfbhpdhehdeiolbnjembodcgaee",
       "name": "Token.im - Browser Extension",
-      "source": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85",
+      "source": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-11",
       "store_url": "https://chromewebstore.google.com/detail/nhjjepfbhpdhehdeiolbnjembodcgaee",
       "sha256": "5c48ab4e76c9a766172f4c58596bec6bafa8fc145d1bf49f9d355d5439930e0f",
-      "version": ""
+      "version": "1.0.0"
     },
     {
       "extension_id": "mdbhibcfeakbnlfbmfedjppfkenpklne",
@@ -55,7 +145,7 @@
       "insert_date": "2026-10-11",
       "store_url": "https://chromewebstore.google.com/detail/mdbhibcfeakbnlfbmfedjppfkenpklne",
       "sha256": "3951a71398d41a4c354111a4e0a35ddb937721b28d635eaf7a9605bf4927726c",
-      "version": ""
+      "version": "1.0.0"
     },
     {
       "extension_id": "knamebhlnelgjefbmjngodcgiknhmnhk",
@@ -65,7 +155,7 @@
       "insert_date": "2026-10-11",
       "store_url": "https://chromewebstore.google.com/detail/knamebhlnelgjefbmjngodcgiknhmnhk",
       "sha256": "c65a78b900df6481eaa33edb1d356ce8ec8fe784219dea108afe98315ee15689",
-      "version": ""
+      "version": "1.0.0"
     },
     {
       "extension_id": "nhkdchmlljcklaloabakpcnbpdlcffgk",
@@ -110,7 +200,7 @@
     {
       "extension_id": "ombjdobdekonhhipddhpcpdfflmdakfe",
       "name": "Base - Extension For Chrome",
-      "source": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85",
+      "source": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-10",
       "store_url": "https://chromewebstore.google.com/detail/ombjdobdekonhhipddhpcpdfflmdakfe",
@@ -125,7 +215,7 @@
       "insert_date": "2026-10-10",
       "store_url": "https://chromewebstore.google.com/detail/jfegcjipmnolppcnpgpmfogkmooelibl",
       "sha256": "fafbc3a2b3061087cdc4370471b6bc90d1370fef138fb7d6d6b2e457ba283723",
-      "version": ""
+      "version": "2.0.0"
     },
     {
       "extension_id": "gbafgofiefjephjoodfphmojinnfiada",
@@ -135,7 +225,7 @@
       "insert_date": "2026-10-10",
       "store_url": "https://chromewebstore.google.com/detail/gbafgofiefjephjoodfphmojinnfiada",
       "sha256": "88ff466376f1eb9b1e0c7304f8daab8e8ac77250d83d4ca45023a25c48d5a971",
-      "version": ""
+      "version": "1.0.0"
     },
     {
       "extension_id": "dnbfneandcjphnkgcjkdkphmaoajiojh",
@@ -144,18 +234,18 @@
       "store": "Google Chrome",
       "insert_date": "2026-10-10",
       "store_url": "https://chromewebstore.google.com/detail/dnbfneandcjphnkgcjkdkphmaoajiojh",
-      "sha256": "",
-      "version": ""
+      "sha256": "2590a893b0bd712133b9ddecb4cdbf0074a5a569fa6f0329a932ad3f89098c3b",
+      "version": "1.5.1"
     },
     {
       "extension_id": "bbljaeojdeehoihejgmdjgjmnnolgdbm",
       "name": "Robinhood - Extension For Chrome",
-      "source": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt#L85",
+      "source": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-10",
       "store_url": "https://chromewebstore.google.com/detail/bbljaeojdeehoihejgmdjgjmnnolgdbm",
       "sha256": "0e8750d0e5bc184978211976c5b299606b683767b62909ff6ae2f346c250ec09",
-      "version": ""
+      "version": "1.5.0"
     },
     {
       "extension_id": "mpbnfoedhandidcdhhngghmpcoemebal",
