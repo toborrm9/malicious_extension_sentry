@@ -1,5 +1,24 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| cfdaocodlljmlaobolhbadgbcfgbmaha | SpongeBob SquarePants Cursor | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| pbnbalklediilicgjcdndemhiplgonkd | Skyrim | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| cfbeilbgbkojmnpjkhieoejbdmjgeicd | Kraken Extension | Malware | Store Monitoring | 14/10/26 | No | Google Chrome
+| olpfkedooljmhkjfmepmlhdkibieineh | Fallout 4 | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| nhngkeiemogdfhhnlocblhpjdanndcko | Quake | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| lpmdmpgnhgflifokoipamfjomiiddfjp | Exodus—Self &amp; Activity⁤ | Malware | Store Monitoring | 14/10/26 | No | Google Chrome
+| fdffogjnhbmdjmdmnejaibflljoanohh | Microsoft Teams Enhancer | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| adpijlbkilodlpkhckpiacplohcbpnfb | ChatGPT for Gmail - MailEinstein™ | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| kbbnjehpemafnmnehfefhbjmdbfgmlon | Fallout 4 Pip-Boy \| Put your finger up (Game) | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| ffafnmiohpkifgkpnoamoecjcpoliagi | Fallout 4 - Steam 2560x1440 | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| mkhindfdkfmjpaecdibpdemdkaaafeoa | Search with ChatGPT | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| ejjpbbmcoamojjcenakjagdacjjofkba | Google Play Reviews Exporter - Scraper and Exporter Tool | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| bakhmeeechpaibpnlicodkleebidiplh | Oblivion | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| jcmekbaabkdcghljifnnaocdefekldmp | Elder Scrolls Online Ouroboros Theme | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| mkgoejiaoknhibmijjpbhknkmpkfacjc | Fallout 4 Fallout: New Vegas Fallout 3 Fallou | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| obfnfejeddfgmeebjbmpfeipddclmfgi | Fallout 4 Fallout: New Vegas Electronic Enter | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| pmkhifhhfdlppeoadkbnpccbanmkggnd | RevoltX | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| ljbflhnagekcjiflmedgihbdncaffihn | Elder Scrolls V: Skyrim | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
+| mpoihdhmcecmpcijagojmeeoafoeolpl | Exodιιs Web App | Malware | Store Monitoring | 14/10/26 | No | Google Chrome
 | pkiaiffbliaccjdpncdcbbljdfhcapmk | Zoey K Pop Demon Hunters | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/10/26 | No | Google Chrome
 | meaknedmipmnkpckkehncccfnggifpie | Rick And Morty Cosmic Hea | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/10/26 | No | Google Chrome
 | nkfbcndcedmoodegopdmpndadlepfang | Miles Morales In Multiver | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 13/10/26 | No | Google Chrome
@@ -172,7 +191,7 @@
 | ohdkkamihjkjadflmpbcmofhhkheekge | Comment Bot For YouTube | Malware | Store Monitoring | 13/10/26 | No | Google Chrome
 | lkeiofdebabkefjeknngfoaepejoecdm | CloudDrafts: Secure Lightweight Pad | Malware | Store Monitoring | 13/10/26 | No | Google Chrome
 | ocghebkoeeoejbhkkhcibjancmfllcpf | YouTube Swipe File Generator | Policy Violation | Store Monitoring | 13/10/26 | No | Google Chrome
-| nfaikdfgmkoogpcfopoicjmghfghonic | YouTube Comment Bot | Malware | Store Monitoring | 13/10/26 | No | Google Chrome
+| nfaikdfgmkoogpcfopoicjmghfghonic | YouTube Comment Bot | Malware | Store Monitoring | 13/10/26 | Yes | Google Chrome
 | jmmkejlfappekbhikniancfecdjdnbcn | 0KX Ai Powered Edition | Malware | Store Monitoring | 13/10/26 | No | Google Chrome
 | afhagkdljenpjghnnalahhlgdaibcbka | AutoBanana for Google Gemini™ - Automatic Batch Creator | Policy Violation | Store Monitoring | 13/10/26 | No | Google Chrome
 | kdgpjifighhheplkckdekkegigjcfpki | Tv Co Pilot | Policy Violation | Store Monitoring | 12/10/26 | No | Google Chrome
