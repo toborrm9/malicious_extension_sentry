@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-13",
-    "timestamp": "1791920333",
+    "date": "2026-10-14",
+    "timestamp": "1791991881",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,880 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "1118cac8-fe83-5748-9264-d823cd31f8a8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cfdaocodlljmlaobolhbadgbcfgbmaha",
+        "comment": "SpongeBob SquarePants Cursor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 5.12.870.95",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"5.12.870.95\""
+          }
+        ]
+      },
+      {
+        "uuid": "b76ed263-9dec-54be-8fde-fa2bba4d548c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cfdaocodlljmlaobolhbadgbcfgbmaha",
+        "comment": "Chrome Web Store entry for SpongeBob SquarePants Cursor (cfdaocodlljmlaobolhbadgbcfgbmaha)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "712517d6-0000-5529-9b2d-69c776318e70",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d99f51a1265d89b3c73085a0da277e22afb5206f7499cad96802b4d7f3887e72",
+        "comment": "SHA-256 of extension package for SpongeBob SquarePants Cursor (cfdaocodlljmlaobolhbadgbcfgbmaha)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a253e61d-fdea-54ff-8c2c-a9d4723c694f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pbnbalklediilicgjcdndemhiplgonkd",
+        "comment": "Skyrim | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "b894cfee-8947-5307-8953-7770f5865678",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pbnbalklediilicgjcdndemhiplgonkd",
+        "comment": "Chrome Web Store entry for Skyrim (pbnbalklediilicgjcdndemhiplgonkd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5f4a78a6-70a8-5de3-9dc4-7c478fa015c6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3c295a463c0abc058a80d0b3bd3b58d52d4d091ebb05db850a0c5a67040628b6",
+        "comment": "SHA-256 of extension package for Skyrim (pbnbalklediilicgjcdndemhiplgonkd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4a522d32-a715-505a-8f95-f62781f32fff",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cfbeilbgbkojmnpjkhieoejbdmjgeicd",
+        "comment": "Kraken Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1.5.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.5.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "741d009c-4b7e-5151-bc7b-e4d03776f246",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cfbeilbgbkojmnpjkhieoejbdmjgeicd",
+        "comment": "Chrome Web Store entry for Kraken Extension (cfbeilbgbkojmnpjkhieoejbdmjgeicd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ace24c0d-9a54-5918-b45c-e1ba39281300",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7fd8d4ea2d828f9bbbbb3cd9739df77c01e451ed58cd0c4adc61d4a8d1ed05e5",
+        "comment": "SHA-256 of extension package for Kraken Extension (cfbeilbgbkojmnpjkhieoejbdmjgeicd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4ba027ad-848f-50d4-bb3d-3071eaf464cf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "olpfkedooljmhkjfmepmlhdkibieineh",
+        "comment": "Fallout 4 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "37afb3de-bcf0-5f01-9ee1-0b7256b680a1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/olpfkedooljmhkjfmepmlhdkibieineh",
+        "comment": "Chrome Web Store entry for Fallout 4 (olpfkedooljmhkjfmepmlhdkibieineh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c0934d1a-1442-5550-8db6-f54ee12a8e02",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f46651f2107d748892e9b78bba984622ad2cddd6448b6a126d75abd053797c14",
+        "comment": "SHA-256 of extension package for Fallout 4 (olpfkedooljmhkjfmepmlhdkibieineh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "26ea4d22-7072-5e33-a86d-2e3e13ee87d5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nhngkeiemogdfhhnlocblhpjdanndcko",
+        "comment": "Quake | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1.3.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.3.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "58ac40f5-b6a5-57fa-aca5-a205f2684496",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nhngkeiemogdfhhnlocblhpjdanndcko",
+        "comment": "Chrome Web Store entry for Quake (nhngkeiemogdfhhnlocblhpjdanndcko)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c5f2f925-ba32-513b-a360-a84e63d216dd",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "55ba844412d3f60ab996de6fb3b4fe22776cad33cd9effffb6aff2b0b8d6c57d",
+        "comment": "SHA-256 of extension package for Quake (nhngkeiemogdfhhnlocblhpjdanndcko)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4a4fcb9e-8be2-5326-81db-2c1346e56c66",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lpmdmpgnhgflifokoipamfjomiiddfjp",
+        "comment": "Exodus\u2014Self &amp; Activity\u2064 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "42fea4f2-74ec-5ab8-94c3-d1ee243acddc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lpmdmpgnhgflifokoipamfjomiiddfjp",
+        "comment": "Chrome Web Store entry for Exodus\u2014Self &amp; Activity\u2064 (lpmdmpgnhgflifokoipamfjomiiddfjp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "71c80cbf-3638-5f93-b00e-3e7df7f64db4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c5c43d424adad12286ff989486f49d22f3c608167f6d809911b11abf2b5cc544",
+        "comment": "SHA-256 of extension package for Exodus\u2014Self &amp; Activity\u2064 (lpmdmpgnhgflifokoipamfjomiiddfjp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e7bcf9b4-d3cf-5360-97d9-a4beaed80a5e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fdffogjnhbmdjmdmnejaibflljoanohh",
+        "comment": "Microsoft Teams Enhancer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 2.3.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.3.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "b98a7d5c-f11e-5220-9798-dded87069e5a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fdffogjnhbmdjmdmnejaibflljoanohh",
+        "comment": "Chrome Web Store entry for Microsoft Teams Enhancer (fdffogjnhbmdjmdmnejaibflljoanohh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "564efcbf-fcef-5f32-829a-eb6d64925e68",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1d738680c52eef8d3021bf75ee529314c7def83a80bb6dee916bb62bdbb6b05f",
+        "comment": "SHA-256 of extension package for Microsoft Teams Enhancer (fdffogjnhbmdjmdmnejaibflljoanohh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "dd1c3641-b0da-55c1-b6af-43745440dcff",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adpijlbkilodlpkhckpiacplohcbpnfb",
+        "comment": "ChatGPT for Gmail - MailEinstein\u2122 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 4.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "23405bf0-89df-5381-8974-9571126c9024",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/adpijlbkilodlpkhckpiacplohcbpnfb",
+        "comment": "Chrome Web Store entry for ChatGPT for Gmail - MailEinstein\u2122 (adpijlbkilodlpkhckpiacplohcbpnfb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "556f9c5f-cf96-5a82-b085-a507e5d6a837",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a0f255ea86d86477268a5c64f12abfea916307caa94c545d686f4e2fede4db3c",
+        "comment": "SHA-256 of extension package for ChatGPT for Gmail - MailEinstein\u2122 (adpijlbkilodlpkhckpiacplohcbpnfb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5a41a317-04b6-5cd6-87e9-6281f2d58190",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kbbnjehpemafnmnehfefhbjmdbfgmlon",
+        "comment": "Fallout 4 Pip-Boy | Put your finger up (Game) | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1\""
+          }
+        ]
+      },
+      {
+        "uuid": "6ebbe29b-dccb-59c7-b40c-c580590a72bf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kbbnjehpemafnmnehfefhbjmdbfgmlon",
+        "comment": "Chrome Web Store entry for Fallout 4 Pip-Boy | Put your finger up (Game) (kbbnjehpemafnmnehfefhbjmdbfgmlon)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5c8dae60-9b79-5fbf-b9eb-4b41a10aa4f9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8980a0346637ba3749aec933aecfe3d04f997e1f398e11418fe9ebf794fadebb",
+        "comment": "SHA-256 of extension package for Fallout 4 Pip-Boy | Put your finger up (Game) (kbbnjehpemafnmnehfefhbjmdbfgmlon)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "65939ddf-8025-5216-b6e1-0f347a0bc1a5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ffafnmiohpkifgkpnoamoecjcpoliagi",
+        "comment": "Fallout 4 - Steam 2560x1440 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "bc7a95b4-860d-56b1-b7b5-ee777db9e1e8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ffafnmiohpkifgkpnoamoecjcpoliagi",
+        "comment": "Chrome Web Store entry for Fallout 4 - Steam 2560x1440 (ffafnmiohpkifgkpnoamoecjcpoliagi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e8978bae-9f6e-5eed-9697-66ebc6c5cbf4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8aef96b53f0ce456d0533599986c0d796dc24f89921e7297eb208bddcfab67f1",
+        "comment": "SHA-256 of extension package for Fallout 4 - Steam 2560x1440 (ffafnmiohpkifgkpnoamoecjcpoliagi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7f77de60-cfb2-5ac4-8c1e-9f0797645209",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mkhindfdkfmjpaecdibpdemdkaaafeoa",
+        "comment": "Search with ChatGPT | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "0ae0b061-50b2-5aa9-baaf-87ba6f67b080",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mkhindfdkfmjpaecdibpdemdkaaafeoa",
+        "comment": "Chrome Web Store entry for Search with ChatGPT (mkhindfdkfmjpaecdibpdemdkaaafeoa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b3ab592a-edd4-5ac5-99e1-53f8612decfe",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5e938a0c310121642a83317021fcf468b7fdc41b6996ceef6286de2c3056a43d",
+        "comment": "SHA-256 of extension package for Search with ChatGPT (mkhindfdkfmjpaecdibpdemdkaaafeoa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "be867fe1-e3bc-5d3c-9c50-98a78850f8c2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ejjpbbmcoamojjcenakjagdacjjofkba",
+        "comment": "Google Play Reviews Exporter - Scraper and Exporter Tool | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "aef74832-1fbe-562e-b6d1-df32760b2a4d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ejjpbbmcoamojjcenakjagdacjjofkba",
+        "comment": "Chrome Web Store entry for Google Play Reviews Exporter - Scraper and Exporter Tool (ejjpbbmcoamojjcenakjagdacjjofkba)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ea9b0ba8-a65e-50da-9c26-6db12fd0482c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e446c5296a89ee46e1f22bea5c226be103fd1d668d20cd755cd7fcb3c3f944c4",
+        "comment": "SHA-256 of extension package for Google Play Reviews Exporter - Scraper and Exporter Tool (ejjpbbmcoamojjcenakjagdacjjofkba)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "05bd9bbd-c7c9-5d3e-afcb-846f9592210a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bakhmeeechpaibpnlicodkleebidiplh",
+        "comment": "Oblivion | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "219e54f4-8c38-509d-8b3a-fbe332e5709b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bakhmeeechpaibpnlicodkleebidiplh",
+        "comment": "Chrome Web Store entry for Oblivion (bakhmeeechpaibpnlicodkleebidiplh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2b640a58-3a23-5e7a-bd6a-0cc60df1d178",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c80599c90fd5260fbd7c2b378a0acb1c724281814863e36cf8003fa471f01477",
+        "comment": "SHA-256 of extension package for Oblivion (bakhmeeechpaibpnlicodkleebidiplh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "acafcb6d-a4ba-5d68-bdb9-2f25f817dc37",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jcmekbaabkdcghljifnnaocdefekldmp",
+        "comment": "Elder Scrolls Online Ouroboros Theme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 0.1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "041457db-4185-5181-bc96-15db8be8648f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jcmekbaabkdcghljifnnaocdefekldmp",
+        "comment": "Chrome Web Store entry for Elder Scrolls Online Ouroboros Theme (jcmekbaabkdcghljifnnaocdefekldmp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b1d61681-cab7-5852-a8d0-3a5bb1a3cdf3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ce1d54400d9719b97c905b0f16fa99ed2fbef7996b085d58f03ec9992aa7bfbb",
+        "comment": "SHA-256 of extension package for Elder Scrolls Online Ouroboros Theme (jcmekbaabkdcghljifnnaocdefekldmp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9cb115d6-d9dd-57d0-afa3-546dfbaae1df",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mkgoejiaoknhibmijjpbhknkmpkfacjc",
+        "comment": "Fallout 4 Fallout: New Vegas Fallout 3 Fallou | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "adfdc26f-99e3-5893-ba2b-5ab09e42efb4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mkgoejiaoknhibmijjpbhknkmpkfacjc",
+        "comment": "Chrome Web Store entry for Fallout 4 Fallout: New Vegas Fallout 3 Fallou (mkgoejiaoknhibmijjpbhknkmpkfacjc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2f01da58-3028-5c38-8dab-3cb80619cee3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7519e97d146c3f047abe76bcad40381b96b3e27a4afce9d8d3453cc5877b7e20",
+        "comment": "SHA-256 of extension package for Fallout 4 Fallout: New Vegas Fallout 3 Fallou (mkgoejiaoknhibmijjpbhknkmpkfacjc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d39ce885-cb41-5978-9364-6a786d5db5d5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "obfnfejeddfgmeebjbmpfeipddclmfgi",
+        "comment": "Fallout 4 Fallout: New Vegas Electronic Enter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "cb9e2fa6-0b36-5224-b315-39d78969d233",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/obfnfejeddfgmeebjbmpfeipddclmfgi",
+        "comment": "Chrome Web Store entry for Fallout 4 Fallout: New Vegas Electronic Enter (obfnfejeddfgmeebjbmpfeipddclmfgi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e1a6f5c9-5d09-59f1-899b-58e012c837f5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5a76205caf9aae6a28756ae071c289a491a1df847a78b4cb7ec1ab24f057f19c",
+        "comment": "SHA-256 of extension package for Fallout 4 Fallout: New Vegas Electronic Enter (obfnfejeddfgmeebjbmpfeipddclmfgi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0ff3069b-bd70-5692-acbb-f860b3346ad2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pmkhifhhfdlppeoadkbnpccbanmkggnd",
+        "comment": "RevoltX | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1.0.76",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.76\""
+          }
+        ]
+      },
+      {
+        "uuid": "6898f228-f83a-5b39-91be-4c8c884d482f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pmkhifhhfdlppeoadkbnpccbanmkggnd",
+        "comment": "Chrome Web Store entry for RevoltX (pmkhifhhfdlppeoadkbnpccbanmkggnd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3f603262-e428-533d-b8c1-8ae5475cd8c4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f973ea656b25a59198c5b4cf4916246999b70b2e2be6289f9120e5152ceaf693",
+        "comment": "SHA-256 of extension package for RevoltX (pmkhifhhfdlppeoadkbnpccbanmkggnd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ec2804f3-3cdb-553a-8af5-5c531198177b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljbflhnagekcjiflmedgihbdncaffihn",
+        "comment": "Elder Scrolls V: Skyrim | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1\""
+          }
+        ]
+      },
+      {
+        "uuid": "48df3de4-1577-5730-85c1-b8145ea3440d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljbflhnagekcjiflmedgihbdncaffihn",
+        "comment": "Chrome Web Store entry for Elder Scrolls V: Skyrim (ljbflhnagekcjiflmedgihbdncaffihn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ec2f65ad-7cfd-5d0f-b37a-9e77a4048a6d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cff55dc031d6d3d144f52a8440d5b242abc72deadbe0f192e7d2308138cdbc4b",
+        "comment": "SHA-256 of extension package for Elder Scrolls V: Skyrim (ljbflhnagekcjiflmedgihbdncaffihn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7304df9e-0183-518d-be38-108aacc43713",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mpoihdhmcecmpcijagojmeeoafoeolpl",
+        "comment": "Exod\u03b9\u03b9s Web App | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-14 | Version: 4.9.8",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.9.8\""
+          }
+        ]
+      },
+      {
+        "uuid": "51cc6ffe-1e7d-5f89-b1e4-1603657aa7ff",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mpoihdhmcecmpcijagojmeeoafoeolpl",
+        "comment": "Chrome Web Store entry for Exod\u03b9\u03b9s Web App (mpoihdhmcecmpcijagojmeeoafoeolpl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2f2a86e7-1a08-50ae-90b0-2de0c0d8d329",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cb8b783f47d4dc8f5ba5cd21883ee21c481db2dc56833b0a6596b2eb8ce95656",
+        "comment": "SHA-256 of extension package for Exod\u03b9\u03b9s Web App (mpoihdhmcecmpcijagojmeeoafoeolpl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "ea94f8c1-b3e8-5804-b6b9-cbb7f20a1097",
         "type": "text",
