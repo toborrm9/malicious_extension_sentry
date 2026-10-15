@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-14",
-    "timestamp": "1791991881",
+    "date": "2026-10-15",
+    "timestamp": "1792080500",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,650 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "a521933d-2494-5db2-a0b1-528fce130653",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ilfmafejmnhkfkmgfnpfelppnpdkaadf",
+        "comment": "Fallout Helmet - Power Armor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1\""
+          }
+        ]
+      },
+      {
+        "uuid": "58f4daa5-e02a-5649-9d52-1dcfd263a900",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ilfmafejmnhkfkmgfnpfelppnpdkaadf",
+        "comment": "Chrome Web Store entry for Fallout Helmet - Power Armor (ilfmafejmnhkfkmgfnpfelppnpdkaadf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "99785fa4-bd95-5256-ab8f-8ae3db6860e9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "eaa9b2da78746f909565548729d1ccf74d292e3455ca3e43cbfb70915f4b8ca5",
+        "comment": "SHA-256 of extension package for Fallout Helmet - Power Armor (ilfmafejmnhkfkmgfnpfelppnpdkaadf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "dd9f984a-e95f-5fdf-beed-161c30b8aad6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nekiddplfpeikpfljcopihankmpgilja",
+        "comment": "Falling Cubes | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 1.0.9",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.9\""
+          }
+        ]
+      },
+      {
+        "uuid": "453e12c0-7d71-508f-927b-e6b932a9c1a8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nekiddplfpeikpfljcopihankmpgilja",
+        "comment": "Chrome Web Store entry for Falling Cubes (nekiddplfpeikpfljcopihankmpgilja)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b0470f64-95d1-58aa-b097-2f4b3588c883",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5ae231c8197f2440ffddde406cb3be8b4b1bcb589710d2d6a3b58e5be66f4809",
+        "comment": "SHA-256 of extension package for Falling Cubes (nekiddplfpeikpfljcopihankmpgilja)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "828dda63-677e-5fc8-867c-768ef6374d31",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "clecgankennmoeejojcdjhmbjbggjddp",
+        "comment": "Telt | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 0.1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "ce9f8f27-885d-56c4-a692-23366a457ec5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/clecgankennmoeejojcdjhmbjbggjddp",
+        "comment": "Chrome Web Store entry for Telt (clecgankennmoeejojcdjhmbjbggjddp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9acc5496-900e-5169-bb2e-0b4bf48c8c98",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "31731c01b7e1af8b49c8b9ccccfde9951ca91f7f40f731705fa182b7e06760e8",
+        "comment": "SHA-256 of extension package for Telt (clecgankennmoeejojcdjhmbjbggjddp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "56724ae7-0819-5e86-95b2-8621800ffb8b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jafiokcgidjgkidaadfdfadeffnfdbmf",
+        "comment": "Dishonored Theme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 0.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "f1e216f2-fc3e-5fa4-bd7f-5653437c7c05",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jafiokcgidjgkidaadfdfadeffnfdbmf",
+        "comment": "Chrome Web Store entry for Dishonored Theme (jafiokcgidjgkidaadfdfadeffnfdbmf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0a2b369b-2096-5c95-a8ec-c6d98857bbbe",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "db6d6f665756eff10f7b39d9531e1d00a8c2daf850d357b52b41b54313dc7046",
+        "comment": "SHA-256 of extension package for Dishonored Theme (jafiokcgidjgkidaadfdfadeffnfdbmf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "61c78ee5-b9e7-55d4-b5c0-d1954caed7aa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmnbljnaemkkldklipehghbeladckcec",
+        "comment": "Michael's Tetrys | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 4.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "1362ca3f-8a6c-57ff-b32b-730412942e5a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dmnbljnaemkkldklipehghbeladckcec",
+        "comment": "Chrome Web Store entry for Michael's Tetrys (dmnbljnaemkkldklipehghbeladckcec)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "042bc089-9c5a-51b1-a91a-2b3e31433f55",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "60bf43f3a3c5f2d2b6b0953626bac816a3a66dd521605ff47d4f2e9a18dab669",
+        "comment": "SHA-256 of extension package for Michael's Tetrys (dmnbljnaemkkldklipehghbeladckcec)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e543a2e6-a221-5941-9e1a-1c2123f43d81",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fmgdaijoloejblknjgnbmdhinchoihid",
+        "comment": "ChatGPT for Google Search | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "9eafe5bb-641c-5607-99fd-3c7e6e5dcee9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fmgdaijoloejblknjgnbmdhinchoihid",
+        "comment": "Chrome Web Store entry for ChatGPT for Google Search (fmgdaijoloejblknjgnbmdhinchoihid)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7b60139c-d92c-5430-9ba8-878fceb59bb4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "57eb92ca460a565fd42a723c6318e6b2f6bef1b6f3efeb970204c80c3bbc9cba",
+        "comment": "SHA-256 of extension package for ChatGPT for Google Search (fmgdaijoloejblknjgnbmdhinchoihid)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2d4108be-428e-5aad-a59b-488ab471e965",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pjhioanepclmboeipijmldkdgbaipdpj",
+        "comment": "Polyhelper: Enhanced Polymarket Experience | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "1dba881f-e933-5cff-bbfd-b8e68b6cd2b6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pjhioanepclmboeipijmldkdgbaipdpj",
+        "comment": "Chrome Web Store entry for Polyhelper: Enhanced Polymarket Experience (pjhioanepclmboeipijmldkdgbaipdpj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fbc9a03b-3884-5334-99ed-b7e6d3e79d2b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "57d4f941a20d84ec77e3c7fafe8913822388f5a13754f8f09cee19fe39f3d306",
+        "comment": "SHA-256 of extension package for Polyhelper: Enhanced Polymarket Experience (pjhioanepclmboeipijmldkdgbaipdpj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "de1e4206-74f1-5a8a-ba08-f9591d644a09",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cdiloaiknhibffknpbndckpplloecngc",
+        "comment": "ContactOut Collector | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 2.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "9532744e-05b5-58cc-8f1f-1757d8be3c15",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cdiloaiknhibffknpbndckpplloecngc",
+        "comment": "Chrome Web Store entry for ContactOut Collector (cdiloaiknhibffknpbndckpplloecngc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "62204360-c942-5c9a-ae98-19e8e0c9a5d3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fad7ea63a3074b28fa5c622c2fe751cb278b015e38f54f6eccf404d8356d72e6",
+        "comment": "SHA-256 of extension package for ContactOut Collector (cdiloaiknhibffknpbndckpplloecngc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e772ac03-a198-54eb-94c4-baca721f14ed",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "egakfoglocckigmljkajimmlodoabmfi",
+        "comment": "Web3 Defi Dashboard for Exodus | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "d3f2be28-bd23-5eb7-b789-012e45f3ddda",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/egakfoglocckigmljkajimmlodoabmfi",
+        "comment": "Chrome Web Store entry for Web3 Defi Dashboard for Exodus (egakfoglocckigmljkajimmlodoabmfi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "833a07b1-b502-5a9a-bed6-2a6e0fa26b2f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "abd23753783ece4a4d4f5673454726fbed402489d787bc2a4e01b1c5b5d9f123",
+        "comment": "SHA-256 of extension package for Web3 Defi Dashboard for Exodus (egakfoglocckigmljkajimmlodoabmfi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b6c56c25-08a5-55b4-9564-2decb2d0b8b3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jgbmddfnhdancahhijgclpofpafppgaa",
+        "comment": "Doom - Red theme by toxic | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "70d5d906-ea5b-502e-b8b9-c6f2b84faa2a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jgbmddfnhdancahhijgclpofpafppgaa",
+        "comment": "Chrome Web Store entry for Doom - Red theme by toxic (jgbmddfnhdancahhijgclpofpafppgaa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4f944e0b-1d8d-5f06-978d-8602411532bc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f9f6751a72d6fc0f1c1fbe6b70c845ef8dfb801499d4a23c217388a6e5ebd111",
+        "comment": "SHA-256 of extension package for Doom - Red theme by toxic (jgbmddfnhdancahhijgclpofpafppgaa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "99df20af-5a30-5d18-8b50-e7e034d48430",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abpipphccdcjgcdjmjejnenjbhofijcd",
+        "comment": "ChatGPT for search | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "c813ad82-1733-5e00-bc27-2584f7cd996c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abpipphccdcjgcdjmjejnenjbhofijcd",
+        "comment": "Chrome Web Store entry for ChatGPT for search (abpipphccdcjgcdjmjejnenjbhofijcd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1776d95d-fe07-54da-b0be-75b0c14f824c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8090b22e5b8459361dee06f9aad2adaa88caa753c4bddd183ad60969b6ceb264",
+        "comment": "SHA-256 of extension package for ChatGPT for search (abpipphccdcjgcdjmjejnenjbhofijcd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ffed8b38-7f32-5b77-ad1d-e784829fa631",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "omkcghnpildbgjfboighmbgiahpgaemh",
+        "comment": "Divulga.Ai | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 0.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "d770dbef-4994-58e7-adb2-798fa3b4f57e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/omkcghnpildbgjfboighmbgiahpgaemh",
+        "comment": "Chrome Web Store entry for Divulga.Ai (omkcghnpildbgjfboighmbgiahpgaemh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "703d6947-9bf7-5ce8-837c-b938a603808b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6a03ac86e1de007c93f3d8af13537f0638f7a287bddf3685a8525c4aadd74ac8",
+        "comment": "SHA-256 of extension package for Divulga.Ai (omkcghnpildbgjfboighmbgiahpgaemh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9e0a2415-17b0-5bf3-b658-fd52b0c364ac",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ihoblafionlblbcaienfiodmlddjgibm",
+        "comment": "ChatGPT for Gmail by Royta.Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 1.1.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "0e3dfb92-f1b8-55ac-9a2a-66fbc7e6cc1a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ihoblafionlblbcaienfiodmlddjgibm",
+        "comment": "Chrome Web Store entry for ChatGPT for Gmail by Royta.Pro (ihoblafionlblbcaienfiodmlddjgibm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e904cbb4-b3ca-55ac-b41b-f795db9a5d71",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "832ded83ac46a3091da723663745309cf1dc3ff63a2791e5013353ac84aac239",
+        "comment": "SHA-256 of extension package for ChatGPT for Gmail by Royta.Pro (ihoblafionlblbcaienfiodmlddjgibm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c90ff7de-0938-5b31-a97c-b0531dfee06e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cdahaklhjckkkfljdmheilncimjlegii",
+        "comment": "ChatGPT App | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-15 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "22bda100-3dd2-5a2b-9606-0baa5b9b1f0a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cdahaklhjckkkfljdmheilncimjlegii",
+        "comment": "Chrome Web Store entry for ChatGPT App (cdahaklhjckkkfljdmheilncimjlegii)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8a653448-17ca-59b1-b3aa-145295e6a8a2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "eae70e82afd02b74bcaf845a585efa1dc70cb85e8516e92c85ef3f9327d9c0a0",
+        "comment": "SHA-256 of extension package for ChatGPT App (cdahaklhjckkkfljdmheilncimjlegii)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "1118cac8-fe83-5748-9264-d823cd31f8a8",
         "type": "text",
@@ -8867,6 +9511,52 @@
         ]
       },
       {
+        "uuid": "df9cde37-624f-5aee-b402-0a930fc2c5a9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ehookiepcgodioiimpgohjidjpllabge",
+        "comment": "USDT Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-12 | Version: 0.2.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.2.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "212bc28a-1231-58c4-9825-9a15e2af642d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ehookiepcgodioiimpgohjidjpllabge",
+        "comment": "Chrome Web Store entry for USDT Wallet (ehookiepcgodioiimpgohjidjpllabge)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3145731a-ad31-5424-95eb-915782dc63ed",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "86874df0d42a3d7541a84cc6207848a213965cfc54106d06121740864d993888",
+        "comment": "SHA-256 of extension package for USDT Wallet (ehookiepcgodioiimpgohjidjpllabge)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "bf74b540-22fb-5a43-a4cb-f1f40e6a7470",
         "type": "text",
         "category": "Other",
@@ -9687,6 +10377,374 @@
         "to_ids": true,
         "value": "0e8750d0e5bc184978211976c5b299606b683767b62909ff6ae2f346c250ec09",
         "comment": "SHA-256 of extension package for Robinhood - Extension For Chrome (bbljaeojdeehoihejgmdjgjmnnolgdbm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "77ed15e8-2cac-5010-9540-29d916e51d7b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ldooflebeeoikofndeeeibnfcbfgpnlh",
+        "comment": "Taskyo \u2014 Conectar WhatsApp | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 0.3.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.3.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "9e18eed2-26fb-523f-b56a-bf7149755353",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ldooflebeeoikofndeeeibnfcbfgpnlh",
+        "comment": "Chrome Web Store entry for Taskyo \u2014 Conectar WhatsApp (ldooflebeeoikofndeeeibnfcbfgpnlh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ab63fe02-8d7b-5347-933f-be63db9ac131",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3f3662901b2ef1b70d9a5a23357fe67d8c139bb960f73647313fbfe8e277f308",
+        "comment": "SHA-256 of extension package for Taskyo \u2014 Conectar WhatsApp (ldooflebeeoikofndeeeibnfcbfgpnlh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5f272f5f-d545-53dc-9593-7e0225cabcd0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gmjnabaaiekoldfegadnbgaadoaijbjn",
+        "comment": "Dark VS Code GitHub Theme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 1.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "9b3dac08-39c8-5489-8018-ab618397c67a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gmjnabaaiekoldfegadnbgaadoaijbjn",
+        "comment": "Chrome Web Store entry for Dark VS Code GitHub Theme (gmjnabaaiekoldfegadnbgaadoaijbjn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "08a8833a-1e61-5512-a49b-0d9505681b19",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b0b4fa11cea09c300cdfaaf600471267a3470700496d2fe46acc9fe5a23191c5",
+        "comment": "SHA-256 of extension package for Dark VS Code GitHub Theme (gmjnabaaiekoldfegadnbgaadoaijbjn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "532f531c-65b2-5afb-97c6-b664537dfdc8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aaionafjdcpmogbbhglkhompliakihaa",
+        "comment": "ChatGPT for Amazon | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "f0f2e51b-217d-5222-a409-d23e9f96c94c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aaionafjdcpmogbbhglkhompliakihaa",
+        "comment": "Chrome Web Store entry for ChatGPT for Amazon (aaionafjdcpmogbbhglkhompliakihaa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e34a8076-5a1d-54bf-b35f-5bd2d369ee6a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c277522c9fad9c9188f350d40712f5147030808b715673b0ab01ee5f099f05de",
+        "comment": "SHA-256 of extension package for ChatGPT for Amazon (aaionafjdcpmogbbhglkhompliakihaa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5f95f083-7899-5dbf-b5ab-3cdacf490a0b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fadieaaojhhonpnjmhjbhhndplkhnnom",
+        "comment": "ChatGPT | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "5611c7a3-e038-5230-9621-02397093944c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fadieaaojhhonpnjmhjbhhndplkhnnom",
+        "comment": "Chrome Web Store entry for ChatGPT (fadieaaojhhonpnjmhjbhhndplkhnnom)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8a7f3bda-bae8-52ea-b1a8-b2a0d21158ab",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e48697c51211a8d32352da1faaf86fa152dee1d29cec7978c700091acf252792",
+        "comment": "SHA-256 of extension package for ChatGPT (fadieaaojhhonpnjmhjbhhndplkhnnom)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "03829876-5024-58ae-a58c-fa33cb19958d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fbmghnnclpoedoncaoiaedgjgocpgpmc",
+        "comment": "Dishonored 2 Theme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 0.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "957b6e12-ae41-5b88-ab92-3550b1d44301",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fbmghnnclpoedoncaoiaedgjgocpgpmc",
+        "comment": "Chrome Web Store entry for Dishonored 2 Theme (fbmghnnclpoedoncaoiaedgjgocpgpmc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "de75133f-c60c-5567-944b-0b96858ef6c8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ad019f3e031435ee650ac2f57f06cb5c0d6e0c5dee3e360f730cb9be3c7728a5",
+        "comment": "SHA-256 of extension package for Dishonored 2 Theme (fbmghnnclpoedoncaoiaedgjgocpgpmc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "521c4e6a-03df-56f4-b786-051aa3e75ad7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nofmjfeakockdnbhndiohdhlkfnehedi",
+        "comment": "Doom Eternal Wallpaper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 6.16.121.45",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"6.16.121.45\""
+          }
+        ]
+      },
+      {
+        "uuid": "15a2fb50-eb67-5302-bfd2-7fdc40d76aaa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nofmjfeakockdnbhndiohdhlkfnehedi",
+        "comment": "Chrome Web Store entry for Doom Eternal Wallpaper (nofmjfeakockdnbhndiohdhlkfnehedi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "14477357-9099-55f9-9ad3-778941cc3469",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "71001bea3eebf96d54782838d8d07904f74dc816e4a63a3791296e64eaba459b",
+        "comment": "SHA-256 of extension package for Doom Eternal Wallpaper (nofmjfeakockdnbhndiohdhlkfnehedi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f7fd7cba-f1e2-5c9c-9311-74d4843549af",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "medgdgkkailbeahpincmkingmpcicpjm",
+        "comment": "Aloha CRM Chat | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 0.3.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.3.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "00e6867d-042e-51d6-ba3f-0742c4bf33d1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/medgdgkkailbeahpincmkingmpcicpjm",
+        "comment": "Chrome Web Store entry for Aloha CRM Chat (medgdgkkailbeahpincmkingmpcicpjm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "918adabc-d5dc-5fc1-a5e3-b85dbc583c93",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "41953f6aabc984d3bef87732337b49cf655d797b898f45c811e05df8c85ca49f",
+        "comment": "SHA-256 of extension package for Aloha CRM Chat (medgdgkkailbeahpincmkingmpcicpjm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2a16e0b2-92e5-5a9e-a3ba-bdac6216ce02",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "heonidpdeacfhenialaccofpdloejoki",
+        "comment": "Doom | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1\""
+          }
+        ]
+      },
+      {
+        "uuid": "13b083f1-b57f-5f1c-b928-8159d8d722e6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/heonidpdeacfhenialaccofpdloejoki",
+        "comment": "Chrome Web Store entry for Doom (heonidpdeacfhenialaccofpdloejoki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7cde2a51-0b4c-5b4a-a32a-966cf6b3ba02",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cee733e1c327f322026157117bbe1aa5f1970791a7393fa54090b8f145d722c2",
+        "comment": "SHA-256 of extension package for Doom (heonidpdeacfhenialaccofpdloejoki)",
         "distribution": "5",
         "Tag": [
           {
@@ -12585,6 +13643,52 @@
         "to_ids": true,
         "value": "807f11b5391987b0cfb74dc839746277cc6214ace2e9d802de9a691649508333",
         "comment": "SHA-256 of extension package for C\u00e0y view (hfnkgefpgmpjnhmloigilhlhhdijmfke)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5c7212bd-0430-5fbf-9538-b69fb7636651",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dfhfeifekpgapdlhfakecbbinnnfoohh",
+        "comment": "ChatGPT for Google Colab | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-07 | Version: 1.2.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "d67e85e6-382a-5dcb-afcb-109d99c6068b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dfhfeifekpgapdlhfakecbbinnnfoohh",
+        "comment": "Chrome Web Store entry for ChatGPT for Google Colab (dfhfeifekpgapdlhfakecbbinnnfoohh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3f41e1e7-e6d9-5776-bf8d-c98a5bbb3efb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "785f8b190a0e82e6841498048ab76c85a5ed8a3455c6f464398a49ebc9b88a92",
+        "comment": "SHA-256 of extension package for ChatGPT for Google Colab (dfhfeifekpgapdlhfakecbbinnnfoohh)",
         "distribution": "5",
         "Tag": [
           {
