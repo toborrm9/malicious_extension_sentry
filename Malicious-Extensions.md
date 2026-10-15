@@ -1,5 +1,19 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ilfmafejmnhkfkmgfnpfelppnpdkaadf | Fallout Helmet - Power Armor | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
+| nekiddplfpeikpfljcopihankmpgilja | Falling Cubes | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
+| clecgankennmoeejojcdjhmbjbggjddp | Telt | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
+| jafiokcgidjgkidaadfdfadeffnfdbmf | Dishonored Theme | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
+| dmnbljnaemkkldklipehghbeladckcec | Michael's Tetrys | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
+| fmgdaijoloejblknjgnbmdhinchoihid | ChatGPT for Google Search | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
+| pjhioanepclmboeipijmldkdgbaipdpj | Polyhelper: Enhanced Polymarket Experience | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
+| cdiloaiknhibffknpbndckpplloecngc | ContactOut Collector | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
+| egakfoglocckigmljkajimmlodoabmfi | Web3 Defi Dashboard for Exodus | Malware | Store Monitoring | 15/10/26 | No | Google Chrome
+| jgbmddfnhdancahhijgclpofpafppgaa | Doom - Red theme by toxic | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
+| abpipphccdcjgcdjmjejnenjbhofijcd | ChatGPT for search | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
+| omkcghnpildbgjfboighmbgiahpgaemh | Divulga.Ai | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
+| ihoblafionlblbcaienfiodmlddjgibm | ChatGPT for Gmail by Royta.Pro | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
+| cdahaklhjckkkfljdmheilncimjlegii | ChatGPT App | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
 | cfdaocodlljmlaobolhbadgbcfgbmaha | SpongeBob SquarePants Cursor | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
 | pbnbalklediilicgjcdndemhiplgonkd | Skyrim | Policy Violation | Store Monitoring | 14/10/26 | No | Google Chrome
 | cfbeilbgbkojmnpjkhieoejbdmjgeicd | Kraken Extension | Malware | Store Monitoring | 14/10/26 | No | Google Chrome
@@ -194,6 +208,7 @@
 | nfaikdfgmkoogpcfopoicjmghfghonic | YouTube Comment Bot | Malware | Store Monitoring | 13/10/26 | Yes | Google Chrome
 | jmmkejlfappekbhikniancfecdjdnbcn | 0KX Ai Powered Edition | Malware | Store Monitoring | 13/10/26 | No | Google Chrome
 | afhagkdljenpjghnnalahhlgdaibcbka | AutoBanana for Google Gemini™ - Automatic Batch Creator | Policy Violation | Store Monitoring | 13/10/26 | No | Google Chrome
+| ehookiepcgodioiimpgohjidjpllabge | USDT Wallet | Malware | Store Monitoring | 12/10/26 | No | Google Chrome
 | kdgpjifighhheplkckdekkegigjcfpki | Tv Co Pilot | Policy Violation | Store Monitoring | 12/10/26 | No | Google Chrome
 | mkdmkojplcnaplaigkepaldmiopecida | Google Gemini Sidepanel T | Policy Violation | Store Monitoring | 12/10/26 | No | Google Chrome
 | lncocdbgkaafheecbfckfhjcnmjijhbc | Tiktok Shop Spy Scraper P | Policy Violation | Store Monitoring | 12/10/26 | No | Google Chrome
@@ -207,11 +222,19 @@
 | ecjjhklhmpepmnhcegmajpdpmhmaiamh | Carexport — Dongchedi помощник | Policy Violation | Store Monitoring | 10/10/26 | No | Google Chrome
 | ghbmpbdefklbjbnebdcpbjflekgmalpb | Salvage Auction Research Tool | Policy Violation | Store Monitoring | 10/10/26 | No | Google Chrome
 | jhgpcbfjmmkclnkdoplcpinejekdjomp | AdBlock Pro – Ad Blocker & Privacy | Bundling Unwanted Software | Store Monitoring | 10/10/26 | Yes | Google Chrome
-| ombjdobdekonhhipddhpcpdfflmdakfe | Base - Extension For Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
+| ombjdobdekonhhipddhpcpdfflmdakfe | Base - Extension For Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | Yes | Google Chrome
 | jfegcjipmnolppcnpgpmfogkmooelibl | Robin - Chrome Extension  | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
 | gbafgofiefjephjoodfphmojinnfiada | Coinom - Browser Extension | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
 | dnbfneandcjphnkgcjkdkphmaoajiojh | Base - Extension Pad for Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
 | bbljaeojdeehoihejgmdjgjmnnolgdbm | Robinhood - Extension For Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
+| ldooflebeeoikofndeeeibnfcbfgpnlh | Taskyo — Conectar WhatsApp | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| gmjnabaaiekoldfegadnbgaadoaijbjn | Dark VS Code GitHub Theme | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| aaionafjdcpmogbbhglkhompliakihaa | ChatGPT for Amazon | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| fadieaaojhhonpnjmhjbhhndplkhnnom | ChatGPT | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| fbmghnnclpoedoncaoiaedgjgocpgpmc | Dishonored 2 Theme | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| nofmjfeakockdnbhndiohdhlkfnehedi | Doom Eternal Wallpaper | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| medgdgkkailbeahpincmkingmpcicpjm | Aloha CRM Chat | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
+| heonidpdeacfhenialaccofpdloejoki | Doom | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
 | mpbnfoedhandidcdhhngghmpcoemebal | HoldPick — Long-Press Image Downloader | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
 | dafaanohplfgoihgjbmnniknmjaeajki | FunnelSnap | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
 | cjdaccpcajkfpaodphogohknlkfiipeb | ShopCompare AI | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
@@ -275,6 +298,7 @@
 | gnengalhkcehpjlgmmgobpnpmamnkinm | Review Signal — Coupang Review Trust | Bundling Unwanted Software | Store Monitoring | 08/10/26 | No | Google Chrome
 | nfcgagoniilpnnpghohojpafmmmpkleo | OneNote Dark Mode | Policy Violation | Store Monitoring | 08/10/26 | No | Google Chrome
 | hfnkgefpgmpjnhmloigilhlhhdijmfke | Cày view | Malware | Store Monitoring | 08/10/26 | No | Google Chrome
+| dfhfeifekpgapdlhfakecbbinnnfoohh | ChatGPT for Google Colab | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
 | blmcjodakkekahobekcbbplaacdocehj | Bitmoji Toolkit | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
 | ajdljbgfgdenkjkcpphlgipkbghbmcfj | Okx Wallet Tracker Crypto | Bundling Unwanted Software | Store Monitoring | 07/10/26 | No | Google Chrome
 | edoefkpbifgpalopdbikblemhdjhbkja | Github File Collapser | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
