@@ -1,12 +1,352 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-15T16:08:19Z",
+  "generated": "2026-10-16T13:59:06Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 7300,
+  "total_indicators": 7334,
   "indicators": [
+    {
+      "extension_id": "olpjoedphodcglhnlbkbljdkjbcgjnhe",
+      "name": "Modo Oscuro",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/olpjoedphodcglhnlbkbljdkjbcgjnhe",
+      "sha256": "5b8ec9114d0ecb437c093f13972969c1c771fa49ab731061509d034d6855a71f",
+      "version": "1.9.2"
+    },
+    {
+      "extension_id": "pgilgpglkleoicdpgjbnddbbaiheemme",
+      "name": "Instagram Dark Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/pgilgpglkleoicdpgjbnddbbaiheemme",
+      "sha256": "e3abf69ecb4edddacd0983935c503cd4e5e0762bbfb2aeb939fbdcb096ebcec9",
+      "version": "2.0.4"
+    },
+    {
+      "extension_id": "lfbjgdhdnhinngggmpkhojlkoljihdcl",
+      "name": "Salesforce Dark Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/lfbjgdhdnhinngggmpkhojlkoljihdcl",
+      "sha256": "9818502d80445ebedc0014ee184b8599f3f346ead9a7c580d51cea5f3011c941",
+      "version": "2.0.4"
+    },
+    {
+      "extension_id": "gfjblggkimebjolmnfokhmjlfgghbmje",
+      "name": "Chatgpt Search Google",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/gfjblggkimebjolmnfokhmjlfgghbmje",
+      "sha256": "addba27a8551858a62331e294b53c006ca443fa9c0665725d03a54677aca7ba0",
+      "version": ""
+    },
+    {
+      "extension_id": "fenohgfjcabckhbmbljachapnnahanlp",
+      "name": "Usauction",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/fenohgfjcabckhbmbljachapnnahanlp",
+      "sha256": "4ccdb1d3f66fa8d5f8e60d9d13f6d49b1e8805c47c1aa6a9ab244e4d9a918088",
+      "version": ""
+    },
+    {
+      "extension_id": "ejolmkmnegbamafoknjamlggejcikonk",
+      "name": "Enhanced Outlook Web App",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/ejolmkmnegbamafoknjamlggejcikonk",
+      "sha256": "b48cf87e8117336afe316051309abb344fa78079394f1662304733b0e5f803c9",
+      "version": ""
+    },
+    {
+      "extension_id": "mckkkgomolhdcnoadpimgdpcfcmlobed",
+      "name": "Bing Dark Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/mckkkgomolhdcnoadpimgdpcfcmlobed",
+      "sha256": "fc4b0a10784b1a2059e36cd4501c839e23a8d6c892597d616a81422316822707",
+      "version": "2.0.5"
+    },
+    {
+      "extension_id": "apeekoalfoibhpdeldilfkdhpllcpnkb",
+      "name": "Etsy Dark Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/apeekoalfoibhpdeldilfkdhpllcpnkb",
+      "sha256": "c69396ab68c255e12fdb9fb9aaa0426da429844c97035f966b76e76f18caa244",
+      "version": "2.0.5"
+    },
+    {
+      "extension_id": "goiakgmenddkogkapgomkcjadgnmijbo",
+      "name": "Chatgpt Chrome Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/goiakgmenddkogkapgomkcjadgnmijbo",
+      "sha256": "ca61f2dfbf35abd393c59911747ee3d0344457a33526a93e064c994169829d3f",
+      "version": "1.2.0"
+    },
+    {
+      "extension_id": "jbgnplnikghhmggnlpncjabgfnlkfeki",
+      "name": "Youtube Dark Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/jbgnplnikghhmggnlpncjabgfnlkfeki",
+      "sha256": "b8617f47a555d1497e28ac6e6a682b8e2b000370beb6d326112572d5c0c5be1e",
+      "version": "2.0.3"
+    },
+    {
+      "extension_id": "gdefjggdmmcaoaopgnjfjbcgipokcklj",
+      "name": "Offline Games Classic Gam",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/gdefjggdmmcaoaopgnjfjbcgipokcklj",
+      "sha256": "335f202ce4adf97df3b428285c3ad1095ea09201f9fc38ba7179b3a0bb9b65f3",
+      "version": ""
+    },
+    {
+      "extension_id": "fehlijigmkgoodcacjjiejlnfnhmjfka",
+      "name": "Unstoppable Extension Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/fehlijigmkgoodcacjjiejlnfnhmjfka",
+      "sha256": "8ee8a173cdb56ea13ba6b6bed96e9debc8e2ed0a809b96152282891aa73869e0",
+      "version": ""
+    },
+    {
+      "extension_id": "achncdbcgahnmpkiinclefkdflhcjkfe",
+      "name": "Google Docs Dark Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/achncdbcgahnmpkiinclefkdflhcjkfe",
+      "sha256": "74f32e45b5d9b01767de2aa880f7494eec58f69cdfc858a36a7645038e9099ac",
+      "version": "2.1.52"
+    },
+    {
+      "extension_id": "nkbmneokhdalabfmafbgeimamddpgodc",
+      "name": "Chatgpt On Google",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/nkbmneokhdalabfmafbgeimamddpgodc",
+      "sha256": "3ecc9648f86439f3d894d26a5365ae73e6fe594473941f6f3a62d26d69ca77ef",
+      "version": ""
+    },
+    {
+      "extension_id": "aecbghfgcnonpneidgjmnfkjcgfkejok",
+      "name": "Sebbot",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/aecbghfgcnonpneidgjmnfkjcgfkejok",
+      "sha256": "349f5075914046f3c222b90a00e69488383fd47d52c4a68b6619e1d92f99aa33",
+      "version": ""
+    },
+    {
+      "extension_id": "jfbicpefoihffjoegkephpjpnpmkhmmf",
+      "name": "Portline Auto Import",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/jfbicpefoihffjoegkephpjpnpmkhmmf",
+      "sha256": "73fdc19183c7c0190a93d220c53896898d4a6d548c6200085de3a91e827a8b64",
+      "version": ""
+    },
+    {
+      "extension_id": "lbpdjdkamagpjnohdcbcbodjgjafbclj",
+      "name": "Ankigo Web Clipper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/lbpdjdkamagpjnohdcbcbodjgjafbclj",
+      "sha256": "8dea48253c5a825a6bfaced041b10e3c55b7296fb28cbc5e5183832d86476806",
+      "version": ""
+    },
+    {
+      "extension_id": "iaclcidolgjnpblhdalmildokfdmidlj",
+      "name": "Chatgpt For Gmail",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/iaclcidolgjnpblhdalmildokfdmidlj",
+      "sha256": "47f12a82d305a2cf9d5f6c360fe8dbcda259ab817582df525899fdc7ced057e0",
+      "version": "0.4"
+    },
+    {
+      "extension_id": "fkjngjgmgbfelejhbjblhjkehchifpcj",
+      "name": "Smart Auto Refresh",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/fkjngjgmgbfelejhbjblhjkehchifpcj",
+      "sha256": "d1eed532eabfa149a74cb594028f5f12ecb0322b26ef712c9902c08d16832c20",
+      "version": ""
+    },
+    {
+      "extension_id": "gjfkjdaeefjopkbbdbbbmjkmopjpkakn",
+      "name": "Chatgpt Assistant Gpt Sea",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/gjfkjdaeefjopkbbdbbbmjkmopjpkakn",
+      "sha256": "421f4b168298012a4f83c5f7469e73e8e5c334a0d2deba25d366248058138b44",
+      "version": ""
+    },
+    {
+      "extension_id": "knekidcijllobnbkjommcageiddihloo",
+      "name": "Reddit Dark Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/knekidcijllobnbkjommcageiddihloo",
+      "sha256": "7f9146800dcf18ea0bc33c73f552b1222585fba4b7476b51f788f305553df1c9",
+      "version": "2.0.5"
+    },
+    {
+      "extension_id": "bojmddipfbomamjglnjgolkffekkmcfa",
+      "name": "Wikipedia Dark Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/bojmddipfbomamjglnjgolkffekkmcfa",
+      "sha256": "3b4d84199d44222ed4ae3b2f315aedd29315c8fd035f474dd6743761395c6b3e",
+      "version": "2.0.5"
+    },
+    {
+      "extension_id": "nllgcmmepbpamdcbmikmlflnljifghlg",
+      "name": "Chatgpt Download For Pc M",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/nllgcmmepbpamdcbmikmlflnljifghlg",
+      "sha256": "7ef5b607b3296f17e68c9a7c858198db748f800e9f53363bcb483c9423b06eb9",
+      "version": ""
+    },
+    {
+      "extension_id": "kafinnamcamcmkeellbfbicmheeohick",
+      "name": "Amazon Dark Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/kafinnamcamcmkeellbfbicmheeohick",
+      "sha256": "51833857b7aa34a9098c4107dae7a4ad76cd12dd6e2761d8940981f8e91a2280",
+      "version": "2.0.5"
+    },
+    {
+      "extension_id": "jhjfjagjiggiihadimhlmbchlddadfcn",
+      "name": "Bubbly Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/jhjfjagjiggiihadimhlmbchlddadfcn",
+      "sha256": "7b17b361739dbb623c5dec5e570a85491db5e1ced50f59a594c6f00cc12a0afa",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "oihjieiibjllbdekajbemijmdaoehnpe",
+      "name": "Quick Engine Switch",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/oihjieiibjllbdekajbemijmdaoehnpe",
+      "sha256": "205efcd5fad973ff03ed7c372d5595deed89d736dff0878b43d4674008235c3d",
+      "version": "0.1"
+    },
+    {
+      "extension_id": "djnfcoijjepkbaljippjeifbmjdcpeno",
+      "name": "Search Toggler",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/djnfcoijjepkbaljippjeifbmjdcpeno",
+      "sha256": "ae1f221cfb4aa841fbdbf874516f7a041976c2420c04edfaf1e6a037abe6b965",
+      "version": "1.1"
+    },
+    {
+      "extension_id": "bbnjhnlnhdpahgiimbcaoegafogfmmin",
+      "name": "Happy Wild Cats",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/bbnjhnlnhdpahgiimbcaoegafogfmmin",
+      "sha256": "28ea2b10b481fcdea284448366408d17d52f68a1ce8db7f83ca77ba9f9f74fba",
+      "version": "1.0.4"
+    },
+    {
+      "extension_id": "nkgcppdnohpaioggceekcgcooacmpfjh",
+      "name": "Explore My Fitness",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/nkgcppdnohpaioggceekcgcooacmpfjh",
+      "sha256": "a8fa7c242bd179fc87c1209f0589cc5cb8eff12dbf4e7f51ac46d997d2afab71",
+      "version": "0.0.2"
+    },
+    {
+      "extension_id": "gadfkpbjhlleamgiodolgecpcafalgcj",
+      "name": "News Searcher Pro",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/gadfkpbjhlleamgiodolgecpcafalgcj",
+      "sha256": "",
+      "version": ""
+    },
+    {
+      "extension_id": "llepaccgikjnlofhkgidobmmngedgejd",
+      "name": "llepaccgikjnlofhkgidobmmngedgejd",
+      "source": "https://malext.io/reports/SearchJack",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/llepaccgikjnlofhkgidobmmngedgejd",
+      "sha256": "",
+      "version": ""
+    },
+    {
+      "extension_id": "pjbkppdckhokepdfnlfmljjgnbnjfabg",
+      "name": "View Maps & Directions",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/pjbkppdckhokepdfnlfmljjgnbnjfabg",
+      "sha256": "75c95c235f58872e3376b29bb3aa6a07f4db3848936570e8689625a83a453605",
+      "version": "1.0.0.1"
+    },
+    {
+      "extension_id": "nkeddnodkkdijfghdeilhnjodlgjceaj",
+      "name": "nkeddnodkkdijfghdeilhnjodlgjceaj",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/nkeddnodkkdijfghdeilhnjodlgjceaj",
+      "sha256": "34a4162a116955f6edc455fd034c0359fc5c59820b66ccfdba2f23e3b3311525",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "dbgccacohbfpiagdmlgbomeniedaciec",
+      "name": "Maps Driving Directions",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/dbgccacohbfpiagdmlgbomeniedaciec",
+      "sha256": "981a252d9420ec4978c8d125b72e23d169fc49743c44836ae9f19bba0824a95f",
+      "version": "2.7.7.8"
+    },
     {
       "extension_id": "ilfmafejmnhkfkmgfnpfelppnpdkaadf",
       "name": "Fallout Helmet - Power Armor",
