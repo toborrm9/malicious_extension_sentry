@@ -1,5 +1,39 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| olpjoedphodcglhnlbkbljdkjbcgjnhe | Modo Oscuro | Bundling Unwanted Software | Store Monitoring | 16/10/26 | No | Google Chrome
+| pgilgpglkleoicdpgjbnddbbaiheemme | Instagram Dark Mode | Bundling Unwanted Software | Store Monitoring | 16/10/26 | No | Google Chrome
+| lfbjgdhdnhinngggmpkhojlkoljihdcl | Salesforce Dark Mode | Bundling Unwanted Software | Store Monitoring | 16/10/26 | No | Google Chrome
+| gfjblggkimebjolmnfokhmjlfgghbmje | Chatgpt Search Google | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| fenohgfjcabckhbmbljachapnnahanlp | Usauction | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| ejolmkmnegbamafoknjamlggejcikonk | Enhanced Outlook Web App | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| mckkkgomolhdcnoadpimgdpcfcmlobed | Bing Dark Mode | Bundling Unwanted Software | Store Monitoring | 16/10/26 | No | Google Chrome
+| apeekoalfoibhpdeldilfkdhpllcpnkb | Etsy Dark Mode | Bundling Unwanted Software | Store Monitoring | 16/10/26 | No | Google Chrome
+| goiakgmenddkogkapgomkcjadgnmijbo | Chatgpt Chrome Extension | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| jbgnplnikghhmggnlpncjabgfnlkfeki | Youtube Dark Mode | Bundling Unwanted Software | Store Monitoring | 16/10/26 | No | Google Chrome
+| gdefjggdmmcaoaopgnjfjbcgipokcklj | Offline Games Classic Gam | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| fehlijigmkgoodcacjjiejlnfnhmjfka | Unstoppable Extension Wallet | Malware | Store Monitoring | 16/10/26 | No | Google Chrome
+| achncdbcgahnmpkiinclefkdflhcjkfe | Google Docs Dark Mode | Bundling Unwanted Software | Store Monitoring | 16/10/26 | No | Google Chrome
+| nkbmneokhdalabfmafbgeimamddpgodc | Chatgpt On Google | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| aecbghfgcnonpneidgjmnfkjcgfkejok | Sebbot | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| jfbicpefoihffjoegkephpjpnpmkhmmf | Portline Auto Import | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| lbpdjdkamagpjnohdcbcbodjgjafbclj | Ankigo Web Clipper | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| iaclcidolgjnpblhdalmildokfdmidlj | Chatgpt For Gmail | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| fkjngjgmgbfelejhbjblhjkehchifpcj | Smart Auto Refresh | Bundling Unwanted Software | Store Monitoring | 16/10/26 | No | Google Chrome
+| gjfkjdaeefjopkbbdbbbmjkmopjpkakn | Chatgpt Assistant Gpt Sea | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| knekidcijllobnbkjommcageiddihloo | Reddit Dark Mode | Bundling Unwanted Software | Store Monitoring | 16/10/26 | No | Google Chrome
+| bojmddipfbomamjglnjgolkffekkmcfa | Wikipedia Dark Mode | Bundling Unwanted Software | Store Monitoring | 16/10/26 | No | Google Chrome
+| nllgcmmepbpamdcbmikmlflnljifghlg | Chatgpt Download For Pc M | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| kafinnamcamcmkeellbfbicmheeohick | Amazon Dark Mode | Bundling Unwanted Software | Store Monitoring | 16/10/26 | No | Google Chrome
+| jhjfjagjiggiihadimhlmbchlddadfcn | Bubbly Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 16/10/26 | No | Google Chrome
+| oihjieiibjllbdekajbemijmdaoehnpe | Quick Engine Switch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 16/10/26 | No | Google Chrome
+| djnfcoijjepkbaljippjeifbmjdcpeno | Search Toggler | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 16/10/26 | No | Google Chrome
+| bbnjhnlnhdpahgiimbcaoegafogfmmin | Happy Wild Cats | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 16/10/26 | No | Google Chrome
+| nkgcppdnohpaioggceekcgcooacmpfjh | Explore My Fitness | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 16/10/26 | No | Google Chrome
+| gadfkpbjhlleamgiodolgecpcafalgcj | News Searcher Pro | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 16/10/26 | No | Google Chrome
+| llepaccgikjnlofhkgidobmmngedgejd | llepaccgikjnlofhkgidobmmngedgejd | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack) | 16/10/26 | No | Google Chrome
+| pjbkppdckhokepdfnlfmljjgnbnjfabg | View Maps & Directions | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 16/10/26 | No | Google Chrome
+| nkeddnodkkdijfghdeilhnjodlgjceaj | nkeddnodkkdijfghdeilhnjodlgjceaj | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 16/10/26 | No | Google Chrome
+| dbgccacohbfpiagdmlgbomeniedaciec | Maps Driving Directions | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 16/10/26 | No | Google Chrome
 | ilfmafejmnhkfkmgfnpfelppnpdkaadf | Fallout Helmet - Power Armor | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
 | nekiddplfpeikpfljcopihankmpgilja | Falling Cubes | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
 | clecgankennmoeejojcdjhmbjbggjddp | Telt | Policy Violation | Store Monitoring | 15/10/26 | No | Google Chrome
@@ -298,7 +332,7 @@
 | gnengalhkcehpjlgmmgobpnpmamnkinm | Review Signal — Coupang Review Trust | Bundling Unwanted Software | Store Monitoring | 08/10/26 | No | Google Chrome
 | nfcgagoniilpnnpghohojpafmmmpkleo | OneNote Dark Mode | Policy Violation | Store Monitoring | 08/10/26 | No | Google Chrome
 | hfnkgefpgmpjnhmloigilhlhhdijmfke | Cày view | Malware | Store Monitoring | 08/10/26 | No | Google Chrome
-| dfhfeifekpgapdlhfakecbbinnnfoohh | ChatGPT for Google Colab | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
+| dfhfeifekpgapdlhfakecbbinnnfoohh | ChatGPT for Google Colab | Policy Violation | Store Monitoring | 07/10/26 | Yes | Google Chrome
 | blmcjodakkekahobekcbbplaacdocehj | Bitmoji Toolkit | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
 | ajdljbgfgdenkjkcpphlgipkbghbmcfj | Okx Wallet Tracker Crypto | Bundling Unwanted Software | Store Monitoring | 07/10/26 | No | Google Chrome
 | edoefkpbifgpalopdbikblemhdjhbkja | Github File Collapser | Policy Violation | Store Monitoring | 07/10/26 | No | Google Chrome
