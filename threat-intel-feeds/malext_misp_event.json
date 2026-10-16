@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-15",
-    "timestamp": "1792080500",
+    "date": "2026-10-16",
+    "timestamp": "1792159147",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,1500 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "591e6295-0bb3-52d7-bb5f-d5bab46ba190",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "olpjoedphodcglhnlbkbljdkjbcgjnhe",
+        "comment": "Modo Oscuro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 1.9.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.9.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "86d8af99-3ec6-5358-bc91-35716f9330bd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/olpjoedphodcglhnlbkbljdkjbcgjnhe",
+        "comment": "Chrome Web Store entry for Modo Oscuro (olpjoedphodcglhnlbkbljdkjbcgjnhe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "716a6773-adcb-5c9a-8fe7-0aaf53c28995",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5b8ec9114d0ecb437c093f13972969c1c771fa49ab731061509d034d6855a71f",
+        "comment": "SHA-256 of extension package for Modo Oscuro (olpjoedphodcglhnlbkbljdkjbcgjnhe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b7d1fcca-612c-50f5-9921-65c9ebb6634f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pgilgpglkleoicdpgjbnddbbaiheemme",
+        "comment": "Instagram Dark Mode | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 2.0.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "033b5a1f-3b92-511f-97a1-640faaf08064",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pgilgpglkleoicdpgjbnddbbaiheemme",
+        "comment": "Chrome Web Store entry for Instagram Dark Mode (pgilgpglkleoicdpgjbnddbbaiheemme)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9b44ccaa-ac24-52cb-b371-9b35717b0dee",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e3abf69ecb4edddacd0983935c503cd4e5e0762bbfb2aeb939fbdcb096ebcec9",
+        "comment": "SHA-256 of extension package for Instagram Dark Mode (pgilgpglkleoicdpgjbnddbbaiheemme)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7f926f0b-9551-592a-af79-feed098c9225",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lfbjgdhdnhinngggmpkhojlkoljihdcl",
+        "comment": "Salesforce Dark Mode | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 2.0.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "f78b09fb-ac42-527f-ab78-f38621bb2eaf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lfbjgdhdnhinngggmpkhojlkoljihdcl",
+        "comment": "Chrome Web Store entry for Salesforce Dark Mode (lfbjgdhdnhinngggmpkhojlkoljihdcl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "54b2f27c-6ed0-5281-b180-dfa2bed0ec78",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9818502d80445ebedc0014ee184b8599f3f346ead9a7c580d51cea5f3011c941",
+        "comment": "SHA-256 of extension package for Salesforce Dark Mode (lfbjgdhdnhinngggmpkhojlkoljihdcl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f8f537fa-7ff8-5cef-bc5a-26bffbd9c868",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gfjblggkimebjolmnfokhmjlfgghbmje",
+        "comment": "Chatgpt Search Google | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bb9580f0-c9e0-55af-8fea-537bc31742ef",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gfjblggkimebjolmnfokhmjlfgghbmje",
+        "comment": "Chrome Web Store entry for Chatgpt Search Google (gfjblggkimebjolmnfokhmjlfgghbmje)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "58712e49-9156-5bc9-8852-5d25af1ab89a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "addba27a8551858a62331e294b53c006ca443fa9c0665725d03a54677aca7ba0",
+        "comment": "SHA-256 of extension package for Chatgpt Search Google (gfjblggkimebjolmnfokhmjlfgghbmje)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ba070f3e-a489-5fad-8f2f-61844ff1d611",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fenohgfjcabckhbmbljachapnnahanlp",
+        "comment": "Usauction | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "bc467f55-873c-5ccb-a2b2-fdc0f66b2426",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fenohgfjcabckhbmbljachapnnahanlp",
+        "comment": "Chrome Web Store entry for Usauction (fenohgfjcabckhbmbljachapnnahanlp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "531f4c77-420f-5230-ad29-ae98412df524",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4ccdb1d3f66fa8d5f8e60d9d13f6d49b1e8805c47c1aa6a9ab244e4d9a918088",
+        "comment": "SHA-256 of extension package for Usauction (fenohgfjcabckhbmbljachapnnahanlp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1d815035-d39c-52de-9d97-dbfad7b924ca",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ejolmkmnegbamafoknjamlggejcikonk",
+        "comment": "Enhanced Outlook Web App | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "3ea9de23-2196-52f4-adb5-2cb4873a08dd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ejolmkmnegbamafoknjamlggejcikonk",
+        "comment": "Chrome Web Store entry for Enhanced Outlook Web App (ejolmkmnegbamafoknjamlggejcikonk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bef59bf3-34fd-5ec6-ac19-cf7c0e6ca894",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b48cf87e8117336afe316051309abb344fa78079394f1662304733b0e5f803c9",
+        "comment": "SHA-256 of extension package for Enhanced Outlook Web App (ejolmkmnegbamafoknjamlggejcikonk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "22dc8a4c-7bda-593f-9536-b99ff8501477",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mckkkgomolhdcnoadpimgdpcfcmlobed",
+        "comment": "Bing Dark Mode | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 2.0.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "5b812d88-35d8-5faf-9348-d419225bf368",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mckkkgomolhdcnoadpimgdpcfcmlobed",
+        "comment": "Chrome Web Store entry for Bing Dark Mode (mckkkgomolhdcnoadpimgdpcfcmlobed)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cb29c935-131c-5c43-8c5c-c34c84426bb7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fc4b0a10784b1a2059e36cd4501c839e23a8d6c892597d616a81422316822707",
+        "comment": "SHA-256 of extension package for Bing Dark Mode (mckkkgomolhdcnoadpimgdpcfcmlobed)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "efd44898-c79d-5655-88b9-8bf182aafc6d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "apeekoalfoibhpdeldilfkdhpllcpnkb",
+        "comment": "Etsy Dark Mode | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 2.0.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "04ad8096-2db4-5146-a864-74547e4b4ccd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/apeekoalfoibhpdeldilfkdhpllcpnkb",
+        "comment": "Chrome Web Store entry for Etsy Dark Mode (apeekoalfoibhpdeldilfkdhpllcpnkb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d21b9e81-072c-5401-b0c6-2d7b50123430",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c69396ab68c255e12fdb9fb9aaa0426da429844c97035f966b76e76f18caa244",
+        "comment": "SHA-256 of extension package for Etsy Dark Mode (apeekoalfoibhpdeldilfkdhpllcpnkb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4d258c39-4b39-5b03-b122-3f801f8458e6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "goiakgmenddkogkapgomkcjadgnmijbo",
+        "comment": "Chatgpt Chrome Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 1.2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "abc43722-659d-5366-808c-a0adb47eeb1a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/goiakgmenddkogkapgomkcjadgnmijbo",
+        "comment": "Chrome Web Store entry for Chatgpt Chrome Extension (goiakgmenddkogkapgomkcjadgnmijbo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "33334154-f89b-5780-bdb0-a99042b0bdbd",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ca61f2dfbf35abd393c59911747ee3d0344457a33526a93e064c994169829d3f",
+        "comment": "SHA-256 of extension package for Chatgpt Chrome Extension (goiakgmenddkogkapgomkcjadgnmijbo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "25ee6fea-783b-5f00-a1a5-f1d47bc32500",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jbgnplnikghhmggnlpncjabgfnlkfeki",
+        "comment": "Youtube Dark Mode | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 2.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "c5dc53ad-b5de-57ea-b134-f1c0342ff85b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jbgnplnikghhmggnlpncjabgfnlkfeki",
+        "comment": "Chrome Web Store entry for Youtube Dark Mode (jbgnplnikghhmggnlpncjabgfnlkfeki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "02a056c0-48e6-5cc6-8b60-790fd9acb33e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b8617f47a555d1497e28ac6e6a682b8e2b000370beb6d326112572d5c0c5be1e",
+        "comment": "SHA-256 of extension package for Youtube Dark Mode (jbgnplnikghhmggnlpncjabgfnlkfeki)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6735267d-149e-5a2b-b088-7d1110e17653",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gdefjggdmmcaoaopgnjfjbcgipokcklj",
+        "comment": "Offline Games Classic Gam | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "aecb7969-1d64-5659-94fe-595160ba81d8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gdefjggdmmcaoaopgnjfjbcgipokcklj",
+        "comment": "Chrome Web Store entry for Offline Games Classic Gam (gdefjggdmmcaoaopgnjfjbcgipokcklj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6031de6f-0186-5c40-9144-c48eef3a980c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "335f202ce4adf97df3b428285c3ad1095ea09201f9fc38ba7179b3a0bb9b65f3",
+        "comment": "SHA-256 of extension package for Offline Games Classic Gam (gdefjggdmmcaoaopgnjfjbcgipokcklj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "46ba8079-65de-51e4-b18f-3ce9cda51160",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fehlijigmkgoodcacjjiejlnfnhmjfka",
+        "comment": "Unstoppable Extension Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f26bfefc-91e2-5724-9f0c-4a6dd5996c09",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fehlijigmkgoodcacjjiejlnfnhmjfka",
+        "comment": "Chrome Web Store entry for Unstoppable Extension Wallet (fehlijigmkgoodcacjjiejlnfnhmjfka)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5c6405df-72f6-595f-980b-330211021874",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8ee8a173cdb56ea13ba6b6bed96e9debc8e2ed0a809b96152282891aa73869e0",
+        "comment": "SHA-256 of extension package for Unstoppable Extension Wallet (fehlijigmkgoodcacjjiejlnfnhmjfka)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1e081c90-223c-5ff6-8258-37a6a0daac52",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "achncdbcgahnmpkiinclefkdflhcjkfe",
+        "comment": "Google Docs Dark Mode | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 2.1.52",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.1.52\""
+          }
+        ]
+      },
+      {
+        "uuid": "19b38c16-15b6-5f29-a305-19626b0ee3c1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/achncdbcgahnmpkiinclefkdflhcjkfe",
+        "comment": "Chrome Web Store entry for Google Docs Dark Mode (achncdbcgahnmpkiinclefkdflhcjkfe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3ac45071-55f7-5bf7-9533-a49744d310e3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "74f32e45b5d9b01767de2aa880f7494eec58f69cdfc858a36a7645038e9099ac",
+        "comment": "SHA-256 of extension package for Google Docs Dark Mode (achncdbcgahnmpkiinclefkdflhcjkfe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4874e996-75ac-5b52-925e-5278491b4c3c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nkbmneokhdalabfmafbgeimamddpgodc",
+        "comment": "Chatgpt On Google | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "153c0cf7-d0a1-5f95-84bd-25d70ecb203d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nkbmneokhdalabfmafbgeimamddpgodc",
+        "comment": "Chrome Web Store entry for Chatgpt On Google (nkbmneokhdalabfmafbgeimamddpgodc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dd7a3a23-9481-538c-84b6-78a90db6105c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3ecc9648f86439f3d894d26a5365ae73e6fe594473941f6f3a62d26d69ca77ef",
+        "comment": "SHA-256 of extension package for Chatgpt On Google (nkbmneokhdalabfmafbgeimamddpgodc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "fa606b93-3cdc-5b40-9008-1225d12b536b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aecbghfgcnonpneidgjmnfkjcgfkejok",
+        "comment": "Sebbot | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "25f263c2-625f-5dbc-8fd6-251b69e0deb3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aecbghfgcnonpneidgjmnfkjcgfkejok",
+        "comment": "Chrome Web Store entry for Sebbot (aecbghfgcnonpneidgjmnfkjcgfkejok)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "371f0c4a-ecde-548d-9fd3-1b6f17e7efc6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "349f5075914046f3c222b90a00e69488383fd47d52c4a68b6619e1d92f99aa33",
+        "comment": "SHA-256 of extension package for Sebbot (aecbghfgcnonpneidgjmnfkjcgfkejok)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d3b8fd87-7f76-5377-b7ba-7f6158410555",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jfbicpefoihffjoegkephpjpnpmkhmmf",
+        "comment": "Portline Auto Import | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "385d4941-27b3-5202-9674-ec837b48fa42",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jfbicpefoihffjoegkephpjpnpmkhmmf",
+        "comment": "Chrome Web Store entry for Portline Auto Import (jfbicpefoihffjoegkephpjpnpmkhmmf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "85efc3f4-bb8d-573f-990d-16f4c8debbb0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "73fdc19183c7c0190a93d220c53896898d4a6d548c6200085de3a91e827a8b64",
+        "comment": "SHA-256 of extension package for Portline Auto Import (jfbicpefoihffjoegkephpjpnpmkhmmf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1fb70b86-97f0-53c2-bf14-cba0f09f1f32",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lbpdjdkamagpjnohdcbcbodjgjafbclj",
+        "comment": "Ankigo Web Clipper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1bade8f4-3883-50c3-b8f3-0e1da6b91aee",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lbpdjdkamagpjnohdcbcbodjgjafbclj",
+        "comment": "Chrome Web Store entry for Ankigo Web Clipper (lbpdjdkamagpjnohdcbcbodjgjafbclj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dff8826b-ae81-510f-8df1-71cda073ca31",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8dea48253c5a825a6bfaced041b10e3c55b7296fb28cbc5e5183832d86476806",
+        "comment": "SHA-256 of extension package for Ankigo Web Clipper (lbpdjdkamagpjnohdcbcbodjgjafbclj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "005ecd2d-210a-5f77-a674-3cea8906e1d7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iaclcidolgjnpblhdalmildokfdmidlj",
+        "comment": "Chatgpt For Gmail | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 0.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "c96738f4-9c86-5790-9c67-764fd56a7698",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iaclcidolgjnpblhdalmildokfdmidlj",
+        "comment": "Chrome Web Store entry for Chatgpt For Gmail (iaclcidolgjnpblhdalmildokfdmidlj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2c4a088d-97f9-5410-a994-2e09d8a186e7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "47f12a82d305a2cf9d5f6c360fe8dbcda259ab817582df525899fdc7ced057e0",
+        "comment": "SHA-256 of extension package for Chatgpt For Gmail (iaclcidolgjnpblhdalmildokfdmidlj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8893cb50-a049-59f9-8a53-43f767c79928",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fkjngjgmgbfelejhbjblhjkehchifpcj",
+        "comment": "Smart Auto Refresh | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "58708b42-c13a-5691-ad31-273846e87b74",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fkjngjgmgbfelejhbjblhjkehchifpcj",
+        "comment": "Chrome Web Store entry for Smart Auto Refresh (fkjngjgmgbfelejhbjblhjkehchifpcj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7272c215-fbee-5441-a46b-f6fd27d15f6a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d1eed532eabfa149a74cb594028f5f12ecb0322b26ef712c9902c08d16832c20",
+        "comment": "SHA-256 of extension package for Smart Auto Refresh (fkjngjgmgbfelejhbjblhjkehchifpcj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "41ddbdfe-c78b-53fa-99b0-948f17b8d7da",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gjfkjdaeefjopkbbdbbbmjkmopjpkakn",
+        "comment": "Chatgpt Assistant Gpt Sea | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "b7eedd49-4f86-5abb-a9f4-43ef6cb20e3f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gjfkjdaeefjopkbbdbbbmjkmopjpkakn",
+        "comment": "Chrome Web Store entry for Chatgpt Assistant Gpt Sea (gjfkjdaeefjopkbbdbbbmjkmopjpkakn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b8051df7-1b46-5fc5-80c9-e53e710a81f8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "421f4b168298012a4f83c5f7469e73e8e5c334a0d2deba25d366248058138b44",
+        "comment": "SHA-256 of extension package for Chatgpt Assistant Gpt Sea (gjfkjdaeefjopkbbdbbbmjkmopjpkakn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f8de21ce-eea5-57a9-9787-c4b23205d8c3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "knekidcijllobnbkjommcageiddihloo",
+        "comment": "Reddit Dark Mode | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 2.0.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "5f0aaf99-c8e9-5803-875e-547ca4f80824",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/knekidcijllobnbkjommcageiddihloo",
+        "comment": "Chrome Web Store entry for Reddit Dark Mode (knekidcijllobnbkjommcageiddihloo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ada3bd69-2de4-58d6-ade0-fbb4c5607e3d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7f9146800dcf18ea0bc33c73f552b1222585fba4b7476b51f788f305553df1c9",
+        "comment": "SHA-256 of extension package for Reddit Dark Mode (knekidcijllobnbkjommcageiddihloo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "90f8d272-bfee-5f3d-b4d8-8fab6adc153d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bojmddipfbomamjglnjgolkffekkmcfa",
+        "comment": "Wikipedia Dark Mode | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 2.0.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "8692be4e-d6d3-5959-8381-3c50671ad451",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bojmddipfbomamjglnjgolkffekkmcfa",
+        "comment": "Chrome Web Store entry for Wikipedia Dark Mode (bojmddipfbomamjglnjgolkffekkmcfa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6898ffff-04c9-5ead-af49-f11369ce4baa",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3b4d84199d44222ed4ae3b2f315aedd29315c8fd035f474dd6743761395c6b3e",
+        "comment": "SHA-256 of extension package for Wikipedia Dark Mode (bojmddipfbomamjglnjgolkffekkmcfa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "eeddaaa2-5158-5edc-8ff8-eff5dadc7492",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nllgcmmepbpamdcbmikmlflnljifghlg",
+        "comment": "Chatgpt Download For Pc M | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "2cab2a9e-039a-5f37-ae67-788386c3066d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nllgcmmepbpamdcbmikmlflnljifghlg",
+        "comment": "Chrome Web Store entry for Chatgpt Download For Pc M (nllgcmmepbpamdcbmikmlflnljifghlg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d9d703fd-8812-5871-813a-82134ed71627",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7ef5b607b3296f17e68c9a7c858198db748f800e9f53363bcb483c9423b06eb9",
+        "comment": "SHA-256 of extension package for Chatgpt Download For Pc M (nllgcmmepbpamdcbmikmlflnljifghlg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "23adc57f-a925-58fd-9744-430c54f26833",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kafinnamcamcmkeellbfbicmheeohick",
+        "comment": "Amazon Dark Mode | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 2.0.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "e934c9d7-09c6-5818-882b-327cb5ae4dc1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kafinnamcamcmkeellbfbicmheeohick",
+        "comment": "Chrome Web Store entry for Amazon Dark Mode (kafinnamcamcmkeellbfbicmheeohick)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2959ed35-8015-5ddb-b75b-32325847368b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "51833857b7aa34a9098c4107dae7a4ad76cd12dd6e2761d8940981f8e91a2280",
+        "comment": "SHA-256 of extension package for Amazon Dark Mode (kafinnamcamcmkeellbfbicmheeohick)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "42a6a629-3097-56e4-bfca-9dc957d56a16",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jhjfjagjiggiihadimhlmbchlddadfcn",
+        "comment": "Bubbly Search | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-16 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "a74e0f50-a2a3-5c76-9524-baac196bb26d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jhjfjagjiggiihadimhlmbchlddadfcn",
+        "comment": "Chrome Web Store entry for Bubbly Search (jhjfjagjiggiihadimhlmbchlddadfcn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5d36c90f-b195-52be-bf13-4329f378c1d6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7b17b361739dbb623c5dec5e570a85491db5e1ced50f59a594c6f00cc12a0afa",
+        "comment": "SHA-256 of extension package for Bubbly Search (jhjfjagjiggiihadimhlmbchlddadfcn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "70187865-e617-5413-869b-6a580f3b47aa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oihjieiibjllbdekajbemijmdaoehnpe",
+        "comment": "Quick Engine Switch | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-10-16 | Version: 0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "b547e6a0-7879-565f-8010-b33048c6406d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oihjieiibjllbdekajbemijmdaoehnpe",
+        "comment": "Chrome Web Store entry for Quick Engine Switch (oihjieiibjllbdekajbemijmdaoehnpe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5926056b-8c78-5a80-84c2-61c63cf90c9e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "205efcd5fad973ff03ed7c372d5595deed89d736dff0878b43d4674008235c3d",
+        "comment": "SHA-256 of extension package for Quick Engine Switch (oihjieiibjllbdekajbemijmdaoehnpe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2a72a129-c062-54a9-859f-b69b2d77999c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "djnfcoijjepkbaljippjeifbmjdcpeno",
+        "comment": "Search Toggler | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-10-16 | Version: 1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "2dd1a06b-b2f7-5497-b959-473263addd73",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/djnfcoijjepkbaljippjeifbmjdcpeno",
+        "comment": "Chrome Web Store entry for Search Toggler (djnfcoijjepkbaljippjeifbmjdcpeno)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7d9f592b-4981-5d6c-ae8a-55b027d38b6e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ae1f221cfb4aa841fbdbf874516f7a041976c2420c04edfaf1e6a037abe6b965",
+        "comment": "SHA-256 of extension package for Search Toggler (djnfcoijjepkbaljippjeifbmjdcpeno)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "248f1727-910e-521a-bdd4-4e7949aa873c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bbnjhnlnhdpahgiimbcaoegafogfmmin",
+        "comment": "Happy Wild Cats | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-10-16 | Version: 1.0.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "4a99bf5a-4011-562f-9906-4f3d46f8d45f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bbnjhnlnhdpahgiimbcaoegafogfmmin",
+        "comment": "Chrome Web Store entry for Happy Wild Cats (bbnjhnlnhdpahgiimbcaoegafogfmmin)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "181cc8c9-7c50-56fd-9a9d-2317a3f0cf6d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "28ea2b10b481fcdea284448366408d17d52f68a1ce8db7f83ca77ba9f9f74fba",
+        "comment": "SHA-256 of extension package for Happy Wild Cats (bbnjhnlnhdpahgiimbcaoegafogfmmin)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "76943149-8882-5683-bf1d-8f83db329744",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nkgcppdnohpaioggceekcgcooacmpfjh",
+        "comment": "Explore My Fitness | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-10-16 | Version: 0.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "7651691d-5e16-592a-ac29-1ea0a3b66ec5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nkgcppdnohpaioggceekcgcooacmpfjh",
+        "comment": "Chrome Web Store entry for Explore My Fitness (nkgcppdnohpaioggceekcgcooacmpfjh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d11b8feb-0d30-56e8-896e-f6f8f70cfb12",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a8fa7c242bd179fc87c1209f0589cc5cb8eff12dbf4e7f51ac46d997d2afab71",
+        "comment": "SHA-256 of extension package for Explore My Fitness (nkgcppdnohpaioggceekcgcooacmpfjh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1244cc02-d70a-5eb0-b8fd-0a55b1cc3073",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gadfkpbjhlleamgiodolgecpcafalgcj",
+        "comment": "News Searcher Pro | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f41f9232-5fca-5b47-a645-e358dc933e96",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gadfkpbjhlleamgiodolgecpcafalgcj",
+        "comment": "Chrome Web Store entry for News Searcher Pro (gadfkpbjhlleamgiodolgecpcafalgcj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "72cc14b0-a343-5cb8-84b1-4bb6ea0bea0c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "llepaccgikjnlofhkgidobmmngedgejd",
+        "comment": "llepaccgikjnlofhkgidobmmngedgejd | Source: https://malext.io/reports/SearchJack | Store: Google Chrome | Added: 2026-10-16",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "ece8338a-3453-5fba-9e94-2f69a9321c34",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/llepaccgikjnlofhkgidobmmngedgejd",
+        "comment": "Chrome Web Store entry for llepaccgikjnlofhkgidobmmngedgejd (llepaccgikjnlofhkgidobmmngedgejd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "da6edc1f-eb4c-56bc-80c4-784426360ec3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pjbkppdckhokepdfnlfmljjgnbnjfabg",
+        "comment": "View Maps & Directions | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-16 | Version: 1.0.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "76a03c5f-e67e-5dcb-8be8-ee25ccc7f1a3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pjbkppdckhokepdfnlfmljjgnbnjfabg",
+        "comment": "Chrome Web Store entry for View Maps & Directions (pjbkppdckhokepdfnlfmljjgnbnjfabg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9a9d5e47-f47b-5d39-a699-d44fd4be0275",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "75c95c235f58872e3376b29bb3aa6a07f4db3848936570e8689625a83a453605",
+        "comment": "SHA-256 of extension package for View Maps & Directions (pjbkppdckhokepdfnlfmljjgnbnjfabg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "020155c6-b898-5103-8e4e-de64eba25d15",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nkeddnodkkdijfghdeilhnjodlgjceaj",
+        "comment": "nkeddnodkkdijfghdeilhnjodlgjceaj | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-16 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "19751557-9c97-5ff4-bfee-c401aa0869ea",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nkeddnodkkdijfghdeilhnjodlgjceaj",
+        "comment": "Chrome Web Store entry for nkeddnodkkdijfghdeilhnjodlgjceaj (nkeddnodkkdijfghdeilhnjodlgjceaj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "98d5f7a4-096b-5893-a685-b84ab73f82f6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "34a4162a116955f6edc455fd034c0359fc5c59820b66ccfdba2f23e3b3311525",
+        "comment": "SHA-256 of extension package for nkeddnodkkdijfghdeilhnjodlgjceaj (nkeddnodkkdijfghdeilhnjodlgjceaj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c1d4b423-c8c7-5339-a1f6-563dc3649429",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dbgccacohbfpiagdmlgbomeniedaciec",
+        "comment": "Maps Driving Directions | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-16 | Version: 2.7.7.8",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.7.7.8\""
+          }
+        ]
+      },
+      {
+        "uuid": "8dd9ece4-3416-578c-bfde-bbb8f83286a2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dbgccacohbfpiagdmlgbomeniedaciec",
+        "comment": "Chrome Web Store entry for Maps Driving Directions (dbgccacohbfpiagdmlgbomeniedaciec)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "37a91474-1060-50c7-bb60-5ff1180a6486",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "981a252d9420ec4978c8d125b72e23d169fc49743c44836ae9f19bba0824a95f",
+        "comment": "SHA-256 of extension package for Maps Driving Directions (dbgccacohbfpiagdmlgbomeniedaciec)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "a521933d-2494-5db2-a0b1-528fce130653",
         "type": "text",
