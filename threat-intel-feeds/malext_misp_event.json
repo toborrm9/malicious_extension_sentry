@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-16",
-    "timestamp": "1792178620",
+    "date": "2026-10-17",
+    "timestamp": "1792255721",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,236 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "0f3658ef-b933-5242-b1c7-665a5ad2f446",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eocejibejgjafkgojgpgeleedkfeopha",
+        "comment": "Vercel Api Tester Deploy | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-17 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "44ab9dad-55d7-5a29-9bd7-39eaaa2e3d32",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eocejibejgjafkgojgpgeleedkfeopha",
+        "comment": "Chrome Web Store entry for Vercel Api Tester Deploy (eocejibejgjafkgojgpgeleedkfeopha)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "392ecf06-9ef4-539a-8ae2-80716e6a9d39",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5881b5f092bbc88045693f63cb0b4469a792eb3edb9b79d5133373b82f0d2432",
+        "comment": "SHA-256 of extension package for Vercel Api Tester Deploy (eocejibejgjafkgojgpgeleedkfeopha)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f0b70a8f-86c3-5959-8744-aa4f13165dc4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "afkfmfigibdkhgakilenadkdchfacccp",
+        "comment": "Wyld Cookie Editor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-17 | Version: 0.3.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.3.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "28c4b408-7d33-5b51-af42-f8211421e9a6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/afkfmfigibdkhgakilenadkdchfacccp",
+        "comment": "Chrome Web Store entry for Wyld Cookie Editor (afkfmfigibdkhgakilenadkdchfacccp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5c4fc577-c55f-505a-8652-7eb51a0ba2b0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "82e7f986941806dba84b18ba0888a0e0f35799ca7c5a1df02cc107373e5ed775",
+        "comment": "SHA-256 of extension package for Wyld Cookie Editor (afkfmfigibdkhgakilenadkdchfacccp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "01447f23-99c1-5cf9-8835-aa130d9974fd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hiofiefcoddmfchphleoilcipfancnpj",
+        "comment": "Cyberquest Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-17 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "65b2d79f-0d3f-5705-ba67-37b335d0d342",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hiofiefcoddmfchphleoilcipfancnpj",
+        "comment": "Chrome Web Store entry for Cyberquest Extension (hiofiefcoddmfchphleoilcipfancnpj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "927bf4ab-1bbf-5772-871c-bad176c55fda",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c90f21b5def196d45137e2c80846023f21f97835160c95a8ddbd8bdd761bc9b5",
+        "comment": "SHA-256 of extension package for Cyberquest Extension (hiofiefcoddmfchphleoilcipfancnpj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b748d9e1-adcd-59eb-a785-d9d7c2af01dd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "enkdglikhhjangbkmlkfmignkgchlhkm",
+        "comment": "\u4e91\u68afVPN | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-10-17 | Version: 2.1.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.1.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "2bb40530-5385-5178-963e-0c34ea13c5b3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/enkdglikhhjangbkmlkfmignkgchlhkm",
+        "comment": "Chrome Web Store entry for \u4e91\u68afVPN (enkdglikhhjangbkmlkfmignkgchlhkm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "64be1225-55da-5a01-88e6-42f03146830e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "898f5ffc7b7e52e909ff5e88f63f54cf4e8700da4e194b85c2eec5081dffb431",
+        "comment": "SHA-256 of extension package for \u4e91\u68afVPN (enkdglikhhjangbkmlkfmignkgchlhkm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3c1bf3a8-0dc0-51b7-8c5e-f2bbbc9aa998",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jgmcmdfkmcpgakbabkhgkpponillmphl",
+        "comment": "HideU VPN | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-10-17 | Version: 2.1.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.1.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "d3f16496-4f47-561d-9f4c-338ae57be774",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jgmcmdfkmcpgakbabkhgkpponillmphl",
+        "comment": "Chrome Web Store entry for HideU VPN (jgmcmdfkmcpgakbabkhgkpponillmphl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "182c3589-b555-5ff2-a9bd-ec12402b33e8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "54b802df6d4450febca03a1ee716b598aedd0085c4f4c6b0a52c8f1c926dfeba",
+        "comment": "SHA-256 of extension package for HideU VPN (jgmcmdfkmcpgakbabkhgkpponillmphl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "99255be8-9208-5493-8eb9-962198a5023a",
         "type": "text",
