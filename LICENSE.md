@@ -8,7 +8,7 @@ Copyright (c) 2026 toborrm9
 
 The data files listed below are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-Code in this repository is licensed separately under the MIT License. See `LICENSE.md`.
+Code in this repository is licensed separately under the MIT License. See `LICENSE.md` below.
 
 This license applies to versions of the data files published on or after 17 October 2026. Versions published before that date remain available under the MIT License.
 
@@ -83,7 +83,7 @@ Validate entries before using them for automated blocking, removal, or enforceme
 
 ## Corrections and Removal Requests
 
-If you believe an entry is incorrect, report is here https://malext.io/report with the extension ID and supporting evidence. Valid corrections will be applied in the next update.
+If you believe an entry is incorrect, report it here https://malext.io/report with the extension ID and supporting evidence. Valid corrections will be applied in the next update.
 
 ---
 
@@ -98,3 +98,31 @@ https://creativecommons.org/licenses/by/4.0/legalcode
 
 Questions, corrections, or feed and partnership inquiries:
 https://github.com/toborrm9/malicious_extension_sentry/issues
+
+
+
+---
+
+## MIT License (Code)
+
+Applies to: `malext.py`
+
+Copyright (c) 2026 toborrm9
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
