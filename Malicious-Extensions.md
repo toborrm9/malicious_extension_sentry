@@ -1,5 +1,10 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| eocejibejgjafkgojgpgeleedkfeopha | Vercel Api Tester Deploy | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
+| afkfmfigibdkhgakilenadkdchfacccp | Wyld Cookie Editor | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
+| hiofiefcoddmfchphleoilcipfancnpj | Cyberquest Extension | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
+| enkdglikhhjangbkmlkfmignkgchlhkm | 云梯VPN | Malware | MalExt Analysis | 17/10/26 | No | Google Chrome
+| jgmcmdfkmcpgakbabkhgkpponillmphl | HideU VPN | Malware | MalExt Analysis | 17/10/26 | No | Google Chrome
 | gllclaggnfeijmgingealkpandllclog | Webquake Abyss Of Pandemo | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
 | jeialoiiafkbhaknkifabhhmpikamajb | Webquake Operation Urth M | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
 | iiokbpbdoggnjeoeepolocmlnpepobbf | Webquake Beyond Belief | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
