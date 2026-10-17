@@ -1,12 +1,62 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-16T19:23:38Z",
+  "generated": "2026-10-17T16:48:40Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 7713,
+  "total_indicators": 7718,
   "indicators": [
+    {
+      "extension_id": "eocejibejgjafkgojgpgeleedkfeopha",
+      "name": "Vercel Api Tester Deploy",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/eocejibejgjafkgojgpgeleedkfeopha",
+      "sha256": "5881b5f092bbc88045693f63cb0b4469a792eb3edb9b79d5133373b82f0d2432",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "afkfmfigibdkhgakilenadkdchfacccp",
+      "name": "Wyld Cookie Editor",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/afkfmfigibdkhgakilenadkdchfacccp",
+      "sha256": "82e7f986941806dba84b18ba0888a0e0f35799ca7c5a1df02cc107373e5ed775",
+      "version": "0.3.2"
+    },
+    {
+      "extension_id": "hiofiefcoddmfchphleoilcipfancnpj",
+      "name": "Cyberquest Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/hiofiefcoddmfchphleoilcipfancnpj",
+      "sha256": "c90f21b5def196d45137e2c80846023f21f97835160c95a8ddbd8bdd761bc9b5",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "enkdglikhhjangbkmlkfmignkgchlhkm",
+      "name": "\u4e91\u68afVPN",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/enkdglikhhjangbkmlkfmignkgchlhkm",
+      "sha256": "898f5ffc7b7e52e909ff5e88f63f54cf4e8700da4e194b85c2eec5081dffb431",
+      "version": "2.1.6"
+    },
+    {
+      "extension_id": "jgmcmdfkmcpgakbabkhgkpponillmphl",
+      "name": "HideU VPN",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/jgmcmdfkmcpgakbabkhgkpponillmphl",
+      "sha256": "54b802df6d4450febca03a1ee716b598aedd0085c4f4c6b0a52c8f1c926dfeba",
+      "version": "2.1.6"
+    },
     {
       "extension_id": "gllclaggnfeijmgingealkpandllclog",
       "name": "Webquake Abyss Of Pandemo",
