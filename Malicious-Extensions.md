@@ -1,5 +1,10 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| eaddpginckbggngfiipmjigfdfgfplef | Gerar Chave de Conexão do WhatsApp | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| nmpilknjfdfdfhdhdnllfngbknpdgpfh | Odin Chat Passkey | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| dggdnpmmaaiagabpilnecpdenaepaaje | Gerar Chave De ConexãO do WhatsApp | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
+| fjjelbbjhjinkachkijmblfgfabklbdb | Boostbay Analytics For Oz | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
+| lpdohkbbcphhndlklfodhbabkjijhjeb | UltraWide Streaming: custom fullscreen ratios [QVI] | Malware | Store Monitoring | 17/10/26 | No | Google Chrome
 | eocejibejgjafkgojgpgeleedkfeopha | Vercel Api Tester Deploy | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | afkfmfigibdkhgakilenadkdchfacccp | Wyld Cookie Editor | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | hiofiefcoddmfchphleoilcipfancnpj | Cyberquest Extension | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
