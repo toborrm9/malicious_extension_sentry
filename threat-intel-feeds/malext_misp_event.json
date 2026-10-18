@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-17",
-    "timestamp": "1792255721",
+    "date": "2026-10-18",
+    "timestamp": "1792342622",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,222 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "846fc555-cf85-504f-9ad5-5ded7eab85a6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eaddpginckbggngfiipmjigfdfgfplef",
+        "comment": "Gerar Chave de Conex\u00e3o do WhatsApp | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "5607237d-347d-5ca8-a00a-cc0d94d0d8f0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eaddpginckbggngfiipmjigfdfgfplef",
+        "comment": "Chrome Web Store entry for Gerar Chave de Conex\u00e3o do WhatsApp (eaddpginckbggngfiipmjigfdfgfplef)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ea7f9730-0a84-53ff-b24d-d542448f5c9b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "65013e89fa1c11906e53f821d41ee4ec5ff024d5ae70a28be4730c2fb5cc2af7",
+        "comment": "SHA-256 of extension package for Gerar Chave de Conex\u00e3o do WhatsApp (eaddpginckbggngfiipmjigfdfgfplef)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f8b8dd00-a316-52dd-9b3c-07a490895647",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nmpilknjfdfdfhdhdnllfngbknpdgpfh",
+        "comment": "Odin Chat Passkey | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "ab904993-1f6a-5e92-818d-6628ad81430d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nmpilknjfdfdfhdhdnllfngbknpdgpfh",
+        "comment": "Chrome Web Store entry for Odin Chat Passkey (nmpilknjfdfdfhdhdnllfngbknpdgpfh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dd880fe6-eccb-56e3-9d0c-2b604090e13a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "50f684695c7867d2af0961e331c03de27cf26db951df3022d89ce450f8fb9a3b",
+        "comment": "SHA-256 of extension package for Odin Chat Passkey (nmpilknjfdfdfhdhdnllfngbknpdgpfh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f0dc5cfc-10c4-594e-942e-980fa6206ffd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dggdnpmmaaiagabpilnecpdenaepaaje",
+        "comment": "Gerar Chave De Conex\u00e3O do WhatsApp | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-17 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "64071ac2-06ec-5c6c-bdbc-2e39c4d8e108",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dggdnpmmaaiagabpilnecpdenaepaaje",
+        "comment": "Chrome Web Store entry for Gerar Chave De Conex\u00e3O do WhatsApp (dggdnpmmaaiagabpilnecpdenaepaaje)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f317838c-fc83-5a3a-ab4b-855d316e5e79",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7562d48b1f5cda6c1feccd7c454340138668bf336a673e24634a31c612e92d07",
+        "comment": "SHA-256 of extension package for Gerar Chave De Conex\u00e3O do WhatsApp (dggdnpmmaaiagabpilnecpdenaepaaje)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7578ecbd-59d8-596c-986a-ecbd58f3690a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fjjelbbjhjinkachkijmblfgfabklbdb",
+        "comment": "Boostbay Analytics For Oz | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-17 | Version: 0.2.58",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.2.58\""
+          }
+        ]
+      },
+      {
+        "uuid": "fac4c305-5f51-53cf-bb06-294d8e7dcb98",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fjjelbbjhjinkachkijmblfgfabklbdb",
+        "comment": "Chrome Web Store entry for Boostbay Analytics For Oz (fjjelbbjhjinkachkijmblfgfabklbdb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "169eb059-2c2f-570c-bb17-d16ae2093a23",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6f40faa6637792f10df3c9a2002c2353771a6d53edda78f096119190bd7bacba",
+        "comment": "SHA-256 of extension package for Boostbay Analytics For Oz (fjjelbbjhjinkachkijmblfgfabklbdb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2d8ee00b-b281-5dfa-b4f2-f558fc74bf55",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lpdohkbbcphhndlklfodhbabkjijhjeb",
+        "comment": "UltraWide Streaming: custom fullscreen ratios [QVI] | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-17 | Version: 1.0.67",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.67\""
+          }
+        ]
+      },
+      {
+        "uuid": "31059f01-ee1c-5d09-9580-c9af13f5d7d1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lpdohkbbcphhndlklfodhbabkjijhjeb",
+        "comment": "Chrome Web Store entry for UltraWide Streaming: custom fullscreen ratios [QVI] (lpdohkbbcphhndlklfodhbabkjijhjeb)",
+        "distribution": "5"
+      },
       {
         "uuid": "0f3658ef-b933-5242-b1c7-665a5ad2f446",
         "type": "text",
