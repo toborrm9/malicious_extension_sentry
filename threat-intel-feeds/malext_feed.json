@@ -1,12 +1,62 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-17T16:48:40Z",
+  "generated": "2026-10-18T16:57:01Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 7718,
+  "total_indicators": 7723,
   "indicators": [
+    {
+      "extension_id": "eaddpginckbggngfiipmjigfdfgfplef",
+      "name": "Gerar Chave de Conex\u00e3o do WhatsApp",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/eaddpginckbggngfiipmjigfdfgfplef",
+      "sha256": "65013e89fa1c11906e53f821d41ee4ec5ff024d5ae70a28be4730c2fb5cc2af7",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "nmpilknjfdfdfhdhdnllfngbknpdgpfh",
+      "name": "Odin Chat Passkey",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/nmpilknjfdfdfhdhdnllfngbknpdgpfh",
+      "sha256": "50f684695c7867d2af0961e331c03de27cf26db951df3022d89ce450f8fb9a3b",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "dggdnpmmaaiagabpilnecpdenaepaaje",
+      "name": "Gerar Chave De Conex\u00e3O do WhatsApp",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/dggdnpmmaaiagabpilnecpdenaepaaje",
+      "sha256": "7562d48b1f5cda6c1feccd7c454340138668bf336a673e24634a31c612e92d07",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "fjjelbbjhjinkachkijmblfgfabklbdb",
+      "name": "Boostbay Analytics For Oz",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/fjjelbbjhjinkachkijmblfgfabklbdb",
+      "sha256": "6f40faa6637792f10df3c9a2002c2353771a6d53edda78f096119190bd7bacba",
+      "version": "0.2.58"
+    },
+    {
+      "extension_id": "lpdohkbbcphhndlklfodhbabkjijhjeb",
+      "name": "UltraWide Streaming: custom fullscreen ratios [QVI]",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/lpdohkbbcphhndlklfodhbabkjijhjeb",
+      "sha256": "",
+      "version": "1.0.67"
+    },
     {
       "extension_id": "eocejibejgjafkgojgpgeleedkfeopha",
       "name": "Vercel Api Tester Deploy",
