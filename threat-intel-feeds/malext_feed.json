@@ -1,12 +1,152 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-18T16:57:01Z",
+  "generated": "2026-10-20T14:04:51Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 7723,
+  "total_indicators": 7738,
   "indicators": [
+    {
+      "extension_id": "hbnpppemeehgdkepgiemjkaolkijcilj",
+      "name": "ChatGPT for Google by cloudHQ",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-20",
+      "store_url": "https://chromewebstore.google.com/detail/hbnpppemeehgdkepgiemjkaolkijcilj",
+      "sha256": "3cd93119a03cdc2b117a870432f8b6532145e3400974e80e6b1b2da0140c63b7",
+      "version": "2.0.2.38"
+    },
+    {
+      "extension_id": "hcdlobggehbnkefhbnnpjfcempkblaid",
+      "name": "Zapermenu Passkey",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-20",
+      "store_url": "https://chromewebstore.google.com/detail/hcdlobggehbnkefhbnnpjfcempkblaid",
+      "sha256": "456211b8a135faa3c8273d855e26b675d6c1ffccb60a1d822a0f89034df4999c",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "mgocclhoghbkdobkhepaahfmpplceoij",
+      "name": "Redirect+ Connector",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-20",
+      "store_url": "https://chromewebstore.google.com/detail/mgocclhoghbkdobkhepaahfmpplceoij",
+      "sha256": "106e6d9c51f73b4aae1fe4f70502b1a62b79d90398df277428fc7e96d4829327",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "bdgkceaednfobbchhfjnkojompcocadm",
+      "name": "Cupom Radar Conector",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-20",
+      "store_url": "https://chromewebstore.google.com/detail/bdgkceaednfobbchhfjnkojompcocadm",
+      "sha256": "280660226dafc14ef0e31fe6c1769d4e0ae8aebe9beacf2b3a9aefbbd2058dca",
+      "version": "1.1.3"
+    },
+    {
+      "extension_id": "fkhdphklmnddcffcagaaheehfblonhjf",
+      "name": "Letalk Whatsapp Bridge",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-20",
+      "store_url": "https://chromewebstore.google.com/detail/fkhdphklmnddcffcagaaheehfblonhjf",
+      "sha256": "6b942d6a2c081b8a8a7bfd7274cd3f38b24e37189a42c1b2f13f1417587e984e",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "fcblgiphlneejkokhnaagmjombnfdnog",
+      "name": "Chatgpt For Gmail by cloudHQ",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-20",
+      "store_url": "https://chromewebstore.google.com/detail/fcblgiphlneejkokhnaagmjombnfdnog",
+      "sha256": "4571221e1bc2f33bc36ab0ecc198a42b982a8b1772854ae05af2b7d4009080c8",
+      "version": "2.0.3.8"
+    },
+    {
+      "extension_id": "bcddfclcghmjpkihmjdlnejflhccdjgg",
+      "name": "Whatsgw",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-20",
+      "store_url": "https://chromewebstore.google.com/detail/bcddfclcghmjpkihmjdlnejflhccdjgg",
+      "sha256": "b86ee9c5c4b701e95c78df3c69237193a423b3205bc823039218e29fe7b10cb6",
+      "version": "1.9.2"
+    },
+    {
+      "extension_id": "kapoabaoamgiilmlanmfejgfomlnccph",
+      "name": "ChatGPT Sidebar by cloudHQ",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-20",
+      "store_url": "https://chromewebstore.google.com/detail/kapoabaoamgiilmlanmfejgfomlnccph",
+      "sha256": "0eeedb08dfc8e0ddd944be9f57de59c40e9afbe20677b5380fe77a6d78232758",
+      "version": "2.0.2.39"
+    },
+    {
+      "extension_id": "bkmdnhpmbdhcbhgiolbgcmfiledlbbdl",
+      "name": "Amazonico Lens",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-20",
+      "store_url": "https://chromewebstore.google.com/detail/bkmdnhpmbdhcbhgiolbgcmfiledlbbdl",
+      "sha256": "e48778d600db5534d807efb5e7fbc9d25cd9fc630d4071afe3ba5824f3349d4b",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "icjgcdmppmnahjhihebmfbcdakjnfekd",
+      "name": "Zenva Ai",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-19",
+      "store_url": "https://chromewebstore.google.com/detail/icjgcdmppmnahjhihebmfbcdakjnfekd",
+      "sha256": "b78f91e9a18d9d8cd88b2f85fc07c84fe964f23293b5a306ae41a339f8fe899a",
+      "version": "1.3.0"
+    },
+    {
+      "extension_id": "njibjcjojblgkcoldniggljlokplbjhb",
+      "name": "Land Automation Software",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-19",
+      "store_url": "https://chromewebstore.google.com/detail/njibjcjojblgkcoldniggljlokplbjhb",
+      "sha256": "e597a15bec5109bb4cdc16ec845391b4a15e2c5603d648c8e465fa0116a0eb2c",
+      "version": "19"
+    },
+    {
+      "extension_id": "elnanopkpogbhmgppdoapkjlfigecncf",
+      "name": "ChatGPT For Chrome - ChatGPT assistant",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-19",
+      "store_url": "https://chromewebstore.google.com/detail/elnanopkpogbhmgppdoapkjlfigecncf",
+      "sha256": "6323da6c473e3590d0e475dc597f7ba1bc2af276ab46fd608339935971884b91",
+      "version": "1.17.4"
+    },
+    {
+      "extension_id": "mllkpgcojiooenmengajhkailfjocond",
+      "name": "Chatgpt For Gmail",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-19",
+      "store_url": "https://chromewebstore.google.com/detail/mllkpgcojiooenmengajhkailfjocond",
+      "sha256": "adc8831ed68a7265c44bf7f2f3f8fb7ffdd247e7e11de6eb08e685d4d1197563",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "njoajiajcpfbaclllemflffnhchblnem",
+      "name": "Nomination Crm",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/njoajiajcpfbaclllemflffnhchblnem",
+      "sha256": "03933a1161e2757f4acabcb3baf5a7ce896cbea178a853d199ccedea0c015581",
+      "version": "1.4"
+    },
     {
       "extension_id": "eaddpginckbggngfiipmjigfdfgfplef",
       "name": "Gerar Chave de Conex\u00e3o do WhatsApp",
@@ -51,9 +191,9 @@
       "extension_id": "lpdohkbbcphhndlklfodhbabkjijhjeb",
       "name": "UltraWide Streaming: custom fullscreen ratios [QVI]",
       "source": "Store Monitoring",
-      "store": "Google Chrome",
+      "store": "Microsoft Edge",
       "insert_date": "2026-10-17",
-      "store_url": "https://chromewebstore.google.com/detail/lpdohkbbcphhndlklfodhbabkjijhjeb",
+      "store_url": "https://microsoftedge.microsoft.com/addons/detail/lpdohkbbcphhndlklfodhbabkjijhjeb",
       "sha256": "",
       "version": "1.0.67"
     },
@@ -106,6 +246,16 @@
       "store_url": "https://chromewebstore.google.com/detail/jgmcmdfkmcpgakbabkhgkpponillmphl",
       "sha256": "54b802df6d4450febca03a1ee716b598aedd0085c4f4c6b0a52c8f1c926dfeba",
       "version": "2.1.6"
+    },
+    {
+      "extension_id": "igmkpfjhphblhbnaflabakakodffoehi",
+      "name": "Busqy - Criador de Divulga\u00e7\u00f5es",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-16",
+      "store_url": "https://chromewebstore.google.com/detail/igmkpfjhphblhbnaflabakakodffoehi",
+      "sha256": "e67786be5997377140765d11bea0f44500c7f655c07691e05a9a12796a67fc50",
+      "version": "1.2.1"
     },
     {
       "extension_id": "gllclaggnfeijmgingealkpandllclog",
