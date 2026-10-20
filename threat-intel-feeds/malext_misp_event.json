@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-18",
-    "timestamp": "1792342622",
+    "date": "2026-10-20",
+    "timestamp": "1792505093",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,650 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "50276518-25fd-5921-9c92-083680a0353d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hbnpppemeehgdkepgiemjkaolkijcilj",
+        "comment": "ChatGPT for Google by cloudHQ | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-20 | Version: 2.0.2.38",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.2.38\""
+          }
+        ]
+      },
+      {
+        "uuid": "e8720cbf-84a7-5884-838b-60773305be78",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hbnpppemeehgdkepgiemjkaolkijcilj",
+        "comment": "Chrome Web Store entry for ChatGPT for Google by cloudHQ (hbnpppemeehgdkepgiemjkaolkijcilj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "36338728-198e-5d3a-abb8-a7bee29c237a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3cd93119a03cdc2b117a870432f8b6532145e3400974e80e6b1b2da0140c63b7",
+        "comment": "SHA-256 of extension package for ChatGPT for Google by cloudHQ (hbnpppemeehgdkepgiemjkaolkijcilj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8bace2ee-dd0a-526b-8abc-799878b40d7c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hcdlobggehbnkefhbnnpjfcempkblaid",
+        "comment": "Zapermenu Passkey | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-20 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "055fe52c-d2f3-584c-9d7f-c9c163308946",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hcdlobggehbnkefhbnnpjfcempkblaid",
+        "comment": "Chrome Web Store entry for Zapermenu Passkey (hcdlobggehbnkefhbnnpjfcempkblaid)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "61b68e30-b586-5d38-9b9d-f179b5017417",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "456211b8a135faa3c8273d855e26b675d6c1ffccb60a1d822a0f89034df4999c",
+        "comment": "SHA-256 of extension package for Zapermenu Passkey (hcdlobggehbnkefhbnnpjfcempkblaid)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5b7dd6e6-70a4-58c9-9143-c9c2df921cb0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mgocclhoghbkdobkhepaahfmpplceoij",
+        "comment": "Redirect+ Connector | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-20 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "f1b425a9-4188-57c8-86d0-2c2794ff1215",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mgocclhoghbkdobkhepaahfmpplceoij",
+        "comment": "Chrome Web Store entry for Redirect+ Connector (mgocclhoghbkdobkhepaahfmpplceoij)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3a3d0147-cc2b-5eb1-9ba1-9cdb4074bc6f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "106e6d9c51f73b4aae1fe4f70502b1a62b79d90398df277428fc7e96d4829327",
+        "comment": "SHA-256 of extension package for Redirect+ Connector (mgocclhoghbkdobkhepaahfmpplceoij)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "613df242-25b6-54b2-b711-61d401bc3d8f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bdgkceaednfobbchhfjnkojompcocadm",
+        "comment": "Cupom Radar Conector | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-20 | Version: 1.1.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "d1d06b12-17a0-5552-9c17-d4df0657f183",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bdgkceaednfobbchhfjnkojompcocadm",
+        "comment": "Chrome Web Store entry for Cupom Radar Conector (bdgkceaednfobbchhfjnkojompcocadm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ef0b329a-7f9a-56b2-8016-7edea62d8fc6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "280660226dafc14ef0e31fe6c1769d4e0ae8aebe9beacf2b3a9aefbbd2058dca",
+        "comment": "SHA-256 of extension package for Cupom Radar Conector (bdgkceaednfobbchhfjnkojompcocadm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b5991121-2453-5c38-aa50-02ac3fad1f44",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fkhdphklmnddcffcagaaheehfblonhjf",
+        "comment": "Letalk Whatsapp Bridge | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-20 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "8e5705da-8635-57db-8ba4-d4473b017add",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fkhdphklmnddcffcagaaheehfblonhjf",
+        "comment": "Chrome Web Store entry for Letalk Whatsapp Bridge (fkhdphklmnddcffcagaaheehfblonhjf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8322cdc0-0791-5c6a-a6bb-89a1e6cc25e7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6b942d6a2c081b8a8a7bfd7274cd3f38b24e37189a42c1b2f13f1417587e984e",
+        "comment": "SHA-256 of extension package for Letalk Whatsapp Bridge (fkhdphklmnddcffcagaaheehfblonhjf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5fea833a-a5dd-5d0f-a039-908ef4961b8a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fcblgiphlneejkokhnaagmjombnfdnog",
+        "comment": "Chatgpt For Gmail by cloudHQ | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-20 | Version: 2.0.3.8",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.3.8\""
+          }
+        ]
+      },
+      {
+        "uuid": "5abc1093-5f42-5f7c-aa6e-d52f6c2e8363",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fcblgiphlneejkokhnaagmjombnfdnog",
+        "comment": "Chrome Web Store entry for Chatgpt For Gmail by cloudHQ (fcblgiphlneejkokhnaagmjombnfdnog)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a5e3c570-2c2f-5add-bb5a-153ff80af98f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4571221e1bc2f33bc36ab0ecc198a42b982a8b1772854ae05af2b7d4009080c8",
+        "comment": "SHA-256 of extension package for Chatgpt For Gmail by cloudHQ (fcblgiphlneejkokhnaagmjombnfdnog)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b98869c3-3c8d-5c21-9e62-e9c6d5ec42db",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bcddfclcghmjpkihmjdlnejflhccdjgg",
+        "comment": "Whatsgw | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-20 | Version: 1.9.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.9.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "84e03c21-544e-5cc4-afac-86c36cb51e71",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bcddfclcghmjpkihmjdlnejflhccdjgg",
+        "comment": "Chrome Web Store entry for Whatsgw (bcddfclcghmjpkihmjdlnejflhccdjgg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "69703c17-5f08-5d2a-8db7-99bb61e57657",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b86ee9c5c4b701e95c78df3c69237193a423b3205bc823039218e29fe7b10cb6",
+        "comment": "SHA-256 of extension package for Whatsgw (bcddfclcghmjpkihmjdlnejflhccdjgg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4d2b9542-e3ea-57f0-a674-3543267e11cc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kapoabaoamgiilmlanmfejgfomlnccph",
+        "comment": "ChatGPT Sidebar by cloudHQ | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-20 | Version: 2.0.2.39",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.2.39\""
+          }
+        ]
+      },
+      {
+        "uuid": "d7c11674-0bed-53d2-818a-f0f7ed4b199c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kapoabaoamgiilmlanmfejgfomlnccph",
+        "comment": "Chrome Web Store entry for ChatGPT Sidebar by cloudHQ (kapoabaoamgiilmlanmfejgfomlnccph)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5f4ebe5a-570b-5542-a61b-2952beb43201",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0eeedb08dfc8e0ddd944be9f57de59c40e9afbe20677b5380fe77a6d78232758",
+        "comment": "SHA-256 of extension package for ChatGPT Sidebar by cloudHQ (kapoabaoamgiilmlanmfejgfomlnccph)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1d850f96-047a-5654-a0b5-0bc46c827888",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bkmdnhpmbdhcbhgiolbgcmfiledlbbdl",
+        "comment": "Amazonico Lens | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-20 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "f7b796e7-49b9-5543-98d7-67d1a19d70e6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bkmdnhpmbdhcbhgiolbgcmfiledlbbdl",
+        "comment": "Chrome Web Store entry for Amazonico Lens (bkmdnhpmbdhcbhgiolbgcmfiledlbbdl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9c15b89b-e42d-5565-8777-e807124ea33c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e48778d600db5534d807efb5e7fbc9d25cd9fc630d4071afe3ba5824f3349d4b",
+        "comment": "SHA-256 of extension package for Amazonico Lens (bkmdnhpmbdhcbhgiolbgcmfiledlbbdl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b2f40fc7-5d96-5058-aba8-e998d6d0db65",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "icjgcdmppmnahjhihebmfbcdakjnfekd",
+        "comment": "Zenva Ai | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-19 | Version: 1.3.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.3.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "845664a1-23e1-536d-8269-d449745e0c07",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/icjgcdmppmnahjhihebmfbcdakjnfekd",
+        "comment": "Chrome Web Store entry for Zenva Ai (icjgcdmppmnahjhihebmfbcdakjnfekd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "93f803a2-9b7d-57ef-8ac8-a4d09cb31415",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b78f91e9a18d9d8cd88b2f85fc07c84fe964f23293b5a306ae41a339f8fe899a",
+        "comment": "SHA-256 of extension package for Zenva Ai (icjgcdmppmnahjhihebmfbcdakjnfekd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5a4c3a8e-de7f-5805-b9fa-fec31c8765a7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "njibjcjojblgkcoldniggljlokplbjhb",
+        "comment": "Land Automation Software | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-19 | Version: 19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"19\""
+          }
+        ]
+      },
+      {
+        "uuid": "629b2028-70d7-57a8-be20-8a167b4fa3d7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/njibjcjojblgkcoldniggljlokplbjhb",
+        "comment": "Chrome Web Store entry for Land Automation Software (njibjcjojblgkcoldniggljlokplbjhb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "26c770ce-8348-5602-9a42-597220dbed4f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e597a15bec5109bb4cdc16ec845391b4a15e2c5603d648c8e465fa0116a0eb2c",
+        "comment": "SHA-256 of extension package for Land Automation Software (njibjcjojblgkcoldniggljlokplbjhb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c65e86c8-6621-5f96-a504-2c620837f57b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "elnanopkpogbhmgppdoapkjlfigecncf",
+        "comment": "ChatGPT For Chrome - ChatGPT assistant | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-19 | Version: 1.17.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.17.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "64e21725-cdaf-5777-8938-eaa132115cbe",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/elnanopkpogbhmgppdoapkjlfigecncf",
+        "comment": "Chrome Web Store entry for ChatGPT For Chrome - ChatGPT assistant (elnanopkpogbhmgppdoapkjlfigecncf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "43cd893f-6d97-5fef-b968-0f88739cd0fa",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6323da6c473e3590d0e475dc597f7ba1bc2af276ab46fd608339935971884b91",
+        "comment": "SHA-256 of extension package for ChatGPT For Chrome - ChatGPT assistant (elnanopkpogbhmgppdoapkjlfigecncf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b9682afc-02a7-5361-b6a4-d90ecd2a2177",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mllkpgcojiooenmengajhkailfjocond",
+        "comment": "Chatgpt For Gmail | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-19 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "b351fd87-7e3d-57b9-8f8a-261734d2cf9b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mllkpgcojiooenmengajhkailfjocond",
+        "comment": "Chrome Web Store entry for Chatgpt For Gmail (mllkpgcojiooenmengajhkailfjocond)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "75c4af93-c0ff-5b21-aad5-6808adbd3b7e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "adc8831ed68a7265c44bf7f2f3f8fb7ffdd247e7e11de6eb08e685d4d1197563",
+        "comment": "SHA-256 of extension package for Chatgpt For Gmail (mllkpgcojiooenmengajhkailfjocond)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "cc5be1b9-e418-5888-a992-825e4e188740",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "njoajiajcpfbaclllemflffnhchblnem",
+        "comment": "Nomination Crm | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "78d36b60-f2dd-5141-bfb2-28e8cd6d5e8d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/njoajiajcpfbaclllemflffnhchblnem",
+        "comment": "Chrome Web Store entry for Nomination Crm (njoajiajcpfbaclllemflffnhchblnem)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4341f01f-d88e-5eea-beb0-005c9601f931",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "03933a1161e2757f4acabcb3baf5a7ce896cbea178a853d199ccedea0c015581",
+        "comment": "SHA-256 of extension package for Nomination Crm (njoajiajcpfbaclllemflffnhchblnem)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "846fc555-cf85-504f-9ad5-5ded7eab85a6",
         "type": "text",
@@ -217,7 +861,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "lpdohkbbcphhndlklfodhbabkjijhjeb",
-        "comment": "UltraWide Streaming: custom fullscreen ratios [QVI] | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-17 | Version: 1.0.67",
+        "comment": "UltraWide Streaming: custom fullscreen ratios [QVI] | Source: Store Monitoring | Store: Microsoft Edge | Added: 2026-10-17 | Version: 1.0.67",
         "distribution": "5",
         "Tag": [
           {
@@ -227,7 +871,7 @@
             "name": "malext:source=\"Store Monitoring\""
           },
           {
-            "name": "malext:store=\"Google Chrome\""
+            "name": "malext:store=\"Microsoft Edge\""
           },
           {
             "name": "malext:version=\"1.0.67\""
@@ -239,8 +883,8 @@
         "type": "url",
         "category": "External analysis",
         "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/lpdohkbbcphhndlklfodhbabkjijhjeb",
-        "comment": "Chrome Web Store entry for UltraWide Streaming: custom fullscreen ratios [QVI] (lpdohkbbcphhndlklfodhbabkjijhjeb)",
+        "value": "https://microsoftedge.microsoft.com/addons/detail/lpdohkbbcphhndlklfodhbabkjijhjeb",
+        "comment": "Microsoft Edge Add-ons entry for UltraWide Streaming: custom fullscreen ratios [QVI] (lpdohkbbcphhndlklfodhbabkjijhjeb)",
         "distribution": "5"
       },
       {
@@ -466,6 +1110,52 @@
         "to_ids": true,
         "value": "54b802df6d4450febca03a1ee716b598aedd0085c4f4c6b0a52c8f1c926dfeba",
         "comment": "SHA-256 of extension package for HideU VPN (jgmcmdfkmcpgakbabkhgkpponillmphl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "19a8d957-f249-53fe-abe9-085d750d8456",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "igmkpfjhphblhbnaflabakakodffoehi",
+        "comment": "Busqy - Criador de Divulga\u00e7\u00f5es | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 1.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "b318a046-c617-5f84-9cd5-bad1f4e27155",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/igmkpfjhphblhbnaflabakakodffoehi",
+        "comment": "Chrome Web Store entry for Busqy - Criador de Divulga\u00e7\u00f5es (igmkpfjhphblhbnaflabakakodffoehi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "49707823-cce4-5c83-bddc-27bb88a7eb98",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e67786be5997377140765d11bea0f44500c7f655c07691e05a9a12796a67fc50",
+        "comment": "SHA-256 of extension package for Busqy - Criador de Divulga\u00e7\u00f5es (igmkpfjhphblhbnaflabakakodffoehi)",
         "distribution": "5",
         "Tag": [
           {
