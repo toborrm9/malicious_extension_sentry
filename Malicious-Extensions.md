@@ -1,15 +1,30 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hbnpppemeehgdkepgiemjkaolkijcilj | ChatGPT for Google by cloudHQ | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
+| hcdlobggehbnkefhbnnpjfcempkblaid | Zapermenu Passkey | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
+| mgocclhoghbkdobkhepaahfmpplceoij | Redirect+ Connector | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
+| bdgkceaednfobbchhfjnkojompcocadm | Cupom Radar Conector | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
+| fkhdphklmnddcffcagaaheehfblonhjf | Letalk Whatsapp Bridge | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
+| fcblgiphlneejkokhnaagmjombnfdnog | Chatgpt For Gmail by cloudHQ | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
+| bcddfclcghmjpkihmjdlnejflhccdjgg | Whatsgw | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
+| kapoabaoamgiilmlanmfejgfomlnccph | ChatGPT Sidebar by cloudHQ | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
+| bkmdnhpmbdhcbhgiolbgcmfiledlbbdl | Amazonico Lens | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
+| icjgcdmppmnahjhihebmfbcdakjnfekd | Zenva Ai | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| njoajiajcpfbaclllemflffnhchblnem | Nomination Crm | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | eaddpginckbggngfiipmjigfdfgfplef | Gerar Chave de Conexão do WhatsApp | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | nmpilknjfdfdfhdhdnllfngbknpdgpfh | Odin Chat Passkey | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | dggdnpmmaaiagabpilnecpdenaepaaje | Gerar Chave De ConexãO do WhatsApp | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | fjjelbbjhjinkachkijmblfgfabklbdb | Boostbay Analytics For Oz | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
-| lpdohkbbcphhndlklfodhbabkjijhjeb | UltraWide Streaming: custom fullscreen ratios [QVI] | Malware | Store Monitoring | 17/10/26 | No | Google Chrome
+| lpdohkbbcphhndlklfodhbabkjijhjeb | UltraWide Streaming: custom fullscreen ratios [QVI] | Malware | Store Monitoring | 17/10/26 | No | Microsoft Edge
 | eocejibejgjafkgojgpgeleedkfeopha | Vercel Api Tester Deploy | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | afkfmfigibdkhgakilenadkdchfacccp | Wyld Cookie Editor | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | hiofiefcoddmfchphleoilcipfancnpj | Cyberquest Extension | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | enkdglikhhjangbkmlkfmignkgchlhkm | 云梯VPN | Malware | MalExt Analysis | 17/10/26 | No | Google Chrome
 | jgmcmdfkmcpgakbabkhgkpponillmphl | HideU VPN | Malware | MalExt Analysis | 17/10/26 | No | Google Chrome
+| igmkpfjhphblhbnaflabakakodffoehi | Busqy - Criador de Divulgações | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
 | gllclaggnfeijmgingealkpandllclog | Webquake Abyss Of Pandemo | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
 | jeialoiiafkbhaknkifabhhmpikamajb | Webquake Operation Urth M | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
 | iiokbpbdoggnjeoeepolocmlnpepobbf | Webquake Beyond Belief | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
