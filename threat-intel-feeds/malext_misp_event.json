@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-20",
-    "timestamp": "1792505093",
+    "date": "2026-10-21",
+    "timestamp": "1792599763",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,98 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "2db6a8aa-e8f1-5b7e-929e-106157f04c28",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cnhggimmjaiggimkjafnjahlfbfmdnfc",
+        "comment": "Bullwhip | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-21 | Version: 0.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "ffa9ccd8-586a-5bc9-a2d4-eef973ee11b9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cnhggimmjaiggimkjafnjahlfbfmdnfc",
+        "comment": "Chrome Web Store entry for Bullwhip (cnhggimmjaiggimkjafnjahlfbfmdnfc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e49443fe-e2d1-5f46-8987-f67c28369aa3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "01bbb57d619c2396abc19dc3fa4a83ebb47fca60da1187a368fe22a509b6fa39",
+        "comment": "SHA-256 of extension package for Bullwhip (cnhggimmjaiggimkjafnjahlfbfmdnfc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a45d74ea-b408-58b9-b7e4-22cbf621b5bc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jeekpddfllkkifndaenfffmjfmioblfm",
+        "comment": "Bubble Trouble | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-21 | Version: 1.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "2efeb496-56b9-58e7-adc0-af50622f40fe",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jeekpddfllkkifndaenfffmjfmioblfm",
+        "comment": "Chrome Web Store entry for Bubble Trouble (jeekpddfllkkifndaenfffmjfmioblfm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3ac4ec11-f093-5c4f-a699-8ac09637335c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "648b68921708eaf09d22132fab6b45e75af9a7a7e2fad2cf7241d450610dec0e",
+        "comment": "SHA-256 of extension package for Bubble Trouble (jeekpddfllkkifndaenfffmjfmioblfm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "50276518-25fd-5921-9c92-083680a0353d",
         "type": "text",
@@ -28339,6 +28431,52 @@
         "to_ids": true,
         "value": "0e8750d0e5bc184978211976c5b299606b683767b62909ff6ae2f346c250ec09",
         "comment": "SHA-256 of extension package for Robinhood - Extension For Chrome (bbljaeojdeehoihejgmdjgjmnnolgdbm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5e986c4e-0579-524d-9e34-48f158a0c5ac",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "maacekjekbljdoifhneanhmfapmjnnfi",
+        "comment": "Fba Atlas Lens | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "0f518fa0-dbc2-56e1-b260-d54313fe1686",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/maacekjekbljdoifhneanhmfapmjnnfi",
+        "comment": "Chrome Web Store entry for Fba Atlas Lens (maacekjekbljdoifhneanhmfapmjnnfi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7e5c7c4c-a17a-5a97-bf80-cbfe0488f13a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "955056442cc326071726fd2f2d84e2952324b0273ac777ac52cf4f8db1993cf1",
+        "comment": "SHA-256 of extension package for Fba Atlas Lens (maacekjekbljdoifhneanhmfapmjnnfi)",
         "distribution": "5",
         "Tag": [
           {
