@@ -1,5 +1,7 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| cnhggimmjaiggimkjafnjahlfbfmdnfc | Bullwhip | Policy Violation | Store Monitoring | 21/10/26 | No | Google Chrome
+| jeekpddfllkkifndaenfffmjfmioblfm | Bubble Trouble | Policy Violation | Store Monitoring | 21/10/26 | No | Google Chrome
 | hbnpppemeehgdkepgiemjkaolkijcilj | ChatGPT for Google by cloudHQ | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
 | hcdlobggehbnkefhbnnpjfcempkblaid | Zapermenu Passkey | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
 | mgocclhoghbkdobkhepaahfmpplceoij | Redirect+ Connector | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
@@ -665,6 +667,7 @@
 | gbafgofiefjephjoodfphmojinnfiada | Coinom - Browser Extension | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
 | dnbfneandcjphnkgcjkdkphmaoajiojh | Base - Extension Pad for Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
 | bbljaeojdeehoihejgmdjgjmnnolgdbm | Robinhood - Extension For Chrome | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-08-Browser-extensions-described-as-simple-apps-impersonate-crpytocurrency-wallets.txt) | 10/10/26 | No | Google Chrome
+| maacekjekbljdoifhneanhmfapmjnnfi | Fba Atlas Lens | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
 | ldooflebeeoikofndeeeibnfcbfgpnlh | Taskyo — Conectar WhatsApp | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
 | gmjnabaaiekoldfegadnbgaadoaijbjn | Dark VS Code GitHub Theme | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
 | aaionafjdcpmogbbhglkhompliakihaa | ChatGPT for Amazon | Policy Violation | Store Monitoring | 09/10/26 | No | Google Chrome
