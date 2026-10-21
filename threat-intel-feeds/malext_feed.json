@@ -1,12 +1,32 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-20T14:04:51Z",
+  "generated": "2026-10-21T16:22:41Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 7738,
+  "total_indicators": 7741,
   "indicators": [
+    {
+      "extension_id": "cnhggimmjaiggimkjafnjahlfbfmdnfc",
+      "name": "Bullwhip",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-21",
+      "store_url": "https://chromewebstore.google.com/detail/cnhggimmjaiggimkjafnjahlfbfmdnfc",
+      "sha256": "01bbb57d619c2396abc19dc3fa4a83ebb47fca60da1187a368fe22a509b6fa39",
+      "version": "0.0.1"
+    },
+    {
+      "extension_id": "jeekpddfllkkifndaenfffmjfmioblfm",
+      "name": "Bubble Trouble",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-21",
+      "store_url": "https://chromewebstore.google.com/detail/jeekpddfllkkifndaenfffmjfmioblfm",
+      "sha256": "648b68921708eaf09d22132fab6b45e75af9a7a7e2fad2cf7241d450610dec0e",
+      "version": "1.0.3"
+    },
     {
       "extension_id": "hbnpppemeehgdkepgiemjkaolkijcilj",
       "name": "ChatGPT for Google by cloudHQ",
@@ -6656,6 +6676,16 @@
       "store_url": "https://chromewebstore.google.com/detail/bbljaeojdeehoihejgmdjgjmnnolgdbm",
       "sha256": "0e8750d0e5bc184978211976c5b299606b683767b62909ff6ae2f346c250ec09",
       "version": "1.5.0"
+    },
+    {
+      "extension_id": "maacekjekbljdoifhneanhmfapmjnnfi",
+      "name": "Fba Atlas Lens",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-09",
+      "store_url": "https://chromewebstore.google.com/detail/maacekjekbljdoifhneanhmfapmjnnfi",
+      "sha256": "955056442cc326071726fd2f2d84e2952324b0273ac777ac52cf4f8db1993cf1",
+      "version": "1.0.1"
     },
     {
       "extension_id": "ldooflebeeoikofndeeeibnfcbfgpnlh",
