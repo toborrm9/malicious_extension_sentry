@@ -1,12 +1,202 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-21T16:22:41Z",
+  "generated": "2026-10-23T09:10:26Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 7741,
+  "total_indicators": 7766,
   "indicators": [
+    {
+      "extension_id": "nbhkhobdniaddfpanjibgckiohmhgjpo",
+      "name": "Pocket-BOT",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-23",
+      "store_url": "https://chromewebstore.google.com/detail/nbhkhobdniaddfpanjibgckiohmhgjpo",
+      "sha256": "14459f11250498bdcf4ec1b63bec0586088f1ee4db24927541f6728607f810d3",
+      "version": "2.4"
+    },
+    {
+      "extension_id": "poigedojijminnhhcmnplghcajkkfimm",
+      "name": "Crypto Price Tracker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-23",
+      "store_url": "https://chromewebstore.google.com/detail/poigedojijminnhhcmnplghcajkkfimm",
+      "sha256": "98b68c98591f4c034df4498714ad1b8c533b67e9ed87561b3f87f142abf32edf",
+      "version": "1.7.0"
+    },
+    {
+      "extension_id": "epdhfjfgcbpmkeagnhophgbbkkfcieln",
+      "name": "O-Signals",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-23",
+      "store_url": "https://chromewebstore.google.com/detail/epdhfjfgcbpmkeagnhophgbbkkfcieln",
+      "sha256": "2ae51fc8f1af781f9141c9a0cd8cf4a726a6d32563b0756766cb5e1e46596a31",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "gjdnnhmfeembgpgbghgiklipdklhbnbb",
+      "name": "Adidas Product Scraper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-23",
+      "store_url": "https://chromewebstore.google.com/detail/gjdnnhmfeembgpgbghgiklipdklhbnbb",
+      "sha256": "ed0768f4a3126813741706aebeb3c071a8e4018e9ef42d20b5b4beb9fecc2607",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "kkhhgoelhhhohlncllikpimammkanknc",
+      "name": "Data Counter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-23",
+      "store_url": "https://chromewebstore.google.com/detail/kkhhgoelhhhohlncllikpimammkanknc",
+      "sha256": "e1ea653efccd8f2e16bde5d1f714c834274b71f496cf01b336000a5e93b7b057",
+      "version": "5.5.8"
+    },
+    {
+      "extension_id": "mdmfdiblpgljpnefmnbiglkfhcjjeppj",
+      "name": "BO Signals AI",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-23",
+      "store_url": "https://chromewebstore.google.com/detail/mdmfdiblpgljpnefmnbiglkfhcjjeppj",
+      "sha256": "88a8a0106e47ca39abc91aa24ec7a7d7d167c67edeeee263bded43ae484e7ca4",
+      "version": "0.1.1"
+    },
+    {
+      "extension_id": "bdcmmbfghaabcammjebmoplekegejdhj",
+      "name": "Ai Graph Analysis",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-23",
+      "store_url": "https://chromewebstore.google.com/detail/bdcmmbfghaabcammjebmoplekegejdhj",
+      "sha256": "d5352dbdd21ac8d52455e263c59ef01af8da1c5ffc159c4edeaf705c1fa8b5a9",
+      "version": "1.2"
+    },
+    {
+      "extension_id": "gnmenphhnbhfhhedlijeladjbohpdbpa",
+      "name": "Crypto Tracker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-23",
+      "store_url": "https://chromewebstore.google.com/detail/gnmenphhnbhfhhedlijeladjbohpdbpa",
+      "sha256": "deb0772ff81d984aa94dc8f1d5a6ff08cb247d535e32adfe8966db5e94c097d9",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "nffmhhlkdjjeobioinpadedklmjonpdf",
+      "name": "ChatGPT for Web Search",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-22",
+      "store_url": "https://chromewebstore.google.com/detail/nffmhhlkdjjeobioinpadedklmjonpdf",
+      "sha256": "fa5db053d2084b8ca575ecf58a55fbf69e08e28da900ef99fd9ad378ab74990d",
+      "version": "1.1"
+    },
+    {
+      "extension_id": "ffmikhdgonnfmecnljfcjegihghmnjhm",
+      "name": "Video Hunter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-22",
+      "store_url": "https://chromewebstore.google.com/detail/ffmikhdgonnfmecnljfcjegihghmnjhm",
+      "sha256": "640741b25956bab28b0b95c054926b2a1def1eb7dd5b0fc65b218a39b8d5829a",
+      "version": "1.3.1"
+    },
+    {
+      "extension_id": "decmhcoafgdohpgbnblgpponamofinio",
+      "name": "Oneclick Downloader For I",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-22",
+      "store_url": "https://chromewebstore.google.com/detail/decmhcoafgdohpgbnblgpponamofinio",
+      "sha256": "a772adf1a37bc234ea91867a3d3a07d6e1b5777ac04a814e0c85bdb32bb7bd7c",
+      "version": "1.0.3"
+    },
+    {
+      "extension_id": "cmeiankbipckigjbodogllihjnfmjakg",
+      "name": "Wooclap AmIRight",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-22",
+      "store_url": "https://chromewebstore.google.com/detail/cmeiankbipckigjbodogllihjnfmjakg",
+      "sha256": "d88a793e5bcafb75e153d2da7f3c4127c8e74cf3df0e31d71a7ac080a575bfdb",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ojcdhndgdmikbcnnlmdekbdhffhmhhmm",
+      "name": "Wooclap Question Searcher",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-22",
+      "store_url": "https://chromewebstore.google.com/detail/ojcdhndgdmikbcnnlmdekbdhffhmhhmm",
+      "sha256": "0df62ecf89c80c886c1c203915e89463ddc76df478348ee001db6d5e3857c58d",
+      "version": "1.5"
+    },
+    {
+      "extension_id": "gjipkpoldfmjebhngmdmlmnfalolehjc",
+      "name": "Windscribe Vpn \u2014 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-22",
+      "store_url": "https://chromewebstore.google.com/detail/gjipkpoldfmjebhngmdmlmnfalolehjc",
+      "sha256": "edc0bb962a83473d46d2806a2e95e4b50bb1aa816d87e8d8d89b1c6d6d54a5af",
+      "version": "1.1.1"
+    },
+    {
+      "extension_id": "jgmfegbiboicpifffijeeddpbhgagmpd",
+      "name": "Binodex Robot \u2014 \u0440\u043e\u0431\u043e\u0442 \u0434\u043b\u044f",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-22",
+      "store_url": "https://chromewebstore.google.com/detail/jgmfegbiboicpifffijeeddpbhgagmpd",
+      "sha256": "4076f96718944fa82b42783a9bbac5bbd327754ca4113b6b434c39f9d8320baf",
+      "version": "2.8.0"
+    },
+    {
+      "extension_id": "hkhegfjpcbdcjggmooliglcfpomdkcel",
+      "name": "Vision Trader \u2014 AI \u0422\u0440\u0435\u0439\u0434\u0438\u043d\u0433",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-22",
+      "store_url": "https://chromewebstore.google.com/detail/hkhegfjpcbdcjggmooliglcfpomdkcel",
+      "sha256": "f74809b04cd5023b7fcf32f4191a87d337884082a8b92e258289307a34f90002",
+      "version": "3.4"
+    },
+    {
+      "extension_id": "pggljleiefkdfimjhfclklchfkocjhgo",
+      "name": "Super Downloader for Instagram \u2013 Bulk Save Photos, Videos, Reels &amp; Stories",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-22",
+      "store_url": "https://chromewebstore.google.com/detail/pggljleiefkdfimjhfclklchfkocjhgo",
+      "sha256": "f617cf442acc001cc6522bc30ba111cbfef3b70eff289e5fc33ea25bae7bc46f",
+      "version": "1.9.0"
+    },
+    {
+      "extension_id": "eaoiofpmlnjjldiljedhbpgoofjflbab",
+      "name": "South Park Cursor",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-22",
+      "store_url": "https://chromewebstore.google.com/detail/eaoiofpmlnjjldiljedhbpgoofjflbab",
+      "sha256": "2c86140bcc52a4875c2685f5ffb68f7b31ab2bc9f6932eb9896aea35e37f5d3d",
+      "version": "34.12.10.915"
+    },
+    {
+      "extension_id": "iidmdmkmcmfbfnfcniiplbepimoonbpo",
+      "name": "Pngtree Meta Pro",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-22",
+      "store_url": "https://chromewebstore.google.com/detail/iidmdmkmcmfbfnfcniiplbepimoonbpo",
+      "sha256": "432ead73819c9123903320547eb057f48fd78d575053e70e5ec66be03c46c59b",
+      "version": "5.3.1"
+    },
     {
       "extension_id": "cnhggimmjaiggimkjafnjahlfbfmdnfc",
       "name": "Bullwhip",
@@ -158,6 +348,56 @@
       "version": "1.0.1"
     },
     {
+      "extension_id": "kaacjeioccimkbffdjbodifkempddngb",
+      "name": "NextTrack \u2014 Conectar WhatsApp",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/kaacjeioccimkbffdjbodifkempddngb",
+      "sha256": "0b0f07942706cea37f61820ab8f36d543aa6662b9dc7022fd092422db3abec31",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "mnmmlcjcgmbglchipgjkcdfoephhbjdg",
+      "name": "Ti\u1ec7n \u00edch l\u00ean \u0111\u01a1n h\u00e0ng muatoancau.com",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/mnmmlcjcgmbglchipgjkcdfoephhbjdg",
+      "sha256": "e98f75a93b6fe8cdc254f1b0d28b3419bd45f4944047866149a27370adc701be",
+      "version": "4.4.3"
+    },
+    {
+      "extension_id": "ndmmlhboihgdgpfgjhgenhjcaggelddh",
+      "name": "Nubit Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/ndmmlhboihgdgpfgjhgenhjcaggelddh",
+      "sha256": "210914ed5e8443607cc24858140505a083612fc60eb9d04a7a5ae02fc12fd96d",
+      "version": "1.0.4"
+    },
+    {
+      "extension_id": "obgmpclnijlndfbpdmnehiciabepdmnn",
+      "name": "Talqui \u00b7 Assistente De In",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/obgmpclnijlndfbpdmnehiciabepdmnn",
+      "sha256": "1a7c4e45ab7094b4c02a3f17310fdde17af7f2177c513b3ff0e1d0f7c13dc75d",
+      "version": "0.1.0"
+    },
+    {
+      "extension_id": "elbpmdgbfacmkfneaanoalmbomhilbdb",
+      "name": "QuickGestor Conector WhatsApp",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/elbpmdgbfacmkfneaanoalmbomhilbdb",
+      "sha256": "54a15142f8d5f6e8633c376a2f935ab6666672bb99a6a549a9f1aa13b98518c9",
+      "version": "1.0"
+    },
+    {
       "extension_id": "njoajiajcpfbaclllemflffnhchblnem",
       "name": "Nomination Crm",
       "source": "Store Monitoring",
@@ -186,6 +426,16 @@
       "store_url": "https://chromewebstore.google.com/detail/nmpilknjfdfdfhdhdnllfngbknpdgpfh",
       "sha256": "50f684695c7867d2af0961e331c03de27cf26db951df3022d89ce450f8fb9a3b",
       "version": "1.0.0"
+    },
+    {
+      "extension_id": "ipjnppdelbcbbfbjmdccmhellpbdmdaa",
+      "name": "GoZAP Session Migrator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/ipjnppdelbcbbfbjmdccmhellpbdmdaa",
+      "sha256": "344df778861fa69ae20cf1fe4f36263302c54c8137f954addadcbfd60e643b1c",
+      "version": "1.0.2"
     },
     {
       "extension_id": "dggdnpmmaaiagabpilnecpdenaepaaje",
