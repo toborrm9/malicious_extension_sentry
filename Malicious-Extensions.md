@@ -1,5 +1,24 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| nbhkhobdniaddfpanjibgckiohmhgjpo | Pocket-BOT | Bundling Unwanted Software | Store Monitoring | 23/10/26 | No | Google Chrome
+| poigedojijminnhhcmnplghcajkkfimm | Crypto Price Tracker | Bundling Unwanted Software | Store Monitoring | 23/10/26 | No | Google Chrome
+| epdhfjfgcbpmkeagnhophgbbkkfcieln | O-Signals | Bundling Unwanted Software | Store Monitoring | 23/10/26 | No | Google Chrome
+| gjdnnhmfeembgpgbghgiklipdklhbnbb | Adidas Product Scraper | Policy Violation | Store Monitoring | 23/10/26 | No | Google Chrome
+| kkhhgoelhhhohlncllikpimammkanknc | Data Counter | Policy Violation | Store Monitoring | 23/10/26 | No | Google Chrome
+| mdmfdiblpgljpnefmnbiglkfhcjjeppj | BO Signals AI | Bundling Unwanted Software | Store Monitoring | 23/10/26 | No | Google Chrome
+| bdcmmbfghaabcammjebmoplekegejdhj | Ai Graph Analysis | Bundling Unwanted Software | Store Monitoring | 23/10/26 | No | Google Chrome
+| gnmenphhnbhfhhedlijeladjbohpdbpa | Crypto Tracker | Bundling Unwanted Software | Store Monitoring | 23/10/26 | No | Google Chrome
+| nffmhhlkdjjeobioinpadedklmjonpdf | ChatGPT for Web Search | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
+| ffmikhdgonnfmecnljfcjegihghmnjhm | Video Hunter | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
+| decmhcoafgdohpgbnblgpponamofinio | Oneclick Downloader For I | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
+| cmeiankbipckigjbodogllihjnfmjakg | Wooclap AmIRight | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
+| ojcdhndgdmikbcnnlmdekbdhffhmhhmm | Wooclap Question Searcher | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
+| gjipkpoldfmjebhngmdmlmnfalolehjc | Windscribe Vpn — стабильн | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
+| jgmfegbiboicpifffijeeddpbhgagmpd | Binodex Robot — робот для | Bundling Unwanted Software | Store Monitoring | 22/10/26 | No | Google Chrome
+| hkhegfjpcbdcjggmooliglcfpomdkcel | Vision Trader — AI Трейдинг | Bundling Unwanted Software | Store Monitoring | 22/10/26 | No | Google Chrome
+| pggljleiefkdfimjhfclklchfkocjhgo | Super Downloader for Instagram – Bulk Save Photos, Videos, Reels &amp; Stories | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
+| eaoiofpmlnjjldiljedhbpgoofjflbab | South Park Cursor | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
+| iidmdmkmcmfbfnfcniiplbepimoonbpo | Pngtree Meta Pro | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
 | cnhggimmjaiggimkjafnjahlfbfmdnfc | Bullwhip | Policy Violation | Store Monitoring | 21/10/26 | No | Google Chrome
 | jeekpddfllkkifndaenfffmjfmioblfm | Bubble Trouble | Policy Violation | Store Monitoring | 21/10/26 | No | Google Chrome
 | hbnpppemeehgdkepgiemjkaolkijcilj | ChatGPT for Google by cloudHQ | Policy Violation | Store Monitoring | 20/10/26 | No | Google Chrome
@@ -15,9 +34,15 @@
 | njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| kaacjeioccimkbffdjbodifkempddngb | NextTrack — Conectar WhatsApp | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| mnmmlcjcgmbglchipgjkcdfoephhbjdg | Tiện ích lên đơn hàng muatoancau.com | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| ndmmlhboihgdgpfgjhgenhjcaggelddh | Nubit Wallet | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| obgmpclnijlndfbpdmnehiciabepdmnn | Talqui · Assistente De In | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| elbpmdgbfacmkfneaanoalmbomhilbdb | QuickGestor Conector WhatsApp | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | njoajiajcpfbaclllemflffnhchblnem | Nomination Crm | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | eaddpginckbggngfiipmjigfdfgfplef | Gerar Chave de Conexão do WhatsApp | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | nmpilknjfdfdfhdhdnllfngbknpdgpfh | Odin Chat Passkey | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| ipjnppdelbcbbfbjmdccmhellpbdmdaa | GoZAP Session Migrator | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | dggdnpmmaaiagabpilnecpdenaepaaje | Gerar Chave De ConexãO do WhatsApp | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | fjjelbbjhjinkachkijmblfgfabklbdb | Boostbay Analytics For Oz | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | lpdohkbbcphhndlklfodhbabkjijhjeb | UltraWide Streaming: custom fullscreen ratios [QVI] | Malware | Store Monitoring | 17/10/26 | No | Microsoft Edge
