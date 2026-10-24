@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-23",
-    "timestamp": "1792746628",
+    "date": "2026-10-24",
+    "timestamp": "1792864553",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,466 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "b1995b76-b539-5c5b-bcb8-07b6733538d8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gabfffndnhbbjlgmbogpfaciajcbpkdn",
+        "comment": "ChatGPT Chrome Extension - Silly Ai | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-24 | Version: 2.2.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.2.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "d537d202-e728-5c33-b4c3-329c7517aec5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gabfffndnhbbjlgmbogpfaciajcbpkdn",
+        "comment": "Chrome Web Store entry for ChatGPT Chrome Extension - Silly Ai (gabfffndnhbbjlgmbogpfaciajcbpkdn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9cf42706-960f-56bc-a79f-a31c1d1d61da",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "aa89e6dbed6c3a91aaa28410d2fc27e923ce768fd0fb124cece0f0d014887092",
+        "comment": "SHA-256 of extension package for ChatGPT Chrome Extension - Silly Ai (gabfffndnhbbjlgmbogpfaciajcbpkdn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3a3e2153-38a9-5030-8c63-ed8046a9c347",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bdjmocfaijbclclbnhgafnmjpnfaponp",
+        "comment": "SpongeBob SquarePants Wallpaper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-24 | Version: 19.120.48.45",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"19.120.48.45\""
+          }
+        ]
+      },
+      {
+        "uuid": "4326cb41-ae5c-5ae1-b3ec-f2b81086c509",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bdjmocfaijbclclbnhgafnmjpnfaponp",
+        "comment": "Chrome Web Store entry for SpongeBob SquarePants Wallpaper (bdjmocfaijbclclbnhgafnmjpnfaponp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "34e372c2-303a-502a-ae03-d412309abd08",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fe00815ecac08b3478d93402364c5ff8f26aeca508031000f2273bddf97d1b60",
+        "comment": "SHA-256 of extension package for SpongeBob SquarePants Wallpaper (bdjmocfaijbclclbnhgafnmjpnfaponp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca4302c2-4a8e-5961-bda0-bf88d3703e3c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ncigdlaejpkkojpoagnkcibhjmcfmfao",
+        "comment": "FunSocialTab Search | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-24 | Version: 1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "0059d9d2-05d6-546b-b190-24185a6eb8a3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ncigdlaejpkkojpoagnkcibhjmcfmfao",
+        "comment": "Chrome Web Store entry for FunSocialTab Search (ncigdlaejpkkojpoagnkcibhjmcfmfao)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6d4862e9-2d3f-57e7-9de8-3ba60ac6208c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "502d453b8fec2c9da6ac5f3403c6354d3499b29c436b6535cb9701cdaa4ee0be",
+        "comment": "SHA-256 of extension package for FunSocialTab Search (ncigdlaejpkkojpoagnkcibhjmcfmfao)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7f2d1620-e0c9-59d5-a3ef-e6d1def21fa5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hapgknieancfacdddfohgbeeidhabbpe",
+        "comment": "True Search | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-24 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "05895348-6df9-5b22-80f1-3a9231c321bd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hapgknieancfacdddfohgbeeidhabbpe",
+        "comment": "Chrome Web Store entry for True Search (hapgknieancfacdddfohgbeeidhabbpe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bfd51fdc-f110-5139-82b3-cbf8ea9700d6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a67d00c640a2fd04e60248b5e40ebbf1277c74f36fe1f5c766b83bf0f304f989",
+        "comment": "SHA-256 of extension package for True Search (hapgknieancfacdddfohgbeeidhabbpe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "dd8fd7a3-744c-58be-95e8-e466e9a5eaaa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fodicfjffkgeoaigpcgidcfieianehek",
+        "comment": "Search Webo | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-24 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "c53f63cd-4e42-5d99-a773-8bbf6b7c8d87",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fodicfjffkgeoaigpcgidcfieianehek",
+        "comment": "Chrome Web Store entry for Search Webo (fodicfjffkgeoaigpcgidcfieianehek)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f3e107d3-fa89-54f3-b739-eb87f56549a7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "857aecbff71dec920ea09efc770d76747afa3ed4d3862f7ca8d48c8cbab9e870",
+        "comment": "SHA-256 of extension package for Search Webo (fodicfjffkgeoaigpcgidcfieianehek)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "adb6f790-0ec7-54c0-9d3d-c6b7d1bcfffa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "acepffgblgfaajbofgfngmdhkdbbmicb",
+        "comment": "Imasse - Search to Fund Brighter Futures | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-24 | Version: 1.40",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.40\""
+          }
+        ]
+      },
+      {
+        "uuid": "7b913723-fd4b-569c-86e0-27013d3c23c5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/acepffgblgfaajbofgfngmdhkdbbmicb",
+        "comment": "Chrome Web Store entry for Imasse - Search to Fund Brighter Futures (acepffgblgfaajbofgfngmdhkdbbmicb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dffe00a5-a8b8-5e3d-b0f0-00f39088a834",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b9e81e02a408171e6fc7fba0e2758c92e117c333e8adcabd0343970536dca65f",
+        "comment": "SHA-256 of extension package for Imasse - Search to Fund Brighter Futures (acepffgblgfaajbofgfngmdhkdbbmicb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "30d4bcb7-3852-512b-86ef-ed23c0bf8563",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jdfgampjdaekfekcmmfofeojhjjkkhjj",
+        "comment": "Suggestion Shield | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-24 | Version: 1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "81b67078-6500-5290-8e14-476cc8b941bd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jdfgampjdaekfekcmmfofeojhjjkkhjj",
+        "comment": "Chrome Web Store entry for Suggestion Shield (jdfgampjdaekfekcmmfofeojhjjkkhjj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "85763ce9-ab19-5b24-a003-b71aa3a7e828",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "85263ce2a411a7d70562fa1363991f53c672148b1ae3ad8ec794e86fdf8f7e9b",
+        "comment": "SHA-256 of extension package for Suggestion Shield (jdfgampjdaekfekcmmfofeojhjjkkhjj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "dfa9080c-be00-5bd9-8ba0-e1586ac2fa03",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ikekogkkbappihngihjnjlhaphfnfcbf",
+        "comment": "View Places Near Me | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-24 | Version: 1.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "5a67628a-d572-5178-bb3d-888c4aa66fec",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ikekogkkbappihngihjnjlhaphfnfcbf",
+        "comment": "Chrome Web Store entry for View Places Near Me (ikekogkkbappihngihjnjlhaphfnfcbf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ee7a7268-ca1a-5e0c-9303-8235f4772699",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1a5b52edb2328e29023b3b3bc2b4d54953decbbbae8988746d495426e402ddff",
+        "comment": "SHA-256 of extension package for View Places Near Me (ikekogkkbappihngihjnjlhaphfnfcbf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "270a4b65-e36f-50f3-b7f7-a9e313e60db2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "badofhmjpdimhjckcpicdhlmdbhcbhjd",
+        "comment": "MyDivingSearch | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-24 | Version: 0.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "454f10ee-52a3-5355-9c20-a100005e129e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/badofhmjpdimhjckcpicdhlmdbhcbhjd",
+        "comment": "Chrome Web Store entry for MyDivingSearch (badofhmjpdimhjckcpicdhlmdbhcbhjd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e8e55572-4103-5dde-9d24-76dbf9905a77",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9943e1fec1dd2516f0441a09fc609e58f321fad5c84460e962a3fbaface5d1db",
+        "comment": "SHA-256 of extension package for MyDivingSearch (badofhmjpdimhjckcpicdhlmdbhcbhjd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1fc8c51e-153b-55a4-a07d-13291c758972",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "onpkagahfdnlknakhgnegpipmhkodnlm",
+        "comment": "MapQuest Search | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-24 | Version: 1.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "a5d8995d-6219-5956-86c2-6f2b8e22817d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/onpkagahfdnlknakhgnegpipmhkodnlm",
+        "comment": "Chrome Web Store entry for MapQuest Search (onpkagahfdnlknakhgnegpipmhkodnlm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "06d18c5b-7470-5387-a7f5-9e1ba50aba0f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "de0415f2358ec5e4bf50f11dae067eac607295b2ffc44e7a44bb4a6e6028f563",
+        "comment": "SHA-256 of extension package for MapQuest Search (onpkagahfdnlknakhgnegpipmhkodnlm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "c9430571-5129-5abc-b1b0-ac44facd153d",
         "type": "text",
@@ -388,6 +848,52 @@
         "to_ids": true,
         "value": "deb0772ff81d984aa94dc8f1d5a6ff08cb247d535e32adfe8966db5e94c097d9",
         "comment": "SHA-256 of extension package for Crypto Tracker (gnmenphhnbhfhhedlijeladjbohpdbpa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "17ee8c98-067f-5621-b554-7eed3f164072",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ihlmencnomgfbmeoddhdpgpieahimmmk",
+        "comment": "ChatGPT for Wordpress | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-22 | Version: 2.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "a274cfa7-aa27-57f2-9298-3e998ad05b39",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ihlmencnomgfbmeoddhdpgpieahimmmk",
+        "comment": "Chrome Web Store entry for ChatGPT for Wordpress (ihlmencnomgfbmeoddhdpgpieahimmmk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5fb63f07-c39c-5b56-bc8c-5789d0ec13de",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "54f170a34def0b635e5470153c17017943e487ed2f811fd2f2ed6e5fd2223277",
+        "comment": "SHA-256 of extension package for ChatGPT for Wordpress (ihlmencnomgfbmeoddhdpgpieahimmmk)",
         "distribution": "5",
         "Tag": [
           {
@@ -1584,6 +2090,420 @@
         "to_ids": true,
         "value": "adc8831ed68a7265c44bf7f2f3f8fb7ffdd247e7e11de6eb08e685d4d1197563",
         "comment": "SHA-256 of extension package for Chatgpt For Gmail (mllkpgcojiooenmengajhkailfjocond)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "dc6cde67-1b9c-5e2b-8c68-ec94420be1ee",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gjkbiebjbpngglhnmpenmangmbcekfip",
+        "comment": "Ask ChatGPT | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.12.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.12.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "dc83e401-ead6-518d-b36c-fcd275f0f846",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gjkbiebjbpngglhnmpenmangmbcekfip",
+        "comment": "Chrome Web Store entry for Ask ChatGPT (gjkbiebjbpngglhnmpenmangmbcekfip)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "85396ed1-9e4b-51da-9a61-fa0632d289df",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5dfedec138f9af4fc1ba0dedd0989a055d9ce250d79169bf3985d89c9c883492",
+        "comment": "SHA-256 of extension package for Ask ChatGPT (gjkbiebjbpngglhnmpenmangmbcekfip)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4a889977-96aa-5bc5-9a89-08d3c6122a5b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lkodiiecfihbdgebffbcdjokmnabbcfi",
+        "comment": "Foxora | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "9c843f0a-6a9e-503f-ab73-f7aaae4d30af",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lkodiiecfihbdgebffbcdjokmnabbcfi",
+        "comment": "Chrome Web Store entry for Foxora (lkodiiecfihbdgebffbcdjokmnabbcfi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "17f53d25-7d72-5d90-a8de-a5123f069e79",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "19002e19e59deea2d641cd8ebf783cc2e7c20df91b02d34846810f580be09d69",
+        "comment": "SHA-256 of extension package for Foxora (lkodiiecfihbdgebffbcdjokmnabbcfi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b8e4bcae-b5c3-5065-a103-38eafdceb442",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hniljfkejhefckcekmghacmjabfmplbi",
+        "comment": "ChatGPT Search and Translator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 0.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "279c1c86-8da0-59df-bf39-559bf9d1e7c6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hniljfkejhefckcekmghacmjabfmplbi",
+        "comment": "Chrome Web Store entry for ChatGPT Search and Translator (hniljfkejhefckcekmghacmjabfmplbi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a5e57b85-5dc0-5718-a6e1-873611d5878e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c38201d62f6cd82e8e8e644e6764af142b07bc32ffbd54bcc9415febbba0b2c4",
+        "comment": "SHA-256 of extension package for ChatGPT Search and Translator (hniljfkejhefckcekmghacmjabfmplbi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "48dc9392-2abb-55ed-b286-0fcc32ae1a50",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mgbghlopanbejbnpoeeccndmodicgjhn",
+        "comment": "Gemini Bulk Image Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 2.1.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.1.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "cbbcb1f6-1246-588b-bcc4-e4b2560d024e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mgbghlopanbejbnpoeeccndmodicgjhn",
+        "comment": "Chrome Web Store entry for Gemini Bulk Image Downloader (mgbghlopanbejbnpoeeccndmodicgjhn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bc730062-5129-54b0-98f6-54954ee6924a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7fe77dcc7f55951720e7fc310f3d9a7e3440c1bf350a0bfe527806712d70c766",
+        "comment": "SHA-256 of extension package for Gemini Bulk Image Downloader (mgbghlopanbejbnpoeeccndmodicgjhn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "fdfaa10a-df3b-5d9f-873e-5480f934e857",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bkbkakcdolgpfecbdoniemalpghmgpii",
+        "comment": "ChatGPT - Google, Bing, Baidu, More | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.4.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "a3c218a3-2009-5342-81e1-4d1a421b1ba9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bkbkakcdolgpfecbdoniemalpghmgpii",
+        "comment": "Chrome Web Store entry for ChatGPT - Google, Bing, Baidu, More (bkbkakcdolgpfecbdoniemalpghmgpii)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b436ba1e-7d44-5381-b9b4-d1f7cd569d72",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "284794dbd6695059525dadba3ead7e04e89323c7e130ec210394e87a3010aa51",
+        "comment": "SHA-256 of extension package for ChatGPT - Google, Bing, Baidu, More (bkbkakcdolgpfecbdoniemalpghmgpii)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6924108d-0a6f-5247-b36d-b4ac937bff75",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cfeepebbbglaimohhcbpijpnopgalofm",
+        "comment": "ChatGPT, OpenAi and Dall-E 3 Image Generator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "b7238c7c-aa22-5a8d-a9b0-635ef2a96446",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cfeepebbbglaimohhcbpijpnopgalofm",
+        "comment": "Chrome Web Store entry for ChatGPT, OpenAi and Dall-E 3 Image Generator (cfeepebbbglaimohhcbpijpnopgalofm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "498285f9-c7c0-50dc-99d7-a3d27f3b0e74",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1bcaf1de9e25de5499cef69fad0082a652ce3005324872011828a6b77ccc41b1",
+        "comment": "SHA-256 of extension package for ChatGPT, OpenAi and Dall-E 3 Image Generator (cfeepebbbglaimohhcbpijpnopgalofm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8acb7bc8-e10e-582c-8cc9-753b1ab29ce1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jbhaabmnfflbnbmlojheinkmepojjkag",
+        "comment": "ChatGPT Perplexity Google AI Chat Search | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 4.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "816956d2-ce58-5dcb-b7ef-08aa957de076",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jbhaabmnfflbnbmlojheinkmepojjkag",
+        "comment": "Chrome Web Store entry for ChatGPT Perplexity Google AI Chat Search (jbhaabmnfflbnbmlojheinkmepojjkag)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "046c812b-21a5-56de-87d9-aa5dba5cdcd2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b7c0075020beb77edc41299426b92e49a431a51996cb500298679f98716a1c3e",
+        "comment": "SHA-256 of extension package for ChatGPT Perplexity Google AI Chat Search (jbhaabmnfflbnbmlojheinkmepojjkag)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a0034529-c49e-5f61-a6e9-b7ab1a86b1b3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gpmekglcgjeimlpdbipecddiodicdghk",
+        "comment": "Airbnb Listings Collector | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "4efca5b3-cf74-5710-ab3e-1019eb7fcdd9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gpmekglcgjeimlpdbipecddiodicdghk",
+        "comment": "Chrome Web Store entry for Airbnb Listings Collector (gpmekglcgjeimlpdbipecddiodicdghk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "711a3f81-10f7-5c83-b779-da1836298a79",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5caf85f28fdbde4a3a3e5490fa07e0a476e9752068445fad66b24f12a8a651d5",
+        "comment": "SHA-256 of extension package for Airbnb Listings Collector (gpmekglcgjeimlpdbipecddiodicdghk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d418f5a2-eb46-516f-929a-3f806f6a35ab",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "haihojhpcacpbgmeinojceddohgdmgmd",
+        "comment": "Kuartz lens | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 0.4.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.4.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "08141ec4-6d33-5656-b890-8f5ebafae726",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/haihojhpcacpbgmeinojceddohgdmgmd",
+        "comment": "Chrome Web Store entry for Kuartz lens (haihojhpcacpbgmeinojceddohgdmgmd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4abc2cea-1aa7-541b-bb7e-6c011b10d683",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "989f064f178139ec3c7f20df9569827de6fe64a8421faef7e7d4f3213776628a",
+        "comment": "SHA-256 of extension package for Kuartz lens (haihojhpcacpbgmeinojceddohgdmgmd)",
         "distribution": "5",
         "Tag": [
           {
@@ -99252,6 +100172,438 @@
         "value": "https://chromewebstore.google.com/detail/abmnmjngddnfgpkckfpcmachndiblkai",
         "comment": "Chrome Web Store entry for \u0414\u044f\u0434\u044f \u0412\u0430\u043d\u044f \u0412\u041f\u041d \u2014 VPN \u0434\u043b\u044f Chrome, \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0441\u0430\u0439\u0442\u0430\u043c (abmnmjngddnfgpkckfpcmachndiblkai)",
         "distribution": "5"
+      },
+      {
+        "uuid": "2c6fe555-a687-5654-b0cb-9a9f5dd0ee90",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cifonhnejnfijbkmclhakocbgfgkadcj",
+        "comment": "Filmzie - Streaming Enhancer &amp; PiP | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt | Store: Google Chrome | Added: 2026-08-12 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "6df7c17f-fe36-58d9-9d20-3047ebf39644",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cifonhnejnfijbkmclhakocbgfgkadcj",
+        "comment": "Chrome Web Store entry for Filmzie - Streaming Enhancer &amp; PiP (cifonhnejnfijbkmclhakocbgfgkadcj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "853118ba-c0c7-53fa-bece-dbcaaca4afc1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e092f20786045df6d0af2013b95b910d43e4b4dd8d6e13ad32afff42ae7cdb8a",
+        "comment": "SHA-256 of extension package for Filmzie - Streaming Enhancer &amp; PiP (cifonhnejnfijbkmclhakocbgfgkadcj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "10f344e0-2493-5f96-92a4-5362a063d6ab",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nooibhbcglgbcoghllagknlcdoaiafhf",
+        "comment": "Plex Stream - Free Movies, TV &amp; Player Enhancer | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt | Store: Google Chrome | Added: 2026-08-12 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "c6e60af2-f810-5be0-aee1-05e9c0c7734e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nooibhbcglgbcoghllagknlcdoaiafhf",
+        "comment": "Chrome Web Store entry for Plex Stream - Free Movies, TV &amp; Player Enhancer (nooibhbcglgbcoghllagknlcdoaiafhf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4ad87ee4-faba-57ff-9b33-0c51c16a94f6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e15716b358588c1169312f35d72614b5d1da5f06ff93afbe72fe19d2c8faf6ea",
+        "comment": "SHA-256 of extension package for Plex Stream - Free Movies, TV &amp; Player Enhancer (nooibhbcglgbcoghllagknlcdoaiafhf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6db23a13-996a-5fb6-8ae6-e5145aa92d79",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "biomgcpapdpcmcgllomfljgpkeiebfjo",
+        "comment": "Arvin - Custom Logo Maker &amp; Creator | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt | Store: Google Chrome | Added: 2026-08-12 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "4573e918-c60e-5fa0-9891-90ee6621c4c3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/biomgcpapdpcmcgllomfljgpkeiebfjo",
+        "comment": "Chrome Web Store entry for Arvin - Custom Logo Maker &amp; Creator (biomgcpapdpcmcgllomfljgpkeiebfjo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d46d3059-3b4e-57fa-9a6a-355d2c10c197",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "11eb8b3707b310cef46888e2effad35d5fed4dbe4b5d50ad6771fbeaab12224d",
+        "comment": "SHA-256 of extension package for Arvin - Custom Logo Maker &amp; Creator (biomgcpapdpcmcgllomfljgpkeiebfjo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4df513c0-be95-5f3a-ac9a-65beb43dc49b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ocedomenmjggbfiaanglfndmgklolcfe",
+        "comment": "YouCam Perfect - Photo Editor &amp; Selfie Camera | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt | Store: Google Chrome | Added: 2026-08-12 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "435ed884-7cd4-5bcb-91c7-1459c70020be",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ocedomenmjggbfiaanglfndmgklolcfe",
+        "comment": "Chrome Web Store entry for YouCam Perfect - Photo Editor &amp; Selfie Camera (ocedomenmjggbfiaanglfndmgklolcfe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "35b8cac1-5aca-5204-8d4f-377014991343",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "662e724159f09605222281f1b09871c3fd9c08cb123b8d2b728cb7c773641260",
+        "comment": "SHA-256 of extension package for YouCam Perfect - Photo Editor &amp; Selfie Camera (ocedomenmjggbfiaanglfndmgklolcfe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "81254032-352b-50fb-b58d-c31e1d332d46",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "enpengbjjblnkababjlblgjdhdgbcfep",
+        "comment": "Bazaart: Photo Editor &amp; Graphic Design | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt | Store: Google Chrome | Added: 2026-08-12 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2c657ee-9f68-5c2c-aa12-2d4e3421f38b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/enpengbjjblnkababjlblgjdhdgbcfep",
+        "comment": "Chrome Web Store entry for Bazaart: Photo Editor &amp; Graphic Design (enpengbjjblnkababjlblgjdhdgbcfep)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ec8e4516-332a-510e-88fa-ec41a4061e35",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kldfaloiopnilogfhgihnjghfobbfikp",
+        "comment": "PicsKit - Free Online Photo Editor &amp; Design Tool | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt | Store: Google Chrome | Added: 2026-08-12 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "feced85e-e907-5bf0-bfce-b013fceaa3c1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kldfaloiopnilogfhgihnjghfobbfikp",
+        "comment": "Chrome Web Store entry for PicsKit - Free Online Photo Editor &amp; Design Tool (kldfaloiopnilogfhgihnjghfobbfikp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6b2f8538-c053-5bd9-8561-a41507622d9a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "25fe22c92ab33d1c2358123c13073441517979610a119bc132a4100a187bf36e",
+        "comment": "SHA-256 of extension package for PicsKit - Free Online Photo Editor &amp; Design Tool (kldfaloiopnilogfhgihnjghfobbfikp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "83760cf1-c56e-53fe-bc1b-720727c37084",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abbmpadpoejajogfkkjddnhkioaafpbg",
+        "comment": "ZEE5: Stream Movies &amp; Live TV | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt | Store: Google Chrome | Added: 2026-08-12 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "fd36fc6a-c03d-553d-a1e7-889c2a729fcf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abbmpadpoejajogfkkjddnhkioaafpbg",
+        "comment": "Chrome Web Store entry for ZEE5: Stream Movies &amp; Live TV (abbmpadpoejajogfkkjddnhkioaafpbg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "60e40e29-f3f8-5842-a51c-cdbc0264b239",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c392a5b02849521bde261c57a354b87beabed162dae5c0930f8c5f3e993280cd",
+        "comment": "SHA-256 of extension package for ZEE5: Stream Movies &amp; Live TV (abbmpadpoejajogfkkjddnhkioaafpbg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b775ffd2-372e-58d3-878d-82f4a1ddd99c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bemkhlgiieopnabgnldhgffngmofbono",
+        "comment": "FaceApp - Face Editor &amp; Photo Filters | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt | Store: Google Chrome | Added: 2026-08-12 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "394e68e6-4d0e-5efc-829a-621471dcc107",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bemkhlgiieopnabgnldhgffngmofbono",
+        "comment": "Chrome Web Store entry for FaceApp - Face Editor &amp; Photo Filters (bemkhlgiieopnabgnldhgffngmofbono)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d1700e50-60e5-5e85-bb88-40d692ad6dd2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6c32ceba9b7aa05d5a84781c1082c02b37b30d0718ab06e422c3872447cd45ed",
+        "comment": "SHA-256 of extension package for FaceApp - Face Editor &amp; Photo Filters (bemkhlgiieopnabgnldhgffngmofbono)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "33ec19e4-786d-5522-ae45-4ac3c24aa876",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "inaloihidlpgpafpapbogfmnfpgaogjo",
+        "comment": "NetShort - Short Drama &amp; Movies Viewer | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt | Store: Google Chrome | Added: 2026-08-12 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "6b6d7734-8c3e-5bd3-b306-a956b73f64a3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/inaloihidlpgpafpapbogfmnfpgaogjo",
+        "comment": "Chrome Web Store entry for NetShort - Short Drama &amp; Movies Viewer (inaloihidlpgpafpapbogfmnfpgaogjo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cbe66a35-21aa-5c80-af1a-5019778477b5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lbomijcgenhdkooejpjlgojpmajoppof",
+        "comment": "Photoshop Express - Photo Editor &amp; Filters | Source: https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt | Store: Google Chrome | Added: 2026-08-12 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "0e2b4ecf-d12e-5a8e-bff8-b6b44781f25b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lbomijcgenhdkooejpjlgojpmajoppof",
+        "comment": "Chrome Web Store entry for Photoshop Express - Photo Editor &amp; Filters (lbomijcgenhdkooejpjlgojpmajoppof)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "cd3b9d94-0b5e-5b22-b9a3-79e674b9b7e0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4f219d46918543210593cdafd04a369884f45c43a755ba850e83b7e5be267f79",
+        "comment": "SHA-256 of extension package for Photoshop Express - Photo Editor &amp; Filters (lbomijcgenhdkooejpjlgojpmajoppof)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
       },
       {
         "uuid": "73258620-43cd-5e53-9eb5-909770b2f968",
