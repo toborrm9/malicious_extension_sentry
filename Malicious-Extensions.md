@@ -1,5 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| gabfffndnhbbjlgmbogpfaciajcbpkdn | ChatGPT Chrome Extension - Silly Ai | Policy Violation | Store Monitoring | 24/10/26 | No | Google Chrome
+| bdjmocfaijbclclbnhgafnmjpnfaponp | SpongeBob SquarePants Wallpaper | Policy Violation | Store Monitoring | 24/10/26 | No | Google Chrome
+| ncigdlaejpkkojpoagnkcibhjmcfmfao | FunSocialTab Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/10/26 | No | Google Chrome
+| hapgknieancfacdddfohgbeeidhabbpe | True Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/10/26 | No | Google Chrome
+| fodicfjffkgeoaigpcgidcfieianehek | Search Webo | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/10/26 | No | Google Chrome
+| acepffgblgfaajbofgfngmdhkdbbmicb | Imasse - Search to Fund Brighter Futures | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/10/26 | No | Google Chrome
+| jdfgampjdaekfekcmmfofeojhjjkkhjj | Suggestion Shield | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/10/26 | No | Google Chrome
+| ikekogkkbappihngihjnjlhaphfnfcbf | View Places Near Me | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/10/26 | No | Google Chrome
+| badofhmjpdimhjckcpicdhlmdbhcbhjd | MyDivingSearch | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/10/26 | No | Google Chrome
+| onpkagahfdnlknakhgnegpipmhkodnlm | MapQuest Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 24/10/26 | No | Google Chrome
 | nbhkhobdniaddfpanjibgckiohmhgjpo | Pocket-BOT | Bundling Unwanted Software | Store Monitoring | 23/10/26 | No | Google Chrome
 | poigedojijminnhhcmnplghcajkkfimm | Crypto Price Tracker | Bundling Unwanted Software | Store Monitoring | 23/10/26 | No | Google Chrome
 | epdhfjfgcbpmkeagnhophgbbkkfcieln | O-Signals | Bundling Unwanted Software | Store Monitoring | 23/10/26 | No | Google Chrome
@@ -8,6 +18,7 @@
 | mdmfdiblpgljpnefmnbiglkfhcjjeppj | BO Signals AI | Bundling Unwanted Software | Store Monitoring | 23/10/26 | No | Google Chrome
 | bdcmmbfghaabcammjebmoplekegejdhj | Ai Graph Analysis | Bundling Unwanted Software | Store Monitoring | 23/10/26 | No | Google Chrome
 | gnmenphhnbhfhhedlijeladjbohpdbpa | Crypto Tracker | Bundling Unwanted Software | Store Monitoring | 23/10/26 | No | Google Chrome
+| ihlmencnomgfbmeoddhdpgpieahimmmk | ChatGPT for Wordpress | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
 | nffmhhlkdjjeobioinpadedklmjonpdf | ChatGPT for Web Search | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
 | ffmikhdgonnfmecnljfcjegihghmnjhm | Video Hunter | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
 | decmhcoafgdohpgbnblgpponamofinio | Oneclick Downloader For I | Policy Violation | Store Monitoring | 22/10/26 | No | Google Chrome
@@ -34,6 +45,15 @@
 | njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| gjkbiebjbpngglhnmpenmangmbcekfip | Ask ChatGPT | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| lkodiiecfihbdgebffbcdjokmnabbcfi | Foxora | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| hniljfkejhefckcekmghacmjabfmplbi | ChatGPT Search and Translator | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| mgbghlopanbejbnpoeeccndmodicgjhn | Gemini Bulk Image Downloader | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| bkbkakcdolgpfecbdoniemalpghmgpii | ChatGPT - Google, Bing, Baidu, More | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| cfeepebbbglaimohhcbpijpnopgalofm | ChatGPT, OpenAi and Dall-E 3 Image Generator | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| jbhaabmnfflbnbmlojheinkmepojjkag | ChatGPT Perplexity Google AI Chat Search | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| gpmekglcgjeimlpdbipecddiodicdghk | Airbnb Listings Collector | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| haihojhpcacpbgmeinojceddohgdmgmd | Kuartz lens | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | kaacjeioccimkbffdjbodifkempddngb | NextTrack — Conectar WhatsApp | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | mnmmlcjcgmbglchipgjkcdfoephhbjdg | Tiện ích lên đơn hàng muatoancau.com | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ndmmlhboihgdgpfgjhgenhjcaggelddh | Nubit Wallet | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
@@ -2292,6 +2312,16 @@
 | afejcloehmeaccaeacgpjnempifmdfba | Ваня ВПН | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 13/08/26 | No | Google Chrome
 | aebkpogjiagpdoebfilngdeagmiflebf | Holla VPN — быстрый и простой VPN для браузера | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 13/08/26 | No | Google Chrome
 | abmnmjngddnfgpkckfpcmachndiblkai | Дядя Ваня ВПН — VPN для Chrome, доступ к сайтам | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 13/08/26 | No | Google Chrome
+| cifonhnejnfijbkmclhakocbgfgkadcj | Filmzie - Streaming Enhancer &amp; PiP | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt) | 12/08/26 | No | Google Chrome
+| nooibhbcglgbcoghllagknlcdoaiafhf | Plex Stream - Free Movies, TV &amp; Player Enhancer | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt) | 12/08/26 | No | Google Chrome
+| biomgcpapdpcmcgllomfljgpkeiebfjo | Arvin - Custom Logo Maker &amp; Creator | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt) | 12/08/26 | No | Google Chrome
+| ocedomenmjggbfiaanglfndmgklolcfe | YouCam Perfect - Photo Editor &amp; Selfie Camera | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt) | 12/08/26 | No | Google Chrome
+| enpengbjjblnkababjlblgjdhdgbcfep | Bazaart: Photo Editor &amp; Graphic Design | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt) | 12/08/26 | No | Google Chrome
+| kldfaloiopnilogfhgihnjghfobbfikp | PicsKit - Free Online Photo Editor &amp; Design Tool | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt) | 12/08/26 | No | Google Chrome
+| abbmpadpoejajogfkkjddnhkioaafpbg | ZEE5: Stream Movies &amp; Live TV | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt) | 12/08/26 | No | Google Chrome
+| bemkhlgiieopnabgnldhgffngmofbono | FaceApp - Face Editor &amp; Photo Filters | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt) | 12/08/26 | No | Google Chrome
+| inaloihidlpgpafpapbogfmnfpgaogjo | NetShort - Short Drama &amp; Movies Viewer | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt) | 12/08/26 | No | Google Chrome
+| lbomijcgenhdkooejpjlgojpmajoppof | Photoshop Express - Photo Editor &amp; Filters | Malware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt) | 12/08/26 | No | Google Chrome
 | hdmcfmghdhmkemkeamhigjchdjejgiel | Tiktok Downloader | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
 | onhanogbmibbnfoblmjocadkjlddaiie | Whatsapp Number Extractor | Policy Violation | Store Monitoring | 12/08/26 | No | Google Chrome
 | hahcppliifnobphjgffcnheoapcidlid | Trustweb3 Wallet | Bundling Unwanted Software | Store Monitoring | 12/08/26 | No | Google Chrome
