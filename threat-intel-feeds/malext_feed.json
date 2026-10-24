@@ -1,12 +1,112 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-23T09:10:26Z",
+  "generated": "2026-10-24T17:55:52Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 7766,
+  "total_indicators": 7796,
   "indicators": [
+    {
+      "extension_id": "gabfffndnhbbjlgmbogpfaciajcbpkdn",
+      "name": "ChatGPT Chrome Extension - Silly Ai",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-24",
+      "store_url": "https://chromewebstore.google.com/detail/gabfffndnhbbjlgmbogpfaciajcbpkdn",
+      "sha256": "aa89e6dbed6c3a91aaa28410d2fc27e923ce768fd0fb124cece0f0d014887092",
+      "version": "2.2.6"
+    },
+    {
+      "extension_id": "bdjmocfaijbclclbnhgafnmjpnfaponp",
+      "name": "SpongeBob SquarePants Wallpaper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-24",
+      "store_url": "https://chromewebstore.google.com/detail/bdjmocfaijbclclbnhgafnmjpnfaponp",
+      "sha256": "fe00815ecac08b3478d93402364c5ff8f26aeca508031000f2273bddf97d1b60",
+      "version": "19.120.48.45"
+    },
+    {
+      "extension_id": "ncigdlaejpkkojpoagnkcibhjmcfmfao",
+      "name": "FunSocialTab Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-24",
+      "store_url": "https://chromewebstore.google.com/detail/ncigdlaejpkkojpoagnkcibhjmcfmfao",
+      "sha256": "502d453b8fec2c9da6ac5f3403c6354d3499b29c436b6535cb9701cdaa4ee0be",
+      "version": "1.1"
+    },
+    {
+      "extension_id": "hapgknieancfacdddfohgbeeidhabbpe",
+      "name": "True Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-24",
+      "store_url": "https://chromewebstore.google.com/detail/hapgknieancfacdddfohgbeeidhabbpe",
+      "sha256": "a67d00c640a2fd04e60248b5e40ebbf1277c74f36fe1f5c766b83bf0f304f989",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "fodicfjffkgeoaigpcgidcfieianehek",
+      "name": "Search Webo",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-24",
+      "store_url": "https://chromewebstore.google.com/detail/fodicfjffkgeoaigpcgidcfieianehek",
+      "sha256": "857aecbff71dec920ea09efc770d76747afa3ed4d3862f7ca8d48c8cbab9e870",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "acepffgblgfaajbofgfngmdhkdbbmicb",
+      "name": "Imasse - Search to Fund Brighter Futures",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-24",
+      "store_url": "https://chromewebstore.google.com/detail/acepffgblgfaajbofgfngmdhkdbbmicb",
+      "sha256": "b9e81e02a408171e6fc7fba0e2758c92e117c333e8adcabd0343970536dca65f",
+      "version": "1.40"
+    },
+    {
+      "extension_id": "jdfgampjdaekfekcmmfofeojhjjkkhjj",
+      "name": "Suggestion Shield",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-24",
+      "store_url": "https://chromewebstore.google.com/detail/jdfgampjdaekfekcmmfofeojhjjkkhjj",
+      "sha256": "85263ce2a411a7d70562fa1363991f53c672148b1ae3ad8ec794e86fdf8f7e9b",
+      "version": "1.2"
+    },
+    {
+      "extension_id": "ikekogkkbappihngihjnjlhaphfnfcbf",
+      "name": "View Places Near Me",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-24",
+      "store_url": "https://chromewebstore.google.com/detail/ikekogkkbappihngihjnjlhaphfnfcbf",
+      "sha256": "1a5b52edb2328e29023b3b3bc2b4d54953decbbbae8988746d495426e402ddff",
+      "version": "1.0.3"
+    },
+    {
+      "extension_id": "badofhmjpdimhjckcpicdhlmdbhcbhjd",
+      "name": "MyDivingSearch",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-24",
+      "store_url": "https://chromewebstore.google.com/detail/badofhmjpdimhjckcpicdhlmdbhcbhjd",
+      "sha256": "9943e1fec1dd2516f0441a09fc609e58f321fad5c84460e962a3fbaface5d1db",
+      "version": "0.0.1"
+    },
+    {
+      "extension_id": "onpkagahfdnlknakhgnegpipmhkodnlm",
+      "name": "MapQuest Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-24",
+      "store_url": "https://chromewebstore.google.com/detail/onpkagahfdnlknakhgnegpipmhkodnlm",
+      "sha256": "de0415f2358ec5e4bf50f11dae067eac607295b2ffc44e7a44bb4a6e6028f563",
+      "version": "1.6"
+    },
     {
       "extension_id": "nbhkhobdniaddfpanjibgckiohmhgjpo",
       "name": "Pocket-BOT",
@@ -86,6 +186,16 @@
       "store_url": "https://chromewebstore.google.com/detail/gnmenphhnbhfhhedlijeladjbohpdbpa",
       "sha256": "deb0772ff81d984aa94dc8f1d5a6ff08cb247d535e32adfe8966db5e94c097d9",
       "version": "1.0.0"
+    },
+    {
+      "extension_id": "ihlmencnomgfbmeoddhdpgpieahimmmk",
+      "name": "ChatGPT for Wordpress",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-22",
+      "store_url": "https://chromewebstore.google.com/detail/ihlmencnomgfbmeoddhdpgpieahimmmk",
+      "sha256": "54f170a34def0b635e5470153c17017943e487ed2f811fd2f2ed6e5fd2223277",
+      "version": "2.0.0"
     },
     {
       "extension_id": "nffmhhlkdjjeobioinpadedklmjonpdf",
@@ -346,6 +456,96 @@
       "store_url": "https://chromewebstore.google.com/detail/mllkpgcojiooenmengajhkailfjocond",
       "sha256": "adc8831ed68a7265c44bf7f2f3f8fb7ffdd247e7e11de6eb08e685d4d1197563",
       "version": "1.0.1"
+    },
+    {
+      "extension_id": "gjkbiebjbpngglhnmpenmangmbcekfip",
+      "name": "Ask ChatGPT",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/gjkbiebjbpngglhnmpenmangmbcekfip",
+      "sha256": "5dfedec138f9af4fc1ba0dedd0989a055d9ce250d79169bf3985d89c9c883492",
+      "version": "1.12.0"
+    },
+    {
+      "extension_id": "lkodiiecfihbdgebffbcdjokmnabbcfi",
+      "name": "Foxora",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/lkodiiecfihbdgebffbcdjokmnabbcfi",
+      "sha256": "19002e19e59deea2d641cd8ebf783cc2e7c20df91b02d34846810f580be09d69",
+      "version": "1.0.4"
+    },
+    {
+      "extension_id": "hniljfkejhefckcekmghacmjabfmplbi",
+      "name": "ChatGPT Search and Translator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/hniljfkejhefckcekmghacmjabfmplbi",
+      "sha256": "c38201d62f6cd82e8e8e644e6764af142b07bc32ffbd54bcc9415febbba0b2c4",
+      "version": "0.0.3"
+    },
+    {
+      "extension_id": "mgbghlopanbejbnpoeeccndmodicgjhn",
+      "name": "Gemini Bulk Image Downloader",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/mgbghlopanbejbnpoeeccndmodicgjhn",
+      "sha256": "7fe77dcc7f55951720e7fc310f3d9a7e3440c1bf350a0bfe527806712d70c766",
+      "version": "2.1.6"
+    },
+    {
+      "extension_id": "bkbkakcdolgpfecbdoniemalpghmgpii",
+      "name": "ChatGPT - Google, Bing, Baidu, More",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/bkbkakcdolgpfecbdoniemalpghmgpii",
+      "sha256": "284794dbd6695059525dadba3ead7e04e89323c7e130ec210394e87a3010aa51",
+      "version": "1.4.0"
+    },
+    {
+      "extension_id": "cfeepebbbglaimohhcbpijpnopgalofm",
+      "name": "ChatGPT, OpenAi and Dall-E 3 Image Generator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/cfeepebbbglaimohhcbpijpnopgalofm",
+      "sha256": "1bcaf1de9e25de5499cef69fad0082a652ce3005324872011828a6b77ccc41b1",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "jbhaabmnfflbnbmlojheinkmepojjkag",
+      "name": "ChatGPT Perplexity Google AI Chat Search",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/jbhaabmnfflbnbmlojheinkmepojjkag",
+      "sha256": "b7c0075020beb77edc41299426b92e49a431a51996cb500298679f98716a1c3e",
+      "version": "4.0"
+    },
+    {
+      "extension_id": "gpmekglcgjeimlpdbipecddiodicdghk",
+      "name": "Airbnb Listings Collector",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/gpmekglcgjeimlpdbipecddiodicdghk",
+      "sha256": "5caf85f28fdbde4a3a3e5490fa07e0a476e9752068445fad66b24f12a8a651d5",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "haihojhpcacpbgmeinojceddohgdmgmd",
+      "name": "Kuartz lens",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/haihojhpcacpbgmeinojceddohgdmgmd",
+      "sha256": "989f064f178139ec3c7f20df9569827de6fe64a8421faef7e7d4f3213776628a",
+      "version": "0.4.1"
     },
     {
       "extension_id": "kaacjeioccimkbffdjbodifkempddngb",
@@ -22926,6 +23126,106 @@
       "store_url": "https://chromewebstore.google.com/detail/abmnmjngddnfgpkckfpcmachndiblkai",
       "sha256": "",
       "version": ""
+    },
+    {
+      "extension_id": "cifonhnejnfijbkmclhakocbgfgkadcj",
+      "name": "Filmzie - Streaming Enhancer &amp; PiP",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-12",
+      "store_url": "https://chromewebstore.google.com/detail/cifonhnejnfijbkmclhakocbgfgkadcj",
+      "sha256": "e092f20786045df6d0af2013b95b910d43e4b4dd8d6e13ad32afff42ae7cdb8a",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "nooibhbcglgbcoghllagknlcdoaiafhf",
+      "name": "Plex Stream - Free Movies, TV &amp; Player Enhancer",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-12",
+      "store_url": "https://chromewebstore.google.com/detail/nooibhbcglgbcoghllagknlcdoaiafhf",
+      "sha256": "e15716b358588c1169312f35d72614b5d1da5f06ff93afbe72fe19d2c8faf6ea",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "biomgcpapdpcmcgllomfljgpkeiebfjo",
+      "name": "Arvin - Custom Logo Maker &amp; Creator",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-12",
+      "store_url": "https://chromewebstore.google.com/detail/biomgcpapdpcmcgllomfljgpkeiebfjo",
+      "sha256": "11eb8b3707b310cef46888e2effad35d5fed4dbe4b5d50ad6771fbeaab12224d",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ocedomenmjggbfiaanglfndmgklolcfe",
+      "name": "YouCam Perfect - Photo Editor &amp; Selfie Camera",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-12",
+      "store_url": "https://chromewebstore.google.com/detail/ocedomenmjggbfiaanglfndmgklolcfe",
+      "sha256": "662e724159f09605222281f1b09871c3fd9c08cb123b8d2b728cb7c773641260",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "enpengbjjblnkababjlblgjdhdgbcfep",
+      "name": "Bazaart: Photo Editor &amp; Graphic Design",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-12",
+      "store_url": "https://chromewebstore.google.com/detail/enpengbjjblnkababjlblgjdhdgbcfep",
+      "sha256": "",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "kldfaloiopnilogfhgihnjghfobbfikp",
+      "name": "PicsKit - Free Online Photo Editor &amp; Design Tool",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-12",
+      "store_url": "https://chromewebstore.google.com/detail/kldfaloiopnilogfhgihnjghfobbfikp",
+      "sha256": "25fe22c92ab33d1c2358123c13073441517979610a119bc132a4100a187bf36e",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "abbmpadpoejajogfkkjddnhkioaafpbg",
+      "name": "ZEE5: Stream Movies &amp; Live TV",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-12",
+      "store_url": "https://chromewebstore.google.com/detail/abbmpadpoejajogfkkjddnhkioaafpbg",
+      "sha256": "c392a5b02849521bde261c57a354b87beabed162dae5c0930f8c5f3e993280cd",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "bemkhlgiieopnabgnldhgffngmofbono",
+      "name": "FaceApp - Face Editor &amp; Photo Filters",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-12",
+      "store_url": "https://chromewebstore.google.com/detail/bemkhlgiieopnabgnldhgffngmofbono",
+      "sha256": "6c32ceba9b7aa05d5a84781c1082c02b37b30d0718ab06e422c3872447cd45ed",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "inaloihidlpgpafpapbogfmnfpgaogjo",
+      "name": "NetShort - Short Drama &amp; Movies Viewer",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-12",
+      "store_url": "https://chromewebstore.google.com/detail/inaloihidlpgpafpapbogfmnfpgaogjo",
+      "sha256": "",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "lbomijcgenhdkooejpjlgojpmajoppof",
+      "name": "Photoshop Express - Photo Editor &amp; Filters",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/18aba081e8cec1ad33617353fff88447aac79af9/2026-08-12-Extension-Scareware-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-08-12",
+      "store_url": "https://chromewebstore.google.com/detail/lbomijcgenhdkooejpjlgojpmajoppof",
+      "sha256": "4f219d46918543210593cdafd04a369884f45c43a755ba850e83b7e5be267f79",
+      "version": "1.0"
     },
     {
       "extension_id": "hdmcfmghdhmkemkeamhigjchdjejgiel",
