@@ -1,12 +1,1732 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-24T17:55:52Z",
+  "generated": "2026-10-25T16:03:27Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 7796,
+  "total_indicators": 7969,
   "indicators": [
+    {
+      "extension_id": "odknomnbhahicaeoggbaljhdipfafaca",
+      "name": "Vpn Jet",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/odknomnbhahicaeoggbaljhdipfafaca",
+      "sha256": "cf7262d90a3c658206e7d2a3efe4136fde317ec02b7e48e7de731b4df9bf7c72",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "odgjppimodflifpnljdlhilfjpdemfbe",
+      "name": "Vpn Secret",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/odgjppimodflifpnljdlhilfjpdemfbe",
+      "sha256": "1b194c80719d4a2ccc4630d81953966e37eb85341f38ab274700e55a15f65f53",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "nehbhgbcomakafhkoiliiiknfhjgdfbg",
+      "name": "Vpn True",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nehbhgbcomakafhkoiliiiknfhjgdfbg",
+      "sha256": "b0e15bba4bf1cdfd036117a3f87b420f5f3e2f909b864c2e129eaccd7acdf837",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "lhbfjlhpcoafgolagfgnnklfpdhpgaed",
+      "name": "Vpn Sonic",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/lhbfjlhpcoafgolagfgnnklfpdhpgaed",
+      "sha256": "5c55cc2d6eeaa9fb18aaf3704637feb12c26370b2181468386dfc5d71d18956d",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "jgfdbjkcookdegjpjjjedgdbkmjbjmed",
+      "name": "Vpn Quick",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/jgfdbjkcookdegjpjjjedgdbkmjbjmed",
+      "sha256": "7e672d9825f5f5260d74dab002d51d5583193610fa639932b4eb4541d042378e",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "jflbldhplckbmoejighjmgafagmdgald",
+      "name": "Vpn Lagless",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/jflbldhplckbmoejighjmgafagmdgald",
+      "sha256": "57a7b24ca68786d1e7bc880981892b23dca8309921f8681b6404bca52c4cc27a",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ipnmlbgdljbkgcfalcnkdpniapfcejge",
+      "name": "Vpn Infinity",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ipnmlbgdljbkgcfalcnkdpniapfcejge",
+      "sha256": "1699a7482ea29ed3bf5177f0b22bf083fab6fc58233233e3ad961df56ae0b343",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ioblinbmkdgbjdenbdpppnpjndpffoac",
+      "name": "Vpn Stealth",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ioblinbmkdgbjdenbdpppnpjndpffoac",
+      "sha256": "9787b53e72ec03e2fd89a14016e8052aaee54b756e9c189816576a422a001d53",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ighpamafollggdlfghclfblnpngimgij",
+      "name": "Azur Radar Vpn \u2014 \u0441\u0438\u043d\u0438\u0439 \u0440\u0430",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ighpamafollggdlfghclfblnpngimgij",
+      "sha256": "ef774697a553cb559d0b87ec716ea8818a0b1713aee49409cd6e0225ad4ac6c8",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "iamdikfaccooafmmcbfiejfgfmhelnko",
+      "name": "VPN Smooth",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/iamdikfaccooafmmcbfiejfgfmhelnko",
+      "sha256": "1687915809668c8d8ccc77ad8242a6e5992eef5df73a0503768b56546ad9fb56",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "fjlifkedcnmjgimkdlbfbnjcackkphdk",
+      "name": "VPN Open",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/fjlifkedcnmjgimkdlbfbnjcackkphdk",
+      "sha256": "3030b76d81c5bcd6cbc4b1be4c78bc10d93c22676eabb870b8624d718dc3cb5f",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "fgklncpkjpbcbjolabnfpgomodpidfgo",
+      "name": "VPN Silent",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/fgklncpkjpbcbjolabnfpgomodpidfgo",
+      "sha256": "42b1c7a2af9b5205a0dee8ec9529811c70db05a76f00b7db21512535344e6651",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "faehgamgihhkfppmgobgflhahmendgmm",
+      "name": "VPN Pure",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/faehgamgihhkfppmgobgflhahmendgmm",
+      "sha256": "69a11195c3c3ce1c598e5e5d1badeba52d31236d0add9b9692d67b86ffd0f469",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ecebacbjoeahboelckonahjcohdhggop",
+      "name": "VPN Ping",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ecebacbjoeahboelckonahjcohdhggop",
+      "sha256": "d6fc47cf8a72a4b895b31c4092c81097605f69e14cdde8bd121f1541e15801ed",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "dogaemdlcfmdgkhemifikmfaaoegmaad",
+      "name": "myxa vpn",
+      "source": "https://socket.dev/blog/chrome-vpn-extension-impersonation",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/dogaemdlcfmdgkhemifikmfaaoegmaad",
+      "sha256": "6481ae01b576553bab05f476bfbf7fcf03b5f610b9d62a3bc725ebfb8d526ec1",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ponkkbidjmhgfaghgomfmnnaligoannj",
+      "name": "Lofi Space Room Live Wall",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ponkkbidjmhgfaghgomfmnnaligoannj",
+      "sha256": "ee3a0fdacda0182b5dbab8e7abd02eb0103f3754e7ee47a415156e853cc6b4fa",
+      "version": "2.1.1"
+    },
+    {
+      "extension_id": "pkkmibecoccknnomleblgnapgglplgmc",
+      "name": "Gta Vi Jason Lucia Gta 6",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/pkkmibecoccknnomleblgnapgglplgmc",
+      "sha256": "cc8db5db7cd178707c2ebdce4842b7b99dcf6589e0ebac7a50ddc07ddc969fa5",
+      "version": "1.1.9"
+    },
+    {
+      "extension_id": "pnpijegmgpofchffahmcikpclajjaokk",
+      "name": "Heads Will Roll Rick And",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/pnpijegmgpofchffahmcikpclajjaokk",
+      "sha256": "2b2591c9a4541d3a94ea6f6b226841a6d02ce22f138957ec2986b48e91fe318c",
+      "version": "2.5.2"
+    },
+    {
+      "extension_id": "pjinlbhilfamgkdgnkcbelojmndeikfc",
+      "name": "Gta Vi Lucia Caminos By T",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/pjinlbhilfamgkdgnkcbelojmndeikfc",
+      "sha256": "80f091f523eb36495df1bb9541b91843e2a6ed9f44e9c91e1d45b56a8e239bb4",
+      "version": "1.1.6"
+    },
+    {
+      "extension_id": "pkcacjfnkipnojkpcpiojnhoonihaobi",
+      "name": "Cyberpunk Fennec Live Wal",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/pkcacjfnkipnojkpcpiojnhoonihaobi",
+      "sha256": "62d4634fc79f4f40b7d5492f7d6aad88ef5810c5aa9a75a144a520d3dfe81a04",
+      "version": "2.61"
+    },
+    {
+      "extension_id": "phcnkcbldjjfbejmfhodlcmkahhakged",
+      "name": "Gachiakuta Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/phcnkcbldjjfbejmfhodlcmkahhakged",
+      "sha256": "7c7d664934937e372cb0e2ec37fca2934c79667536cb10e786480e1a89bc7ab7",
+      "version": "1.1.16"
+    },
+    {
+      "extension_id": "pgaogfpebplecpkcmnnmgikieepgdbpo",
+      "name": "Okarun Dandadan Live Wall",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/pgaogfpebplecpkcmnnmgikieepgdbpo",
+      "sha256": "3156966c4f1459942a4424f501afb071025b6a7062fc6e7ee850ebe558c16d1c",
+      "version": "4.61"
+    },
+    {
+      "extension_id": "pfkoloobollllengcefficcdfgfhndbe",
+      "name": "Cristiano Ronaldo Wallpap",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/pfkoloobollllengcefficcdfgfhndbe",
+      "sha256": "c124d92c4fdae0f1607c45924fb6d101e0fca8a4686312dba59b042a00cf6134",
+      "version": "2.0.0"
+    },
+    {
+      "extension_id": "peajbfinamckgieijekahioamkilcklk",
+      "name": "Assassins Creed Live Wall",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/peajbfinamckgieijekahioamkilcklk",
+      "sha256": "836978792b53af4d7e2243a3aea465b1e411c80d20518c130f54489b03fad003",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "penpajcbocidkkmpkfjkfbpnonhmecmg",
+      "name": "Naruto Clan Akatsuki Live",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/penpajcbocidkkmpkfjkfbpnonhmecmg",
+      "sha256": "0a1b0caf11ee383387403b88b11234bff9609f9042a07493995519faade01d4b",
+      "version": "2.2"
+    },
+    {
+      "extension_id": "pelmfekjdmdkokkkbemmejmbfiaochnf",
+      "name": "Gta Vi Vice City",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/pelmfekjdmdkokkkbemmejmbfiaochnf",
+      "sha256": "980463a216add1d3251e22e8e74ac94c570bcc4b32ed12554b4b9c25dd7923d9",
+      "version": "1.1.8"
+    },
+    {
+      "extension_id": "pejdaeclkikkkmgmmallloomcfohplmm",
+      "name": "Hello Kitty Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/pejdaeclkikkkmgmmallloomcfohplmm",
+      "sha256": "24b4578eb4a399c6e98436f5f9fc31a0f366361e782ce31b3b19116ad6297625",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "pejjbofacmehlldeooekkmhmmgmabboh",
+      "name": "Rudeus Greyrat Live Wallp",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/pejjbofacmehlldeooekkmhmmgmabboh",
+      "sha256": "d0acef5e5a98dc65a8d47a5897758f957ca1c0e6cc1e599e75b1998749790fa9",
+      "version": "1.1.2"
+    },
+    {
+      "extension_id": "pcipfmimmhmmfbcjciecnkbjpnpmchcn",
+      "name": "Madara Uchiha Naruto Live",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/pcipfmimmhmmfbcjciecnkbjpnpmchcn",
+      "sha256": "d4d991c4530b2633b1de60bf8ad387b7161b969b1481485652aefbc817d4aa55",
+      "version": "1.1.7"
+    },
+    {
+      "extension_id": "pdedgfkkkpopgnbfjeoifakhacbbcekj",
+      "name": "Rick And Morty Spaceship",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/pdedgfkkkpopgnbfjeoifakhacbbcekj",
+      "sha256": "4aa8a66db915bf3ec6c10dc5966b087bb0712ebaa6e7954de97551ebf0bedb9b",
+      "version": "2.5.3"
+    },
+    {
+      "extension_id": "ojaebodpdhdhdmjgakmmnaeaohakanlh",
+      "name": "Christmas Cat Live Wallpa",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ojaebodpdhdhdmjgakmmnaeaohakanlh",
+      "sha256": "05324a252933d9307e4b8843b3afb5a6056d05b8d7f0e878146e2345d0a912a1",
+      "version": "4.1.3"
+    },
+    {
+      "extension_id": "ompmlkcgopigoipinolhphjinfefdbjd",
+      "name": "Assassin Anime Girl Live",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ompmlkcgopigoipinolhphjinfefdbjd",
+      "sha256": "2a8d1b643e9de327f43d3bd32ab4ea944a345f15516cbe46daeac487f158fad4",
+      "version": "4.60"
+    },
+    {
+      "extension_id": "oiampijelebpmfahmgempacmpmiliead",
+      "name": "Vehicle Race Car Live Wal",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/oiampijelebpmfahmgempacmpmiliead",
+      "sha256": "f444fad6168d34c6a4410240a28db673c82c6004533d42858e4c4aaedebc4334",
+      "version": "2.1.0"
+    },
+    {
+      "extension_id": "ohhmndhacjeekamhljjefbicokcahnhc",
+      "name": "Satoru Gojo Moon Live Wal",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ohhmndhacjeekamhljjefbicokcahnhc",
+      "sha256": "5807466286cff8870d5b2b52e46587d40c844dde4cc9910b8a196cf87f7d0655",
+      "version": "2.61"
+    },
+    {
+      "extension_id": "ogljdkanllnomgimpifhdcolfnninpia",
+      "name": "Gta Vi Brian Heder Live W",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ogljdkanllnomgimpifhdcolfnninpia",
+      "sha256": "62e68b21a99762c317aff94c9039e70820bcd6056ba9c78eac770bd591d4d2f7",
+      "version": "1.1.13"
+    },
+    {
+      "extension_id": "ohhcibnomcgiocaokhhobpjbeeglngfb",
+      "name": "Naruto Clan Akatsuki Live",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ohhcibnomcgiocaokhhobpjbeeglngfb",
+      "sha256": "d073087c364e5c623988aeaaf3ccae61f13cbf0b8171d9231f0076995837027c",
+      "version": "2.20.1"
+    },
+    {
+      "extension_id": "ofjhljegekmkfdmihcifhbeidmalmhhc",
+      "name": "Tv Show Invincible Live W",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ofjhljegekmkfdmihcifhbeidmalmhhc",
+      "sha256": "e7d7bf4021644491a85ba265a5254acd1ac1a6ed7950254cc05371c59ef888be",
+      "version": "4.70.1"
+    },
+    {
+      "extension_id": "ofngmekkaaifocjmbhllcloongedhdhn",
+      "name": "Hello Kitty Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ofngmekkaaifocjmbhllcloongedhdhn",
+      "sha256": "fe823677718ec77b703c07b7b6e20bc2877b512e091a4b14cb5b7834467a0d8a",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "odiplakdahboamcbmomgggkkfiebjdac",
+      "name": "Paradise Sunset Animated",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/odiplakdahboamcbmomgggkkfiebjdac",
+      "sha256": "9b6969102521ff22edaea2ed46fb164fa4c93000bc05d0d0caa619baff4c1c93",
+      "version": "2.5.1"
+    },
+    {
+      "extension_id": "ocjmkldgcdaifpehbcmpkhckdbpghpkb",
+      "name": "Superman Movie 2025 Live",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ocjmkldgcdaifpehbcmpkhckdbpghpkb",
+      "sha256": "b5d8b704bc4f0a660b6512f4ffe81ee7796f8f370b8dcd687b57c98920bae929",
+      "version": "2.61"
+    },
+    {
+      "extension_id": "ociflhomkokndidcalpmabppgdphfcnp",
+      "name": "The Lord Of The Rings Liv",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ociflhomkokndidcalpmabppgdphfcnp",
+      "sha256": "5316dce53bc0cc84d135aa76c05d8cb32d282a186a713f0012fc076f07237ce8",
+      "version": "2.61"
+    },
+    {
+      "extension_id": "obhhfgjmppimbamdpbpbdcfdfkemmeoj",
+      "name": "Hexagon Grid Blue Live Wa",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/obhhfgjmppimbamdpbpbdcfdfkemmeoj",
+      "sha256": "efd149ca3b1f01bf769ab988a18c5115f1d8c4a84d54da0f4656aa94483b84a0",
+      "version": "2.4.1"
+    },
+    {
+      "extension_id": "obdjkmodbhibicbbgookefkkejofdggb",
+      "name": "Toilet Bound Hanako Kun W",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/obdjkmodbhibicbbgookefkkejofdggb",
+      "sha256": "72721755ee848a1cc1ce7d9a9ae6bb5f6dc60ea7ee8b693ede42c2eedb6e2287",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "oalepiagppldhdmhklegaaakgoecckdj",
+      "name": "Michael Jackson 4K Live W",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/oalepiagppldhdmhklegaaakgoecckdj",
+      "sha256": "2413a00e37cbb46ec2b346b6f8bb2e73eb079b63d4e70375d83d255242773581",
+      "version": "1.1.5"
+    },
+    {
+      "extension_id": "npabnfkfpabjdcdffjpfobjeddfplkgh",
+      "name": "Automobile Vehicle Sports",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/npabnfkfpabjdcdffjpfobjeddfplkgh",
+      "sha256": "1db6a3e219f6a0c78fb4d80dc0f58a0e7141ea76bb49ad078120fdcb81669272",
+      "version": "2.2.3"
+    },
+    {
+      "extension_id": "nnlodgjemioehndeeekbpmplfchohhhm",
+      "name": "Honor Of A Samurai Monoch",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nnlodgjemioehndeeekbpmplfchohhhm",
+      "sha256": "6560efbff9455c35c0d05a18b17e29e31976a35fe5bec235e06f945b5c544e5a",
+      "version": "2.5.2"
+    },
+    {
+      "extension_id": "nnkkmgahjgccpinfdpgeaaoahhijjjnp",
+      "name": "Anime Girl Jjk Live Wallp",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nnkkmgahjgccpinfdpgeaaoahhijjjnp",
+      "sha256": "ae0691b5e36b622ef3ab2817dc8b962c476957433b7dec2faaee68ff73a0119a",
+      "version": "1.1.5"
+    },
+    {
+      "extension_id": "nnjkgdajllcpikpfpkdkeipjfbaehfcb",
+      "name": "Satoru Gojo Jujutsu Kaise",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nnjkgdajllcpikpfpkdkeipjfbaehfcb",
+      "sha256": "b1ca7a3acfff0b8794d046223195d74d3a9b6155533641f77c2e90835da29abd",
+      "version": "4.1.2"
+    },
+    {
+      "extension_id": "nmlhfmgipgpbjkikgcpnhdhaadamlmgi",
+      "name": "Ghost Call Of Duty Modern",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nmlhfmgipgpbjkikgcpnhdhaadamlmgi",
+      "sha256": "638b8c7d470fb8b7a50335b06453c8676eb16fc1228b8556f2b342ff797b88a7",
+      "version": "3.50.2"
+    },
+    {
+      "extension_id": "nnacajaeghohmkphombjinhdbcalphae",
+      "name": "Car Vehicle Sport Live Wa",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nnacajaeghohmkphombjinhdbcalphae",
+      "sha256": "c4903d36e684b47ebf13a8a8b502a4bdc9fcdc51e3916f125181e18fc252ca13",
+      "version": "2.1.1"
+    },
+    {
+      "extension_id": "nlfoejblemjlcabiiidggegpmegocloe",
+      "name": "Ghibli Coffee Shop Live W",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nlfoejblemjlcabiiidggegpmegocloe",
+      "sha256": "348c5008b576357dd3e7df62e0b99a69a982ae9585a3e01eebe31ded5ff6fd6a",
+      "version": "2.5.3"
+    },
+    {
+      "extension_id": "nkbopmnkpfjhpngcpgafplamboaolhig",
+      "name": "Bmw M5 Neon Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nkbopmnkpfjhpngcpgafplamboaolhig",
+      "sha256": "fcf7ead60b1487252481597df41eafeafc5b71187c7ba04d6e0c93aa733b2404",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "nidjhhhlaglbkadnbajphakgabeoplik",
+      "name": "Itachi Uchiha Live Wallpa",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nidjhhhlaglbkadnbajphakgabeoplik",
+      "sha256": "8ea013a2487874b36ae8c3e97d46737264e1b490a0a3beeb63c61fd0a8e6c900",
+      "version": "1.1.4"
+    },
+    {
+      "extension_id": "njaibhembdafclngpcdpjhohhpffcogf",
+      "name": "Car Lights Luxury Live Wa",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/njaibhembdafclngpcdpjhohhpffcogf",
+      "sha256": "d993827f64b119bfa07f5e3e06462d2b7a8c5c773a36ad61a62d70b7d9b2a512",
+      "version": "2.1.1"
+    },
+    {
+      "extension_id": "nhgpcdkcbcfapjpcdnkbhedilmdhabah",
+      "name": "Cr7 Ronaldo Red Passion L",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nhgpcdkcbcfapjpcdnkbhedilmdhabah",
+      "sha256": "535117dcaa6249e53f9d4f0890fbbba284e7ab0c97115c1c9fb10a9ad3a9fc6f",
+      "version": "1.1.15"
+    },
+    {
+      "extension_id": "nhiikldaclmjlaflocilidkcgjgcbcie",
+      "name": "Grogu Baby Yoda Meditatin",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nhiikldaclmjlaflocilidkcgjgcbcie",
+      "sha256": "69891d9ad662757a278a6a24c4f7d30aa70ddacec83fd7d3b7f55368eaa89669",
+      "version": "1.1.13"
+    },
+    {
+      "extension_id": "ngmehmmeelniiknkocbhiplooehjmbja",
+      "name": "Anime Living Room Animati",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ngmehmmeelniiknkocbhiplooehjmbja",
+      "sha256": "08055cd9adbcdcd009f99ac30f1396cb7622e234f6a73a47426bf5f2da10d062",
+      "version": "2.7"
+    },
+    {
+      "extension_id": "nhehgkmjkpgmeapkcaklpolmodcapgch",
+      "name": "Mohamed Salah Iconic Goal",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nhehgkmjkpgmeapkcaklpolmodcapgch",
+      "sha256": "8d09b7afc3ed9fd66bba59caea91833d4d65de6476237d928c9c5758e2c38114",
+      "version": "1.1.2"
+    },
+    {
+      "extension_id": "nepiadmkkohegidfeonbfeamhiaffbai",
+      "name": "Hatsune Miku China Dress",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nepiadmkkohegidfeonbfeamhiaffbai",
+      "sha256": "d983349b908d0c1299734cea957f177c05758f5c3402a9de0de101cbad21c0c2",
+      "version": "2.0.3"
+    },
+    {
+      "extension_id": "nfghjijnajkmcncljjaedmpahoiinekc",
+      "name": "Itachi Uchiha Eternal Fla",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nfghjijnajkmcncljjaedmpahoiinekc",
+      "sha256": "b49f833ed0de20cc3a791d77ac39fa96c6f478d0d3c521b6876a7a76f13c1850",
+      "version": "1.1.10"
+    },
+    {
+      "extension_id": "nemleffhhemanapolmnokjhblcnbhhem",
+      "name": "Itachi Uchiha Live Wallpa",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nemleffhhemanapolmnokjhblcnbhhem",
+      "sha256": "fa98450b61694f41b724f9d00870a636e37244413493ccc8202fd7afdfaeae10",
+      "version": "2.5.2"
+    },
+    {
+      "extension_id": "ndmjbockdbgfaegagoagjodggendobgm",
+      "name": "Lelouch Lamperouge Live W",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ndmjbockdbgfaegagoagjodggendobgm",
+      "sha256": "1c4030b98807372e6002e0a9e832191e7d0f0214837d13a003ca5a4145e3c902",
+      "version": "2.0.2"
+    },
+    {
+      "extension_id": "ncmkjdblhhkpfohpknoaclgbjmbmjkoi",
+      "name": "Hinata\u2019S Heart Of Kindnes",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ncmkjdblhhkpfohpknoaclgbjmbmjkoi",
+      "sha256": "eea980260e5b4d1c3e7a7ad02deb20af58b58ecea34c17c22c40af974e4fa33b",
+      "version": "2.5.2"
+    },
+    {
+      "extension_id": "nacehcolganpjghekkckejahdoifmfke",
+      "name": "King Von Red Halo Dark Ba",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/nacehcolganpjghekkckejahdoifmfke",
+      "sha256": "079628d4abb1bafc44acd102bd89e76e4eb0b7ce4a8464008256ad547a1ca881",
+      "version": "1.1.12"
+    },
+    {
+      "extension_id": "mpcbkmkogckjedlgnichemngbpmgohgd",
+      "name": "Iron Man Marvel Rivals 4K",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mpcbkmkogckjedlgnichemngbpmgohgd",
+      "sha256": "6e528725c4204330082e65d78b95ac69fd53957af808e538bb9e8f472b6a812e",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "moepiiejckicbjkkokgoijhnfpnmdijb",
+      "name": "Kuromi",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/moepiiejckicbjkkokgoijhnfpnmdijb",
+      "sha256": "e13f7f996d686546216f98c5940c70a69bee742b5199f688f520ea2ffb020625",
+      "version": "4.61"
+    },
+    {
+      "extension_id": "mnkofeihlagpdgppcgmaeojhcpicjfld",
+      "name": "Peaceful Ocean Live Wallp",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mnkofeihlagpdgppcgmaeojhcpicjfld",
+      "sha256": "9945953081812429a9625a0221cbd189254b4e3c87138370c29ce22fd97f2287",
+      "version": "1.4.3"
+    },
+    {
+      "extension_id": "mmgaeegljlplbaololdcpofgbppgnajl",
+      "name": "Yellow Nissan Gtr Rain Li",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mmgaeegljlplbaololdcpofgbppgnajl",
+      "sha256": "e97990b3701d59746635197812e31ab8b7ee72ccebc8e94adf0a441fa5287958",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "mldamljabhnhmfllbdodbdjpalndibof",
+      "name": "Satoru Gojo Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mldamljabhnhmfllbdodbdjpalndibof",
+      "sha256": "73bc9a53d587a8e58279e9a6ba0f9a360f54040abb09bbf005444b38b17b8b42",
+      "version": "1.1.13"
+    },
+    {
+      "extension_id": "mlpogccboafomhfoiagkjjafmmblamcb",
+      "name": "Momo Ayase Dandadan Live",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mlpogccboafomhfoiagkjjafmmblamcb",
+      "sha256": "cf95a3f25bde9d7a53e9388f1c7e70e57598548c99d1d3d8adf3fb5154eb89a2",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "mlbhjmbokgdkekcpjpkbhcjlfheoalho",
+      "name": "Scathach Fategrand Order",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mlbhjmbokgdkekcpjpkbhcjlfheoalho",
+      "sha256": "7ace9920f505b43942f1db2dddb079368323fad453009f5eb923455afdb198cc",
+      "version": "1.3"
+    },
+    {
+      "extension_id": "mlkjjgaalpmjgiogoocbaoldgpjeeekk",
+      "name": "Call Of Duty Black Ops 3",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mlkjjgaalpmjgiogoocbaoldgpjeeekk",
+      "sha256": "ae0907d293d3959fea85f3347e68363e29fc87df75c102036465bd97003314e2",
+      "version": "2.7"
+    },
+    {
+      "extension_id": "mkoifggdmmepcaomngnkkkghhgcdhhin",
+      "name": "Zero Two Dance Live Wallp",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mkoifggdmmepcaomngnkkkghhgcdhhin",
+      "sha256": "c334699c3882e60f7f4bf95f7e548321dc906645c31174c3127f2ba10bf47253",
+      "version": "1.1"
+    },
+    {
+      "extension_id": "mkggdfjjjljfnkcponiomlimekpeblgj",
+      "name": "My Melody Kuromi Live Wal",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mkggdfjjjljfnkcponiomlimekpeblgj",
+      "sha256": "297eacb2aabdf12aba66e0c718087515fd7cae837a7e0c3bafb406e054044caa",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "mimlkmcnehkeijoijgbojofejmmikdad",
+      "name": "Mahiru Shiina Christmas E",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mimlkmcnehkeijoijgbojofejmmikdad",
+      "sha256": "14048053737cf4635e03fa846f0413a731b68178c97351037d0dbe3edf5559b6",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "mifgjlcoblmnobjcjdfmjgijcjcdnagk",
+      "name": "Science Word Abstract Sha",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mifgjlcoblmnobjcjdfmjgijcjcdnagk",
+      "sha256": "f6682982343e44c4104d03f388570b82b9e40b741f6072a2912e9db18844ed20",
+      "version": "1.1.3"
+    },
+    {
+      "extension_id": "mibajnconongbgaccopkfdbibmfkigdj",
+      "name": "Ferrari Koenigsegg Live W",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mibajnconongbgaccopkfdbibmfkigdj",
+      "sha256": "c38697e687197bf556438d9de41c43b3ebea7a871c3ce042c7df8528a4e6ee81",
+      "version": "2.5.3"
+    },
+    {
+      "extension_id": "mdmocjpabnhbepdnjmmjlhdgpppajfli",
+      "name": "Jujutsu Kaisen Live Wallp",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mdmocjpabnhbepdnjmmjlhdgpppajfli",
+      "sha256": "9d3c241f354abb41e4604d3e2575f27812af1cc19db773d20566aa9f1ca415e9",
+      "version": "1.1.17"
+    },
+    {
+      "extension_id": "mdjcpoooebpbdjageifcomdjbahmpbjf",
+      "name": "Cute Kitten Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mdjcpoooebpbdjageifcomdjbahmpbjf",
+      "sha256": "6cca7c51e380c31ec33714c281dffdcea56c22efa4b3d2aed231334247fa519a",
+      "version": "4.1.3"
+    },
+    {
+      "extension_id": "mdokomcekjckpdfdmkbdfodbckgdgbkf",
+      "name": "Chaos Of Dandadan Live Wa",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mdokomcekjckpdfdmkbdfodbckgdgbkf",
+      "sha256": "a96e8c9c76701452df89e1db82251fd4eb21b1e5068b8276398ffc80990200a5",
+      "version": "2.1.1"
+    },
+    {
+      "extension_id": "mchfoinmbnbbogcdoohfpdjopcemaknd",
+      "name": "Storm King Fortnite Live",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mchfoinmbnbbogcdoohfpdjopcemaknd",
+      "sha256": "27ae548f0cdfd468fdf29ab7e75ea0f84972e6e9d27a47783476d7631164ba70",
+      "version": "4.61"
+    },
+    {
+      "extension_id": "mclknobnkhcgkghjonillachadefomdg",
+      "name": "Astronaut Earth Planet Li",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mclknobnkhcgkghjonillachadefomdg",
+      "sha256": "367e41613a3b5f7fff2c8f61e5c0a5d51c3119653234651ef078f5e05264a926",
+      "version": "2.2.0"
+    },
+    {
+      "extension_id": "mbmekfahhechnhgjmenfmgccblkjeokp",
+      "name": "Real Rally Car Live Wallp",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/mbmekfahhechnhgjmenfmgccblkjeokp",
+      "sha256": "4fcb6249063992ab43f5c896325f36910b83b7b844ee2e217fd8e3fe721323d0",
+      "version": "3.0"
+    },
+    {
+      "extension_id": "manabnmhohgpjnopdknpjaaglnomeoah",
+      "name": "Breaking Bad Live Wallpap",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/manabnmhohgpjnopdknpjaaglnomeoah",
+      "sha256": "1d5e43230770d28341fc52e7ee85b323b5dbb2b520fe4ff54bbc8dc6727fb054",
+      "version": "1.1.10"
+    },
+    {
+      "extension_id": "lojmjnlfdjdlekidjlofllabpikoonam",
+      "name": "Cinnamoroll In Ocean Live",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/lojmjnlfdjdlekidjlofllabpikoonam",
+      "sha256": "d6bad8c13172a3663f3ba58145a4c26d9fbfb70a79680c863d760cffca55d90c",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "lnjjlickjmjkoiclpneflaimfackgjkc",
+      "name": "Midnight Moon Ride Live W",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/lnjjlickjmjkoiclpneflaimfackgjkc",
+      "sha256": "55b1fe5feabf666478136b8abaa683ef6032fe1afe0c345314e6f780ff80fefb",
+      "version": "1.2.13"
+    },
+    {
+      "extension_id": "lnellihdigpbdofjiehafmaofkgkmmka",
+      "name": "Hatsune Miku China Dress",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/lnellihdigpbdofjiehafmaofkgkmmka",
+      "sha256": "1263483f860de31437e07759dc62487fb96e7c790f4adcac1917525f9e74124b",
+      "version": "2.5.2"
+    },
+    {
+      "extension_id": "llcnipfkndleiciobcmafpkhaoepbekl",
+      "name": "Supra Redline Street Anim",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/llcnipfkndleiciobcmafpkhaoepbekl",
+      "sha256": "ec720099cd756d731f10f0dc863ada93b4fffda266ab630f07fbd0eecbe32db8",
+      "version": "1.2.14"
+    },
+    {
+      "extension_id": "llcmgldlomlheeejkempemgjifddmdid",
+      "name": "Rick And Morty Breaking B",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/llcmgldlomlheeejkempemgjifddmdid",
+      "sha256": "3c1c9b0e2a790a97d83c19bf5fcad0392b23cec9984624f50076b9aa67836fcf",
+      "version": "2.5.3"
+    },
+    {
+      "extension_id": "llaacihdecljedaejkmgcpifcefocgbo",
+      "name": "Gta Vi Drequan Priest Gta",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/llaacihdecljedaejkmgcpifcefocgbo",
+      "sha256": "9f3a6ae1afa93479ab52f36edb0c6d6df9a9737c11f720396c06c625bb03cdf2",
+      "version": "1.1.16"
+    },
+    {
+      "extension_id": "ljncgmelaamnfleahmglkendegciknpe",
+      "name": "Nezuko Cute Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ljncgmelaamnfleahmglkendegciknpe",
+      "sha256": "34d5d825e84e2972a848ba82ba710fe52bcf60e4b506fde8bc612d1bf7617b28",
+      "version": "2.51"
+    },
+    {
+      "extension_id": "lkofopblemhndbgmppldfnhloiokdbkp",
+      "name": "Dan Da Dan Opening Live W",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/lkofopblemhndbgmppldfnhloiokdbkp",
+      "sha256": "252d9a4761ed7039e0f73ecfd7d92788c9f0ea59234f49fbdace3229394ff6a3",
+      "version": "4.61"
+    },
+    {
+      "extension_id": "lifelpeppdjlimnhdkbhbpomljncmkeh",
+      "name": "Dragon Ball Z Live Wallpa",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/lifelpeppdjlimnhdkbhbpomljncmkeh",
+      "sha256": "b6e0a5041ff69285a6dc934e95532c8f17f9b4ed41f5a3b54dbfbfdd680b13e4",
+      "version": "1.7.7"
+    },
+    {
+      "extension_id": "lhogflahimgbekbgobdicepdfhifolbe",
+      "name": "The Amazing Digital Circu",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/lhogflahimgbekbgobdicepdfhifolbe",
+      "sha256": "d5982518850f2f2ea96e401b3d0bc1b9217793a425f2212e7d2b8ad103947f44",
+      "version": "1.1.2"
+    },
+    {
+      "extension_id": "lhnlhhkhfijfmplienpiliidiaeeacgf",
+      "name": "Gta Vi Official Cover Art",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/lhnlhhkhfijfmplienpiliidiaeeacgf",
+      "sha256": "69e3a4d8c9857c498b4711f960286c09d5949d7c26401d61eb1ab923fd82f0ab",
+      "version": "1.1.17"
+    },
+    {
+      "extension_id": "lhbjdalbkchfijjmdjlclcgnkgkjfgbh",
+      "name": "Ghibli Coffee Shop Live W",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/lhbjdalbkchfijjmdjlclcgnkgkjfgbh",
+      "sha256": "1769f02c72010e6cfabb32cb95f30b3d9d5672810bec9739cc7431ea49221742",
+      "version": "2.5.2"
+    },
+    {
+      "extension_id": "lgocfbeocpkmfogenejgdakilhomkiki",
+      "name": "Michael Jackson Pop Art L",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/lgocfbeocpkmfogenejgdakilhomkiki",
+      "sha256": "6f65b9812e48d350c2f481fb3b84c4ee8e2d0b115db43f88bcfad753b8d1bd39",
+      "version": "1.1.11"
+    },
+    {
+      "extension_id": "lgmeadmiopfbbhmddhamajdiekbffkbc",
+      "name": "Sonic The Hedgehog Live W",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/lgmeadmiopfbbhmddhamajdiekbffkbc",
+      "sha256": "3b7139813b8c3d427b18a4a0b29c26e4f075a42c748caa25742c25b3cecd557d",
+      "version": "2.61"
+    },
+    {
+      "extension_id": "lbndokeceldopfegdkilmmlfohkkppdh",
+      "name": "Gta Vi Lucia Caminos Gta",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/lbndokeceldopfegdkilmmlfohkkppdh",
+      "sha256": "06c2e00abecf12b6ab28fb5768136a54e312aeec336d95cdb45e222afe6e7e30",
+      "version": "1.1.16"
+    },
+    {
+      "extension_id": "klblecmlkdhbaejaghmgoaoaejcmacmi",
+      "name": "Mazda Rx7 White Live Wall",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/klblecmlkdhbaejaghmgoaoaejcmacmi",
+      "sha256": "76627773f032ff9d3d6ea5445ff1b9d97f95d8034b9041ef5d70949b2f0bdd60",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "khdlchgbhkahnbhmmenohlkendbjniic",
+      "name": "Black Bmw M760 Live Wallp",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/khdlchgbhkahnbhmmenohlkendbjniic",
+      "sha256": "01390b834b31da720b0ac76f86a10fe4ea4db8e5975f0f84062e2ee44dbb6190",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "kgoenjhfhjgmbaglindnklfaabhkpjnb",
+      "name": "Jujutsu Kaisen Satoru Goj",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/kgoenjhfhjgmbaglindnklfaabhkpjnb",
+      "sha256": "c701a01d50ce3bc071563b4f81751d86c9c077cf8fe4a14e7f2a784ac34b98ad",
+      "version": "1.1.5"
+    },
+    {
+      "extension_id": "jpikbgdjifjhfchihkibclhkiljoplfe",
+      "name": "Cinnamoroll Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/jpikbgdjifjhfchihkibclhkiljoplfe",
+      "sha256": "ff1723b97ecc47d3cea0f7bf0e78befe66252c770aed28381bc66d6fea8861c0",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "joenknegmcjjgoaeolodmfccimondpbf",
+      "name": "Forza Horizon 5 Live Wall",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/joenknegmcjjgoaeolodmfccimondpbf",
+      "sha256": "a18e23378c8a77dad5483b3694a2b32144e7b9403e4ca94b36dc3f8a7e7178c7",
+      "version": "3.1.2"
+    },
+    {
+      "extension_id": "jnmmedjahflejhcnmdnoooaclbjbjpph",
+      "name": "Sukuna Jjk Crimson Destru",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/jnmmedjahflejhcnmdnoooaclbjbjpph",
+      "sha256": "f20ed2e7b570c680bfc8c11fd3dde038dec5297e2307a94431136455e2dcb2e9",
+      "version": "1.1.9"
+    },
+    {
+      "extension_id": "jhabhcbmhnegiboeokbadkccicapjagk",
+      "name": "Gta Vi Boobie Ike Gta 6 L",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/jhabhcbmhnegiboeokbadkccicapjagk",
+      "sha256": "c0322f103778e4b7a6adfb3e3d16c0825f94b9f4eb3e7c20c56e6d8270bec335",
+      "version": "1.1.5"
+    },
+    {
+      "extension_id": "jmfkmpbefhdahdmnjnoelcbcnjaiicdh",
+      "name": "Pompompurin Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/jmfkmpbefhdahdmnjnoelcbcnjaiicdh",
+      "sha256": "b93323b0c731d444635c573f696389b9ae73e36c06c46e5480ddba3700cde484",
+      "version": "3.2.1"
+    },
+    {
+      "extension_id": "jbdphegmnpblcpmmhdokmmmodjfpagma",
+      "name": "Dodge Challenger Srt Hell",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/jbdphegmnpblcpmmhdokmmmodjfpagma",
+      "sha256": "6af7d3ef849841a9880daf2c09e3b7ed3fb790d12cb285e3077872d02ef7e333",
+      "version": "1.1.2"
+    },
+    {
+      "extension_id": "jelnjenojamgafmgalnoacjmaepfacbl",
+      "name": "Grand Theft Auto Vi Colla",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/jelnjenojamgafmgalnoacjmaepfacbl",
+      "sha256": "27449c5af42e91bbea97bdd6ee61d3cb775fad3081e9368ed104d1d8f3bf4489",
+      "version": "1.1.12"
+    },
+    {
+      "extension_id": "jbbeilapadeljbeofochdfaoopemeoic",
+      "name": "Meccha Chameleon Live Wal",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/jbbeilapadeljbeofochdfaoopemeoic",
+      "sha256": "850cd09d0875880188d0f621e759b676441bfb8fb57e7ceaff350f1b6ac3ca70",
+      "version": "1.2.3"
+    },
+    {
+      "extension_id": "ipnpiddnpbnmkadpckcmkhhfkhefjmdd",
+      "name": "Neon Mercedes Amg Gt S Li",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ipnpiddnpbnmkadpckcmkhhfkhefjmdd",
+      "sha256": "2a63887747c0b6e9fb4827755f286f2d66e0c672537559dd19f55ca5f19cc5c1",
+      "version": "2.61"
+    },
+    {
+      "extension_id": "iokobejkjglmagocellanehjkceokncl",
+      "name": "Dark Huntress In A Haunte",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/iokobejkjglmagocellanehjkceokncl",
+      "sha256": "579a772b8d7bc5daa4c816ad3c63c35b9d726b0b73b4dfeee6e3f4386f023c9b",
+      "version": "2.0.3"
+    },
+    {
+      "extension_id": "ipknobbnjlbjnmkppdhccoophangdgnb",
+      "name": "Sunset Over Flower Field",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ipknobbnjlbjnmkppdhccoophangdgnb",
+      "sha256": "745c80a02d764001d71ddf184923f60ef5c4aa823138a6b66bff4cdb672d1089",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "inoifnccigflncehnlbbiagmnhhlmokg",
+      "name": "Bmw M4 Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/inoifnccigflncehnlbbiagmnhhlmokg",
+      "sha256": "3491346947d965e85975c770fe38d65d8ac1e05441a78ba783340cec84813821",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "ioffognagdkocijgeclbdedeojickhma",
+      "name": "Chibi Girl Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ioffognagdkocijgeclbdedeojickhma",
+      "sha256": "c5838cda71304a33d5e58333b3653500145e366badc3d1eae8e0d5db8aeaec3b",
+      "version": "1.1.4"
+    },
+    {
+      "extension_id": "ihpopobkilomddcdcpgmggokfajfhdge",
+      "name": "Counter Strike Live Wallp",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ihpopobkilomddcdcpgmggokfajfhdge",
+      "sha256": "c65b769083114ae249e3ea1ac8419fa9762f59da44a78ee9ff6fc1072f5b3f0d",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "igdngbfkjaifilmnbhhpdigedjdekooa",
+      "name": "Dandadan Momo Ayase Live",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/igdngbfkjaifilmnbhhpdigedjdekooa",
+      "sha256": "9a41b8fb5025b184ff61bab4272fa8af5e619600224c140ed688bad2f08dded4",
+      "version": "2.40.0"
+    },
+    {
+      "extension_id": "ifjnidieoomjmjopajonlonipbfmadpd",
+      "name": "Space Soldier Live Wallpa",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ifjnidieoomjmjopajonlonipbfmadpd",
+      "sha256": "9631b6e3454869b926368a9bcd08f7e49143842668b1b1b108727b1cf9939028",
+      "version": "1.1.3"
+    },
+    {
+      "extension_id": "ifgjmpjhmmkbnklcgmkecndfgjdnhmkj",
+      "name": "One Punch Man Live Wallpa",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ifgjmpjhmmkbnklcgmkecndfgjdnhmkj",
+      "sha256": "1073e05bdf33e12e803eee1280af636a4f116dca5c764842d17547d5d7413bf8",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "icjeonlljijilfkppddhlcnejoikcnji",
+      "name": "Pompompurin Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/icjeonlljijilfkppddhlcnejoikcnji",
+      "sha256": "324eb1ffb2074e41bfe74955e0349d954a2d14db765f5022e29f76394dda51c7",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "idcdheabfmofbnoonjhlpghmebejjdkl",
+      "name": "Cinnamoroll Wallpapers Ne",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/idcdheabfmofbnoonjhlpghmebejjdkl",
+      "sha256": "6c5612f9cb91bc7eb7436fd6dd1db616449dc71c12e06b7908f5ecfb0325d0cd",
+      "version": "20.0.2"
+    },
+    {
+      "extension_id": "iajpocgcmijfllealkhnmedmigbkmgpl",
+      "name": "Turtles Ninjas Live Wallp",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/iajpocgcmijfllealkhnmedmigbkmgpl",
+      "sha256": "270ffbf9db2938771bf13d546d8851cf4c6d2a5ac86d2bc046dc2a30c35575b5",
+      "version": "1.1.6"
+    },
+    {
+      "extension_id": "holfapolfljnmmgdjmalbjejbeijlpdd",
+      "name": "Itachi Uchiha Sharingan L",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/holfapolfljnmmgdjmalbjejbeijlpdd",
+      "sha256": "71829cf07a89943a37de5daf8b99ff642a85636a45e2fd46b112957c9cfb607c",
+      "version": "2.0.1"
+    },
+    {
+      "extension_id": "hhmdlgcklbkjdhdfbfdefbnloiklmbdd",
+      "name": "Porsche 911 Tokyo Drift L",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/hhmdlgcklbkjdhdfbfdefbnloiklmbdd",
+      "sha256": "38d5dd5bec56bd0d0bf21040cd691bb7cce982bbf979a5af9139ece213adbc31",
+      "version": "1.1.6"
+    },
+    {
+      "extension_id": "hfgobokndobpkkpacmeamdlgdhbfofmd",
+      "name": "Lilo Stitch Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/hfgobokndobpkkpacmeamdlgdhbfofmd",
+      "sha256": "2f73df09ca02acf936dc2ef8b4618e6805eb33d1c162b0abbcb4953d141e779c",
+      "version": "1.1.6"
+    },
+    {
+      "extension_id": "gmnlahdadpkkcfhnlajmcacppeegfmog",
+      "name": "Gojo Satoru Six Eyes Powe",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/gmnlahdadpkkcfhnlajmcacppeegfmog",
+      "sha256": "68f4d1cf23a1ff432b13b3f47ad8b4dc21bb483806dcdad57afb4985b0d13dfa",
+      "version": "1.2.2"
+    },
+    {
+      "extension_id": "gliacccemdofihcbafjnncjmojlbbdjf",
+      "name": "Gudetama Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/gliacccemdofihcbafjnncjmojlbbdjf",
+      "sha256": "46dc11207a44fe1ae4cda8328c746466406eb3f59ae3d0eb2949e703bc4823a3",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "fopihjkgdcdoihgaeepolabkaigoilci",
+      "name": "Gachiakuta Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/fopihjkgdcdoihgaeepolabkaigoilci",
+      "sha256": "b34ffb7505f943b4b46b030d92138279d50c8270f8030de29a1488ccd36939ae",
+      "version": "1.2.8"
+    },
+    {
+      "extension_id": "ghilmbanemplcpfmojklibojbmgideff",
+      "name": "Cristiano Ronaldo Insane",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ghilmbanemplcpfmojklibojbmgideff",
+      "sha256": "6d463fd1358ca5626132b863ad7e6b97673a6bc243ed0a823c9c8502330ad32b",
+      "version": "3.3"
+    },
+    {
+      "extension_id": "finkomifiejbpngcfipjhmkacakmmkjn",
+      "name": "My Melody Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/finkomifiejbpngcfipjhmkacakmmkjn",
+      "sha256": "115951d1f61c2818d2152996797246c25c2262fe55ced52df3eb145879138cd1",
+      "version": "4.2.0"
+    },
+    {
+      "extension_id": "fijmiccaficeldmijdpaejhhbedpbfnd",
+      "name": "Hello Kitty Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/fijmiccaficeldmijdpaejhhbedpbfnd",
+      "sha256": "694dd31c765b3e3dcf6c75ce6a9e0955e0fdfcd6ed783d03c533ce42d42bf2e2",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "ficebhdbmogpbkcmkffnhebdcdbicopk",
+      "name": "Cinnamoroll New Tab Live",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ficebhdbmogpbkcmkffnhebdcdbicopk",
+      "sha256": "c99864f85d78cd38a886514d7472bc564a5f38928660df5828157f8ecaa263a0",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "feaikpidjjmejpkhehkfncdcpmjamcha",
+      "name": "Bmw M4 Csi Night Dirft Li",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/feaikpidjjmejpkhehkfncdcpmjamcha",
+      "sha256": "b15154e6a2e95d92187cff792cc11e451f1a1a80befb5601ea0194a8d042e597",
+      "version": "1.1.16"
+    },
+    {
+      "extension_id": "elnlkmoakmmhnhfbdknomnkkgndcofgf",
+      "name": "Pink Anime Car Drift Jdm",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/elnlkmoakmmhnhfbdknomnkkgndcofgf",
+      "sha256": "225c3a3197ede8af1ffb32e5ac358cf6dc721301a63d0a102f4e39bc530afe87",
+      "version": "1.2.3"
+    },
+    {
+      "extension_id": "ejikbleenkkoddlnbgdobihojjeedgok",
+      "name": "Ahri League Of Legends Li",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ejikbleenkkoddlnbgdobihojjeedgok",
+      "sha256": "4d936ebb20db3d1d378a1c465b57fa1dab3af8ac25fc2ff6af426492890f75a2",
+      "version": "2.0.1"
+    },
+    {
+      "extension_id": "eieckogcgmjhfkmioifhlljibjmecnon",
+      "name": "My Melody Wallpaper 4K",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/eieckogcgmjhfkmioifhlljibjmecnon",
+      "sha256": "f43da5fdbcf8b4e4ccf38425fe8a8d6bcc4d55f1d7bdad94be79ae26d1eb855d",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "eilpoppdbcjhgelnpljfnajaighmddgp",
+      "name": "Gta Vi Boobie Ike Gta 6 L",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/eilpoppdbcjhgelnpljfnajaighmddgp",
+      "sha256": "a90e333e190c9b6d42faac3dc225262799e38882b8743671ffb2f17dc2a6fe58",
+      "version": "1.1.3"
+    },
+    {
+      "extension_id": "efpenoamkeniheigcihodplmgjffkgoi",
+      "name": "Frieren And Himmel Winter",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/efpenoamkeniheigcihodplmgjffkgoi",
+      "sha256": "0a9f2071b763e19ccff10a525a3b85fdef02aa20844efde57a0a998ed20199cb",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "ehelnnnpcfllgckkgedamfcfffjjcbhh",
+      "name": "My Melody Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ehelnnnpcfllgckkgedamfcfffjjcbhh",
+      "sha256": "d2e08f870883a32252daa62ada879adff89bbb8c27f0c777dade606dda0020f3",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "eefkmajdffcgajhacghhlnlhcoeigmme",
+      "name": "Cinnamoroll Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/eefkmajdffcgajhacghhlnlhcoeigmme",
+      "sha256": "a56961e9cf17f76f469e3931dc337436915eee9b1bdade4d2674beacf5c4a94c",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "dpffonnmpapopioejdfnbmkcdjdhgndg",
+      "name": "Gta 6 Grand Theft Auto Vi",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/dpffonnmpapopioejdfnbmkcdjdhgndg",
+      "sha256": "ddad4ae639a1ea944c379a55e20236c80a6c2fb6616737b71f93befb3f9691cf",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "dlopgpcggnpkcnpdkehagcbepbhgndke",
+      "name": "Levi Ackerman Walking Tow",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/dlopgpcggnpkcnpdkehagcbepbhgndke",
+      "sha256": "e7957740c47c01f8e926ff1b5395273da3c68a5eecc65aa36571a8ec914085be",
+      "version": "2.0.9"
+    },
+    {
+      "extension_id": "dkjimebmnegdpnondpkpjhphdgcihacp",
+      "name": "Luffy In Gear 5 Live Wall",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/dkjimebmnegdpnondpkpjhphdgcihacp",
+      "sha256": "61748682fa797d02e83cbac77dca3806a075a14b4fd06dd2232a1d9522834fea",
+      "version": "1.2.5"
+    },
+    {
+      "extension_id": "dgbbdhkeocfdbbbkniebalmkddfimdcn",
+      "name": "Michael Jackson Eternal S",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/dgbbdhkeocfdbbbkniebalmkddfimdcn",
+      "sha256": "641906e7f9e6db824a6234718b308d1f9c6df8126a061f0016d1642531038003",
+      "version": "1.1.5"
+    },
+    {
+      "extension_id": "djmobjlfiopkemkafgoabmieabnkbkhd",
+      "name": "Koi Pond Bridge Live Wall",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/djmobjlfiopkemkafgoabmieabnkbkhd",
+      "sha256": "0974fc36416365e3a70dda87890b2189f58dd59decf625bc098148674b9cbb39",
+      "version": "2.5.1"
+    },
+    {
+      "extension_id": "ddadmomjoabmhcbgphpkekgplccdpfgg",
+      "name": "The Iconic Power Of Spide",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ddadmomjoabmhcbgphpkekgplccdpfgg",
+      "sha256": "9dc8b6a8e539cd28ec9de1b4022d8b94a074e0c164f6034407c5eb0a5b5cde68",
+      "version": "1.2.1"
+    },
+    {
+      "extension_id": "cofpbblldcmdkeiedjpkeaikefgoleci",
+      "name": "Gachiakuta Live Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/cofpbblldcmdkeiedjpkeaikefgoleci",
+      "sha256": "72d366d1e8975c6816b146411e5024935c0ef7d3b9158e4e05fa90b78ed936b1",
+      "version": "1.2.1"
+    },
+    {
+      "extension_id": "cdioliiknoidfhhgcelkhkcbieoihofp",
+      "name": "Counter Strike Live Wallp",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/cdioliiknoidfhhgcelkhkcbieoihofp",
+      "sha256": "8302e72c4e8781bca965aee4e61ec5627dfc4371e4d651ee4b6a5238e0416eb9",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "cmhmoockfopgiocebmkbogcgnhnbookk",
+      "name": "Yuji Itadori Inner Collap",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/cmhmoockfopgiocebmkbogcgnhnbookk",
+      "sha256": "62fb2b9f4223365c1d795d7bbd65bf21262f8f0d9cb90bd3829844a1e49dcba1",
+      "version": "1.1.6"
+    },
+    {
+      "extension_id": "bnlkcenhphlofpggjalkhhjbpnokjhjg",
+      "name": "Mercedes Amg Live Wallpap",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/bnlkcenhphlofpggjalkhhjbpnokjhjg",
+      "sha256": "586702eb8e663ad42dbe3e04d3f7e1ad01f073b9945c4949643bd3a401f5144b",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "bkohndfigpbbeiibhfbkjplflfgahlgd",
+      "name": "Cristiano Ronaldo Infogra",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/bkohndfigpbbeiibhfbkjplflfgahlgd",
+      "sha256": "220308cb7f8cc24509900b4e2fd12ce4acaf661096419c48918727d1a9846d1f",
+      "version": "3.2"
+    },
+    {
+      "extension_id": "bcmbijoebgbjfngegmdmigpcjpoeehmd",
+      "name": "Gta Vi Raul Bautista Live",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/bcmbijoebgbjfngegmdmigpcjpoeehmd",
+      "sha256": "e6a0afc2a09239c16fe21fa5ab95ce0e2f40cbf0d0c592d323b859eb4cb8215d",
+      "version": "1.1.5"
+    },
+    {
+      "extension_id": "bfdkjhcedckphnieejhmffmingljmgii",
+      "name": "Samurai Girl Meditates Li",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/bfdkjhcedckphnieejhmffmingljmgii",
+      "sha256": "4a246d32274074b299f3b485dc91ac82ed93b9a76333d46ce73d0f3e1718ad22",
+      "version": "1.1.14"
+    },
+    {
+      "extension_id": "apjpnnjjgdlifmllcdangkmlcfddineg",
+      "name": "One Punch Man Moving Wall",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/apjpnnjjgdlifmllcdangkmlcfddineg",
+      "sha256": "0defcd7924a4e7e9534f998a99beb183cc03d507d0bf0a3f96040a8505b33426",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "alhekhcnegpepacllkbjabdbkdbblgoh",
+      "name": "Vice City Postcard Live W",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/alhekhcnegpepacllkbjabdbkdbblgoh",
+      "sha256": "dc590499ac714876c250625facca51e195c030a0c28178219cb1130d6c75c347",
+      "version": "1.1.11"
+    },
+    {
+      "extension_id": "amjfhnjgkcbpnnapdiacinjmekidmlel",
+      "name": "Lamine Yamal Gta Vice Cit",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/amjfhnjgkcbpnnapdiacinjmekidmlel",
+      "sha256": "ec9d4e88966ab89b5b745cc4872753cae8bde0316c4ff92b3104d885b95391a4",
+      "version": "1.1.17"
+    },
+    {
+      "extension_id": "akikhbdbhamekdajfjapjpaipfohcahn",
+      "name": "Mclaren Cyberpunk Neon Ci",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/akikhbdbhamekdajfjapjpaipfohcahn",
+      "sha256": "29a53ea2401b6b8ba62da930540e3239b3e8e3d0e7be4959c1c184d195636e7e",
+      "version": "2.0.1"
+    },
+    {
+      "extension_id": "aanejgmmpenpmocplmghhfdillnhokhh",
+      "name": "Hello Kitty Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/aanejgmmpenpmocplmghhfdillnhokhh",
+      "sha256": "a57a7be35e151f87178ac8471b9950ed32276f9dd53d5e197808f180e918690c",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "aalpfbnlannkkdpaabpdegnmmmjpddke",
+      "name": "Hello Kitty Live Wallpape",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/aalpfbnlannkkdpaabpdegnmmmjpddke",
+      "sha256": "e268387e6061e9f4393c341fbc12b5f23c97d540879dff9a7573927eaec94951",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "pgpmdjaocahggfhomdfajcohnlbhnhpo",
+      "name": "Magnet Crm El Im\u00e1N Que At",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/pgpmdjaocahggfhomdfajcohnlbhnhpo",
+      "sha256": "224ebdc0970a8f979552d21be1eeca528a679d5a4449364c0189e9dd7318906b",
+      "version": "2.5.2"
+    },
+    {
+      "extension_id": "ligiofbbakinpkkoiloajfmfimkncnam",
+      "name": "Sellzap \u2013 Transforme Conv",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/ligiofbbakinpkkoiloajfmfimkncnam",
+      "sha256": "ac7b10893b50cd63e7d8a3ea1d5734177d3191f049e1d8ba6506614ba3c1a5e1",
+      "version": "1.1"
+    },
+    {
+      "extension_id": "objiahgghaccoclnkbnepbbinpnbkjfe",
+      "name": "Porfiriocrm",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/objiahgghaccoclnkbnepbbinpnbkjfe",
+      "sha256": "5c07d2150a16f16e18c3d46b1198f88714a7d4bdcdfab09c46b95a36a97db7ec",
+      "version": "7.4.2.9"
+    },
+    {
+      "extension_id": "gohhcnipceaifphjiimnlmaajjlnoofk",
+      "name": "Infichat",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/gohhcnipceaifphjiimnlmaajjlnoofk",
+      "sha256": "74aea9abf39f0c227270291b6b958553219890c957aa3486d3ee0174c51916da",
+      "version": "7.4.3.91"
+    },
+    {
+      "extension_id": "jbpdhibifgllfndekgencefaabgbneoa",
+      "name": "Whatstime Crm",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/jbpdhibifgllfndekgencefaabgbneoa",
+      "sha256": "1bbf75d3f8592c799051e983f36e9c4ffa9878111862d2448448bfcdae4eeb09",
+      "version": "7.4.3.91"
+    },
+    {
+      "extension_id": "hegalnahbmbhbhmlaefjaoimoihaegdl",
+      "name": "Wisender Crm",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/hegalnahbmbhbhmlaefjaoimoihaegdl",
+      "sha256": "3e390f5c2b1edc9dec7cb0d180c9d8cf186c3491c3f0dd243eab59ec5cbf7cc2",
+      "version": "7.4.3.91"
+    },
+    {
+      "extension_id": "folpjlonglgghnogonmfnlbkgkapplga",
+      "name": "Black Crm The Ultimate Ka",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/folpjlonglgghnogonmfnlbkgkapplga",
+      "sha256": "5c806e95fa0ba956a1f33e535a1449333c7a7b89ce96072eac0d49f48b7d8aa0",
+      "version": "2.6.7"
+    },
+    {
+      "extension_id": "oipokicjomfiggemigbnpklckljjgoid",
+      "name": "Yacrm Turbo El Mejor Crm",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/oipokicjomfiggemigbnpklckljjgoid",
+      "sha256": "8c58675411f6bb5fa3d17a4f856efbf5e7f60747de91ed6a9169d31b08582f85",
+      "version": "1.7.5"
+    },
+    {
+      "extension_id": "hogpoafgoocfcjocnhkipegncachadeo",
+      "name": "Vende+",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/hogpoafgoocfcjocnhkipegncachadeo",
+      "sha256": "2e5a53958b4ffcc95fcdaee81f9667371ec685ec6614ff21b4041bef4e716fd9",
+      "version": "7.4.3.91"
+    },
+    {
+      "extension_id": "eoelgaofbidelodkeihlpfeclnggclic",
+      "name": "JTOOL",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/eoelgaofbidelodkeihlpfeclnggclic",
+      "sha256": "74599bc9bca3039d3a52969ea45cd15bee8f45e1593fd22faf02e1bed3ff018a",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "glkcaggihaconldhkmmjibjdjojckkfj",
+      "name": "Okiff",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/glkcaggihaconldhkmmjibjdjojckkfj",
+      "sha256": "880a1bd52e024246f597c72ef9c8077364c580f14e4fb43bbe72046a691c740b",
+      "version": "4.9.0"
+    },
+    {
+      "extension_id": "bganomligdhbmmbicdjoeobfoijkbnbh",
+      "name": "Gridiron Mind \u2014 ESPN Auto-Sync",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/bganomligdhbmmbicdjoeobfoijkbnbh",
+      "sha256": "0840eeecc3b2e53827cff9ec4449827deec8dae859ce0d8caa8451a672c078c2",
+      "version": "1.0.6"
+    },
+    {
+      "extension_id": "jpkfgepcmmchgfbjblnodjhldacghenp",
+      "name": "Pie Adblock - A Powerful Free Ad Blocker",
+      "source": "https://github.com/detrin/extensions_report/blob/main/REPORT.md#jpkfgepcmmchgfbjblnodjhldacghenp",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/jpkfgepcmmchgfbjblnodjhldacghenp",
+      "sha256": "7ba1ab6266b643c8200945d4d6933f3637500c79e0903beb41c10fa3a4255e50",
+      "version": "1.33.9"
+    },
     {
       "extension_id": "gabfffndnhbbjlgmbogpfaciajcbpkdn",
       "name": "ChatGPT Chrome Extension - Silly Ai",
@@ -456,6 +2176,16 @@
       "store_url": "https://chromewebstore.google.com/detail/mllkpgcojiooenmengajhkailfjocond",
       "sha256": "adc8831ed68a7265c44bf7f2f3f8fb7ffdd247e7e11de6eb08e685d4d1197563",
       "version": "1.0.1"
+    },
+    {
+      "extension_id": "iiahjhicigeafmhnikaomojkmpbiajmi",
+      "name": "ThisConnect \u2014 BRACU Connect Auto Grade Importer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/iiahjhicigeafmhnikaomojkmpbiajmi",
+      "sha256": "d95f40ced91df42fbf1f636f04c1a5832066e11ef6995ad62196f1338d626677",
+      "version": "3.1.10"
     },
     {
       "extension_id": "gjkbiebjbpngglhnmpenmangmbcekfip",
