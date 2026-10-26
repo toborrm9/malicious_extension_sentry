@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| mjlcplabdamachjdbgdbijldjnmniomo | Fb Multi Manager | Malware | Store Monitoring | 26/10/26 | No | Google Chrome
+| kamendbbjefmkbbgpbeclpdjphibclbe | Verificador De Rut Consul | Policy Violation | Store Monitoring | 26/10/26 | No | Google Chrome
+| niljpmcfnkafjdikphadfhlofhhokjpb | Mts Link Screencast | Policy Violation | Store Monitoring | 25/10/26 | No | Google Chrome
+| bbnajipabdpackmdnkdebjhgfmahiikm | Smooth Scroll | Bundling Unwanted Software | Store Monitoring | 25/10/26 | No | Google Chrome
+| oaaafcgekhmoladombadhamckehopgda | Orbiting Insights | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 25/10/26 | No | Google Chrome
+| acjjhchnekkooeidcjnjpciangnmokgp | MeteorScope | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 25/10/26 | No | Google Chrome
+| diocjjmokglkngklaklokajpeepicphh | SearchOnSite | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 25/10/26 | No | Google Chrome
 | odknomnbhahicaeoggbaljhdipfafaca | Vpn Jet | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 25/10/26 | No | Google Chrome
 | odgjppimodflifpnljdlhilfjpdemfbe | Vpn Secret | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 25/10/26 | No | Google Chrome
 | nehbhgbcomakafhkoiliiiknfhjgdfbg | Vpn True | Malware | [socket.dev](https://socket.dev/blog/chrome-vpn-extension-impersonation) | 25/10/26 | No | Google Chrome
