@@ -1,5 +1,10 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| pdbllpblimbcbfhaamfchpgliobdlkbm | Ask Chat GPT | Policy Violation | Store Monitoring | 27/10/26 | No | Google Chrome
+| dincpanppoggcmclgkkbmngndfckfbof | Tiktok Downloader\|Video,MP3 download,remove watermarks | Policy Violation | Store Monitoring | 27/10/26 | No | Google Chrome
+| jimbpmfklgngdgdjenapmjakpicjljmb | TikTok Research Data Exporter | Policy Violation | Store Monitoring | 27/10/26 | No | Google Chrome
+| pompligijhdplfjichelnlbcflcdcbfd | BaseDex | Malware | Store Monitoring | 27/10/26 | No | Google Chrome
+| ojdobfdnceoceckhlgablibjfeclfhcp | Minh Digi SEO - Phân tích On-page | Policy Violation | Store Monitoring | 27/10/26 | No | Google Chrome
 | mjlcplabdamachjdbgdbijldjnmniomo | Fb Multi Manager | Malware | Store Monitoring | 26/10/26 | No | Google Chrome
 | kamendbbjefmkbbgpbeclpdjphibclbe | Verificador De Rut Consul | Policy Violation | Store Monitoring | 26/10/26 | No | Google Chrome
 | niljpmcfnkafjdikphadfhlofhhokjpb | Mts Link Screencast | Policy Violation | Store Monitoring | 25/10/26 | No | Google Chrome
