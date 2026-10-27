@@ -1,12 +1,132 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-26T21:36:16Z",
+  "generated": "2026-10-27T14:02:03Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 7969,
+  "total_indicators": 7981,
   "indicators": [
+    {
+      "extension_id": "pdbllpblimbcbfhaamfchpgliobdlkbm",
+      "name": "Ask Chat GPT",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-27",
+      "store_url": "https://chromewebstore.google.com/detail/pdbllpblimbcbfhaamfchpgliobdlkbm",
+      "sha256": "f296af8f6e1e02675c12912943fff4e392428fca38895e2e3d2d1f5622d5d13e",
+      "version": "1.0.5"
+    },
+    {
+      "extension_id": "dincpanppoggcmclgkkbmngndfckfbof",
+      "name": "Tiktok Downloader|Video,MP3 download,remove watermarks",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-27",
+      "store_url": "https://chromewebstore.google.com/detail/dincpanppoggcmclgkkbmngndfckfbof",
+      "sha256": "8e9564eb763b28df97bed29b4bfc26a008512b41a1464955d98d52bfd6485170",
+      "version": "1.1.12"
+    },
+    {
+      "extension_id": "jimbpmfklgngdgdjenapmjakpicjljmb",
+      "name": "TikTok Research Data Exporter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-27",
+      "store_url": "https://chromewebstore.google.com/detail/jimbpmfklgngdgdjenapmjakpicjljmb",
+      "sha256": "b7ee00bb2c4b890fc3dc8a9ec1f51be6e93911218582c810e0802e33f8dd4a86",
+      "version": "1.1.4"
+    },
+    {
+      "extension_id": "pompligijhdplfjichelnlbcflcdcbfd",
+      "name": "BaseDex",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-27",
+      "store_url": "https://chromewebstore.google.com/detail/pompligijhdplfjichelnlbcflcdcbfd",
+      "sha256": "2fb6a1a74b079b310d2bfdd7bb86bd2712d952592884da11321b705b74606ba0",
+      "version": "26.10.15"
+    },
+    {
+      "extension_id": "ojdobfdnceoceckhlgablibjfeclfhcp",
+      "name": "Minh Digi SEO - Ph\u00e2n t\u00edch On-page",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-27",
+      "store_url": "https://chromewebstore.google.com/detail/ojdobfdnceoceckhlgablibjfeclfhcp",
+      "sha256": "4d485c5c07c0693a3139b402eb178530db6c061bfd2c4fc71787b8e603d93134",
+      "version": "0.38.2"
+    },
+    {
+      "extension_id": "mjlcplabdamachjdbgdbijldjnmniomo",
+      "name": "Fb Multi Manager",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-26",
+      "store_url": "https://chromewebstore.google.com/detail/mjlcplabdamachjdbgdbijldjnmniomo",
+      "sha256": "b5d7469bc9b77633b69c384a441cffd9d8c2d1d563007ba3ce784de25544781b",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "kamendbbjefmkbbgpbeclpdjphibclbe",
+      "name": "Verificador De Rut Consul",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-26",
+      "store_url": "https://chromewebstore.google.com/detail/kamendbbjefmkbbgpbeclpdjphibclbe",
+      "sha256": "914f700b6db874680af0be327e1f0f7d3d7c1de69c6a6d396804e4e147e44a9a",
+      "version": "1.5.2"
+    },
+    {
+      "extension_id": "niljpmcfnkafjdikphadfhlofhhokjpb",
+      "name": "Mts Link Screencast",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/niljpmcfnkafjdikphadfhlofhhokjpb",
+      "sha256": "38612bafa7b994f382844b26e1dad2f4cdb8a4bf6a19aa90d7d8727d23064e8a",
+      "version": "0.1.1"
+    },
+    {
+      "extension_id": "bbnajipabdpackmdnkdebjhgfmahiikm",
+      "name": "Smooth Scroll",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/bbnajipabdpackmdnkdebjhgfmahiikm",
+      "sha256": "3ccafb6e8898dd41b65d12341a5e081f408265ee075077bb3754874748303517",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "oaaafcgekhmoladombadhamckehopgda",
+      "name": "Orbiting Insights",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/oaaafcgekhmoladombadhamckehopgda",
+      "sha256": "df6d8c33a0b1c1c64e5adfc14b9522bb42836c8d8eff62c8310cf64887d8644b",
+      "version": "0.0.1"
+    },
+    {
+      "extension_id": "acjjhchnekkooeidcjnjpciangnmokgp",
+      "name": "MeteorScope",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/acjjhchnekkooeidcjnjpciangnmokgp",
+      "sha256": "2f9607a2e9a2e6b1490682d03c0767bda1592d5825a2af0f80e0b0fd372c91e3",
+      "version": "0.0.3"
+    },
+    {
+      "extension_id": "diocjjmokglkngklaklokajpeepicphh",
+      "name": "SearchOnSite",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-25",
+      "store_url": "https://chromewebstore.google.com/detail/diocjjmokglkngklaklokajpeepicphh",
+      "sha256": "ddbf1d600a61f2c9bb7befbf9c7c40d5167e8fe8c564b01cee3b90154e2173b7",
+      "version": "0.0.2"
+    },
     {
       "extension_id": "odknomnbhahicaeoggbaljhdipfafaca",
       "name": "Vpn Jet",
