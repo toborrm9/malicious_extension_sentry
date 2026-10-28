@@ -1,5 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| epoipicdijmpedfdkjamnjfgodfjojad | SFL | Search Hijacking | MalExt Analysis | 28/10/26 | No | Google Chrome
+| iibpgpkhpfggipbacjfeijkloidhmiei | Color by Fardos - Color Picker | Adware | [github.com](https://github.com/detrin/extensions_report/tree/main/confirmed/iibpgpkhpfggipbacjfeijkloidhmiei) | 28/10/26 | No | Google Chrome
+| eingklpogjmofcedolfbgoomghkaamkn | Prime Party [QVI] | Spyware | [github.com](https://github.com/detrin/extensions_report/tree/main/confirmed/eingklpogjmofcedolfbgoomghkaamkn) | 28/10/26 | No | Google Chrome
+| gjcgfkhgpaccjpjokgpekpgpphgaanej | Netflix™ Extended [QVI] | Spyware | [github.com](https://github.com/detrin/extensions_report/tree/main/confirmed/gjcgfkhgpaccjpjokgpekpgpphgaanej) | 28/10/26 | No | Google Chrome
+| pgpdfnkeeppfohmophlpcfmciioeenig | Hulu Ad Skipper \| Ad Blocker [QVI] | Spyware | [github.com](https://github.com/detrin/extensions_report/tree/main/confirmed/pgpdfnkeeppfohmophlpcfmciioeenig) | 28/10/26 | No | Google Chrome
+| jpnhbbmiiebacoblojhdagcffdnablkp | Picture in Picture works with Disney Plus [QVI] | Spyware | [github.com](https://github.com/detrin/extensions_report/tree/main/confirmed/jpnhbbmiiebacoblojhdagcffdnablkp) | 28/10/26 | No | Google Chrome
+| mbnbehikldjhnfehhnaidhjhoofhpehk | CSS Peeper | Adware | [github.com](https://github.com/detrin/extensions_report/tree/main/confirmed/mbnbehikldjhnfehhnaidhjhoofhpehk) | 28/10/26 | No | Google Chrome
+| adlpodnneegcnbophopdmhedicjbcgco | Free VPN for Chrome - Troywell VPN | Adware | [github.com](https://github.com/detrin/extensions_report/tree/main/confirmed/adlpodnneegcnbophopdmhedicjbcgco) | 28/10/26 | No | Google Chrome
+| camppjleccjaphfdbohjdohecfnoikec | Merlin AI | Spyware | [github.com](https://github.com/detrin/extensions_report/tree/main/confirmed/camppjleccjaphfdbohjdohecfnoikec) | 28/10/26 | No | Google Chrome
+| cmkdbmfndkfgebldhnkbfhlneefdaaip | WhatRuns | Spyware | [github.com](https://github.com/detrin/extensions_report/blob/main/confirmed/cmkdbmfndkfgebldhnkbfhlneefdaaip/README.md) | 28/10/26 | No | Google Chrome
 | heineeehdkbihldpkmmokbeblejihnmc | IndiaMART Listing Automation – Frontbit AI | Policy Violation | Store Monitoring | 28/10/26 | No | Google Chrome
 | pfnagcdnoaagflfiogdeadpgkoccogpc | Website Security Scanner | Policy Violation | Store Monitoring | 28/10/26 | No | Google Chrome
 | ninmnkcainfimpdekpiblgokdbdfipin | Dub.co Link Shortener - Replace URLs via Context Menu | Policy Violation | Store Monitoring | 28/10/26 | No | Google Chrome
@@ -5548,6 +5558,9 @@
 | oigfpjciikeohdlpddnekohneanpjfnk | wlojas | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 16/06/26 | No | Google Chrome
 | lmoiokdhmchhgefcojdpcakkggejccdc | Was Hub | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 16/06/26 | No | Google Chrome
 | jhmokkkndhlngbphddmpipnjpnoklpdb | SellerHub360 | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 16/06/26 | No | Google Chrome
+| nkgfolilbhafgmakkdhlgidohpjboejm | Volume Booster | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/18aba081e8cec1ad33617353fff88447aac79af9/2026-06-15-Trojanized-Chrome-extension-campaign-for-covert-ad-monetization.txt) | 15/06/26 | No | Google Chrome
+| ckofgokcbincglcbpojbkimgnpflbhia | Spotify Speed Controller | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/18aba081e8cec1ad33617353fff88447aac79af9/2026-06-15-Trojanized-Chrome-extension-campaign-for-covert-ad-monetization.txt) | 15/06/26 | No | Google Chrome
+| chccnlplhpjmlgfneleoilcchcaijbae | Screen Recorder Free Scre | Malware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/18aba081e8cec1ad33617353fff88447aac79af9/2026-06-15-Trojanized-Chrome-extension-campaign-for-covert-ad-monetization.txt) | 15/06/26 | No | Google Chrome
 | eicibdbdaedbgaoikodgpoikeegncpag | Woobie | Policy Violation | Store Monitoring | 15/06/26 | No | Google Chrome
 | oikgbpcmdphfkhplgkfngjilemlolann | Freshy Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 15/06/26 | No | Google Chrome
 | cnkcgoiimpncbonlilkekbigfhchcbgb | Template Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 15/06/26 | No | Google Chrome
