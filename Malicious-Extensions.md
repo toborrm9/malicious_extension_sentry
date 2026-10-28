@@ -1,5 +1,11 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| heineeehdkbihldpkmmokbeblejihnmc | IndiaMART Listing Automation – Frontbit AI | Policy Violation | Store Monitoring | 28/10/26 | No | Google Chrome
+| pfnagcdnoaagflfiogdeadpgkoccogpc | Website Security Scanner | Policy Violation | Store Monitoring | 28/10/26 | No | Google Chrome
+| ninmnkcainfimpdekpiblgokdbdfipin | Dub.co Link Shortener - Replace URLs via Context Menu | Policy Violation | Store Monitoring | 28/10/26 | No | Google Chrome
+| ldbahoehoaljkgblkeplnbjkeohppdae | TikTok Upload Time Viewer | Policy Violation | Store Monitoring | 28/10/26 | No | Google Chrome
+| mljgjdaaopkcipmkdeafdopnopbaompo | PolySniper - Polymarket Arbitrage | Policy Violation | Store Monitoring | 28/10/26 | No | Google Chrome
+| abjafhjpfhochhbmbldmbahnmldkclgm | Revoke.cash - tracker scam protection | Malware | Store Monitoring | 28/10/26 | No | Google Chrome
 | pdbllpblimbcbfhaamfchpgliobdlkbm | Ask Chat GPT | Policy Violation | Store Monitoring | 27/10/26 | No | Google Chrome
 | dincpanppoggcmclgkkbmngndfckfbof | Tiktok Downloader\|Video,MP3 download,remove watermarks | Policy Violation | Store Monitoring | 27/10/26 | No | Google Chrome
 | jimbpmfklgngdgdjenapmjakpicjljmb | TikTok Research Data Exporter | Policy Violation | Store Monitoring | 27/10/26 | No | Google Chrome
