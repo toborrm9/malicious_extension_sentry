@@ -1,12 +1,72 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-27T14:02:03Z",
+  "generated": "2026-10-28T14:45:52Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 7981,
+  "total_indicators": 7987,
   "indicators": [
+    {
+      "extension_id": "heineeehdkbihldpkmmokbeblejihnmc",
+      "name": "IndiaMART Listing Automation \u2013 Frontbit AI",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-28",
+      "store_url": "https://chromewebstore.google.com/detail/heineeehdkbihldpkmmokbeblejihnmc",
+      "sha256": "c9b2484db244a2940a56ae0ce8acbd5bb0541981f6dc13dc95db14a4536bc5ac",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "pfnagcdnoaagflfiogdeadpgkoccogpc",
+      "name": "Website Security Scanner",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-28",
+      "store_url": "https://chromewebstore.google.com/detail/pfnagcdnoaagflfiogdeadpgkoccogpc",
+      "sha256": "42f10df3c3ae44460c60043f126cd44f09288a452d59b1e1fe755482ed5a3ff0",
+      "version": "1.0.4"
+    },
+    {
+      "extension_id": "ninmnkcainfimpdekpiblgokdbdfipin",
+      "name": "Dub.co Link Shortener - Replace URLs via Context Menu",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-28",
+      "store_url": "https://chromewebstore.google.com/detail/ninmnkcainfimpdekpiblgokdbdfipin",
+      "sha256": "ae364d4474cb048a49f80a0a72cd5c503e55e4fe2829cd710dcd8c2c32f954eb",
+      "version": "0.0.1"
+    },
+    {
+      "extension_id": "ldbahoehoaljkgblkeplnbjkeohppdae",
+      "name": "TikTok Upload Time Viewer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-28",
+      "store_url": "https://chromewebstore.google.com/detail/ldbahoehoaljkgblkeplnbjkeohppdae",
+      "sha256": "14d5daa2955c0fae2ba22165159a1ab4756eb3a4b06b17b64d69384d215cd03c",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "mljgjdaaopkcipmkdeafdopnopbaompo",
+      "name": "PolySniper - Polymarket Arbitrage",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-28",
+      "store_url": "https://chromewebstore.google.com/detail/mljgjdaaopkcipmkdeafdopnopbaompo",
+      "sha256": "cadfc1ee2d84ddaa5920fc6bf71e84e3a7233585f80a65c5db5d15b18151f415",
+      "version": "1.1.0"
+    },
+    {
+      "extension_id": "abjafhjpfhochhbmbldmbahnmldkclgm",
+      "name": "Revoke.cash - tracker scam protection",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-28",
+      "store_url": "https://chromewebstore.google.com/detail/abjafhjpfhochhbmbldmbahnmldkclgm",
+      "sha256": "6b014bab2417d4e2f6f4640ee405d5d36367e47c66535839e6701e39cc370a97",
+      "version": "1.1.4"
+    },
     {
       "extension_id": "pdbllpblimbcbfhaamfchpgliobdlkbm",
       "name": "Ask Chat GPT",
