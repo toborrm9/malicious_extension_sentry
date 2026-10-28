@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-10-28",
-    "timestamp": "1793198754",
+    "timestamp": "1793218436",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,466 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "9df67a42-e957-523f-8c97-a90dadb3ae89",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "epoipicdijmpedfdkjamnjfgodfjojad",
+        "comment": "SFL | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-10-28 | Version: 1.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "1270890a-4c4e-57dd-b6bf-0276f2f9740d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/epoipicdijmpedfdkjamnjfgodfjojad",
+        "comment": "Chrome Web Store entry for SFL (epoipicdijmpedfdkjamnjfgodfjojad)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "729269f4-dcf2-58a4-b197-53ee941e5763",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fa1690c34b7046d47bb5df477a73b9345d2c019310492bda6fc905498b5e0231",
+        "comment": "SHA-256 of extension package for SFL (epoipicdijmpedfdkjamnjfgodfjojad)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "541578e9-a644-54a2-a77a-7f22f1d35ce8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iibpgpkhpfggipbacjfeijkloidhmiei",
+        "comment": "Color by Fardos - Color Picker | Source: https://github.com/detrin/extensions_report/tree/main/confirmed/iibpgpkhpfggipbacjfeijkloidhmiei | Store: Google Chrome | Added: 2026-10-28 | Version: 3.2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/detrin/extensions_report/tree/main/confirmed/iibpgpkhpfggipbacjfeijkloidhmiei\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "71134286-650b-57cf-b1d8-c0e98ac5bde7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iibpgpkhpfggipbacjfeijkloidhmiei",
+        "comment": "Chrome Web Store entry for Color by Fardos - Color Picker (iibpgpkhpfggipbacjfeijkloidhmiei)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d2a56dea-226a-5e17-a2a9-9a9b59a98918",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "da11b5ac7321b88a43ea0cafd69576faf913b3c948b3549d46d430fad53293ba",
+        "comment": "SHA-256 of extension package for Color by Fardos - Color Picker (iibpgpkhpfggipbacjfeijkloidhmiei)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "55332179-9aac-584e-a9d7-c795351b4306",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eingklpogjmofcedolfbgoomghkaamkn",
+        "comment": "Prime Party [QVI] | Source: https://github.com/detrin/extensions_report/tree/main/confirmed/eingklpogjmofcedolfbgoomghkaamkn | Store: Google Chrome | Added: 2026-10-28 | Version: 0.9.38",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/detrin/extensions_report/tree/main/confirmed/eingklpogjmofcedolfbgoomghkaamkn\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.9.38\""
+          }
+        ]
+      },
+      {
+        "uuid": "f42cf916-570d-5974-a7d4-03d09dfd1037",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eingklpogjmofcedolfbgoomghkaamkn",
+        "comment": "Chrome Web Store entry for Prime Party [QVI] (eingklpogjmofcedolfbgoomghkaamkn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dc03da5c-d9d3-5afa-88f2-2722ce95a283",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b6969ce2622b15125520f511c117ce33337f2bc2abbcfba16f8c7d9df11ea8b9",
+        "comment": "SHA-256 of extension package for Prime Party [QVI] (eingklpogjmofcedolfbgoomghkaamkn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "57290990-f38d-5775-9816-1ad96cd0fbb7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gjcgfkhgpaccjpjokgpekpgpphgaanej",
+        "comment": "Netflix\u2122 Extended [QVI] | Source: https://github.com/detrin/extensions_report/tree/main/confirmed/gjcgfkhgpaccjpjokgpekpgpphgaanej | Store: Google Chrome | Added: 2026-10-28 | Version: 8.2.36",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/detrin/extensions_report/tree/main/confirmed/gjcgfkhgpaccjpjokgpekpgpphgaanej\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"8.2.36\""
+          }
+        ]
+      },
+      {
+        "uuid": "20e50681-2843-57b2-8b58-f0bc4c5f006e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gjcgfkhgpaccjpjokgpekpgpphgaanej",
+        "comment": "Chrome Web Store entry for Netflix\u2122 Extended [QVI] (gjcgfkhgpaccjpjokgpekpgpphgaanej)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "51c40929-04ba-574a-8d97-bd07cc85a571",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ad94059c4790e0abedf2916bdfa836b68b84a50d7d8ca2e5eebb9936f0f3f055",
+        "comment": "SHA-256 of extension package for Netflix\u2122 Extended [QVI] (gjcgfkhgpaccjpjokgpekpgpphgaanej)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "77a7e5aa-3cd4-5a1c-9281-04226f4675f3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pgpdfnkeeppfohmophlpcfmciioeenig",
+        "comment": "Hulu Ad Skipper | Ad Blocker [QVI] | Source: https://github.com/detrin/extensions_report/tree/main/confirmed/pgpdfnkeeppfohmophlpcfmciioeenig | Store: Google Chrome | Added: 2026-10-28 | Version: 1.7.34",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/detrin/extensions_report/tree/main/confirmed/pgpdfnkeeppfohmophlpcfmciioeenig\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.7.34\""
+          }
+        ]
+      },
+      {
+        "uuid": "0f8a5224-6379-5951-be86-4e9db2c569c5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pgpdfnkeeppfohmophlpcfmciioeenig",
+        "comment": "Chrome Web Store entry for Hulu Ad Skipper | Ad Blocker [QVI] (pgpdfnkeeppfohmophlpcfmciioeenig)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0762ba8a-ff8e-54d3-b010-3526c5d7167f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4c42aa019c2d9b5c90cd6b5e6b12be72cbbdae696a2fe19c9246ba5362ba7e9f",
+        "comment": "SHA-256 of extension package for Hulu Ad Skipper | Ad Blocker [QVI] (pgpdfnkeeppfohmophlpcfmciioeenig)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6886b2f6-fdf8-5232-99c6-2f3d3cf798e2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jpnhbbmiiebacoblojhdagcffdnablkp",
+        "comment": "Picture in Picture works with Disney Plus [QVI] | Source: https://github.com/detrin/extensions_report/tree/main/confirmed/jpnhbbmiiebacoblojhdagcffdnablkp | Store: Google Chrome | Added: 2026-10-28 | Version: 1.1.49",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/detrin/extensions_report/tree/main/confirmed/jpnhbbmiiebacoblojhdagcffdnablkp\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.49\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca3d3b6a-9715-514c-ae89-c13d5925f2d9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jpnhbbmiiebacoblojhdagcffdnablkp",
+        "comment": "Chrome Web Store entry for Picture in Picture works with Disney Plus [QVI] (jpnhbbmiiebacoblojhdagcffdnablkp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4323cffe-4eff-594f-9aa8-e2973a39dfb5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d5500b02bcce1bb2eb4e09a45df7588cf6fcc64c8a8923ecc2b8e00859ba81b1",
+        "comment": "SHA-256 of extension package for Picture in Picture works with Disney Plus [QVI] (jpnhbbmiiebacoblojhdagcffdnablkp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4e9710c9-7ae7-5f23-8a65-15f436d198c3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mbnbehikldjhnfehhnaidhjhoofhpehk",
+        "comment": "CSS Peeper | Source: https://github.com/detrin/extensions_report/tree/main/confirmed/mbnbehikldjhnfehhnaidhjhoofhpehk | Store: Google Chrome | Added: 2026-10-28 | Version: 1.2.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/detrin/extensions_report/tree/main/confirmed/mbnbehikldjhnfehhnaidhjhoofhpehk\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "86b6959f-7129-5b3b-8d2f-e6d67c08f788",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mbnbehikldjhnfehhnaidhjhoofhpehk",
+        "comment": "Chrome Web Store entry for CSS Peeper (mbnbehikldjhnfehhnaidhjhoofhpehk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8680cb3c-5902-5f25-90fc-9795909dfd55",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1a6e16845ead959d7219b8e064338b60b46baaf64b7d80a975cb8bc06676b0b6",
+        "comment": "SHA-256 of extension package for CSS Peeper (mbnbehikldjhnfehhnaidhjhoofhpehk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3c25e05b-bb1d-5550-9f7a-3de27b98d917",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adlpodnneegcnbophopdmhedicjbcgco",
+        "comment": "Free VPN for Chrome - Troywell VPN | Source: https://github.com/detrin/extensions_report/tree/main/confirmed/adlpodnneegcnbophopdmhedicjbcgco | Store: Google Chrome | Added: 2026-10-28 | Version: 5.0.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/detrin/extensions_report/tree/main/confirmed/adlpodnneegcnbophopdmhedicjbcgco\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"5.0.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "cecc53fe-fd48-59d3-8b74-b5884057b8fa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/adlpodnneegcnbophopdmhedicjbcgco",
+        "comment": "Chrome Web Store entry for Free VPN for Chrome - Troywell VPN (adlpodnneegcnbophopdmhedicjbcgco)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fe4f4567-7e55-5639-a2c6-bd9692aed62d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c74b8ff75238938b710a213ff3915d1256a8577216ef542572d33779ab994fca",
+        "comment": "SHA-256 of extension package for Free VPN for Chrome - Troywell VPN (adlpodnneegcnbophopdmhedicjbcgco)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ccb9c2cf-3a41-5049-938f-63392a8027e8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "camppjleccjaphfdbohjdohecfnoikec",
+        "comment": "Merlin AI | Source: https://github.com/detrin/extensions_report/tree/main/confirmed/camppjleccjaphfdbohjdohecfnoikec | Store: Google Chrome | Added: 2026-10-28 | Version: 8.3.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/detrin/extensions_report/tree/main/confirmed/camppjleccjaphfdbohjdohecfnoikec\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"8.3.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "709b2ae9-55fb-5eeb-b502-d2931f175522",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/camppjleccjaphfdbohjdohecfnoikec",
+        "comment": "Chrome Web Store entry for Merlin AI (camppjleccjaphfdbohjdohecfnoikec)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4f6c032e-4a2c-5230-aa8b-60c4af29f610",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4ed75b0d99d4dee11db7c38876466325d7b44ca2df72c3f85d3fc3e06f7671dc",
+        "comment": "SHA-256 of extension package for Merlin AI (camppjleccjaphfdbohjdohecfnoikec)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "22a7c403-8fbb-5309-88b6-3890058848ed",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cmkdbmfndkfgebldhnkbfhlneefdaaip",
+        "comment": "WhatRuns | Source: https://github.com/detrin/extensions_report/blob/main/confirmed/cmkdbmfndkfgebldhnkbfhlneefdaaip/README.md | Store: Google Chrome | Added: 2026-10-28 | Version: 1.11.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/detrin/extensions_report/blob/main/confirmed/cmkdbmfndkfgebldhnkbfhlneefdaaip/README.md\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.11.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "2de764b2-5ebd-52ec-a51e-9014df89c9c0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip",
+        "comment": "Chrome Web Store entry for WhatRuns (cmkdbmfndkfgebldhnkbfhlneefdaaip)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "27b7b700-76e6-5bd6-9ddc-fc641595be77",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e53508613fdec7742f64853f51bcaea5033b6fa36b8a549f9effb733f7927b44",
+        "comment": "SHA-256 of extension package for WhatRuns (cmkdbmfndkfgebldhnkbfhlneefdaaip)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "8e0eaa8c-fef9-5491-8267-fb4b1ec1e6bc",
         "type": "text",
@@ -243770,6 +244230,144 @@
         "to_ids": true,
         "value": "16584590328fecf11c907bd786cb5f397d2bc54f9f7fa42b61a7291440c66a28",
         "comment": "SHA-256 of extension package for SellerHub360 (jhmokkkndhlngbphddmpipnjpnoklpdb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "46d3f2b5-f9bb-5f9d-af43-9f9fa536cafa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nkgfolilbhafgmakkdhlgidohpjboejm",
+        "comment": "Volume Booster | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/18aba081e8cec1ad33617353fff88447aac79af9/2026-06-15-Trojanized-Chrome-extension-campaign-for-covert-ad-monetization.txt | Store: Google Chrome | Added: 2026-06-15 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/18aba081e8cec1ad33617353fff88447aac79af9/2026-06-15-Trojanized-Chrome-extension-campaign-for-covert-ad-monetization.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "af186c58-485c-54d5-8358-8ecc9c710a89",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nkgfolilbhafgmakkdhlgidohpjboejm",
+        "comment": "Chrome Web Store entry for Volume Booster (nkgfolilbhafgmakkdhlgidohpjboejm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "76d5bef7-cfea-592c-8066-9ab7e35512c3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f4326eab1638581d28859eaead451794ac49a547343fe55316ba72bb9931f6ec",
+        "comment": "SHA-256 of extension package for Volume Booster (nkgfolilbhafgmakkdhlgidohpjboejm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9a60ea6c-1e9e-5307-ab87-319147ad0b7c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ckofgokcbincglcbpojbkimgnpflbhia",
+        "comment": "Spotify Speed Controller | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/18aba081e8cec1ad33617353fff88447aac79af9/2026-06-15-Trojanized-Chrome-extension-campaign-for-covert-ad-monetization.txt | Store: Google Chrome | Added: 2026-06-15 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/18aba081e8cec1ad33617353fff88447aac79af9/2026-06-15-Trojanized-Chrome-extension-campaign-for-covert-ad-monetization.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "40cd8fe9-06b9-51bc-9f81-59c28981ee0e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ckofgokcbincglcbpojbkimgnpflbhia",
+        "comment": "Chrome Web Store entry for Spotify Speed Controller (ckofgokcbincglcbpojbkimgnpflbhia)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fa3ae125-76fa-55ed-8c80-68cd319d4e03",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a28d367e9f45bb930318e131a829614ad0f7c0544eaf5d51ff4eb8ae8c5fe81e",
+        "comment": "SHA-256 of extension package for Spotify Speed Controller (ckofgokcbincglcbpojbkimgnpflbhia)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "82ec2525-a218-529b-bbe7-e03cebd84635",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "chccnlplhpjmlgfneleoilcchcaijbae",
+        "comment": "Screen Recorder Free Scre | Source: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/18aba081e8cec1ad33617353fff88447aac79af9/2026-06-15-Trojanized-Chrome-extension-campaign-for-covert-ad-monetization.txt | Store: Google Chrome | Added: 2026-06-15 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/18aba081e8cec1ad33617353fff88447aac79af9/2026-06-15-Trojanized-Chrome-extension-campaign-for-covert-ad-monetization.txt\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "3e6de573-7b8d-570b-a427-eccc8b6c88bf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/chccnlplhpjmlgfneleoilcchcaijbae",
+        "comment": "Chrome Web Store entry for Screen Recorder Free Scre (chccnlplhpjmlgfneleoilcchcaijbae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e01857a5-c674-5fa5-9937-26b1f5101663",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "bd802fe680f3c18215876f43bee322dd0584f41d38a96d4e04d17dc46b7bbb18",
+        "comment": "SHA-256 of extension package for Screen Recorder Free Scre (chccnlplhpjmlgfneleoilcchcaijbae)",
         "distribution": "5",
         "Tag": [
           {
