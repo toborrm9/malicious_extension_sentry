@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-27",
-    "timestamp": "1793109725",
+    "date": "2026-10-28",
+    "timestamp": "1793198754",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,282 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "8e0eaa8c-fef9-5491-8267-fb4b1ec1e6bc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "heineeehdkbihldpkmmokbeblejihnmc",
+        "comment": "IndiaMART Listing Automation \u2013 Frontbit AI | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-28 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "9c37c552-ceff-5f89-9097-c3188733ca21",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/heineeehdkbihldpkmmokbeblejihnmc",
+        "comment": "Chrome Web Store entry for IndiaMART Listing Automation \u2013 Frontbit AI (heineeehdkbihldpkmmokbeblejihnmc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6e9139e1-b2d0-5c3f-bf27-629dc313663b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c9b2484db244a2940a56ae0ce8acbd5bb0541981f6dc13dc95db14a4536bc5ac",
+        "comment": "SHA-256 of extension package for IndiaMART Listing Automation \u2013 Frontbit AI (heineeehdkbihldpkmmokbeblejihnmc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b7c7de7d-03cd-5f1b-81e0-83e5bc2ac062",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pfnagcdnoaagflfiogdeadpgkoccogpc",
+        "comment": "Website Security Scanner | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-28 | Version: 1.0.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "961c6413-12ff-5eeb-b148-562f39ef7793",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pfnagcdnoaagflfiogdeadpgkoccogpc",
+        "comment": "Chrome Web Store entry for Website Security Scanner (pfnagcdnoaagflfiogdeadpgkoccogpc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "97736df5-aee9-5de7-9b19-43a1013db539",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "42f10df3c3ae44460c60043f126cd44f09288a452d59b1e1fe755482ed5a3ff0",
+        "comment": "SHA-256 of extension package for Website Security Scanner (pfnagcdnoaagflfiogdeadpgkoccogpc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "cbe23c6c-94b6-55de-9fb9-d8eff55d7bd1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ninmnkcainfimpdekpiblgokdbdfipin",
+        "comment": "Dub.co Link Shortener - Replace URLs via Context Menu | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-28 | Version: 0.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "cc5e28e1-8284-5144-a724-bca2afa24d81",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ninmnkcainfimpdekpiblgokdbdfipin",
+        "comment": "Chrome Web Store entry for Dub.co Link Shortener - Replace URLs via Context Menu (ninmnkcainfimpdekpiblgokdbdfipin)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d4438fb0-3e06-5b1e-a654-8abd9700f4c3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ae364d4474cb048a49f80a0a72cd5c503e55e4fe2829cd710dcd8c2c32f954eb",
+        "comment": "SHA-256 of extension package for Dub.co Link Shortener - Replace URLs via Context Menu (ninmnkcainfimpdekpiblgokdbdfipin)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5bdfa46f-15ed-5b1a-b5f6-1cdb6cca917e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ldbahoehoaljkgblkeplnbjkeohppdae",
+        "comment": "TikTok Upload Time Viewer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-28 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "2a110e52-7abf-512b-83ca-10913c774e33",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ldbahoehoaljkgblkeplnbjkeohppdae",
+        "comment": "Chrome Web Store entry for TikTok Upload Time Viewer (ldbahoehoaljkgblkeplnbjkeohppdae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "11167bcc-c081-519d-8c92-846d4d9c1e1b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "14d5daa2955c0fae2ba22165159a1ab4756eb3a4b06b17b64d69384d215cd03c",
+        "comment": "SHA-256 of extension package for TikTok Upload Time Viewer (ldbahoehoaljkgblkeplnbjkeohppdae)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7aa945e7-0d08-5a4c-bd6d-fb4921ba73b0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mljgjdaaopkcipmkdeafdopnopbaompo",
+        "comment": "PolySniper - Polymarket Arbitrage | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-28 | Version: 1.1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "3511b863-6d93-51f5-9711-ab8360156f8a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mljgjdaaopkcipmkdeafdopnopbaompo",
+        "comment": "Chrome Web Store entry for PolySniper - Polymarket Arbitrage (mljgjdaaopkcipmkdeafdopnopbaompo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "22e08b01-f85b-570e-8490-7fc6941152bb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cadfc1ee2d84ddaa5920fc6bf71e84e3a7233585f80a65c5db5d15b18151f415",
+        "comment": "SHA-256 of extension package for PolySniper - Polymarket Arbitrage (mljgjdaaopkcipmkdeafdopnopbaompo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "15806cdf-c531-5822-af98-5f467cd65c79",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abjafhjpfhochhbmbldmbahnmldkclgm",
+        "comment": "Revoke.cash - tracker scam protection | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-28 | Version: 1.1.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "d43524c1-e618-564d-b13f-a90a2390ccf1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abjafhjpfhochhbmbldmbahnmldkclgm",
+        "comment": "Chrome Web Store entry for Revoke.cash - tracker scam protection (abjafhjpfhochhbmbldmbahnmldkclgm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "693f189c-6aaf-514a-a4ae-57713a2fb2b2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6b014bab2417d4e2f6f4640ee405d5d36367e47c66535839e6701e39cc370a97",
+        "comment": "SHA-256 of extension package for Revoke.cash - tracker scam protection (abjafhjpfhochhbmbldmbahnmldkclgm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "8f5f740c-7e47-5d3a-b6b6-4a3e6974cd06",
         "type": "text",
