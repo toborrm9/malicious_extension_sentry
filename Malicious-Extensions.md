@@ -1,5 +1,8 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| inbmcgojlnjohgofoekjboebdfjbhkpe | RevoltX | Policy Violation | Store Monitoring | 29/10/26 | No | Google Chrome
+| bocmpjikpfmhfcjjpkhfdkclpfmceccg | Ultra Volume Booster | Malware | Store Monitoring | 29/10/26 | No | Google Chrome
+| bpeaggjmlagfdkngnlkhpjapkgpmpcag | A celebratory Fallout | Policy Violation | Store Monitoring | 29/10/26 | No | Google Chrome
 | epoipicdijmpedfdkjamnjfgodfjojad | SFL | Search Hijacking | MalExt Analysis | 28/10/26 | No | Google Chrome
 | iibpgpkhpfggipbacjfeijkloidhmiei | Color by Fardos - Color Picker | Adware | [github.com](https://github.com/detrin/extensions_report/tree/main/confirmed/iibpgpkhpfggipbacjfeijkloidhmiei) | 28/10/26 | No | Google Chrome
 | eingklpogjmofcedolfbgoomghkaamkn | Prime Party [QVI] | Spyware | [github.com](https://github.com/detrin/extensions_report/tree/main/confirmed/eingklpogjmofcedolfbgoomghkaamkn) | 28/10/26 | No | Google Chrome
@@ -23,6 +26,8 @@
 | ojdobfdnceoceckhlgablibjfeclfhcp | Minh Digi SEO - Phân tích On-page | Policy Violation | Store Monitoring | 27/10/26 | No | Google Chrome
 | mjlcplabdamachjdbgdbijldjnmniomo | Fb Multi Manager | Malware | Store Monitoring | 26/10/26 | No | Google Chrome
 | kamendbbjefmkbbgpbeclpdjphibclbe | Verificador De Rut Consul | Policy Violation | Store Monitoring | 26/10/26 | No | Google Chrome
+| jdepgjdjpmpjljfdcmnbjmafkbckkhko | Tradingview Strategy Find | Policy Violation | Store Monitoring | 25/10/26 | No | Google Chrome
+| oajhhmlegabiojgcdnoobpfanfjggdna | TradingView Strategy Optimizer (AI Assisted) by Backpulse | Policy Violation | Store Monitoring | 25/10/26 | No | Google Chrome
 | niljpmcfnkafjdikphadfhlofhhokjpb | Mts Link Screencast | Policy Violation | Store Monitoring | 25/10/26 | No | Google Chrome
 | bbnajipabdpackmdnkdebjhgfmahiikm | Smooth Scroll | Bundling Unwanted Software | Store Monitoring | 25/10/26 | No | Google Chrome
 | oaaafcgekhmoladombadhamckehopgda | Orbiting Insights | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 25/10/26 | No | Google Chrome
@@ -245,6 +250,7 @@
 | njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| kjjdfmphakofnhgaiihbfilddejkcnej | Ramesh SharePoint REST API Explorer | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | iiahjhicigeafmhnikaomojkmpbiajmi | ThisConnect — BRACU Connect Auto Grade Importer | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | gjkbiebjbpngglhnmpenmangmbcekfip | Ask ChatGPT | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | lkodiiecfihbdgebffbcdjokmnabbcfi | Foxora | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
