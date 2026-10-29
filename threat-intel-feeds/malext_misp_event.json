@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-28",
-    "timestamp": "1793218436",
+    "date": "2026-10-29",
+    "timestamp": "1793289873",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,144 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "c21dc957-ab63-5183-bb73-c9c764def91d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "inbmcgojlnjohgofoekjboebdfjbhkpe",
+        "comment": "RevoltX | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-29 | Version: 1.0.77",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.77\""
+          }
+        ]
+      },
+      {
+        "uuid": "66967503-24c8-5489-ad0f-034f1ee30744",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/inbmcgojlnjohgofoekjboebdfjbhkpe",
+        "comment": "Chrome Web Store entry for RevoltX (inbmcgojlnjohgofoekjboebdfjbhkpe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "37bd36e5-2670-5040-becf-baa8478b826e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b4cc7293b7f2554081bfdec09d8ec1513d1ba039f0af96aa65e2b781612fce25",
+        "comment": "SHA-256 of extension package for RevoltX (inbmcgojlnjohgofoekjboebdfjbhkpe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "52b86455-92a2-5b09-9db3-6c629e7ad82a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bocmpjikpfmhfcjjpkhfdkclpfmceccg",
+        "comment": "Ultra Volume Booster | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-29 | Version: 1.0.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "65d33aa8-2532-5e65-a748-f7457a987f26",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bocmpjikpfmhfcjjpkhfdkclpfmceccg",
+        "comment": "Chrome Web Store entry for Ultra Volume Booster (bocmpjikpfmhfcjjpkhfdkclpfmceccg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "70941868-8a9a-5b48-b394-c21069b4365d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2ad1d99e496b4f755e557084ff7692bb17ea2ea506b7074a85fb573bf103566c",
+        "comment": "SHA-256 of extension package for Ultra Volume Booster (bocmpjikpfmhfcjjpkhfdkclpfmceccg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca406537-c1d3-5a11-af00-9589a4345ec4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bpeaggjmlagfdkngnlkhpjapkgpmpcag",
+        "comment": "A celebratory Fallout | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-29 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "902b990c-f591-5c5e-a225-152e6ce7270c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bpeaggjmlagfdkngnlkhpjapkgpmpcag",
+        "comment": "Chrome Web Store entry for A celebratory Fallout (bpeaggjmlagfdkngnlkhpjapkgpmpcag)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bcfcd506-27a3-5c3f-9ca1-09ccc0041e88",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d3fb9f691846d243b9c22ee7beacc8f091727a85f4a8fe6345844544f72f2f10",
+        "comment": "SHA-256 of extension package for A celebratory Fallout (bpeaggjmlagfdkngnlkhpjapkgpmpcag)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "9df67a42-e957-523f-8c97-a90dadb3ae89",
         "type": "text",
@@ -1084,6 +1222,70 @@
             "name": "malware:category=\"browser-extension\""
           }
         ]
+      },
+      {
+        "uuid": "4aca3d77-d92b-56d6-9b3d-721fc234ff82",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jdepgjdjpmpjljfdcmnbjmafkbckkhko",
+        "comment": "Tradingview Strategy Find | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-25 | Version: 1.4.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "860bbe82-83c6-596c-886b-8d87ad9d58a2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jdepgjdjpmpjljfdcmnbjmafkbckkhko",
+        "comment": "Chrome Web Store entry for Tradingview Strategy Find (jdepgjdjpmpjljfdcmnbjmafkbckkhko)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4f88655d-2bda-5bec-a998-47d870b0ee16",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oajhhmlegabiojgcdnoobpfanfjggdna",
+        "comment": "TradingView Strategy Optimizer (AI Assisted) by Backpulse | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-25 | Version: 6.13.20",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"6.13.20\""
+          }
+        ]
+      },
+      {
+        "uuid": "80382694-1a67-52d3-a0b1-f3a7fb2537c0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oajhhmlegabiojgcdnoobpfanfjggdna",
+        "comment": "Chrome Web Store entry for TradingView Strategy Optimizer (AI Assisted) by Backpulse (oajhhmlegabiojgcdnoobpfanfjggdna)",
+        "distribution": "5"
       },
       {
         "uuid": "f33db064-b4f0-548a-8050-0bcde1e056f4",
@@ -11296,6 +11498,38 @@
             "name": "malware:category=\"browser-extension\""
           }
         ]
+      },
+      {
+        "uuid": "5919e613-7849-50e6-82a8-4df011b38516",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kjjdfmphakofnhgaiihbfilddejkcnej",
+        "comment": "Ramesh SharePoint REST API Explorer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "74ba2e06-18a9-540d-a4ed-37f8f9495ef5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kjjdfmphakofnhgaiihbfilddejkcnej",
+        "comment": "Chrome Web Store entry for Ramesh SharePoint REST API Explorer (kjjdfmphakofnhgaiihbfilddejkcnej)",
+        "distribution": "5"
       },
       {
         "uuid": "daedf68c-1239-515e-9820-fcd64c7957d9",
