@@ -1,7 +1,19 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| pkkmgcildaegadhngpjkklnbfbmhpdng | ChatSearch: ChatGPT for Search Engine (GPT4) | Bundling Unwanted Software | Store Monitoring | 30/10/26 | No | Google Chrome
+| bbpfjlpnabgienacekokamafocacifla | WHATZIP | Policy Violation | Store Monitoring | 30/10/26 | No | Google Chrome
+| kockkfpaamgknnkhobkacgnpocogdhoe | YouTube to Transcript &amp; Summary AI \| Video to Text | Bundling Unwanted Software | Store Monitoring | 30/10/26 | No | Google Chrome
+| cjnjhdnihhheidkcheigpignjglmmheo | AI Assistant for ChatGPT(GPT4o,Claude3,AI drawing) | Bundling Unwanted Software | Store Monitoring | 30/10/26 | No | Google Chrome
+| jgnjpnmofkalfliddjelaciggjgnphgm | ChatGPT Widescreen | Policy Violation | Store Monitoring | 30/10/26 | No | Google Chrome
+| gkkfhngobmbklnhnlmlgdfjoikmcfppp | Tabbar - Bookmark, History, &amp; Tab Manager | Policy Violation | Store Monitoring | 30/10/26 | No | Google Chrome
+| doalefhfhoencpklgkmabcakndkniddl | ChatGPT Sidebar Assistant(GPT-4o) | Bundling Unwanted Software | Store Monitoring | 30/10/26 | No | Google Chrome
+| ihhgcadacacdldkolcbceaiidlmabeik | Sorare Probabilities Overlay | Policy Violation | Store Monitoring | 30/10/26 | No | Google Chrome
+| ldciccoklkhpjfcjinimijfmoobhempp | Vimeo Video Downloader – Video Saver | Policy Violation | Store Monitoring | 30/10/26 | No | Google Chrome
+| gahigicjiddgdfhdkbjkjnmpbbiciene | Fallout power armor | Policy Violation | Store Monitoring | 30/10/26 | No | Google Chrome
+| emcpjechgmpcnjphefjekmdlaljbiegp | The Optimiser - TradingView Strategies | Policy Violation | Store Monitoring | 30/10/26 | No | Google Chrome
+| gajnndcjgkihakfdhpojnkkcgnfniiao | JobData Exporter: Jobs, Salaries, Reviews to CSV/Excel | Policy Violation | Store Monitoring | 30/10/26 | No | Google Chrome
 | inbmcgojlnjohgofoekjboebdfjbhkpe | RevoltX | Policy Violation | Store Monitoring | 29/10/26 | No | Google Chrome
-| bocmpjikpfmhfcjjpkhfdkclpfmceccg | Ultra Volume Booster | Malware | Store Monitoring | 29/10/26 | No | Google Chrome
+| bocmpjikpfmhfcjjpkhfdkclpfmceccg | Ultra Volume Booster | Malware | Store Monitoring | 29/10/26 | Yes | Google Chrome
 | bpeaggjmlagfdkngnlkhpjapkgpmpcag | A celebratory Fallout | Policy Violation | Store Monitoring | 29/10/26 | No | Google Chrome
 | epoipicdijmpedfdkjamnjfgodfjojad | SFL | Search Hijacking | MalExt Analysis | 28/10/26 | No | Google Chrome
 | iibpgpkhpfggipbacjfeijkloidhmiei | Color by Fardos - Color Picker | Adware | [github.com](https://github.com/detrin/extensions_report/tree/main/confirmed/iibpgpkhpfggipbacjfeijkloidhmiei) | 28/10/26 | No | Google Chrome
@@ -2666,7 +2678,7 @@
 | okblbahgmoaidijdfnlkmaohpmjcolck | Fb Ads Library Downloader | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
 | menllhiocaggjibkofembnkeapkfagcf | Fb Multi Cookie Manager | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
 | bcbbpnepammcdghicoemmpnipcacmkjd | Ig Cleaner | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
-| kablcboioomlhblolhhpidlocbphmkao |  | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
+| kablcboioomlhblolhhpidlocbphmkao | IG Unfollow Pro - Find & Unfollow Non-Followers | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
 | fnibacbcdjodaejikaedmpciepldaeek | Abc Tunnel — Private Prox | Malware | Store Monitoring | 07/08/26 | No | Google Chrome
 | haghnpkkneoeehbocdcjociocibokgkj | Fb Group Mod Assistant | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
 | bbckanfpbfmjcibpehcjinjgkbjmdpnm | Fb Post Monitor | Policy Violation | Store Monitoring | 07/08/26 | No | Google Chrome
