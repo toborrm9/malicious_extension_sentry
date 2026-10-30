@@ -1,12 +1,132 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-29T16:04:32Z",
+  "generated": "2026-10-30T09:39:20Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8006,
+  "total_indicators": 8018,
   "indicators": [
+    {
+      "extension_id": "pkkmgcildaegadhngpjkklnbfbmhpdng",
+      "name": "ChatSearch: ChatGPT for Search Engine (GPT4)",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-30",
+      "store_url": "https://chromewebstore.google.com/detail/pkkmgcildaegadhngpjkklnbfbmhpdng",
+      "sha256": "afd18baa753956f48fd93aa4aacd65f59e20cd3dbfa0e539baeb2310683e2a7c",
+      "version": "2.0.1"
+    },
+    {
+      "extension_id": "bbpfjlpnabgienacekokamafocacifla",
+      "name": "WHATZIP",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-30",
+      "store_url": "https://chromewebstore.google.com/detail/bbpfjlpnabgienacekokamafocacifla",
+      "sha256": "816f2d523ffe51f5e2cdad466e7a7346a370efe291267d8b7425b2180acec7fb",
+      "version": "3.2.0"
+    },
+    {
+      "extension_id": "kockkfpaamgknnkhobkacgnpocogdhoe",
+      "name": "YouTube to Transcript &amp; Summary AI | Video to Text",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-30",
+      "store_url": "https://chromewebstore.google.com/detail/kockkfpaamgknnkhobkacgnpocogdhoe",
+      "sha256": "07f9a4f9c139227e0bdd18a8f1faaf4c6109163a7376efcd6e043f5f47bb9b48",
+      "version": "0.2.0"
+    },
+    {
+      "extension_id": "cjnjhdnihhheidkcheigpignjglmmheo",
+      "name": "AI Assistant for ChatGPT(GPT4o,Claude3,AI drawing)",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-30",
+      "store_url": "https://chromewebstore.google.com/detail/cjnjhdnihhheidkcheigpignjglmmheo",
+      "sha256": "37119af761dcb5a831ecaaea43529400193ddde01eb84ea9647d33f2b80afb40",
+      "version": "1.1.9"
+    },
+    {
+      "extension_id": "jgnjpnmofkalfliddjelaciggjgnphgm",
+      "name": "ChatGPT Widescreen",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-30",
+      "store_url": "https://chromewebstore.google.com/detail/jgnjpnmofkalfliddjelaciggjgnphgm",
+      "sha256": "08985fa9d2d62a23c040405c3e997754c4efa885c315395b7ba972b141979061",
+      "version": "2026.10.9.1"
+    },
+    {
+      "extension_id": "gkkfhngobmbklnhnlmlgdfjoikmcfppp",
+      "name": "Tabbar - Bookmark, History, &amp; Tab Manager",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-30",
+      "store_url": "https://chromewebstore.google.com/detail/gkkfhngobmbklnhnlmlgdfjoikmcfppp",
+      "sha256": "51939b5682c698f5f4fc7030f12f5d429d16946883e4c7d7a7d239c884f93372",
+      "version": "1.4.7"
+    },
+    {
+      "extension_id": "doalefhfhoencpklgkmabcakndkniddl",
+      "name": "ChatGPT Sidebar Assistant(GPT-4o)",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-30",
+      "store_url": "https://chromewebstore.google.com/detail/doalefhfhoencpklgkmabcakndkniddl",
+      "sha256": "33f7458956359265c505945879db07227580f0afb247f5188ca2b08ebb63c1e4",
+      "version": "1.1.9"
+    },
+    {
+      "extension_id": "ihhgcadacacdldkolcbceaiidlmabeik",
+      "name": "Sorare Probabilities Overlay",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-30",
+      "store_url": "https://chromewebstore.google.com/detail/ihhgcadacacdldkolcbceaiidlmabeik",
+      "sha256": "cc80999bbcbead20091a83ec2c598f2d904a9a724561d8ebb2d265eb77b387cc",
+      "version": "0.1.52"
+    },
+    {
+      "extension_id": "ldciccoklkhpjfcjinimijfmoobhempp",
+      "name": "Vimeo Video Downloader \u2013 Video Saver",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-30",
+      "store_url": "https://chromewebstore.google.com/detail/ldciccoklkhpjfcjinimijfmoobhempp",
+      "sha256": "d36cd7ef565bd2e6f2fd742af086c25380883fda2987da19a2a1316c48d86f80",
+      "version": "4.0.9"
+    },
+    {
+      "extension_id": "gahigicjiddgdfhdkbjkjnmpbbiciene",
+      "name": "Fallout power armor",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-30",
+      "store_url": "https://chromewebstore.google.com/detail/gahigicjiddgdfhdkbjkjnmpbbiciene",
+      "sha256": "91f8e14a0719af8a6ff7a41cf459e05830cdf5a495ef216cf803fb0f6b07643e",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "emcpjechgmpcnjphefjekmdlaljbiegp",
+      "name": "The Optimiser - TradingView Strategies",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-30",
+      "store_url": "https://chromewebstore.google.com/detail/emcpjechgmpcnjphefjekmdlaljbiegp",
+      "sha256": "df2aa1a082889146767a9088de9714787d2d98fc479a08f4a87c1019063e449d",
+      "version": "1.78"
+    },
+    {
+      "extension_id": "gajnndcjgkihakfdhpojnkkcgnfniiao",
+      "name": "JobData Exporter: Jobs, Salaries, Reviews to CSV/Excel",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-30",
+      "store_url": "https://chromewebstore.google.com/detail/gajnndcjgkihakfdhpojnkkcgnfniiao",
+      "sha256": "4e73364255897eb288b82830a3321687ccddef944252871d7cf0b02e146818cf",
+      "version": "1.6"
+    },
     {
       "extension_id": "inbmcgojlnjohgofoekjboebdfjbhkpe",
       "name": "RevoltX",
@@ -26669,7 +26789,7 @@
     },
     {
       "extension_id": "kablcboioomlhblolhhpidlocbphmkao",
-      "name": "",
+      "name": "IG Unfollow Pro - Find & Unfollow Non-Followers",
       "source": "Store Monitoring",
       "store": "Google Chrome",
       "insert_date": "2026-08-07",
