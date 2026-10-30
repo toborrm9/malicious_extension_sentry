@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-29",
-    "timestamp": "1793289873",
+    "date": "2026-10-30",
+    "timestamp": "1793353161",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,558 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "c2e6490d-ee46-5f65-8717-13f36c1fa549",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pkkmgcildaegadhngpjkklnbfbmhpdng",
+        "comment": "ChatSearch: ChatGPT for Search Engine (GPT4) | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-30 | Version: 2.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "3beb9a19-5816-5f95-b7c8-9ee589001d47",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pkkmgcildaegadhngpjkklnbfbmhpdng",
+        "comment": "Chrome Web Store entry for ChatSearch: ChatGPT for Search Engine (GPT4) (pkkmgcildaegadhngpjkklnbfbmhpdng)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b512cafb-be80-56d1-9d72-3a232f9b1f09",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "afd18baa753956f48fd93aa4aacd65f59e20cd3dbfa0e539baeb2310683e2a7c",
+        "comment": "SHA-256 of extension package for ChatSearch: ChatGPT for Search Engine (GPT4) (pkkmgcildaegadhngpjkklnbfbmhpdng)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6ac90cc4-de01-5dc4-ad80-58607130fae1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bbpfjlpnabgienacekokamafocacifla",
+        "comment": "WHATZIP | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-30 | Version: 3.2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "c307cc67-55c1-5d15-8c2f-4c30fd73a21b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bbpfjlpnabgienacekokamafocacifla",
+        "comment": "Chrome Web Store entry for WHATZIP (bbpfjlpnabgienacekokamafocacifla)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8ac2e763-0318-5c9a-9204-31c8daf608b9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "816f2d523ffe51f5e2cdad466e7a7346a370efe291267d8b7425b2180acec7fb",
+        "comment": "SHA-256 of extension package for WHATZIP (bbpfjlpnabgienacekokamafocacifla)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "55e051ff-c3e0-5dd9-b74f-31536c863513",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kockkfpaamgknnkhobkacgnpocogdhoe",
+        "comment": "YouTube to Transcript &amp; Summary AI | Video to Text | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-30 | Version: 0.2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "9b40fa2d-e6d9-5dd1-a193-558d0e56eeb8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kockkfpaamgknnkhobkacgnpocogdhoe",
+        "comment": "Chrome Web Store entry for YouTube to Transcript &amp; Summary AI | Video to Text (kockkfpaamgknnkhobkacgnpocogdhoe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2d4c1769-b22e-52a7-a159-e94d865f78ed",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "07f9a4f9c139227e0bdd18a8f1faaf4c6109163a7376efcd6e043f5f47bb9b48",
+        "comment": "SHA-256 of extension package for YouTube to Transcript &amp; Summary AI | Video to Text (kockkfpaamgknnkhobkacgnpocogdhoe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "04a3081a-5c65-5080-923f-b7679604633b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cjnjhdnihhheidkcheigpignjglmmheo",
+        "comment": "AI Assistant for ChatGPT(GPT4o,Claude3,AI drawing) | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-30 | Version: 1.1.9",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.9\""
+          }
+        ]
+      },
+      {
+        "uuid": "76f50671-fd8d-5184-b9fa-50eaf940a4f0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cjnjhdnihhheidkcheigpignjglmmheo",
+        "comment": "Chrome Web Store entry for AI Assistant for ChatGPT(GPT4o,Claude3,AI drawing) (cjnjhdnihhheidkcheigpignjglmmheo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c2d4e36b-2a24-57e2-ab87-9383bb8533e6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "37119af761dcb5a831ecaaea43529400193ddde01eb84ea9647d33f2b80afb40",
+        "comment": "SHA-256 of extension package for AI Assistant for ChatGPT(GPT4o,Claude3,AI drawing) (cjnjhdnihhheidkcheigpignjglmmheo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ce7cb32f-8139-54be-8e1a-dcc622df620d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jgnjpnmofkalfliddjelaciggjgnphgm",
+        "comment": "ChatGPT Widescreen | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-30 | Version: 2026.10.9.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2026.10.9.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "0b623ed5-5f4b-5a4c-b659-efb896e03365",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jgnjpnmofkalfliddjelaciggjgnphgm",
+        "comment": "Chrome Web Store entry for ChatGPT Widescreen (jgnjpnmofkalfliddjelaciggjgnphgm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5a7b265a-dd75-5c78-ab7f-fc912b6faaa2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "08985fa9d2d62a23c040405c3e997754c4efa885c315395b7ba972b141979061",
+        "comment": "SHA-256 of extension package for ChatGPT Widescreen (jgnjpnmofkalfliddjelaciggjgnphgm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d3ad3699-9744-55f2-9652-6dd597bdba5a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gkkfhngobmbklnhnlmlgdfjoikmcfppp",
+        "comment": "Tabbar - Bookmark, History, &amp; Tab Manager | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-30 | Version: 1.4.7",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4.7\""
+          }
+        ]
+      },
+      {
+        "uuid": "8afe561d-84cc-50fe-a35b-eb6bc0c94482",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gkkfhngobmbklnhnlmlgdfjoikmcfppp",
+        "comment": "Chrome Web Store entry for Tabbar - Bookmark, History, &amp; Tab Manager (gkkfhngobmbklnhnlmlgdfjoikmcfppp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "647a1e0d-f08a-5139-bf44-90f6da57d4e6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "51939b5682c698f5f4fc7030f12f5d429d16946883e4c7d7a7d239c884f93372",
+        "comment": "SHA-256 of extension package for Tabbar - Bookmark, History, &amp; Tab Manager (gkkfhngobmbklnhnlmlgdfjoikmcfppp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8a8102be-813b-5123-93a1-33bfe614b9c8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "doalefhfhoencpklgkmabcakndkniddl",
+        "comment": "ChatGPT Sidebar Assistant(GPT-4o) | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-30 | Version: 1.1.9",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.9\""
+          }
+        ]
+      },
+      {
+        "uuid": "85b3d4cd-0764-5cc3-9b2a-5deffca5c20f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/doalefhfhoencpklgkmabcakndkniddl",
+        "comment": "Chrome Web Store entry for ChatGPT Sidebar Assistant(GPT-4o) (doalefhfhoencpklgkmabcakndkniddl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8f323106-cd41-54c0-a355-d29126ad8316",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "33f7458956359265c505945879db07227580f0afb247f5188ca2b08ebb63c1e4",
+        "comment": "SHA-256 of extension package for ChatGPT Sidebar Assistant(GPT-4o) (doalefhfhoencpklgkmabcakndkniddl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d4665588-f2c7-56a2-8b38-b402d2134d61",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ihhgcadacacdldkolcbceaiidlmabeik",
+        "comment": "Sorare Probabilities Overlay | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-30 | Version: 0.1.52",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1.52\""
+          }
+        ]
+      },
+      {
+        "uuid": "11534e62-a65f-5107-affa-9b83550bfff3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ihhgcadacacdldkolcbceaiidlmabeik",
+        "comment": "Chrome Web Store entry for Sorare Probabilities Overlay (ihhgcadacacdldkolcbceaiidlmabeik)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1c0e7cf5-9801-5705-bece-2606f8d05579",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cc80999bbcbead20091a83ec2c598f2d904a9a724561d8ebb2d265eb77b387cc",
+        "comment": "SHA-256 of extension package for Sorare Probabilities Overlay (ihhgcadacacdldkolcbceaiidlmabeik)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4a108d33-9c30-5ed9-83b4-f28ac8283215",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ldciccoklkhpjfcjinimijfmoobhempp",
+        "comment": "Vimeo Video Downloader \u2013 Video Saver | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-30 | Version: 4.0.9",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.0.9\""
+          }
+        ]
+      },
+      {
+        "uuid": "ac5d5fa9-bdac-58d4-824e-9a23247cdd01",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ldciccoklkhpjfcjinimijfmoobhempp",
+        "comment": "Chrome Web Store entry for Vimeo Video Downloader \u2013 Video Saver (ldciccoklkhpjfcjinimijfmoobhempp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "79325666-79ab-5ef3-bd03-03916d891cc6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d36cd7ef565bd2e6f2fd742af086c25380883fda2987da19a2a1316c48d86f80",
+        "comment": "SHA-256 of extension package for Vimeo Video Downloader \u2013 Video Saver (ldciccoklkhpjfcjinimijfmoobhempp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ea652443-b64c-5090-a4d9-1995bd2819fc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gahigicjiddgdfhdkbjkjnmpbbiciene",
+        "comment": "Fallout power armor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-30 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "2404411b-d2cc-55f8-bb74-2891dd3de3c0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gahigicjiddgdfhdkbjkjnmpbbiciene",
+        "comment": "Chrome Web Store entry for Fallout power armor (gahigicjiddgdfhdkbjkjnmpbbiciene)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1a6b8996-777a-584b-940b-49ed40f6962e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "91f8e14a0719af8a6ff7a41cf459e05830cdf5a495ef216cf803fb0f6b07643e",
+        "comment": "SHA-256 of extension package for Fallout power armor (gahigicjiddgdfhdkbjkjnmpbbiciene)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "29ba84f6-49bb-562b-a0de-e32683f6deec",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "emcpjechgmpcnjphefjekmdlaljbiegp",
+        "comment": "The Optimiser - TradingView Strategies | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-30 | Version: 1.78",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.78\""
+          }
+        ]
+      },
+      {
+        "uuid": "e672f6bf-7aa0-5b01-b78f-76839040fa89",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/emcpjechgmpcnjphefjekmdlaljbiegp",
+        "comment": "Chrome Web Store entry for The Optimiser - TradingView Strategies (emcpjechgmpcnjphefjekmdlaljbiegp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e8e1600b-adc9-578f-b5f1-23afdff2250c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "df2aa1a082889146767a9088de9714787d2d98fc479a08f4a87c1019063e449d",
+        "comment": "SHA-256 of extension package for The Optimiser - TradingView Strategies (emcpjechgmpcnjphefjekmdlaljbiegp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f88fcee7-b079-5b24-8d06-9979ba1baeb8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gajnndcjgkihakfdhpojnkkcgnfniiao",
+        "comment": "JobData Exporter: Jobs, Salaries, Reviews to CSV/Excel | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-30 | Version: 1.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "4da4588e-d40a-527a-b8dd-1f7aa0494b53",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gajnndcjgkihakfdhpojnkkcgnfniiao",
+        "comment": "Chrome Web Store entry for JobData Exporter: Jobs, Salaries, Reviews to CSV/Excel (gajnndcjgkihakfdhpojnkkcgnfniiao)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "57fc1ebd-6c51-530f-b320-5a388afd0864",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4e73364255897eb288b82830a3321687ccddef944252871d7cf0b02e146818cf",
+        "comment": "SHA-256 of extension package for JobData Exporter: Jobs, Salaries, Reviews to CSV/Excel (gajnndcjgkihakfdhpojnkkcgnfniiao)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "c21dc957-ab63-5183-bb73-c9c764def91d",
         "type": "text",
@@ -116090,7 +116642,7 @@
         "category": "Other",
         "to_ids": false,
         "value": "kablcboioomlhblolhhpidlocbphmkao",
-        "comment": " | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-07",
+        "comment": "IG Unfollow Pro - Find & Unfollow Non-Followers | Source: Store Monitoring | Store: Google Chrome | Added: 2026-08-07",
         "distribution": "5",
         "Tag": [
           {
@@ -116110,7 +116662,7 @@
         "category": "External analysis",
         "to_ids": false,
         "value": "https://chromewebstore.google.com/detail/kablcboioomlhblolhhpidlocbphmkao",
-        "comment": "Chrome Web Store entry for  (kablcboioomlhblolhhpidlocbphmkao)",
+        "comment": "Chrome Web Store entry for IG Unfollow Pro - Find & Unfollow Non-Followers (kablcboioomlhblolhhpidlocbphmkao)",
         "distribution": "5"
       },
       {
@@ -116119,7 +116671,7 @@
         "category": "Payload delivery",
         "to_ids": true,
         "value": "a83458ee0478480d71f1dfb3e3e167d8c4a10320cb7b03275ea8234cf821a6e4",
-        "comment": "SHA-256 of extension package for  (kablcboioomlhblolhhpidlocbphmkao)",
+        "comment": "SHA-256 of extension package for IG Unfollow Pro - Find & Unfollow Non-Followers (kablcboioomlhblolhhpidlocbphmkao)",
         "distribution": "5",
         "Tag": [
           {
