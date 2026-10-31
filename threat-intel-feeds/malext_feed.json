@@ -1,12 +1,1402 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-10-31T11:43:38Z",
+  "generated": "2026-10-31T12:45:32Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8049,
+  "total_indicators": 8188,
   "indicators": [
+    {
+      "extension_id": "cbekmdihgdjedeoincgnaecpbonekjjk",
+      "name": "WorkFaze",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/cbekmdihgdjedeoincgnaecpbonekjjk",
+      "sha256": "e63396e6a50e37a05398fd58176684b786f5b3d049c645652897f3de910f50da",
+      "version": "1.3.7.28"
+    },
+    {
+      "extension_id": "almiecjechfhjopihlipdhcpadldkkpf",
+      "name": "Unknown Name",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/almiecjechfhjopihlipdhcpadldkkpf",
+      "sha256": "",
+      "version": "0.8.9.28"
+    },
+    {
+      "extension_id": "bmnnglbgmnnjhippjmfnjaeobglaolog",
+      "name": "Browse Aware",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/bmnnglbgmnnjhippjmfnjaeobglaolog",
+      "sha256": "1cb3ae37c6bcb61c4c2328e923ce971eafddf515e43f2bf5728648305a44fd92",
+      "version": "1.2.6.74"
+    },
+    {
+      "extension_id": "gldpnpmlkpcinnknajhaickmnebnhilo",
+      "name": "Clearline \u2013 Search Safety Signals",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/gldpnpmlkpcinnknajhaickmnebnhilo",
+      "sha256": "79ee28e8bf98e6f89830c1e2d642c1215901953823ee5610f54742ea4f2d3e9d",
+      "version": "0.3.9.71"
+    },
+    {
+      "extension_id": "hjflmcpnddmankddpidnlfiepmfkpaha",
+      "name": "Unknown Name",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/hjflmcpnddmankddpidnlfiepmfkpaha",
+      "sha256": "",
+      "version": "1.5.9.68"
+    },
+    {
+      "extension_id": "ehgfjieigkcpojmbppemipdfnmepllcb",
+      "name": "TruGuard Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ehgfjieigkcpojmbppemipdfnmepllcb",
+      "sha256": "07db58733bed16b28a402b9868d9dbea95f3b0f0c56b2de1a567ba357bf156d2",
+      "version": "0.2.9.69"
+    },
+    {
+      "extension_id": "eolfbebdobomepakenadhbnjijdkdode",
+      "name": "VaultSearch Pro",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/eolfbebdobomepakenadhbnjijdkdode",
+      "sha256": "da7a6dbd6d862aaf999a1c53531a60aa119509e432702397404b5761fbbf977c",
+      "version": "1.3.8.15"
+    },
+    {
+      "extension_id": "lihnhjjcdlfdomjliljlommppbfacmbj",
+      "name": "Quick Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/lihnhjjcdlfdomjliljlommppbfacmbj",
+      "sha256": "2c973d37baf45649987d614deac368edafd2fc4d28872b0d9baf5318f30a1789",
+      "version": "1.0.1350"
+    },
+    {
+      "extension_id": "hagchmjojfodaklbkjlecokgebgkblmg",
+      "name": "Pixara \u2013 Smarter Image Discovery",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/hagchmjojfodaklbkjlecokgebgkblmg",
+      "sha256": "fa8d0a507ae0f334781908e71812ac2a3b5d934f2d27543c9797a38363b58f14",
+      "version": "0.0.8.25"
+    },
+    {
+      "extension_id": "jpeaeglbfcddcjpnbpmhhkooifpadbfj",
+      "name": "Imageo - Search it. See it",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/jpeaeglbfcddcjpnbpmhhkooifpadbfj",
+      "sha256": "67fa19f2f4e688af9f1a9305545ed3a17cdb4fa4815b2961d457108ee7dc52d3",
+      "version": "0.9.5.99"
+    },
+    {
+      "extension_id": "nlmpdomhofmjdidcghodlgneobojdjfm",
+      "name": "GPT for Chrome",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/nlmpdomhofmjdidcghodlgneobojdjfm",
+      "sha256": "4a35c078aea4ddfc334c86c107005290b46fc325ea0d64c410e33ee3b2b4cf3a",
+      "version": "0.0.8.15"
+    },
+    {
+      "extension_id": "djelajdknpmlognpefjgpbdbdcphhicf",
+      "name": "Safe Search Pilot",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/djelajdknpmlognpefjgpbdbdcphhicf",
+      "sha256": "6d55f651dde37f7afba4bcd1f442555148671d411b89d6d7d37177437f30cfb2",
+      "version": "1.6.6.88"
+    },
+    {
+      "extension_id": "dfbkbcgpckcfommnnmefjbaoeamffobl",
+      "name": "Web Shield",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/dfbkbcgpckcfommnnmefjbaoeamffobl",
+      "sha256": "d442566d8f081f32aed7115ecd0636fe0905573edb949a05ba770fbdb7c8a3a1",
+      "version": "1.6.6.98"
+    },
+    {
+      "extension_id": "cfafikaacikhkfiifmgaeanabnnjhhlc",
+      "name": "Parent Peace Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/cfafikaacikhkfiifmgaeanabnnjhhlc",
+      "sha256": "8b3ea0e423e05ec7e7d58e2ab6b39200f48715fdf4f60a7b644c01d70a49ec93",
+      "version": "0.1.5.23"
+    },
+    {
+      "extension_id": "hnalilpmcibmaohfmmoigfogdfkhebba",
+      "name": "Unknown Name",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/hnalilpmcibmaohfmmoigfogdfkhebba",
+      "sha256": "",
+      "version": "1.8.6.43"
+    },
+    {
+      "extension_id": "hlncjpadcnkfbcibocanmolifcgpnbjj",
+      "name": "Wise Seekers Shield",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/hlncjpadcnkfbcibocanmolifcgpnbjj",
+      "sha256": "",
+      "version": "0.2.8.6"
+    },
+    {
+      "extension_id": "hibjgomfkkkhcgplianpgafikekjdnhb",
+      "name": "Halo",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/hibjgomfkkkhcgplianpgafikekjdnhb",
+      "sha256": "f44c63b503b19627f72784c6d18f6c95c41ab297c485cccb0558ee2ca2fce5ee",
+      "version": "1.1.845"
+    },
+    {
+      "extension_id": "bgpklhocbdchnkafgommfcgnnmfbnkbm",
+      "name": "Trusted Sources",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/bgpklhocbdchnkafgommfcgnnmfbnkbm",
+      "sha256": "21b2400868d11b0bf8b72fe6ec0efd57c8a6966dac6cedccf6e573a14e9d149f",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "kgnbacedenioohodehbdcjboimacjpih",
+      "name": "Manuals Finder",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/kgnbacedenioohodehbdcjboimacjpih",
+      "sha256": "bf989293eb270161c3e21521ae6d86435f3a50e78195dc0b5e543b16d15e7379",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "niadccjeieendobdbpjdcaemcghffamc",
+      "name": "Elite Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/niadccjeieendobdbpjdcaemcghffamc",
+      "sha256": "e147fcb1a82a688be71c891b9e873b66e6831a654e50645c988bd92d04f9540c",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "empmgindhkeecjhcnmlfkmjbohklinfc",
+      "name": "Content Control",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/empmgindhkeecjhcnmlfkmjbohklinfc",
+      "sha256": "",
+      "version": "3.0.2"
+    },
+    {
+      "extension_id": "aejcbcadmiafphdhhiombgilhpfpebna",
+      "name": "Seekly: Your Private Search Helper",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/aejcbcadmiafphdhhiombgilhpfpebna",
+      "sha256": "ac1327b2f2fed5cd28d34bbfd1211ec15d6f4e8725eec27ffb6d7d7abfa9d2c1",
+      "version": "1.0.7.66"
+    },
+    {
+      "extension_id": "kleadbnkbjofgkbbipejbjajdogffjbj",
+      "name": "MixiType Signals",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/kleadbnkbjofgkbbipejbjajdogffjbj",
+      "sha256": "",
+      "version": "1.0.5.14"
+    },
+    {
+      "extension_id": "kbknfhedpcnjidkngmcbgccfilghfbgg",
+      "name": "Smart Lookup",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/kbknfhedpcnjidkngmcbgccfilghfbgg",
+      "sha256": "5a962785bb23e199a47203f8547ff567330f68f3bfc3862f20008ff712d197d2",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "fljocmkfepemdmgciaekdhdkkmhgeabp",
+      "name": "Safer Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/fljocmkfepemdmgciaekdhdkkmhgeabp",
+      "sha256": "f55d77092da9e7c3ae88ac61abcbad83cda1d99ef45cf046aea673ee40ff1660",
+      "version": "1.0.0.0"
+    },
+    {
+      "extension_id": "dpdgigbgidgdogiiodkkeiobbgfhnfeb",
+      "name": "Advanced Guardian",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/dpdgigbgidgdogiiodkkeiobbgfhnfeb",
+      "sha256": "7e1f031097d43846069a646e9ad5d6f6c3bf7d04dd231f7eba29f6f2ca3e9e4e",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "ekjbnmgglpdejjnbabjfbchaknobgafd",
+      "name": "Trusted Downloads",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ekjbnmgglpdejjnbabjfbchaknobgafd",
+      "sha256": "18311679d2e13bae311b96f18af7ccf5e3dc27d113227d60bb50772485db9e6c",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "jgebbleldjcmmjbhidfkgbpfioeajabl",
+      "name": "Search Guard by Securo",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/jgebbleldjcmmjbhidfkgbpfioeajabl",
+      "sha256": "a3e4c08a2f65ab86ae20aba6fa784453039f525c248828b3854ec0da267af924",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "naamfpeecelbaoooepjhebdmmicjnhpp",
+      "name": "Suggest Scanner",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/naamfpeecelbaoooepjhebdmmicjnhpp",
+      "sha256": "7a910d64b7160b949c5f17f29e0801887692a26b097ccc328b54605d77901643",
+      "version": "0.0.5.12"
+    },
+    {
+      "extension_id": "omjpahdekoilegbijekabmkaiafopkgc",
+      "name": "Lantern Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/omjpahdekoilegbijekabmkaiafopkgc",
+      "sha256": "b049d583ca241a13695701ad056c04d944bfe859e3b7bfa716d4d68deedd86c7",
+      "version": "0.7.9.30"
+    },
+    {
+      "extension_id": "fjalmdkodgkinmoifnlalekgfgmjfgfd",
+      "name": "YouTube Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/fjalmdkodgkinmoifnlalekgfgmjfgfd",
+      "sha256": "84ab1db72c11637748b900128f308e828e84a1032d82e24818716de624e0097e",
+      "version": "0.7.8.41"
+    },
+    {
+      "extension_id": "ekhkegmmgnplggnojfaokkmnphiehnhn",
+      "name": "Web Navigator",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ekhkegmmgnplggnojfaokkmnphiehnhn",
+      "sha256": "1fcb3f2f785ce0d0542257f93cc8574647ef67ce265c9f2046a558e549e6512a",
+      "version": "1.5.3.86"
+    },
+    {
+      "extension_id": "npbhaibjiomnbdcdgoplhifnbmbfalna",
+      "name": "Smart Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/npbhaibjiomnbdcdgoplhifnbmbfalna",
+      "sha256": "d856385f1eccf0bdcf5273a5d3bf371556b97a305e68e93466a87a8265672aea",
+      "version": "0.1.9.50"
+    },
+    {
+      "extension_id": "pdmicjggjldanablopppeaeobeaifhik",
+      "name": "Private Fortress",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/pdmicjggjldanablopppeaeobeaifhik",
+      "sha256": "ec8015b074f7c8c70726f21ec06f98abbaba9d759655fc5397885c89b92fa420",
+      "version": "0.7.4.35"
+    },
+    {
+      "extension_id": "epmbfbejbjifjdikfmgmnlmmhaflbggk",
+      "name": "Package Tracking",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/epmbfbejbjifjdikfmgmnlmmhaflbggk",
+      "sha256": "a54ffde71b238dc2a26400f0e7c63d532b0cf4ff2395e769f1f8622a9aa059c7",
+      "version": "1.2"
+    },
+    {
+      "extension_id": "ihfofbafgkhbnpabmhfialdkmbkiaieb",
+      "name": "Search Safe Security",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ihfofbafgkhbnpabmhfialdkmbkiaieb",
+      "sha256": "7817eb82b442411922d64b1b367f3a49a16686588d1542e1c07947b42a38e04e",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "pgpmlebbfpnmpbpnjbijlenoilcfjlfn",
+      "name": "Quick Launch",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/pgpmlebbfpnmpbpnjbijlenoilcfjlfn",
+      "sha256": "23a6da4490ab010e41ca5e48cc438724d0c4606a5dac41531fe14ee2b60c3222",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "pdideohkdcnlkaelmheagnghllnbgdbj",
+      "name": "Trusted Stocks",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/pdideohkdcnlkaelmheagnghllnbgdbj",
+      "sha256": "ff7a53a73d8b83cefd11fc9f837f07064b6c574b5915f42dec3633c38e934994",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "oenoakojoknjokodhgpacdllbmkjaaao",
+      "name": "Recipe Explorer for Chrome\u2122",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/oenoakojoknjokodhgpacdllbmkjaaao",
+      "sha256": "71736167e1cb7b76e710910b85d4202d48cf198e1f6120a382248362705bf3e1",
+      "version": "0.1.7.66"
+    },
+    {
+      "extension_id": "nkkpdpjlmljehmbicahhelhfccfbcngg",
+      "name": "Quick Recipes",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/nkkpdpjlmljehmbicahhelhfccfbcngg",
+      "sha256": "7965a5a6ccc7e51ea60acc0dd7da86cd46069c8491bd56ea3f041caaa0ac64a9",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "ioiojcimhalijmomdjgdcmkbbmepiekc",
+      "name": "Seekurix",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ioiojcimhalijmomdjgdcmkbbmepiekc",
+      "sha256": "df7013bf75e2468ef93a061686b65512074ad1e7ba0303a72fb5f139dfa6e13e",
+      "version": "1.5.13.98"
+    },
+    {
+      "extension_id": "ihhmgndbmcfecoceanpihidflcicjlmn",
+      "name": "Quick News",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ihhmgndbmcfecoceanpihidflcicjlmn",
+      "sha256": "28313ffdd172acdc409f05f665581ebd55759274c30cab8aaa59781a5f4aa713",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "ibpdomakbekdiokhhpdjjhcmdaegibgi",
+      "name": "Unknown Name",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ibpdomakbekdiokhhpdjjhcmdaegibgi",
+      "sha256": "",
+      "version": "3.0.4"
+    },
+    {
+      "extension_id": "hhklkcjohkghamggjbmegacncjecfkdj",
+      "name": "Smart AI Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/hhklkcjohkghamggjbmegacncjecfkdj",
+      "sha256": "a8e88a0b8ee70348a08d3c35c672eccafa7e8acdd17a5b9c78e130965026a2ce",
+      "version": "3.0.4"
+    },
+    {
+      "extension_id": "hcbgldclabghhmkeehkegncgigoaonca",
+      "name": "Trusted Networks",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/hcbgldclabghhmkeehkegncgigoaonca",
+      "sha256": "8e11cd223272ff4b8310ca8a52bb985a95927d8b52a90269f642c9d6369b0d77",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "haggfpoaoklhkfkbllgmlmcfgfaokipn",
+      "name": "Secure Input Guard",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/haggfpoaoklhkfkbllgmlmcfgfaokipn",
+      "sha256": "",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "ghpikfkjonopgcolapidclkjnfabimon",
+      "name": "Trusted Study",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ghpikfkjonopgcolapidclkjnfabimon",
+      "sha256": "350d80ab04c953796eb15e7d61ead03248d2f5808f60bd6e6fa1704e4135bc07",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "gffoambnolcdhekfpgjoocfpgieapdbf",
+      "name": "ShopNSurf",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/gffoambnolcdhekfpgjoocfpgieapdbf",
+      "sha256": "f4b0eb6d7226b030cbedb74afd1776fb89ae4581bbce44bd1cd9e2f45425485a",
+      "version": "1.0.0.3"
+    },
+    {
+      "extension_id": "dfhdejoijciohbllfphiohfhgijeannn",
+      "name": "Preferred Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/dfhdejoijciohbllfphiohfhgijeannn",
+      "sha256": "8829200c899ae90a50edf96ebc27a404a978319afb0cba74367912946d3e83d3",
+      "version": "3.0.3"
+    },
+    {
+      "extension_id": "dbjnbaekbkgopfmnfbancnjpfimepbjo",
+      "name": "Advanced Search Commands",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/dbjnbaekbkgopfmnfbancnjpfimepbjo",
+      "sha256": "7136cf51d89e269b9adb96639bab429b32db42f46a51c26edff726c1f9eb2919",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "daofedikagjnbkjgghpchemcbanahjhf",
+      "name": "Browse Safe",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/daofedikagjnbkjgghpchemcbanahjhf",
+      "sha256": "fdfc39b17747b0ab8f39f9c1cee787f998cf53c52ff58bd80d0d41e009ff30cd",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "cboffdagdgmdfooekeanpgihnjljclcc",
+      "name": "Image Maker",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/cboffdagdgmdfooekeanpgihnjljclcc",
+      "sha256": "4701d0658c7146c6fc7ad17e53e12c08eb72b84f38fa32828477b3150e11e1bd",
+      "version": "0.4.10.39"
+    },
+    {
+      "extension_id": "bfbojneemppnppddomkhmnlmmlmaomgk",
+      "name": "Trusted Space",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/bfbojneemppnppddomkhmnlmmlmaomgk",
+      "sha256": "2f453d7aea271907172497ab48198fd04abc292080e2e2cc48af39221d5e6369",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "afahbgeipolmhpnnddiplfghocccpkhi",
+      "name": "Trusted Updates",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/afahbgeipolmhpnnddiplfghocccpkhi",
+      "sha256": "9f74bf961318b56d7e25c983a1e62a47667a180b8f472bfe43edbaf2fe07b2ba",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "lbdlknihlgllpldokklknppigajnldie",
+      "name": "Online Safety",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/lbdlknihlgllpldokklknppigajnldie",
+      "sha256": "",
+      "version": "3.0.9"
+    },
+    {
+      "extension_id": "cmehenehlkkeoacfjbehafkiimdabfpd",
+      "name": "Location Search for Chrome\u2122",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/cmehenehlkkeoacfjbehafkiimdabfpd",
+      "sha256": "b8f025318c99c80ee727f90703eb01a06eab12a65037018c0ea69d410d86c923",
+      "version": "0.6.13.22"
+    },
+    {
+      "extension_id": "acaijoihgkefephogedoenapdfpolpaj",
+      "name": "X Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/acaijoihgkefephogedoenapdfpolpaj",
+      "sha256": "1eaefd20ad562084bf0c2ba274562d904c1cc7e1e7c8702880fbcb34fa947872",
+      "version": "0.7.1.35"
+    },
+    {
+      "extension_id": "fincimaphejdgjpeeobgaocdgjjbmedi",
+      "name": "Quick Image View",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/fincimaphejdgjpeeobgaocdgjjbmedi",
+      "sha256": "cc0cda60fa9fd8062efc9632e85f45d237c31b64cd60c6425a8c2b2cf3abcced",
+      "version": "0.9.5.71"
+    },
+    {
+      "extension_id": "ilocammifnbfcmkmekpejocckcdgnbli",
+      "name": "Search Control - for Chrome",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ilocammifnbfcmkmekpejocckcdgnbli",
+      "sha256": "",
+      "version": "1.0.5.66"
+    },
+    {
+      "extension_id": "hinehnlkkmckjblijjpbpamhljokoohh",
+      "name": "Start New Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/hinehnlkkmckjblijjpbpamhljokoohh",
+      "sha256": "",
+      "version": "3.3"
+    },
+    {
+      "extension_id": "kbpnbonnhilfdihhodnflcplajklibbc",
+      "name": "Yandex search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/kbpnbonnhilfdihhodnflcplajklibbc",
+      "sha256": "",
+      "version": "0.0.7"
+    },
+    {
+      "extension_id": "hpjbfdmahbjapdecnmioifehkallpcfn",
+      "name": "Focus New Tab",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/hpjbfdmahbjapdecnmioifehkallpcfn",
+      "sha256": "981229abf05763129a6178b28f0a38e07a4df89051907830746f1d3cbe2f6de0",
+      "version": "0.2.3"
+    },
+    {
+      "extension_id": "obengahfabphpfidcaahbfgkhhdfjjlm",
+      "name": "Focus Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/obengahfabphpfidcaahbfgkhhdfjjlm",
+      "sha256": "6ccfb320697f2885034daa556fc0c3cd4430405665cdcebd0c51fc6e696decc9",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "ggcbpfimaefmalaghlnjidgigjdljfng",
+      "name": "Coupons Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ggcbpfimaefmalaghlnjidgigjdljfng",
+      "sha256": "c9445999e3c932282d60d61fb1394bb307e39bb24c160498c5847fc8dfdb51b1",
+      "version": "2025.6.55"
+    },
+    {
+      "extension_id": "pedfjomhepkpjnninjbgancbgjcncjim",
+      "name": "Lucky PDF Converter",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/pedfjomhepkpjnninjbgancbgjcncjim",
+      "sha256": "94b84cd11bf8856c3afb449a934d7387b97fe69958ba63f231174bbadbe0d7de",
+      "version": "1.0.44"
+    },
+    {
+      "extension_id": "ckghkinegbnngbllkeokmfljeolecdma",
+      "name": "Prime Cinema",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ckghkinegbnngbllkeokmfljeolecdma",
+      "sha256": "35087073cbf39417ea892912516a462ccf755bf812885779555d2c23fe3d65c0",
+      "version": "1.1.0"
+    },
+    {
+      "extension_id": "eaabmejfmdeoaabmealmmbjdjaojakka",
+      "name": "Music Search for Chrome\u2122",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/eaabmejfmdeoaabmealmmbjdjaojakka",
+      "sha256": "8e584a0c717926613fbf96b3d0479624ea43c50ad8715a8746ce0b112dea1702",
+      "version": "3.0.9"
+    },
+    {
+      "extension_id": "jdakbaajckankfaadpapgnnlealoigaj",
+      "name": "Movie Finder",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/jdakbaajckankfaadpapgnnlealoigaj",
+      "sha256": "97d79f1fc1cb7ef4d5fd9fd79447671afb92db6ce7f7e8ccd989cd39e981f765",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "fpckohnjiaonmklkjnlplokplhhijalm",
+      "name": "Family Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/fpckohnjiaonmklkjnlplokplhhijalm",
+      "sha256": "bc825dbc47aee30a31932e2c2f1621a01ae2e95be5466999b18dac6442f138f6",
+      "version": "3.0.6"
+    },
+    {
+      "extension_id": "lliehpfkblogcdojndaddkfbiijlgphc",
+      "name": "Sports Search for Chrome\u2122",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/lliehpfkblogcdojndaddkfbiijlgphc",
+      "sha256": "b91ffc7a85ac379cf611c771c02a1b7afba3105b8f6a370d39a67001eb4b907d",
+      "version": "3.0.4"
+    },
+    {
+      "extension_id": "omjnggdhheknjbdpljeajooiphfpialm",
+      "name": "Music Finder",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/omjnggdhheknjbdpljeajooiphfpialm",
+      "sha256": "4c1389426828f2670c5d5c4150e92c18eb4ebcb2a16a245af1f133f91ca89069",
+      "version": "3.0.2"
+    },
+    {
+      "extension_id": "nmmafealphfeiijjmkmkpbipbimciknb",
+      "name": "Online Privacy",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/nmmafealphfeiijjmkmkpbipbimciknb",
+      "sha256": "",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "lbkkeahlhipbkmchjcfcpnhhahcpidng",
+      "name": "Advanced Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/lbkkeahlhipbkmchjcfcpnhhahcpidng",
+      "sha256": "1167b379a09c2d6f6f7791cb62bacdc7601e089740689f51b1b3fb3c630a9973",
+      "version": "3.0.3"
+    },
+    {
+      "extension_id": "ledpmklechmkjngjilbfpogiehjbemkj",
+      "name": "Easy Video Finder",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ledpmklechmkjngjilbfpogiehjbemkj",
+      "sha256": "000191c1c0d6d324e39789005b1f9851b00a7d709dee3b4d180e9fa0bcfd326f",
+      "version": "3.0.2"
+    },
+    {
+      "extension_id": "moolembpnahlkcpjaahngledgflmkhlb",
+      "name": "Privacy Mode",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/moolembpnahlkcpjaahngledgflmkhlb",
+      "sha256": "20a4a63810e9a756d0e469014847dcd04c54085d03c0b6f8530c074c1c4f5af5",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "fepgpgfmmgknelcngbdiemoobakkalli",
+      "name": "Privacy Guardian by Secure Shell",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/fepgpgfmmgknelcngbdiemoobakkalli",
+      "sha256": "",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "kpkpfjinnjmpbflkggoplillojlaafnm",
+      "name": "Trusted Spot",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/kpkpfjinnjmpbflkggoplillojlaafnm",
+      "sha256": "391534ed22a4d699173808ccc171e201684646d0197b1e03f446ca155087c604",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "glhfmfaokimipghepdllgchpjbdjfpbb",
+      "name": "Trusted Browse",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/glhfmfaokimipghepdllgchpjbdjfpbb",
+      "sha256": "",
+      "version": "3.0.4"
+    },
+    {
+      "extension_id": "jgckooalkbnkmiapockhdlmpjkcgmilm",
+      "name": "Secure Search Tech",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/jgckooalkbnkmiapockhdlmpjkcgmilm",
+      "sha256": "31c4e83832f433eb5b85be4659ce35414bc8c28649bb3a75f1838c9b48ad955c",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "fomkefjnijnmkmbldpbbdjjlekinhfbf",
+      "name": "ProtectedSearch.io",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/fomkefjnijnmkmbldpbbdjjlekinhfbf",
+      "sha256": "",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "lkggfihjagbghcceijckhghpflamhamk",
+      "name": "Privacy Search Guard",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/lkggfihjagbghcceijckhghpflamhamk",
+      "sha256": "45a2244e2b7b4f6485c742dd48df4da2a2060cc699e18ee3e6eaadb2aecf8c37",
+      "version": "3.0.3"
+    },
+    {
+      "extension_id": "gnjfighnhklchgdfpciodlkepolaoooi",
+      "name": "Smart Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/gnjfighnhklchgdfpciodlkepolaoooi",
+      "sha256": "84dc84ad30d8d8bf2ed1aeb4fe2533d316440a02c70c31b87584478595f42e17",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "jicihiennhannakodhcjcbdcllghgcpf",
+      "name": "Prime Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/jicihiennhannakodhcjcbdcllghgcpf",
+      "sha256": "7e30ef7691357cc0b77d34bcc4d67f9927e519f562b3fc11b30756603e4d55cf",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "ccbhnmogmjpacoddbompaflnepoafnin",
+      "name": "Social Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ccbhnmogmjpacoddbompaflnepoafnin",
+      "sha256": "7e59a1a6b9ffea20ca8265c92df3d1012790f26b65573d2221865f552743e7bb",
+      "version": "3.0.2"
+    },
+    {
+      "extension_id": "ggdgdphlcdmkligmfggiilemfigefkpl",
+      "name": "Pix Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ggdgdphlcdmkligmfggiilemfigefkpl",
+      "sha256": "a0c33b2a100449149c96600b24ba831656b783f444a0757678d06db623e7becd",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "nkkgibhbokgjpkegobhnhhbjpljomedb",
+      "name": "Learn Assist",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/nkkgibhbokgjpkegobhnhhbjpljomedb",
+      "sha256": "1175e371ac010243c0793ef49852c935c5642867e403001bb3e8db79ea9decfb",
+      "version": "3.0.2"
+    },
+    {
+      "extension_id": "gldgbmlcelcgklancplfmdhpmlpndieg",
+      "name": "Site Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/gldgbmlcelcgklancplfmdhpmlpndieg",
+      "sha256": "38f51e18e7ff1aefb53d7eb5bd701f8ae2ac1b9cd962c156038e4c46f50a24de",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "kpjidbahapknjmfdiojdniohcelepilb",
+      "name": "Search Trends",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/kpjidbahapknjmfdiojdniohcelepilb",
+      "sha256": "51741aa5051ef7cb5fd04ba34f8d51d7908a874feffb7261291d2b754e5f1dd9",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "modhhobelbbgoenpfljnmacjggjkbiif",
+      "name": "Safe Smart Shopping",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/modhhobelbbgoenpfljnmacjggjkbiif",
+      "sha256": "7805d37eaccfeac9e46391f32ee791b0551bd4b457deb32b9366ca6899c8349d",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "ljhbjhfffocjijnkaffjmgloandklkno",
+      "name": "Unknown Name",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ljhbjhfffocjijnkaffjmgloandklkno",
+      "sha256": "",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "hafopimgnfgldhglebdnjjdbckahalmo",
+      "name": "AI Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/hafopimgnfgldhglebdnjjdbckahalmo",
+      "sha256": "89c5afdb75aa69a894e15f54bfa6929bd813b02598b6ed026585dff98f90ad6e",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "mgmpakomeppbmknphjgndnniobcamjab",
+      "name": "Secured Sites",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/mgmpakomeppbmknphjgndnniobcamjab",
+      "sha256": "80bc2cafdd8ed700af07fe05de87156d017cd296bace01a2c409eb9c329b1612",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "hmcoleflbbkogepngbbcobmjeieejlje",
+      "name": "Safe Search Surf",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/hmcoleflbbkogepngbbcobmjeieejlje",
+      "sha256": "28b654cd91a69b5fec05bc994b641d608480a2d12301059d2676cea2fde5546a",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "ejhbmoemjkfjmbpkfdnpnffefpikdbjo",
+      "name": "Search Direct",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ejhbmoemjkfjmbpkfdnpnffefpikdbjo",
+      "sha256": "fdfcd6aa8a2b9a2eb5d80c5f5f18ebbeccade5eb08f06690f113b5bc61e2a747",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "mmcmenmhcbafgjjjpcjlaeemhnecpjbd",
+      "name": "Safe Domains by Secure Shell",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/mmcmenmhcbafgjjjpcjlaeemhnecpjbd",
+      "sha256": "df012221a4d61190fa23a8fe5305a38da96efd18c67c398ea00d52de7538839b",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "jldoobgceegompcjmjohaadgbaifgcge",
+      "name": "Search Shield",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/jldoobgceegompcjmjohaadgbaifgcge",
+      "sha256": "711775e8f07c0b19cb5d941dd8acdb03a8aae28c73194e853176d84079ed15a2",
+      "version": "3.0.2"
+    },
+    {
+      "extension_id": "bknbmcpgglgcoogkgkohceogeaidmcag",
+      "name": "Protected Path",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/bknbmcpgglgcoogkgkohceogeaidmcag",
+      "sha256": "2b7cc975a029a686457a60b0ffd637bd22710cf3fa50d20a6fe0071499695535",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "cccpmkbapahgalninciijapfpeafmeke",
+      "name": "Hotel Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/cccpmkbapahgalninciijapfpeafmeke",
+      "sha256": "3385e7b42d38699e15a6434936e55f36c761d221754178b82bfaba9f0d3b8b7e",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "djcafgiieapmlceknagojjkjdgennejd",
+      "name": "Search Near Me",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/djcafgiieapmlceknagojjkjdgennejd",
+      "sha256": "2657a6813e43f47789394fc55de444b72ebe1db70827a79be55d459b374e5a01",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "higklepdbhphmpialidkgoekifkkmogi",
+      "name": "Learn Feed",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/higklepdbhphmpialidkgoekifkkmogi",
+      "sha256": "1134af12b76a753aad374aa9cad9d86b104030b87a9ee8fbea5c5f1aa18f1175",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "oknbkcbihanchncaepkghoofmckeehpg",
+      "name": "Flight Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/oknbkcbihanchncaepkghoofmckeehpg",
+      "sha256": "773301c5aeba7b10b742d45b9b55b2dec589ba82771b6baf697dfe870492db4b",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "plodohbdiaenficjgbfcimmkhajanjbh",
+      "name": "Time Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/plodohbdiaenficjgbfcimmkhajanjbh",
+      "sha256": "40d7611703bd0d115dfcc56d2df043d894447831cd84b7edfca3ca64307abfc1",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "nlgifpekfokokincpbmhnmdhheebhoac",
+      "name": "Search Snapshot",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/nlgifpekfokokincpbmhnmdhheebhoac",
+      "sha256": "a822118013a5687594163348f0f37b9342a3e76356dd9cd8617429e4deaf3fd4",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "pbjkdcgdgagindhohakhkhbhjhmlcnla",
+      "name": "Quick AI Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/pbjkdcgdgagindhohakhkhbhjhmlcnla",
+      "sha256": "c2d9323ab54c333c1adc6f7f24626f53b354231b1a1c4478117322df44652fd7",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "eicfpkhkkjcaookkblbljibnjlemmcdi",
+      "name": "Secure Links by Securo",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/eicfpkhkkjcaookkblbljibnjlemmcdi",
+      "sha256": "94e4e3ec3d1fdb877fa36a46ec480e0d46570125edaa785f074076ec57139224",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "enoikfgagofhjpjkdpbehnehhnmcgjej",
+      "name": "Fast Info Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/enoikfgagofhjpjkdpbehnehhnmcgjej",
+      "sha256": "437153983cdee4e2e5e8ff119d98096d257fcd4b6b388aad8f38d526386b21b6",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "fohciagejckehfgeoipcilnpmnnakkpj",
+      "name": "Top Green Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/fohciagejckehfgeoipcilnpmnnakkpj",
+      "sha256": "59fce3fd3a0313ca556fd0c3c5f5910473bb614e8d056548e1d0c105bb0a3004",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "jhkeieglkjflimimljpaenphjhkbcieh",
+      "name": "MyWallPaper",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/jhkeieglkjflimimljpaenphjhkbcieh",
+      "sha256": "d3e34c95c70b3b38d2d26ef9f5cd2b201785e592842eed8a8b701c06a019cf81",
+      "version": "1.1.3"
+    },
+    {
+      "extension_id": "bfkldmcajhbcbfmmelihdimnnekdnikj",
+      "name": "Brisk",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/bfkldmcajhbcbfmmelihdimnnekdnikj",
+      "sha256": "8c04e8d48fc33a3a8d8033facc43aa45765d01eac29c9dfe811c7782fd2cba4b",
+      "version": "1.0.3"
+    },
+    {
+      "extension_id": "hafocdebilfiegblhbpamnhlgflmljhk",
+      "name": "Fresh New Tab",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/hafocdebilfiegblhbpamnhlgflmljhk",
+      "sha256": "1ad1aea2c0abc0f0793ec1a0d950dd7fa8555d6692bf3ba64710d06c47f51bbb",
+      "version": "0.1.1"
+    },
+    {
+      "extension_id": "mpceagkhdfgnfejligiknbkffpcdkooi",
+      "name": "Let's Compare - Same Product Less Money!",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/mpceagkhdfgnfejligiknbkffpcdkooi",
+      "sha256": "44597512a66ba8364a7e0970c07b9fe95c6af24ebded10844abacb903216d3dc",
+      "version": "2.0.5"
+    },
+    {
+      "extension_id": "eapfaoggapmabingclmjigiflhhcedfj",
+      "name": "Movie Search Center New Tab",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/eapfaoggapmabingclmjigiflhhcedfj",
+      "sha256": "",
+      "version": "1.0.792.898"
+    },
+    {
+      "extension_id": "jjplgdahehldgdmahmiknpoeecbeadll",
+      "name": "Cashback Alert",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/jjplgdahehldgdmahmiknpoeecbeadll",
+      "sha256": "ef2bbac0bea5168214d1e666657bdeec0e679a8ad9b3fd6cf194614a2a8438ca",
+      "version": "0.0.5"
+    },
+    {
+      "extension_id": "klkkockojahojngfjllapnnelebkkepf",
+      "name": "Search Administrator for Chrome",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/klkkockojahojngfjllapnnelebkkepf",
+      "sha256": "",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "ophpcljoaaefmmonnlaelpoenijbacbo",
+      "name": "Shortcut Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ophpcljoaaefmmonnlaelpoenijbacbo",
+      "sha256": "721093c45ed61831c3469ed60e534ae9c6e951f1a46d2686f2511b2e17062fa3",
+      "version": "1.0.0.0"
+    },
+    {
+      "extension_id": "nkgkcoickdkcanpcagjcoikcenlkebac",
+      "name": "Explore News",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/nkgkcoickdkcanpcagjcoikcenlkebac",
+      "sha256": "70caa5c696481d25b3851dc34346647bf0332ff4bbdc62af735a613e9a94c749",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "mepcegjolholpjggdikkgdkkofednhop",
+      "name": "Fresh View Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/mepcegjolholpjggdikkgdkkofednhop",
+      "sha256": "ed7761c4bb78d7c0bfd8b1f7aee30663e9d4240feac68577ff0a8fade6aff71d",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "odcghonlbhgdidcpnalibbafopglelec",
+      "name": "Search Pro",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/odcghonlbhgdidcpnalibbafopglelec",
+      "sha256": "e4b576d2f49ef1e79dfef08b00d269c8be1a0695f7277db14d268cd2997f678d",
+      "version": "1"
+    },
+    {
+      "extension_id": "eagfemkfdjaelmfdpgmbihkipdbmjfge",
+      "name": "Unknown Name",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/eagfemkfdjaelmfdpgmbihkipdbmjfge",
+      "sha256": "",
+      "version": "0.2"
+    },
+    {
+      "extension_id": "ljocfgbodlhbdiiojpdnimkomffghman",
+      "name": "MapQuest Directions",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ljocfgbodlhbdiiojpdnimkomffghman",
+      "sha256": "124dd694302ccc37d0ad7f6a6d011100ef1fdeb8194283dd0674f8fe986ef34e",
+      "version": "1.1.5"
+    },
+    {
+      "extension_id": "ciodpknkhmiihflfchkmomenkolkdibk",
+      "name": "PDF Convert",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ciodpknkhmiihflfchkmomenkolkdibk",
+      "sha256": "4647ea055b04410cbbd75845a7d2eef19998b3af672e5e2d1fc73b4caeb87bfc",
+      "version": "1.1"
+    },
+    {
+      "extension_id": "ipgfebbljebgjchcpnpdcejgddmeadbn",
+      "name": "Multilingual Search Assistant",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ipgfebbljebgjchcpnpdcejgddmeadbn",
+      "sha256": "0a3582c28df987ab9a67017234b52447b9dbd48e3e4676a9101b9326f8286c3d",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "nelaiklcdfdgphmipgegnlgconfmicgc",
+      "name": "Map Search Assistant",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/nelaiklcdfdgphmipgegnlgconfmicgc",
+      "sha256": "474614a78adfaa09a3c52306fa39babf9062825ebb424c0af65e963f4490a180",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "iiacojpoloobeeibmnlihiodpiijghln",
+      "name": "Incognito Search Helper",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/iiacojpoloobeeibmnlihiodpiijghln",
+      "sha256": "8e28a582ab05d7b194cc5652cf81ed30f95b36bd227c0c08e3895821a4fa8bd3",
+      "version": "1.0.3"
+    },
+    {
+      "extension_id": "ccacohemffhgjbmkbidkhmadgecnlooi",
+      "name": "Video Search Helper",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ccacohemffhgjbmkbidkhmadgecnlooi",
+      "sha256": "6a648e552228982dfd54a32be3ddd3618e244c80e620bd5094aa89849e1168ae",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "lbfmohfoljfemfegjgioichbjnnjpgad",
+      "name": "EasyFind",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/lbfmohfoljfemfegjgioichbjnnjpgad",
+      "sha256": "d03f7999f903be96470968dc9eba33d6e485657ad3e576f6c8f3122830ecb534",
+      "version": "1.26.706"
+    },
+    {
+      "extension_id": "jgjdhhmacmpmpfpaedjhokalflfpdghg",
+      "name": "Print Recipes",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/jgjdhhmacmpmpfpaedjhokalflfpdghg",
+      "sha256": "",
+      "version": "1.21.927"
+    },
+    {
+      "extension_id": "agommgfdkkanppipnjckkbaaibpkadal",
+      "name": "Templates Newtab",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/agommgfdkkanppipnjckkbaaibpkadal",
+      "sha256": "c3f8acb0e11abb85e6f0e4448c48c744e366b9e49bc02c1aeb9e75a9803fca96",
+      "version": "1.24.711"
+    },
+    {
+      "extension_id": "obkoocpicbjnoaljdjbadoadkoemchlp",
+      "name": "Clarie",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/obkoocpicbjnoaljdjbadoadkoemchlp",
+      "sha256": "eb3eea0f5efae41e734eb18afa5d442a42aac66fd92557b94bd899d8d6f7ec4c",
+      "version": "1.24.220"
+    },
+    {
+      "extension_id": "mbdppfboghpbddffcoheifgmbnbcicha",
+      "name": "AnswerBuddy",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/mbdppfboghpbddffcoheifgmbnbcicha",
+      "sha256": "990f67b603b931be8ee0b95a7e5bc356c7dd55767a0a76b111e3982365fdf69f",
+      "version": "1.26.522"
+    },
+    {
+      "extension_id": "lkfegegmfppkbbacbpknfiifgbmcdbhl",
+      "name": "Freshy Recipes",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/lkfegegmfppkbbacbpknfiifgbmcdbhl",
+      "sha256": "0af710be54fc1b6387f8d1c18637cd17537b3d90ebd1f4e2a0b28953f80069b4",
+      "version": "1.21.1018"
+    },
+    {
+      "extension_id": "ciciloicbeminngpbnleeakefmeobihk",
+      "name": "QuickSpeedTest",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ciciloicbeminngpbnleeakefmeobihk",
+      "sha256": "372f0aa53562c1db8df047870f8c0ea19b2c7116890d9613a6cf2df1199bef13",
+      "version": "1.25.1217"
+    },
+    {
+      "extension_id": "goiajbilfgiimpmohnbfchdiicdombii",
+      "name": "EAB Search",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/goiajbilfgiimpmohnbfchdiicdombii",
+      "sha256": "25c57e29a690baa4ae86fb9f76f8dff52a5f0c7d9e976ce31a9bd3eccb592e4e",
+      "version": "2.9.1"
+    },
+    {
+      "extension_id": "healnejonadjepibhhoajlniifhbidjn",
+      "name": "Paperboy - News delivered to you",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/healnejonadjepibhhoajlniifhbidjn",
+      "sha256": "",
+      "version": "1.25.826"
+    },
+    {
+      "extension_id": "kpnipifloaloecopdmekhghihjbkopah",
+      "name": "Gikipedia AI Chat",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/kpnipifloaloecopdmekhghihjbkopah",
+      "sha256": "f5d696e16898576b9e428e76e5e6b227c1c070cf13b7e7c0e1d36a690e09f5bf",
+      "version": "1.25.1021"
+    },
+    {
+      "extension_id": "mfcgngmfjdfamdfbcfmkollonkacohep",
+      "name": "Easy Print",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/mfcgngmfjdfamdfbcfmkollonkacohep",
+      "sha256": "41a6c78be58ac18efbe98086f1b958bbb864e35cf2b32e6f60e3134ffe331794",
+      "version": "1.25.1111"
+    },
+    {
+      "extension_id": "anjmlknodakgoomjeifkbcfbcpgonefk",
+      "name": "Search Manager",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/anjmlknodakgoomjeifkbcfbcpgonefk",
+      "sha256": "cce2c4ade7743336a5aa724d8978a16a7a64e316b8a16d40ae4b17f140a087cf",
+      "version": "1.7.23"
+    },
+    {
+      "extension_id": "gafdhndlmnechafoecohhdeejehhheoo",
+      "name": "Search With Heart by ValidClick",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/gafdhndlmnechafoecohhdeejehhheoo",
+      "sha256": "b09e89a537570f7d2c62afe6c32270841e283a430c1a02aab9bce64d46482925",
+      "version": "2.1.0.2"
+    },
+    {
+      "extension_id": "ogbiiaanhpfijclnogkighodgflealjn",
+      "name": "Maps Earth Satellite",
+      "source": "https://socket.dev/blog/searchjacked",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-31",
+      "store_url": "https://chromewebstore.google.com/detail/ogbiiaanhpfijclnogkighodgflealjn",
+      "sha256": "e0b5d2eaeae81baf2fd7077d2e4ffaa42edcc50bff49ed2cf866e8ede9a461ac",
+      "version": "1"
+    },
     {
       "extension_id": "efjilblbfmmbpckpldinnlejapcgjmfm",
       "name": "Shell Shockers io",
@@ -484,7 +1874,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-10-25",
       "store_url": "https://chromewebstore.google.com/detail/jdepgjdjpmpjljfdcmnbjmafkbckkhko",
-      "sha256": "",
+      "sha256": "a272008d69f3c85f547e45196db5b359b2ef554a123c79e5271a7696e97293d6",
       "version": "1.4.0"
     },
     {
@@ -494,7 +1884,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-10-25",
       "store_url": "https://chromewebstore.google.com/detail/oajhhmlegabiojgcdnoobpfanfjggdna",
-      "sha256": "",
+      "sha256": "f69c43fd67c9e4983c7b07ecefafb0e33a29961cd4f17169034cc2680609a79c",
       "version": "6.13.20"
     },
     {
@@ -2884,7 +4274,7 @@
       "store": "Google Chrome",
       "insert_date": "2026-10-18",
       "store_url": "https://chromewebstore.google.com/detail/kjjdfmphakofnhgaiihbfilddejkcnej",
-      "sha256": "",
+      "sha256": "94b9790571358f7114a0bad8414128039dafa3f5d846b8bd0ab95255f0027cc8",
       "version": "1.0.2"
     },
     {
@@ -3134,7 +4524,7 @@
       "store": "Microsoft Edge",
       "insert_date": "2026-10-17",
       "store_url": "https://microsoftedge.microsoft.com/addons/detail/lpdohkbbcphhndlklfodhbabkjijhjeb",
-      "sha256": "",
+      "sha256": "323917c50c509a10c5b7b15534d95560b10c3cce6f5e43a6da5ad9bf2601fe60",
       "version": "1.0.67"
     },
     {
@@ -3364,8 +4754,8 @@
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/nlimlcpnlpflegphhjephajmhbpbdenc",
-      "sha256": "",
-      "version": ""
+      "sha256": "7a794b1a1a73b4a3d8d58a7f36e8134bb72e06bb83210648518d6219975b1d8d",
+      "version": "3.4.3"
     },
     {
       "extension_id": "kofpjimbbhoinjkbgdlcjmmbhgjmcdfb",
@@ -3404,8 +4794,8 @@
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/igdboblmofhhblbfebjmnajoohfpjjdc",
-      "sha256": "",
-      "version": ""
+      "sha256": "701bc3a685832ac0ae64d675e953a3139a31348182ade6d0ece826db78d62f42",
+      "version": "3.4.3"
     },
     {
       "extension_id": "flocelahbgnjbchdpeapaogmbllkgjnh",
@@ -3419,53 +4809,53 @@
     },
     {
       "extension_id": "eemobpicmmmfhcondjfnopmaainpepeg",
-      "name": "Glowing Eyes Horror House",
+      "name": "Glowing Eyes Horror House Haunted Cabin Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/eemobpicmmmfhcondjfnopmaainpepeg",
-      "sha256": "",
-      "version": ""
+      "sha256": "05d5f114b4a9ef64b0cd73d8f46109d2e121e93678f7977d238a42a558cb6ea2",
+      "version": "1.4.3"
     },
     {
       "extension_id": "bnmodkkhhoakncakgfnoojipfagaamlh",
-      "name": "Monkey D Luffy Anime Powe",
+      "name": "Monkey D. Luffy Anime Power One Piece Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/bnmodkkhhoakncakgfnoojipfagaamlh",
-      "sha256": "",
-      "version": ""
+      "sha256": "082bb09a897a3cde512da833ccbcfcbe42fca8fef81f89d6a531647a0e8d1c49",
+      "version": "1.4.3"
     },
     {
       "extension_id": "ajkolhhnkcgkhhdincmcebdmjdickdao",
-      "name": "Dark Cyberpunk Rage Screa",
+      "name": "Dark Cyberpunk Rage Scream 67 Neon Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/ajkolhhnkcgkhhdincmcebdmjdickdao",
-      "sha256": "",
-      "version": ""
+      "sha256": "c540fa8f2947ca3e1837545aba677a43de9d3b80c9b1ead36d77faf371262805",
+      "version": "1.4.3"
     },
     {
       "extension_id": "afjnkgcnbfcdgdhnncjlkegopgigheao",
-      "name": "K Pop Anime Girls Dancing",
+      "name": "K-Pop Anime Girls Dancing Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/afjnkgcnbfcdgdhnncjlkegopgigheao",
-      "sha256": "",
-      "version": ""
+      "sha256": "b9ab7c8eec5d9e7a13466fff261866f59a67e9aca90b0f2503d8a549460e0e65",
+      "version": "1.4.3"
     },
     {
       "extension_id": "aeekgpkacfhjmikhhlhalalhdgdmacbo",
-      "name": "Spider Man Night City Wat",
+      "name": "Spider-Man Night City Watcher Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/aeekgpkacfhjmikhhlhalalhdgdmacbo",
-      "sha256": "",
-      "version": ""
+      "sha256": "aba7ab58ad6bb348699e4bb2a1d1e59934e2c034b8ef190015631a04d32dbf6d",
+      "version": "3.4.3"
     },
     {
       "extension_id": "poljpkoeippnpannjjbldjjihlllpibc",
@@ -3529,33 +4919,33 @@
     },
     {
       "extension_id": "pljhpjmdkpgcbmjcabmjcjibjhohpegi",
-      "name": "Call Of Duty Ghost Operat",
+      "name": "Call of Duty Ghost Operator Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/pljhpjmdkpgcbmjcabmjcjibjhohpegi",
-      "sha256": "",
-      "version": ""
+      "sha256": "b56dd90d1431ee8e1700f698e77df402592427404f1d19f128f6db36b5db12f9",
+      "version": "4.4.3"
     },
     {
       "extension_id": "pkifamlbnniieooojkpkfdlphgdoaifa",
-      "name": "Gojo Vs Sukuna Jujutsu Ka",
+      "name": "Gojo vs Sukuna Jujutsu Kaisen Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/pkifamlbnniieooojkpkfdlphgdoaifa",
-      "sha256": "",
-      "version": ""
+      "sha256": "f7352c9616a36fe86b0c0bc4210a096907c1328ace72560b4f7ca4f28efd2768",
+      "version": "14.4.1"
     },
     {
       "extension_id": "pkhaedjgjljojcjfdknoiljcnakpmiel",
-      "name": "Monkey D Luffy Cape Live Wallpaper",
+      "name": "Monkey D. Luffy Cape Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/pkhaedjgjljojcjfdknoiljcnakpmiel",
-      "sha256": "",
-      "version": ""
+      "sha256": "7c71f1a50588bed57a1fe9d18bd4118aa577e9aa0b96b398f0e86eb92f703a27",
+      "version": "14.4.1"
     },
     {
       "extension_id": "pinkhepmdciagbcjoifcifhfnfhmefhg",
@@ -3569,13 +4959,13 @@
     },
     {
       "extension_id": "piijpifimaifblgkiglmfhlafiolmkgp",
-      "name": "One Punch Man Vs Goku Epi",
+      "name": "One-Punch Man vs Goku Epic Battle Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/piijpifimaifblgkiglmfhlafiolmkgp",
-      "sha256": "",
-      "version": ""
+      "sha256": "c32b60d1d9d8a39f9531542f36c3cadea17ff16fd0b3b079810c68ba63fe37ca",
+      "version": "14.4.1"
     },
     {
       "extension_id": "pggccdcahcmnpinejjjejldkpalmoakc",
@@ -3589,23 +4979,23 @@
     },
     {
       "extension_id": "pfjfoiccfpbnihadlcjcjooebkbnjdhi",
-      "name": "Cyberpunk 2077 Samurai Ca",
+      "name": "Cyberpunk 2077 Samurai Car Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/pfjfoiccfpbnihadlcjcjooebkbnjdhi",
-      "sha256": "",
-      "version": ""
+      "sha256": "ce9434523172854e659fbc45ed97f8c667e5cee2d91477065a6c6d8cc46e605f",
+      "version": "14.4.1"
     },
     {
       "extension_id": "pffflmaomklgcdfbeinjjfgleeoimfcj",
-      "name": "Black Bmw M4 Live Wallpaper",
+      "name": "Black BMW M4 Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/pffflmaomklgcdfbeinjjfgleeoimfcj",
-      "sha256": "",
-      "version": ""
+      "sha256": "2741001f2aaa1bc9208e4950d37c609be6a7ae03a66a8f597dd34030a4658e3b",
+      "version": "14.4.1"
     },
     {
       "extension_id": "pfbjhkcnbnifcjlfonijcbocfnejhleo",
@@ -3659,43 +5049,43 @@
     },
     {
       "extension_id": "ooelpnlhaieaenbjmajkdggbijpfloal",
-      "name": "Lilo And Stitch Moonlight",
+      "name": "Lilo and Stitch Moonlight Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/ooelpnlhaieaenbjmajkdggbijpfloal",
-      "sha256": "",
-      "version": ""
+      "sha256": "749ca760f777de8a16ed141cc3cd50b7d6cfcbf5c5564c04a2a4c5bff8062df6",
+      "version": "14.4.1"
     },
     {
       "extension_id": "oobighecpepdpfhfffebcannifikcald",
-      "name": "The Black Knight Blooming",
+      "name": "The Black Knight: Blooming Crimson Roses Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/oobighecpepdpfhfffebcannifikcald",
-      "sha256": "",
-      "version": ""
+      "sha256": "c572461debc7ef7ef1011a67f763b2ff41bd4c7d3b3e1976062a8bd6cd30b8ca",
+      "version": "1.4.1"
     },
     {
       "extension_id": "onpcinjfblebhcnmahbpoiijgnkebded",
-      "name": "King Von Red Halo Dark Ba",
+      "name": "King Von Red Halo Dark Background Live Wallpaper 4K",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/onpcinjfblebhcnmahbpoiijgnkebded",
-      "sha256": "",
-      "version": ""
+      "sha256": "0773ea66249074617dbb78f2184ecb43c8bef4b0753e24a2ad9aebdaa80c3217",
+      "version": "14.4.1"
     },
     {
       "extension_id": "omfhhnifnihnifkmcgbfpinbpmehemjc",
-      "name": "Luffy In Gear 5 Live Wallpaper",
+      "name": "Luffy in Gear 5 Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/omfhhnifnihnifkmcgbfpinbpmehemjc",
-      "sha256": "",
-      "version": ""
+      "sha256": "e65f8304d6f403ecdf7c5ee81041c639b43604f8e0856eaa55e1c1254b5ac92e",
+      "version": "14.4.1"
     },
     {
       "extension_id": "olmhfcpmfghkhiipdcoclckgannckjhj",
@@ -3709,33 +5099,33 @@
     },
     {
       "extension_id": "oljfphpcelbngfjhfbkdcklakmenmlfg",
-      "name": "Jjk Gojo Satoru Limitless",
+      "name": "JJK Gojo Satoru: Limitless Energy Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/oljfphpcelbngfjhfbkdcklakmenmlfg",
-      "sha256": "",
-      "version": ""
+      "sha256": "789816b303af659476f08b18c0987dea52d38307b2f5d8448d7c9d1c6e6c3a50",
+      "version": "14.4.1"
     },
     {
       "extension_id": "oljeboppjikjfgjdalncfeaclckbaldi",
-      "name": "Nissan Gt R R35 Midnight",
+      "name": "Nissan GT-R R35 Midnight Rain Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/oljeboppjikjfgjdalncfeaclckbaldi",
-      "sha256": "",
-      "version": ""
+      "sha256": "754b362d3760ef10a914f4b1cb2c2bee2c449763acc58adc3a4440cf7270a136",
+      "version": "14.4.1"
     },
     {
       "extension_id": "olehjcpakfbfbmglfgnbjmfmodndnoih",
-      "name": "Jjk Gojo Satoru Borrowed",
+      "name": "JJK Gojo Satoru Borrowed Eyes Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/olehjcpakfbfbmglfgnbjmfmodndnoih",
-      "sha256": "",
-      "version": ""
+      "sha256": "db2b6d9d1f7f8d2a360a2ae5a7b952b44743e78eda959fa350a328056ad1a530",
+      "version": "14.4.1"
     },
     {
       "extension_id": "okcgfkgckekkfhdackajhfiieiodllid",
@@ -3779,13 +5169,13 @@
     },
     {
       "extension_id": "ojbjkcbocngopbcngfkpjiloeifiiome",
-      "name": "Guts In The Snow Berserk",
+      "name": "Guts In The Snow Berserk Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/ojbjkcbocngopbcngfkpjiloeifiiome",
-      "sha256": "",
-      "version": ""
+      "sha256": "96f9884dda68aebde7424fcd03a0db037d9ab6bc9dc64c3d734d2afeb94431de",
+      "version": "14.4.1"
     },
     {
       "extension_id": "ohmeococmnfgleohnbpebbpacngjiklg",
@@ -3794,8 +5184,8 @@
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/ohmeococmnfgleohnbpebbpacngjiklg",
-      "sha256": "",
-      "version": ""
+      "sha256": "061c7a39ed3dddb7be6767561ce73596c3086cecc0ee0977e90ebbb93a24ed03",
+      "version": "4.4.3"
     },
     {
       "extension_id": "oippnamoomhjmpnnhoeihbiadmibgkmj",
@@ -3889,13 +5279,13 @@
     },
     {
       "extension_id": "oadajeibdamcjlkcodlomcbifjkhalba",
-      "name": "Sung Jin Woo Shadow Warri",
+      "name": "Sung Jin-Woo Shadow Warriors Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/oadajeibdamcjlkcodlomcbifjkhalba",
-      "sha256": "",
-      "version": ""
+      "sha256": "b9c14141196bb701d1b91270ffa26f8db26e04460d3cec15b0570b5ae21cbc8d",
+      "version": "14.4.1"
     },
     {
       "extension_id": "oaakpekhnfhkhmdgnkheplmoocophmjg",
@@ -3904,18 +5294,18 @@
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/oaakpekhnfhkhmdgnkheplmoocophmjg",
-      "sha256": "",
-      "version": ""
+      "sha256": "84708eaf7c96f85619a5a29d380ff9c10904ce4a488c8fb8550bf099d6a55f7a",
+      "version": "14.4.1"
     },
     {
       "extension_id": "npmfifkcmdnmcicffbijkpkmbldafnem",
-      "name": "One Piece Luffy Ocean Exp",
+      "name": "One Piece Luffy Ocean Explorer Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/npmfifkcmdnmcicffbijkpkmbldafnem",
-      "sha256": "",
-      "version": ""
+      "sha256": "77d2e65054499ff9a06e48060d01d46e70532909231954044b2c3680d3a17514",
+      "version": "14.4.1"
     },
     {
       "extension_id": "npflbggmijgehcafmgemocjpgmkglfdn",
@@ -4239,13 +5629,13 @@
     },
     {
       "extension_id": "medajgcmdendfngbeopjmacoieoghdaf",
-      "name": "Flying Cinnamoroll Hello",
+      "name": "Flying Cinnamoroll (Hello Kitty) Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/medajgcmdendfngbeopjmacoieoghdaf",
-      "sha256": "",
-      "version": ""
+      "sha256": "e1cd6bbcbe8bba305046113e443ba33bbf84e9f8496121564cea9a6def1227fc",
+      "version": "14.4.1"
     },
     {
       "extension_id": "mebbjgdlhjgnodldglafmjepfnadjmop",
@@ -4254,38 +5644,38 @@
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/mebbjgdlhjgnodldglafmjepfnadjmop",
-      "sha256": "",
-      "version": ""
+      "sha256": "4558c9dc9fa76864fe13980b9a3a30650fe37dc88e09d33c12d6c7d30633602d",
+      "version": "14.4.1"
     },
     {
       "extension_id": "mdogigbdjlifejgbjcbbnobjbnhpdjgp",
-      "name": "Bmw M Sport Live Wallpaper",
+      "name": "BMW M Sport Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/mdogigbdjlifejgbjcbbnobjbnhpdjgp",
-      "sha256": "",
-      "version": ""
+      "sha256": "34fab405c7315431af1721229ded4e01bccfdb93146ea7b2761f3638914b9327",
+      "version": "14.4.1"
     },
     {
       "extension_id": "mdbgcmalocapplhpioheioiibbjchfgc",
-      "name": "Monkey D Luffys Multiple",
+      "name": "Monkey D. Luffy's Multiple Movements Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/mdbgcmalocapplhpioheioiibbjchfgc",
-      "sha256": "",
-      "version": ""
+      "sha256": "cfdab05b48c639705779fd8e04d36f94c5f47a0a0d9c8e3d93b06a3c2efe4a3f",
+      "version": "14.4.1"
     },
     {
       "extension_id": "mbdjjoojbjhkhppkghnnglipdgfjidcd",
-      "name": "Thorfinn Winland Saga Mon",
+      "name": "Thorfinn Winland Saga Monochrome Live Wallpaper",
       "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
       "store": "Google Chrome",
       "insert_date": "2026-10-16",
       "store_url": "https://chromewebstore.google.com/detail/mbdjjoojbjhkhppkghnnglipdgfjidcd",
-      "sha256": "",
-      "version": ""
+      "sha256": "cd57e0ca10924fd91e08f83a156a49799ea66671a32661bef0d2c1293d537d7e",
+      "version": "14.4.1"
     },
     {
       "extension_id": "magjpancmfapedcdjmhpieckbgnfnclj",
