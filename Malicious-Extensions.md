@@ -1,5 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| efjilblbfmmbpckpldinnlejapcgjmfm | Shell Shockers io | Policy Violation | Store Monitoring | 31/10/26 | No | Google Chrome
+| hijpejlgakjjmjoogjieiadmbogpohoe | Vex 7 Unblocked 2026 | Bundling Unwanted Software | Store Monitoring | 31/10/26 | No | Google Chrome
+| fleliihaocnjheloekfdkniflehdamjd | QLK Agent | Bundling Unwanted Software | Store Monitoring | 31/10/26 | No | Google Chrome
+| ohkgflgjankblfnhpmmoddiegoofbljf | BitLife Unblocked | Bundling Unwanted Software | Store Monitoring | 31/10/26 | No | Google Chrome
+| obgpoaibnbejppjbedljgjeedgdijdmj | Telegram Media Downloader | Bundling Unwanted Software | Store Monitoring | 31/10/26 | No | Google Chrome
+| ockodkhcgipoipdepkdledlnoplgjmfj | MyQuAre Plus generate QR code | Policy Violation | Store Monitoring | 31/10/26 | No | Google Chrome
+| lhninajcpmledjkaaemofeifjkaadngo | ZappSeller | Policy Violation | Store Monitoring | 31/10/26 | No | Google Chrome
+| emigmghncekondgckkldcmkhkgolbfnc | Topic Research | Bundling Unwanted Software | Store Monitoring | 31/10/26 | No | Google Chrome
 | pkkmgcildaegadhngpjkklnbfbmhpdng | ChatSearch: ChatGPT for Search Engine (GPT4) | Bundling Unwanted Software | Store Monitoring | 30/10/26 | No | Google Chrome
 | bbpfjlpnabgienacekokamafocacifla | WHATZIP | Policy Violation | Store Monitoring | 30/10/26 | No | Google Chrome
 | kockkfpaamgknnkhobkacgnpocogdhoe | YouTube to Transcript &amp; Summary AI \| Video to Text | Bundling Unwanted Software | Store Monitoring | 30/10/26 | No | Google Chrome
@@ -38,6 +46,7 @@
 | ojdobfdnceoceckhlgablibjfeclfhcp | Minh Digi SEO - Phân tích On-page | Policy Violation | Store Monitoring | 27/10/26 | No | Google Chrome
 | mjlcplabdamachjdbgdbijldjnmniomo | Fb Multi Manager | Malware | Store Monitoring | 26/10/26 | No | Google Chrome
 | kamendbbjefmkbbgpbeclpdjphibclbe | Verificador De Rut Consul | Policy Violation | Store Monitoring | 26/10/26 | No | Google Chrome
+| olmahkdmohbllikhhigdhbcnlediajco | TikTok Downloader — Save Videos No Watermark | Policy Violation | Store Monitoring | 25/10/26 | No | Google Chrome
 | jdepgjdjpmpjljfdcmnbjmafkbckkhko | Tradingview Strategy Find | Policy Violation | Store Monitoring | 25/10/26 | No | Google Chrome
 | oajhhmlegabiojgcdnoobpfanfjggdna | TradingView Strategy Optimizer (AI Assisted) by Backpulse | Policy Violation | Store Monitoring | 25/10/26 | No | Google Chrome
 | niljpmcfnkafjdikphadfhlofhhokjpb | Mts Link Screencast | Policy Violation | Store Monitoring | 25/10/26 | No | Google Chrome
@@ -262,6 +271,22 @@
 | njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| ofidpikgkhcdbdioecnlmhgclilbnpop | SUI Price Ticker | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| plbflflgpmbjkkjpecbblpdeiaobmklk | ChatGPT Sidebar GPT-4o, Claude3, AI Video Generator & AI Tools: ChatMove | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| ekjddhkmchfnamjppfcnbjjlehkjamlg | Công Cụ Đặt Hàng Cẩm Thạch Logistics | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| adefgeknneloecoldkfibfepcdbbjihg | WF Tools – Message Companion | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| ikcidlboiedbmkffiecimoobcinbamgm | SUI Price Ticker | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| amikeononomkhphopbflomhnmdijjpmb | ChatGPT Infinity | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| lhgllhgphodhnpckgjgbcaajnkgonbec | Hydra Dash Avengers Game | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| nmigfpbingbnhgaoidialmamgagmkjff | Hermine AI | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| kbmadekeficmkdoajcoldcjiglbhehfl | TV Box GR | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| cbgfnmkjhinjmgejhcgjlpebhbedccgc | ZapCORR Suite | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| llldbocgjcajdiemgfomjcohfmihipje | VOFO Wallet | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| gmcihcjojmjkmgbfndodiafhhgeakdea | SLTD WA Sender | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| hehocaodamefjcfgaokdflpahokeemeb | Top System | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| keeoandghaickommdhcobeglapmmobae | YouNote | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| fhfbddcfagapbkfcmkdeambfdbpppaoe | Disparos Web | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| jblfdkhadhglgbahgebajcjgcpemfjoo | SD ShutterData AI | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | kjjdfmphakofnhgaiihbfilddejkcnej | Ramesh SharePoint REST API Explorer | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | iiahjhicigeafmhnikaomojkmpbiajmi | ThisConnect — BRACU Connect Auto Grade Importer | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | gjkbiebjbpngglhnmpenmangmbcekfip | Ask ChatGPT | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
@@ -281,6 +306,9 @@
 | njoajiajcpfbaclllemflffnhchblnem | Nomination Crm | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | eaddpginckbggngfiipmjigfdfgfplef | Gerar Chave de Conexão do WhatsApp | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | nmpilknjfdfdfhdhdnllfngbknpdgpfh | Odin Chat Passkey | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| hlnhppidljljneadggeghgllegflkoop | AO3 Enhancer - Auto Tracker, Dark Mode & Reader Replacer | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
+| cobepgcbdgkeigjeiliegihddhoeldmb | Car drawing Game Ad-FreeGames | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
+| ngpapmbnbnnlpdamichmbfiiidghflhl | Everything Gray | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | ipjnppdelbcbbfbjmdccmhellpbdmdaa | GoZAP Session Migrator | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | dggdnpmmaaiagabpilnecpdenaepaaje | Gerar Chave De ConexãO do WhatsApp | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | fjjelbbjhjinkachkijmblfgfabklbdb | Boostbay Analytics For Oz | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
@@ -290,6 +318,9 @@
 | hiofiefcoddmfchphleoilcipfancnpj | Cyberquest Extension | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | enkdglikhhjangbkmlkfmignkgchlhkm | 云梯VPN | Malware | MalExt Analysis | 17/10/26 | No | Google Chrome
 | jgmcmdfkmcpgakbabkhgkpponillmphl | HideU VPN | Malware | MalExt Analysis | 17/10/26 | No | Google Chrome
+| nclhoohnebofabammgokaaedjmiaabeh | XRP Price/Wallet Tracker | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| lehpbgmhinaembheljfoehpfkmalfila | Polymarket finder | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
+| fcjiplnbkndifghaniahlefjdbdlahlp | WAPP Group Sender | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
 | igmkpfjhphblhbnaflabakakodffoehi | Busqy - Criador de Divulgações | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
 | gllclaggnfeijmgingealkpandllclog | Webquake Abyss Of Pandemo | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
 | jeialoiiafkbhaknkifabhhmpikamajb | Webquake Operation Urth M | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
@@ -3444,7 +3475,7 @@
 | jkemcicifmakgecjlccgacekblpemlgc | Rumi Lofi Girl Sytle Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
 | hmagnnippelpfgkmbdnepolcgjlmbohh | Black Ironman Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
 | kddmpiegkhognnbickdokphhclpnpiad | Eternal Abyss Gan Xuan Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
-| gdchmbgmhmaodnieafeiohgehgmcgcnn | Toyota GT - Mustang: The Dance of Smoke and Speed Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
+| gdchmbgmhmaodnieafeiohgehgmcgcnn | Toyota GT - Mustang: The Dance of Smoke and Speed Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | Yes | Google Chrome
 | gmmnlmfimenanmlfnmlfhgdaiddfagah | Night City Cyberpunk 2077 Live Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
 | ihgoemdkkdhhefhkabnbcofhncicomjj | Charles Leclerc Ferrari Italian GP | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
 | gljfgoddoklpbegmobpocoaijdooflmc | The Legend of Zelda 4K Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 01/08/26 | No | Google Chrome
