@@ -1,5 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| djhefbpeamjjlnpdjmalgpgjbnjeilpd | Search and New Tab by AOL | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
+| bloaebioklphbgkajacehnoaicgndooj | omgPETS! | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
+| alibbcimdclahpedhdcnajgenbjjfbcn | Search Manager by My Secure Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
+| dciomigekggngnnhfehfjklilgdcagpl | Easy Trip Finder | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
+| amgoddkcchdicnbhikiocmibcnkgefch | Nova Searches | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
+| imjhjbefihhfobofgblpbeecimomigho | Search Byte | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
+| cjbhcdpljoplpemnbdinngaefcfdmbkb | My Search Vault | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
+| bkfakihdfebjjcibeephcjniogbmogdk | Swift Shortcuts | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
+| heenmcindpacmaaejdchpnplgaoeobmp | Instant Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
+| nneemokobpapjepmlngjpngfcpgbkjgd | Quick Navigator | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
+| iodpihpdjbpjmbjapdcfddooaidpccpc | Prompt Pulse | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
 | hfdaiamamknieecaphgpbgkadhhpallj | Youtube Watch Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
 | akbbdmilignoplkhminiaecccigmpdmo | Watch Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
 | keejkacieaegdedplmofddhjbdaninph | Disney Party - Watch Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
@@ -9,9 +20,9 @@
 | fbddilioagdlbcnhaenjmelhjhcliklj | Hotstar Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
 | adclcmodpeeklopaodeecllejlhadjom | Peacock Watch Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
 | oefplfbngjofeopadnggnnpbmeapgdjf | Crunchyroll Watch Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
-| jlnnfhokbgoooafhfmhpbjbmibcljbai | jlnnfhokbgoooafhfmhpbjbmibcljbai | Malware | [malext.io](http://malext.io/reports/wasteal/ ) | 01/11/26 | No | Google Chrome
-| okhimboohogihbieeeabfddppoplangj | okhimboohogihbieeeabfddppoplangj | Malware | [malext.io](http://malext.io/reports/wasteal/ ) | 01/11/26 | No | Google Chrome
-| inledlgddonejojfmomjinbiimheijhl | inledlgddonejojfmomjinbiimheijhl | Malware | [malext.io](http://malext.io/reports/wasteal/ ) | 01/11/26 | No | Google Chrome
+| jlnnfhokbgoooafhfmhpbjbmibcljbai | Crmking | Malware | [malext.io](http://malext.io/reports/WaSteal/) | 01/11/26 | No | Google Chrome
+| okhimboohogihbieeeabfddppoplangj | Boravender | Malware | [malext.io](http://malext.io/reports/WaSteal/) | 01/11/26 | No | Google Chrome
+| inledlgddonejojfmomjinbiimheijhl | Mi Crm ExtensióN | Malware | [malext.io](http://malext.io/reports/WaSteal/) | 01/11/26 | No | Google Chrome
 | jonjaboejpmpdfmmeoiffiolcbecajdm | Export eBay reviews to CSV | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
 | knophimfkaibabcfplkdnhkbefhdpiig | Christie's Image Downloader | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
 | pmnfoemmmiieplhpcidijngibcgbjkpk | Etsy.com Media Downloader | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
