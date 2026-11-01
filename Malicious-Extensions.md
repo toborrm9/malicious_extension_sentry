@@ -1,5 +1,36 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hfdaiamamknieecaphgpbgkadhhpallj | Youtube Watch Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| akbbdmilignoplkhminiaecccigmpdmo | Watch Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| keejkacieaegdedplmofddhjbdaninph | Disney Party - Watch Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| cmpiocfnbndncbjkjjefojcfkffjlnoc | Teleparty | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| dbecepickcnijhfalmmmahjllckpnopi | Teleparty watch and win exicting prices | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| ojkhlfmofplghgodaihagbdhohmanmcb | HBO Watch Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| fbddilioagdlbcnhaenjmelhjhcliklj | Hotstar Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| adclcmodpeeklopaodeecllejlhadjom | Peacock Watch Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| oefplfbngjofeopadnggnnpbmeapgdjf | Crunchyroll Watch Party | Malware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| jlnnfhokbgoooafhfmhpbjbmibcljbai | jlnnfhokbgoooafhfmhpbjbmibcljbai | Malware | [malext.io](http://malext.io/reports/wasteal/ ) | 01/11/26 | No | Google Chrome
+| okhimboohogihbieeeabfddppoplangj | okhimboohogihbieeeabfddppoplangj | Malware | [malext.io](http://malext.io/reports/wasteal/ ) | 01/11/26 | No | Google Chrome
+| inledlgddonejojfmomjinbiimheijhl | inledlgddonejojfmomjinbiimheijhl | Malware | [malext.io](http://malext.io/reports/wasteal/ ) | 01/11/26 | No | Google Chrome
+| jonjaboejpmpdfmmeoiffiolcbecajdm | Export eBay reviews to CSV | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| knophimfkaibabcfplkdnhkbefhdpiig | Christie's Image Downloader | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| pmnfoemmmiieplhpcidijngibcgbjkpk | Etsy.com Media Downloader | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| eeaodioiaelbfpbijnghhphoffkneacp | Shein Image Batch Download Scraper | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| apbjnckajeekpdjblenjafkppdnaohid | Etsy Image Downloader – Download images and videos | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| cmkhkhhepccmmlamjajabhbmgcdbikpm | Dark Theme - Chrome Dark Mode | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| obmppojgmdgkofmgibddpbneolkdhhid | OfferUp Image Downloader | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| hkbjaeamebponckefnohdpiabalkcjdk | Reddit Image Download | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| fphahoedhndfkpplcjcmdbiafccfaeag | Etsy Image Downloader | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| inkkapoklilfpelieooegkfncpekoegh | Depop.com Image Batch Download | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| bnigcoelhhfilgcfhlelpklhlhfmnhnd | Tumblr Media Download Assistant | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| nbobcnjdeenpckdpjefdjkdijmncoedi | Clear cache, cookies, and delete history | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| koamnbilkfadgannfeabajkkcccbikkj | eBay Image Downloader | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| jedlhiijkpibedjbbbmpffecolcdiall | Airbnb图片下载器 | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| iahaihppknpjipclikejfifpgpkpjgkb | Thunt Images Downloader | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| lfcnlhnhhdliokpeffeikakddfbhfhol | DeskScape Player | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| pjjaiklidgfbkiklbejkklknkamjbagi | Full page screenshot | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| nchjggjcbhnacoiicajclkejbocpgaen | Adjustable size webpage screenshots | Adware | MalExt Analysis | 01/11/26 | No | Google Chrome
+| ocndacophphjgobfdeacpfcbbajdiifl | Ask Fusion | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 31/10/26 | No | Google Chrome
 | cbekmdihgdjedeoincgnaecpbonekjjk | WorkFaze | Search Hijacking | [socket.dev](https://socket.dev/blog/searchjacked) | 31/10/26 | No | Google Chrome
 | almiecjechfhjopihlipdhcpadldkkpf | Unknown Name | Search Hijacking | [socket.dev](https://socket.dev/blog/searchjacked) | 31/10/26 | No | Google Chrome
 | bmnnglbgmnnjhippjmfnjaeobglaolog | Browse Aware | Search Hijacking | [socket.dev](https://socket.dev/blog/searchjacked) | 31/10/26 | No | Google Chrome
@@ -60,7 +91,7 @@
 | fincimaphejdgjpeeobgaocdgjjbmedi | Quick Image View | Search Hijacking | [socket.dev](https://socket.dev/blog/searchjacked) | 31/10/26 | No | Google Chrome
 | ilocammifnbfcmkmekpejocckcdgnbli | Search Control - for Chrome | Search Hijacking | [socket.dev](https://socket.dev/blog/searchjacked) | 31/10/26 | No | Google Chrome
 | hinehnlkkmckjblijjpbpamhljokoohh | Start New Search | Search Hijacking | [socket.dev](https://socket.dev/blog/searchjacked) | 31/10/26 | No | Google Chrome
-| kbpnbonnhilfdihhodnflcplajklibbc | Yandex search | Search Hijacking | [socket.dev](https://socket.dev/blog/searchjacked) | 31/10/26 | No | Google Chrome
+| kbpnbonnhilfdihhodnflcplajklibbc | Yandex search | Search Hijacking | [socket.dev](https://socket.dev/blog/searchjacked) | 31/10/26 | Yes | Google Chrome
 | hpjbfdmahbjapdecnmioifehkallpcfn | Focus New Tab | Search Hijacking | [socket.dev](https://socket.dev/blog/searchjacked) | 31/10/26 | No | Google Chrome
 | obengahfabphpfidcaahbfgkhhdfjjlm | Focus Search | Search Hijacking | [socket.dev](https://socket.dev/blog/searchjacked) | 31/10/26 | No | Google Chrome
 | ggcbpfimaefmalaghlnjidgigjdljfng | Coupons Search | Search Hijacking | [socket.dev](https://socket.dev/blog/searchjacked) | 31/10/26 | No | Google Chrome
