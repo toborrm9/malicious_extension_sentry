@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-10-31",
-    "timestamp": "1793450734",
+    "date": "2026-11-01",
+    "timestamp": "1793551921",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,1353 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "fb763df5-32d7-5747-878f-d33533baa297",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hfdaiamamknieecaphgpbgkadhhpallj",
+        "comment": "Youtube Watch Party | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "1e3ae3c1-cfe1-53e6-9063-b132032a3534",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hfdaiamamknieecaphgpbgkadhhpallj",
+        "comment": "Chrome Web Store entry for Youtube Watch Party (hfdaiamamknieecaphgpbgkadhhpallj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6ad0dabf-2296-5992-9f97-c15b29c1471c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "483b1ec8f553936596e4ebdec862b941e04556452ec1d4d067a88d19ba7b86f9",
+        "comment": "SHA-256 of extension package for Youtube Watch Party (hfdaiamamknieecaphgpbgkadhhpallj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "83025043-9eff-575b-a9d6-6a6a0ddcdf31",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "akbbdmilignoplkhminiaecccigmpdmo",
+        "comment": "Watch Party | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.1.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "714d3cc8-f15a-548e-bea8-a7eacd52f234",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/akbbdmilignoplkhminiaecccigmpdmo",
+        "comment": "Chrome Web Store entry for Watch Party (akbbdmilignoplkhminiaecccigmpdmo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9fabe9c7-dd6d-50e8-a981-2352f23a21b2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3d13bb4eb03b90bc8febe4835488003f8b1d521b0e26bb45760a62816f032c4c",
+        "comment": "SHA-256 of extension package for Watch Party (akbbdmilignoplkhminiaecccigmpdmo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c74bea0a-77fe-52ce-9560-0522bc91cc6b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "keejkacieaegdedplmofddhjbdaninph",
+        "comment": "Disney Party - Watch Party | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "158416b7-efba-5b00-b1e4-fb3674ead3a0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/keejkacieaegdedplmofddhjbdaninph",
+        "comment": "Chrome Web Store entry for Disney Party - Watch Party (keejkacieaegdedplmofddhjbdaninph)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "40108da7-eb43-5130-8239-bb42e67abceb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "910962a3c434e2ab65385d2c2a88f15e0e0bc18373f8d032f8b9c2665d441b2a",
+        "comment": "SHA-256 of extension package for Disney Party - Watch Party (keejkacieaegdedplmofddhjbdaninph)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "74ce7c45-c5ee-5a0d-a6a6-1ab6aefd14bb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cmpiocfnbndncbjkjjefojcfkffjlnoc",
+        "comment": "Teleparty | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "e38cf3e3-6569-58ac-9ed0-ca45d9b9867e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cmpiocfnbndncbjkjjefojcfkffjlnoc",
+        "comment": "Chrome Web Store entry for Teleparty (cmpiocfnbndncbjkjjefojcfkffjlnoc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "940e7f31-6ba2-5379-bf71-4307ee332ba7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7436966afc62dbeb2a113e455b9a017e8c67d4b44f551ba6c30a8ccd493a73d1",
+        "comment": "SHA-256 of extension package for Teleparty (cmpiocfnbndncbjkjjefojcfkffjlnoc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e66875f7-f3f9-544d-a89f-880a37bf6b8b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dbecepickcnijhfalmmmahjllckpnopi",
+        "comment": "Teleparty watch and win exicting prices | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "8c8c69e7-b8ca-5c05-a6e7-fcedddfd1a2d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dbecepickcnijhfalmmmahjllckpnopi",
+        "comment": "Chrome Web Store entry for Teleparty watch and win exicting prices (dbecepickcnijhfalmmmahjllckpnopi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "71c21c61-8032-5a79-9b49-4376dc92dcc1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "da7098f2754f1c803e05d971b5c09a1a21432f6abc2be50d2fd0396437d9e358",
+        "comment": "SHA-256 of extension package for Teleparty watch and win exicting prices (dbecepickcnijhfalmmmahjllckpnopi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a62d5fda-f75c-5379-9daf-5739a239f779",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ojkhlfmofplghgodaihagbdhohmanmcb",
+        "comment": "HBO Watch Party | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "bc2c8ab2-c571-5d70-aa22-8e10a397ceda",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ojkhlfmofplghgodaihagbdhohmanmcb",
+        "comment": "Chrome Web Store entry for HBO Watch Party (ojkhlfmofplghgodaihagbdhohmanmcb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6a4400d6-918c-5d87-8c0d-dad52cc2ffea",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4997facba0c9eda62e904b820f0f5cdacb528f85c1fdd94d7527e7fc5e7c81c0",
+        "comment": "SHA-256 of extension package for HBO Watch Party (ojkhlfmofplghgodaihagbdhohmanmcb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "248b8c46-9552-5ce9-8341-98a8615eacd3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fbddilioagdlbcnhaenjmelhjhcliklj",
+        "comment": "Hotstar Party | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "c7fafd29-c2ec-50d6-b17d-c879714e42a9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fbddilioagdlbcnhaenjmelhjhcliklj",
+        "comment": "Chrome Web Store entry for Hotstar Party (fbddilioagdlbcnhaenjmelhjhcliklj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a3953d33-ad28-5928-82f3-e57c2e308f8e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d797730cf88bc849b306e42491e40d2e2674b69633d7860a86f36ee076a92cbd",
+        "comment": "SHA-256 of extension package for Hotstar Party (fbddilioagdlbcnhaenjmelhjhcliklj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e47f0dfa-0d1f-5410-b378-234e94cf0f25",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adclcmodpeeklopaodeecllejlhadjom",
+        "comment": "Peacock Watch Party | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "abda49b2-0127-5ce7-966e-583498dffe26",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/adclcmodpeeklopaodeecllejlhadjom",
+        "comment": "Chrome Web Store entry for Peacock Watch Party (adclcmodpeeklopaodeecllejlhadjom)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b43484b6-050e-5d13-b457-4e3cf36e54fa",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a42fbe3cde2b56eadc076fe74d4463c810e7a5610644a6409b9aadbda4402d2e",
+        "comment": "SHA-256 of extension package for Peacock Watch Party (adclcmodpeeklopaodeecllejlhadjom)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ac7ebdcb-70aa-58f1-8d3f-65d2c385724e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oefplfbngjofeopadnggnnpbmeapgdjf",
+        "comment": "Crunchyroll Watch Party | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "e9e4c22e-0670-5b6f-8be0-bc329618e1d4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oefplfbngjofeopadnggnnpbmeapgdjf",
+        "comment": "Chrome Web Store entry for Crunchyroll Watch Party (oefplfbngjofeopadnggnnpbmeapgdjf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1915c462-4971-554c-92af-622a83e17455",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0f039373e1a5adc29f92f5439e9634d61542098d49216380be549bedeafc4805",
+        "comment": "SHA-256 of extension package for Crunchyroll Watch Party (oefplfbngjofeopadnggnnpbmeapgdjf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "fa1595ec-9c62-55a7-88ef-5cdc0295c482",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jlnnfhokbgoooafhfmhpbjbmibcljbai",
+        "comment": "jlnnfhokbgoooafhfmhpbjbmibcljbai | Source: http://malext.io/reports/wasteal/ | Store: Google Chrome | Added: 2026-11-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"http://malext.io/reports/wasteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "1e366eed-0fde-5757-bab1-af63c48f892d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jlnnfhokbgoooafhfmhpbjbmibcljbai",
+        "comment": "Chrome Web Store entry for jlnnfhokbgoooafhfmhpbjbmibcljbai (jlnnfhokbgoooafhfmhpbjbmibcljbai)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7fd078a5-bafb-55aa-87bb-75757b6ebf48",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "okhimboohogihbieeeabfddppoplangj",
+        "comment": "okhimboohogihbieeeabfddppoplangj | Source: http://malext.io/reports/wasteal/ | Store: Google Chrome | Added: 2026-11-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"http://malext.io/reports/wasteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "f60b61d3-95b2-5800-b4e0-d03ad19ef124",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/okhimboohogihbieeeabfddppoplangj",
+        "comment": "Chrome Web Store entry for okhimboohogihbieeeabfddppoplangj (okhimboohogihbieeeabfddppoplangj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2c843929-1837-588c-80c1-d000cedb4ef8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "inledlgddonejojfmomjinbiimheijhl",
+        "comment": "inledlgddonejojfmomjinbiimheijhl | Source: http://malext.io/reports/wasteal/ | Store: Google Chrome | Added: 2026-11-01",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"http://malext.io/reports/wasteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          }
+        ]
+      },
+      {
+        "uuid": "07f23466-0b56-5114-b7ee-17bc6c4ca615",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/inledlgddonejojfmomjinbiimheijhl",
+        "comment": "Chrome Web Store entry for inledlgddonejojfmomjinbiimheijhl (inledlgddonejojfmomjinbiimheijhl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f77c2643-fcaf-55a5-9032-e4df27c21078",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jonjaboejpmpdfmmeoiffiolcbecajdm",
+        "comment": "Export eBay reviews to CSV | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "cf16c524-43e8-5d6f-8266-c9654fcad472",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jonjaboejpmpdfmmeoiffiolcbecajdm",
+        "comment": "Chrome Web Store entry for Export eBay reviews to CSV (jonjaboejpmpdfmmeoiffiolcbecajdm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dedb8b8b-8849-5c35-9743-6d30a533c8df",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3ac4ee179570708e2ad13d8c87b216c468378f0a631e3f25ae7eada971829c75",
+        "comment": "SHA-256 of extension package for Export eBay reviews to CSV (jonjaboejpmpdfmmeoiffiolcbecajdm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "dd9113e9-3344-54c2-9a19-a075837d8d27",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "knophimfkaibabcfplkdnhkbefhdpiig",
+        "comment": "Christie's Image Downloader | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "36cae811-0442-553b-b8f6-83a07e834726",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/knophimfkaibabcfplkdnhkbefhdpiig",
+        "comment": "Chrome Web Store entry for Christie's Image Downloader (knophimfkaibabcfplkdnhkbefhdpiig)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9b4e0b69-cf05-5ffe-bea6-ce9640d50af4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pmnfoemmmiieplhpcidijngibcgbjkpk",
+        "comment": "Etsy.com Media Downloader | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "29721f83-7ecd-527f-b40e-d4ae335bf8f5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pmnfoemmmiieplhpcidijngibcgbjkpk",
+        "comment": "Chrome Web Store entry for Etsy.com Media Downloader (pmnfoemmmiieplhpcidijngibcgbjkpk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0d69bc87-a8ef-53b5-bf26-fafd7ee6c893",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2599ec69e50d128f5fa239e05a0e3592344990f18dd54e94e2eb534090026716",
+        "comment": "SHA-256 of extension package for Etsy.com Media Downloader (pmnfoemmmiieplhpcidijngibcgbjkpk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1509af96-49de-5801-a270-b6677eb70757",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eeaodioiaelbfpbijnghhphoffkneacp",
+        "comment": "Shein Image Batch Download Scraper | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "5c776ed8-8250-5602-836d-efc6da7ae2bd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eeaodioiaelbfpbijnghhphoffkneacp",
+        "comment": "Chrome Web Store entry for Shein Image Batch Download Scraper (eeaodioiaelbfpbijnghhphoffkneacp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "68386085-b2d1-5dc3-b2af-1862b2beb977",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e54d54ffc9a1dbe7fdb600c4794485d6b91c5cb6b0e4122744e040f82b866226",
+        "comment": "SHA-256 of extension package for Shein Image Batch Download Scraper (eeaodioiaelbfpbijnghhphoffkneacp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5ea5b0b3-d4f9-5e00-9967-e13bd2ea4e57",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "apbjnckajeekpdjblenjafkppdnaohid",
+        "comment": "Etsy Image Downloader \u2013 Download images and videos | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "76276b89-5fee-54b2-a31d-7e0fdfcf0f83",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/apbjnckajeekpdjblenjafkppdnaohid",
+        "comment": "Chrome Web Store entry for Etsy Image Downloader \u2013 Download images and videos (apbjnckajeekpdjblenjafkppdnaohid)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b6f9f3c0-41d5-523a-8a9f-6c518a38b589",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2ad968184310ebc48e12436634c58fb19404be5a7a5bc61490480d5cc85c9eb4",
+        "comment": "SHA-256 of extension package for Etsy Image Downloader \u2013 Download images and videos (apbjnckajeekpdjblenjafkppdnaohid)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4a78fc87-5cde-5f6d-8f52-df3effbb1c34",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cmkhkhhepccmmlamjajabhbmgcdbikpm",
+        "comment": "Dark Theme - Chrome Dark Mode | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "cdef9e7d-3f3c-56ca-bab4-0737359536e5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cmkhkhhepccmmlamjajabhbmgcdbikpm",
+        "comment": "Chrome Web Store entry for Dark Theme - Chrome Dark Mode (cmkhkhhepccmmlamjajabhbmgcdbikpm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "50d47374-f74d-5102-b088-28f32b172775",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e9baa2467524888ddd2d60f039f88778f0597aa99214ff72338f1ea93a598e9c",
+        "comment": "SHA-256 of extension package for Dark Theme - Chrome Dark Mode (cmkhkhhepccmmlamjajabhbmgcdbikpm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f2129856-4a45-5bd1-a74d-2af0e43733dd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "obmppojgmdgkofmgibddpbneolkdhhid",
+        "comment": "OfferUp Image Downloader | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "9d5887e7-9907-5376-b939-427fb8845ade",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/obmppojgmdgkofmgibddpbneolkdhhid",
+        "comment": "Chrome Web Store entry for OfferUp Image Downloader (obmppojgmdgkofmgibddpbneolkdhhid)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b5b718fd-f4e5-5c9c-9503-e242f92644cb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d944a9ddb8f28187eaa38354b5f7ed5d5e777572e2976e1737dadca5e654bacc",
+        "comment": "SHA-256 of extension package for OfferUp Image Downloader (obmppojgmdgkofmgibddpbneolkdhhid)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3865c40b-20b9-547c-86b8-48ab444ba11c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hkbjaeamebponckefnohdpiabalkcjdk",
+        "comment": "Reddit Image Download | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "30c29e90-c868-5cc7-bd23-2f515d9f72c7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hkbjaeamebponckefnohdpiabalkcjdk",
+        "comment": "Chrome Web Store entry for Reddit Image Download (hkbjaeamebponckefnohdpiabalkcjdk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d3aa85ce-dcdb-531e-b902-d05deb70d734",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "961afb5444f2ef45a283b2021f533a4df442398a6e5106be392baefd0686d97a",
+        "comment": "SHA-256 of extension package for Reddit Image Download (hkbjaeamebponckefnohdpiabalkcjdk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a9f8ca4b-7486-5db4-8cbd-68f945d5f9d7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fphahoedhndfkpplcjcmdbiafccfaeag",
+        "comment": "Etsy Image Downloader | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "64b21f60-dff5-59f4-b98e-750321dbda1e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fphahoedhndfkpplcjcmdbiafccfaeag",
+        "comment": "Chrome Web Store entry for Etsy Image Downloader (fphahoedhndfkpplcjcmdbiafccfaeag)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ec970334-1618-5030-a6bb-e61f611b29b6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c161188a4628c5ab33c0aa7018eb9e444d4dd52f1d455dc7dbab674cd63bc671",
+        "comment": "SHA-256 of extension package for Etsy Image Downloader (fphahoedhndfkpplcjcmdbiafccfaeag)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "87cbb094-6c6c-5073-9c30-ca01135b7095",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "inkkapoklilfpelieooegkfncpekoegh",
+        "comment": "Depop.com Image Batch Download | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "f0eb2f01-379f-50bc-9fab-367305138a37",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/inkkapoklilfpelieooegkfncpekoegh",
+        "comment": "Chrome Web Store entry for Depop.com Image Batch Download (inkkapoklilfpelieooegkfncpekoegh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b40bcbed-8e2c-5d9c-8034-a487e1cb1f01",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "852d1a7305355b2d2fe28ced352056cc40bcb2c7f8cf4d048c010caeed505319",
+        "comment": "SHA-256 of extension package for Depop.com Image Batch Download (inkkapoklilfpelieooegkfncpekoegh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5ab904f9-d539-5708-b1e6-c7e02d7b9b56",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bnigcoelhhfilgcfhlelpklhlhfmnhnd",
+        "comment": "Tumblr Media Download Assistant | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "d89c2e88-3a21-55ea-993d-aa3ac5cc6323",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bnigcoelhhfilgcfhlelpklhlhfmnhnd",
+        "comment": "Chrome Web Store entry for Tumblr Media Download Assistant (bnigcoelhhfilgcfhlelpklhlhfmnhnd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5fff3ba5-a9f8-5622-8885-020a46af21f1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nbobcnjdeenpckdpjefdjkdijmncoedi",
+        "comment": "Clear cache, cookies, and delete history | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 0.2.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.2.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "1e47aab8-01a2-5a65-95f7-9069438161e0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nbobcnjdeenpckdpjefdjkdijmncoedi",
+        "comment": "Chrome Web Store entry for Clear cache, cookies, and delete history (nbobcnjdeenpckdpjefdjkdijmncoedi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "85d5ef0e-912e-5c3e-9ad7-fd15a7b90a78",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "59cdc5030462fc9d560bef1c3cd829c70367327da2d6ccff937625a9980e6336",
+        "comment": "SHA-256 of extension package for Clear cache, cookies, and delete history (nbobcnjdeenpckdpjefdjkdijmncoedi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a78fd357-bf6f-59f8-aa59-3058342335d1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "koamnbilkfadgannfeabajkkcccbikkj",
+        "comment": "eBay Image Downloader | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "78343c51-2554-5127-9dde-15955acdb2d5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/koamnbilkfadgannfeabajkkcccbikkj",
+        "comment": "Chrome Web Store entry for eBay Image Downloader (koamnbilkfadgannfeabajkkcccbikkj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5f16b215-677b-5f85-bdf5-62add4a84ab9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "85f6191832de14958f47eb5e4b65b9efe0f34e5a69cce35e758e63a628241124",
+        "comment": "SHA-256 of extension package for eBay Image Downloader (koamnbilkfadgannfeabajkkcccbikkj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "16774a42-d672-5912-8317-1cdc0597df05",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jedlhiijkpibedjbbbmpffecolcdiall",
+        "comment": "Airbnb\u56fe\u7247\u4e0b\u8f7d\u5668 | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "6648cc1b-e325-57e3-93a4-b9c77575b838",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jedlhiijkpibedjbbbmpffecolcdiall",
+        "comment": "Chrome Web Store entry for Airbnb\u56fe\u7247\u4e0b\u8f7d\u5668 (jedlhiijkpibedjbbbmpffecolcdiall)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bc8ca158-07e2-5b5e-a911-eb8f86f38b3f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3ec3059d5ab87b6bf8e7d092c13310eaf5a58a4771d7a7ec2c6493fc6aadd941",
+        "comment": "SHA-256 of extension package for Airbnb\u56fe\u7247\u4e0b\u8f7d\u5668 (jedlhiijkpibedjbbbmpffecolcdiall)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d85a99b7-3d1a-529f-a880-216e7cbcd292",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iahaihppknpjipclikejfifpgpkpjgkb",
+        "comment": "Thunt Images Downloader | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.1.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "b0fcd2bb-7b14-5a7b-906b-8cfc8e195f9a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iahaihppknpjipclikejfifpgpkpjgkb",
+        "comment": "Chrome Web Store entry for Thunt Images Downloader (iahaihppknpjipclikejfifpgpkpjgkb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "274f08c6-4669-581a-8a8e-dcdb58c0d596",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "38309815f62bb84cc48118a72e8af95501110a3513099759858db2df1ec718e4",
+        "comment": "SHA-256 of extension package for Thunt Images Downloader (iahaihppknpjipclikejfifpgpkpjgkb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8c23f8bd-43a0-5843-a1fa-ffa771d29581",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lfcnlhnhhdliokpeffeikakddfbhfhol",
+        "comment": "DeskScape Player | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 5.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"5.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "6cdb8883-8beb-5c52-80a1-f3ffdeea8000",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lfcnlhnhhdliokpeffeikakddfbhfhol",
+        "comment": "Chrome Web Store entry for DeskScape Player (lfcnlhnhhdliokpeffeikakddfbhfhol)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5b58fc6e-e587-58d1-9653-6ed39379b4aa",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5439d42d3329ec39ddc8d8a16378f3addc80ad88ec67d8000d97fc8f1748bdb7",
+        "comment": "SHA-256 of extension package for DeskScape Player (lfcnlhnhhdliokpeffeikakddfbhfhol)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d46ce228-101b-5b7f-abcd-d26f9389db2a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pjjaiklidgfbkiklbejkklknkamjbagi",
+        "comment": "Full page screenshot | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 2.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "b6d24523-0414-50ac-ae2c-4e99ca4a0122",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pjjaiklidgfbkiklbejkklknkamjbagi",
+        "comment": "Chrome Web Store entry for Full page screenshot (pjjaiklidgfbkiklbejkklknkamjbagi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c5ba233f-4ec6-5fb3-bd5f-f55c8476074f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b94c065ade480476860e0a0b322283fbb5941b58fb46c4a62e37477d4394acfd",
+        "comment": "SHA-256 of extension package for Full page screenshot (pjjaiklidgfbkiklbejkklknkamjbagi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1cc432f0-c95e-590e-b665-62c817624805",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nchjggjcbhnacoiicajclkejbocpgaen",
+        "comment": "Adjustable size webpage screenshots | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-01 | Version: 1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "fec727f7-b50b-5b89-8bc0-47a88352a1dc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nchjggjcbhnacoiicajclkejbocpgaen",
+        "comment": "Chrome Web Store entry for Adjustable size webpage screenshots (nchjggjcbhnacoiicajclkejbocpgaen)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a8094b02-01d0-5412-ad55-4a3c9a6a69eb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3bf09219656a44428d560d89a1ddcf6481b6406e709cc43edf24153c4efc2bc6",
+        "comment": "SHA-256 of extension package for Adjustable size webpage screenshots (nchjggjcbhnacoiicajclkejbocpgaen)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7aec00e3-c40c-50a9-b48d-443a68d27a4b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ocndacophphjgobfdeacpfcbbajdiifl",
+        "comment": "Ask Fusion | Source: https://malext.io/reports/SearchJack/ | Store: Google Chrome | Added: 2026-10-31 | Version: 1.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/SearchJack/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "93d436a5-8cf1-5167-8dfc-125e6b80abcd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ocndacophphjgobfdeacpfcbbajdiifl",
+        "comment": "Chrome Web Store entry for Ask Fusion (ocndacophphjgobfdeacpfcbbajdiifl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3d71e261-7ef0-5191-b3a4-24255c2d92e6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "44696d267fd2dea59585d0250674a5c05c34509a91a0bce458c38fe30f3be762",
+        "comment": "SHA-256 of extension package for Ask Fusion (ocndacophphjgobfdeacpfcbbajdiifl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "b3cae022-b9d3-5896-ada6-b3791ba0252c",
         "type": "text",
