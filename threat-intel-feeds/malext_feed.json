@@ -1,12 +1,122 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-01T16:52:00Z",
+  "generated": "2026-11-01T21:39:18Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8219,
+  "total_indicators": 8230,
   "indicators": [
+    {
+      "extension_id": "djhefbpeamjjlnpdjmalgpgjbnjeilpd",
+      "name": "Search and New Tab by AOL",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-01",
+      "store_url": "https://chromewebstore.google.com/detail/djhefbpeamjjlnpdjmalgpgjbnjeilpd",
+      "sha256": "0a1ecbb98a747e7427e505852d6ef2ca43e826fa2f1fb2d37f84b6c5901bbfa0",
+      "version": "3.0.9"
+    },
+    {
+      "extension_id": "bloaebioklphbgkajacehnoaicgndooj",
+      "name": "omgPETS!",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-01",
+      "store_url": "https://chromewebstore.google.com/detail/bloaebioklphbgkajacehnoaicgndooj",
+      "sha256": "0081e56dc87049eaded21e233148b47504fd86a627b3aca1310bcd4bb1669bb3",
+      "version": "1.5.5"
+    },
+    {
+      "extension_id": "alibbcimdclahpedhdcnajgenbjjfbcn",
+      "name": "Search Manager by My Secure Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-01",
+      "store_url": "https://chromewebstore.google.com/detail/alibbcimdclahpedhdcnajgenbjjfbcn",
+      "sha256": "1393f8f22afe77ebe5c0fe09863ec97b6ae63d319e0d6b8666229a8e75629fdb",
+      "version": "1.0.0.3"
+    },
+    {
+      "extension_id": "dciomigekggngnnhfehfjklilgdcagpl",
+      "name": "Easy Trip Finder",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-01",
+      "store_url": "https://chromewebstore.google.com/detail/dciomigekggngnnhfehfjklilgdcagpl",
+      "sha256": "03edfe6c723f4d26c67940834895c3e2b9cd261f02c686ce7813d73faa5074dd",
+      "version": "1.1.1"
+    },
+    {
+      "extension_id": "amgoddkcchdicnbhikiocmibcnkgefch",
+      "name": "Nova Searches",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-01",
+      "store_url": "https://chromewebstore.google.com/detail/amgoddkcchdicnbhikiocmibcnkgefch",
+      "sha256": "a9ae06a57f8c02f4a1555141ae6df85aacd1a2803f264a557b58e95d0e0f7c6d",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "imjhjbefihhfobofgblpbeecimomigho",
+      "name": "Search Byte",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-01",
+      "store_url": "https://chromewebstore.google.com/detail/imjhjbefihhfobofgblpbeecimomigho",
+      "sha256": "10234d7c77346b327a6d9b2bc5aa408476b568b9605587f65c4e1de87ae98a7c",
+      "version": "1.0.0.2"
+    },
+    {
+      "extension_id": "cjbhcdpljoplpemnbdinngaefcfdmbkb",
+      "name": "My Search Vault",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-01",
+      "store_url": "https://chromewebstore.google.com/detail/cjbhcdpljoplpemnbdinngaefcfdmbkb",
+      "sha256": "d92568da4ae19b1cb0eaee1cf4a8199fa3e3856dd3092a20640cfc0bf30e15f6",
+      "version": "1.0.0.2"
+    },
+    {
+      "extension_id": "bkfakihdfebjjcibeephcjniogbmogdk",
+      "name": "Swift Shortcuts",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-01",
+      "store_url": "https://chromewebstore.google.com/detail/bkfakihdfebjjcibeephcjniogbmogdk",
+      "sha256": "6de6c050e2e23a71545bdb5453b1db7bc76269ef4ac6674ccb5d6a6551b035d3",
+      "version": "1.0.0.2"
+    },
+    {
+      "extension_id": "heenmcindpacmaaejdchpnplgaoeobmp",
+      "name": "Instant Search",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-01",
+      "store_url": "https://chromewebstore.google.com/detail/heenmcindpacmaaejdchpnplgaoeobmp",
+      "sha256": "abd739e8455ebe6b7615f8aa8a5352c70476a9bbb9c2964c4027b874b39b1852",
+      "version": "1.0.0.2"
+    },
+    {
+      "extension_id": "nneemokobpapjepmlngjpngfcpgbkjgd",
+      "name": "Quick Navigator",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-01",
+      "store_url": "https://chromewebstore.google.com/detail/nneemokobpapjepmlngjpngfcpgbkjgd",
+      "sha256": "66780798e67dbe2ac10cd929759999971b36360c0f784bddfd4aa700012589d6",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "iodpihpdjbpjmbjapdcfddooaidpccpc",
+      "name": "Prompt Pulse",
+      "source": "https://malext.io/reports/SearchJack/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-01",
+      "store_url": "https://chromewebstore.google.com/detail/iodpihpdjbpjmbjapdcfddooaidpccpc",
+      "sha256": "bb4d7dd339038e8dac55eea8dffd81973dabb7020ed056cd6207db72438919c1",
+      "version": "1.0.0.2"
+    },
     {
       "extension_id": "hfdaiamamknieecaphgpbgkadhhpallj",
       "name": "Youtube Watch Party",
@@ -99,33 +209,33 @@
     },
     {
       "extension_id": "jlnnfhokbgoooafhfmhpbjbmibcljbai",
-      "name": "jlnnfhokbgoooafhfmhpbjbmibcljbai",
-      "source": "http://malext.io/reports/wasteal/",
+      "name": "Crmking",
+      "source": "http://malext.io/reports/WaSteal/",
       "store": "Google Chrome",
       "insert_date": "2026-11-01",
       "store_url": "https://chromewebstore.google.com/detail/jlnnfhokbgoooafhfmhpbjbmibcljbai",
-      "sha256": "",
-      "version": ""
+      "sha256": "d0f995da9d4bf0cd7af81b2d2e404f741e45878a5b9210180bc15f8d37d5e4b5",
+      "version": "1.0.5"
     },
     {
       "extension_id": "okhimboohogihbieeeabfddppoplangj",
-      "name": "okhimboohogihbieeeabfddppoplangj",
-      "source": "http://malext.io/reports/wasteal/",
+      "name": "Boravender",
+      "source": "http://malext.io/reports/WaSteal/",
       "store": "Google Chrome",
       "insert_date": "2026-11-01",
       "store_url": "https://chromewebstore.google.com/detail/okhimboohogihbieeeabfddppoplangj",
-      "sha256": "",
-      "version": ""
+      "sha256": "b4d60e13fde58ab7d4740ac2f9bd469784045d7e7d90359d3cb47ea56394b2bb",
+      "version": "1.2.1"
     },
     {
       "extension_id": "inledlgddonejojfmomjinbiimheijhl",
-      "name": "inledlgddonejojfmomjinbiimheijhl",
-      "source": "http://malext.io/reports/wasteal/",
+      "name": "Mi Crm Extensi\u00f3N",
+      "source": "http://malext.io/reports/WaSteal/",
       "store": "Google Chrome",
       "insert_date": "2026-11-01",
       "store_url": "https://chromewebstore.google.com/detail/inledlgddonejojfmomjinbiimheijhl",
-      "sha256": "",
-      "version": ""
+      "sha256": "f055a8e41c880f5748531e31d1d93069fa02ba1fefdbde94d13c6b1243bccb4e",
+      "version": "9.5.3.165"
     },
     {
       "extension_id": "jonjaboejpmpdfmmeoiffiolcbecajdm",
