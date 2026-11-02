@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| acpdphchanikhccpmmljgbmcckpakbpe | Easy Package Tracker | Malware | Store Monitoring | 02/11/26 | No | Google Chrome
+| cniicdjonnjobfjbagikijjmgeflibcn | Kraken Wallet | Policy Violation | Store Monitoring | 02/11/26 | No | Google Chrome
+| pjmlliljjoekjhhckpmhlhbeeadjijmk | Brickvalue | Bundling Unwanted Software | Store Monitoring | 02/11/26 | No | Google Chrome
+| dhnkajgmdffoodplphnpklcoaegnggoh | View Driving Directions | Malware | Store Monitoring | 02/11/26 | No | Google Chrome
+| jdhamodfhbnkhcjibibjpfngpabmecfi | Axiom Memecoin Sniper | Bundling Unwanted Software | Store Monitoring | 02/11/26 | No | Google Chrome
+| ndbfahdnaonjebkndjfhddeigmikdhkg | Youtube Modal Hider | Bundling Unwanted Software | Store Monitoring | 02/11/26 | No | Google Chrome
+| gknlhlnbajcblnbnacnagmdocnfiimhk | View Earth Satellite Maps | Malware | Store Monitoring | 02/11/26 | No | Google Chrome
 | djhefbpeamjjlnpdjmalgpgjbnjeilpd | Search and New Tab by AOL | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
 | bloaebioklphbgkajacehnoaicgndooj | omgPETS! | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
 | alibbcimdclahpedhdcnajgenbjjfbcn | Search Manager by My Secure Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
