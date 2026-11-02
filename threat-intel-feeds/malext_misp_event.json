@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-11-01",
-    "timestamp": "1793569160",
+    "date": "2026-11-02",
+    "timestamp": "1793626903",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,328 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "922be1d3-308a-5a6d-98b2-2f627b2d653b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "acpdphchanikhccpmmljgbmcckpakbpe",
+        "comment": "Easy Package Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-02 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "f8911f49-7d30-5426-bba0-e765a4a40678",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/acpdphchanikhccpmmljgbmcckpakbpe",
+        "comment": "Chrome Web Store entry for Easy Package Tracker (acpdphchanikhccpmmljgbmcckpakbpe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "02c8336d-cc17-5e14-9579-5111f55d1d02",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a3b8a37de81d0b397a32efa3fc0c2151adb84fbdcc04f5e22a884c11fbd9a670",
+        "comment": "SHA-256 of extension package for Easy Package Tracker (acpdphchanikhccpmmljgbmcckpakbpe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bfd90c8f-a2ab-5737-8a90-3ea82dd87fe9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cniicdjonnjobfjbagikijjmgeflibcn",
+        "comment": "Kraken Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-02 | Version: 0.2.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.2.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "1485ade5-fa83-5a08-8d31-d79490c6fb4e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cniicdjonnjobfjbagikijjmgeflibcn",
+        "comment": "Chrome Web Store entry for Kraken Wallet (cniicdjonnjobfjbagikijjmgeflibcn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "40164883-1a0e-5acc-9aed-79b83bd9f028",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0075a16db11fc2a85d651cede0a1eb7ab9d64a71c0a2bc44a9e06bf09c74eb20",
+        "comment": "SHA-256 of extension package for Kraken Wallet (cniicdjonnjobfjbagikijjmgeflibcn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3cc862b1-f421-5004-bd26-2d8f8c6f7ede",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pjmlliljjoekjhhckpmhlhbeeadjijmk",
+        "comment": "Brickvalue | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-02 | Version: 0.2.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.2.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "ed6672f9-f7af-5e5e-8524-d1267e8f05e0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pjmlliljjoekjhhckpmhlhbeeadjijmk",
+        "comment": "Chrome Web Store entry for Brickvalue (pjmlliljjoekjhhckpmhlhbeeadjijmk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "465e1d5a-0cd7-535c-ba48-85e8eb3f9fdb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9769afaaa06631038ab00d2442227f7baea927ae979125e5330c41dd0623c742",
+        "comment": "SHA-256 of extension package for Brickvalue (pjmlliljjoekjhhckpmhlhbeeadjijmk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4acd0b26-da23-5c12-a385-b06f99a7e4f0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dhnkajgmdffoodplphnpklcoaegnggoh",
+        "comment": "View Driving Directions | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-02 | Version: 1.0.9",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.9\""
+          }
+        ]
+      },
+      {
+        "uuid": "8ad6fc95-58e1-5d41-b90d-73aabe21d1c8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dhnkajgmdffoodplphnpklcoaegnggoh",
+        "comment": "Chrome Web Store entry for View Driving Directions (dhnkajgmdffoodplphnpklcoaegnggoh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f9f2d3c5-29df-5a8e-aae0-4ab70020e69f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3d4300df0fb4bd27bfe220434b84759bb6825323e300669aa4f7c5f45b86a3cf",
+        "comment": "SHA-256 of extension package for View Driving Directions (dhnkajgmdffoodplphnpklcoaegnggoh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "58023e59-416e-5e48-b085-a3ba8a931d87",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jdhamodfhbnkhcjibibjpfngpabmecfi",
+        "comment": "Axiom Memecoin Sniper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-02 | Version: 1.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "7fecc730-a034-5b67-b2b8-33dfc44755fb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jdhamodfhbnkhcjibibjpfngpabmecfi",
+        "comment": "Chrome Web Store entry for Axiom Memecoin Sniper (jdhamodfhbnkhcjibibjpfngpabmecfi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0125a6d1-ccd7-51a9-8a7d-2b777a988fc0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "298a651462b4b627f86076ce6c4e6c44931c6939d3ecefc9c94a9ca4bc0f6aec",
+        "comment": "SHA-256 of extension package for Axiom Memecoin Sniper (jdhamodfhbnkhcjibibjpfngpabmecfi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b8c0df08-1700-549c-bea8-fc1699783e6a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ndbfahdnaonjebkndjfhddeigmikdhkg",
+        "comment": "Youtube Modal Hider | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-02 | Version: 4.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "f16a0848-c80a-5a33-8b23-897bac833409",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ndbfahdnaonjebkndjfhddeigmikdhkg",
+        "comment": "Chrome Web Store entry for Youtube Modal Hider (ndbfahdnaonjebkndjfhddeigmikdhkg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c8b77482-297d-5fba-9a3a-750ab88cff8d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8804938546933f6423add628caca285ba149d04e14995e3c3dc2211a858b9d28",
+        "comment": "SHA-256 of extension package for Youtube Modal Hider (ndbfahdnaonjebkndjfhddeigmikdhkg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5948fcff-ded7-5bd2-95ba-dd952cc83b25",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gknlhlnbajcblnbnacnagmdocnfiimhk",
+        "comment": "View Earth Satellite Maps | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-02 | Version: 1.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "a3232964-9355-565d-956b-d926cc818814",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gknlhlnbajcblnbnacnagmdocnfiimhk",
+        "comment": "Chrome Web Store entry for View Earth Satellite Maps (gknlhlnbajcblnbnacnagmdocnfiimhk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a28f39ae-8b98-58ae-95df-06dff108fc95",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3ae4338f8f897dcba1bfadd3faa8240b51de56302eef9cd44f0c314b28e4f92b",
+        "comment": "SHA-256 of extension package for View Earth Satellite Maps (gknlhlnbajcblnbnacnagmdocnfiimhk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "326e99aa-cf8c-5bc4-a226-3b78db4ec6c3",
         "type": "text",
