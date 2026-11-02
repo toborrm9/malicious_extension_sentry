@@ -1,12 +1,82 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-01T21:39:18Z",
+  "generated": "2026-11-02T13:41:41Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8230,
+  "total_indicators": 8237,
   "indicators": [
+    {
+      "extension_id": "acpdphchanikhccpmmljgbmcckpakbpe",
+      "name": "Easy Package Tracker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-02",
+      "store_url": "https://chromewebstore.google.com/detail/acpdphchanikhccpmmljgbmcckpakbpe",
+      "sha256": "a3b8a37de81d0b397a32efa3fc0c2151adb84fbdcc04f5e22a884c11fbd9a670",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "cniicdjonnjobfjbagikijjmgeflibcn",
+      "name": "Kraken Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-02",
+      "store_url": "https://chromewebstore.google.com/detail/cniicdjonnjobfjbagikijjmgeflibcn",
+      "sha256": "0075a16db11fc2a85d651cede0a1eb7ab9d64a71c0a2bc44a9e06bf09c74eb20",
+      "version": "0.2.4"
+    },
+    {
+      "extension_id": "pjmlliljjoekjhhckpmhlhbeeadjijmk",
+      "name": "Brickvalue",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-02",
+      "store_url": "https://chromewebstore.google.com/detail/pjmlliljjoekjhhckpmhlhbeeadjijmk",
+      "sha256": "9769afaaa06631038ab00d2442227f7baea927ae979125e5330c41dd0623c742",
+      "version": "0.2.4"
+    },
+    {
+      "extension_id": "dhnkajgmdffoodplphnpklcoaegnggoh",
+      "name": "View Driving Directions",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-02",
+      "store_url": "https://chromewebstore.google.com/detail/dhnkajgmdffoodplphnpklcoaegnggoh",
+      "sha256": "3d4300df0fb4bd27bfe220434b84759bb6825323e300669aa4f7c5f45b86a3cf",
+      "version": "1.0.9"
+    },
+    {
+      "extension_id": "jdhamodfhbnkhcjibibjpfngpabmecfi",
+      "name": "Axiom Memecoin Sniper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-02",
+      "store_url": "https://chromewebstore.google.com/detail/jdhamodfhbnkhcjibibjpfngpabmecfi",
+      "sha256": "298a651462b4b627f86076ce6c4e6c44931c6939d3ecefc9c94a9ca4bc0f6aec",
+      "version": "1.2.1"
+    },
+    {
+      "extension_id": "ndbfahdnaonjebkndjfhddeigmikdhkg",
+      "name": "Youtube Modal Hider",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-02",
+      "store_url": "https://chromewebstore.google.com/detail/ndbfahdnaonjebkndjfhddeigmikdhkg",
+      "sha256": "8804938546933f6423add628caca285ba149d04e14995e3c3dc2211a858b9d28",
+      "version": "4.0"
+    },
+    {
+      "extension_id": "gknlhlnbajcblnbnacnagmdocnfiimhk",
+      "name": "View Earth Satellite Maps",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-02",
+      "store_url": "https://chromewebstore.google.com/detail/gknlhlnbajcblnbnacnagmdocnfiimhk",
+      "sha256": "3ae4338f8f897dcba1bfadd3faa8240b51de56302eef9cd44f0c314b28e4f92b",
+      "version": "1.2.1"
+    },
     {
       "extension_id": "djhefbpeamjjlnpdjmalgpgjbnjeilpd",
       "name": "Search and New Tab by AOL",
