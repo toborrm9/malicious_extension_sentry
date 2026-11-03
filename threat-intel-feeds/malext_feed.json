@@ -1,12 +1,62 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-02T13:41:41Z",
+  "generated": "2026-11-03T19:22:10Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8237,
+  "total_indicators": 8243,
   "indicators": [
+    {
+      "extension_id": "ojopbahcpbdegflnmocbkmcdgfkeppll",
+      "name": "Zentos",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-03",
+      "store_url": "https://chromewebstore.google.com/detail/ojopbahcpbdegflnmocbkmcdgfkeppll",
+      "sha256": "479eda2890b9ed36b5f9e82016598df62006be4351ca7b09caa3b908b4e524a3",
+      "version": "0.2.51"
+    },
+    {
+      "extension_id": "mnpopjepnclgacgbfheejifcblhlceef",
+      "name": "Ask Chat Gpt Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-03",
+      "store_url": "https://chromewebstore.google.com/detail/mnpopjepnclgacgbfheejifcblhlceef",
+      "sha256": "f579d2bb6897bce5cb61167fd7a761c04b85dc00322be1802cd663571c98c6b7",
+      "version": "2.0.0"
+    },
+    {
+      "extension_id": "nncbfmnhlnpmncahkpgmobdcjgdbgjme",
+      "name": "Chromegpt For Chatgpt",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-03",
+      "store_url": "https://chromewebstore.google.com/detail/nncbfmnhlnpmncahkpgmobdcjgdbgjme",
+      "sha256": "dcd9e7decd079723b7468e1b318d88ec4f8268adec9e3423b2e677fda98496c7",
+      "version": "0.0.0.7"
+    },
+    {
+      "extension_id": "jphoepmhpmbmlcimkeiihcddgabohkan",
+      "name": "Roadanalyzer Baccarat Roa",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-03",
+      "store_url": "https://chromewebstore.google.com/detail/jphoepmhpmbmlcimkeiihcddgabohkan",
+      "sha256": "4d5f554816af57346b02b19253e00f4b257416056a767e592fbaa32ad9732098",
+      "version": "1.3.3"
+    },
+    {
+      "extension_id": "fieodpfcaohihdlmlkkemoddpddclfhc",
+      "name": "Chatgpt For Gmail Gemini",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-03",
+      "store_url": "https://chromewebstore.google.com/detail/fieodpfcaohihdlmlkkemoddpddclfhc",
+      "sha256": "9e84dd83ba7236b255ab10f659eeeb8ba2676de900102aadcc7bc47a63c4e28a",
+      "version": "1.8"
+    },
     {
       "extension_id": "acpdphchanikhccpmmljgbmcckpakbpe",
       "name": "Easy Package Tracker",
@@ -4596,6 +4646,16 @@
       "store_url": "https://chromewebstore.google.com/detail/mllkpgcojiooenmengajhkailfjocond",
       "sha256": "adc8831ed68a7265c44bf7f2f3f8fb7ffdd247e7e11de6eb08e685d4d1197563",
       "version": "1.0.1"
+    },
+    {
+      "extension_id": "ekaaghdhjjpjngpcepdkcmbolgglfoja",
+      "name": "Vercel \u4e2d\u6587\u7ffb\u8bd1",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/ekaaghdhjjpjngpcepdkcmbolgglfoja",
+      "sha256": "e503edb85828ef9c9637fcafbc39f493b98e81d6030db4eca7318587c214b353",
+      "version": "1.0.2"
     },
     {
       "extension_id": "ofidpikgkhcdbdioecnlmhgclilbnpop",
