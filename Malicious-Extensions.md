@@ -1,12 +1,17 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
-| acpdphchanikhccpmmljgbmcckpakbpe | Easy Package Tracker | Malware | Store Monitoring | 02/11/26 | No | Google Chrome
+| ojopbahcpbdegflnmocbkmcdgfkeppll | Zentos | Malware | Store Monitoring | 03/11/26 | No | Google Chrome
+| mnpopjepnclgacgbfheejifcblhlceef | Ask Chat Gpt Extension | Policy Violation | Store Monitoring | 03/11/26 | No | Google Chrome
+| nncbfmnhlnpmncahkpgmobdcjgdbgjme | Chromegpt For Chatgpt | Policy Violation | Store Monitoring | 03/11/26 | No | Google Chrome
+| jphoepmhpmbmlcimkeiihcddgabohkan | Roadanalyzer Baccarat Roa | Policy Violation | Store Monitoring | 03/11/26 | No | Google Chrome
+| fieodpfcaohihdlmlkkemoddpddclfhc | Chatgpt For Gmail Gemini | Policy Violation | Store Monitoring | 03/11/26 | No | Google Chrome
+| acpdphchanikhccpmmljgbmcckpakbpe | Easy Package Tracker | Malware | Store Monitoring | 02/11/26 | Yes | Google Chrome
 | cniicdjonnjobfjbagikijjmgeflibcn | Kraken Wallet | Policy Violation | Store Monitoring | 02/11/26 | No | Google Chrome
 | pjmlliljjoekjhhckpmhlhbeeadjijmk | Brickvalue | Bundling Unwanted Software | Store Monitoring | 02/11/26 | No | Google Chrome
-| dhnkajgmdffoodplphnpklcoaegnggoh | View Driving Directions | Malware | Store Monitoring | 02/11/26 | No | Google Chrome
+| dhnkajgmdffoodplphnpklcoaegnggoh | View Driving Directions | Malware | Store Monitoring | 02/11/26 | Yes | Google Chrome
 | jdhamodfhbnkhcjibibjpfngpabmecfi | Axiom Memecoin Sniper | Bundling Unwanted Software | Store Monitoring | 02/11/26 | No | Google Chrome
 | ndbfahdnaonjebkndjfhddeigmikdhkg | Youtube Modal Hider | Bundling Unwanted Software | Store Monitoring | 02/11/26 | No | Google Chrome
-| gknlhlnbajcblnbnacnagmdocnfiimhk | View Earth Satellite Maps | Malware | Store Monitoring | 02/11/26 | No | Google Chrome
+| gknlhlnbajcblnbnacnagmdocnfiimhk | View Earth Satellite Maps | Malware | Store Monitoring | 02/11/26 | Yes | Google Chrome
 | djhefbpeamjjlnpdjmalgpgjbnjeilpd | Search and New Tab by AOL | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
 | bloaebioklphbgkajacehnoaicgndooj | omgPETS! | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
 | alibbcimdclahpedhdcnajgenbjjfbcn | Search Manager by My Secure Search | Search Hijacking | [malext.io](https://malext.io/reports/SearchJack/) | 01/11/26 | No | Google Chrome
@@ -459,6 +464,7 @@
 | njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| ekaaghdhjjpjngpcepdkcmbolgglfoja | Vercel 中文翻译 | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ofidpikgkhcdbdioecnlmhgclilbnpop | SUI Price Ticker | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | plbflflgpmbjkkjpecbblpdeiaobmklk | ChatGPT Sidebar GPT-4o, Claude3, AI Video Generator & AI Tools: ChatMove | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ekjddhkmchfnamjppfcnbjjlehkjamlg | Công Cụ Đặt Hàng Cẩm Thạch Logistics | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
