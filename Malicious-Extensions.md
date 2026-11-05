@@ -1,5 +1,31 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| fmjnjkeohdibdlamgfaclmolefamleib | TeXbridge – ChatGPT & Gemini Math to Word & PowerPoint Equations - Free | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
+| mgcackamefdfmipooepaibkbeclecjma | GitHub reactions minimap | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
+| melojeghidmomfldeeiacfcjmkfamole | 成材 | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| goefnhckoclcfkhogmmkngiceodneihk | Totally Awesome Roblox Ex | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| icafolcomlioggclbdjphfnbchhkpgdc | Video Downloader For Vime | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| beflajbdgikphkebmjakmclhgbladjcl | Kthulu | Malware | Store Monitoring | 05/11/26 | No | Google Chrome
+| bibdombdcdbbnfdjkaajfgnfhlapibde | Shoptimate : automatic price comparison | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
+| dokhapgdoekmhhncfdbngojghcdgkmmk | EditAnyCookie - Edit any cookies | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| jiebfaaodnpnbaiclagpedapmkmkjfgn | Guardvio Adult Content Bl | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
+| ealmhabecnpjcnklpfagcggfddagalmh | Github Repository Recommendation | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
+| lkjkhcgnlppmckhhclgefgjloapbbjkh | MetaMusk NFTs | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
+| lanegoepmpcdfabhabmjaaolokjofioi | github-story-points-calculator | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
+| bkkbicciaifjlkkjojdpkncmohlfokeh | GitHub Musical Score Extension | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
+| commmogajofnlijhefhlbaaimnloliii | Custom Cursor Trails by Crazy Cursors | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| gjodpnjmkbcnhhacmeohdpibgbolkmdn | Gimkit Hacker Pro | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| okhabijfblkaigenbkddghigohkhapii | Cookie Scope | Malware | Store Monitoring | 05/11/26 | No | Google Chrome
+| lababplgapanflcgajlmhmckeopjpgci | Platform Climber | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| ikodfghngidmmafejplohojbcndhgoio | Tiktok Unblocked | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| pkbmkapbefglhkkijhpoghmhbajloblc | Vimeo Video Downloader Hd | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
+| hkljdllhocbafciddnnceodolcimingn | Arbitrum Pulse | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| ooimkpbkcglgofdcbadcgjbidlkpggkc | Moonlight Wallet | Malware | Store Monitoring | 05/11/26 | No | Google Chrome
+| edcogfiojgdkmkbeffocnehppbgeolbg | Volume Booster Smax \| Free Sound Booster | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| jflpehlcejekgpgpdfbcnmbkclbaighm | Video Downloader for Tiktok | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| ebligfajbedgdngapjplbcmahoofmnio | VERIDICA - Forensic Evidence Capture | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
+| ndjpllenomnodfoahfnjmgpagdjipefl | Xendra — Ai Crypto Analyt | Malware | Store Monitoring | 05/11/26 | No | Google Chrome
+| ambbpgjiiielnmnnihfndemhlbancppp | 智云台 小红书蒲公英星图ai助手 | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
 | ojopbahcpbdegflnmocbkmcdgfkeppll | Zentos | Malware | Store Monitoring | 03/11/26 | No | Google Chrome
 | mnpopjepnclgacgbfheejifcblhlceef | Ask Chat Gpt Extension | Policy Violation | Store Monitoring | 03/11/26 | No | Google Chrome
 | nncbfmnhlnpmncahkpgmobdcjgdbgjme | Chromegpt For Chatgpt | Policy Violation | Store Monitoring | 03/11/26 | No | Google Chrome
@@ -1282,7 +1308,7 @@
 | pneghlnjfomljbhmgkomelljpfgfgadf | Velog Cleaner | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
 | npnpaeaokmghimmdkkmccgnkmeonbajk | Gmn Image Captioner | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
 | ihkahonemdakgeolnfemflljeopokgni | YouTube Enhancer | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
-| fkddfdhkgfneiibakfdhgpbkkcnnlook | GitHub 한국어 (GitHub Korean) | Bundling Unwanted Software | Store Monitoring | 04/10/26 | No | Google Chrome
+| fkddfdhkgfneiibakfdhgpbkkcnnlook | GitHub 한국어 (GitHub Korean) | Bundling Unwanted Software | Store Monitoring | 04/10/26 | Yes | Google Chrome
 | idljngaiennojhhjpdlhlmgdhepkdoid | Uyap çOklu Giriş | Malware |  | 04/10/26 | No | Google Chrome
 | bffdhafoiokheeldgggplbflmppjebcl | Dopamodoro Adhd Pomodoro | Policy Violation | Store Monitoring | 03/10/26 | No | Google Chrome
 | ldhlnkgkhfbcaalhiapgnfbiaoknlcfl | I2Canada Form Filler | Policy Violation | Store Monitoring | 03/10/26 | No | Google Chrome
