@@ -1,12 +1,22 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-05T23:01:56Z",
+  "generated": "2026-11-06T10:28:46Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8269,
+  "total_indicators": 8272,
   "indicators": [
+    {
+      "extension_id": "jhmoakjolfkmlgdmajnhlnplckkdimep",
+      "name": "Airbnb scraper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/jhmoakjolfkmlgdmajnhlnplckkdimep",
+      "sha256": "6b792d133ce4ee3e5484b51ad8445aa6fd1f14e57380754e357b672e49b692e2",
+      "version": "0.0.1"
+    },
     {
       "extension_id": "fmjnjkeohdibdlamgfaclmolefamleib",
       "name": "TeXbridge \u2013 ChatGPT & Gemini Math to Word & PowerPoint Equations - Free",
@@ -4906,6 +4916,16 @@
       "store_url": "https://chromewebstore.google.com/detail/mllkpgcojiooenmengajhkailfjocond",
       "sha256": "adc8831ed68a7265c44bf7f2f3f8fb7ffdd247e7e11de6eb08e685d4d1197563",
       "version": "1.0.1"
+    },
+    {
+      "extension_id": "ipdgkagebehoppgikabcmneoagcpkkho",
+      "name": "Commentra \u2014 YouTube Comment Analyser",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/ipdgkagebehoppgikabcmneoagcpkkho",
+      "sha256": "7218242a3f9accbd96e8bd4bacd3672d7d45a762f85d6391de8b1c74fe146da6",
+      "version": "0.1.1"
     },
     {
       "extension_id": "ekaaghdhjjpjngpcepdkcmbolgglfoja",
@@ -11826,6 +11846,16 @@
       "store_url": "https://chromewebstore.google.com/detail/bbljaeojdeehoihejgmdjgjmnnolgdbm",
       "sha256": "0e8750d0e5bc184978211976c5b299606b683767b62909ff6ae2f346c250ec09",
       "version": "1.5.0"
+    },
+    {
+      "extension_id": "pcdfcfkppegjfdhaoiccbnhjkmlcfemc",
+      "name": "Comment Arena",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-09",
+      "store_url": "https://chromewebstore.google.com/detail/pcdfcfkppegjfdhaoiccbnhjkmlcfemc",
+      "sha256": "4cfb141c622d4cfbf3875ef201df71006b945cf74cb5cb3d6fb6e740d86ae875",
+      "version": "1.4"
     },
     {
       "extension_id": "maacekjekbljdoifhneanhmfapmjnnfi",
