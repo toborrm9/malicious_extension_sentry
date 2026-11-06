@@ -1,12 +1,472 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-06T10:28:46Z",
+  "generated": "2026-11-06T17:31:12Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8272,
+  "total_indicators": 8318,
   "indicators": [
+    {
+      "extension_id": "afjogmmndfiimngdhlndbhmdimofldci",
+      "name": "TikTok Video Downloader & Feed Sorter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/afjogmmndfiimngdhlndbhmdimofldci",
+      "sha256": "c6f5d9d9369a3dabc8873b1854e0a68e169e641f29355cb9c98f190bf49fbfdf",
+      "version": "1.0.1.0"
+    },
+    {
+      "extension_id": "kbijponpecdogfceohhnjacneggaooom",
+      "name": "Paper Telescope",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/kbijponpecdogfceohhnjacneggaooom",
+      "sha256": "3bd62429ea98642f413569c29f2f5cafbdc1e5eb9b1861f0970a3b96af86a144",
+      "version": "1.6.7"
+    },
+    {
+      "extension_id": "jlmocnadfhnldkjbejclodcfaogkchgc",
+      "name": "Glass Orchard",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/jlmocnadfhnldkjbejclodcfaogkchgc",
+      "sha256": "15b2572d2d6e454e4dedc355a6a6b592fecd5269d114f51f8a4b9674c7a6c11a",
+      "version": "1.3.9"
+    },
+    {
+      "extension_id": "efjjkanncldkghieipncnailhjfijbga",
+      "name": "Quiet Courier",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/efjjkanncldkghieipncnailhjfijbga",
+      "sha256": "81b3db0de95f3ac63dddcd688ccb541fb7939598e0ef9bc7912ac4ed3719c40e",
+      "version": "1.7.9"
+    },
+    {
+      "extension_id": "mbbglddgbmmgaklmkkjiekpkpigbohob",
+      "name": "Similar Seo Viewer \u2014 Doma",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/mbbglddgbmmgaklmkkjiekpkpigbohob",
+      "sha256": "b107d88938aae4e97f48669e1c5163250ebcb7fea77f5bc0a3b8ad18401412da",
+      "version": "3.0.1"
+    },
+    {
+      "extension_id": "plnlmcjaijpglljencdfdmlemfpjckng",
+      "name": "TikTok Video Downloader (Remove Watermark)",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/plnlmcjaijpglljencdfdmlemfpjckng",
+      "sha256": "de3e270baa2e49cf6cd061fe0d923868c1ba45790eb209b363b45713a19efbac",
+      "version": "1.13.0"
+    },
+    {
+      "extension_id": "eaeambigmjidimbeogbhamdfbhkanccm",
+      "name": "TikTok Ads Downloader",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/eaeambigmjidimbeogbhamdfbhkanccm",
+      "sha256": "a75d6bc3906889cf29a2e51edc2c767c04bab5b1d652cdf975c3a0d933eeb329",
+      "version": "0.1.1"
+    },
+    {
+      "extension_id": "amnjikhjeekljnddkjmliipjjaghbnlc",
+      "name": "Airbnb AI Auto Responder",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/amnjikhjeekljnddkjmliipjjaghbnlc",
+      "sha256": "9a24ffc373caff4192e06bd57f1b80b9f9add6dcf98c3d6d0f9737fbaca54b72",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "hpebphhdnacjemfedboofbefjhfmhjjh",
+      "name": "Islamic Dashboard",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/hpebphhdnacjemfedboofbefjhfmhjjh",
+      "sha256": "60e86e638bb4ee2e38a2093ebfe8a6b2c3da1c2359b48e506127f5af06fb0ed6",
+      "version": "1.3"
+    },
+    {
+      "extension_id": "ckenjgcaloekhajcdjnldlpocmieiofi",
+      "name": "Clock Seed",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/ckenjgcaloekhajcdjnldlpocmieiofi",
+      "sha256": "08c45f9e7ca3553237c7ad6cdbcb586eb14a4f77fca57897c47309941884b59d",
+      "version": "1.8.5"
+    },
+    {
+      "extension_id": "mchceimbhojpoeogdnimlbopidfdfphk",
+      "name": "Pocket Loom",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/mchceimbhojpoeogdnimlbopidfdfphk",
+      "sha256": "be200b4cb51e3a2c55574e82b468a6d309451249b4e6747f2af562158bc77a29",
+      "version": "1.9.8"
+    },
+    {
+      "extension_id": "ialmbfdolfbfddhhbpcpfajahojgbglh",
+      "name": "Search On Site",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/ialmbfdolfbfddhhbpcpfajahojgbglh",
+      "sha256": "04502b5050a4fae0ed49489cd6b4d6a79345768043d0202f577e439656d3f6ea",
+      "version": "0.5.1"
+    },
+    {
+      "extension_id": "lhnigoiaandckjjombcanjoemeblmljb",
+      "name": "Super Search",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/lhnigoiaandckjjombcanjoemeblmljb",
+      "sha256": "4537f646f42f31d630cf3ba99cfe8304002427eaab384b4ed0f873fd67c7be29",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "fnhmeghaldogkojfjcedfnhnegbnnkfg",
+      "name": "SearchTuner",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/fnhmeghaldogkojfjcedfnhnegbnnkfg",
+      "sha256": "2bd10e607076543b049cdb3a5a049133906f7e60c1a4bbd4f83a3a197ec65377",
+      "version": "0.1.18"
+    },
+    {
+      "extension_id": "acgnlhjcipkagocfggidelbghodlddmm",
+      "name": "Shimmer Tab for Helium",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/acgnlhjcipkagocfggidelbghodlddmm",
+      "sha256": "0f183e894bc7ebdd0efdb0d870473bec619b4ddad38825418bde010b21057e4d",
+      "version": "1.3.0"
+    },
+    {
+      "extension_id": "kajaheopdpmejeeghdkdpgoolgfijdpi",
+      "name": "Helium New Tab",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/kajaheopdpmejeeghdkdpgoolgfijdpi",
+      "sha256": "7a35dcff5a58c64e85794f532759f13e80002a86c6d6d408f2906992dac0f5eb",
+      "version": "1.4.0"
+    },
+    {
+      "extension_id": "idecdfifnaphlciminbkonceoehafmif",
+      "name": "Veterank - Search Engine for Veterans",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/idecdfifnaphlciminbkonceoehafmif",
+      "sha256": "eb8982022d6168296e2b64734bb401452ff4e1a4afbcebca5f6dd939f622f144",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "heghgippljloofaiihdabipljakkklne",
+      "name": "MyMusicFind",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/heghgippljloofaiihdabipljakkklne",
+      "sha256": "f19b5fef38e04849842ebdcbf903f951d70d5977827291d5349b8dbfaf838bf1",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "ebddfelooblbcgpbclhmaglmcbobcmkp",
+      "name": "Unofficial: Quick Search for Reddit",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/ebddfelooblbcgpbclhmaglmcbobcmkp",
+      "sha256": "d2e20642f2fb1307e10c648ce9f46690ed8eeda4a4ede84aae62b5b6cb1ce5dd",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "ednnpeklkonadhmmiodaaliheagfgocc",
+      "name": "Mindfulli Quote Wallpapers New Tab",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/ednnpeklkonadhmmiodaaliheagfgocc",
+      "sha256": "a2ee4cbcb7f268c7734e2944dfb359ed3de2f992ba6cfb26c10fdfc98c012470",
+      "version": "3.0.19"
+    },
+    {
+      "extension_id": "plnfiebnedimjcdkhbfhpocmllibcbkp",
+      "name": "MyStart Wallpapers New Tab Page",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/plnfiebnedimjcdkhbfhpocmllibcbkp",
+      "sha256": "0789ff934608c74f6dba51283daa44515cc51db05e7711025e367cf23a0f0edf",
+      "version": "3.0.16"
+    },
+    {
+      "extension_id": "mcepoaigdglifcboecibgpeaogkaoapo",
+      "name": "Bitcoin Price New Tab",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/mcepoaigdglifcboecibgpeaogkaoapo",
+      "sha256": "f74554b304d6c0ae21191b275dedc2786620abb2b6cafb467f850daf12b22f2c",
+      "version": "3.0.50"
+    },
+    {
+      "extension_id": "hioaiagllblmpkcknbpfecljmcdpoloe",
+      "name": "Mountain Quotes Zen New Tab",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/hioaiagllblmpkcknbpfecljmcdpoloe",
+      "sha256": "0719b7d2da592e8d576171984a48a511865e911e605f1fd2fac6dc1fbb884b9d",
+      "version": "3.0.42"
+    },
+    {
+      "extension_id": "bpkiokaaflmigohooieifgjnfdigbkel",
+      "name": "Travel Wonders Tab",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/bpkiokaaflmigohooieifgjnfdigbkel",
+      "sha256": "56008d0d6531008b2c781f15bf926b532fc8f20de6bcfc80143896ac36b97708",
+      "version": "3.0.47"
+    },
+    {
+      "extension_id": "noohcjbnclmgdlfjlheghpfpjebijoai",
+      "name": "Natural Wonders Tab",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/noohcjbnclmgdlfjlheghpfpjebijoai",
+      "sha256": "0c1b02c606b9b4c15b78025159aff5fe98055f8f5986b2bab904390821501546",
+      "version": "3.0.50"
+    },
+    {
+      "extension_id": "difphlopnifadjnjcenlelggbgdjmkoi",
+      "name": "Horse Wallpaper New Tab with Facts",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/difphlopnifadjnjcenlelggbgdjmkoi",
+      "sha256": "f4226d567c622fd507a9e963e989ec05755fdedac381be8509166b455e920990",
+      "version": "3.0.38"
+    },
+    {
+      "extension_id": "efhmoiiijfbmakklopckeciknpdicdkc",
+      "name": "Anime Corner Wallpapers New Tab",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/efhmoiiijfbmakklopckeciknpdicdkc",
+      "sha256": "d13fc6d843c66be04e1f7783f4aed829412c34bdbf8bd898c44de1f7dda9acc3",
+      "version": "3.0.39"
+    },
+    {
+      "extension_id": "jkfklpcdgldalehcmalolodgegkngpkp",
+      "name": "Bright Skies Tab",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/jkfklpcdgldalehcmalolodgegkngpkp",
+      "sha256": "803bd07eab6128da3e73253caabf7c1eda68dcc89fba5a55d500758a7cab9178",
+      "version": "3.0.46"
+    },
+    {
+      "extension_id": "pigmkldpfeifdmebeceijifegboglhnh",
+      "name": "Floral Quotes Zen New Tab",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/pigmkldpfeifdmebeceijifegboglhnh",
+      "sha256": "96e3c104e89507786eba6a57ba83e3c77d1b9737860d7d87ac2c599ae0cb1ac9",
+      "version": "3.0.48"
+    },
+    {
+      "extension_id": "ffllckipkdgcnnlbnleapblhmgnjkkco",
+      "name": "Wallpaper Dogs & Puppies New Tab",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/ffllckipkdgcnnlbnleapblhmgnjkkco",
+      "sha256": "7b9ffb3948f7f8874a3c53fa5086b8193a601af98c55c51ca35152a341f13544",
+      "version": "3.0.39"
+    },
+    {
+      "extension_id": "eiehmcpkpngkkkpllileadclkhpjfina",
+      "name": "Winter Chill HD Wallpapers New Tab",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/eiehmcpkpngkkkpllileadclkhpjfina",
+      "sha256": "2b0f7940f3dbc9239d986786fa9b463158b3878ddcfbbc09b5dc03967de5d57d",
+      "version": "3.0.55"
+    },
+    {
+      "extension_id": "ngdpicddlofbfmpahpgmbmmpccifmnfc",
+      "name": "Top Car Wallpapers with News & Reviews",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/ngdpicddlofbfmpahpgmbmmpccifmnfc",
+      "sha256": "b7b71173352e10edbe4cd87c626838cf9d344d836c69cb613c754ca4217cfc94",
+      "version": "3.0.16"
+    },
+    {
+      "extension_id": "mjofapgloeecmjlcoebiblfagbglofid",
+      "name": "Bulletin Search",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/mjofapgloeecmjlcoebiblfagbglofid",
+      "sha256": "85800b38b9b242c105ba8faec36b76d87ece0733a4ad2a5de158c539278d93c6",
+      "version": "1.0.0.3"
+    },
+    {
+      "extension_id": "makjmneeknimjanbhmcohficcgebbmel",
+      "name": "Browse N Bargain",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/makjmneeknimjanbhmcohficcgebbmel",
+      "sha256": "fb6dd460c2bf753fa410eeee22194d985a84e5563ace25d82f2097cd309be84c",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "majljcmemjiodlnlgchmcaaabobdaehd",
+      "name": "Myprivatesearch",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/majljcmemjiodlnlgchmcaaabobdaehd",
+      "sha256": "d219957267adcaa0411b6ac6cf49fd66aa69e7e55ffa6e97c93b144a27eeb48d",
+      "version": "3.0.3"
+    },
+    {
+      "extension_id": "fckahhaekajghnlodolbjgihigleednn",
+      "name": "Offline Search",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/fckahhaekajghnlodolbjgihigleednn",
+      "sha256": "21d804afab738ef35252acd443bf537a8e07b0186b26b6e3b95d92c7705cf4c3",
+      "version": "3.0.0"
+    },
+    {
+      "extension_id": "oiojpmgdnhjamdocfndpjhmbfpkeccgc",
+      "name": "My Search Easy",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/oiojpmgdnhjamdocfndpjhmbfpkeccgc",
+      "sha256": "42f5241642189de12b5c3ab2d4848167621854705e7bc6dc9a5593ba6f9ffe9e",
+      "version": "33.0.5"
+    },
+    {
+      "extension_id": "hgbnooaleklhbhgmhkgkniidnblhkfed",
+      "name": "My Search Easy",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/hgbnooaleklhbhgmhkgkniidnblhkfed",
+      "sha256": "469802e947a78b6337ebb8e23a3a2d3783b04922096f8a128bf25cbea881761a",
+      "version": "301.0.0"
+    },
+    {
+      "extension_id": "loflohfadmkjphoadcheidncpjlghfhl",
+      "name": "My Search Easy",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/loflohfadmkjphoadcheidncpjlghfhl",
+      "sha256": "0a5c77bac2a1c6c26724ce844e5bbe1ef0dc1eb390bb90ffab461a54cedd2918",
+      "version": "3.1.1"
+    },
+    {
+      "extension_id": "nkjcgbneiibhdcihikeggniknbhmepfe",
+      "name": "My Search Easy",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/nkjcgbneiibhdcihikeggniknbhmepfe",
+      "sha256": "86980174c1a1b132a5b36877fbd39c481f2bcbcb9527d20d05883005ffb52b1a",
+      "version": "100.0.4"
+    },
+    {
+      "extension_id": "jbjfdddnphnaibbakmbimpokldmpkjcj",
+      "name": "My Search Easy",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/jbjfdddnphnaibbakmbimpokldmpkjcj",
+      "sha256": "bbf01325594e0f6df271572de87004a8bce3ef8046023e79266f725db8602e42",
+      "version": "4.6.5"
+    },
+    {
+      "extension_id": "jkgecmbhgpkmdangpinlkddilemlgfic",
+      "name": "My Search Easy",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/jkgecmbhgpkmdangpinlkddilemlgfic",
+      "sha256": "9ffb5d1fc9af87a5b3e0736883a368de96be9771859cc26cb03165ef39bc4504",
+      "version": "31.0.5"
+    },
+    {
+      "extension_id": "ldoaacjkiickkdakaknkbklgakndoomn",
+      "name": "My Search Easy",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/ldoaacjkiickkdakaknkbklgakndoomn",
+      "sha256": "7fa1c3d620a588aeb80ebd636a27d01b200a4ee9f81a1ee91d9c2202ee6790fa",
+      "version": "400.0.0"
+    },
+    {
+      "extension_id": "pckmcigfpejnpegnjhmcjedlelkpmmje",
+      "name": "My Search Easy",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/pckmcigfpejnpegnjhmcjedlelkpmmje",
+      "sha256": "f6a646ae5d93f187c74c3cbd2598fa1b4b37fa9cc3908026abad503ff7b04cfa",
+      "version": "301.0.2"
+    },
+    {
+      "extension_id": "kdkcpnomgeakncbphakgchnffakhdfam",
+      "name": "My Search Easy",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/kdkcpnomgeakncbphakgchnffakhdfam",
+      "sha256": "82315868ab9bbd89e1c0500b6b1cbe36c705230bd2b8b6dafc7630dcb01a7bb6",
+      "version": "102.0.2"
+    },
+    {
+      "extension_id": "ehkbhajdcgmoeefiemhlbnbicjjpafgj",
+      "name": "My Search Easy",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-06",
+      "store_url": "https://chromewebstore.google.com/detail/ehkbhajdcgmoeefiemhlbnbicjjpafgj",
+      "sha256": "c65dbf454909f8cc4432dabb307547824f5feba3e3dd3ef6951033e68a3d2e8b",
+      "version": "401.0.1"
+    },
     {
       "extension_id": "jhmoakjolfkmlgdmajnhlnplckkdimep",
       "name": "Airbnb scraper",
