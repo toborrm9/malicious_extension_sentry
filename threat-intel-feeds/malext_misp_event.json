@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-11-05",
-    "timestamp": "1793919718",
+    "date": "2026-11-06",
+    "timestamp": "1793960928",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,52 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "b17ae64d-aa5f-51ea-8e36-f3b78d6dac90",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jhmoakjolfkmlgdmajnhlnplckkdimep",
+        "comment": "Airbnb scraper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-06 | Version: 0.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "96dafa5a-c550-5f6f-a05f-c3d1a29b7617",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jhmoakjolfkmlgdmajnhlnplckkdimep",
+        "comment": "Chrome Web Store entry for Airbnb scraper (jhmoakjolfkmlgdmajnhlnplckkdimep)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1a16aeb6-fbb4-51f4-944d-bc6388939ebd",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6b792d133ce4ee3e5484b51ad8445aa6fd1f14e57380754e357b672e49b692e2",
+        "comment": "SHA-256 of extension package for Airbnb scraper (jhmoakjolfkmlgdmajnhlnplckkdimep)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "38b467f8-4309-5436-b6ae-9ee3654a0dbb",
         "type": "text",
@@ -22224,6 +22270,52 @@
         "to_ids": true,
         "value": "adc8831ed68a7265c44bf7f2f3f8fb7ffdd247e7e11de6eb08e685d4d1197563",
         "comment": "SHA-256 of extension package for Chatgpt For Gmail (mllkpgcojiooenmengajhkailfjocond)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c104a05d-1f44-55f8-9b01-52520cbeec2f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ipdgkagebehoppgikabcmneoagcpkkho",
+        "comment": "Commentra \u2014 YouTube Comment Analyser | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 0.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "af989184-99ca-549e-8a57-a9a9e7190348",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ipdgkagebehoppgikabcmneoagcpkkho",
+        "comment": "Chrome Web Store entry for Commentra \u2014 YouTube Comment Analyser (ipdgkagebehoppgikabcmneoagcpkkho)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4cbf1077-5ca8-5ca9-a8ba-37b1b6685ea8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7218242a3f9accbd96e8bd4bacd3672d7d45a762f85d6391de8b1c74fe146da6",
+        "comment": "SHA-256 of extension package for Commentra \u2014 YouTube Comment Analyser (ipdgkagebehoppgikabcmneoagcpkkho)",
         "distribution": "5",
         "Tag": [
           {
@@ -52309,6 +52401,52 @@
         "to_ids": true,
         "value": "0e8750d0e5bc184978211976c5b299606b683767b62909ff6ae2f346c250ec09",
         "comment": "SHA-256 of extension package for Robinhood - Extension For Chrome (bbljaeojdeehoihejgmdjgjmnnolgdbm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7baa7bd1-7a0a-59cb-8146-a6068e171887",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pcdfcfkppegjfdhaoiccbnhjkmlcfemc",
+        "comment": "Comment Arena | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-09 | Version: 1.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "49ad683a-91fd-5e68-9a83-e414785b4f56",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pcdfcfkppegjfdhaoiccbnhjkmlcfemc",
+        "comment": "Chrome Web Store entry for Comment Arena (pcdfcfkppegjfdhaoiccbnhjkmlcfemc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c83cef69-4290-55bb-960c-998f68f5bc80",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4cfb141c622d4cfbf3875ef201df71006b945cf74cb5cb3d6fb6e740d86ae875",
+        "comment": "SHA-256 of extension package for Comment Arena (pcdfcfkppegjfdhaoiccbnhjkmlcfemc)",
         "distribution": "5",
         "Tag": [
           {
