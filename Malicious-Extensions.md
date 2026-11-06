@@ -1,5 +1,51 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| afjogmmndfiimngdhlndbhmdimofldci | TikTok Video Downloader & Feed Sorter | Policy Violation | Store Monitoring | 06/11/26 | No | Google Chrome
+| kbijponpecdogfceohhnjacneggaooom | Paper Telescope | Bundling Unwanted Software | Store Monitoring | 06/11/26 | No | Google Chrome
+| jlmocnadfhnldkjbejclodcfaogkchgc | Glass Orchard | Bundling Unwanted Software | Store Monitoring | 06/11/26 | No | Google Chrome
+| efjjkanncldkghieipncnailhjfijbga | Quiet Courier | Bundling Unwanted Software | Store Monitoring | 06/11/26 | No | Google Chrome
+| mbbglddgbmmgaklmkkjiekpkpigbohob | Similar Seo Viewer — Doma | Bundling Unwanted Software | Store Monitoring | 06/11/26 | No | Google Chrome
+| plnlmcjaijpglljencdfdmlemfpjckng | TikTok Video Downloader (Remove Watermark) | Policy Violation | Store Monitoring | 06/11/26 | No | Google Chrome
+| eaeambigmjidimbeogbhamdfbhkanccm | TikTok Ads Downloader | Policy Violation | Store Monitoring | 06/11/26 | No | Google Chrome
+| amnjikhjeekljnddkjmliipjjaghbnlc | Airbnb AI Auto Responder | Policy Violation | Store Monitoring | 06/11/26 | No | Google Chrome
+| hpebphhdnacjemfedboofbefjhfmhjjh | Islamic Dashboard | Policy Violation | Store Monitoring | 06/11/26 | No | Google Chrome
+| ckenjgcaloekhajcdjnldlpocmieiofi | Clock Seed | Bundling Unwanted Software | Store Monitoring | 06/11/26 | No | Google Chrome
+| mchceimbhojpoeogdnimlbopidfdfphk | Pocket Loom | Bundling Unwanted Software | Store Monitoring | 06/11/26 | No | Google Chrome
+| ialmbfdolfbfddhhbpcpfajahojgbglh | Search On Site | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| lhnigoiaandckjjombcanjoemeblmljb | Super Search | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| fnhmeghaldogkojfjcedfnhnegbnnkfg | SearchTuner | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| acgnlhjcipkagocfggidelbghodlddmm | Shimmer Tab for Helium | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| kajaheopdpmejeeghdkdpgoolgfijdpi | Helium New Tab | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| idecdfifnaphlciminbkonceoehafmif | Veterank - Search Engine for Veterans | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| heghgippljloofaiihdabipljakkklne | MyMusicFind | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| ebddfelooblbcgpbclhmaglmcbobcmkp | Unofficial: Quick Search for Reddit | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| ednnpeklkonadhmmiodaaliheagfgocc | Mindfulli Quote Wallpapers New Tab | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| plnfiebnedimjcdkhbfhpocmllibcbkp | MyStart Wallpapers New Tab Page | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| mcepoaigdglifcboecibgpeaogkaoapo | Bitcoin Price New Tab | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| hioaiagllblmpkcknbpfecljmcdpoloe | Mountain Quotes Zen New Tab | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| bpkiokaaflmigohooieifgjnfdigbkel | Travel Wonders Tab | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| noohcjbnclmgdlfjlheghpfpjebijoai | Natural Wonders Tab | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| difphlopnifadjnjcenlelggbgdjmkoi | Horse Wallpaper New Tab with Facts | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| efhmoiiijfbmakklopckeciknpdicdkc | Anime Corner Wallpapers New Tab | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| jkfklpcdgldalehcmalolodgegkngpkp | Bright Skies Tab | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| pigmkldpfeifdmebeceijifegboglhnh | Floral Quotes Zen New Tab | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| ffllckipkdgcnnlbnleapblhmgnjkkco | Wallpaper Dogs & Puppies New Tab | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| eiehmcpkpngkkkpllileadclkhpjfina | Winter Chill HD Wallpapers New Tab | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| ngdpicddlofbfmpahpgmbmmpccifmnfc | Top Car Wallpapers with News & Reviews | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| mjofapgloeecmjlcoebiblfagbglofid | Bulletin Search | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| makjmneeknimjanbhmcohficcgebbmel | Browse N Bargain | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| majljcmemjiodlnlgchmcaaabobdaehd | Myprivatesearch | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| fckahhaekajghnlodolbjgihigleednn | Offline Search | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| oiojpmgdnhjamdocfndpjhmbfpkeccgc | My Search Easy | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| hgbnooaleklhbhgmhkgkniidnblhkfed | My Search Easy | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| loflohfadmkjphoadcheidncpjlghfhl | My Search Easy | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| nkjcgbneiibhdcihikeggniknbhmepfe | My Search Easy | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| jbjfdddnphnaibbakmbimpokldmpkjcj | My Search Easy | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| jkgecmbhgpkmdangpinlkddilemlgfic | My Search Easy | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| ldoaacjkiickkdakaknkbklgakndoomn | My Search Easy | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| pckmcigfpejnpegnjhmcjedlelkpmmje | My Search Easy | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| kdkcpnomgeakncbphakgchnffakhdfam | My Search Easy | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
+| ehkbhajdcgmoeefiemhlbnbicjjpafgj | My Search Easy | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
 | jhmoakjolfkmlgdmajnhlnplckkdimep | Airbnb scraper | Policy Violation | Store Monitoring | 06/11/26 | No | Google Chrome
 | fmjnjkeohdibdlamgfaclmolefamleib | TeXbridge – ChatGPT & Gemini Math to Word & PowerPoint Equations - Free | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
 | mgcackamefdfmipooepaibkbeclecjma | GitHub reactions minimap | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
