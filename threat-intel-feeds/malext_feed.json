@@ -1,12 +1,42 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-06T17:31:12Z",
+  "generated": "2026-11-07T21:53:36Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8318,
+  "total_indicators": 8321,
   "indicators": [
+    {
+      "extension_id": "ehbmpdmbnminplejlpbgbkijnmheffec",
+      "name": "Google Tasks",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-07",
+      "store_url": "https://chromewebstore.google.com/detail/ehbmpdmbnminplejlpbgbkijnmheffec",
+      "sha256": "e03948a074850fefea76c5ceaec6dbc1d184ba4038000224c97de35c1470b986",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "jefkeaimacffjgpcnphinomaepkolhpo",
+      "name": "FlowMint \u2014 Google Flow Batch Generator & Auto Downloader",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-07",
+      "store_url": "https://chromewebstore.google.com/detail/jefkeaimacffjgpcnphinomaepkolhpo",
+      "sha256": "ceea759388ed5a2b037436d616f92cc2d06a27d605adafbda7c6a04483a4ec09",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "nfbidndodpgodkkhcgmhoblikkepigha",
+      "name": "Chrome",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-07",
+      "store_url": "https://chromewebstore.google.com/detail/nfbidndodpgodkkhcgmhoblikkepigha",
+      "sha256": "97990ed119fa17d6c81fab332d534f010db9fd7db425422da0a79df211706213",
+      "version": "1.10.26.0"
+    },
     {
       "extension_id": "afjogmmndfiimngdhlndbhmdimofldci",
       "name": "TikTok Video Downloader & Feed Sorter",
