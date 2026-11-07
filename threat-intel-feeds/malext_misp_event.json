@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-11-06",
-    "timestamp": "1793986274",
+    "date": "2026-11-07",
+    "timestamp": "1794088418",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,144 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "c3583cab-e9e4-5a8f-865d-c3ef238b8e7b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ehbmpdmbnminplejlpbgbkijnmheffec",
+        "comment": "Google Tasks | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-07 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "2b91d1e9-f02f-54f8-935b-3dae6f411c7f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ehbmpdmbnminplejlpbgbkijnmheffec",
+        "comment": "Chrome Web Store entry for Google Tasks (ehbmpdmbnminplejlpbgbkijnmheffec)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2e0b250e-834f-555f-92ab-b11057fde281",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e03948a074850fefea76c5ceaec6dbc1d184ba4038000224c97de35c1470b986",
+        "comment": "SHA-256 of extension package for Google Tasks (ehbmpdmbnminplejlpbgbkijnmheffec)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a5c4164f-994b-5626-9fae-6514faeaecad",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jefkeaimacffjgpcnphinomaepkolhpo",
+        "comment": "FlowMint \u2014 Google Flow Batch Generator & Auto Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-07 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "17a18537-46a4-5bc4-95be-e5a10dc61b84",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jefkeaimacffjgpcnphinomaepkolhpo",
+        "comment": "Chrome Web Store entry for FlowMint \u2014 Google Flow Batch Generator & Auto Downloader (jefkeaimacffjgpcnphinomaepkolhpo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4532b716-fd1c-5e28-af54-7a05cc80f6a8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ceea759388ed5a2b037436d616f92cc2d06a27d605adafbda7c6a04483a4ec09",
+        "comment": "SHA-256 of extension package for FlowMint \u2014 Google Flow Batch Generator & Auto Downloader (jefkeaimacffjgpcnphinomaepkolhpo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b269cc50-94b0-5390-8a84-5d7ce35383cb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nfbidndodpgodkkhcgmhoblikkepigha",
+        "comment": "Chrome | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-07 | Version: 1.10.26.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.10.26.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "1ea4fb8d-c699-51e6-9917-45eef3b58e1b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nfbidndodpgodkkhcgmhoblikkepigha",
+        "comment": "Chrome Web Store entry for Chrome (nfbidndodpgodkkhcgmhoblikkepigha)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b78c1298-8099-526f-99cc-2fabcc5245c0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "97990ed119fa17d6c81fab332d534f010db9fd7db425422da0a79df211706213",
+        "comment": "SHA-256 of extension package for Chrome (nfbidndodpgodkkhcgmhoblikkepigha)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "e54719c1-41d9-5e83-a46e-3468fb029d7d",
         "type": "text",
