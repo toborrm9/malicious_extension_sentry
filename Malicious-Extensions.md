@@ -1,5 +1,8 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ehbmpdmbnminplejlpbgbkijnmheffec | Google Tasks | Policy Violation | Store Monitoring | 07/11/26 | No | Google Chrome
+| jefkeaimacffjgpcnphinomaepkolhpo | FlowMint — Google Flow Batch Generator & Auto Downloader | Policy Violation | Store Monitoring | 07/11/26 | No | Google Chrome
+| nfbidndodpgodkkhcgmhoblikkepigha | Chrome | Policy Violation | Store Monitoring | 07/11/26 | No | Google Chrome
 | afjogmmndfiimngdhlndbhmdimofldci | TikTok Video Downloader & Feed Sorter | Policy Violation | Store Monitoring | 06/11/26 | No | Google Chrome
 | kbijponpecdogfceohhnjacneggaooom | Paper Telescope | Bundling Unwanted Software | Store Monitoring | 06/11/26 | No | Google Chrome
 | jlmocnadfhnldkjbejclodcfaogkchgc | Glass Orchard | Bundling Unwanted Software | Store Monitoring | 06/11/26 | No | Google Chrome
