@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-11-07",
-    "timestamp": "1794088418",
+    "date": "2026-11-09",
+    "timestamp": "1794222485",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,466 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "873034d6-9756-5e08-805e-8cf35ed31b0d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pbgbikkfbpmhnmopafgheclbpaafjhdj",
+        "comment": "Office Attendance Monitor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-09 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "d5c6a682-03d8-5a6e-b843-b543fbdc0e04",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pbgbikkfbpmhnmopafgheclbpaafjhdj",
+        "comment": "Chrome Web Store entry for Office Attendance Monitor (pbgbikkfbpmhnmopafgheclbpaafjhdj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "07fcd3d5-9467-54ab-9b7b-fa12b4e98030",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "db3bcc286cc6ee173573e134a609bfc3f2c008f93832be9008628cf67b596065",
+        "comment": "SHA-256 of extension package for Office Attendance Monitor (pbgbikkfbpmhnmopafgheclbpaafjhdj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5dbd034a-1bf4-529d-9691-91278d9f66df",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fpafhfnhpbifhgjjfgaffgoccjmglnbg",
+        "comment": "Us Visa Auto Rescheduler | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-09 | Version: 7.26.7.17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"7.26.7.17\""
+          }
+        ]
+      },
+      {
+        "uuid": "d5282e42-b66f-529b-ae07-84b9291770ff",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fpafhfnhpbifhgjjfgaffgoccjmglnbg",
+        "comment": "Chrome Web Store entry for Us Visa Auto Rescheduler (fpafhfnhpbifhgjjfgaffgoccjmglnbg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b4275191-32ce-5082-a83b-819a79846c8e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7ba4330bfb3b95c145360fddadbe2a330f854adecc3a00b1abc29f3cf5ca311b",
+        "comment": "SHA-256 of extension package for Us Visa Auto Rescheduler (fpafhfnhpbifhgjjfgaffgoccjmglnbg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "51a30876-167c-5d1d-9dd2-bbc615e39418",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gipbiibpbkdoknjabdhnmjlkcemhniip",
+        "comment": "Wabin | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-11-08 | Version: 3.1.10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.1.10\""
+          }
+        ]
+      },
+      {
+        "uuid": "2bf327b9-7f9d-57c5-9061-568bd734a9a7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gipbiibpbkdoknjabdhnmjlkcemhniip",
+        "comment": "Chrome Web Store entry for Wabin (gipbiibpbkdoknjabdhnmjlkcemhniip)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ba3dd4a5-221f-5cad-89a1-ad985c596b62",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "746b6b86dc3ba6b89534959fdc0dda84257c4411c340b33ac319415c90d7b54c",
+        "comment": "SHA-256 of extension package for Wabin (gipbiibpbkdoknjabdhnmjlkcemhniip)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca426618-a582-5899-9a60-3e4a80fbd929",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eclopcfdbpiceeokkdngkemfflnclmap",
+        "comment": "Evan's Atende | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-11-08 | Version: 3.1.10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.1.10\""
+          }
+        ]
+      },
+      {
+        "uuid": "336b5a48-bef4-586c-b209-9c039352932b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eclopcfdbpiceeokkdngkemfflnclmap",
+        "comment": "Chrome Web Store entry for Evan's Atende (eclopcfdbpiceeokkdngkemfflnclmap)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fd1a9b3f-4490-5c26-992a-bde2a4696364",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8783991e833744f612ef28c4e23821b2f50a17ee2b5a01b2e026fd09ce128dc4",
+        "comment": "SHA-256 of extension package for Evan's Atende (eclopcfdbpiceeokkdngkemfflnclmap)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e40ef578-04c3-588a-af41-ab3ce9430220",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pcgcaphhkfbmndojoaphjoamadkndege",
+        "comment": "Monchat | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-11-08 | Version: 3.1.10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.1.10\""
+          }
+        ]
+      },
+      {
+        "uuid": "b6d68db5-787b-56b3-b703-0ad9a8b8f390",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pcgcaphhkfbmndojoaphjoamadkndege",
+        "comment": "Chrome Web Store entry for Monchat (pcgcaphhkfbmndojoaphjoamadkndege)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8f38d7d3-482f-5ec5-b165-0dce5eea18dc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3c00daabaefd3431af29736f47f4ea120d9c2598ea0baf1aaf3d34bcf09208dd",
+        "comment": "SHA-256 of extension package for Monchat (pcgcaphhkfbmndojoaphjoamadkndege)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a482b157-310f-5e39-b18f-b549f8ce776c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kjjjojhogddbggjgiagcdenblckgcamn",
+        "comment": "Sales Whats Brasil | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-11-08 | Version: 3.1.10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.1.10\""
+          }
+        ]
+      },
+      {
+        "uuid": "77649a8a-d138-5ebe-a502-34a0b310211a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kjjjojhogddbggjgiagcdenblckgcamn",
+        "comment": "Chrome Web Store entry for Sales Whats Brasil (kjjjojhogddbggjgiagcdenblckgcamn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3bd30f84-1e22-5672-a81a-bacb732fe8d6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "944620c8cf6cf7c6d137f9dc839eb507255f5ad6c9dd5ea3623af7b0f73dcaff",
+        "comment": "SHA-256 of extension package for Sales Whats Brasil (kjjjojhogddbggjgiagcdenblckgcamn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "961888af-5c8a-584f-805b-047c93e9e30f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kejpogdiieaclofbhfcjbgpiajhboafi",
+        "comment": "FleboLeads | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-11-08 | Version: 3.2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "84446ea7-2762-5f3f-b712-a6435e967fae",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kejpogdiieaclofbhfcjbgpiajhboafi",
+        "comment": "Chrome Web Store entry for FleboLeads (kejpogdiieaclofbhfcjbgpiajhboafi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "131e6531-968d-55ec-a26b-4042783ac9d3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0328ac062cf2d5192b62a390be60a690f041cfc74b5678cd9c7357dfa58a4a18",
+        "comment": "SHA-256 of extension package for FleboLeads (kejpogdiieaclofbhfcjbgpiajhboafi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a6fab1eb-30e1-537f-9d88-e65f99ad3792",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lgnfhionoobhdkncnbffpfbjjonhjapj",
+        "comment": "EAI MAIS | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-11-08 | Version: 3.1.10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.1.10\""
+          }
+        ]
+      },
+      {
+        "uuid": "afd30776-c8d1-5868-a95b-f3fee34eae9c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lgnfhionoobhdkncnbffpfbjjonhjapj",
+        "comment": "Chrome Web Store entry for EAI MAIS (lgnfhionoobhdkncnbffpfbjjonhjapj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9481dfa9-3cbd-5c26-a0fd-f4e8759567c8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "85061cd5be8cab5ed4eafb5ce1c625f5f0e8a6966842e9a30fe090d65c79f6b2",
+        "comment": "SHA-256 of extension package for EAI MAIS (lgnfhionoobhdkncnbffpfbjjonhjapj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "80c8ed3d-c2f1-56dc-9599-cde17c15b568",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fnojjhjebnenenkaefidgmmcapphabeb",
+        "comment": "Chatboty | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-11-08 | Version: 3.2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "dc0eccd4-09d9-5244-89c7-68c31921f907",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fnojjhjebnenenkaefidgmmcapphabeb",
+        "comment": "Chrome Web Store entry for Chatboty (fnojjhjebnenenkaefidgmmcapphabeb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7d3795d1-e9ed-5f65-8ff4-5de1d9f60139",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a00c6c4e3a1414a75e8c82f2a55d8befb796a2471d897cfa816245ce949916cd",
+        "comment": "SHA-256 of extension package for Chatboty (fnojjhjebnenenkaefidgmmcapphabeb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2114fb05-d7ce-592e-8702-9a1c67ff3688",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gekihbicicienajhnbmcckgmaneieoee",
+        "comment": "Botflow | Source: https://malext.io/reports/WaSteal/ | Store: Google Chrome | Added: 2026-11-08 | Version: 3.2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://malext.io/reports/WaSteal/\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "c06829a8-115e-5db5-90df-7c2e7b177e33",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gekihbicicienajhnbmcckgmaneieoee",
+        "comment": "Chrome Web Store entry for Botflow (gekihbicicienajhnbmcckgmaneieoee)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c462b1ba-e4a6-5e20-bc2a-5ca726697bb1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c9089e35e31fcc11203936649b2d97ff98de033368b6a4f48ce9210405e7de03",
+        "comment": "SHA-256 of extension package for Botflow (gekihbicicienajhnbmcckgmaneieoee)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "c3583cab-e9e4-5a8f-865d-c3ef238b8e7b",
         "type": "text",
