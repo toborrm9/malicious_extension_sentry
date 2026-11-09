@@ -1,5 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| pbgbikkfbpmhnmopafgheclbpaafjhdj | Office Attendance Monitor | Policy Violation | Store Monitoring | 09/11/26 | No | Google Chrome
+| fpafhfnhpbifhgjjfgaffgoccjmglnbg | Us Visa Auto Rescheduler | Policy Violation | Store Monitoring | 09/11/26 | No | Google Chrome
+| gipbiibpbkdoknjabdhnmjlkcemhniip | Wabin | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 08/11/26 | No | Google Chrome
+| eclopcfdbpiceeokkdngkemfflnclmap | Evan's Atende | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 08/11/26 | No | Google Chrome
+| pcgcaphhkfbmndojoaphjoamadkndege | Monchat | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 08/11/26 | No | Google Chrome
+| kjjjojhogddbggjgiagcdenblckgcamn | Sales Whats Brasil | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 08/11/26 | No | Google Chrome
+| kejpogdiieaclofbhfcjbgpiajhboafi | FleboLeads | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 08/11/26 | No | Google Chrome
+| lgnfhionoobhdkncnbffpfbjjonhjapj | EAI MAIS | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 08/11/26 | No | Google Chrome
+| fnojjhjebnenenkaefidgmmcapphabeb | Chatboty | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 08/11/26 | No | Google Chrome
+| gekihbicicienajhnbmcckgmaneieoee | Botflow | Malware | [malext.io](https://malext.io/reports/WaSteal/) | 08/11/26 | No | Google Chrome
 | ehbmpdmbnminplejlpbgbkijnmheffec | Google Tasks | Policy Violation | Store Monitoring | 07/11/26 | No | Google Chrome
 | jefkeaimacffjgpcnphinomaepkolhpo | FlowMint — Google Flow Batch Generator & Auto Downloader | Policy Violation | Store Monitoring | 07/11/26 | No | Google Chrome
 | nfbidndodpgodkkhcgmhoblikkepigha | Chrome | Policy Violation | Store Monitoring | 07/11/26 | No | Google Chrome
