@@ -1,12 +1,112 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-07T21:53:36Z",
+  "generated": "2026-11-09T11:08:03Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8321,
+  "total_indicators": 8331,
   "indicators": [
+    {
+      "extension_id": "pbgbikkfbpmhnmopafgheclbpaafjhdj",
+      "name": "Office Attendance Monitor",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-09",
+      "store_url": "https://chromewebstore.google.com/detail/pbgbikkfbpmhnmopafgheclbpaafjhdj",
+      "sha256": "db3bcc286cc6ee173573e134a609bfc3f2c008f93832be9008628cf67b596065",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "fpafhfnhpbifhgjjfgaffgoccjmglnbg",
+      "name": "Us Visa Auto Rescheduler",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-09",
+      "store_url": "https://chromewebstore.google.com/detail/fpafhfnhpbifhgjjfgaffgoccjmglnbg",
+      "sha256": "7ba4330bfb3b95c145360fddadbe2a330f854adecc3a00b1abc29f3cf5ca311b",
+      "version": "7.26.7.17"
+    },
+    {
+      "extension_id": "gipbiibpbkdoknjabdhnmjlkcemhniip",
+      "name": "Wabin",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-08",
+      "store_url": "https://chromewebstore.google.com/detail/gipbiibpbkdoknjabdhnmjlkcemhniip",
+      "sha256": "746b6b86dc3ba6b89534959fdc0dda84257c4411c340b33ac319415c90d7b54c",
+      "version": "3.1.10"
+    },
+    {
+      "extension_id": "eclopcfdbpiceeokkdngkemfflnclmap",
+      "name": "Evan's Atende",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-08",
+      "store_url": "https://chromewebstore.google.com/detail/eclopcfdbpiceeokkdngkemfflnclmap",
+      "sha256": "8783991e833744f612ef28c4e23821b2f50a17ee2b5a01b2e026fd09ce128dc4",
+      "version": "3.1.10"
+    },
+    {
+      "extension_id": "pcgcaphhkfbmndojoaphjoamadkndege",
+      "name": "Monchat",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-08",
+      "store_url": "https://chromewebstore.google.com/detail/pcgcaphhkfbmndojoaphjoamadkndege",
+      "sha256": "3c00daabaefd3431af29736f47f4ea120d9c2598ea0baf1aaf3d34bcf09208dd",
+      "version": "3.1.10"
+    },
+    {
+      "extension_id": "kjjjojhogddbggjgiagcdenblckgcamn",
+      "name": "Sales Whats Brasil",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-08",
+      "store_url": "https://chromewebstore.google.com/detail/kjjjojhogddbggjgiagcdenblckgcamn",
+      "sha256": "944620c8cf6cf7c6d137f9dc839eb507255f5ad6c9dd5ea3623af7b0f73dcaff",
+      "version": "3.1.10"
+    },
+    {
+      "extension_id": "kejpogdiieaclofbhfcjbgpiajhboafi",
+      "name": "FleboLeads",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-08",
+      "store_url": "https://chromewebstore.google.com/detail/kejpogdiieaclofbhfcjbgpiajhboafi",
+      "sha256": "0328ac062cf2d5192b62a390be60a690f041cfc74b5678cd9c7357dfa58a4a18",
+      "version": "3.2.0"
+    },
+    {
+      "extension_id": "lgnfhionoobhdkncnbffpfbjjonhjapj",
+      "name": "EAI MAIS",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-08",
+      "store_url": "https://chromewebstore.google.com/detail/lgnfhionoobhdkncnbffpfbjjonhjapj",
+      "sha256": "85061cd5be8cab5ed4eafb5ce1c625f5f0e8a6966842e9a30fe090d65c79f6b2",
+      "version": "3.1.10"
+    },
+    {
+      "extension_id": "fnojjhjebnenenkaefidgmmcapphabeb",
+      "name": "Chatboty",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-08",
+      "store_url": "https://chromewebstore.google.com/detail/fnojjhjebnenenkaefidgmmcapphabeb",
+      "sha256": "a00c6c4e3a1414a75e8c82f2a55d8befb796a2471d897cfa816245ce949916cd",
+      "version": "3.2.0"
+    },
+    {
+      "extension_id": "gekihbicicienajhnbmcckgmaneieoee",
+      "name": "Botflow",
+      "source": "https://malext.io/reports/WaSteal/",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-08",
+      "store_url": "https://chromewebstore.google.com/detail/gekihbicicienajhnbmcckgmaneieoee",
+      "sha256": "c9089e35e31fcc11203936649b2d97ff98de033368b6a4f48ce9210405e7de03",
+      "version": "3.2.0"
+    },
     {
       "extension_id": "ehbmpdmbnminplejlpbgbkijnmheffec",
       "name": "Google Tasks",
