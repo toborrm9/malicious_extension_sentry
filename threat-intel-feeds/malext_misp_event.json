@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-11-09",
-    "timestamp": "1794222485",
+    "date": "2026-11-10",
+    "timestamp": "1794313456",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,374 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "e2bfae2c-709a-5e17-a9c3-cba14eb15433",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "faiddjeamoijkhnhhfgikahaldeakpke",
+        "comment": "The Elder Scrolls V: Skyrim \u2013 Dragonborn The | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-10 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "607f2807-633e-531e-b239-4a9adc3a78c2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/faiddjeamoijkhnhhfgikahaldeakpke",
+        "comment": "Chrome Web Store entry for The Elder Scrolls V: Skyrim \u2013 Dragonborn The (faiddjeamoijkhnhhfgikahaldeakpke)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "01548925-53cb-5e55-9698-587cb182cbdc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4c5202493987635080deae6f119f2002b9250a79b5845f30aab1a39d497bcc88",
+        "comment": "SHA-256 of extension package for The Elder Scrolls V: Skyrim \u2013 Dragonborn The (faiddjeamoijkhnhhfgikahaldeakpke)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "127e7307-819b-5f8e-a969-62460e124813",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ioigkhgefneinlgdahhpddckbpofpnfi",
+        "comment": "Skyrim: Book of the Dragonborn Theme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-10 | Version: 0.2.0.23",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.2.0.23\""
+          }
+        ]
+      },
+      {
+        "uuid": "3d219ce4-230f-5512-b026-1ede99f6ca13",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ioigkhgefneinlgdahhpddckbpofpnfi",
+        "comment": "Chrome Web Store entry for Skyrim: Book of the Dragonborn Theme (ioigkhgefneinlgdahhpddckbpofpnfi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2181ad32-558e-5517-ba81-97a8fa98a5a4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3bfa5335870f50ecd33f908fbc5a13a02d1fc09fc13f0a7d8a795a49d8b86cdf",
+        "comment": "SHA-256 of extension package for Skyrim: Book of the Dragonborn Theme (ioigkhgefneinlgdahhpddckbpofpnfi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "276c5314-2d37-530d-aef7-0f928c0a84a8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmbhbojpcdlmamialfkihphlkakbcopj",
+        "comment": "The evil within | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-10 | Version: 1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1\""
+          }
+        ]
+      },
+      {
+        "uuid": "dccb653b-14f6-5af7-a47d-41f83535e370",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dmbhbojpcdlmamialfkihphlkakbcopj",
+        "comment": "Chrome Web Store entry for The evil within (dmbhbojpcdlmamialfkihphlkakbcopj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e62dd43a-c4b4-5abc-83f6-4d6bd7cb0bd8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "037bf8f10bddae8a3acd5e0013dba66c842ad7a78657fd4a09695fd6c4bd67ff",
+        "comment": "SHA-256 of extension package for The evil within (dmbhbojpcdlmamialfkihphlkakbcopj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "98801e4a-95c4-56c1-9da6-d400fae05c21",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "amdhbgoohfnehjldciojlkdahpgkfleb",
+        "comment": "Doom | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-10 | Version: 1.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "c21b5c24-0032-563c-8780-d45b7f3b71cd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/amdhbgoohfnehjldciojlkdahpgkfleb",
+        "comment": "Chrome Web Store entry for Doom (amdhbgoohfnehjldciojlkdahpgkfleb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6466bf21-49ff-5131-bc60-74bfcd3bf2f1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3360dc367a6f30d7b569f11d80a956ad507073fca6a5278c0570731cf2c59e6b",
+        "comment": "SHA-256 of extension package for Doom (amdhbgoohfnehjldciojlkdahpgkfleb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bfb4d17a-3b0d-523f-9c55-94d75cc30232",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pbcbggnhgjnkdikkbglpfehoefadofkk",
+        "comment": "PlaylistSync \u2014 Mezclador para Spotify | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-10 | Version: 0.10.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.10.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "e280cbcf-adfe-5037-93a2-52c9547b9814",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pbcbggnhgjnkdikkbglpfehoefadofkk",
+        "comment": "Chrome Web Store entry for PlaylistSync \u2014 Mezclador para Spotify (pbcbggnhgjnkdikkbglpfehoefadofkk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ddc6fef5-0f13-5990-a384-d4ecaf300bf9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "11f8075e8e0a71a3852d458b131f05a03c21e69cb985a04901bad984ce132e1d",
+        "comment": "SHA-256 of extension package for PlaylistSync \u2014 Mezclador para Spotify (pbcbggnhgjnkdikkbglpfehoefadofkk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "328d5e1f-91c6-5e9e-83d6-2d3aba6c180c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "npmcdbgleejadmkminkljfekpncmechc",
+        "comment": "The Evil Within 2 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-10 | Version: 1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1\""
+          }
+        ]
+      },
+      {
+        "uuid": "85e7752c-1aaa-578d-b135-3866dd44c8a9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/npmcdbgleejadmkminkljfekpncmechc",
+        "comment": "Chrome Web Store entry for The Evil Within 2 (npmcdbgleejadmkminkljfekpncmechc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2d2ead3a-4dbd-53b6-8172-02f80773afb7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2d0073cfc9996e3cba7bf6145f24e87d724604647fe82c45014ffd0bc3ce06df",
+        "comment": "SHA-256 of extension package for The Evil Within 2 (npmcdbgleejadmkminkljfekpncmechc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f700997b-8828-5d81-a9bc-5064c239b54e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bgpdbljdlhmilabpabppedbggmkemifl",
+        "comment": "Fallout 76 Theme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-10 | Version: 1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "7b32b2a2-ab0c-518d-926d-d29140258239",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bgpdbljdlhmilabpabppedbggmkemifl",
+        "comment": "Chrome Web Store entry for Fallout 76 Theme (bgpdbljdlhmilabpabppedbggmkemifl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5c0d0195-b75e-5468-9f4b-abb450addcf9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9874dc0ae587910a953afec953a2c8e28db68be9a505de4b04591eab1b932563",
+        "comment": "SHA-256 of extension package for Fallout 76 Theme (bgpdbljdlhmilabpabppedbggmkemifl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ef97de8b-b3f9-54c3-a0c2-35f43ae6001a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lnjnhehfdjklnghihceggmkkmejgbini",
+        "comment": "Fallout 4 - Steam 1920x1080 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-10 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "6ccf1f6e-7e8d-5a52-a7ee-7f8eef5059c9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lnjnhehfdjklnghihceggmkkmejgbini",
+        "comment": "Chrome Web Store entry for Fallout 4 - Steam 1920x1080 (lnjnhehfdjklnghihceggmkkmejgbini)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "defdd129-9690-5207-a288-901ea634d322",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fc1f41e51f7e69b0e4bf34defe3a61a15af6f19c04c65321f630037fe7df575e",
+        "comment": "SHA-256 of extension package for Fallout 4 - Steam 1920x1080 (lnjnhehfdjklnghihceggmkkmejgbini)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "873034d6-9756-5e08-805e-8cf35ed31b0d",
         "type": "text",
@@ -24992,6 +25360,98 @@
         ]
       },
       {
+        "uuid": "5b690fe0-938c-5536-ad17-ddd7267f28ab",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dlhfeibbhefplmiacmppfinoaeanpefh",
+        "comment": "MetaFox - Cozy Side Panel Companion | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "63a15886-15de-5f19-aaf4-1955e85a4d84",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dlhfeibbhefplmiacmppfinoaeanpefh",
+        "comment": "Chrome Web Store entry for MetaFox - Cozy Side Panel Companion (dlhfeibbhefplmiacmppfinoaeanpefh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "97f1d331-088d-5a0f-8e9b-d31afa79a1d0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c49273f27c8601e3cbb7187ab40d0fd030974f3f96caf677abfdcbc9651cc45e",
+        "comment": "SHA-256 of extension package for MetaFox - Cozy Side Panel Companion (dlhfeibbhefplmiacmppfinoaeanpefh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "32f541bd-312a-5c9a-a85c-492eeb14a7d6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kbapdfopncbopffifoakahdlgabmlclh",
+        "comment": "Doom Eternal Wallpaper HD HomePage | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "c1c24b62-3512-54c9-b165-803a787b6e2c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kbapdfopncbopffifoakahdlgabmlclh",
+        "comment": "Chrome Web Store entry for Doom Eternal Wallpaper HD HomePage (kbapdfopncbopffifoakahdlgabmlclh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ddaaa37e-bf89-5bf9-9a26-213202fce672",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8127a6f7d4022efb2dee295ff45aec55883f1343de969ba6046375e4f07ed524",
+        "comment": "SHA-256 of extension package for Doom Eternal Wallpaper HD HomePage (kbapdfopncbopffifoakahdlgabmlclh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "c104a05d-1f44-55f8-9b01-52520cbeec2f",
         "type": "text",
         "category": "Other",
@@ -27238,6 +27698,52 @@
         "to_ids": true,
         "value": "54b802df6d4450febca03a1ee716b598aedd0085c4f4c6b0a52c8f1c926dfeba",
         "comment": "SHA-256 of extension package for HideU VPN (jgmcmdfkmcpgakbabkhgkpponillmphl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ca465773-c48e-59ca-b2fc-1580bdc8a259",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eamopfoibpamjobhpahlkkfnknhpendb",
+        "comment": "Doom Navigator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 1.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "612dad9d-19fd-5dd0-8718-b59369d04d6b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eamopfoibpamjobhpahlkkfnknhpendb",
+        "comment": "Chrome Web Store entry for Doom Navigator (eamopfoibpamjobhpahlkkfnknhpendb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "14fb661a-a5d1-5840-a529-73b9e6620ee0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cbb4bd63d40b52deb96e28c5e5d13beeef7e3dcfa9489194cd0f0c665dd3104a",
+        "comment": "SHA-256 of extension package for Doom Navigator (eamopfoibpamjobhpahlkkfnknhpendb)",
         "distribution": "5",
         "Tag": [
           {
