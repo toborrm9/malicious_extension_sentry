@@ -1,10 +1,13 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
 | faiddjeamoijkhnhhfgikahaldeakpke | The Elder Scrolls V: Skyrim – Dragonborn The | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
+| eamopfoibpamjobhpahlkkfnknhpendb | Doom Navigator | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
 | ioigkhgefneinlgdahhpddckbpofpnfi | Skyrim: Book of the Dragonborn Theme | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
+| dlhfeibbhefplmiacmppfinoaeanpefh | MetaFox - Cozy Side Panel Companion | Malware | Store Monitoring | 10/11/26 | No | Google Chrome
 | dmbhbojpcdlmamialfkihphlkakbcopj | The evil within | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
 | amdhbgoohfnehjldciojlkdahpgkfleb | Doom | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
 | pbcbggnhgjnkdikkbglpfehoefadofkk | PlaylistSync — Mezclador para Spotify | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
+| kbapdfopncbopffifoakahdlgabmlclh | Doom Eternal Wallpaper HD HomePage | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
 | npmcdbgleejadmkminkljfekpncmechc | The Evil Within 2 | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
 | bgpdbljdlhmilabpabppedbggmkemifl | Fallout 76 Theme | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
 | lnjnhehfdjklnghihceggmkkmejgbini | Fallout 4 - Steam 1920x1080 | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
@@ -558,8 +561,6 @@
 | njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
-| dlhfeibbhefplmiacmppfinoaeanpefh | MetaFox - Cozy Side Panel Companion | Malware | Store Monitoring | 18/10/26 | No | Google Chrome
-| kbapdfopncbopffifoakahdlgabmlclh | Doom Eternal Wallpaper HD HomePage | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ipdgkagebehoppgikabcmneoagcpkkho | Commentra — YouTube Comment Analyser | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ekaaghdhjjpjngpcepdkcmbolgglfoja | Vercel 中文翻译 | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ofidpikgkhcdbdioecnlmhgclilbnpop | SUI Price Ticker | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
@@ -609,7 +610,6 @@
 | hiofiefcoddmfchphleoilcipfancnpj | Cyberquest Extension | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | enkdglikhhjangbkmlkfmignkgchlhkm | 云梯VPN | Malware | MalExt Analysis | 17/10/26 | No | Google Chrome
 | jgmcmdfkmcpgakbabkhgkpponillmphl | HideU VPN | Malware | MalExt Analysis | 17/10/26 | No | Google Chrome
-| eamopfoibpamjobhpahlkkfnknhpendb | Doom Navigator | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
 | nclhoohnebofabammgokaaedjmiaabeh | XRP Price/Wallet Tracker | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
 | lehpbgmhinaembheljfoehpfkmalfila | Polymarket finder | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
 | fcjiplnbkndifghaniahlefjdbdlahlp | WAPP Group Sender | Policy Violation | Store Monitoring | 16/10/26 | No | Google Chrome
