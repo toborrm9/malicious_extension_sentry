@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-11-10",
-    "timestamp": "1794313456",
+    "timestamp": "1794315370",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -74,6 +74,52 @@
         ]
       },
       {
+        "uuid": "ca465773-c48e-59ca-b2fc-1580bdc8a259",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eamopfoibpamjobhpahlkkfnknhpendb",
+        "comment": "Doom Navigator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-10 | Version: 1.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "612dad9d-19fd-5dd0-8718-b59369d04d6b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eamopfoibpamjobhpahlkkfnknhpendb",
+        "comment": "Chrome Web Store entry for Doom Navigator (eamopfoibpamjobhpahlkkfnknhpendb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "14fb661a-a5d1-5840-a529-73b9e6620ee0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cbb4bd63d40b52deb96e28c5e5d13beeef7e3dcfa9489194cd0f0c665dd3104a",
+        "comment": "SHA-256 of extension package for Doom Navigator (eamopfoibpamjobhpahlkkfnknhpendb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
         "uuid": "127e7307-819b-5f8e-a969-62460e124813",
         "type": "text",
         "category": "Other",
@@ -112,6 +158,52 @@
         "to_ids": true,
         "value": "3bfa5335870f50ecd33f908fbc5a13a02d1fc09fc13f0a7d8a795a49d8b86cdf",
         "comment": "SHA-256 of extension package for Skyrim: Book of the Dragonborn Theme (ioigkhgefneinlgdahhpddckbpofpnfi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5b690fe0-938c-5536-ad17-ddd7267f28ab",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dlhfeibbhefplmiacmppfinoaeanpefh",
+        "comment": "MetaFox - Cozy Side Panel Companion | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-10 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "63a15886-15de-5f19-aaf4-1955e85a4d84",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dlhfeibbhefplmiacmppfinoaeanpefh",
+        "comment": "Chrome Web Store entry for MetaFox - Cozy Side Panel Companion (dlhfeibbhefplmiacmppfinoaeanpefh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "97f1d331-088d-5a0f-8e9b-d31afa79a1d0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c49273f27c8601e3cbb7187ab40d0fd030974f3f96caf677abfdcbc9651cc45e",
+        "comment": "SHA-256 of extension package for MetaFox - Cozy Side Panel Companion (dlhfeibbhefplmiacmppfinoaeanpefh)",
         "distribution": "5",
         "Tag": [
           {
@@ -250,6 +342,52 @@
         "to_ids": true,
         "value": "11f8075e8e0a71a3852d458b131f05a03c21e69cb985a04901bad984ce132e1d",
         "comment": "SHA-256 of extension package for PlaylistSync \u2014 Mezclador para Spotify (pbcbggnhgjnkdikkbglpfehoefadofkk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "32f541bd-312a-5c9a-a85c-492eeb14a7d6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kbapdfopncbopffifoakahdlgabmlclh",
+        "comment": "Doom Eternal Wallpaper HD HomePage | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-10 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "c1c24b62-3512-54c9-b165-803a787b6e2c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kbapdfopncbopffifoakahdlgabmlclh",
+        "comment": "Chrome Web Store entry for Doom Eternal Wallpaper HD HomePage (kbapdfopncbopffifoakahdlgabmlclh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ddaaa37e-bf89-5bf9-9a26-213202fce672",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8127a6f7d4022efb2dee295ff45aec55883f1343de969ba6046375e4f07ed524",
+        "comment": "SHA-256 of extension package for Doom Eternal Wallpaper HD HomePage (kbapdfopncbopffifoakahdlgabmlclh)",
         "distribution": "5",
         "Tag": [
           {
@@ -25360,98 +25498,6 @@
         ]
       },
       {
-        "uuid": "5b690fe0-938c-5536-ad17-ddd7267f28ab",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "dlhfeibbhefplmiacmppfinoaeanpefh",
-        "comment": "MetaFox - Cozy Side Panel Companion | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.0",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          },
-          {
-            "name": "malext:store=\"Google Chrome\""
-          },
-          {
-            "name": "malext:version=\"1.0.0\""
-          }
-        ]
-      },
-      {
-        "uuid": "63a15886-15de-5f19-aaf4-1955e85a4d84",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/dlhfeibbhefplmiacmppfinoaeanpefh",
-        "comment": "Chrome Web Store entry for MetaFox - Cozy Side Panel Companion (dlhfeibbhefplmiacmppfinoaeanpefh)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "97f1d331-088d-5a0f-8e9b-d31afa79a1d0",
-        "type": "sha256",
-        "category": "Payload delivery",
-        "to_ids": true,
-        "value": "c49273f27c8601e3cbb7187ab40d0fd030974f3f96caf677abfdcbc9651cc45e",
-        "comment": "SHA-256 of extension package for MetaFox - Cozy Side Panel Companion (dlhfeibbhefplmiacmppfinoaeanpefh)",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          }
-        ]
-      },
-      {
-        "uuid": "32f541bd-312a-5c9a-a85c-492eeb14a7d6",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "kbapdfopncbopffifoakahdlgabmlclh",
-        "comment": "Doom Eternal Wallpaper HD HomePage | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.1",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          },
-          {
-            "name": "malext:store=\"Google Chrome\""
-          },
-          {
-            "name": "malext:version=\"1.0.1\""
-          }
-        ]
-      },
-      {
-        "uuid": "c1c24b62-3512-54c9-b165-803a787b6e2c",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/kbapdfopncbopffifoakahdlgabmlclh",
-        "comment": "Chrome Web Store entry for Doom Eternal Wallpaper HD HomePage (kbapdfopncbopffifoakahdlgabmlclh)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "ddaaa37e-bf89-5bf9-9a26-213202fce672",
-        "type": "sha256",
-        "category": "Payload delivery",
-        "to_ids": true,
-        "value": "8127a6f7d4022efb2dee295ff45aec55883f1343de969ba6046375e4f07ed524",
-        "comment": "SHA-256 of extension package for Doom Eternal Wallpaper HD HomePage (kbapdfopncbopffifoakahdlgabmlclh)",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          }
-        ]
-      },
-      {
         "uuid": "c104a05d-1f44-55f8-9b01-52520cbeec2f",
         "type": "text",
         "category": "Other",
@@ -27698,52 +27744,6 @@
         "to_ids": true,
         "value": "54b802df6d4450febca03a1ee716b598aedd0085c4f4c6b0a52c8f1c926dfeba",
         "comment": "SHA-256 of extension package for HideU VPN (jgmcmdfkmcpgakbabkhgkpponillmphl)",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          }
-        ]
-      },
-      {
-        "uuid": "ca465773-c48e-59ca-b2fc-1580bdc8a259",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "eamopfoibpamjobhpahlkkfnknhpendb",
-        "comment": "Doom Navigator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-16 | Version: 1.2.1",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          },
-          {
-            "name": "malext:store=\"Google Chrome\""
-          },
-          {
-            "name": "malext:version=\"1.2.1\""
-          }
-        ]
-      },
-      {
-        "uuid": "612dad9d-19fd-5dd0-8718-b59369d04d6b",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/eamopfoibpamjobhpahlkkfnknhpendb",
-        "comment": "Chrome Web Store entry for Doom Navigator (eamopfoibpamjobhpahlkkfnknhpendb)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "14fb661a-a5d1-5840-a529-73b9e6620ee0",
-        "type": "sha256",
-        "category": "Payload delivery",
-        "to_ids": true,
-        "value": "cbb4bd63d40b52deb96e28c5e5d13beeef7e3dcfa9489194cd0f0c665dd3104a",
-        "comment": "SHA-256 of extension package for Doom Navigator (eamopfoibpamjobhpahlkkfnknhpendb)",
         "distribution": "5",
         "Tag": [
           {
