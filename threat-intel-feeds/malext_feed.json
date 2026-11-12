@@ -1,12 +1,22 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-12T09:59:39Z",
+  "generated": "2026-11-12T11:10:50Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8376,
+  "total_indicators": 8377,
   "indicators": [
+    {
+      "extension_id": "mbidcmlcbgbphpoacojjbmfpohcimjji",
+      "name": "Falcon C2",
+      "source": "https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/",
+      "store": "Sideloaded",
+      "insert_date": "2026-11-12",
+      "store_url": "",
+      "sha256": "",
+      "version": ""
+    },
     {
       "extension_id": "peeagnchlnjkmjiofbkhdfbidmmblial",
       "name": "Comment Exporter For YouTube",
