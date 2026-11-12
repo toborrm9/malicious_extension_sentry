@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-11-12",
-    "timestamp": "1794507620",
+    "timestamp": "1794520419",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,3410 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "f7822b3e-6803-5013-88cd-d2d89e901bd8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hhbnkmfjfcjalnpgfhcfjflkicelkeij",
+        "comment": "Qaski Cryptovault | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "6ae93d6b-a5d1-5262-918c-9656abfb4954",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hhbnkmfjfcjalnpgfhcfjflkicelkeij",
+        "comment": "Chrome Web Store entry for Qaski Cryptovault (hhbnkmfjfcjalnpgfhcfjflkicelkeij)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b3f9cd4d-b03f-5cef-bd0b-ec70fa376584",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e8d97fc1484bc6e55fb9fff15125397176f1dd9b253e8f36937b246fb213d452",
+        "comment": "SHA-256 of extension package for Qaski Cryptovault (hhbnkmfjfcjalnpgfhcfjflkicelkeij)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c690ecb3-0190-5e49-a0af-de6d2cede0fa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "magebmdnbpocjpahdfmhnlnlkiiipjnd",
+        "comment": "Brass Orrery | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "45c30ed4-3f41-5364-849f-f3e7cd18ccad",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/magebmdnbpocjpahdfmhnlnlkiiipjnd",
+        "comment": "Chrome Web Store entry for Brass Orrery (magebmdnbpocjpahdfmhnlnlkiiipjnd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "db5ff6d0-bebe-5e52-aadb-0839a9215cd9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "31bbf3d1cccabcc792f9cf2cdbdc519046b989978748c80bda8201f4146298c7",
+        "comment": "SHA-256 of extension package for Brass Orrery (magebmdnbpocjpahdfmhnlnlkiiipjnd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d9e2482f-cee8-5ee2-a323-4abe9ab1d284",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pdceogngampkfcpkinjbomipmneamnni",
+        "comment": "OnlyChatter Ai OnlyFans Chatbot | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-12 | Version: 10.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"10.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "d9a89a75-b556-5a01-8a46-59d8a1ca03ae",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pdceogngampkfcpkinjbomipmneamnni",
+        "comment": "Chrome Web Store entry for OnlyChatter Ai OnlyFans Chatbot (pdceogngampkfcpkinjbomipmneamnni)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "33c50f9a-ecc9-5a55-bc63-72b736c7362e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3aa12e03c9b1476ded97fb9bfad19ce65bbaeb46f0e004a2035dfa7e14ccdd41",
+        "comment": "SHA-256 of extension package for OnlyChatter Ai OnlyFans Chatbot (pdceogngampkfcpkinjbomipmneamnni)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "37392b61-6485-5bfd-9fae-f47eace4eef9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ieabdoalggjekajcdmljfnocginlnigb",
+        "comment": "SpongeBob | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-12 | Version: 1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1\""
+          }
+        ]
+      },
+      {
+        "uuid": "5e595dd5-9192-561f-bec4-c6337bf8b3bc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ieabdoalggjekajcdmljfnocginlnigb",
+        "comment": "Chrome Web Store entry for SpongeBob (ieabdoalggjekajcdmljfnocginlnigb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c6c929bd-90e4-519c-9794-fdb70a34fd17",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "aeb766d28d79a5eb0a99def5f42e0b66c426fa73dae5d5dc78fea1bea03f4406",
+        "comment": "SHA-256 of extension package for SpongeBob (ieabdoalggjekajcdmljfnocginlnigb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "50f85fa8-e421-56a3-bf23-36b0b457ceee",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aajenmapppkilbjenpcmcklconfkhfeb",
+        "comment": "Pikachu Pokemon HD Wallpaper New Tab | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "790e3a57-28a9-5024-9308-c126b9e34bdd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aajenmapppkilbjenpcmcklconfkhfeb",
+        "comment": "Chrome Web Store entry for Pikachu Pokemon HD Wallpaper New Tab (aajenmapppkilbjenpcmcklconfkhfeb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fe5ed5a6-e373-5e90-966e-cbf870abe347",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "800edb2fa46b3b8ff42c74ed11cfa85ab41d1ac659f40d761de70dea7863e1ef",
+        "comment": "SHA-256 of extension package for Pikachu Pokemon HD Wallpaper New Tab (aajenmapppkilbjenpcmcklconfkhfeb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "05c6d995-7b25-5ee6-be4c-472591c0df6d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "apbooejngldhlldlfafbcmldhfjljmli",
+        "comment": "Lespoirs AdBlocker Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.17",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.17\""
+          }
+        ]
+      },
+      {
+        "uuid": "f797a5a4-13bf-5ce6-9828-edd9328db305",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/apbooejngldhlldlfafbcmldhfjljmli",
+        "comment": "Chrome Web Store entry for Lespoirs AdBlocker Pro (apbooejngldhlldlfafbcmldhfjljmli)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c9afc2ad-654b-5e0b-a1b8-57a2bbda5d1a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f54640fa571730dbe41a1b64a36cad4a6e98e23cde22f93c1b84aa8115f55aeb",
+        "comment": "SHA-256 of extension package for Lespoirs AdBlocker Pro (apbooejngldhlldlfafbcmldhfjljmli)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "71e9574a-56ed-5a1c-a0c8-9057a1973189",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "phonedblmlbialnkccojioacglknbcnm",
+        "comment": "Spongebob Green Background | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-12 | Version: 1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1\""
+          }
+        ]
+      },
+      {
+        "uuid": "33fe9305-1adb-5c39-85f2-c4e1b4d3f863",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/phonedblmlbialnkccojioacglknbcnm",
+        "comment": "Chrome Web Store entry for Spongebob Green Background (phonedblmlbialnkccojioacglknbcnm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9cc67455-ebe0-5d27-b1db-fe56b741dd1b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "857d069e472a393597ccce2db7816686943cac3ca1c2504d1bf05fc8050a0bdf",
+        "comment": "SHA-256 of extension package for Spongebob Green Background (phonedblmlbialnkccojioacglknbcnm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0ec9b2a3-1489-5b1d-8bec-ab8992957d97",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jgminndiebopjgldccfhclmboalkomgm",
+        "comment": "Top 10 Crypto Tracker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "6d43cd2f-d744-584a-b047-fc15f5772bf4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jgminndiebopjgldccfhclmboalkomgm",
+        "comment": "Chrome Web Store entry for Top 10 Crypto Tracker (jgminndiebopjgldccfhclmboalkomgm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e5c0ab70-7a98-53ad-91cd-df361a81023f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "db679fb31a8a702d146347b525e9eea2bafdfd157b27ef441ac043b399da6a6a",
+        "comment": "SHA-256 of extension package for Top 10 Crypto Tracker (jgminndiebopjgldccfhclmboalkomgm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8130d406-6288-50bb-b4f9-3fd9c8208468",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ighbheamdeedjmmkloopohcieloghjih",
+        "comment": "F Cookie Helper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-12 | Version: 1.4.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "59945bda-d69b-5e88-a282-1cda2d98c9e2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ighbheamdeedjmmkloopohcieloghjih",
+        "comment": "Chrome Web Store entry for F Cookie Helper (ighbheamdeedjmmkloopohcieloghjih)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0531d488-cea5-58b0-9d73-c020792d01e5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0696475bdee3bdf201af84af2b5d3f2a1e36fb0e687c727740cde7574e583b59",
+        "comment": "SHA-256 of extension package for F Cookie Helper (ighbheamdeedjmmkloopohcieloghjih)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c941843f-ffc3-5d04-9f4e-5c0bef710d9b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "onbcplghmndlbejjohokfnlhndndgjgn",
+        "comment": "Spongebob | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-12 | Version: 1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1\""
+          }
+        ]
+      },
+      {
+        "uuid": "8ef81ff2-ef7b-54bc-9504-532a89d5c649",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/onbcplghmndlbejjohokfnlhndndgjgn",
+        "comment": "Chrome Web Store entry for Spongebob (onbcplghmndlbejjohokfnlhndndgjgn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "875568ca-dd0c-55c2-846d-4c17748edf92",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "08a183fe549424ed130fdcd57241f9f4051c8ef913b2c128ecd2aa14ff3b1810",
+        "comment": "SHA-256 of extension package for Spongebob (onbcplghmndlbejjohokfnlhndndgjgn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "65899de7-ea7c-5727-8774-5aba78600e86",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "egdoppiodljlaphamgkoabpdjgdpfpmk",
+        "comment": "Twitch Floating Chat Overlay (7TV Compatible) | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-12 | Version: 1.17.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.17.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "609d7c59-255c-51f4-aefb-baf2da5bd755",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/egdoppiodljlaphamgkoabpdjgdpfpmk",
+        "comment": "Chrome Web Store entry for Twitch Floating Chat Overlay (7TV Compatible) (egdoppiodljlaphamgkoabpdjgdpfpmk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "595a5bb4-0ad8-5f91-b6c9-074fbd18dbe7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8098a5aa217d42a55e11da1f4016dbf233775008697f785b0b8039193750c8bf",
+        "comment": "SHA-256 of extension package for Twitch Floating Chat Overlay (7TV Compatible) (egdoppiodljlaphamgkoabpdjgdpfpmk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "73f8c15a-66d5-5d2e-bb46-7ce52e9751e7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mfjdgnbepflalngepndnldaobnadjakd",
+        "comment": "Pacrat Pac Man | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-11-12 | Version: 1.1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "6d9fc7ca-dafb-5446-98bb-e66cf7d43488",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mfjdgnbepflalngepndnldaobnadjakd",
+        "comment": "Chrome Web Store entry for Pacrat Pac Man (mfjdgnbepflalngepndnldaobnadjakd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "81dc04dd-5e6e-5821-8933-f4aca9b13677",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2915a37997515f0ce3ffa35f15a54659015043511a5487b9cb1b1dbce3d340d2",
+        "comment": "SHA-256 of extension package for Pacrat Pac Man (mfjdgnbepflalngepndnldaobnadjakd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "23ec9c8e-784b-56a4-b8dd-11cbed3b0448",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "llcdennkfbjlikphiafecfphnlaoepco",
+        "comment": "carnival Ducks | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "34f5cc6a-3eee-589a-9df4-58deb799e024",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/llcdennkfbjlikphiafecfphnlaoepco",
+        "comment": "Chrome Web Store entry for carnival Ducks (llcdennkfbjlikphiafecfphnlaoepco)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "093d8c3a-026c-56a8-9966-307ff8fe6234",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a7bf63c07bb9a99ba7d1b255404ee85b703c2d4e27398aa7b7efc0c7651a53af",
+        "comment": "SHA-256 of extension package for carnival Ducks (llcdennkfbjlikphiafecfphnlaoepco)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "870b019a-fd36-5302-8841-dcda4ce76818",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hlnidnjgkdpkofkeigdggkhijhcjiled",
+        "comment": "100 Metres | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "abbb0dd1-91c9-550e-995a-b28775c72c5d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hlnidnjgkdpkofkeigdggkhijhcjiled",
+        "comment": "Chrome Web Store entry for 100 Metres (hlnidnjgkdpkofkeigdggkhijhcjiled)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "76ca9543-b4f0-5a2a-a3c3-0b5b05c93fc2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "775f7cc7086a5518444161ee432ba227dd90f53942f744f9f60637bc5e614e6f",
+        "comment": "SHA-256 of extension package for 100 Metres (hlnidnjgkdpkofkeigdggkhijhcjiled)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9ea286c9-7e9e-5d33-ae46-68afef24bbbf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cnblehjgpoiakhojhjhppokdpfphfood",
+        "comment": "Dream Vacations Tab | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-12 | Version: 3.0.44",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.0.44\""
+          }
+        ]
+      },
+      {
+        "uuid": "4c3b085f-6e82-5a80-b921-cc8c53cb2a13",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cnblehjgpoiakhojhjhppokdpfphfood",
+        "comment": "Chrome Web Store entry for Dream Vacations Tab (cnblehjgpoiakhojhjhppokdpfphfood)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9e524462-f5b4-5b1d-a888-4f115d76c2fa",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8e62bea7e343e9b884bfde415a0dc99e68ff6a12f4d4324ad89bd49ceafae0ec",
+        "comment": "SHA-256 of extension package for Dream Vacations Tab (cnblehjgpoiakhojhjhppokdpfphfood)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "89e40933-d213-536e-b4ab-6a005929d682",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aplckcdlefbijcaocjeeepbagcpckodk",
+        "comment": "SearchFX Animated Backgrounds New Tab | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-12 | Version: 3.0.13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.0.13\""
+          }
+        ]
+      },
+      {
+        "uuid": "2320db91-84e4-5848-9176-98038c0009ce",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aplckcdlefbijcaocjeeepbagcpckodk",
+        "comment": "Chrome Web Store entry for SearchFX Animated Backgrounds New Tab (aplckcdlefbijcaocjeeepbagcpckodk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6c77fab3-86cc-520c-a35d-f5172a26467d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "75eb158abdfd021425d98b41e3d45a58a142a12b350e9bcfbad42f51cd88deec",
+        "comment": "SHA-256 of extension package for SearchFX Animated Backgrounds New Tab (aplckcdlefbijcaocjeeepbagcpckodk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "29f300a9-1f15-5269-b189-7decb95d0598",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fndlcliphgdpknhnaliccgmankbphokp",
+        "comment": "Kratos Dragon Slayer God of War Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "596812bf-7b02-57dd-8d62-004bf3626c66",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fndlcliphgdpknhnaliccgmankbphokp",
+        "comment": "Chrome Web Store entry for Kratos Dragon Slayer God of War Live Wallpaper (fndlcliphgdpknhnaliccgmankbphokp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "68dc3f30-33e6-5eda-8df8-af486841d060",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "349936f43259d5596923c4dbae13328f18ce34ec96028f83ae84a490f6da68c0",
+        "comment": "SHA-256 of extension package for Kratos Dragon Slayer God of War Live Wallpaper (fndlcliphgdpknhnaliccgmankbphokp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "159d4b43-95d5-5a74-a685-5daad7c49e9a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pfkellbobklkkfamhgnnoejebjhgjcec",
+        "comment": "Itachi Uchiha Raven Storm Live Wallpaper New Tab | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.2.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "74447c6e-28d1-5b54-be29-241576b5c0fe",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pfkellbobklkkfamhgnnoejebjhgjcec",
+        "comment": "Chrome Web Store entry for Itachi Uchiha Raven Storm Live Wallpaper New Tab (pfkellbobklkkfamhgnnoejebjhgjcec)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6a74538e-8e61-554b-ac5a-d6f2f6f3bbaf",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "570691800e90efddb75946d907dae5cb2a29f202b76e0f3bb4fb0a131f78c5de",
+        "comment": "SHA-256 of extension package for Itachi Uchiha Raven Storm Live Wallpaper New Tab (pfkellbobklkkfamhgnnoejebjhgjcec)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "673d801c-304f-5145-8742-9516cb51a794",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pfaackafglodjjcogaamhmnedndpndmi",
+        "comment": "CR7 Ronaldo Crimson Storm Live Wallpaper New Tab | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.5.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.5.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "ae41cc30-defc-5d3e-854c-f641a416e730",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pfaackafglodjjcogaamhmnedndpndmi",
+        "comment": "Chrome Web Store entry for CR7 Ronaldo Crimson Storm Live Wallpaper New Tab (pfaackafglodjjcogaamhmnedndpndmi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "65b90ecd-67bd-5dbf-9229-a66231204318",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cc34e77d8efef6e331bd49f122026022e5aceafcd8d3f70c7d549100294cc05a",
+        "comment": "SHA-256 of extension package for CR7 Ronaldo Crimson Storm Live Wallpaper New Tab (pfaackafglodjjcogaamhmnedndpndmi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "20acc947-259f-55ca-9bdc-0ad0d15e590f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "peeipaeapdlfdcfohennjbbpnhbkdfdg",
+        "comment": "Alucard Dark Magic Hellsing Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 14.4.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"14.4.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "c2a21e43-b211-599f-a904-6eb09e887653",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/peeipaeapdlfdcfohennjbbpnhbkdfdg",
+        "comment": "Chrome Web Store entry for Alucard Dark Magic Hellsing Live Wallpaper (peeipaeapdlfdcfohennjbbpnhbkdfdg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5ff3ccc0-f1e5-5ff2-bfd0-8e764dd62e51",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "129a4c2aabfe56b22aa8b431c263d0f5cd40ef03218d406136c09adb334e0dc8",
+        "comment": "SHA-256 of extension package for Alucard Dark Magic Hellsing Live Wallpaper (peeipaeapdlfdcfohennjbbpnhbkdfdg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "297f6d03-cf8a-5aa6-81e1-503402c78d2a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "olkfbnembiieinliojginnfmnkiflnia",
+        "comment": "Toyota Supra MK4 JDM Drift Garage Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 5.4.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"5.4.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "4235cd93-11f3-5940-92fd-b0eb973a2788",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/olkfbnembiieinliojginnfmnkiflnia",
+        "comment": "Chrome Web Store entry for Toyota Supra MK4 JDM Drift Garage Live Wallpaper (olkfbnembiieinliojginnfmnkiflnia)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3176a912-e3ae-5a95-862d-431e3ff16d00",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a683c72e299cae06fc755673c470a8b2faf7706b325056484a10b7d21a99d94c",
+        "comment": "SHA-256 of extension package for Toyota Supra MK4 JDM Drift Garage Live Wallpaper (olkfbnembiieinliojginnfmnkiflnia)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8c21cd55-684d-51db-a3a3-a20347f1a325",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "omjokcfkigdfdjoboboefplpoepnhhbp",
+        "comment": "Lamine Yamal Amazing Skills Live Wallpaper New tab | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 14.4.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"14.4.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "41745ac3-fd8a-50ec-afb3-ea99a9977f19",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/omjokcfkigdfdjoboboefplpoepnhhbp",
+        "comment": "Chrome Web Store entry for Lamine Yamal Amazing Skills Live Wallpaper New tab (omjokcfkigdfdjoboboefplpoepnhhbp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b6d2a152-0046-50ea-a73f-cfd8bf86f255",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "06aa8f8eb5b815c1c33ee42e2a8d03296a9ac64530d5d0b6e53f3829c2b741b2",
+        "comment": "SHA-256 of extension package for Lamine Yamal Amazing Skills Live Wallpaper New tab (omjokcfkigdfdjoboboefplpoepnhhbp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3d31fc79-27e3-5390-abbe-e240d3a60c49",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ohlplnjjaegdjagigcmhioofeobmfima",
+        "comment": "Itachi Uchiha Crimson Eye Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "f6ac0be5-3b38-50c1-8ed4-bb3b8bedaf1c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ohlplnjjaegdjagigcmhioofeobmfima",
+        "comment": "Chrome Web Store entry for Itachi Uchiha Crimson Eye Live Wallpaper (ohlplnjjaegdjagigcmhioofeobmfima)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0b9f9028-eba6-5094-95bb-b58e811e1456",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "afcac5f2dac76065fdc40afe70eb88a8e316f1b976c508fdc0438df2fd255c4e",
+        "comment": "SHA-256 of extension package for Itachi Uchiha Crimson Eye Live Wallpaper (ohlplnjjaegdjagigcmhioofeobmfima)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4821af11-9124-55bf-b4b2-cc72b7567ec9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ohjpnedhbahelaeecnmbdoldeobohpep",
+        "comment": "Obito Uchiha Live Wallpaper New Version Available! | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.5.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.5.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "448e2a5a-0b36-51a7-b4d6-fe7fed61e360",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ohjpnedhbahelaeecnmbdoldeobohpep",
+        "comment": "Chrome Web Store entry for Obito Uchiha Live Wallpaper New Version Available! (ohjpnedhbahelaeecnmbdoldeobohpep)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "590ac319-0cfc-586e-ad18-02e6674c440e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0f12c4603491afa87b5d342a3630e20323eaabd88fbd8967d8984acc63554b07",
+        "comment": "SHA-256 of extension package for Obito Uchiha Live Wallpaper New Version Available! (ohjpnedhbahelaeecnmbdoldeobohpep)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "363662ef-71fe-516f-b84d-9a03f1336760",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ofgalgdjoaphldabjgbmkddopjjakjao",
+        "comment": "Itachi Uchiha Crimson Moon Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.10\""
+          }
+        ]
+      },
+      {
+        "uuid": "f8d66ca1-38e9-598e-852d-1b39f54b1b51",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ofgalgdjoaphldabjgbmkddopjjakjao",
+        "comment": "Chrome Web Store entry for Itachi Uchiha Crimson Moon Live Wallpaper (ofgalgdjoaphldabjgbmkddopjjakjao)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e9ae1ef4-ce3c-58ef-a81b-a6c3571d50aa",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6d75b8229e2bf1389814d9a271443c97e7c3f8a1659eb4cc0d70bdcca80e7e4c",
+        "comment": "SHA-256 of extension package for Itachi Uchiha Crimson Moon Live Wallpaper (ofgalgdjoaphldabjgbmkddopjjakjao)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "39ff23b8-c86c-547b-809a-062f203e5759",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odniiflhhjighdfhphacimgdigoacnfd",
+        "comment": "Satoru Gojou Jujutsu Kaisen Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.1.12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.12\""
+          }
+        ]
+      },
+      {
+        "uuid": "64f8ce99-fac6-51e2-92ec-0cc55a6d00e7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/odniiflhhjighdfhphacimgdigoacnfd",
+        "comment": "Chrome Web Store entry for Satoru Gojou Jujutsu Kaisen Live Wallpaper (odniiflhhjighdfhphacimgdigoacnfd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bbf20af0-704b-50d1-8ff2-127db227deab",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6963888d054d17557bf1f2852ea9d41aaaebf2239599c7b1165f54fbba80bc51",
+        "comment": "SHA-256 of extension package for Satoru Gojou Jujutsu Kaisen Live Wallpaper (odniiflhhjighdfhphacimgdigoacnfd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4648d3f6-660c-534a-868c-cd2ff4cfc7c4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odbplincgakajcfgkpcngbkemodjhldn",
+        "comment": "Bmw M4 | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.1.10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.10\""
+          }
+        ]
+      },
+      {
+        "uuid": "497d0660-973a-5216-a1f6-2cac4d77a02a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/odbplincgakajcfgkpcngbkemodjhldn",
+        "comment": "Chrome Web Store entry for Bmw M4 (odbplincgakajcfgkpcngbkemodjhldn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9a3ee41b-0c3b-5709-b143-22b4ea1a1800",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f4006afc1aecba702396c973d333b4e0b47d18b89cae86a85a635a5a1542029d",
+        "comment": "SHA-256 of extension package for Bmw M4 (odbplincgakajcfgkpcngbkemodjhldn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f0f24dc0-205b-5f00-9e60-8e7a2f6e185b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nnngbpoiablebkoabnfaeoikmhchmnpd",
+        "comment": "Dark muscle car with glowing pink neon wheels | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.9",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.9\""
+          }
+        ]
+      },
+      {
+        "uuid": "fba3550a-3de9-56cb-b4bb-93adda0072ee",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nnngbpoiablebkoabnfaeoikmhchmnpd",
+        "comment": "Chrome Web Store entry for Dark muscle car with glowing pink neon wheels (nnngbpoiablebkoabnfaeoikmhchmnpd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "82aac3a1-be21-540a-a869-51bd54daa109",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5c2e11a79be8ac15131c0cdec2a4e37e1fe80e0afc612f8ba90ca8a619aaa11b",
+        "comment": "SHA-256 of extension package for Dark muscle car with glowing pink neon wheels (nnngbpoiablebkoabnfaeoikmhchmnpd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1cb8368a-1ecc-5222-8f4b-ca8a974bde24",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "njlmelkjpgepbbpkoplflecmokkdcpgm",
+        "comment": "Spiderman | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.1.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "68597e70-2292-5101-bfda-f6df403f261f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/njlmelkjpgepbbpkoplflecmokkdcpgm",
+        "comment": "Chrome Web Store entry for Spiderman (njlmelkjpgepbbpkoplflecmokkdcpgm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c67f6382-4e4d-5b89-a83a-9278506a53af",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0a91dccec8d45c81603985b2dac7f78e0c35ffe5556281340c7a395a1ba6bc4b",
+        "comment": "SHA-256 of extension package for Spiderman (njlmelkjpgepbbpkoplflecmokkdcpgm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3d876800-c095-58f5-ba73-f76db9967d71",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nfhdddijoojciohkiahfkcpdgjhjnlci",
+        "comment": "One Piece Zoro Green Night Drive Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.10\""
+          }
+        ]
+      },
+      {
+        "uuid": "a8f034a3-bccc-542c-ac01-f94854c2e34f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nfhdddijoojciohkiahfkcpdgjhjnlci",
+        "comment": "Chrome Web Store entry for One Piece Zoro Green Night Drive Live Wallpaper (nfhdddijoojciohkiahfkcpdgjhjnlci)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "da70b2e2-e4ad-5288-8d50-4f13302cdb2c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "814fa1655ac790821bc67d826d71cd5ab6ef846b683061f069793a7c461c9d46",
+        "comment": "SHA-256 of extension package for One Piece Zoro Green Night Drive Live Wallpaper (nfhdddijoojciohkiahfkcpdgjhjnlci)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9f685678-4049-5ea3-b6ed-f70c0232f256",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nclglhcgihikehejnchlgmgjhdcecefn",
+        "comment": "God of War Kratos Dragon Fury Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "e937a6a0-9fdf-5f2c-a064-c8f41170b56b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nclglhcgihikehejnchlgmgjhdcecefn",
+        "comment": "Chrome Web Store entry for God of War Kratos Dragon Fury Live Wallpaper (nclglhcgihikehejnchlgmgjhdcecefn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d0e77384-1344-5716-8f8a-c61dda955370",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f9681fd44d1cd138b9cd50b05081af22eeb020fab3624b18c2921fd4248d5e62",
+        "comment": "SHA-256 of extension package for God of War Kratos Dragon Fury Live Wallpaper (nclglhcgihikehejnchlgmgjhdcecefn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "55f63b8b-8e65-51cc-b8b5-7e353d80610b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nbnjcbdopobmhoglhnfbcgolhncajcfg",
+        "comment": "Red-Eyed Anime Girl Winking | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.14\""
+          }
+        ]
+      },
+      {
+        "uuid": "2b81ef93-b22f-530e-8302-6f598666a0e8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nbnjcbdopobmhoglhnfbcgolhncajcfg",
+        "comment": "Chrome Web Store entry for Red-Eyed Anime Girl Winking (nbnjcbdopobmhoglhnfbcgolhncajcfg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "29b5dd8a-ac0b-5adf-8d0c-3dbb3edaab9c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "18861762b6e1bdaaacd0773db98f6af0de606087c4a3a233fce6527d7bb39330",
+        "comment": "SHA-256 of extension package for Red-Eyed Anime Girl Winking (nbnjcbdopobmhoglhnfbcgolhncajcfg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6e272800-15a1-5910-bab9-50d9c1fd751d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mfohllnmhlcmaecjlfhlkjageocabaci",
+        "comment": "Cristiano Ronaldo CR7 : Mesmerizing Stance Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "f81db0ec-39e8-56b6-b48d-e9a8502b9b30",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mfohllnmhlcmaecjlfhlkjageocabaci",
+        "comment": "Chrome Web Store entry for Cristiano Ronaldo CR7 : Mesmerizing Stance Live Wallpaper (mfohllnmhlcmaecjlfhlkjageocabaci)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8187babc-ca64-5dec-bbde-d39c076fcde0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7749e0dedb78f2ca036266d2f9175f5d75ac9f39d9570b7d3a31191fc02fe113",
+        "comment": "SHA-256 of extension package for Cristiano Ronaldo CR7 : Mesmerizing Stance Live Wallpaper (mfohllnmhlcmaecjlfhlkjageocabaci)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d73b1ab2-c2b1-5add-bda7-e1a3f1855d78",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "midhipdjmaajjfmjieoedpcdjnjohhnn",
+        "comment": "Michael Jackson Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 16.16.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"16.16.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "6e26bb85-e868-5ddf-9d96-4a88b4a8d2e7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/midhipdjmaajjfmjieoedpcdjnjohhnn",
+        "comment": "Chrome Web Store entry for Michael Jackson Live Wallpaper (midhipdjmaajjfmjieoedpcdjnjohhnn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "90543d97-e952-5359-83bb-c4eaa9c2fadc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9add5592f2358938df47dcf980b08006b1a7804f94a94aba1df4f1bf6bfa2b1f",
+        "comment": "SHA-256 of extension package for Michael Jackson Live Wallpaper (midhipdjmaajjfmjieoedpcdjnjohhnn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ba34e6d2-b2bc-5a7e-9d6e-452341627a3b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lmmfgfmhdongnhokjkcgncokepekkaeo",
+        "comment": "Naruto playing guitar in the cafe | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.9",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.9\""
+          }
+        ]
+      },
+      {
+        "uuid": "90c9613f-990c-5e1d-a516-7dbe0c742bc5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lmmfgfmhdongnhokjkcgncokepekkaeo",
+        "comment": "Chrome Web Store entry for Naruto playing guitar in the cafe (lmmfgfmhdongnhokjkcgncokepekkaeo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "da8c6521-ae54-537c-9197-aaa923ba66d9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "aa6b1f3f583ef29f07c0df81ab1069ad8c54be42308386c4002a82872220b28d",
+        "comment": "SHA-256 of extension package for Naruto playing guitar in the cafe (lmmfgfmhdongnhokjkcgncokepekkaeo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9fc0c60e-1e67-5b84-874b-7afdc18ad647",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "llplckedkpcinnlmnmffcojnblloadfh",
+        "comment": "Silent Warrior \u2694\ufe0f | Anime Girl Eyes Edit | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.1.12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.12\""
+          }
+        ]
+      },
+      {
+        "uuid": "9cf1dc48-6aed-5865-be5b-9cc0df20d8be",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/llplckedkpcinnlmnmffcojnblloadfh",
+        "comment": "Chrome Web Store entry for Silent Warrior \u2694\ufe0f | Anime Girl Eyes Edit (llplckedkpcinnlmnmffcojnblloadfh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "27faa573-83b8-5884-913d-0466091e8059",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2df438944fd84ea1af21c0ead1a9c768aa3eb2a0d720cf73b83f3f4028c677ed",
+        "comment": "SHA-256 of extension package for Silent Warrior \u2694\ufe0f | Anime Girl Eyes Edit (llplckedkpcinnlmnmffcojnblloadfh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e1c7613a-0984-50e4-9e0d-b1e73325e0b6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lmbgpfgbcoopgedcoiekgifhhagallkh",
+        "comment": "Cristiano Ronaldo CR7 Iconic Gaze with Red Backdrop Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "410d741d-f495-55fa-ae7b-92f1e82d5f7f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lmbgpfgbcoopgedcoiekgifhhagallkh",
+        "comment": "Chrome Web Store entry for Cristiano Ronaldo CR7 Iconic Gaze with Red Backdrop Live Wallpaper (lmbgpfgbcoopgedcoiekgifhhagallkh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "89aade96-efb2-5a7b-872e-17b876dd3db8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "858304dc13146b8e1ca40a0c9fcb9233dfe89c34bb4a22be5f512ae90968ebf5",
+        "comment": "SHA-256 of extension package for Cristiano Ronaldo CR7 Iconic Gaze with Red Backdrop Live Wallpaper (lmbgpfgbcoopgedcoiekgifhhagallkh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8758b9b6-b82c-57cc-a55c-24deeee366d0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lleenoilpbnecndpckdcoebeehkgdmik",
+        "comment": "BMW M4 Blue Drift Live Wallpaper New Tab | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.5.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.5.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "44b2ace7-51ff-5d22-8ea7-900e38945334",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lleenoilpbnecndpckdcoebeehkgdmik",
+        "comment": "Chrome Web Store entry for BMW M4 Blue Drift Live Wallpaper New Tab (lleenoilpbnecndpckdcoebeehkgdmik)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a42a073e-0881-548a-a169-190f916826cf",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6578cd11227771f66d585f6b7cde581cf958da6dafd27f42a127f80769d91a01",
+        "comment": "SHA-256 of extension package for BMW M4 Blue Drift Live Wallpaper New Tab (lleenoilpbnecndpckdcoebeehkgdmik)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1f50bee7-86c2-511c-a914-718bf2e2819c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lffhpcbbghljnnfmgbiomdmhebplcjbi",
+        "comment": "The Thing VS Hulk Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 14.4.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"14.4.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "8cfed411-cbe4-5dd4-af37-e9b0cf7ef8a6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lffhpcbbghljnnfmgbiomdmhebplcjbi",
+        "comment": "Chrome Web Store entry for The Thing VS Hulk Live Wallpaper (lffhpcbbghljnnfmgbiomdmhebplcjbi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c66b3eb4-a107-5344-a301-3040f5f85f01",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2965e95272fc8b1630d3720594539cc26f4354b2d8e7e69f4f517b3389c68303",
+        "comment": "SHA-256 of extension package for The Thing VS Hulk Live Wallpaper (lffhpcbbghljnnfmgbiomdmhebplcjbi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d78f1e0b-db54-50d9-9656-a37e2192c1fd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lfhaoaplepcgbpkofdnhhdlclpfmkelb",
+        "comment": "Blood Moon Bloodborne Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 14.4.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"14.4.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "946b8389-f87b-56c3-8244-793e18995ef9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lfhaoaplepcgbpkofdnhhdlclpfmkelb",
+        "comment": "Chrome Web Store entry for Blood Moon Bloodborne Live Wallpaper (lfhaoaplepcgbpkofdnhhdlclpfmkelb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "def1d664-705c-520f-b40a-52117457ffb7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9edc8036e05938f5901ddf5a18f00bc5136bc8ef6615537ea56d69bf1ba9a671",
+        "comment": "SHA-256 of extension package for Blood Moon Bloodborne Live Wallpaper (lfhaoaplepcgbpkofdnhhdlclpfmkelb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "740d7b81-2bfa-5210-bdb9-5d9e2d1fa2b6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kpaaciicelcbmidjemepbmomgkmffoki",
+        "comment": "Nissan and Supra JDM Street Racers Live Wallpaper New Tab | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.4.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "683a0d0d-d0f1-5024-9338-66eca775e850",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kpaaciicelcbmidjemepbmomgkmffoki",
+        "comment": "Chrome Web Store entry for Nissan and Supra JDM Street Racers Live Wallpaper New Tab (kpaaciicelcbmidjemepbmomgkmffoki)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "acd9b223-7c48-52ae-a229-edc739ab1a5e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "49024567cf3ef4c7574646355b1dc088dd392241ae186da8429be20e9517810d",
+        "comment": "SHA-256 of extension package for Nissan and Supra JDM Street Racers Live Wallpaper New Tab (kpaaciicelcbmidjemepbmomgkmffoki)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b5519546-a509-5c98-a98f-3d265f31238c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "knkopdlkgcfaaloipobbglmkikhaknpc",
+        "comment": "Jujutsu Kaisen Gojo Nike Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 14.4.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"14.4.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "a9c80ba4-862b-5379-b74b-38eeda717934",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/knkopdlkgcfaaloipobbglmkikhaknpc",
+        "comment": "Chrome Web Store entry for Jujutsu Kaisen Gojo Nike Live Wallpaper (knkopdlkgcfaaloipobbglmkikhaknpc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "14a34580-b04d-58f5-ac50-94d69f63de96",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fcf5f32e7eaa56784ece0335a60cb2ceac79602e72b9af4b4628c25528485ca7",
+        "comment": "SHA-256 of extension package for Jujutsu Kaisen Gojo Nike Live Wallpaper (knkopdlkgcfaaloipobbglmkikhaknpc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "42d57fd2-630c-5fd5-b378-921274884f85",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kbjcemehaffcmnneieadhpljpkgmeacg",
+        "comment": "Japanese Night Lake \u2013 Red Moon, Pagoda & Falling Maple Leaves | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "d92ab5f9-546a-58b4-95ba-23eca3959b24",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kbjcemehaffcmnneieadhpljpkgmeacg",
+        "comment": "Chrome Web Store entry for Japanese Night Lake \u2013 Red Moon, Pagoda & Falling Maple Leaves (kbjcemehaffcmnneieadhpljpkgmeacg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "aac5a31e-24ae-5404-aa73-da73ab6e3422",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7afa8c0ec20bdd0d1d68b4f8ccfb3b5c7dbd4112e147edc98f11392c19875805",
+        "comment": "SHA-256 of extension package for Japanese Night Lake \u2013 Red Moon, Pagoda & Falling Maple Leaves (kbjcemehaffcmnneieadhpljpkgmeacg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3e6e4bb1-dd33-5b15-811f-cbfc255458a2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kdiipllpfmgocjjeejlghnbiaknkpkmi",
+        "comment": "Abstract Fast Moving Relaxing Sci-fi Light Tunnel | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "6347f213-5e5c-58dd-92d0-e2ad3cc44bcc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kdiipllpfmgocjjeejlghnbiaknkpkmi",
+        "comment": "Chrome Web Store entry for Abstract Fast Moving Relaxing Sci-fi Light Tunnel (kdiipllpfmgocjjeejlghnbiaknkpkmi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8a7b0395-5900-5e3f-be29-7beeae6f9ed4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d9a376d08afb573fcce8276d0f3d86057694bb83cd40f875f17720ee15c4d8a1",
+        "comment": "SHA-256 of extension package for Abstract Fast Moving Relaxing Sci-fi Light Tunnel (kdiipllpfmgocjjeejlghnbiaknkpkmi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "86365dd9-360d-581f-bbe0-3ec5a56669cb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kbddbcefkigpcohcpoehibbmfloljflp",
+        "comment": "Ferrari vision | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.15\""
+          }
+        ]
+      },
+      {
+        "uuid": "b235231c-2426-5cbc-b5e4-83e480904f75",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kbddbcefkigpcohcpoehibbmfloljflp",
+        "comment": "Chrome Web Store entry for Ferrari vision (kbddbcefkigpcohcpoehibbmfloljflp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9e8a879d-003d-5089-9746-dbb9bc8d45a4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7439e9b6d6f0135276b8c06da26c611e7b0c71c68a3d1380f36b225bead04fd6",
+        "comment": "SHA-256 of extension package for Ferrari vision (kbddbcefkigpcohcpoehibbmfloljflp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8c82b90e-1306-5cbc-9d70-54e2974b0824",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kappflooimlddfaickanoimmjpfafbad",
+        "comment": "One Piece anime Nami Queen Night Drive Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.15\""
+          }
+        ]
+      },
+      {
+        "uuid": "558ed5fc-13e5-5576-a35a-bdd58297224f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kappflooimlddfaickanoimmjpfafbad",
+        "comment": "Chrome Web Store entry for One Piece anime Nami Queen Night Drive Live Wallpaper (kappflooimlddfaickanoimmjpfafbad)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ca3e3194-ec98-5cfa-b4fb-2429e1f9f312",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "65efaf9e3cfaeeae54b5c15a23a823d82ac3cbc26eb2f1a601ebb1fcffde138a",
+        "comment": "SHA-256 of extension package for One Piece anime Nami Queen Night Drive Live Wallpaper (kappflooimlddfaickanoimmjpfafbad)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9318cfe3-2990-535a-a7ed-8e6de282743f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jhkmcckfboiaeoondenihgnoaellokdi",
+        "comment": "Nissan r34 in the neon japan city at rainy night | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.15\""
+          }
+        ]
+      },
+      {
+        "uuid": "d99a1c3e-24b0-5eb0-b065-619d14f8c68f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jhkmcckfboiaeoondenihgnoaellokdi",
+        "comment": "Chrome Web Store entry for Nissan r34 in the neon japan city at rainy night (jhkmcckfboiaeoondenihgnoaellokdi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d6361f3e-e74d-5d77-b806-91d6c7e843d9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1567118394eb37dd08f2a87365955adbc46960f694165239862828daa74ebe9b",
+        "comment": "SHA-256 of extension package for Nissan r34 in the neon japan city at rainy night (jhkmcckfboiaeoondenihgnoaellokdi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8916bd0a-6b7c-59d8-b509-d92023570d93",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jgloibidhdpkpobaojmeafddaaakdieb",
+        "comment": "One Piece Luffy King of Pirates Night Drive Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2fbe8ae-830d-59ac-84da-8da6891b5de8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jgloibidhdpkpobaojmeafddaaakdieb",
+        "comment": "Chrome Web Store entry for One Piece Luffy King of Pirates Night Drive Live Wallpaper (jgloibidhdpkpobaojmeafddaaakdieb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6d19e6fb-fe51-5589-af38-f3ac4d4b9159",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7dd91b472867e28e2a095bcf8367d140ebd9c4ade1daafe7988b4bf3381489a6",
+        "comment": "SHA-256 of extension package for One Piece Luffy King of Pirates Night Drive Live Wallpaper (jgloibidhdpkpobaojmeafddaaakdieb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "93e3077b-cf3a-5f41-906b-0cb40ae0d2fd",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "imjikjkbimjoombmhdhmenmhcpnibmdk",
+        "comment": "Michael Jackson Spotlight Live Wallpaper New Tab | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.4.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "1330cdb1-f622-5b80-91c8-38bbbeabccf4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/imjikjkbimjoombmhdhmenmhcpnibmdk",
+        "comment": "Chrome Web Store entry for Michael Jackson Spotlight Live Wallpaper New Tab (imjikjkbimjoombmhdhmenmhcpnibmdk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "65676d7c-dc44-5399-b4f0-1311b0fc78b4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a370fcb7af591a2d8f73202bbd2f849d07982a000cd4100df5cc5d3f703462dc",
+        "comment": "SHA-256 of extension package for Michael Jackson Spotlight Live Wallpaper New Tab (imjikjkbimjoombmhdhmenmhcpnibmdk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "82091051-bcbd-5e84-a5f3-a54cd5087df2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iledfdbchnibnjkcfekiibbcgagncklg",
+        "comment": "Satoru Gojo Jujutsu Kaisen 3D Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 16.16.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"16.16.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "83d242df-fdb0-53f1-bf01-a32c4034cbe3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iledfdbchnibnjkcfekiibbcgagncklg",
+        "comment": "Chrome Web Store entry for Satoru Gojo Jujutsu Kaisen 3D Live Wallpaper (iledfdbchnibnjkcfekiibbcgagncklg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a3f5130c-c3ad-5318-864e-9fa75236fb07",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5b0c3dcecb408a8346fd311e15eb101d5dd9d765e0de41a898eb55e8ce8f88c8",
+        "comment": "SHA-256 of extension package for Satoru Gojo Jujutsu Kaisen 3D Live Wallpaper (iledfdbchnibnjkcfekiibbcgagncklg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d8057926-809d-5f68-b1ca-c7d827510507",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ildlljiieebcmeciijmfgcjedigednch",
+        "comment": "Jake Listening Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 14.4.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"14.4.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "1a12e246-999d-5178-b625-b1e3da084fea",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ildlljiieebcmeciijmfgcjedigednch",
+        "comment": "Chrome Web Store entry for Jake Listening Live Wallpaper (ildlljiieebcmeciijmfgcjedigednch)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1325a5fd-53f4-5892-8add-fdf2b1b8b81c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d0034c6a754918363264da45a4a06d3c2305b015fe759ac4120fb70056cb418e",
+        "comment": "SHA-256 of extension package for Jake Listening Live Wallpaper (ildlljiieebcmeciijmfgcjedigednch)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "64e4420e-16d4-50a3-b47d-db7ca2475f1a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ijcplamlohemlhleebiembpninbkofbf",
+        "comment": "Michael Jackson Moonlight Show Live Wallpaper New Tab | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.2.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "7d66452d-dc57-5b9d-ba26-e6c8476c5b28",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ijcplamlohemlhleebiembpninbkofbf",
+        "comment": "Chrome Web Store entry for Michael Jackson Moonlight Show Live Wallpaper New Tab (ijcplamlohemlhleebiembpninbkofbf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4b090910-ea29-520b-a07b-eacf568c7d7f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1ef10a359bdb3b4c2325fadc9e938928fec47b156e7e29f2899bd84d9f8f74de",
+        "comment": "SHA-256 of extension package for Michael Jackson Moonlight Show Live Wallpaper New Tab (ijcplamlohemlhleebiembpninbkofbf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "502a5423-018e-587d-a059-5041304c2a10",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ihngnhgflifbljpcgclaodidfimegjmo",
+        "comment": "Luffy Supra JDM Underground Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "eae5ca0d-79be-598d-b0cf-56f6eb572655",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ihngnhgflifbljpcgclaodidfimegjmo",
+        "comment": "Chrome Web Store entry for Luffy Supra JDM Underground Live Wallpaper (ihngnhgflifbljpcgclaodidfimegjmo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4ab34959-77c2-5512-a621-9f92fc511ff8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1245b7f5bfd1d4c6fa12b33dce44adff47db1c0cfee2917226f7d28cbad4827b",
+        "comment": "SHA-256 of extension package for Luffy Supra JDM Underground Live Wallpaper (ihngnhgflifbljpcgclaodidfimegjmo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8d9df067-85b5-5e14-bef0-f95938bf5b23",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ianalinjgmfnjajecbnpolmdppbhdnfg",
+        "comment": "McLaren P1 Night Rain Car Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 14.4.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"14.4.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "3f697c01-12d8-597a-97b6-47d51403ca15",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ianalinjgmfnjajecbnpolmdppbhdnfg",
+        "comment": "Chrome Web Store entry for McLaren P1 Night Rain Car Live Wallpaper (ianalinjgmfnjajecbnpolmdppbhdnfg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "70c9a037-395b-513a-941c-4bc26c45b4d9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "76ecb8fe2f727096883508324ff205b81e58c4c20cd75e0da4e19935435372bf",
+        "comment": "SHA-256 of extension package for McLaren P1 Night Rain Car Live Wallpaper (ianalinjgmfnjajecbnpolmdppbhdnfg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "61b0b8b0-9697-5221-9135-17a1f94cc109",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hokcncelajkoiibhblechpaadjkkgkho",
+        "comment": "Itachi Uchiha | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.12\""
+          }
+        ]
+      },
+      {
+        "uuid": "0142bb8d-606d-5d2f-8fb5-c2db9f9f662c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hokcncelajkoiibhblechpaadjkkgkho",
+        "comment": "Chrome Web Store entry for Itachi Uchiha (hokcncelajkoiibhblechpaadjkkgkho)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b333f7d2-9485-5b57-a6ad-f26c617bd445",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a1d2dbc6f9374a755e3269f4695044bcc58a18e411b9348e2b979b36d00b7842",
+        "comment": "SHA-256 of extension package for Itachi Uchiha (hokcncelajkoiibhblechpaadjkkgkho)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "86c8a9bf-da1c-5592-b818-5db949d2beb3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hkehammfmolkneepgpiagbphppdjmdlp",
+        "comment": "Ocean wave loop | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.1.7",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.7\""
+          }
+        ]
+      },
+      {
+        "uuid": "2726235c-a238-5360-86f4-ef94ccaeebf8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hkehammfmolkneepgpiagbphppdjmdlp",
+        "comment": "Chrome Web Store entry for Ocean wave loop (hkehammfmolkneepgpiagbphppdjmdlp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "de5bbd41-8375-5f7f-8ef6-c7ff14ca93d6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c60f323a6c27cb0db48962728df4a28495ac3c7bbd9ae97275cdba67264b7fd8",
+        "comment": "SHA-256 of extension package for Ocean wave loop (hkehammfmolkneepgpiagbphppdjmdlp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f1a9bb50-7094-5793-80dc-ed46f116fc85",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hcjhlalgfnbfhkfbgcnbjehbjjcjemnk",
+        "comment": "Itachi and Sasuke Uchiha Crimson Legacy Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.15\""
+          }
+        ]
+      },
+      {
+        "uuid": "fa56d862-2777-512c-85ca-4887856f652e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hcjhlalgfnbfhkfbgcnbjehbjjcjemnk",
+        "comment": "Chrome Web Store entry for Itachi and Sasuke Uchiha Crimson Legacy Live Wallpaper (hcjhlalgfnbfhkfbgcnbjehbjjcjemnk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9e5df42a-5e41-510f-aa0d-ba964e1f37f9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ad334d4ef5599a25fd073adb773d0876e47c146a761aa50df47c3b3e61612539",
+        "comment": "SHA-256 of extension package for Itachi and Sasuke Uchiha Crimson Legacy Live Wallpaper (hcjhlalgfnbfhkfbgcnbjehbjjcjemnk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "de88f8f6-73b8-5c12-8949-db43a2832285",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gmkppallnbphmbdclglkagfhpmcnhojd",
+        "comment": "Revenge in Her Eyes | Anime Red Eye Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.1.12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.12\""
+          }
+        ]
+      },
+      {
+        "uuid": "66e8adf1-c9ae-53b3-8e6e-98434243446f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gmkppallnbphmbdclglkagfhpmcnhojd",
+        "comment": "Chrome Web Store entry for Revenge in Her Eyes | Anime Red Eye Live Wallpaper (gmkppallnbphmbdclglkagfhpmcnhojd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "408995e3-161e-59ec-af32-4cb89f5065f5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "82a6d7e767386bd9de31246fe97a9b540c230fee147ac1e3a90e0c43c4dda64a",
+        "comment": "SHA-256 of extension package for Revenge in Her Eyes | Anime Red Eye Live Wallpaper (gmkppallnbphmbdclglkagfhpmcnhojd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "da5c1632-8e3a-55af-98e6-8abe024d3681",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gllinbmjikeefbohofhmgoajnkjgbmgk",
+        "comment": "Beautiful anime girl | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.12",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.12\""
+          }
+        ]
+      },
+      {
+        "uuid": "34d43640-22a1-5c37-bd4b-2d999b0fbd06",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gllinbmjikeefbohofhmgoajnkjgbmgk",
+        "comment": "Chrome Web Store entry for Beautiful anime girl (gllinbmjikeefbohofhmgoajnkjgbmgk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ccb0066c-a99a-52aa-bbe5-b345a641981f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4dc751220eb472d2e0ad327bb6c09ae91fef5d0559f35e58a23d57f234f87d78",
+        "comment": "SHA-256 of extension package for Beautiful anime girl (gllinbmjikeefbohofhmgoajnkjgbmgk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "421b6b10-35e1-50c2-8222-667f0fe2dd19",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ffblbdabcacjbhhaidbijmnacomgcakg",
+        "comment": "Michael Jackson Eternal Melody Live Wallpaper New Tab | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.4.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2089cf4-4837-5242-a443-7416c6a234b0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ffblbdabcacjbhhaidbijmnacomgcakg",
+        "comment": "Chrome Web Store entry for Michael Jackson Eternal Melody Live Wallpaper New Tab (ffblbdabcacjbhhaidbijmnacomgcakg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1e39c727-1ce2-51d9-baff-e571251134fe",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "07c969249939301cf3dba1bde7f502bb5e7992922c0078f361c04c24f6becc04",
+        "comment": "SHA-256 of extension package for Michael Jackson Eternal Melody Live Wallpaper New Tab (ffblbdabcacjbhhaidbijmnacomgcakg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7caa3818-e3e7-506e-a4d7-17331fb31c73",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eoicdjionkpfckneahmpkmmjeeohiohb",
+        "comment": "Cristiano ronaldo | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.7",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.7\""
+          }
+        ]
+      },
+      {
+        "uuid": "320c1a63-5ffc-5863-8321-bf6a7a1ba874",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eoicdjionkpfckneahmpkmmjeeohiohb",
+        "comment": "Chrome Web Store entry for Cristiano ronaldo (eoicdjionkpfckneahmpkmmjeeohiohb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "71318f49-a4c9-5027-88d2-c681ce3bf11f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c37d836c9aac8d19b3f4cb82017ef9a107541f24b80af651c643ee0daa40dbf4",
+        "comment": "SHA-256 of extension package for Cristiano ronaldo (eoicdjionkpfckneahmpkmmjeeohiohb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d8079b6a-6440-5f14-9893-a4ec96b06e3a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eijecjmnakppmkfnlhegjepnbkaiaoje",
+        "comment": "Anime ninja 4k | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "a5a57314-dad2-5ad9-b602-2f3383a7ad32",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eijecjmnakppmkfnlhegjepnbkaiaoje",
+        "comment": "Chrome Web Store entry for Anime ninja 4k (eijecjmnakppmkfnlhegjepnbkaiaoje)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "753f77e3-fba8-59f0-ba7c-740cd5027ea2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "21240ac5176f637156f010c1f52428e592604ce2e7dbe7ef22aaba049f08bc5a",
+        "comment": "SHA-256 of extension package for Anime ninja 4k (eijecjmnakppmkfnlhegjepnbkaiaoje)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7f11eb80-8cfc-5a03-82a8-be2ce64a21d6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "clailejneniabpdmondnibgcfibbchcd",
+        "comment": "CR7 Ronaldo GOAT Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "cb36e250-4599-53f9-8d7c-de1fb8385b79",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/clailejneniabpdmondnibgcfibbchcd",
+        "comment": "Chrome Web Store entry for CR7 Ronaldo GOAT Live Wallpaper (clailejneniabpdmondnibgcfibbchcd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2a0226e8-9994-51da-95f0-5354a7759a52",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a19c70c5f3610688ab79e1928af865e94eba187eb0bd134a3e0ed6f4a6e6c615",
+        "comment": "SHA-256 of extension package for CR7 Ronaldo GOAT Live Wallpaper (clailejneniabpdmondnibgcfibbchcd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a53ab716-e48d-5f34-ba68-88db13812faf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "djiogfflignbilmleiobidkncdbiimcf",
+        "comment": "Glowing Heart Eyes Anime Aesthetic | 1 Hour Live Wallpaper Loop | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "b3c9c602-5058-5ece-8934-225f143b1d8c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/djiogfflignbilmleiobidkncdbiimcf",
+        "comment": "Chrome Web Store entry for Glowing Heart Eyes Anime Aesthetic | 1 Hour Live Wallpaper Loop (djiogfflignbilmleiobidkncdbiimcf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4f9b4386-566a-56dc-8b72-6e397719cd49",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c4841e94d0613b688cbd43a7bb1bccdb0888f4913e11e768bbcf4f15529d4a12",
+        "comment": "SHA-256 of extension package for Glowing Heart Eyes Anime Aesthetic | 1 Hour Live Wallpaper Loop (djiogfflignbilmleiobidkncdbiimcf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5310526c-3cd0-5552-bead-aec47690dd28",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "djacogoplmcjckmidmkpdoefeaagkpni",
+        "comment": "Lamine Yamal Skill Show Live Wallpaper New Tab | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 5.4.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"5.4.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "2d530b81-2455-50ca-9663-fca27d86d373",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/djacogoplmcjckmidmkpdoefeaagkpni",
+        "comment": "Chrome Web Store entry for Lamine Yamal Skill Show Live Wallpaper New Tab (djacogoplmcjckmidmkpdoefeaagkpni)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0dd46f28-d170-5737-bf1d-483441c8bbe2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "16f8865112a3474f5239bd842e68bf87592a78398b61b06887126e04c41d6a8f",
+        "comment": "SHA-256 of extension package for Lamine Yamal Skill Show Live Wallpaper New Tab (djacogoplmcjckmidmkpdoefeaagkpni)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e4c8f968-0d1b-53af-b885-391e1a4f5f57",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "chfjkpiegaaekehojmlpgkcfbodeifin",
+        "comment": "Fire Fist Ace One Piece Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 14.4.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"14.4.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "ffa5efe1-5d99-5947-8168-c5ca2fc5bd96",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/chfjkpiegaaekehojmlpgkcfbodeifin",
+        "comment": "Chrome Web Store entry for Fire Fist Ace One Piece Live Wallpaper (chfjkpiegaaekehojmlpgkcfbodeifin)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "78f2fd9e-6560-5f4c-bc3e-b2fa75e88bcc",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4e6abb8434c1d19c049fe17687e07e70fe95042441dfc156d0f597bd83ee8ec0",
+        "comment": "SHA-256 of extension package for Fire Fist Ace One Piece Live Wallpaper (chfjkpiegaaekehojmlpgkcfbodeifin)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "da589a56-be97-51e3-9453-f07b094a45d9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cgmpgbcogapglnbjebbcfdplnmcldgma",
+        "comment": "Michael Jackson Red Jacket Live Wallpaper New Tab | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.2.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "9422d758-edd4-5ab9-adb2-71511644f0b4",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cgmpgbcogapglnbjebbcfdplnmcldgma",
+        "comment": "Chrome Web Store entry for Michael Jackson Red Jacket Live Wallpaper New Tab (cgmpgbcogapglnbjebbcfdplnmcldgma)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f9abfcd9-fedc-5cab-a823-9573869d7d90",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c7203b5b36cceee426055cb98531008804b89125ea48b47d36f6faed1d71aeee",
+        "comment": "SHA-256 of extension package for Michael Jackson Red Jacket Live Wallpaper New Tab (cgmpgbcogapglnbjebbcfdplnmcldgma)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9912ea51-e2d5-59e4-b9d9-593571a0be02",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bmneoelfempkcdbgdmhikcnncgiiekoj",
+        "comment": "Obito Uchiha Tobi Akatsuki Moonlit Legend Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "bbdc1e21-6681-5a3b-8d36-6857e0da3d4c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bmneoelfempkcdbgdmhikcnncgiiekoj",
+        "comment": "Chrome Web Store entry for Obito Uchiha Tobi Akatsuki Moonlit Legend Live Wallpaper (bmneoelfempkcdbgdmhikcnncgiiekoj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a4c366fb-5a43-5632-b8ac-01e6f61e9878",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ead311600e0083fa9a361b59b60dd1f75cba0a782e0cd3c59639340ec6a01ef3",
+        "comment": "SHA-256 of extension package for Obito Uchiha Tobi Akatsuki Moonlit Legend Live Wallpaper (bmneoelfempkcdbgdmhikcnncgiiekoj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2af2ff04-f134-5c29-8480-56fff4f2d929",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bicmfckpienjddifeecokopgkeojigkf",
+        "comment": "Goku Power Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 14.4.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"14.4.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "5ed6ce71-72be-59ab-bc97-3736a0270ae1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bicmfckpienjddifeecokopgkeojigkf",
+        "comment": "Chrome Web Store entry for Goku Power Live Wallpaper (bicmfckpienjddifeecokopgkeojigkf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "17805a54-1554-5c55-97dc-6250c5bc3eec",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f5a4ffe5015ce1c1f3690b564afbc23c0c5d51d7da4c90d84dad3a549ec5dd7e",
+        "comment": "SHA-256 of extension package for Goku Power Live Wallpaper (bicmfckpienjddifeecokopgkeojigkf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ac84220f-448b-5b0e-8c71-e9dfa9885af4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bmjddlekhncelcgbbomohamjnjdaaelk",
+        "comment": "Hearts in her eyes live wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.10\""
+          }
+        ]
+      },
+      {
+        "uuid": "79d50b60-7448-5359-a0b1-701dfcb5c93f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bmjddlekhncelcgbbomohamjnjdaaelk",
+        "comment": "Chrome Web Store entry for Hearts in her eyes live wallpaper (bmjddlekhncelcgbbomohamjnjdaaelk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7a8a178d-4de3-5b19-9d7c-5d48bef047d8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "23dfb9f65d7ac259253070f28d5669cfe9ef8b67634b15d807610c1184423c94",
+        "comment": "SHA-256 of extension package for Hearts in her eyes live wallpaper (bmjddlekhncelcgbbomohamjnjdaaelk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d2aa6c16-fffd-55ec-a799-4d72218a78b3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "blpmmdndbpoepclldlgoeaemadmpkedo",
+        "comment": "Anime Girl With Ruby Eyes Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 4.4.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.4.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "ece0976d-a35c-5f9e-8103-40db13416132",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/blpmmdndbpoepclldlgoeaemadmpkedo",
+        "comment": "Chrome Web Store entry for Anime Girl With Ruby Eyes Live Wallpaper (blpmmdndbpoepclldlgoeaemadmpkedo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9746f154-d7f4-5c33-b6f5-149815ccb64d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "67d9292f4ded763708ff65d99e6b3bce3c035d542e96bd16d7c923363bccbf6b",
+        "comment": "SHA-256 of extension package for Anime Girl With Ruby Eyes Live Wallpaper (blpmmdndbpoepclldlgoeaemadmpkedo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "78edc316-f4ab-55a5-b816-fbfecb095c66",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bicbdgbnplgdadhmmndknojplncnngca",
+        "comment": "Monkey D. Luffy Live Wallpaper New version | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 14.5.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"14.5.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "dc95c0da-dc2a-50f9-88fe-6348315455db",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bicbdgbnplgdadhmmndknojplncnngca",
+        "comment": "Chrome Web Store entry for Monkey D. Luffy Live Wallpaper New version (bicbdgbnplgdadhmmndknojplncnngca)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ef9b5147-9446-5c4c-8e4f-8714a457fbef",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5cbf208f7a936d737bfdff61175ff432d7753f3b358033a4b5748c9776a0dc94",
+        "comment": "SHA-256 of extension package for Monkey D. Luffy Live Wallpaper New version (bicbdgbnplgdadhmmndknojplncnngca)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3355ebcd-ae8a-563b-89e7-14f4d802db30",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aplpfigdaplgnflapmommfenabedpngd",
+        "comment": "Blue Galaxy Stars & Nebulae | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 1.0.10",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.10\""
+          }
+        ]
+      },
+      {
+        "uuid": "31589504-cf55-5a7d-a99c-9841ce13e32f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aplpfigdaplgnflapmommfenabedpngd",
+        "comment": "Chrome Web Store entry for Blue Galaxy Stars & Nebulae (aplpfigdaplgnflapmommfenabedpngd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2ef7d9b5-387c-5276-86c3-b1fa1a1bee12",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9f50ff95214c75cc2cc310bb51c32e3c91c29df051b9e10cafd3640d234f7bdc",
+        "comment": "SHA-256 of extension package for Blue Galaxy Stars & Nebulae (aplpfigdaplgnflapmommfenabedpngd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ec1d4503-81ad-526f-afba-84b5b2300579",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ainfilkpdgiafebomaoljijlobbcapak",
+        "comment": "BMW M4 Neon Rain Night Drift Live Wallpaper | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 4.4.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.4.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "5eb72717-cce3-50ef-bf79-7c5a1b4a5fe1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ainfilkpdgiafebomaoljijlobbcapak",
+        "comment": "Chrome Web Store entry for BMW M4 Neon Rain Night Drift Live Wallpaper (ainfilkpdgiafebomaoljijlobbcapak)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2594826d-63a4-5ddf-a0b9-b02686be922a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "569b51621ccbec5b70f9bb8f2e831e77b31fe08c3c2fbb91103c4e4c34ed8cd1",
+        "comment": "SHA-256 of extension package for BMW M4 Neon Rain Night Drift Live Wallpaper (ainfilkpdgiafebomaoljijlobbcapak)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "e0887c3c-0c4b-52c0-8d34-970c9eb68285",
         "type": "text",
