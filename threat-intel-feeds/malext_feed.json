@@ -1,12 +1,292 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-10T12:56:08Z",
+  "generated": "2026-11-12T09:59:39Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8342,
+  "total_indicators": 8376,
   "indicators": [
+    {
+      "extension_id": "peeagnchlnjkmjiofbkhdfbidmmblial",
+      "name": "Comment Exporter For YouTube",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/peeagnchlnjkmjiofbkhdfbidmmblial",
+      "sha256": "f30675e8295e2677f982e1c205dd38a5673ea98a8eefbbc6eaba4682771667a7",
+      "version": "2.3.1"
+    },
+    {
+      "extension_id": "odpnelndaffkgecjcjggjendamgddcbf",
+      "name": "Subscription Importer & Exporter For YouTube",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/odpnelndaffkgecjcjggjendamgddcbf",
+      "sha256": "d17fbb8b4791e73c6fefda5d90116d62389819e34b1971e4d78e9444c6ca514d",
+      "version": "2.1.0"
+    },
+    {
+      "extension_id": "jngiaeilaibchnedhdkaplbejbjaldgj",
+      "name": "Remove Youtube Comments",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/jngiaeilaibchnedhdkaplbejbjaldgj",
+      "sha256": "07b1202f221c22608f39f55b576394fa273bfc28c5b36cd218675b1712090e9e",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "okjbdlhlmhegngpljeponjpnbimehcnl",
+      "name": "YouTube One-Click Unsubscribe",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/okjbdlhlmhegngpljeponjpnbimehcnl",
+      "sha256": "07b5dc9e5ce902ff3f7028aab016665749d8a06e3947f07b0ff7422f3fc172cb",
+      "version": "1.1.1"
+    },
+    {
+      "extension_id": "gledjohoemfdpmdilpjdgnpdilcpabjp",
+      "name": "IG Automatic Deleter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/gledjohoemfdpmdilpjdgnpdilcpabjp",
+      "sha256": "f58a3e0c5ff9a94a0274f1786c9ce991ab341c5b6b2bed330c8527540489b286",
+      "version": "1.3.1"
+    },
+    {
+      "extension_id": "niagephikdcljbdflalomdapdkbcibgp",
+      "name": "Shopify Product Helper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/niagephikdcljbdflalomdapdkbcibgp",
+      "sha256": "9ecf99dd7832f897cb41bb29e584a5d048f3c0730ded4538257e2fe8e026524c",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "llajocjcmgfdjoiebnfdlmdjgjilomfi",
+      "name": "YouTube Comment Translate",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/llajocjcmgfdjoiebnfdlmdjgjilomfi",
+      "sha256": "3d04a70a58ab08a5a25fcd68b362fabc9dfcd38b52c1076a4816cce08432ca01",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "fnoflfldjocefjoieidilfmeingdopak",
+      "name": "Shopify Scraper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/fnoflfldjocefjoieidilfmeingdopak",
+      "sha256": "8ce68656e9ce92219271f4720bc42e2ff040b6979b4be02dd2fa66f250644e6a",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "ghenkckinoppeihkdglahglbjpjeiabn",
+      "name": "Finder For Polymarket",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/ghenkckinoppeihkdglahglbjpjeiabn",
+      "sha256": "e73769ae2da25189d94683f55397389c3c207dab9705c1901913d93005dfd6b2",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "egonokioegiafaipggedmjigimbggdkp",
+      "name": "Zillow Data Exporter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/egonokioegiafaipggedmjigimbggdkp",
+      "sha256": "5fd22d2a2fc82ee57c3d9bf075d927a0707361efdfe5e56d1f8da9b23b16e207",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "jiamlhjammgddilodbjgnmhapphpmhah",
+      "name": "Meeting Translator Englis",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/jiamlhjammgddilodbjgnmhapphpmhah",
+      "sha256": "7666402d804c22a6be2775d7226b4dec7fe2c608407c610756cb41e928d2ee5a",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "cnonalncbigedpgjllghbffeldgojjhh",
+      "name": "Gmail Reverse Conversatio",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/cnonalncbigedpgjllghbffeldgojjhh",
+      "sha256": "f789dbccfe3dd5d06fd6d731c2fe249bf04dc934ef806c23e38103cbdde815c4",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "daolcfdkdljnbenhgfnbljimnbgfcinb",
+      "name": "Playlist Importer & Exporter For YouTube",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/daolcfdkdljnbenhgfnbljimnbgfcinb",
+      "sha256": "dce251310ee6b8799dd9a2cd1aaa1be7aebe9d6014839bf6d94834d35b3084b1",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "fdgnkokilinpplfjkogpmomlfedjlfif",
+      "name": "YouTube  Reply Comment Bot",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/fdgnkokilinpplfjkogpmomlfedjlfif",
+      "sha256": "b9e602e0bcbd898c47bf4370781ed65b32d56270765eefe6de5e99e0891893fc",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "pojlllopfeanboablfclledlaiddejjk",
+      "name": "Twitter/X Comments Exporter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/pojlllopfeanboablfclledlaiddejjk",
+      "sha256": "50fdf723c45d96dc524638b051b92a7259aaa74be1da20c49a034424c57d69c1",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "jcpgohpjhhiiikheebiapdjlgkfngdef",
+      "name": "YouTube Playlist Importer & Exporter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/jcpgohpjhhiiikheebiapdjlgkfngdef",
+      "sha256": "13df4b24fc16ce1669058c300477b90f8d6229e9a8c762a0d85562bf11e3331f",
+      "version": "2.3"
+    },
+    {
+      "extension_id": "fnfhnfmicianjbjenlpbaiijplmnifkj",
+      "name": "Auto Enable Google Meet Recording For Calendar",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/fnfhnfmicianjbjenlpbaiijplmnifkj",
+      "sha256": "1ed8badd495e3e053f4f594030676bb486d52d63bba43cf264c1706936ce47f2",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "pmdbjdeeeieeoadabppajokhhdbgmfdm",
+      "name": "Gmail Send Checklist",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/pmdbjdeeeieeoadabppajokhhdbgmfdm",
+      "sha256": "41be9ef8c50700892483e193f557196b1cf542840a2e7cf91bac4a16ca126e47",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "niofpgmiddncgambnbglobfnedeocjdo",
+      "name": "Karmaboost Ai Right Click",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/niofpgmiddncgambnbglobfnedeocjdo",
+      "sha256": "90e2096653b4724a3e00e558a06ac2796638f0cce25ba74ae5d93062618391c5",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "cponilahialflijpefoenboklgollncl",
+      "name": "YouTube Subscriptions Importer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/cponilahialflijpefoenboklgollncl",
+      "sha256": "c31c3c3c5b69704be049e058dcf387964a19ff2529189239c068611aa01e6a75",
+      "version": "1.5.2"
+    },
+    {
+      "extension_id": "ggadndiidpoekblpobgffhhlnodfohki",
+      "name": "YouTube Comment Exporter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/ggadndiidpoekblpobgffhhlnodfohki",
+      "sha256": "f364afc2b13be955f18561cdaf70d30e1d6dd0239d2e64973bba51bd55c3f9c2",
+      "version": "1.1.0"
+    },
+    {
+      "extension_id": "nhehnkabaaiodcfdgdnpcadfmiooneko",
+      "name": "YouTube Unsubscriber",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/nhehnkabaaiodcfdgdnpcadfmiooneko",
+      "sha256": "4b6b82359b1fe2547e37cc2ada50ed0c118c700bb13c127f0fbbbdadd0c06861",
+      "version": "1.3.2"
+    },
+    {
+      "extension_id": "alajjjplbmdlonnijbenanmnlpbhpjfk",
+      "name": "YouTube Channels to CSV",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/alajjjplbmdlonnijbenanmnlpbhpjfk",
+      "sha256": "96e93926f236ed48dcda97e0b1f6198916175ffd1c88ef4a2ab708af18e9cb70",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "eongpbpbkjeabkahcjbfljdnncfghaia",
+      "name": "Youtube Email Scraper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/eongpbpbkjeabkahcjbfljdnncfghaia",
+      "sha256": "49af1376da79e582203626a1f04b3d8a485ae37342930925a0164a139b90d87c",
+      "version": "3.0"
+    },
+    {
+      "extension_id": "jkkkoecmbbbaaeaaboghdclfeemeahgd",
+      "name": "Media Downloader for X (Twitter)",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/jkkkoecmbbbaaeaaboghdclfeemeahgd",
+      "sha256": "57e5a572dd40e3b767a6fa0e6c299acdb0973aea12f05153005ea401673a3b1d",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "oiilaaphieifhplbipljfkiklelpfbad",
+      "name": "YouTube Windowed FullScreen Pro",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/oiilaaphieifhplbipljfkiklelpfbad",
+      "sha256": "1fdcae8414d40ed0e3ae57079dd832fc94261ca11a6882de0e51ee8180af4ef6",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "pnhdlhabpckpibnkkddmgcimdejbljge",
+      "name": "Github 404 Breakdown",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/pnhdlhabpckpibnkkddmgcimdejbljge",
+      "sha256": "894ead0a6769f8035172f3c7575ffda6d23d6929d9844f5bc92669e85c8f1461",
+      "version": "3.2"
+    },
+    {
+      "extension_id": "dohpcgojkmkhijejcdggdelackhfoead",
+      "name": "YouTube Subscription Importer & Exporter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/dohpcgojkmkhijejcdggdelackhfoead",
+      "sha256": "cf12bcca8a2b5ce0cae2bf92ef13b2a64c542591e4999625ff4f5ef086f8925d",
+      "version": "1.1.0"
+    },
     {
       "extension_id": "faiddjeamoijkhnhhfgikahaldeakpke",
       "name": "The Elder Scrolls V: Skyrim \u2013 Dragonborn The",
@@ -5618,6 +5898,56 @@
       "version": "1.0.1"
     },
     {
+      "extension_id": "ndbiekgckmjfcdmekbkdmoioohdjfhmg",
+      "name": "Claude AI Prompt Manager",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/ndbiekgckmjfcdmekbkdmoioohdjfhmg",
+      "sha256": "d41d333a7fe4e31ce95d49480be6b61b3ba0e600478cb8d2a3c2fd173797e8bb",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "icijpbhieinkgbbjigheefojikmblada",
+      "name": "Depression: SpongeBob & Gary (Live Wallpaper)",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/icijpbhieinkgbbjigheefojikmblada",
+      "sha256": "a64c91c8d18c9114bc7f612531edef63214710f082f1803dcc18b9bab3b0412e",
+      "version": "1.1"
+    },
+    {
+      "extension_id": "bobgdfmbagalnnkhdnanlmkhhkkiogao",
+      "name": "Naruto x Spongebob Cosplay",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/bobgdfmbagalnnkhdnanlmkhhkkiogao",
+      "sha256": "a711be8e9956bdf368b2fdbb1e3c26a991f9ea21b334b6ba2d201557a5371778",
+      "version": "1"
+    },
+    {
+      "extension_id": "bgmeohmemlmabcpcjiekjjpjfldpbgnl",
+      "name": "Azimuts Roleplay AI",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/bgmeohmemlmabcpcjiekjjpjfldpbgnl",
+      "sha256": "860ccaf0c4827b55735fbe037ce7f97b60679b436ec876dd093186b3f4a9b21b",
+      "version": "1.1"
+    },
+    {
+      "extension_id": "ccdooaopgkfbikbdiekinfheklhbemcd",
+      "name": "Namso Validator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/ccdooaopgkfbikbdiekinfheklhbemcd",
+      "sha256": "61f070fbb4ca8c6ac3b5de170fe5e5409109f1aefd55bcabdff8848bb5546c4d",
+      "version": "1.1.8"
+    },
+    {
       "extension_id": "ipdgkagebehoppgikabcmneoagcpkkho",
       "name": "Commentra \u2014 YouTube Comment Analyser",
       "source": "Store Monitoring",
@@ -5985,6 +6315,16 @@
       "insert_date": "2026-10-18",
       "store_url": "https://chromewebstore.google.com/detail/nmpilknjfdfdfhdhdnllfngbknpdgpfh",
       "sha256": "50f684695c7867d2af0961e331c03de27cf26db951df3022d89ce450f8fb9a3b",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "nijjbnmnifhocfkppoeicpcoigldmpko",
+      "name": "ClaudeTrack - Claude Token Counter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/nijjbnmnifhocfkppoeicpcoigldmpko",
+      "sha256": "a637dcf30e48a36b11eb56d8487ea1ed391b900a92f4cb181e9de1f3bafeb9c4",
       "version": "1.0.0"
     },
     {
