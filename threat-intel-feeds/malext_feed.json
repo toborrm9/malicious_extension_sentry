@@ -1,12 +1,22 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-12T11:10:50Z",
+  "generated": "2026-11-12T18:20:18Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8377,
+  "total_indicators": 8378,
   "indicators": [
+    {
+      "extension_id": "enppghjcblldgigemljohkgpcompnjgh",
+      "name": "McAfee\u00ae Secure Search",
+      "source": "",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-12",
+      "store_url": "https://chromewebstore.google.com/detail/enppghjcblldgigemljohkgpcompnjgh",
+      "sha256": "c8294ace1b15882ad715ede02db7b324e71d9f641c296606f97f221ff44d40db",
+      "version": "4.1.0.207"
+    },
     {
       "extension_id": "mbidcmlcbgbphpoacojjbmfpohcimjji",
       "name": "Falcon C2",
