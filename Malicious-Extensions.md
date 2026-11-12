@@ -1,5 +1,79 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hhbnkmfjfcjalnpgfhcfjflkicelkeij | Qaski Cryptovault | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| magebmdnbpocjpahdfmhnlnlkiiipjnd | Brass Orrery | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
+| pdceogngampkfcpkinjbomipmneamnni | OnlyChatter Ai OnlyFans Chatbot | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
+| ieabdoalggjekajcdmljfnocginlnigb | SpongeBob | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
+| aajenmapppkilbjenpcmcklconfkhfeb | Pikachu Pokemon HD Wallpaper New Tab | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
+| apbooejngldhlldlfafbcmldhfjljmli | Lespoirs AdBlocker Pro | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
+| phonedblmlbialnkccojioacglknbcnm | Spongebob Green Background | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
+| jgminndiebopjgldccfhclmboalkomgm | Top 10 Crypto Tracker | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
+| ighbheamdeedjmmkloopohcieloghjih | F Cookie Helper | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
+| onbcplghmndlbejjohokfnlhndndgjgn | Spongebob | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
+| egdoppiodljlaphamgkoabpdjgdpfpmk | Twitch Floating Chat Overlay (7TV Compatible) | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
+| mfjdgnbepflalngepndnldaobnadjakd | Pacrat Pac Man | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 12/11/26 | No | Google Chrome
+| llcdennkfbjlikphiafecfphnlaoepco | carnival Ducks | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 12/11/26 | No | Google Chrome
+| hlnidnjgkdpkofkeigdggkhijhcjiled | 100 Metres | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 12/11/26 | No | Google Chrome
+| cnblehjgpoiakhojhjhppokdpfphfood | Dream Vacations Tab | Search Hijacking | MalExt Analysis | 12/11/26 | No | Google Chrome
+| aplckcdlefbijcaocjeeepbagcpckodk | SearchFX Animated Backgrounds New Tab | Search Hijacking | MalExt Analysis | 12/11/26 | No | Google Chrome
+| fndlcliphgdpknhnaliccgmankbphokp | Kratos Dragon Slayer God of War Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| pfkellbobklkkfamhgnnoejebjhgjcec | Itachi Uchiha Raven Storm Live Wallpaper New Tab | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| pfaackafglodjjcogaamhmnedndpndmi | CR7 Ronaldo Crimson Storm Live Wallpaper New Tab | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| peeipaeapdlfdcfohennjbbpnhbkdfdg | Alucard Dark Magic Hellsing Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| olkfbnembiieinliojginnfmnkiflnia | Toyota Supra MK4 JDM Drift Garage Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| omjokcfkigdfdjoboboefplpoepnhhbp | Lamine Yamal Amazing Skills Live Wallpaper New tab | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| ohlplnjjaegdjagigcmhioofeobmfima | Itachi Uchiha Crimson Eye Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| ohjpnedhbahelaeecnmbdoldeobohpep | Obito Uchiha Live Wallpaper New Version Available! | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| ofgalgdjoaphldabjgbmkddopjjakjao | Itachi Uchiha Crimson Moon Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| odniiflhhjighdfhphacimgdigoacnfd | Satoru Gojou Jujutsu Kaisen Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| odbplincgakajcfgkpcngbkemodjhldn | Bmw M4 | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| nnngbpoiablebkoabnfaeoikmhchmnpd | Dark muscle car with glowing pink neon wheels | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| njlmelkjpgepbbpkoplflecmokkdcpgm | Spiderman | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| nfhdddijoojciohkiahfkcpdgjhjnlci | One Piece Zoro Green Night Drive Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| nclglhcgihikehejnchlgmgjhdcecefn | God of War Kratos Dragon Fury Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| nbnjcbdopobmhoglhnfbcgolhncajcfg | Red-Eyed Anime Girl Winking | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| mfohllnmhlcmaecjlfhlkjageocabaci | Cristiano Ronaldo CR7 : Mesmerizing Stance Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| midhipdjmaajjfmjieoedpcdjnjohhnn | Michael Jackson Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| lmmfgfmhdongnhokjkcgncokepekkaeo | Naruto playing guitar in the cafe | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| llplckedkpcinnlmnmffcojnblloadfh | Silent Warrior ⚔️ \| Anime Girl Eyes Edit | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| lmbgpfgbcoopgedcoiekgifhhagallkh | Cristiano Ronaldo CR7 Iconic Gaze with Red Backdrop Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| lleenoilpbnecndpckdcoebeehkgdmik | BMW M4 Blue Drift Live Wallpaper New Tab | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| lffhpcbbghljnnfmgbiomdmhebplcjbi | The Thing VS Hulk Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| lfhaoaplepcgbpkofdnhhdlclpfmkelb | Blood Moon Bloodborne Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| kpaaciicelcbmidjemepbmomgkmffoki | Nissan and Supra JDM Street Racers Live Wallpaper New Tab | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| knkopdlkgcfaaloipobbglmkikhaknpc | Jujutsu Kaisen Gojo Nike Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| kbjcemehaffcmnneieadhpljpkgmeacg | Japanese Night Lake – Red Moon, Pagoda & Falling Maple Leaves | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| kdiipllpfmgocjjeejlghnbiaknkpkmi | Abstract Fast Moving Relaxing Sci-fi Light Tunnel | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| kbddbcefkigpcohcpoehibbmfloljflp | Ferrari vision | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| kappflooimlddfaickanoimmjpfafbad | One Piece anime Nami Queen Night Drive Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| jhkmcckfboiaeoondenihgnoaellokdi | Nissan r34 in the neon japan city at rainy night | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| jgloibidhdpkpobaojmeafddaaakdieb | One Piece Luffy King of Pirates Night Drive Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| imjikjkbimjoombmhdhmenmhcpnibmdk | Michael Jackson Spotlight Live Wallpaper New Tab | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| iledfdbchnibnjkcfekiibbcgagncklg | Satoru Gojo Jujutsu Kaisen 3D Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| ildlljiieebcmeciijmfgcjedigednch | Jake Listening Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| ijcplamlohemlhleebiembpninbkofbf | Michael Jackson Moonlight Show Live Wallpaper New Tab | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| ihngnhgflifbljpcgclaodidfimegjmo | Luffy Supra JDM Underground Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| ianalinjgmfnjajecbnpolmdppbhdnfg | McLaren P1 Night Rain Car Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| hokcncelajkoiibhblechpaadjkkgkho | Itachi Uchiha | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| hkehammfmolkneepgpiagbphppdjmdlp | Ocean wave loop | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| hcjhlalgfnbfhkfbgcnbjehbjjcjemnk | Itachi and Sasuke Uchiha Crimson Legacy Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| gmkppallnbphmbdclglkagfhpmcnhojd | Revenge in Her Eyes \| Anime Red Eye Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| gllinbmjikeefbohofhmgoajnkjgbmgk | Beautiful anime girl | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| ffblbdabcacjbhhaidbijmnacomgcakg | Michael Jackson Eternal Melody Live Wallpaper New Tab | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| eoicdjionkpfckneahmpkmmjeeohiohb | Cristiano ronaldo | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| eijecjmnakppmkfnlhegjepnbkaiaoje | Anime ninja 4k | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| clailejneniabpdmondnibgcfibbchcd | CR7 Ronaldo GOAT Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| djiogfflignbilmleiobidkncdbiimcf | Glowing Heart Eyes Anime Aesthetic \| 1 Hour Live Wallpaper Loop | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| djacogoplmcjckmidmkpdoefeaagkpni | Lamine Yamal Skill Show Live Wallpaper New Tab | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| chfjkpiegaaekehojmlpgkcfbodeifin | Fire Fist Ace One Piece Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| cgmpgbcogapglnbjebbcfdplnmcldgma | Michael Jackson Red Jacket Live Wallpaper New Tab | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| bmneoelfempkcdbgdmhikcnncgiiekoj | Obito Uchiha Tobi Akatsuki Moonlit Legend Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| bicmfckpienjddifeecokopgkeojigkf | Goku Power Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| bmjddlekhncelcgbbomohamjnjdaaelk | Hearts in her eyes live wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| blpmmdndbpoepclldlgoeaemadmpkedo | Anime Girl With Ruby Eyes Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| bicbdgbnplgdadhmmndknojplncnngca | Monkey D. Luffy Live Wallpaper New version | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| aplpfigdaplgnflapmommfenabedpngd | Blue Galaxy Stars & Nebulae | Search Hijacking |  | 12/11/26 | No | Google Chrome
+| ainfilkpdgiafebomaoljijlobbcapak | BMW M4 Neon Rain Night Drift Live Wallpaper | Search Hijacking |  | 12/11/26 | No | Google Chrome
 | enppghjcblldgigemljohkgpcompnjgh | McAfee® Secure Search | Search Hijacking |  | 12/11/26 | No | Google Chrome
 | mbidcmlcbgbphpoacojjbmfpohcimjji | Falcon C2 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/) | 12/11/26 | No | Sideloaded
 | peeagnchlnjkmjiofbkhdfbidmmblial | Comment Exporter For YouTube | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
