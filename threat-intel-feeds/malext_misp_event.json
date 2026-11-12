@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-11-12",
-    "timestamp": "1794481851",
+    "timestamp": "1794507620",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,52 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "e0887c3c-0c4b-52c0-8d34-970c9eb68285",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "enppghjcblldgigemljohkgpcompnjgh",
+        "comment": "McAfee\u00ae Secure Search | Source:  | Store: Google Chrome | Added: 2026-11-12 | Version: 4.1.0.207",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.1.0.207\""
+          }
+        ]
+      },
+      {
+        "uuid": "d273482e-d4a8-5395-a178-07b5a74d5cf1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/enppghjcblldgigemljohkgpcompnjgh",
+        "comment": "Chrome Web Store entry for McAfee\u00ae Secure Search (enppghjcblldgigemljohkgpcompnjgh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2814bd56-c5b8-5640-b9d3-8adf1e1260bd",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c8294ace1b15882ad715ede02db7b324e71d9f641c296606f97f221ff44d40db",
+        "comment": "SHA-256 of extension package for McAfee\u00ae Secure Search (enppghjcblldgigemljohkgpcompnjgh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "8afbb10f-46b1-5e4b-bb7a-e46817adfeba",
         "type": "text",
