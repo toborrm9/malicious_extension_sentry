@@ -1,5 +1,33 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| peeagnchlnjkmjiofbkhdfbidmmblial | Comment Exporter For YouTube | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| odpnelndaffkgecjcjggjendamgddcbf | Subscription Importer & Exporter For YouTube | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| jngiaeilaibchnedhdkaplbejbjaldgj | Remove Youtube Comments | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| okjbdlhlmhegngpljeponjpnbimehcnl | YouTube One-Click Unsubscribe | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| gledjohoemfdpmdilpjdgnpdilcpabjp | IG Automatic Deleter | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| niagephikdcljbdflalomdapdkbcibgp | Shopify Product Helper | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| llajocjcmgfdjoiebnfdlmdjgjilomfi | YouTube Comment Translate | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| fnoflfldjocefjoieidilfmeingdopak | Shopify Scraper | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| ghenkckinoppeihkdglahglbjpjeiabn | Finder For Polymarket | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| egonokioegiafaipggedmjigimbggdkp | Zillow Data Exporter | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| jiamlhjammgddilodbjgnmhapphpmhah | Meeting Translator Englis | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| cnonalncbigedpgjllghbffeldgojjhh | Gmail Reverse Conversatio | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| daolcfdkdljnbenhgfnbljimnbgfcinb | Playlist Importer & Exporter For YouTube | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| fdgnkokilinpplfjkogpmomlfedjlfif | YouTube  Reply Comment Bot | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| pojlllopfeanboablfclledlaiddejjk | Twitter/X Comments Exporter | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| jcpgohpjhhiiikheebiapdjlgkfngdef | YouTube Playlist Importer & Exporter | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| fnfhnfmicianjbjenlpbaiijplmnifkj | Auto Enable Google Meet Recording For Calendar | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| pmdbjdeeeieeoadabppajokhhdbgmfdm | Gmail Send Checklist | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| niofpgmiddncgambnbglobfnedeocjdo | Karmaboost Ai Right Click | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| cponilahialflijpefoenboklgollncl | YouTube Subscriptions Importer | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| ggadndiidpoekblpobgffhhlnodfohki | YouTube Comment Exporter | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| nhehnkabaaiodcfdgdnpcadfmiooneko | YouTube Unsubscriber | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| alajjjplbmdlonnijbenanmnlpbhpjfk | YouTube Channels to CSV | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| eongpbpbkjeabkahcjbfljdnncfghaia | Youtube Email Scraper | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| jkkkoecmbbbaaeaaboghdclfeemeahgd | Media Downloader for X (Twitter) | Malware | Store Monitoring | 12/11/26 | No | Google Chrome
+| oiilaaphieifhplbipljfkiklelpfbad | YouTube Windowed FullScreen Pro | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
+| pnhdlhabpckpibnkkddmgcimdejbljge | Github 404 Breakdown | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
+| dohpcgojkmkhijejcdggdelackhfoead | YouTube Subscription Importer & Exporter | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
 | faiddjeamoijkhnhhfgikahaldeakpke | The Elder Scrolls V: Skyrim – Dragonborn The | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
 | eamopfoibpamjobhpahlkkfnknhpendb | Doom Navigator | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
 | ioigkhgefneinlgdahhpddckbpofpnfi | Skyrim: Book of the Dragonborn Theme | Policy Violation | Store Monitoring | 10/11/26 | No | Google Chrome
@@ -561,6 +589,11 @@
 | njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| ndbiekgckmjfcdmekbkdmoioohdjfhmg | Claude AI Prompt Manager | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| icijpbhieinkgbbjigheefojikmblada | Depression: SpongeBob & Gary (Live Wallpaper) | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| bobgdfmbagalnnkhdnanlmkhhkkiogao | Naruto x Spongebob Cosplay | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| bgmeohmemlmabcpcjiekjjpjfldpbgnl | Azimuts Roleplay AI | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| ccdooaopgkfbikbdiekinfheklhbemcd | Namso Validator | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ipdgkagebehoppgikabcmneoagcpkkho | Commentra — YouTube Comment Analyser | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ekaaghdhjjpjngpcepdkcmbolgglfoja | Vercel 中文翻译 | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ofidpikgkhcdbdioecnlmhgclilbnpop | SUI Price Ticker | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
@@ -598,6 +631,7 @@
 | njoajiajcpfbaclllemflffnhchblnem | Nomination Crm | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | eaddpginckbggngfiipmjigfdfgfplef | Gerar Chave de Conexão do WhatsApp | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | nmpilknjfdfdfhdhdnllfngbknpdgpfh | Odin Chat Passkey | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| nijjbnmnifhocfkppoeicpcoigldmpko | ClaudeTrack - Claude Token Counter | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | hlnhppidljljneadggeghgllegflkoop | AO3 Enhancer - Auto Tracker, Dark Mode & Reader Replacer | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | cobepgcbdgkeigjeiliegihddhoeldmb | Car drawing Game Ad-FreeGames | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | ngpapmbnbnnlpdamichmbfiiidghflhl | Everything Gray | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
