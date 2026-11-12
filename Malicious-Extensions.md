@@ -1,5 +1,6 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| mbidcmlcbgbphpoacojjbmfpohcimjji | Falcon C2 | Malware | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/) | 12/11/26 | No | Sideloaded
 | peeagnchlnjkmjiofbkhdfbidmmblial | Comment Exporter For YouTube | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
 | odpnelndaffkgecjcjggjendamgddcbf | Subscription Importer & Exporter For YouTube | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
 | jngiaeilaibchnedhdkaplbejbjaldgj | Remove Youtube Comments | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
