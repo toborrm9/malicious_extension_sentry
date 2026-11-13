@@ -163,7 +163,6 @@
 | ialmbfdolfbfddhhbpcpfajahojgbglh | Search On Site | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
 | lhnigoiaandckjjombcanjoemeblmljb | Super Search | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
 | fnhmeghaldogkojfjcedfnhnegbnnkfg | SearchTuner | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
-| acgnlhjcipkagocfggidelbghodlddmm | Shimmer Tab for Helium | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
 | kajaheopdpmejeeghdkdpgoolgfijdpi | Helium New Tab | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
 | idecdfifnaphlciminbkonceoehafmif | Veterank - Search Engine for Veterans | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
 | heghgippljloofaiihdabipljakkklne | MyMusicFind | Search Hijacking | MalExt Analysis | 06/11/26 | No | Google Chrome
