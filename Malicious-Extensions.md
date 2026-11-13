@@ -1,5 +1,26 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| jhollgipbpobkcnldpllmainihodoghf | Modo Oscuro Personal | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| bflambifdghdbllgjllaaaajaeidcpai | Mis Notas Rápidas | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| kihjkmgegadoiebmeljfkllenidhlgek | Protector de Huella Digital | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| odaimjhicjanbcjdlnknadealhegcnmj | Bloqueador JS de Anuncios Selectivo | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| fhecniplnfcpmkkdggnggcekfnmpkfmp | Noticias De Cripto | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| abjdpbbfojmgfkadgianlikfkgpcjocc | YouTube Timestamp & Chapters Exporter | Policy Violation | Store Monitoring | 13/11/26 | No | Google Chrome
+| agfecbgadckkieahbmhnigabnfcokpmb | Snake Colorido Avanzado | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| inihhnnhigllgdagpfaojmgdpbcihabh | Generador de QR | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| fablknppbijhjicedhdhacnhpnejgdhe | SpyCommerce – Product Research Exporter | Policy Violation | Store Monitoring | 13/11/26 | No | Google Chrome
+| pnhkjdfkcpanklllkbinmkoiodedcgkj | Reproductor De Audio | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| endhghkkdigafjokponifjolkgclcijj | Mi Bloqueador Web | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| jgjoafaahennpahgaaebhnocelahkaba | Convertir WebP a PNG | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| caeahilehodkgmfbkaolffdjnnemeilj | Control Parental de Sitios Web | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| kkmjigglgbjgjddkebmfnpkmdedcfhcc | Only Bitcoin | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| jllpmhkndlgabnflhcfmmklnbikalphh | Pikachu Love Heart | Policy Violation | Store Monitoring | 13/11/26 | No | Google Chrome
+| ofncfmghlmalbelddmdbbolgfamlckjd | Cripto Calculadora Rápida | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| egbakibhcjjeknldfoaifgmifhgneehg | Reproductor IPTV Personal | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| jbipplpighlgmpeakkbpbieechgbobgb | Modo Cine para Videos Youtube | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| dggcfnhileiklciikgbjalnjendmchhi | Venezolario | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
+| bccljnepnlfnbankodmlbmfamidjkann | WMRFast Extensions v2.0 | Policy Violation | Store Monitoring | 13/11/26 | No | Google Chrome
+| mnnmhnpblahpfecdpjbjhopdcphafadc | Mi Gestor de Proxy (con Auth) | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
 | hhbnkmfjfcjalnpgfhcfjflkicelkeij | Qaski Cryptovault | Bundling Unwanted Software | Store Monitoring | 12/11/26 | No | Google Chrome
 | magebmdnbpocjpahdfmhnlnlkiiipjnd | Brass Orrery | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
 | pdceogngampkfcpkinjbomipmneamnni | OnlyChatter Ai OnlyFans Chatbot | Policy Violation | Store Monitoring | 12/11/26 | No | Google Chrome
