@@ -1,12 +1,32 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-13T21:21:30Z",
+  "generated": "2026-11-14T08:17:32Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8472,
+  "total_indicators": 8479,
   "indicators": [
+    {
+      "extension_id": "ihaoeegolbkknhcdhohiegbeiohmgeae",
+      "name": "SparkAd \u2014 Earn Node Network",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-14",
+      "store_url": "https://chromewebstore.google.com/detail/ihaoeegolbkknhcdhohiegbeiohmgeae",
+      "sha256": "b441bf232ea6ad8cfdded7fd1a011360ad3bc5eaa3a40e3429f6f1b25a1456a7",
+      "version": "1.1.0"
+    },
+    {
+      "extension_id": "bppmmhkocebghjdebekoolaaghhhlakb",
+      "name": "DexiWallet Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-14",
+      "store_url": "https://chromewebstore.google.com/detail/bppmmhkocebghjdebekoolaaghhhlakb",
+      "sha256": "193d92627cc9216e830875eb5a673e68ef3e86455aeb023850c9f4429e255cd4",
+      "version": "2.6"
+    },
     {
       "extension_id": "jhollgipbpobkcnldpllmainihodoghf",
       "name": "Modo Oscuro Personal",
@@ -6858,6 +6878,46 @@
       "version": "1.0.1"
     },
     {
+      "extension_id": "dbkconhgaemoaonblblkegodbicjgbge",
+      "name": "Cryp",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/dbkconhgaemoaonblblkegodbicjgbge",
+      "sha256": "aad0caac1ee5103b6e66c6f84565eaffeafc9ae9fa0bb88d0cf58485bff161d3",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "elafbhhlahpjoammcdgobikpppjcjmne",
+      "name": "Wallet Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/elafbhhlahpjoammcdgobikpppjcjmne",
+      "sha256": "ee51d3a01e5b76f7033d77588d21157ebc59628f98573d56c649b88ae201f6a9",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "mkpdopdllihjhemekgioagjbbfdboopi",
+      "name": "Panda Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/mkpdopdllihjhemekgioagjbbfdboopi",
+      "sha256": "af29e885ca1eab3f6f61da5316d2c780a9e990248e4566900ef1d48793afbef9",
+      "version": "1.0.9"
+    },
+    {
+      "extension_id": "kepinnoeepcgmicfkbggeidgehidmgga",
+      "name": "XRPCardio Screensaver",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/kepinnoeepcgmicfkbggeidgehidmgga",
+      "sha256": "a7ee0a91fb857ba6a3d9344573b46fe7ec91ba42981faf067c5c0c51a2497c8c",
+      "version": "1.0.0"
+    },
+    {
       "extension_id": "ndbiekgckmjfcdmekbkdmoioohdjfhmg",
       "name": "Claude AI Prompt Manager",
       "source": "Store Monitoring",
@@ -7276,6 +7336,16 @@
       "store_url": "https://chromewebstore.google.com/detail/nmpilknjfdfdfhdhdnllfngbknpdgpfh",
       "sha256": "50f684695c7867d2af0961e331c03de27cf26db951df3022d89ce450f8fb9a3b",
       "version": "1.0.0"
+    },
+    {
+      "extension_id": "iglbklabgimbpaepdcmmdlhicjjgmjpd",
+      "name": "PARACYT Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/iglbklabgimbpaepdcmmdlhicjjgmjpd",
+      "sha256": "23bb96f26549bdcb6e8b36ab89458b8a91dad81c3dd7a885679209da1ef39a27",
+      "version": "2.7.3"
     },
     {
       "extension_id": "nijjbnmnifhocfkppoeicpcoigldmpko",
