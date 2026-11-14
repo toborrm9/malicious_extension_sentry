@@ -1,5 +1,7 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ihaoeegolbkknhcdhohiegbeiohmgeae | SparkAd — Earn Node Network | Policy Violation | Store Monitoring | 14/11/26 | No | Google Chrome
+| bppmmhkocebghjdebekoolaaghhhlakb | DexiWallet Extension | Malware | Store Monitoring | 14/11/26 | No | Google Chrome
 | jhollgipbpobkcnldpllmainihodoghf | Modo Oscuro Personal | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
 | bflambifdghdbllgjllaaaajaeidcpai | Mis Notas Rápidas | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
 | kihjkmgegadoiebmeljfkllenidhlgek | Protector de Huella Digital | Bundling Unwanted Software | Store Monitoring | 13/11/26 | No | Google Chrome
@@ -685,6 +687,10 @@
 | njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| dbkconhgaemoaonblblkegodbicjgbge | Cryp | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| elafbhhlahpjoammcdgobikpppjcjmne | Wallet Extension | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| mkpdopdllihjhemekgioagjbbfdboopi | Panda Wallet | Malware | Store Monitoring | 18/10/26 | No | Google Chrome
+| kepinnoeepcgmicfkbggeidgehidmgga | XRPCardio Screensaver | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ndbiekgckmjfcdmekbkdmoioohdjfhmg | Claude AI Prompt Manager | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | icijpbhieinkgbbjigheefojikmblada | Depression: SpongeBob & Gary (Live Wallpaper) | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | bobgdfmbagalnnkhdnanlmkhhkkiogao | Naruto x Spongebob Cosplay | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
@@ -727,6 +733,7 @@
 | njoajiajcpfbaclllemflffnhchblnem | Nomination Crm | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | eaddpginckbggngfiipmjigfdfgfplef | Gerar Chave de Conexão do WhatsApp | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | nmpilknjfdfdfhdhdnllfngbknpdgpfh | Odin Chat Passkey | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| iglbklabgimbpaepdcmmdlhicjjgmjpd | PARACYT Wallet | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | nijjbnmnifhocfkppoeicpcoigldmpko | ClaudeTrack - Claude Token Counter | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | hlnhppidljljneadggeghgllegflkoop | AO3 Enhancer - Auto Tracker, Dark Mode & Reader Replacer | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | cobepgcbdgkeigjeiliegihddhoeldmb | Car drawing Game Ad-FreeGames | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
