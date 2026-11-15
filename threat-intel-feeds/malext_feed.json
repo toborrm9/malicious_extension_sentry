@@ -1,12 +1,72 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-15T19:57:58Z",
+  "generated": "2026-11-15T21:39:19Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8483,
+  "total_indicators": 8489,
   "indicators": [
+    {
+      "extension_id": "fecgaghibdnobjekppbelobanfajhcdj",
+      "name": "TaskTime - Scheduled Todo & Reminders",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-15",
+      "store_url": "https://chromewebstore.google.com/detail/fecgaghibdnobjekppbelobanfajhcdj",
+      "sha256": "b7f3b1efca9f26587823a5f0d0ba261ac4ef16d1d5f0449336fd25319b3d1bbe",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "cialacpolkecknpfjaohafnidkajlcij",
+      "name": "Daric Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-15",
+      "store_url": "https://chromewebstore.google.com/detail/cialacpolkecknpfjaohafnidkajlcij",
+      "sha256": "98e8fd3e854a44e0fa633ed0450e487560cca64b987facca6e44ce20ed8b4b5a",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "llgigokgnhjafjjdlgcinnhkghlochkb",
+      "name": "X\u767b\u5f55\u52a9\u624b",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-15",
+      "store_url": "https://chromewebstore.google.com/detail/llgigokgnhjafjjdlgcinnhkghlochkb",
+      "sha256": "224185a12d2a98af3d6733fdbcb011e97fd652ca1c60eb450382ffe9dc166d50",
+      "version": "1.2.0"
+    },
+    {
+      "extension_id": "adpmmefccjoocjaimklocglmagnldabl",
+      "name": "ReadFit \u2014 Personal Reading Profile",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-15",
+      "store_url": "https://chromewebstore.google.com/detail/adpmmefccjoocjaimklocglmagnldabl",
+      "sha256": "06e74f0c52e4792eba5cea1f984abeeb12f4a07e9b00142530484cab828918fb",
+      "version": "0.9.2"
+    },
+    {
+      "extension_id": "mmclamjkknobggpiohfneimmnlggagok",
+      "name": "LEDGIS Wallet Chrome Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-15",
+      "store_url": "https://chromewebstore.google.com/detail/mmclamjkknobggpiohfneimmnlggagok",
+      "sha256": "0ff60e926a3db3efc2fb111879624e64ec4ce1696fa36180f154adf70b4b80d4",
+      "version": "1.6.1"
+    },
+    {
+      "extension_id": "mehimfocdlbihahlpaoegihilgimkohb",
+      "name": "Authra Authenticator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-15",
+      "store_url": "https://chromewebstore.google.com/detail/mehimfocdlbihahlpaoegihilgimkohb",
+      "sha256": "d337d77083188cec40047f1426b72e95a091f40b27b44c1effd6fff3f40b0064",
+      "version": "1.0.4"
+    },
     {
       "extension_id": "nfnkpafbjoknlmmablnnphdphleilkkn",
       "name": "Cosmic Ringworld",
