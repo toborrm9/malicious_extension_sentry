@@ -1,5 +1,11 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| fecgaghibdnobjekppbelobanfajhcdj | TaskTime - Scheduled Todo & Reminders | Policy Violation | Store Monitoring | 15/11/26 | No | Google Chrome
+| cialacpolkecknpfjaohafnidkajlcij | Daric Wallet | Policy Violation | Store Monitoring | 15/11/26 | No | Google Chrome
+| llgigokgnhjafjjdlgcinnhkghlochkb | X登录助手 | Policy Violation | Store Monitoring | 15/11/26 | No | Google Chrome
+| adpmmefccjoocjaimklocglmagnldabl | ReadFit — Personal Reading Profile | Policy Violation | Store Monitoring | 15/11/26 | No | Google Chrome
+| mmclamjkknobggpiohfneimmnlggagok | LEDGIS Wallet Chrome Extension | Policy Violation | Store Monitoring | 15/11/26 | No | Google Chrome
+| mehimfocdlbihahlpaoegihilgimkohb | Authra Authenticator | Policy Violation | Store Monitoring | 15/11/26 | No | Google Chrome
 | nfnkpafbjoknlmmablnnphdphleilkkn | Cosmic Ringworld | Bundling Unwanted Software | Store Monitoring | 15/11/26 | No | Google Chrome
 | dbkconhgaemoaonblblkegodbicjgbge | Cryp | Policy Violation | Store Monitoring | 14/11/26 | No | Google Chrome
 | elafbhhlahpjoammcdgobikpppjcjmne | Wallet Extension | Policy Violation | Store Monitoring | 14/11/26 | No | Google Chrome
