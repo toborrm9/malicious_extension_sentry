@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-11-15",
-    "timestamp": "1794772680",
+    "timestamp": "1794778760",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,282 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "95ddba2e-1d85-5bce-871f-c647a0154b31",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fecgaghibdnobjekppbelobanfajhcdj",
+        "comment": "TaskTime - Scheduled Todo & Reminders | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-15 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "9c536a3c-20e7-5e07-a2fb-85a66f1bb374",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fecgaghibdnobjekppbelobanfajhcdj",
+        "comment": "Chrome Web Store entry for TaskTime - Scheduled Todo & Reminders (fecgaghibdnobjekppbelobanfajhcdj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c5f2b8f7-f825-5b12-bb35-2f4720ef612a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b7f3b1efca9f26587823a5f0d0ba261ac4ef16d1d5f0449336fd25319b3d1bbe",
+        "comment": "SHA-256 of extension package for TaskTime - Scheduled Todo & Reminders (fecgaghibdnobjekppbelobanfajhcdj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "06c9e939-ea50-5ece-82e4-a30b516c703e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cialacpolkecknpfjaohafnidkajlcij",
+        "comment": "Daric Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-15 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "733f6367-7f96-5462-921b-9ceee980478a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cialacpolkecknpfjaohafnidkajlcij",
+        "comment": "Chrome Web Store entry for Daric Wallet (cialacpolkecknpfjaohafnidkajlcij)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9ed1dacb-8ef9-5250-8f1d-ca4f4ee5b764",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "98e8fd3e854a44e0fa633ed0450e487560cca64b987facca6e44ce20ed8b4b5a",
+        "comment": "SHA-256 of extension package for Daric Wallet (cialacpolkecknpfjaohafnidkajlcij)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "16fac287-4ee5-5298-9fd5-026c8baa374b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "llgigokgnhjafjjdlgcinnhkghlochkb",
+        "comment": "X\u767b\u5f55\u52a9\u624b | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-15 | Version: 1.2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "fbb5fe74-e3b8-558c-8b90-131b32996e0e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/llgigokgnhjafjjdlgcinnhkghlochkb",
+        "comment": "Chrome Web Store entry for X\u767b\u5f55\u52a9\u624b (llgigokgnhjafjjdlgcinnhkghlochkb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f06bc985-4ec6-53a2-a60c-173394ed19d7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "224185a12d2a98af3d6733fdbcb011e97fd652ca1c60eb450382ffe9dc166d50",
+        "comment": "SHA-256 of extension package for X\u767b\u5f55\u52a9\u624b (llgigokgnhjafjjdlgcinnhkghlochkb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "58258122-3585-5ba2-ba2a-a5af8b35df2e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adpmmefccjoocjaimklocglmagnldabl",
+        "comment": "ReadFit \u2014 Personal Reading Profile | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-15 | Version: 0.9.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.9.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "40f8f4a2-0dec-56d4-b87b-b12f8cefafbf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/adpmmefccjoocjaimklocglmagnldabl",
+        "comment": "Chrome Web Store entry for ReadFit \u2014 Personal Reading Profile (adpmmefccjoocjaimklocglmagnldabl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "59a7305d-2136-57c9-9fdb-604a6383fde0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "06e74f0c52e4792eba5cea1f984abeeb12f4a07e9b00142530484cab828918fb",
+        "comment": "SHA-256 of extension package for ReadFit \u2014 Personal Reading Profile (adpmmefccjoocjaimklocglmagnldabl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "75f09a45-5f3e-5962-a112-e630f6981aec",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mmclamjkknobggpiohfneimmnlggagok",
+        "comment": "LEDGIS Wallet Chrome Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-15 | Version: 1.6.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.6.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "ef034395-4d27-58ed-b040-d8e27e849958",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mmclamjkknobggpiohfneimmnlggagok",
+        "comment": "Chrome Web Store entry for LEDGIS Wallet Chrome Extension (mmclamjkknobggpiohfneimmnlggagok)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a854605c-81ec-57c2-bff3-47f4b83d2df4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0ff60e926a3db3efc2fb111879624e64ec4ce1696fa36180f154adf70b4b80d4",
+        "comment": "SHA-256 of extension package for LEDGIS Wallet Chrome Extension (mmclamjkknobggpiohfneimmnlggagok)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a36c055e-6389-51db-97db-0c3096ff2c64",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mehimfocdlbihahlpaoegihilgimkohb",
+        "comment": "Authra Authenticator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-15 | Version: 1.0.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "6e0f8448-6b04-53d5-8791-3c868484f75a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mehimfocdlbihahlpaoegihilgimkohb",
+        "comment": "Chrome Web Store entry for Authra Authenticator (mehimfocdlbihahlpaoegihilgimkohb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "43e76f0a-28aa-5b20-aa24-7437e1fab6e5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d337d77083188cec40047f1426b72e95a091f40b27b44c1effd6fff3f40b0064",
+        "comment": "SHA-256 of extension package for Authra Authenticator (mehimfocdlbihahlpaoegihilgimkohb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "4548890a-5454-5790-801c-8a68874cfa6c",
         "type": "text",
