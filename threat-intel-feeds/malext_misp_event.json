@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-11-14",
-    "timestamp": "1794644253",
+    "date": "2026-11-15",
+    "timestamp": "1794772680",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,190 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "4548890a-5454-5790-801c-8a68874cfa6c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nfnkpafbjoknlmmablnnphdphleilkkn",
+        "comment": "Cosmic Ringworld | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-15 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "b464fbf1-9eed-53a7-8cb8-1188f9774f32",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nfnkpafbjoknlmmablnnphdphleilkkn",
+        "comment": "Chrome Web Store entry for Cosmic Ringworld (nfnkpafbjoknlmmablnnphdphleilkkn)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "78b53dea-bd98-570c-92d9-a0dcb54dddb5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "270b9bc5f6c733d82a62867d9441993f267ec21d0848c22356b3457d84ed1052",
+        "comment": "SHA-256 of extension package for Cosmic Ringworld (nfnkpafbjoknlmmablnnphdphleilkkn)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bf025288-8e2f-5451-8e5e-70712a684fc1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dbkconhgaemoaonblblkegodbicjgbge",
+        "comment": "Cryp | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-14 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "2f7afa67-8302-58c6-888e-a9988529f8e7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dbkconhgaemoaonblblkegodbicjgbge",
+        "comment": "Chrome Web Store entry for Cryp (dbkconhgaemoaonblblkegodbicjgbge)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6ef3f156-b107-5891-8acc-80609d621546",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "aad0caac1ee5103b6e66c6f84565eaffeafc9ae9fa0bb88d0cf58485bff161d3",
+        "comment": "SHA-256 of extension package for Cryp (dbkconhgaemoaonblblkegodbicjgbge)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "34b8b67a-7334-5034-a7af-8eb48479fe72",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "elafbhhlahpjoammcdgobikpppjcjmne",
+        "comment": "Wallet Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-14 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "744c2de7-e6c9-5a91-adce-903dcab72c90",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/elafbhhlahpjoammcdgobikpppjcjmne",
+        "comment": "Chrome Web Store entry for Wallet Extension (elafbhhlahpjoammcdgobikpppjcjmne)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a0a7cccc-b8af-5546-a8c6-31383dc393d2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ee51d3a01e5b76f7033d77588d21157ebc59628f98573d56c649b88ae201f6a9",
+        "comment": "SHA-256 of extension package for Wallet Extension (elafbhhlahpjoammcdgobikpppjcjmne)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9fdd25f4-6faf-5ca7-93ba-982455f66292",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mkpdopdllihjhemekgioagjbbfdboopi",
+        "comment": "Panda Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-14 | Version: 1.0.9",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.9\""
+          }
+        ]
+      },
+      {
+        "uuid": "7d0edb77-ad17-57ef-9971-79755e61b50f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mkpdopdllihjhemekgioagjbbfdboopi",
+        "comment": "Chrome Web Store entry for Panda Wallet (mkpdopdllihjhemekgioagjbbfdboopi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6570d59f-8df4-52c2-bd6a-02abcdd126cf",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "af29e885ca1eab3f6f61da5316d2c780a9e990248e4566900ef1d48793afbef9",
+        "comment": "SHA-256 of extension package for Panda Wallet (mkpdopdllihjhemekgioagjbbfdboopi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "3ec2dfd7-43f3-5df7-8e18-57f371a17a9c",
         "type": "text",
@@ -66,6 +250,98 @@
         "to_ids": true,
         "value": "b441bf232ea6ad8cfdded7fd1a011360ad3bc5eaa3a40e3429f6f1b25a1456a7",
         "comment": "SHA-256 of extension package for SparkAd \u2014 Earn Node Network (ihaoeegolbkknhcdhohiegbeiohmgeae)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "00ae73e4-2e10-581a-88e2-904212a6f94d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "iglbklabgimbpaepdcmmdlhicjjgmjpd",
+        "comment": "PARACYT Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-14 | Version: 2.7.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.7.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "d7da7520-e7c5-5727-b858-3d4d0f01bbf7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/iglbklabgimbpaepdcmmdlhicjjgmjpd",
+        "comment": "Chrome Web Store entry for PARACYT Wallet (iglbklabgimbpaepdcmmdlhicjjgmjpd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1e2e64ba-c619-572d-a932-d84dcfcde8d1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "23bb96f26549bdcb6e8b36ab89458b8a91dad81c3dd7a885679209da1ef39a27",
+        "comment": "SHA-256 of extension package for PARACYT Wallet (iglbklabgimbpaepdcmmdlhicjjgmjpd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "cf48a034-a693-5fc9-b4de-3102d2eb12ae",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kepinnoeepcgmicfkbggeidgehidmgga",
+        "comment": "XRPCardio Screensaver | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-14 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "a8f8c034-374f-57b8-b8b1-04e755bd05cf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kepinnoeepcgmicfkbggeidgehidmgga",
+        "comment": "Chrome Web Store entry for XRPCardio Screensaver (kepinnoeepcgmicfkbggeidgehidmgga)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "646799b8-691b-5229-997a-49780265ce20",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a7ee0a91fb857ba6a3d9344573b46fe7ec91ba42981faf067c5c0c51a2497c8c",
+        "comment": "SHA-256 of extension package for XRPCardio Screensaver (kepinnoeepcgmicfkbggeidgehidmgga)",
         "distribution": "5",
         "Tag": [
           {
@@ -31268,12 +31544,12 @@
         ]
       },
       {
-        "uuid": "bf025288-8e2f-5451-8e5e-70712a684fc1",
+        "uuid": "2b89f1c2-61bf-514e-b4a8-e048eb5c9982",
         "type": "text",
         "category": "Other",
         "to_ids": false,
-        "value": "dbkconhgaemoaonblblkegodbicjgbge",
-        "comment": "Cryp | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.0",
+        "value": "okdkohiaklhiajonhgebakjpahokojml",
+        "comment": "FlowBulk | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0",
         "distribution": "5",
         "Tag": [
           {
@@ -31286,164 +31562,26 @@
             "name": "malext:store=\"Google Chrome\""
           },
           {
-            "name": "malext:version=\"1.0.0\""
+            "name": "malext:version=\"1.0\""
           }
         ]
       },
       {
-        "uuid": "2f7afa67-8302-58c6-888e-a9988529f8e7",
+        "uuid": "ccc3a467-5533-5b53-a99d-3cac3b07a5cf",
         "type": "url",
         "category": "External analysis",
         "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/dbkconhgaemoaonblblkegodbicjgbge",
-        "comment": "Chrome Web Store entry for Cryp (dbkconhgaemoaonblblkegodbicjgbge)",
+        "value": "https://chromewebstore.google.com/detail/okdkohiaklhiajonhgebakjpahokojml",
+        "comment": "Chrome Web Store entry for FlowBulk (okdkohiaklhiajonhgebakjpahokojml)",
         "distribution": "5"
       },
       {
-        "uuid": "6ef3f156-b107-5891-8acc-80609d621546",
+        "uuid": "192c8688-15b5-543d-9cd0-fe9b1d15126e",
         "type": "sha256",
         "category": "Payload delivery",
         "to_ids": true,
-        "value": "aad0caac1ee5103b6e66c6f84565eaffeafc9ae9fa0bb88d0cf58485bff161d3",
-        "comment": "SHA-256 of extension package for Cryp (dbkconhgaemoaonblblkegodbicjgbge)",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          }
-        ]
-      },
-      {
-        "uuid": "34b8b67a-7334-5034-a7af-8eb48479fe72",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "elafbhhlahpjoammcdgobikpppjcjmne",
-        "comment": "Wallet Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.0",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          },
-          {
-            "name": "malext:store=\"Google Chrome\""
-          },
-          {
-            "name": "malext:version=\"1.0.0\""
-          }
-        ]
-      },
-      {
-        "uuid": "744c2de7-e6c9-5a91-adce-903dcab72c90",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/elafbhhlahpjoammcdgobikpppjcjmne",
-        "comment": "Chrome Web Store entry for Wallet Extension (elafbhhlahpjoammcdgobikpppjcjmne)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "a0a7cccc-b8af-5546-a8c6-31383dc393d2",
-        "type": "sha256",
-        "category": "Payload delivery",
-        "to_ids": true,
-        "value": "ee51d3a01e5b76f7033d77588d21157ebc59628f98573d56c649b88ae201f6a9",
-        "comment": "SHA-256 of extension package for Wallet Extension (elafbhhlahpjoammcdgobikpppjcjmne)",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          }
-        ]
-      },
-      {
-        "uuid": "9fdd25f4-6faf-5ca7-93ba-982455f66292",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "mkpdopdllihjhemekgioagjbbfdboopi",
-        "comment": "Panda Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.9",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          },
-          {
-            "name": "malext:store=\"Google Chrome\""
-          },
-          {
-            "name": "malext:version=\"1.0.9\""
-          }
-        ]
-      },
-      {
-        "uuid": "7d0edb77-ad17-57ef-9971-79755e61b50f",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/mkpdopdllihjhemekgioagjbbfdboopi",
-        "comment": "Chrome Web Store entry for Panda Wallet (mkpdopdllihjhemekgioagjbbfdboopi)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "6570d59f-8df4-52c2-bd6a-02abcdd126cf",
-        "type": "sha256",
-        "category": "Payload delivery",
-        "to_ids": true,
-        "value": "af29e885ca1eab3f6f61da5316d2c780a9e990248e4566900ef1d48793afbef9",
-        "comment": "SHA-256 of extension package for Panda Wallet (mkpdopdllihjhemekgioagjbbfdboopi)",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          }
-        ]
-      },
-      {
-        "uuid": "cf48a034-a693-5fc9-b4de-3102d2eb12ae",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "kepinnoeepcgmicfkbggeidgehidmgga",
-        "comment": "XRPCardio Screensaver | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 1.0.0",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          },
-          {
-            "name": "malext:store=\"Google Chrome\""
-          },
-          {
-            "name": "malext:version=\"1.0.0\""
-          }
-        ]
-      },
-      {
-        "uuid": "a8f8c034-374f-57b8-b8b1-04e755bd05cf",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/kepinnoeepcgmicfkbggeidgehidmgga",
-        "comment": "Chrome Web Store entry for XRPCardio Screensaver (kepinnoeepcgmicfkbggeidgehidmgga)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "646799b8-691b-5229-997a-49780265ce20",
-        "type": "sha256",
-        "category": "Payload delivery",
-        "to_ids": true,
-        "value": "a7ee0a91fb857ba6a3d9344573b46fe7ec91ba42981faf067c5c0c51a2497c8c",
-        "comment": "SHA-256 of extension package for XRPCardio Screensaver (kepinnoeepcgmicfkbggeidgehidmgga)",
+        "value": "3f5f5a4bb3111c7717ea7bafbcc7945153d4743d2ad917cb39191a8725705dbb",
+        "comment": "SHA-256 of extension package for FlowBulk (okdkohiaklhiajonhgebakjpahokojml)",
         "distribution": "5",
         "Tag": [
           {
@@ -33384,12 +33522,12 @@
         ]
       },
       {
-        "uuid": "00ae73e4-2e10-581a-88e2-904212a6f94d",
+        "uuid": "04bea703-9f5a-5d88-bdc3-c6b054ceb625",
         "type": "text",
         "category": "Other",
         "to_ids": false,
-        "value": "iglbklabgimbpaepdcmmdlhicjjgmjpd",
-        "comment": "PARACYT Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-17 | Version: 2.7.3",
+        "value": "ojocbpdkpjdgldocigehjodijopkifba",
+        "comment": "CrossPost | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-17 | Version: 1.0.2",
         "distribution": "5",
         "Tag": [
           {
@@ -33402,26 +33540,72 @@
             "name": "malext:store=\"Google Chrome\""
           },
           {
-            "name": "malext:version=\"2.7.3\""
+            "name": "malext:version=\"1.0.2\""
           }
         ]
       },
       {
-        "uuid": "d7da7520-e7c5-5727-b858-3d4d0f01bbf7",
+        "uuid": "8ded6085-2504-5a8c-9323-465900001c27",
         "type": "url",
         "category": "External analysis",
         "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/iglbklabgimbpaepdcmmdlhicjjgmjpd",
-        "comment": "Chrome Web Store entry for PARACYT Wallet (iglbklabgimbpaepdcmmdlhicjjgmjpd)",
+        "value": "https://chromewebstore.google.com/detail/ojocbpdkpjdgldocigehjodijopkifba",
+        "comment": "Chrome Web Store entry for CrossPost (ojocbpdkpjdgldocigehjodijopkifba)",
         "distribution": "5"
       },
       {
-        "uuid": "1e2e64ba-c619-572d-a932-d84dcfcde8d1",
+        "uuid": "9860a366-1cb6-56be-89aa-e060b04211a8",
         "type": "sha256",
         "category": "Payload delivery",
         "to_ids": true,
-        "value": "23bb96f26549bdcb6e8b36ab89458b8a91dad81c3dd7a885679209da1ef39a27",
-        "comment": "SHA-256 of extension package for PARACYT Wallet (iglbklabgimbpaepdcmmdlhicjjgmjpd)",
+        "value": "b8cac13a8c2fb733342fb0c38431e2297e2a556b26b59c64a018140e82a694d7",
+        "comment": "SHA-256 of extension package for CrossPost (ojocbpdkpjdgldocigehjodijopkifba)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9ea12c23-a9ae-5681-8ab4-9b0f7621941b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ldealfkelhonhhdpfmobioombfojifnc",
+        "comment": "seecache | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-17 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "e0275724-dcc2-5d7c-a249-35e953d9412d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ldealfkelhonhhdpfmobioombfojifnc",
+        "comment": "Chrome Web Store entry for seecache (ldealfkelhonhhdpfmobioombfojifnc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4ef22e44-cdad-5910-8da2-513c6f5375b9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9556fbeea5253ec02c4e0b768ac6b8b7e790b8b6311ef5938723f7e35bab1ef0",
+        "comment": "SHA-256 of extension package for seecache (ldealfkelhonhhdpfmobioombfojifnc)",
         "distribution": "5",
         "Tag": [
           {
