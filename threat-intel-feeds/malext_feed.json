@@ -1,12 +1,52 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-14T08:17:32Z",
+  "generated": "2026-11-15T19:57:58Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8479,
+  "total_indicators": 8483,
   "indicators": [
+    {
+      "extension_id": "nfnkpafbjoknlmmablnnphdphleilkkn",
+      "name": "Cosmic Ringworld",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-15",
+      "store_url": "https://chromewebstore.google.com/detail/nfnkpafbjoknlmmablnnphdphleilkkn",
+      "sha256": "270b9bc5f6c733d82a62867d9441993f267ec21d0848c22356b3457d84ed1052",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "dbkconhgaemoaonblblkegodbicjgbge",
+      "name": "Cryp",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-14",
+      "store_url": "https://chromewebstore.google.com/detail/dbkconhgaemoaonblblkegodbicjgbge",
+      "sha256": "aad0caac1ee5103b6e66c6f84565eaffeafc9ae9fa0bb88d0cf58485bff161d3",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "elafbhhlahpjoammcdgobikpppjcjmne",
+      "name": "Wallet Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-14",
+      "store_url": "https://chromewebstore.google.com/detail/elafbhhlahpjoammcdgobikpppjcjmne",
+      "sha256": "ee51d3a01e5b76f7033d77588d21157ebc59628f98573d56c649b88ae201f6a9",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "mkpdopdllihjhemekgioagjbbfdboopi",
+      "name": "Panda Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-14",
+      "store_url": "https://chromewebstore.google.com/detail/mkpdopdllihjhemekgioagjbbfdboopi",
+      "sha256": "af29e885ca1eab3f6f61da5316d2c780a9e990248e4566900ef1d48793afbef9",
+      "version": "1.0.9"
+    },
     {
       "extension_id": "ihaoeegolbkknhcdhohiegbeiohmgeae",
       "name": "SparkAd \u2014 Earn Node Network",
@@ -16,6 +56,26 @@
       "store_url": "https://chromewebstore.google.com/detail/ihaoeegolbkknhcdhohiegbeiohmgeae",
       "sha256": "b441bf232ea6ad8cfdded7fd1a011360ad3bc5eaa3a40e3429f6f1b25a1456a7",
       "version": "1.1.0"
+    },
+    {
+      "extension_id": "iglbklabgimbpaepdcmmdlhicjjgmjpd",
+      "name": "PARACYT Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-14",
+      "store_url": "https://chromewebstore.google.com/detail/iglbklabgimbpaepdcmmdlhicjjgmjpd",
+      "sha256": "23bb96f26549bdcb6e8b36ab89458b8a91dad81c3dd7a885679209da1ef39a27",
+      "version": "2.7.3"
+    },
+    {
+      "extension_id": "kepinnoeepcgmicfkbggeidgehidmgga",
+      "name": "XRPCardio Screensaver",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-14",
+      "store_url": "https://chromewebstore.google.com/detail/kepinnoeepcgmicfkbggeidgehidmgga",
+      "sha256": "a7ee0a91fb857ba6a3d9344573b46fe7ec91ba42981faf067c5c0c51a2497c8c",
+      "version": "1.0.0"
     },
     {
       "extension_id": "bppmmhkocebghjdebekoolaaghhhlakb",
@@ -6878,44 +6938,14 @@
       "version": "1.0.1"
     },
     {
-      "extension_id": "dbkconhgaemoaonblblkegodbicjgbge",
-      "name": "Cryp",
+      "extension_id": "okdkohiaklhiajonhgebakjpahokojml",
+      "name": "FlowBulk",
       "source": "Store Monitoring",
       "store": "Google Chrome",
       "insert_date": "2026-10-18",
-      "store_url": "https://chromewebstore.google.com/detail/dbkconhgaemoaonblblkegodbicjgbge",
-      "sha256": "aad0caac1ee5103b6e66c6f84565eaffeafc9ae9fa0bb88d0cf58485bff161d3",
-      "version": "1.0.0"
-    },
-    {
-      "extension_id": "elafbhhlahpjoammcdgobikpppjcjmne",
-      "name": "Wallet Extension",
-      "source": "Store Monitoring",
-      "store": "Google Chrome",
-      "insert_date": "2026-10-18",
-      "store_url": "https://chromewebstore.google.com/detail/elafbhhlahpjoammcdgobikpppjcjmne",
-      "sha256": "ee51d3a01e5b76f7033d77588d21157ebc59628f98573d56c649b88ae201f6a9",
-      "version": "1.0.0"
-    },
-    {
-      "extension_id": "mkpdopdllihjhemekgioagjbbfdboopi",
-      "name": "Panda Wallet",
-      "source": "Store Monitoring",
-      "store": "Google Chrome",
-      "insert_date": "2026-10-18",
-      "store_url": "https://chromewebstore.google.com/detail/mkpdopdllihjhemekgioagjbbfdboopi",
-      "sha256": "af29e885ca1eab3f6f61da5316d2c780a9e990248e4566900ef1d48793afbef9",
-      "version": "1.0.9"
-    },
-    {
-      "extension_id": "kepinnoeepcgmicfkbggeidgehidmgga",
-      "name": "XRPCardio Screensaver",
-      "source": "Store Monitoring",
-      "store": "Google Chrome",
-      "insert_date": "2026-10-18",
-      "store_url": "https://chromewebstore.google.com/detail/kepinnoeepcgmicfkbggeidgehidmgga",
-      "sha256": "a7ee0a91fb857ba6a3d9344573b46fe7ec91ba42981faf067c5c0c51a2497c8c",
-      "version": "1.0.0"
+      "store_url": "https://chromewebstore.google.com/detail/okdkohiaklhiajonhgebakjpahokojml",
+      "sha256": "3f5f5a4bb3111c7717ea7bafbcc7945153d4743d2ad917cb39191a8725705dbb",
+      "version": "1.0"
     },
     {
       "extension_id": "ndbiekgckmjfcdmekbkdmoioohdjfhmg",
@@ -7338,14 +7368,24 @@
       "version": "1.0.0"
     },
     {
-      "extension_id": "iglbklabgimbpaepdcmmdlhicjjgmjpd",
-      "name": "PARACYT Wallet",
+      "extension_id": "ojocbpdkpjdgldocigehjodijopkifba",
+      "name": "CrossPost",
       "source": "Store Monitoring",
       "store": "Google Chrome",
       "insert_date": "2026-10-17",
-      "store_url": "https://chromewebstore.google.com/detail/iglbklabgimbpaepdcmmdlhicjjgmjpd",
-      "sha256": "23bb96f26549bdcb6e8b36ab89458b8a91dad81c3dd7a885679209da1ef39a27",
-      "version": "2.7.3"
+      "store_url": "https://chromewebstore.google.com/detail/ojocbpdkpjdgldocigehjodijopkifba",
+      "sha256": "b8cac13a8c2fb733342fb0c38431e2297e2a556b26b59c64a018140e82a694d7",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "ldealfkelhonhhdpfmobioombfojifnc",
+      "name": "seecache",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/ldealfkelhonhhdpfmobioombfojifnc",
+      "sha256": "9556fbeea5253ec02c4e0b768ac6b8b7e790b8b6311ef5938723f7e35bab1ef0",
+      "version": "1.0"
     },
     {
       "extension_id": "nijjbnmnifhocfkppoeicpcoigldmpko",
