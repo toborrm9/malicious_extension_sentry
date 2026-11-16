@@ -1,5 +1,11 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hbiichfklkmlebacdfhkojcpmmakmamk | GitHub Recommender | Policy Violation | Store Monitoring | 16/11/26 | No | Google Chrome
+| hmmbilmcjpiaclgkjdncifpabjihelan | Flappy Bird Extension | Policy Violation | Store Monitoring | 16/11/26 | No | Google Chrome
+| hfdicknclhghbjihgmficjoklahmilmg | Flappy Bird Pro - Enhanced Edition | Policy Violation | Store Monitoring | 16/11/26 | No | Google Chrome
+| kjlklgjjakfpkhdhhcliidmcenfgpglm | Flappy Bird Unblocked | Policy Violation | Store Monitoring | 16/11/26 | No | Google Chrome
+| jjcigbgkfmobiegbfipoaolediphpljp | Muse Automation - Auto Muse on Muse.ai | Policy Violation | Store Monitoring | 16/11/26 | No | Google Chrome
+| gdgmchpcnljdnfkoomeogecfclcjdedc | Flappy Bird Up Casual Game | Policy Violation | Store Monitoring | 16/11/26 | No | Google Chrome
 | fecgaghibdnobjekppbelobanfajhcdj | TaskTime - Scheduled Todo & Reminders | Policy Violation | Store Monitoring | 15/11/26 | No | Google Chrome
 | cialacpolkecknpfjaohafnidkajlcij | Daric Wallet | Policy Violation | Store Monitoring | 15/11/26 | No | Google Chrome
 | llgigokgnhjafjjdlgcinnhkghlochkb | X登录助手 | Policy Violation | Store Monitoring | 15/11/26 | No | Google Chrome
