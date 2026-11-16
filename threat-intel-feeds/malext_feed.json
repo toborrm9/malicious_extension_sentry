@@ -1,12 +1,72 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-15T21:39:19Z",
+  "generated": "2026-11-16T12:22:47Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8489,
+  "total_indicators": 8495,
   "indicators": [
+    {
+      "extension_id": "hbiichfklkmlebacdfhkojcpmmakmamk",
+      "name": "GitHub Recommender",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-16",
+      "store_url": "https://chromewebstore.google.com/detail/hbiichfklkmlebacdfhkojcpmmakmamk",
+      "sha256": "ff4f30998e50e5eb333efc96edce09a336142ce365da103743e74e9d62db346f",
+      "version": "1.2.0"
+    },
+    {
+      "extension_id": "hmmbilmcjpiaclgkjdncifpabjihelan",
+      "name": "Flappy Bird Extension",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-16",
+      "store_url": "https://chromewebstore.google.com/detail/hmmbilmcjpiaclgkjdncifpabjihelan",
+      "sha256": "8516f6b3e8797015962f8bcd8f3c41f999db99044bb74502216c2c277cb1b7c6",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "hfdicknclhghbjihgmficjoklahmilmg",
+      "name": "Flappy Bird Pro - Enhanced Edition",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-16",
+      "store_url": "https://chromewebstore.google.com/detail/hfdicknclhghbjihgmficjoklahmilmg",
+      "sha256": "0953e45ab2ac42a27a92d345528436dd3323a4e5a668b02151b5875d0ff939e6",
+      "version": "1.1.1"
+    },
+    {
+      "extension_id": "kjlklgjjakfpkhdhhcliidmcenfgpglm",
+      "name": "Flappy Bird Unblocked",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-16",
+      "store_url": "https://chromewebstore.google.com/detail/kjlklgjjakfpkhdhhcliidmcenfgpglm",
+      "sha256": "09210f7b82b6f4a62b8bce8f29ade39f66131ab9047fddc2a3aa6cf5ef22f07b",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "jjcigbgkfmobiegbfipoaolediphpljp",
+      "name": "Muse Automation - Auto Muse on Muse.ai",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-16",
+      "store_url": "https://chromewebstore.google.com/detail/jjcigbgkfmobiegbfipoaolediphpljp",
+      "sha256": "531d09681563bb069b55eeeee3b36d0a4d12693e6146b683d8070c4a9ad0c125",
+      "version": "1.0.7.0"
+    },
+    {
+      "extension_id": "gdgmchpcnljdnfkoomeogecfclcjdedc",
+      "name": "Flappy Bird Up Casual Game",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-16",
+      "store_url": "https://chromewebstore.google.com/detail/gdgmchpcnljdnfkoomeogecfclcjdedc",
+      "sha256": "0db46f3e75330a5e952ee2e5db91f7ee0f4ca55ccaa6dd957dde1169b3a24903",
+      "version": "1"
+    },
     {
       "extension_id": "fecgaghibdnobjekppbelobanfajhcdj",
       "name": "TaskTime - Scheduled Todo & Reminders",
