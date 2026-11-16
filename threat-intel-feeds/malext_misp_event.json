@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-11-15",
-    "timestamp": "1794778760",
+    "date": "2026-11-16",
+    "timestamp": "1794831769",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,282 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "9a5f6e19-a2ce-506b-a1fa-536a4e3e5ec5",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hbiichfklkmlebacdfhkojcpmmakmamk",
+        "comment": "GitHub Recommender | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-16 | Version: 1.2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "bef81091-9f18-5ff7-b9d5-59fb48789422",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hbiichfklkmlebacdfhkojcpmmakmamk",
+        "comment": "Chrome Web Store entry for GitHub Recommender (hbiichfklkmlebacdfhkojcpmmakmamk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1c65d35a-574e-54f8-be8b-971782191277",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ff4f30998e50e5eb333efc96edce09a336142ce365da103743e74e9d62db346f",
+        "comment": "SHA-256 of extension package for GitHub Recommender (hbiichfklkmlebacdfhkojcpmmakmamk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0602f033-7277-5219-8a1a-d2eceecad957",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hmmbilmcjpiaclgkjdncifpabjihelan",
+        "comment": "Flappy Bird Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-16 | Version: 1.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "1a2a7ead-89f6-5f9b-a4ae-78f0f761041e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hmmbilmcjpiaclgkjdncifpabjihelan",
+        "comment": "Chrome Web Store entry for Flappy Bird Extension (hmmbilmcjpiaclgkjdncifpabjihelan)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b78772c6-9f86-5661-a737-ee53848e5431",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8516f6b3e8797015962f8bcd8f3c41f999db99044bb74502216c2c277cb1b7c6",
+        "comment": "SHA-256 of extension package for Flappy Bird Extension (hmmbilmcjpiaclgkjdncifpabjihelan)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5b64954b-4a17-53fe-9ac9-8d3881dc8d1e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hfdicknclhghbjihgmficjoklahmilmg",
+        "comment": "Flappy Bird Pro - Enhanced Edition | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-16 | Version: 1.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "66305355-f8cc-5874-b33e-1906e53b7adf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hfdicknclhghbjihgmficjoklahmilmg",
+        "comment": "Chrome Web Store entry for Flappy Bird Pro - Enhanced Edition (hfdicknclhghbjihgmficjoklahmilmg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "45baa18b-f63d-5c06-a017-d11f43b6ad66",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0953e45ab2ac42a27a92d345528436dd3323a4e5a668b02151b5875d0ff939e6",
+        "comment": "SHA-256 of extension package for Flappy Bird Pro - Enhanced Edition (hfdicknclhghbjihgmficjoklahmilmg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6d4166c6-7979-57e2-b423-700db2266755",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kjlklgjjakfpkhdhhcliidmcenfgpglm",
+        "comment": "Flappy Bird Unblocked | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-16 | Version: 2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "3c2dca07-43d5-50fe-83e7-bd2dc222470d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kjlklgjjakfpkhdhhcliidmcenfgpglm",
+        "comment": "Chrome Web Store entry for Flappy Bird Unblocked (kjlklgjjakfpkhdhhcliidmcenfgpglm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "18c9b06a-c4a9-5b53-a2a1-46d2a16c2dd4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "09210f7b82b6f4a62b8bce8f29ade39f66131ab9047fddc2a3aa6cf5ef22f07b",
+        "comment": "SHA-256 of extension package for Flappy Bird Unblocked (kjlklgjjakfpkhdhhcliidmcenfgpglm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "60057f48-7eab-577c-912b-6dcc66500ee2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jjcigbgkfmobiegbfipoaolediphpljp",
+        "comment": "Muse Automation - Auto Muse on Muse.ai | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-16 | Version: 1.0.7.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.7.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "8d5db1bc-a203-5a5c-b570-60f8ab4c333d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jjcigbgkfmobiegbfipoaolediphpljp",
+        "comment": "Chrome Web Store entry for Muse Automation - Auto Muse on Muse.ai (jjcigbgkfmobiegbfipoaolediphpljp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c96d0074-ff9f-5e8c-98da-fe1671d278f5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "531d09681563bb069b55eeeee3b36d0a4d12693e6146b683d8070c4a9ad0c125",
+        "comment": "SHA-256 of extension package for Muse Automation - Auto Muse on Muse.ai (jjcigbgkfmobiegbfipoaolediphpljp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2832fe6c-78a7-59b4-a6cd-7d7a55c30968",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gdgmchpcnljdnfkoomeogecfclcjdedc",
+        "comment": "Flappy Bird Up Casual Game | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-16 | Version: 1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1\""
+          }
+        ]
+      },
+      {
+        "uuid": "aee59de2-5d7b-5eed-857f-8c7163cdb5f2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gdgmchpcnljdnfkoomeogecfclcjdedc",
+        "comment": "Chrome Web Store entry for Flappy Bird Up Casual Game (gdgmchpcnljdnfkoomeogecfclcjdedc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c22fbc1e-8bc2-5763-bcc6-383af0b6056f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0db46f3e75330a5e952ee2e5db91f7ee0f4ca55ccaa6dd957dde1169b3a24903",
+        "comment": "SHA-256 of extension package for Flappy Bird Up Casual Game (gdgmchpcnljdnfkoomeogecfclcjdedc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "95ddba2e-1d85-5bce-871f-c647a0154b31",
         "type": "text",
