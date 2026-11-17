@@ -1,5 +1,15 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ohgakgekjgecokngbbipojokipokkjho | Flappy Bird Multiplayer | Policy Violation | Store Monitoring | 17/11/26 | No | Google Chrome
+| ndkdnfdghiobjfohecenmdceffkfcgmp | TonEasy: Ton Wallet | Malware | Store Monitoring | 17/11/26 | No | Google Chrome
+| dlaahlfnphmaklngedbombmkgiihbpld | Doge Wallet · BigDoge | Malware | Store Monitoring | 17/11/26 | No | Google Chrome
+| dmfnmobeodidnfdkkfcpobhjlpeameef | Facebook Post Downloader | Policy Violation | Store Monitoring | 17/11/26 | No | Google Chrome
+| dkjcbfalbdfkldmnbanldhibejlppfef | flappy bird | Policy Violation | Store Monitoring | 17/11/26 | No | Google Chrome
+| bgecemhbllcmiggkolcialnelflpgaek | Facebook Messenger Chat Export | Policy Violation | Store Monitoring | 17/11/26 | No | Google Chrome
+| laeiielmfaebicamghnemnjooikicidd | Monero Wallet - Parti | Malware | Store Monitoring | 17/11/26 | No | Google Chrome
+| fjdlpaldcfddkeeijijkfcfaidmofpah | 7-iptv — 4K Live TV & Global Media Streaming | Policy Violation | Store Monitoring | 17/11/26 | No | Google Chrome
+| dhpdpfbjnkmkjhefebgffpljdknifhbo | Flappy Bird Original | Policy Violation | Store Monitoring | 17/11/26 | No | Google Chrome
+| dacfbnogkkcmoabiechdkbjfnbpeicbm | Websol: Sui Wallet | Malware | Store Monitoring | 17/11/26 | No | Google Chrome
 | jfabgdapaondcfbjhocmokdjjfdmpomp | Avaxava - Avalanche Wallet | Malware | Store Monitoring | 17/11/26 | No | Google Chrome
 | ollnblnnjlikaafinmciemgfgpkaendf | WhatsApp Web Side Panel - Tabbee | Policy Violation | Store Monitoring | 17/11/26 | No | Google Chrome
 | pajpbamjbepjhohcldkfkbdobogcbffd | Viex Wallet | Malware | Store Monitoring | 17/11/26 | No | Google Chrome
