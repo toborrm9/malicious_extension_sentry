@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-11-17",
-    "timestamp": "1794908199",
+    "timestamp": "1794952131",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,466 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "90844800-8488-5355-b141-2aff05b11a18",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ohgakgekjgecokngbbipojokipokkjho",
+        "comment": "Flappy Bird Multiplayer | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.507",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.507\""
+          }
+        ]
+      },
+      {
+        "uuid": "290c771e-8a77-537a-bbd2-e0dad3b0efe3",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ohgakgekjgecokngbbipojokipokkjho",
+        "comment": "Chrome Web Store entry for Flappy Bird Multiplayer (ohgakgekjgecokngbbipojokipokkjho)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "1354172d-4aee-5aa2-9eaf-473d88bf65e0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "eeb02974af8393020e7c84b6926fd0c9acc0e601730700cd3b791c3582b015cd",
+        "comment": "SHA-256 of extension package for Flappy Bird Multiplayer (ohgakgekjgecokngbbipojokipokkjho)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d740897a-a840-526b-92a0-061f31212c77",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ndkdnfdghiobjfohecenmdceffkfcgmp",
+        "comment": "TonEasy: Ton Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "85415a38-28cc-5c2a-b266-d97b95f1c6c5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ndkdnfdghiobjfohecenmdceffkfcgmp",
+        "comment": "Chrome Web Store entry for TonEasy: Ton Wallet (ndkdnfdghiobjfohecenmdceffkfcgmp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0890361d-3782-5317-8c15-938145aec035",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "81a0e3495900912ddafff7fab71b73f070d38deb62302f4fab99fa128cbb28a8",
+        "comment": "SHA-256 of extension package for TonEasy: Ton Wallet (ndkdnfdghiobjfohecenmdceffkfcgmp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0b66f826-ded7-50be-a1fe-228cfb380e17",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dlaahlfnphmaklngedbombmkgiihbpld",
+        "comment": "Doge Wallet \u00b7 BigDoge | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "4a02ab66-d0e0-51f9-911c-7f6c1892de0f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dlaahlfnphmaklngedbombmkgiihbpld",
+        "comment": "Chrome Web Store entry for Doge Wallet \u00b7 BigDoge (dlaahlfnphmaklngedbombmkgiihbpld)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "95a97f13-f99e-5ed6-bc8d-ddce9fbd1872",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "6b14bbf7cd24a053891d25130829ab978ef20ae3542cff9bc1f2d18a004755e1",
+        "comment": "SHA-256 of extension package for Doge Wallet \u00b7 BigDoge (dlaahlfnphmaklngedbombmkgiihbpld)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2085c72d-2091-5eb6-9c44-4c90eb545ad6",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmfnmobeodidnfdkkfcpobhjlpeameef",
+        "comment": "Facebook Post Downloader | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 0.1.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "5cc34493-d7f1-5b6c-a385-8c71eb1dbd42",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dmfnmobeodidnfdkkfcpobhjlpeameef",
+        "comment": "Chrome Web Store entry for Facebook Post Downloader (dmfnmobeodidnfdkkfcpobhjlpeameef)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4316fcfc-09de-53d7-8575-783e57909cb0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "87a55cbb1abebd89cef0e0744f53a28e5ce7090878b84f0de70ee9dc026ea092",
+        "comment": "SHA-256 of extension package for Facebook Post Downloader (dmfnmobeodidnfdkkfcpobhjlpeameef)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "813ff371-27cf-516d-a33d-777b01ccfe85",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dkjcbfalbdfkldmnbanldhibejlppfef",
+        "comment": "flappy bird | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "02b8e492-8349-5d78-b4a1-c298835d0380",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dkjcbfalbdfkldmnbanldhibejlppfef",
+        "comment": "Chrome Web Store entry for flappy bird (dkjcbfalbdfkldmnbanldhibejlppfef)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f70e23fe-7334-520d-9365-f1929459d3c0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "42f6724de06feef7783f2faab44703f399d636e49ceebc1b7bcd8fe19a91f0eb",
+        "comment": "SHA-256 of extension package for flappy bird (dkjcbfalbdfkldmnbanldhibejlppfef)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "103613eb-805c-58b1-a722-acc1b8d2d77a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bgecemhbllcmiggkolcialnelflpgaek",
+        "comment": "Facebook Messenger Chat Export | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.11",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.11\""
+          }
+        ]
+      },
+      {
+        "uuid": "00093e0c-502b-584a-a731-9b23206e7bb7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bgecemhbllcmiggkolcialnelflpgaek",
+        "comment": "Chrome Web Store entry for Facebook Messenger Chat Export (bgecemhbllcmiggkolcialnelflpgaek)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f90d68ee-0554-56f8-9742-b27767950057",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3d15d5203481400b9efd7184307438aca91764122a4c0a1042dcc08bb557190a",
+        "comment": "SHA-256 of extension package for Facebook Messenger Chat Export (bgecemhbllcmiggkolcialnelflpgaek)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9f9b58e9-dc83-5c48-8ae1-be0672631295",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "laeiielmfaebicamghnemnjooikicidd",
+        "comment": "Monero Wallet - Parti | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.3.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.3.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "41a35f12-de32-5f8a-9e12-4a6122de6787",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/laeiielmfaebicamghnemnjooikicidd",
+        "comment": "Chrome Web Store entry for Monero Wallet - Parti (laeiielmfaebicamghnemnjooikicidd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "962b25d5-c5cb-5fd2-a5db-6087a460b77c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b26a1cfdcb3cd412ad63aa94f4e172a4bbdd68580b6136746a7d68414975bd7a",
+        "comment": "SHA-256 of extension package for Monero Wallet - Parti (laeiielmfaebicamghnemnjooikicidd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a981aa15-ecc7-5f86-99f4-0fdb8a130f4d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fjdlpaldcfddkeeijijkfcfaidmofpah",
+        "comment": "7-iptv \u2014 4K Live TV & Global Media Streaming | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.0.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2675c92-fa98-502b-ae78-215dd2a6fee1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fjdlpaldcfddkeeijijkfcfaidmofpah",
+        "comment": "Chrome Web Store entry for 7-iptv \u2014 4K Live TV & Global Media Streaming (fjdlpaldcfddkeeijijkfcfaidmofpah)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8ac0e100-487f-5c87-92cb-41ab9c5b10e7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "dcb096b155c17970fea3a299a0ff97399ba29ce72daec649eb714e6b7017c5d8",
+        "comment": "SHA-256 of extension package for 7-iptv \u2014 4K Live TV & Global Media Streaming (fjdlpaldcfddkeeijijkfcfaidmofpah)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2acd423a-c02b-5a0a-86dd-14f3d11649af",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dhpdpfbjnkmkjhefebgffpljdknifhbo",
+        "comment": "Flappy Bird Original | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "621c8dbc-286d-5238-9963-3e2679613a79",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dhpdpfbjnkmkjhefebgffpljdknifhbo",
+        "comment": "Chrome Web Store entry for Flappy Bird Original (dhpdpfbjnkmkjhefebgffpljdknifhbo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4e91a31d-c0ed-5ccb-a202-7ae21d183b33",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "57f29053a4bc6b5903b63033e02ec9c01801ba1674623265da83951e13b2a4e1",
+        "comment": "SHA-256 of extension package for Flappy Bird Original (dhpdpfbjnkmkjhefebgffpljdknifhbo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "431fc777-1798-521f-830b-36512fba6c67",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dacfbnogkkcmoabiechdkbjfnbpeicbm",
+        "comment": "Websol: Sui Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "9f63a98d-0643-508a-93c0-aa8901cd5f57",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dacfbnogkkcmoabiechdkbjfnbpeicbm",
+        "comment": "Chrome Web Store entry for Websol: Sui Wallet (dacfbnogkkcmoabiechdkbjfnbpeicbm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a3d2ea84-dfbd-5805-94d2-2a794d5d1bf8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3c0257a79599dbca7d0182c1f25a68489bfed93d67a36e04a2a93ab0e994e591",
+        "comment": "SHA-256 of extension package for Websol: Sui Wallet (dacfbnogkkcmoabiechdkbjfnbpeicbm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "90d274a8-d06e-52d1-8a88-149a8133716d",
         "type": "text",
