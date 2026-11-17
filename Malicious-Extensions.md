@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| jfabgdapaondcfbjhocmokdjjfdmpomp | Avaxava - Avalanche Wallet | Malware | Store Monitoring | 17/11/26 | No | Google Chrome
+| pajpbamjbepjhohcldkfkbdobogcbffd | Viex Wallet | Malware | Store Monitoring | 17/11/26 | No | Google Chrome
+| mchfdclkdanpahfendecnkollhimafag | Flappy Bird Chrome | Policy Violation | Store Monitoring | 17/11/26 | No | Google Chrome
+| okdjfcnkanonahagfdgmobffgodgpmle | QuorBit - ICP Wallet | Malware | Store Monitoring | 17/11/26 | No | Google Chrome
+| eokidhkocjfcegbbgoipndankoogbcbj | Site Web Metrics — Domain Insight Panel | Bundling Unwanted Software | Store Monitoring | 17/11/26 | No | Google Chrome
+| fppgjcgeajekgdpcfgogbiboanoiokdk | Traffic Pulse — Live Tab Metrics | Bundling Unwanted Software | Store Monitoring | 17/11/26 | No | Google Chrome
+| ddnfadnachfpajdkbjgnciomfllbimee | Facebook Inviter | Policy Violation | Store Monitoring | 17/11/26 | No | Google Chrome
 | hbiichfklkmlebacdfhkojcpmmakmamk | GitHub Recommender | Policy Violation | Store Monitoring | 16/11/26 | No | Google Chrome
 | hmmbilmcjpiaclgkjdncifpabjihelan | Flappy Bird Extension | Policy Violation | Store Monitoring | 16/11/26 | No | Google Chrome
 | hfdicknclhghbjihgmficjoklahmilmg | Flappy Bird Pro - Enhanced Edition | Policy Violation | Store Monitoring | 16/11/26 | No | Google Chrome
@@ -705,6 +712,9 @@
 | njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| ollnblnnjlikaafinmciemgfgpkaendf | WhatsApp Web Side Panel - Tabbee | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| gijokebkaijbgjdkdjihccpddihppgcf | WhatsApp Web™ Open SideBar in Chrome | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| ebnfodjaapmcbeainbfclmfbhlogcjpb | Flappy bird Original | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | okdkohiaklhiajonhgebakjpahokojml | FlowBulk | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ndbiekgckmjfcdmekbkdmoioohdjfhmg | Claude AI Prompt Manager | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | icijpbhieinkgbbjigheefojikmblada | Depression: SpongeBob & Gary (Live Wallpaper) | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
