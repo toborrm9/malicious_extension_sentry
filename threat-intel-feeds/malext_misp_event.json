@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-11-16",
-    "timestamp": "1794831769",
+    "date": "2026-11-17",
+    "timestamp": "1794908199",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,466 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "90d274a8-d06e-52d1-8a88-149a8133716d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jfabgdapaondcfbjhocmokdjjfdmpomp",
+        "comment": "Avaxava - Avalanche Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.5.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.5.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "bc8fc296-6d23-5e79-9c84-f8f7888c7aa8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jfabgdapaondcfbjhocmokdjjfdmpomp",
+        "comment": "Chrome Web Store entry for Avaxava - Avalanche Wallet (jfabgdapaondcfbjhocmokdjjfdmpomp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "98df3069-8297-5e52-aa12-da1649923b97",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0c5f75899e6631e40ac5a8a8d78ae63e500ee9e3218e104629b43e398ddcd3e6",
+        "comment": "SHA-256 of extension package for Avaxava - Avalanche Wallet (jfabgdapaondcfbjhocmokdjjfdmpomp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9d8248c9-ad4d-5213-a80f-211eb4cf80e3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ollnblnnjlikaafinmciemgfgpkaendf",
+        "comment": "WhatsApp Web Side Panel - Tabbee | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "36ce05d6-6c38-53d7-8352-773ffb3b9e5a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ollnblnnjlikaafinmciemgfgpkaendf",
+        "comment": "Chrome Web Store entry for WhatsApp Web Side Panel - Tabbee (ollnblnnjlikaafinmciemgfgpkaendf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "da393c86-5e03-543d-bf3a-882611edf2ab",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e34f58ccbfcaa13ef43c66c5020a646b752abb4755094a787759ce016688124c",
+        "comment": "SHA-256 of extension package for WhatsApp Web Side Panel - Tabbee (ollnblnnjlikaafinmciemgfgpkaendf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "90bd7450-b24d-5039-9c37-680be270f512",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pajpbamjbepjhohcldkfkbdobogcbffd",
+        "comment": "Viex Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "a126cea2-c1c7-5cb6-afda-66ddcedf57ff",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pajpbamjbepjhohcldkfkbdobogcbffd",
+        "comment": "Chrome Web Store entry for Viex Wallet (pajpbamjbepjhohcldkfkbdobogcbffd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "c99cfaa7-2147-5707-bd33-73b286e890e8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9e0fe7c7855e30ac762284d0b131ae4abfdc75479adbfea8bec83d335bf04385",
+        "comment": "SHA-256 of extension package for Viex Wallet (pajpbamjbepjhohcldkfkbdobogcbffd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a3a61108-2bbe-53e8-9899-87405b9ab0de",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mchfdclkdanpahfendecnkollhimafag",
+        "comment": "Flappy Bird Chrome | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "3ef67057-bd9d-5443-9192-dc032881897d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mchfdclkdanpahfendecnkollhimafag",
+        "comment": "Chrome Web Store entry for Flappy Bird Chrome (mchfdclkdanpahfendecnkollhimafag)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "85afd549-9b5d-5157-ae7b-3f020e134b48",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "605b7fe606068bc55b60a79d5b556ee01a5564eb4000edd9c7a3dab958abaa78",
+        "comment": "SHA-256 of extension package for Flappy Bird Chrome (mchfdclkdanpahfendecnkollhimafag)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a1ca02bf-693e-5c9b-8be9-3bf113ba7dcf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gijokebkaijbgjdkdjihccpddihppgcf",
+        "comment": "WhatsApp Web\u2122 Open SideBar in Chrome | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 0.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "2d8a5d4c-2ede-5bcf-bab4-bf9ead5522cd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gijokebkaijbgjdkdjihccpddihppgcf",
+        "comment": "Chrome Web Store entry for WhatsApp Web\u2122 Open SideBar in Chrome (gijokebkaijbgjdkdjihccpddihppgcf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4caf6e65-d4bd-5f26-82d6-5daa9db065a0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "864381e659d194450a83f4857ce573fac7b7f1591d034f09e978c37f98a5fe2d",
+        "comment": "SHA-256 of extension package for WhatsApp Web\u2122 Open SideBar in Chrome (gijokebkaijbgjdkdjihccpddihppgcf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e5cdd3d9-574c-50dc-8078-eae1cf73a3cb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "okdjfcnkanonahagfdgmobffgodgpmle",
+        "comment": "QuorBit - ICP Wallet | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "c08f9467-15d2-5927-a075-35f39df5ef69",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/okdjfcnkanonahagfdgmobffgodgpmle",
+        "comment": "Chrome Web Store entry for QuorBit - ICP Wallet (okdjfcnkanonahagfdgmobffgodgpmle)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "26c97944-b1a3-57f4-bcb0-defa2ebe3e32",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "56d73ce1c92f94b1bd232655ecbe39851a9b905910d5f0906efbf7e2ca05802a",
+        "comment": "SHA-256 of extension package for QuorBit - ICP Wallet (okdjfcnkanonahagfdgmobffgodgpmle)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0af42cd2-804a-5fbc-9094-cdda34f50b2d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eokidhkocjfcegbbgoipndankoogbcbj",
+        "comment": "Site Web Metrics \u2014 Domain Insight Panel | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "63a6819b-adf0-5271-b3c7-236c8e0b73d8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eokidhkocjfcegbbgoipndankoogbcbj",
+        "comment": "Chrome Web Store entry for Site Web Metrics \u2014 Domain Insight Panel (eokidhkocjfcegbbgoipndankoogbcbj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f8d94452-7d5e-58ff-8aa1-fda2436d2216",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1d2e6971e513c37dc96eed124cdfe61dd9ee13a3e43c8d54e9495f4962db2014",
+        "comment": "SHA-256 of extension package for Site Web Metrics \u2014 Domain Insight Panel (eokidhkocjfcegbbgoipndankoogbcbj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e0d4dd4f-80ec-50b4-abec-8fe2b7e4227c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fppgjcgeajekgdpcfgogbiboanoiokdk",
+        "comment": "Traffic Pulse \u2014 Live Tab Metrics | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "23dffef6-9b58-51c0-ba5c-f7a047116304",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fppgjcgeajekgdpcfgogbiboanoiokdk",
+        "comment": "Chrome Web Store entry for Traffic Pulse \u2014 Live Tab Metrics (fppgjcgeajekgdpcfgogbiboanoiokdk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "144b41f3-8a1e-5496-ac0c-6d59321daf5f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "0844190f9048c1a3e530a46fbde32251e700cce3aff433fe180b5a4032614205",
+        "comment": "SHA-256 of extension package for Traffic Pulse \u2014 Live Tab Metrics (fppgjcgeajekgdpcfgogbiboanoiokdk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f0dab725-e5a2-584e-8261-ef58a2e7226b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ebnfodjaapmcbeainbfclmfbhlogcjpb",
+        "comment": "Flappy bird Original | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.0.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "1c3d3ee5-f72c-50b8-b064-b87ba4451b05",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ebnfodjaapmcbeainbfclmfbhlogcjpb",
+        "comment": "Chrome Web Store entry for Flappy bird Original (ebnfodjaapmcbeainbfclmfbhlogcjpb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a183cad9-75d4-50f5-82de-9a4a76e86b75",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3545b87ae3b7ce3ef6173bf825e5822168f34a7bc568a42367ad13557bed6f48",
+        "comment": "SHA-256 of extension package for Flappy bird Original (ebnfodjaapmcbeainbfclmfbhlogcjpb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "76eb12e1-afef-5df3-824d-b94b712359a0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ddnfadnachfpajdkbjgnciomfllbimee",
+        "comment": "Facebook Inviter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-17 | Version: 1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "7ef6884a-4509-5658-ab94-68de3bd60682",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ddnfadnachfpajdkbjgnciomfllbimee",
+        "comment": "Chrome Web Store entry for Facebook Inviter (ddnfadnachfpajdkbjgnciomfllbimee)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "eb382b4f-5aa9-51b7-bcd7-32dce7048cb4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "29509736ece29ba03e6e29ba45e040403fd440a6240efebe8ea6fa744127a2f9",
+        "comment": "SHA-256 of extension package for Facebook Inviter (ddnfadnachfpajdkbjgnciomfllbimee)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "9a5f6e19-a2ce-506b-a1fa-536a4e3e5ec5",
         "type": "text",
