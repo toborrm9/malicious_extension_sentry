@@ -1,12 +1,112 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-17T09:36:38Z",
+  "generated": "2026-11-17T21:48:49Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8505,
+  "total_indicators": 8515,
   "indicators": [
+    {
+      "extension_id": "ohgakgekjgecokngbbipojokipokkjho",
+      "name": "Flappy Bird Multiplayer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/ohgakgekjgecokngbbipojokipokkjho",
+      "sha256": "eeb02974af8393020e7c84b6926fd0c9acc0e601730700cd3b791c3582b015cd",
+      "version": "1.507"
+    },
+    {
+      "extension_id": "ndkdnfdghiobjfohecenmdceffkfcgmp",
+      "name": "TonEasy: Ton Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/ndkdnfdghiobjfohecenmdceffkfcgmp",
+      "sha256": "81a0e3495900912ddafff7fab71b73f070d38deb62302f4fab99fa128cbb28a8",
+      "version": "1.3"
+    },
+    {
+      "extension_id": "dlaahlfnphmaklngedbombmkgiihbpld",
+      "name": "Doge Wallet \u00b7 BigDoge",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/dlaahlfnphmaklngedbombmkgiihbpld",
+      "sha256": "6b14bbf7cd24a053891d25130829ab978ef20ae3542cff9bc1f2d18a004755e1",
+      "version": "1.2.1"
+    },
+    {
+      "extension_id": "dmfnmobeodidnfdkkfcpobhjlpeameef",
+      "name": "Facebook Post Downloader",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/dmfnmobeodidnfdkkfcpobhjlpeameef",
+      "sha256": "87a55cbb1abebd89cef0e0744f53a28e5ce7090878b84f0de70ee9dc026ea092",
+      "version": "0.1.3"
+    },
+    {
+      "extension_id": "dkjcbfalbdfkldmnbanldhibejlppfef",
+      "name": "flappy bird",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/dkjcbfalbdfkldmnbanldhibejlppfef",
+      "sha256": "42f6724de06feef7783f2faab44703f399d636e49ceebc1b7bcd8fe19a91f0eb",
+      "version": "1.2"
+    },
+    {
+      "extension_id": "bgecemhbllcmiggkolcialnelflpgaek",
+      "name": "Facebook Messenger Chat Export",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/bgecemhbllcmiggkolcialnelflpgaek",
+      "sha256": "3d15d5203481400b9efd7184307438aca91764122a4c0a1042dcc08bb557190a",
+      "version": "1.11"
+    },
+    {
+      "extension_id": "laeiielmfaebicamghnemnjooikicidd",
+      "name": "Monero Wallet - Parti",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/laeiielmfaebicamghnemnjooikicidd",
+      "sha256": "b26a1cfdcb3cd412ad63aa94f4e172a4bbdd68580b6136746a7d68414975bd7a",
+      "version": "1.3.2"
+    },
+    {
+      "extension_id": "fjdlpaldcfddkeeijijkfcfaidmofpah",
+      "name": "7-iptv \u2014 4K Live TV & Global Media Streaming",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/fjdlpaldcfddkeeijijkfcfaidmofpah",
+      "sha256": "dcb096b155c17970fea3a299a0ff97399ba29ce72daec649eb714e6b7017c5d8",
+      "version": "1.0.5"
+    },
+    {
+      "extension_id": "dhpdpfbjnkmkjhefebgffpljdknifhbo",
+      "name": "Flappy Bird Original",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/dhpdpfbjnkmkjhefebgffpljdknifhbo",
+      "sha256": "57f29053a4bc6b5903b63033e02ec9c01801ba1674623265da83951e13b2a4e1",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "dacfbnogkkcmoabiechdkbjfnbpeicbm",
+      "name": "Websol: Sui Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/dacfbnogkkcmoabiechdkbjfnbpeicbm",
+      "sha256": "3c0257a79599dbca7d0182c1f25a68489bfed93d67a36e04a2a93ab0e994e591",
+      "version": "1.2.1"
+    },
     {
       "extension_id": "jfabgdapaondcfbjhocmokdjjfdmpomp",
       "name": "Avaxava - Avalanche Wallet",
