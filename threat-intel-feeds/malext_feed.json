@@ -1,12 +1,112 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-16T12:22:47Z",
+  "generated": "2026-11-17T09:36:38Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8495,
+  "total_indicators": 8505,
   "indicators": [
+    {
+      "extension_id": "jfabgdapaondcfbjhocmokdjjfdmpomp",
+      "name": "Avaxava - Avalanche Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/jfabgdapaondcfbjhocmokdjjfdmpomp",
+      "sha256": "0c5f75899e6631e40ac5a8a8d78ae63e500ee9e3218e104629b43e398ddcd3e6",
+      "version": "1.5.1"
+    },
+    {
+      "extension_id": "ollnblnnjlikaafinmciemgfgpkaendf",
+      "name": "WhatsApp Web Side Panel - Tabbee",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/ollnblnnjlikaafinmciemgfgpkaendf",
+      "sha256": "e34f58ccbfcaa13ef43c66c5020a646b752abb4755094a787759ce016688124c",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "pajpbamjbepjhohcldkfkbdobogcbffd",
+      "name": "Viex Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/pajpbamjbepjhohcldkfkbdobogcbffd",
+      "sha256": "9e0fe7c7855e30ac762284d0b131ae4abfdc75479adbfea8bec83d335bf04385",
+      "version": "1.4"
+    },
+    {
+      "extension_id": "mchfdclkdanpahfendecnkollhimafag",
+      "name": "Flappy Bird Chrome",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/mchfdclkdanpahfendecnkollhimafag",
+      "sha256": "605b7fe606068bc55b60a79d5b556ee01a5564eb4000edd9c7a3dab958abaa78",
+      "version": "1.0"
+    },
+    {
+      "extension_id": "gijokebkaijbgjdkdjihccpddihppgcf",
+      "name": "WhatsApp Web\u2122 Open SideBar in Chrome",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/gijokebkaijbgjdkdjihccpddihppgcf",
+      "sha256": "864381e659d194450a83f4857ce573fac7b7f1591d034f09e978c37f98a5fe2d",
+      "version": "0.0.2"
+    },
+    {
+      "extension_id": "okdjfcnkanonahagfdgmobffgodgpmle",
+      "name": "QuorBit - ICP Wallet",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/okdjfcnkanonahagfdgmobffgodgpmle",
+      "sha256": "56d73ce1c92f94b1bd232655ecbe39851a9b905910d5f0906efbf7e2ca05802a",
+      "version": "1.2.1"
+    },
+    {
+      "extension_id": "eokidhkocjfcegbbgoipndankoogbcbj",
+      "name": "Site Web Metrics \u2014 Domain Insight Panel",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/eokidhkocjfcegbbgoipndankoogbcbj",
+      "sha256": "1d2e6971e513c37dc96eed124cdfe61dd9ee13a3e43c8d54e9495f4962db2014",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "fppgjcgeajekgdpcfgogbiboanoiokdk",
+      "name": "Traffic Pulse \u2014 Live Tab Metrics",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/fppgjcgeajekgdpcfgogbiboanoiokdk",
+      "sha256": "0844190f9048c1a3e530a46fbde32251e700cce3aff433fe180b5a4032614205",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ebnfodjaapmcbeainbfclmfbhlogcjpb",
+      "name": "Flappy bird Original",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/ebnfodjaapmcbeainbfclmfbhlogcjpb",
+      "sha256": "3545b87ae3b7ce3ef6173bf825e5822168f34a7bc568a42367ad13557bed6f48",
+      "version": "1.0.0.0"
+    },
+    {
+      "extension_id": "ddnfadnachfpajdkbjgnciomfllbimee",
+      "name": "Facebook Inviter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-17",
+      "store_url": "https://chromewebstore.google.com/detail/ddnfadnachfpajdkbjgnciomfllbimee",
+      "sha256": "29509736ece29ba03e6e29ba45e040403fd440a6240efebe8ea6fa744127a2f9",
+      "version": "1.1"
+    },
     {
       "extension_id": "hbiichfklkmlebacdfhkojcpmmakmamk",
       "name": "GitHub Recommender",
