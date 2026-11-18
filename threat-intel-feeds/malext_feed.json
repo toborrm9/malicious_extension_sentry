@@ -1,12 +1,82 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-17T21:48:49Z",
+  "generated": "2026-11-18T17:20:33Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8515,
+  "total_indicators": 8522,
   "indicators": [
+    {
+      "extension_id": "hkoecgkaknimiikdkmaologoemammohc",
+      "name": "CW New Tab \u2014 Live Wallpapers & Widgets",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-18",
+      "store_url": "https://chromewebstore.google.com/detail/hkoecgkaknimiikdkmaologoemammohc",
+      "sha256": "46b2873c0bd848ec83d158c85ac21989c2cb2fe44b8ab7c5b1d6d5d7f1d9a5e3",
+      "version": "1.2.1"
+    },
+    {
+      "extension_id": "oecnhlfinmjfocnpklnfoojgehgnhcha",
+      "name": "Veo 4 AI Video Generator Flow",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-18",
+      "store_url": "https://chromewebstore.google.com/detail/oecnhlfinmjfocnpklnfoojgehgnhcha",
+      "sha256": "78086dbe4f5acc9c7f8ad43814e93aa0262ed75733603eb94cec2cea6b0ea800",
+      "version": "0.1.0"
+    },
+    {
+      "extension_id": "jgnigkmbdnimeklnjnpfjnjmmidbhccd",
+      "name": "Doubao Image Cleaner",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-18",
+      "store_url": "https://chromewebstore.google.com/detail/jgnigkmbdnimeklnjnpfjnjmmidbhccd",
+      "sha256": "45a04b98e84d4b55cd4748da9e6a1831474a7d9d0b9ec38fd60ff2385af7b378",
+      "version": "2.0.1"
+    },
+    {
+      "extension_id": "bioobpobpbeohjoefndgkiaakboimpch",
+      "name": "Claude Token Counter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-18",
+      "store_url": "https://chromewebstore.google.com/detail/bioobpobpbeohjoefndgkiaakboimpch",
+      "sha256": "65951e0771fcf09eef6b3ed7478f492b23a3f24a9cea6c916d06e5697989ebf7",
+      "version": "1.0.13"
+    },
+    {
+      "extension_id": "nkahfnibmdghkekciilegnoadhehffei",
+      "name": "Local MFA \u2014 Offline Authenticator",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-18",
+      "store_url": "https://chromewebstore.google.com/detail/nkahfnibmdghkekciilegnoadhehffei",
+      "sha256": "f64f1f35ee255f5fc10bcdee6979329be166b5974bddba8b0a99a08f71b7f663",
+      "version": "2.4.1"
+    },
+    {
+      "extension_id": "oclolfjagpccoaojhocgfaaeghefghmg",
+      "name": "Local Cookie Editor",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-18",
+      "store_url": "https://chromewebstore.google.com/detail/oclolfjagpccoaojhocgfaaeghefghmg",
+      "sha256": "91f5e17b4d03f2a885e9f6f8cec798b41325993b2340a03692ffe7cadfeae75f",
+      "version": "1.3.0"
+    },
+    {
+      "extension_id": "ohlmbbampapidnnkoimmmolnbdhacmdb",
+      "name": "Gears of War Wallpaper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-18",
+      "store_url": "https://chromewebstore.google.com/detail/ohlmbbampapidnnkoimmmolnbdhacmdb",
+      "sha256": "d61ef92a439e3c3b273c7c73de8efe3af3e2b085f9075eb9caa72ee5b0c5c182",
+      "version": "96.90.2.45"
+    },
     {
       "extension_id": "ohgakgekjgecokngbbipojokipokkjho",
       "name": "Flappy Bird Multiplayer",
