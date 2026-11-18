@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-11-17",
-    "timestamp": "1794952131",
+    "date": "2026-11-18",
+    "timestamp": "1795022435",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,328 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "aff6882a-2398-53ec-9b35-ab109761d202",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hkoecgkaknimiikdkmaologoemammohc",
+        "comment": "CW New Tab \u2014 Live Wallpapers & Widgets | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-18 | Version: 1.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "6cf9dbc1-7f3d-5065-b4a9-85bd84aaadf8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hkoecgkaknimiikdkmaologoemammohc",
+        "comment": "Chrome Web Store entry for CW New Tab \u2014 Live Wallpapers & Widgets (hkoecgkaknimiikdkmaologoemammohc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7f214a3b-4cec-5608-8446-656a9c54deb9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "46b2873c0bd848ec83d158c85ac21989c2cb2fe44b8ab7c5b1d6d5d7f1d9a5e3",
+        "comment": "SHA-256 of extension package for CW New Tab \u2014 Live Wallpapers & Widgets (hkoecgkaknimiikdkmaologoemammohc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "6ac40198-3f58-5a56-aef9-9c69f6be23be",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oecnhlfinmjfocnpklnfoojgehgnhcha",
+        "comment": "Veo 4 AI Video Generator Flow | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-18 | Version: 0.1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "c2f4607c-1b84-59e9-afad-d0b23a42099e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oecnhlfinmjfocnpklnfoojgehgnhcha",
+        "comment": "Chrome Web Store entry for Veo 4 AI Video Generator Flow (oecnhlfinmjfocnpklnfoojgehgnhcha)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "101ac059-a3f8-56e8-915e-745b485acbcb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "78086dbe4f5acc9c7f8ad43814e93aa0262ed75733603eb94cec2cea6b0ea800",
+        "comment": "SHA-256 of extension package for Veo 4 AI Video Generator Flow (oecnhlfinmjfocnpklnfoojgehgnhcha)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c80e02f8-3401-53a5-b6ef-d8328200e686",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jgnigkmbdnimeklnjnpfjnjmmidbhccd",
+        "comment": "Doubao Image Cleaner | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-18 | Version: 2.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "a0c7e432-7a5f-55bd-ba9c-979ec622ca22",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jgnigkmbdnimeklnjnpfjnjmmidbhccd",
+        "comment": "Chrome Web Store entry for Doubao Image Cleaner (jgnigkmbdnimeklnjnpfjnjmmidbhccd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0d0c77db-38bd-5db0-88af-31a87040b249",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "45a04b98e84d4b55cd4748da9e6a1831474a7d9d0b9ec38fd60ff2385af7b378",
+        "comment": "SHA-256 of extension package for Doubao Image Cleaner (jgnigkmbdnimeklnjnpfjnjmmidbhccd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b7f1f2a5-f66c-5b70-8ce7-870ed076dfde",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bioobpobpbeohjoefndgkiaakboimpch",
+        "comment": "Claude Token Counter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-18 | Version: 1.0.13",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.13\""
+          }
+        ]
+      },
+      {
+        "uuid": "795af675-586a-5809-8d9f-e49110d45069",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bioobpobpbeohjoefndgkiaakboimpch",
+        "comment": "Chrome Web Store entry for Claude Token Counter (bioobpobpbeohjoefndgkiaakboimpch)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7de2d6da-191a-5b7f-bfc4-8a153a1c9471",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "65951e0771fcf09eef6b3ed7478f492b23a3f24a9cea6c916d06e5697989ebf7",
+        "comment": "SHA-256 of extension package for Claude Token Counter (bioobpobpbeohjoefndgkiaakboimpch)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "12809b13-3afd-50c4-9098-f2255ad0a705",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nkahfnibmdghkekciilegnoadhehffei",
+        "comment": "Local MFA \u2014 Offline Authenticator | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-18 | Version: 2.4.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.4.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "1c021ee7-5b5c-57d0-b018-c222a18cbf93",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nkahfnibmdghkekciilegnoadhehffei",
+        "comment": "Chrome Web Store entry for Local MFA \u2014 Offline Authenticator (nkahfnibmdghkekciilegnoadhehffei)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d800b274-6e8f-57f5-aba3-c2574f5e5305",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f64f1f35ee255f5fc10bcdee6979329be166b5974bddba8b0a99a08f71b7f663",
+        "comment": "SHA-256 of extension package for Local MFA \u2014 Offline Authenticator (nkahfnibmdghkekciilegnoadhehffei)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "7eee6391-9006-5f64-8296-d53abec07f72",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oclolfjagpccoaojhocgfaaeghefghmg",
+        "comment": "Local Cookie Editor | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-18 | Version: 1.3.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.3.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "7c98917d-472c-55b8-b735-3636a9f028e9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oclolfjagpccoaojhocgfaaeghefghmg",
+        "comment": "Chrome Web Store entry for Local Cookie Editor (oclolfjagpccoaojhocgfaaeghefghmg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "be82b6af-eff1-5715-a732-6b9ee3ac6526",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "91f5e17b4d03f2a885e9f6f8cec798b41325993b2340a03692ffe7cadfeae75f",
+        "comment": "SHA-256 of extension package for Local Cookie Editor (oclolfjagpccoaojhocgfaaeghefghmg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "43b3fde5-4606-544f-ac32-c3a49e28ed18",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ohlmbbampapidnnkoimmmolnbdhacmdb",
+        "comment": "Gears of War Wallpaper | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-18 | Version: 96.90.2.45",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"96.90.2.45\""
+          }
+        ]
+      },
+      {
+        "uuid": "e5d77193-4290-5955-9529-edd54586cab2",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ohlmbbampapidnnkoimmmolnbdhacmdb",
+        "comment": "Chrome Web Store entry for Gears of War Wallpaper (ohlmbbampapidnnkoimmmolnbdhacmdb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b07698fa-6709-5276-9472-e7f34cb8eada",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d61ef92a439e3c3b273c7c73de8efe3af3e2b085f9075eb9caa72ee5b0c5c182",
+        "comment": "SHA-256 of extension package for Gears of War Wallpaper (ohlmbbampapidnnkoimmmolnbdhacmdb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "90844800-8488-5355-b141-2aff05b11a18",
         "type": "text",
