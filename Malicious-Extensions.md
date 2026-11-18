@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hkoecgkaknimiikdkmaologoemammohc | CW New Tab — Live Wallpapers & Widgets | Policy Violation | Store Monitoring | 18/11/26 | No | Google Chrome
+| oecnhlfinmjfocnpklnfoojgehgnhcha | Veo 4 AI Video Generator Flow | Policy Violation | Store Monitoring | 18/11/26 | No | Google Chrome
+| jgnigkmbdnimeklnjnpfjnjmmidbhccd | Doubao Image Cleaner | Policy Violation | Store Monitoring | 18/11/26 | No | Google Chrome
+| bioobpobpbeohjoefndgkiaakboimpch | Claude Token Counter | Policy Violation | Store Monitoring | 18/11/26 | No | Google Chrome
+| nkahfnibmdghkekciilegnoadhehffei | Local MFA — Offline Authenticator | Bundling Unwanted Software | Store Monitoring | 18/11/26 | No | Google Chrome
+| oclolfjagpccoaojhocgfaaeghefghmg | Local Cookie Editor | Bundling Unwanted Software | Store Monitoring | 18/11/26 | No | Google Chrome
+| ohlmbbampapidnnkoimmmolnbdhacmdb | Gears of War Wallpaper | Policy Violation | Store Monitoring | 18/11/26 | No | Google Chrome
 | ohgakgekjgecokngbbipojokipokkjho | Flappy Bird Multiplayer | Policy Violation | Store Monitoring | 17/11/26 | No | Google Chrome
 | ndkdnfdghiobjfohecenmdceffkfcgmp | TonEasy: Ton Wallet | Malware | Store Monitoring | 17/11/26 | No | Google Chrome
 | dlaahlfnphmaklngedbombmkgiihbpld | Doge Wallet · BigDoge | Malware | Store Monitoring | 17/11/26 | No | Google Chrome
