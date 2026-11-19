@@ -1,12 +1,22 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-18T17:20:33Z",
+  "generated": "2026-11-19T09:30:22Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8522,
+  "total_indicators": 8524,
   "indicators": [
+    {
+      "extension_id": "mihmklnonmojnfnjciklphjiahjhchpp",
+      "name": "Base Wallet Tracker Crypt",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-19",
+      "store_url": "https://chromewebstore.google.com/detail/mihmklnonmojnfnjciklphjiahjhchpp",
+      "sha256": "5f978e75e767d17f4be2310c60f690d5338845c0d8dee9a3b9ee78ff01f4ebc1",
+      "version": "1.0.0"
+    },
     {
       "extension_id": "hkoecgkaknimiikdkmaologoemammohc",
       "name": "CW New Tab \u2014 Live Wallpapers & Widgets",
@@ -7326,6 +7336,16 @@
       "store_url": "https://chromewebstore.google.com/detail/mllkpgcojiooenmengajhkailfjocond",
       "sha256": "adc8831ed68a7265c44bf7f2f3f8fb7ffdd247e7e11de6eb08e685d4d1197563",
       "version": "1.0.1"
+    },
+    {
+      "extension_id": "cnongeebpacaoppmniamfomdbcfdphha",
+      "name": "Cursorify \u2013 Change Mouse",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/cnongeebpacaoppmniamfomdbcfdphha",
+      "sha256": "a29f096167645ea1a9900f4a659b38ffd0b7feb63f5232ad9112caaba73accfc",
+      "version": "0.3.15"
     },
     {
       "extension_id": "okdkohiaklhiajonhgebakjpahokojml",
