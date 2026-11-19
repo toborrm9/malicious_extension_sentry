@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-11-18",
-    "timestamp": "1795022435",
+    "date": "2026-11-19",
+    "timestamp": "1795080624",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,52 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "f0ff29a2-8c05-555d-a5ab-6c065c0260e8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mihmklnonmojnfnjciklphjiahjhchpp",
+        "comment": "Base Wallet Tracker Crypt | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-19 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "e9f2e302-66ce-511a-a394-8b5c8014fed6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mihmklnonmojnfnjciklphjiahjhchpp",
+        "comment": "Chrome Web Store entry for Base Wallet Tracker Crypt (mihmklnonmojnfnjciklphjiahjhchpp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e05361f2-6b06-5d92-98ef-b6e66c85aaf4",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5f978e75e767d17f4be2310c60f690d5338845c0d8dee9a3b9ee78ff01f4ebc1",
+        "comment": "SHA-256 of extension package for Base Wallet Tracker Crypt (mihmklnonmojnfnjciklphjiahjhchpp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "aff6882a-2398-53ec-9b35-ab109761d202",
         "type": "text",
@@ -33330,6 +33376,52 @@
         "to_ids": true,
         "value": "adc8831ed68a7265c44bf7f2f3f8fb7ffdd247e7e11de6eb08e685d4d1197563",
         "comment": "SHA-256 of extension package for Chatgpt For Gmail (mllkpgcojiooenmengajhkailfjocond)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f9a1a329-541f-5ac9-9edb-7a024a4cb190",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cnongeebpacaoppmniamfomdbcfdphha",
+        "comment": "Cursorify \u2013 Change Mouse | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 0.3.15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.3.15\""
+          }
+        ]
+      },
+      {
+        "uuid": "1df6d2ab-0620-5cdf-9ce5-f8ebfa856ba0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cnongeebpacaoppmniamfomdbcfdphha",
+        "comment": "Chrome Web Store entry for Cursorify \u2013 Change Mouse (cnongeebpacaoppmniamfomdbcfdphha)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "365ac88b-2d0e-5c9b-9d52-0d36e60a4853",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a29f096167645ea1a9900f4a659b38ffd0b7feb63f5232ad9112caaba73accfc",
+        "comment": "SHA-256 of extension package for Cursorify \u2013 Change Mouse (cnongeebpacaoppmniamfomdbcfdphha)",
         "distribution": "5",
         "Tag": [
           {
