@@ -1,5 +1,12 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| gpfnpbpkadjgeoneammbiiidbkgkncaa | Tidyread - Read more in less time | Policy Violation | Store Monitoring | 20/11/26 | No | Google Chrome
+| akogkohajociklmfmcdkicpjefgoefel | 佳同跨境-mkd插件 | Bundling Unwanted Software | Store Monitoring | 20/11/26 | No | Google Chrome
+| ngagaahlooknahpbppifocdndhcdknel | MYNT: Material You New Tab | Policy Violation | Store Monitoring | 20/11/26 | No | Google Chrome
+| bjcfejhmbcbpngohabeibdhloechgabd | NewTab | Policy Violation | Store Monitoring | 20/11/26 | No | Google Chrome
+| hfnebfgicgkohijodoncncboffkfkpkf | Home Content Blocker | Policy Violation | Store Monitoring | 20/11/26 | No | Google Chrome
+| kpjlgcaenibhfokmcdjpkdlgkidclckj | Verity | Policy Violation | Store Monitoring | 20/11/26 | No | Google Chrome
+| cnongeebpacaoppmniamfomdbcfdphha | Cursorify – Change Mouse | Malware | Store Monitoring | 19/11/26 | No | Google Chrome
 | mihmklnonmojnfnjciklphjiahjhchpp | Base Wallet Tracker Crypt | Bundling Unwanted Software | Store Monitoring | 19/11/26 | No | Google Chrome
 | hkoecgkaknimiikdkmaologoemammohc | CW New Tab — Live Wallpapers & Widgets | Policy Violation | Store Monitoring | 18/11/26 | No | Google Chrome
 | oecnhlfinmjfocnpklnfoojgehgnhcha | Veo 4 AI Video Generator Flow | Policy Violation | Store Monitoring | 18/11/26 | No | Google Chrome
@@ -733,7 +740,6 @@
 | njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
-| cnongeebpacaoppmniamfomdbcfdphha | Cursorify – Change Mouse | Malware | Store Monitoring | 18/10/26 | No | Google Chrome
 | okdkohiaklhiajonhgebakjpahokojml | FlowBulk | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ndbiekgckmjfcdmekbkdmoioohdjfhmg | Claude AI Prompt Manager | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | icijpbhieinkgbbjigheefojikmblada | Depression: SpongeBob & Gary (Live Wallpaper) | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
