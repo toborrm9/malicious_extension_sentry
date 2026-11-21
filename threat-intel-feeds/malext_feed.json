@@ -1,12 +1,172 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-20T12:17:57Z",
+  "generated": "2026-11-21T09:46:08Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8524,
+  "total_indicators": 8539,
   "indicators": [
+    {
+      "extension_id": "pidkjcapccmhpdokcjnkngcflobhopdl",
+      "name": "Flappy Bird Offline",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/pidkjcapccmhpdokcjnkngcflobhopdl",
+      "sha256": "d1d09941fc3e5d91d163b92a31328e45e8608e9c16bbb0e6b45cd151a26d535e",
+      "version": "2.0.0"
+    },
+    {
+      "extension_id": "imaocjgincilabbdpbggemcnepdkddmh",
+      "name": "Reveal AI",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/imaocjgincilabbdpbggemcnepdkddmh",
+      "sha256": "b0a527011b9e976020944e236da18d49d3dbfdb1acba2ac18b9c5c68c63efbd6",
+      "version": "1.7"
+    },
+    {
+      "extension_id": "elhgonfjhpaaoeokcbcngcfjiiaodael",
+      "name": "TikTok Video Downloader Pro",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/elhgonfjhpaaoeokcbcngcfjiiaodael",
+      "sha256": "79421878f97d81f349cc250f14e2a6f6a94dd91e670247ab1c8f24ac4a0548d0",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "fiecddjjbhcickelmhfpgofkgcgpkfdd",
+      "name": "TokToMP4 \u2013 Video, Photo & Slideshow Downloader for TikTok",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/fiecddjjbhcickelmhfpgofkgcgpkfdd",
+      "sha256": "c50cbaaa6b1c0e348ea7fb60bd0c822fab45e80abc88e250add5c4f9d41e971b",
+      "version": "0.1.2"
+    },
+    {
+      "extension_id": "enkoddfdmkbkhehojmdfhabkfjcedmgc",
+      "name": "Flappy Bird for Chrome",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/enkoddfdmkbkhehojmdfhabkfjcedmgc",
+      "sha256": "d161266ac89b327a23ce31ce3b9efb8f008d0308a2438758371827e2eac759c3",
+      "version": "1.8.0"
+    },
+    {
+      "extension_id": "agjpibdloejnnmeegdfadpfohadhljnp",
+      "name": "Bulk URL Opener \u2013 Open Multiple URLs",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/agjpibdloejnnmeegdfadpfohadhljnp",
+      "sha256": "758f15484bdbab00cb837df0b7331ce2e0407c38e19a87257d581cefde613503",
+      "version": "0.2.1"
+    },
+    {
+      "extension_id": "aejdicmbgglbjfepfbiofnmibcgkkjej",
+      "name": "Flappy Bird Original",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/aejdicmbgglbjfepfbiofnmibcgkkjej",
+      "sha256": "34ea72f1c54ee09fc5ef4633eb462530fdac0e8f4ca8377533393c213945658b",
+      "version": "1.0.4"
+    },
+    {
+      "extension_id": "llmbdmomjmaeegghbkipaolieilmegld",
+      "name": "Flappy Budgies Offline. Desktop Version",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/llmbdmomjmaeegghbkipaolieilmegld",
+      "sha256": "71e742c3cae10cdbe55d652cda32772f6d07c527db71059d1714fb4b85ee9ef6",
+      "version": "1.0.3"
+    },
+    {
+      "extension_id": "kkbiodhcfmdbgjpnfaofbfgmjiobdekc",
+      "name": "Flappy Bird - Classic game",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/kkbiodhcfmdbgjpnfaofbfgmjiobdekc",
+      "sha256": "22d5fc803305dbca11a203f56a8e621503088a6dd6539ee457544a801245cc54",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "gpfnpbpkadjgeoneammbiiidbkgkncaa",
+      "name": "Tidyread - Read more in less time",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-20",
+      "store_url": "https://chromewebstore.google.com/detail/gpfnpbpkadjgeoneammbiiidbkgkncaa",
+      "sha256": "c09f5942109ed09ecec21c0141686f6ade315168d4f83e130d7cb0ec052c3300",
+      "version": "0.3.8"
+    },
+    {
+      "extension_id": "akogkohajociklmfmcdkicpjefgoefel",
+      "name": "\u4f73\u540c\u8de8\u5883-mkd\u63d2\u4ef6",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-20",
+      "store_url": "https://chromewebstore.google.com/detail/akogkohajociklmfmcdkicpjefgoefel",
+      "sha256": "99a5e4c02e660479bed4eb6c0741084a0c47664a4e4d92877b09433ae38e30b2",
+      "version": "1.0.2"
+    },
+    {
+      "extension_id": "ngagaahlooknahpbppifocdndhcdknel",
+      "name": "MYNT: Material You New Tab",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-20",
+      "store_url": "https://chromewebstore.google.com/detail/ngagaahlooknahpbppifocdndhcdknel",
+      "sha256": "4641a0ade6fd521afa02c1c86f5f8d88322b92e1973fd8bae07c5c611db281d5",
+      "version": "3.3.6"
+    },
+    {
+      "extension_id": "bjcfejhmbcbpngohabeibdhloechgabd",
+      "name": "NewTab",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-20",
+      "store_url": "https://chromewebstore.google.com/detail/bjcfejhmbcbpngohabeibdhloechgabd",
+      "sha256": "4659eaf973c0fcc72f1764a8b20605731bf7623e9c57e059d703ede536ca9d4c",
+      "version": "4"
+    },
+    {
+      "extension_id": "hfnebfgicgkohijodoncncboffkfkpkf",
+      "name": "Home Content Blocker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-20",
+      "store_url": "https://chromewebstore.google.com/detail/hfnebfgicgkohijodoncncboffkfkpkf",
+      "sha256": "1973fd5ac5332058013bf203547ef9d2d2d225a0d88060757f195ed6f502327e",
+      "version": "0.1.14"
+    },
+    {
+      "extension_id": "kpjlgcaenibhfokmcdjpkdlgkidclckj",
+      "name": "Verity",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-20",
+      "store_url": "https://chromewebstore.google.com/detail/kpjlgcaenibhfokmcdjpkdlgkidclckj",
+      "sha256": "8736b00bbffa3f504ffa5dde2fb493c505418be6603415633d9a98e1d09de1ba",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "cnongeebpacaoppmniamfomdbcfdphha",
+      "name": "Cursorify \u2013 Change Mouse",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-19",
+      "store_url": "https://chromewebstore.google.com/detail/cnongeebpacaoppmniamfomdbcfdphha",
+      "sha256": "a29f096167645ea1a9900f4a659b38ffd0b7feb63f5232ad9112caaba73accfc",
+      "version": "0.3.15"
+    },
     {
       "extension_id": "mihmklnonmojnfnjciklphjiahjhchpp",
       "name": "Base Wallet Tracker Crypt",
@@ -7336,16 +7496,6 @@
       "store_url": "https://chromewebstore.google.com/detail/mllkpgcojiooenmengajhkailfjocond",
       "sha256": "adc8831ed68a7265c44bf7f2f3f8fb7ffdd247e7e11de6eb08e685d4d1197563",
       "version": "1.0.1"
-    },
-    {
-      "extension_id": "cnongeebpacaoppmniamfomdbcfdphha",
-      "name": "Cursorify \u2013 Change Mouse",
-      "source": "Store Monitoring",
-      "store": "Google Chrome",
-      "insert_date": "2026-10-18",
-      "store_url": "https://chromewebstore.google.com/detail/cnongeebpacaoppmniamfomdbcfdphha",
-      "sha256": "a29f096167645ea1a9900f4a659b38ffd0b7feb63f5232ad9112caaba73accfc",
-      "version": "0.3.15"
     },
     {
       "extension_id": "okdkohiaklhiajonhgebakjpahokojml",
