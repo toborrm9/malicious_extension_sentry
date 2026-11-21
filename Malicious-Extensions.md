@@ -1,5 +1,14 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| pidkjcapccmhpdokcjnkngcflobhopdl | Flappy Bird Offline | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
+| imaocjgincilabbdpbggemcnepdkddmh | Reveal AI | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
+| elhgonfjhpaaoeokcbcngcfjiiaodael | TikTok Video Downloader Pro | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
+| fiecddjjbhcickelmhfpgofkgcgpkfdd | TokToMP4 – Video, Photo & Slideshow Downloader for TikTok | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
+| enkoddfdmkbkhehojmdfhabkfjcedmgc | Flappy Bird for Chrome | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
+| agjpibdloejnnmeegdfadpfohadhljnp | Bulk URL Opener – Open Multiple URLs | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
+| aejdicmbgglbjfepfbiofnmibcgkkjej | Flappy Bird Original | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
+| llmbdmomjmaeegghbkipaolieilmegld | Flappy Budgies Offline. Desktop Version | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
+| kkbiodhcfmdbgjpnfaofbfgmjiobdekc | Flappy Bird - Classic game | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
 | gpfnpbpkadjgeoneammbiiidbkgkncaa | Tidyread - Read more in less time | Policy Violation | Store Monitoring | 20/11/26 | No | Google Chrome
 | akogkohajociklmfmcdkicpjefgoefel | 佳同跨境-mkd插件 | Bundling Unwanted Software | Store Monitoring | 20/11/26 | No | Google Chrome
 | ngagaahlooknahpbppifocdndhcdknel | MYNT: Material You New Tab | Policy Violation | Store Monitoring | 20/11/26 | No | Google Chrome
