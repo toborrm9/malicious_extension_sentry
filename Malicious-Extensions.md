@@ -1,5 +1,37 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| cggoopngfemgjnokohjbomendhifbmlj | VibeLex - A Dictionary/Translator Extension | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
+| pilihkgmgnbmfbbhmnhahapnpckmodkj | แวะทัก (Wae-Tak) | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
+| fbapgngopibomemgmgghnppfgcibdcoe | VU Magic - All in One Extention for VULMS , DigiSkill and CISCO | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
+| afhfbdbjojkmnjhlcefomefflbkbhpcc | Bitcoin Extension | Malware | Store Monitoring | 21/11/26 | No | Google Chrome
+| hphbfmpgckdkpnhekjiicfjbalfcncce | SYS.AO - Sistema de Atendimento Online | Malware | MalExt Analysis | 21/11/26 | No | Google Chrome
+| mcngdmbebcjmghlbhonfimmgdgbllped | performancemais | Malware | MalExt Analysis | 21/11/26 | No | Google Chrome
+| ljagfidpdhlpiegidbmehbfljnejjgkd | WhatSmart CRM \| Seu Whatsapp Otimizado e Inteligente! | Malware | MalExt Analysis | 21/11/26 | No | Google Chrome
+| pjaeioaakkaieckhghebjnigfkkhfehd | TekZap Conversas | Malware | MalExt Analysis | 21/11/26 | No | Google Chrome
+| pmddkicojbiihmegafjjcnjnlddniilg | Novo Envio Extensão: CRM, Automação de Vendas e Chatbot para WhatsApp Web | Malware | MalExt Analysis | 21/11/26 | No | Google Chrome
+| hmpghpaclffmekoicelhnfnkkimkehom | IV-CHAT | Malware | MalExt Analysis | 21/11/26 | No | Google Chrome
+| nmcfidceagjdhgpaldlgnjdiocecdinb | WhatSmart CRM \| Seu Whatsapp Otimizado e Inteligente! | Malware | MalExt Analysis | 21/11/26 | No | Google Chrome
+| dfenheodnpbgfelppdpfkmmbfkmlcnbo | Red Bull X-Alps | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| ajadnimpkbehakgklcfgcbnljcfcmloi | Grizzlys Wolfsburg | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| fpjhmkghneiganfdlhlddpebiomfcepg | OGC NICE Homepage | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| phcphbjjbiddpgenjflbfnaibhlbnjem | Hamburger SV | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| hheggcnkpmaijbonhpeeljhcgangeklo | EC Red Bull Salzburg | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| mkdjlecdkccopbbinflpbmapnfnaaclm | FC Bayern Basketball - Deine Startseite | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| cbcnpfajjimnmnmkpgmmhnmhjkaindpm | Everton | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| glkdgoijmkdamgonokjdehobckolcpde | Blackburn Rovers | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| odiadpibicgdkhnnmiegiaiiilifgfjg | Apollon FC | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| nhgihpciiooacimlepldjbfkkpejmlfi | Brentford Football Club | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| cfkaoolhbkkojlhegkcninapogjambcf | Game Twisted Rope Rope Merge | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 21/11/26 | No | Google Chrome
+| mkdkpepbhfmaiikiofpkgoabelfhmmjb | QR code generator \| reader | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 21/11/26 | No | Google Chrome
+| nnmmiionenbhefoofmbkipanomkjndle | Sidegame SkySpeedster | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 21/11/26 | No | Google Chrome
+| inhkambhljkccaciigjifkfmlcpebinj | Web Client for Ecosound | Malware | [socket.dev](https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2) | 21/11/26 | No | Google Chrome
+| mmhjlcabfcfjikojifodkhiekphghemo | Jot On Tab | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| pecgmnihbokhfnemdmjbkhcgpehlcokj | Fox Tab | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| adhkabibjnnpbchkedfdjoellmmncfkc | Tab Buddy | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| emicfmhngbbokinfmeodnidollbojapk | Torrent Search Engine For Chrome Professional | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| lljncgccioajcnjlkkigiecjekggdcco | Rutor Torrent Search Pro | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| lgkaokdjmahlncnjjpcienfopdblanda | Spotify Web Player | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
+| nejodadbhjddbiloobjfakjhbhegmnkj | Video Downloader Pro | Search Hijacking | MalExt Analysis | 21/11/26 | No | Google Chrome
 | pidkjcapccmhpdokcjnkngcflobhopdl | Flappy Bird Offline | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
 | imaocjgincilabbdpbggemcnepdkddmh | Reveal AI | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
 | elhgonfjhpaaoeokcbcngcfjiiaodael | TikTok Video Downloader Pro | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
