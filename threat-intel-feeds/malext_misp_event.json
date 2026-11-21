@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-11-21",
-    "timestamp": "1795254370",
+    "timestamp": "1795282951",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,1478 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "8f4bd863-3c15-57c4-b8e3-2c3214471f0a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cggoopngfemgjnokohjbomendhifbmlj",
+        "comment": "VibeLex - A Dictionary/Translator Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 1.3.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.3.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "2e7a3f19-d53c-570b-a1cf-7b3e851dc4dc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cggoopngfemgjnokohjbomendhifbmlj",
+        "comment": "Chrome Web Store entry for VibeLex - A Dictionary/Translator Extension (cggoopngfemgjnokohjbomendhifbmlj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b730dedd-c1cc-5ba3-8876-7a3c3c03f3aa",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "bc341413ec8ae91276d6576ea35836ecc9d4ba3a541680dafd486f7358cc4a2e",
+        "comment": "SHA-256 of extension package for VibeLex - A Dictionary/Translator Extension (cggoopngfemgjnokohjbomendhifbmlj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "9fcad6c9-a354-56a4-827a-eba5b7c2bd35",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pilihkgmgnbmfbbhmnhahapnpckmodkj",
+        "comment": "\u0e41\u0e27\u0e30\u0e17\u0e31\u0e01 (Wae-Tak) | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "da9b5ace-c130-5c45-aa9d-d5a530d98737",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pilihkgmgnbmfbbhmnhahapnpckmodkj",
+        "comment": "Chrome Web Store entry for \u0e41\u0e27\u0e30\u0e17\u0e31\u0e01 (Wae-Tak) (pilihkgmgnbmfbbhmnhahapnpckmodkj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "985ca689-fc06-5ed4-bd82-4832960920c8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4fe5e123276da9b0f73826fc5c3c928db6cf6566d3b3a8379c6b14d72bdf2b90",
+        "comment": "SHA-256 of extension package for \u0e41\u0e27\u0e30\u0e17\u0e31\u0e01 (Wae-Tak) (pilihkgmgnbmfbbhmnhahapnpckmodkj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "db48c384-764c-5f81-84bd-70ea40e46ac0",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fbapgngopibomemgmgghnppfgcibdcoe",
+        "comment": "VU Magic - All in One Extention for VULMS , DigiSkill and CISCO | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 2.2.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.2.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "a4e39c61-cda8-532d-8740-7d6397ade4c5",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fbapgngopibomemgmgghnppfgcibdcoe",
+        "comment": "Chrome Web Store entry for VU Magic - All in One Extention for VULMS , DigiSkill and CISCO (fbapgngopibomemgmgghnppfgcibdcoe)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "db64cf6e-8cd1-5e1a-8778-88794a879e63",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "195fa084bb185e81d254b621e3d5b8e2738d1a4d71414bc2ec48ee32a03de5b9",
+        "comment": "SHA-256 of extension package for VU Magic - All in One Extention for VULMS , DigiSkill and CISCO (fbapgngopibomemgmgghnppfgcibdcoe)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2c138f3d-13cc-507f-8282-ab625b46b162",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "afhfbdbjojkmnjhlcefomefflbkbhpcc",
+        "comment": "Bitcoin Extension | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 1.7.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.7.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "a410347a-83f2-5bcb-8f19-8f073c84e0e8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/afhfbdbjojkmnjhlcefomefflbkbhpcc",
+        "comment": "Chrome Web Store entry for Bitcoin Extension (afhfbdbjojkmnjhlcefomefflbkbhpcc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7edc8238-dcdf-5563-904a-8276ec58fe70",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3e2ae4eb46cabdd32341f9af9344fb23cf66c6405dc2b7b50f0f57caf1b22f46",
+        "comment": "SHA-256 of extension package for Bitcoin Extension (afhfbdbjojkmnjhlcefomefflbkbhpcc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "39e6b986-28d8-5e4d-b40f-fc1357b8b9f8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hphbfmpgckdkpnhekjiicfjbalfcncce",
+        "comment": "SYS.AO - Sistema de Atendimento Online | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 3.1.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.1.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "51c19f53-f1dc-5f8a-a0fa-574d6d0e400e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hphbfmpgckdkpnhekjiicfjbalfcncce",
+        "comment": "Chrome Web Store entry for SYS.AO - Sistema de Atendimento Online (hphbfmpgckdkpnhekjiicfjbalfcncce)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3f42b673-f235-5a46-831e-b1d14480342d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "120fc006ab89cae7978fe57136141ab16fc5f27b7f0c4c7c8412ee84d133aa9f",
+        "comment": "SHA-256 of extension package for SYS.AO - Sistema de Atendimento Online (hphbfmpgckdkpnhekjiicfjbalfcncce)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a7c82453-7b65-52f0-a3e8-e85fb6bcc327",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mcngdmbebcjmghlbhonfimmgdgbllped",
+        "comment": "performancemais | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 3.1.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.1.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "f5fa8bf9-fefd-5a46-9c75-f7921a212147",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mcngdmbebcjmghlbhonfimmgdgbllped",
+        "comment": "Chrome Web Store entry for performancemais (mcngdmbebcjmghlbhonfimmgdgbllped)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "17216647-51c8-5ae7-9971-8daa7a72cd1c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e810eeb99ec926bccb0ffeb7a527c8cd7d8c6768ae4a7da4f75892c270793101",
+        "comment": "SHA-256 of extension package for performancemais (mcngdmbebcjmghlbhonfimmgdgbllped)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "97ba39ed-3a7b-5755-9e88-dea6d82b2a17",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ljagfidpdhlpiegidbmehbfljnejjgkd",
+        "comment": "WhatSmart CRM | Seu Whatsapp Otimizado e Inteligente! | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 3.1.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.1.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "2baeb271-0b08-532d-adcc-47249c59c6e6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ljagfidpdhlpiegidbmehbfljnejjgkd",
+        "comment": "Chrome Web Store entry for WhatSmart CRM | Seu Whatsapp Otimizado e Inteligente! (ljagfidpdhlpiegidbmehbfljnejjgkd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e6d4215d-39f6-51f5-b3ea-d1efb105eb58",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2fced6b0c9b288e5cc734a90e5fb312a4ed873ed85fecabd54b2dd8cb7f16b3f",
+        "comment": "SHA-256 of extension package for WhatSmart CRM | Seu Whatsapp Otimizado e Inteligente! (ljagfidpdhlpiegidbmehbfljnejjgkd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "00cd8fa4-0d84-5e3d-b676-685e3e8efc08",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pjaeioaakkaieckhghebjnigfkkhfehd",
+        "comment": "TekZap Conversas | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 3.1.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.1.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "fe6402da-3092-5f06-978c-a1a67e4c2bfc",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pjaeioaakkaieckhghebjnigfkkhfehd",
+        "comment": "Chrome Web Store entry for TekZap Conversas (pjaeioaakkaieckhghebjnigfkkhfehd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "66c7a49d-a8c4-5e29-a06f-f676d2030136",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8201434a72f27d4d42b2c6afd454983c199a9b2ed2bb9985e4c29db0e31d4f24",
+        "comment": "SHA-256 of extension package for TekZap Conversas (pjaeioaakkaieckhghebjnigfkkhfehd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ed429707-6856-51f4-b601-8ba87321adf4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pmddkicojbiihmegafjjcnjnlddniilg",
+        "comment": "Novo Envio Extens\u00e3o: CRM, Automa\u00e7\u00e3o de Vendas e Chatbot para WhatsApp Web | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 3.1.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.1.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "c0c370fc-149c-5d43-acaa-4a828a8a392d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pmddkicojbiihmegafjjcnjnlddniilg",
+        "comment": "Chrome Web Store entry for Novo Envio Extens\u00e3o: CRM, Automa\u00e7\u00e3o de Vendas e Chatbot para WhatsApp Web (pmddkicojbiihmegafjjcnjnlddniilg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "df28efef-5444-5344-8470-f18b48aa8fef",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "30f7f46e24389f233d15a11cdaf4c06b9ce88390748d199a9d03ff449e0c1636",
+        "comment": "SHA-256 of extension package for Novo Envio Extens\u00e3o: CRM, Automa\u00e7\u00e3o de Vendas e Chatbot para WhatsApp Web (pmddkicojbiihmegafjjcnjnlddniilg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e956c2ae-7dd1-52e6-9013-0b13e7528cb9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hmpghpaclffmekoicelhnfnkkimkehom",
+        "comment": "IV-CHAT | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 3.1.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.1.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "189fdd8a-05e8-54b5-8943-456d20fa0872",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hmpghpaclffmekoicelhnfnkkimkehom",
+        "comment": "Chrome Web Store entry for IV-CHAT (hmpghpaclffmekoicelhnfnkkimkehom)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "784b9a38-c022-5673-bbca-9a76a250fbe1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "12faf806a5b3052f2a032b2114223de6cfbfb77c7111dad267cc739844d9d335",
+        "comment": "SHA-256 of extension package for IV-CHAT (hmpghpaclffmekoicelhnfnkkimkehom)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "41a0b860-6f90-5942-bc98-91b0916d7d30",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nmcfidceagjdhgpaldlgnjdiocecdinb",
+        "comment": "WhatSmart CRM | Seu Whatsapp Otimizado e Inteligente! | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 3.2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "519dfd0a-4b83-5899-ba6f-106700715ebf",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nmcfidceagjdhgpaldlgnjdiocecdinb",
+        "comment": "Chrome Web Store entry for WhatSmart CRM | Seu Whatsapp Otimizado e Inteligente! (nmcfidceagjdhgpaldlgnjdiocecdinb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bc46752b-0eea-5e30-89fc-87c0cde1b65c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "16e1affeb60c56f4f1c21c90a738bc605fa5809745070369590aebd8754ad39c",
+        "comment": "SHA-256 of extension package for WhatSmart CRM | Seu Whatsapp Otimizado e Inteligente! (nmcfidceagjdhgpaldlgnjdiocecdinb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a909a140-993d-5c14-b144-37b83f618c1f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dfenheodnpbgfelppdpfkmmbfkmlcnbo",
+        "comment": "Red Bull X-Alps | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 4.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "e07ce30a-b871-5523-b139-dfb8af43fdf8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dfenheodnpbgfelppdpfkmmbfkmlcnbo",
+        "comment": "Chrome Web Store entry for Red Bull X-Alps (dfenheodnpbgfelppdpfkmmbfkmlcnbo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8744ea4b-e114-544b-948f-0fe20f9f4f9b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ac05e5ede695f1cb6e5be57d507628e19c5855b348d6b67ae6dc464d6ea59ff7",
+        "comment": "SHA-256 of extension package for Red Bull X-Alps (dfenheodnpbgfelppdpfkmmbfkmlcnbo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "763cdec7-c15e-5993-adc1-2c840a740e7f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ajadnimpkbehakgklcfgcbnljcfcmloi",
+        "comment": "Grizzlys Wolfsburg | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 4.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "5c35f331-6f1a-5ef3-86f8-a2699df3d572",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ajadnimpkbehakgklcfgcbnljcfcmloi",
+        "comment": "Chrome Web Store entry for Grizzlys Wolfsburg (ajadnimpkbehakgklcfgcbnljcfcmloi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a0539629-79de-5b2f-bed2-a1cc026326d0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "33d86d50f7fbba6290c1ea9431f0f9924cc0ec91a669a71b8bc2955a97abfc0f",
+        "comment": "SHA-256 of extension package for Grizzlys Wolfsburg (ajadnimpkbehakgklcfgcbnljcfcmloi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "edf5a963-b122-5fff-9519-f31a0a9afe43",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fpjhmkghneiganfdlhlddpebiomfcepg",
+        "comment": "OGC NICE Homepage | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 4.1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "d16d12eb-a536-58fc-bb98-cbcffcee2c7f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fpjhmkghneiganfdlhlddpebiomfcepg",
+        "comment": "Chrome Web Store entry for OGC NICE Homepage (fpjhmkghneiganfdlhlddpebiomfcepg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "24d99ae3-0d33-5211-8fa1-bb463c99b304",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "acf5f86e85bcdb64428a006ccddbc15ccfcdf54ee52c647d7d8d42093a499fc9",
+        "comment": "SHA-256 of extension package for OGC NICE Homepage (fpjhmkghneiganfdlhlddpebiomfcepg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "dd344322-d00a-517d-8c0d-edb485d114e2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "phcphbjjbiddpgenjflbfnaibhlbnjem",
+        "comment": "Hamburger SV | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 4.1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "4f780746-27b1-5ed9-8b77-d7cc7c5d1dff",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/phcphbjjbiddpgenjflbfnaibhlbnjem",
+        "comment": "Chrome Web Store entry for Hamburger SV (phcphbjjbiddpgenjflbfnaibhlbnjem)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e979115e-25d2-5082-a01f-1288074a9280",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a069e23acd6c986a5add3e8db25fa2cb25fdcc2029852d1e782874304ba1f195",
+        "comment": "SHA-256 of extension package for Hamburger SV (phcphbjjbiddpgenjflbfnaibhlbnjem)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3fd6771b-5d08-5a3f-a653-5b7bdc10d55d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hheggcnkpmaijbonhpeeljhcgangeklo",
+        "comment": "EC Red Bull Salzburg | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 4.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "1dba510b-52fc-5b39-9a1d-43fbc547a217",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hheggcnkpmaijbonhpeeljhcgangeklo",
+        "comment": "Chrome Web Store entry for EC Red Bull Salzburg (hheggcnkpmaijbonhpeeljhcgangeklo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f34ec83a-ff0f-5fff-a786-7e470f2a5d8e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a9accbd527bb194be457ee6ca8097e2a360fe69ee01546619fa07e73ae74da68",
+        "comment": "SHA-256 of extension package for EC Red Bull Salzburg (hheggcnkpmaijbonhpeeljhcgangeklo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2e628179-b103-5d27-91f2-9c61cbcca647",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mkdjlecdkccopbbinflpbmapnfnaaclm",
+        "comment": "FC Bayern Basketball - Deine Startseite | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 4.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "3ea3095d-705d-5310-8513-3d3392dc5e80",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mkdjlecdkccopbbinflpbmapnfnaaclm",
+        "comment": "Chrome Web Store entry for FC Bayern Basketball - Deine Startseite (mkdjlecdkccopbbinflpbmapnfnaaclm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0d5f9149-a78c-5058-b8e7-19522ebcedc8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1d6491d59328c81603d1054699f1fb41d838937f9a042497b5b79d6a01bd18dd",
+        "comment": "SHA-256 of extension package for FC Bayern Basketball - Deine Startseite (mkdjlecdkccopbbinflpbmapnfnaaclm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "52b589d0-f2e5-561e-b391-16ce530c185f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cbcnpfajjimnmnmkpgmmhnmhjkaindpm",
+        "comment": "Everton | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 4.1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "7f901c5e-e873-5232-8b5f-5eb9f41ed641",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cbcnpfajjimnmnmkpgmmhnmhjkaindpm",
+        "comment": "Chrome Web Store entry for Everton (cbcnpfajjimnmnmkpgmmhnmhjkaindpm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "0803777e-bdd1-5d25-a638-54d6ee373b40",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ca4345d5e251369c23faae6c00d13d0797631bef5d61139df7e0fa3cf5042232",
+        "comment": "SHA-256 of extension package for Everton (cbcnpfajjimnmnmkpgmmhnmhjkaindpm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "882b5c36-9907-50d7-8c74-95a98f636f34",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "glkdgoijmkdamgonokjdehobckolcpde",
+        "comment": "Blackburn Rovers | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 4.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "061d2cdb-7180-5e7f-9029-59fdddfd1a7b",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/glkdgoijmkdamgonokjdehobckolcpde",
+        "comment": "Chrome Web Store entry for Blackburn Rovers (glkdgoijmkdamgonokjdehobckolcpde)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d5aa4f3e-a4c0-5475-acb8-4b4b6f1db80e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9cb47655550fae056c64ac5fffc69c34b46d1ccc0ac2821d43ea59e469e3f675",
+        "comment": "SHA-256 of extension package for Blackburn Rovers (glkdgoijmkdamgonokjdehobckolcpde)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "aa7db887-3d26-5dfa-b1c8-721772322291",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "odiadpibicgdkhnnmiegiaiiilifgfjg",
+        "comment": "Apollon FC | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 4.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "9bc6a8d0-f20f-5a79-b8b8-08d29f8c47a9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/odiadpibicgdkhnnmiegiaiiilifgfjg",
+        "comment": "Chrome Web Store entry for Apollon FC (odiadpibicgdkhnnmiegiaiiilifgfjg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5187f1ee-725f-5d2c-8b2c-47907d32ffc0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9f64d041d6a77d73ba4212446c7d1e52805884e4e8c930ebb93844e4ff219350",
+        "comment": "SHA-256 of extension package for Apollon FC (odiadpibicgdkhnnmiegiaiiilifgfjg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ea0c4eca-a3bb-5e7a-9341-14150a499628",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nhgihpciiooacimlepldjbfkkpejmlfi",
+        "comment": "Brentford Football Club | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 4.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "ebd178b2-f5d9-501e-a72b-f12630ac2b5f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nhgihpciiooacimlepldjbfkkpejmlfi",
+        "comment": "Chrome Web Store entry for Brentford Football Club (nhgihpciiooacimlepldjbfkkpejmlfi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "56d114d4-349f-5994-93fa-6ef4456f6844",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8d89283df3ca02b87353222bae7dd04cbcad3bfa012525cf0817cf64e7fa4cb3",
+        "comment": "SHA-256 of extension package for Brentford Football Club (nhgihpciiooacimlepldjbfkkpejmlfi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "eb23a070-3519-5253-8326-cbc76b4334ca",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cfkaoolhbkkojlhegkcninapogjambcf",
+        "comment": "Game Twisted Rope Rope Merge | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-11-21 | Version: 1.9.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.9.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "b648d59e-e16a-5de4-8e74-aad94b2f7e10",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cfkaoolhbkkojlhegkcninapogjambcf",
+        "comment": "Chrome Web Store entry for Game Twisted Rope Rope Merge (cfkaoolhbkkojlhegkcninapogjambcf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b2fa0a62-0170-5a4a-afbb-37cf0ba61f42",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b5197fa7be25f1551b778ca64ef1bacced3a31206f9e5678751d11f75955bdea",
+        "comment": "SHA-256 of extension package for Game Twisted Rope Rope Merge (cfkaoolhbkkojlhegkcninapogjambcf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d3e418fd-a55b-525c-aae3-2e7f29673678",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mkdkpepbhfmaiikiofpkgoabelfhmmjb",
+        "comment": "QR code generator | reader | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-11-21 | Version: 1.1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "d061b34a-d967-5875-b425-677d345e4a51",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mkdkpepbhfmaiikiofpkgoabelfhmmjb",
+        "comment": "Chrome Web Store entry for QR code generator | reader (mkdkpepbhfmaiikiofpkgoabelfhmmjb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f1772dbe-d9bd-51c7-a973-06e471f419f7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "048856c2d6b750be992f8711e7d2a8ada7d9f2ef4728bc56727c4b6d6e6e6e11",
+        "comment": "SHA-256 of extension package for QR code generator | reader (mkdkpepbhfmaiikiofpkgoabelfhmmjb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "558f289f-493e-5b00-96fe-53a2428caca2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nnmmiionenbhefoofmbkipanomkjndle",
+        "comment": "Sidegame SkySpeedster | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-11-21 | Version: 1.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "81e2d82a-a50b-5370-b44e-12b44280806e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nnmmiionenbhefoofmbkipanomkjndle",
+        "comment": "Chrome Web Store entry for Sidegame SkySpeedster (nnmmiionenbhefoofmbkipanomkjndle)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "7cd6f4bd-a38f-5d68-b6d0-f6de14577d67",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f4a02f7797b2d775cbdd3e952af9961fca35626e103b6a6a487e22f8e9720dd9",
+        "comment": "SHA-256 of extension package for Sidegame SkySpeedster (nnmmiionenbhefoofmbkipanomkjndle)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "87a97d65-87a4-5e6a-82b7-598e448727eb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "inhkambhljkccaciigjifkfmlcpebinj",
+        "comment": "Web Client for Ecosound | Source: https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2 | Store: Google Chrome | Added: 2026-11-21 | Version: 2.0.9",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.9\""
+          }
+        ]
+      },
+      {
+        "uuid": "1e41549a-196a-5200-be4b-67561041eca9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/inhkambhljkccaciigjifkfmlcpebinj",
+        "comment": "Chrome Web Store entry for Web Client for Ecosound (inhkambhljkccaciigjifkfmlcpebinj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "886e9121-4b3b-51a0-a181-d4f2ba012e64",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "117bdaeb8a90f2b159c0be8edbf1ba1b7394502dade0c2bb1adbdc41107eabec",
+        "comment": "SHA-256 of extension package for Web Client for Ecosound (inhkambhljkccaciigjifkfmlcpebinj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "16bace64-be9f-516e-858f-da2c0c9d768c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mmhjlcabfcfjikojifodkhiekphghemo",
+        "comment": "Jot On Tab | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 0.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "9508c86e-33a9-5b15-8e6d-71365af6efe6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mmhjlcabfcfjikojifodkhiekphghemo",
+        "comment": "Chrome Web Store entry for Jot On Tab (mmhjlcabfcfjikojifodkhiekphghemo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a326cd56-3d56-5c30-b0bf-ef54689b106b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ca2df09854223008efd7156f6ade3debef7ff0c559020df0cb1a145f04e50677",
+        "comment": "SHA-256 of extension package for Jot On Tab (mmhjlcabfcfjikojifodkhiekphghemo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f0267705-bdb3-5e19-8bc8-5c6736eec196",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pecgmnihbokhfnemdmjbkhcgpehlcokj",
+        "comment": "Fox Tab | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 0.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "f3a08188-6e30-51a5-b770-13e39ae47d29",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pecgmnihbokhfnemdmjbkhcgpehlcokj",
+        "comment": "Chrome Web Store entry for Fox Tab (pecgmnihbokhfnemdmjbkhcgpehlcokj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "43201a55-4c8c-5635-94c7-afbd65c37139",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d23bfcea0ec32c3080a0596f2750cde49d72b1431dc5f925aabb34e19b00d261",
+        "comment": "SHA-256 of extension package for Fox Tab (pecgmnihbokhfnemdmjbkhcgpehlcokj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b4baaae6-9536-5e0a-b79c-009cdb832e3f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "adhkabibjnnpbchkedfdjoellmmncfkc",
+        "comment": "Tab Buddy | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 0.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "c9758315-d106-5964-90f8-f7a5a44cdb17",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/adhkabibjnnpbchkedfdjoellmmncfkc",
+        "comment": "Chrome Web Store entry for Tab Buddy (adhkabibjnnpbchkedfdjoellmmncfkc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5a1eb412-fac7-5c77-b0ef-be7e91c7f133",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "27e94d9446655a3c52401c51ab1b27fc74c1791ed2e95e569851e74033a6f608",
+        "comment": "SHA-256 of extension package for Tab Buddy (adhkabibjnnpbchkedfdjoellmmncfkc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "bedec90e-7382-5796-9505-4e454309b3bf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "emicfmhngbbokinfmeodnidollbojapk",
+        "comment": "Torrent Search Engine For Chrome Professional | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "353a5a7f-64e9-5b61-8deb-7e150e26e000",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/emicfmhngbbokinfmeodnidollbojapk",
+        "comment": "Chrome Web Store entry for Torrent Search Engine For Chrome Professional (emicfmhngbbokinfmeodnidollbojapk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "089e3ed7-95f1-5843-bc65-d4f27875f5be",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "426d335f099730b63921b8cf23b02db8895bf4a6756433da5ae15c786b55e47b",
+        "comment": "SHA-256 of extension package for Torrent Search Engine For Chrome Professional (emicfmhngbbokinfmeodnidollbojapk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ad86a271-e9b4-5957-84c8-ee46c9b73a96",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lljncgccioajcnjlkkigiecjekggdcco",
+        "comment": "Rutor Torrent Search Pro | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "4e1e4ee3-312c-5da6-912a-f07b39960752",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lljncgccioajcnjlkkigiecjekggdcco",
+        "comment": "Chrome Web Store entry for Rutor Torrent Search Pro (lljncgccioajcnjlkkigiecjekggdcco)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d3fb13c1-7647-5c9f-8ad4-913717efbd2b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "47ad4b36c87dd2c6dc2b7a1f472e23ebc252abe53d270468c3ddc92cd3101bc8",
+        "comment": "SHA-256 of extension package for Rutor Torrent Search Pro (lljncgccioajcnjlkkigiecjekggdcco)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "60f6c344-90ed-5e33-aa16-7c2874c50a3d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "lgkaokdjmahlncnjjpcienfopdblanda",
+        "comment": "Spotify Web Player | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "f5177ccf-93f3-5bbc-bd47-098cce426336",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/lgkaokdjmahlncnjjpcienfopdblanda",
+        "comment": "Chrome Web Store entry for Spotify Web Player (lgkaokdjmahlncnjjpcienfopdblanda)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a8740ba8-3544-53da-b8a0-7752a57b309a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "abd025bc24c7ae04bac264212dc2924a95f96458c2c790cfd65ce443f9259bf2",
+        "comment": "SHA-256 of extension package for Spotify Web Player (lgkaokdjmahlncnjjpcienfopdblanda)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "60189ded-baba-5788-ad15-4bdbd2331c87",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nejodadbhjddbiloobjfakjhbhegmnkj",
+        "comment": "Video Downloader Pro | Source: MalExt Analysis | Store: Google Chrome | Added: 2026-11-21 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"MalExt Analysis\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "8bb06420-403b-5cfd-b6d0-d91fc2230676",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nejodadbhjddbiloobjfakjhbhegmnkj",
+        "comment": "Chrome Web Store entry for Video Downloader Pro (nejodadbhjddbiloobjfakjhbhegmnkj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3eeb4f1d-beea-56ff-8a0f-a56a6a72b56a",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b69961bc61cacd842c1bcb1ecf3644b36596bef5da85e8ac127f172cc6cec2ed",
+        "comment": "SHA-256 of extension package for Video Downloader Pro (nejodadbhjddbiloobjfakjhbhegmnkj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "01359b26-01c7-575c-b980-a6d2cb6848c4",
         "type": "text",
