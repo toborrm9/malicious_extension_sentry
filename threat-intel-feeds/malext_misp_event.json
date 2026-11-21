@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-11-20",
-    "timestamp": "1795177078",
+    "date": "2026-11-21",
+    "timestamp": "1795254370",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,742 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "01359b26-01c7-575c-b980-a6d2cb6848c4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pidkjcapccmhpdokcjnkngcflobhopdl",
+        "comment": "Flappy Bird Offline | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 2.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "02df5886-dd46-57a4-b9fe-aceb826ff3af",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pidkjcapccmhpdokcjnkngcflobhopdl",
+        "comment": "Chrome Web Store entry for Flappy Bird Offline (pidkjcapccmhpdokcjnkngcflobhopdl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3b4df207-97ab-55e4-82c3-8f014d936b3e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d1d09941fc3e5d91d163b92a31328e45e8608e9c16bbb0e6b45cd151a26d535e",
+        "comment": "SHA-256 of extension package for Flappy Bird Offline (pidkjcapccmhpdokcjnkngcflobhopdl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "09d67dc9-4a6a-5fa8-ac0a-b7fea0015a71",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "imaocjgincilabbdpbggemcnepdkddmh",
+        "comment": "Reveal AI | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 1.7",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.7\""
+          }
+        ]
+      },
+      {
+        "uuid": "1f976a51-519d-5b86-99f2-97ed74e5f303",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/imaocjgincilabbdpbggemcnepdkddmh",
+        "comment": "Chrome Web Store entry for Reveal AI (imaocjgincilabbdpbggemcnepdkddmh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b15b2ab4-1aba-59d9-afb0-6065d361b905",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "b0a527011b9e976020944e236da18d49d3dbfdb1acba2ac18b9c5c68c63efbd6",
+        "comment": "SHA-256 of extension package for Reveal AI (imaocjgincilabbdpbggemcnepdkddmh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e6b082d7-bb33-5d8c-ba18-65224ff09ae8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "elhgonfjhpaaoeokcbcngcfjiiaodael",
+        "comment": "TikTok Video Downloader Pro | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "de86b53e-eaf0-5cef-80ef-d5e31b3aa91f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/elhgonfjhpaaoeokcbcngcfjiiaodael",
+        "comment": "Chrome Web Store entry for TikTok Video Downloader Pro (elhgonfjhpaaoeokcbcngcfjiiaodael)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "fdeb6108-cbbc-589e-9657-7e091e1a4233",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "79421878f97d81f349cc250f14e2a6f6a94dd91e670247ab1c8f24ac4a0548d0",
+        "comment": "SHA-256 of extension package for TikTok Video Downloader Pro (elhgonfjhpaaoeokcbcngcfjiiaodael)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ba65f698-f013-5467-a602-bd0e2971be0e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fiecddjjbhcickelmhfpgofkgcgpkfdd",
+        "comment": "TokToMP4 \u2013 Video, Photo & Slideshow Downloader for TikTok | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 0.1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "de1e502d-613f-5148-8f53-63722fe86f6f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fiecddjjbhcickelmhfpgofkgcgpkfdd",
+        "comment": "Chrome Web Store entry for TokToMP4 \u2013 Video, Photo & Slideshow Downloader for TikTok (fiecddjjbhcickelmhfpgofkgcgpkfdd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "af29be4c-9ec7-5ab5-a0da-b2ba792fe83d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c50cbaaa6b1c0e348ea7fb60bd0c822fab45e80abc88e250add5c4f9d41e971b",
+        "comment": "SHA-256 of extension package for TokToMP4 \u2013 Video, Photo & Slideshow Downloader for TikTok (fiecddjjbhcickelmhfpgofkgcgpkfdd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "1bd59e14-835a-5d2b-ab19-3ea5f0b8136b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "enkoddfdmkbkhehojmdfhabkfjcedmgc",
+        "comment": "Flappy Bird for Chrome | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 1.8.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.8.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "ecc454b9-ef75-5cb4-9dbb-436b8cb6d4ce",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/enkoddfdmkbkhehojmdfhabkfjcedmgc",
+        "comment": "Chrome Web Store entry for Flappy Bird for Chrome (enkoddfdmkbkhehojmdfhabkfjcedmgc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "50c37747-a587-5e62-aaf9-3548cfd8000e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d161266ac89b327a23ce31ce3b9efb8f008d0308a2438758371827e2eac759c3",
+        "comment": "SHA-256 of extension package for Flappy Bird for Chrome (enkoddfdmkbkhehojmdfhabkfjcedmgc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0ed87d1f-3066-50a5-b929-4556af9b007c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "agjpibdloejnnmeegdfadpfohadhljnp",
+        "comment": "Bulk URL Opener \u2013 Open Multiple URLs | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 0.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "499d1a1f-5869-52d5-9ca3-c18fd2b68f1e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/agjpibdloejnnmeegdfadpfohadhljnp",
+        "comment": "Chrome Web Store entry for Bulk URL Opener \u2013 Open Multiple URLs (agjpibdloejnnmeegdfadpfohadhljnp)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5fd134ea-86dc-58f5-a0e2-d0a7385051a1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "758f15484bdbab00cb837df0b7331ce2e0407c38e19a87257d581cefde613503",
+        "comment": "SHA-256 of extension package for Bulk URL Opener \u2013 Open Multiple URLs (agjpibdloejnnmeegdfadpfohadhljnp)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "58971f57-6dc0-5f94-b2a1-2b7ac2c63f3f",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aejdicmbgglbjfepfbiofnmibcgkkjej",
+        "comment": "Flappy Bird Original | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 1.0.4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.4\""
+          }
+        ]
+      },
+      {
+        "uuid": "ad3b180e-63ea-5f5f-9f42-4dc086063e4f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aejdicmbgglbjfepfbiofnmibcgkkjej",
+        "comment": "Chrome Web Store entry for Flappy Bird Original (aejdicmbgglbjfepfbiofnmibcgkkjej)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "496fc6a6-94b0-5e39-8c7f-4b75ef2de857",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "34ea72f1c54ee09fc5ef4633eb462530fdac0e8f4ca8377533393c213945658b",
+        "comment": "SHA-256 of extension package for Flappy Bird Original (aejdicmbgglbjfepfbiofnmibcgkkjej)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "fda0d08b-c5c8-5bef-98ff-90236f6d3bf4",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "llmbdmomjmaeegghbkipaolieilmegld",
+        "comment": "Flappy Budgies Offline. Desktop Version | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 1.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "0c2f89be-5bc5-588c-bb7c-69cfd055e1c8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/llmbdmomjmaeegghbkipaolieilmegld",
+        "comment": "Chrome Web Store entry for Flappy Budgies Offline. Desktop Version (llmbdmomjmaeegghbkipaolieilmegld)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "abc49fb8-f5bc-53d7-b7de-9c1af5171042",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "71e742c3cae10cdbe55d652cda32772f6d07c527db71059d1714fb4b85ee9ef6",
+        "comment": "SHA-256 of extension package for Flappy Budgies Offline. Desktop Version (llmbdmomjmaeegghbkipaolieilmegld)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "261574f9-2337-5f72-be03-8ef5c36416cc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kkbiodhcfmdbgjpnfaofbfgmjiobdekc",
+        "comment": "Flappy Bird - Classic game | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-21 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "447872c8-5ac2-5f7e-9825-c046824e1a4d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kkbiodhcfmdbgjpnfaofbfgmjiobdekc",
+        "comment": "Chrome Web Store entry for Flappy Bird - Classic game (kkbiodhcfmdbgjpnfaofbfgmjiobdekc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d3195c20-4d72-5cc6-8331-6f5f9e84cc27",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "22d5fc803305dbca11a203f56a8e621503088a6dd6539ee457544a801245cc54",
+        "comment": "SHA-256 of extension package for Flappy Bird - Classic game (kkbiodhcfmdbgjpnfaofbfgmjiobdekc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5c0e2534-b655-5f16-9dfb-4d87b91da7a2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "gpfnpbpkadjgeoneammbiiidbkgkncaa",
+        "comment": "Tidyread - Read more in less time | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-20 | Version: 0.3.8",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.3.8\""
+          }
+        ]
+      },
+      {
+        "uuid": "0c59cd32-905b-5184-b4f6-6a919d1f20b8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/gpfnpbpkadjgeoneammbiiidbkgkncaa",
+        "comment": "Chrome Web Store entry for Tidyread - Read more in less time (gpfnpbpkadjgeoneammbiiidbkgkncaa)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "4321ea61-c0f8-5a5c-99c6-7ab9d1f4a2e1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c09f5942109ed09ecec21c0141686f6ade315168d4f83e130d7cb0ec052c3300",
+        "comment": "SHA-256 of extension package for Tidyread - Read more in less time (gpfnpbpkadjgeoneammbiiidbkgkncaa)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5331f85e-6e87-55e7-9645-cd8004a09321",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "akogkohajociklmfmcdkicpjefgoefel",
+        "comment": "\u4f73\u540c\u8de8\u5883-mkd\u63d2\u4ef6 | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-20 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "349e7313-3b28-544c-853c-57476d933183",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/akogkohajociklmfmcdkicpjefgoefel",
+        "comment": "Chrome Web Store entry for \u4f73\u540c\u8de8\u5883-mkd\u63d2\u4ef6 (akogkohajociklmfmcdkicpjefgoefel)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "19298bdb-96a6-5205-aa84-bc1e581fd32b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "99a5e4c02e660479bed4eb6c0741084a0c47664a4e4d92877b09433ae38e30b2",
+        "comment": "SHA-256 of extension package for \u4f73\u540c\u8de8\u5883-mkd\u63d2\u4ef6 (akogkohajociklmfmcdkicpjefgoefel)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0fe23e3c-7c22-54f9-9448-a3bf94b2a48e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ngagaahlooknahpbppifocdndhcdknel",
+        "comment": "MYNT: Material You New Tab | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-20 | Version: 3.3.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.3.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "2140a5f3-a356-5be9-af3b-f034ac1e709d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ngagaahlooknahpbppifocdndhcdknel",
+        "comment": "Chrome Web Store entry for MYNT: Material You New Tab (ngagaahlooknahpbppifocdndhcdknel)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f9bb7a5c-9edd-5c02-aeb6-eb6f44a75b34",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4641a0ade6fd521afa02c1c86f5f8d88322b92e1973fd8bae07c5c611db281d5",
+        "comment": "SHA-256 of extension package for MYNT: Material You New Tab (ngagaahlooknahpbppifocdndhcdknel)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5dd1e603-eb79-5017-a79c-3d67ec70c54a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bjcfejhmbcbpngohabeibdhloechgabd",
+        "comment": "NewTab | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-20 | Version: 4",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4\""
+          }
+        ]
+      },
+      {
+        "uuid": "f66854df-417d-5589-8c66-2d51ff978fc7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bjcfejhmbcbpngohabeibdhloechgabd",
+        "comment": "Chrome Web Store entry for NewTab (bjcfejhmbcbpngohabeibdhloechgabd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "62cff4f4-5c52-5c6a-9c7c-1cb84dda7cad",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4659eaf973c0fcc72f1764a8b20605731bf7623e9c57e059d703ede536ca9d4c",
+        "comment": "SHA-256 of extension package for NewTab (bjcfejhmbcbpngohabeibdhloechgabd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "2581f1b2-b8f3-51e6-9013-8b6756fb5ee7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hfnebfgicgkohijodoncncboffkfkpkf",
+        "comment": "Home Content Blocker | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-20 | Version: 0.1.14",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1.14\""
+          }
+        ]
+      },
+      {
+        "uuid": "84bc3dcb-173b-5516-91bc-32db96659f9d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hfnebfgicgkohijodoncncboffkfkpkf",
+        "comment": "Chrome Web Store entry for Home Content Blocker (hfnebfgicgkohijodoncncboffkfkpkf)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "96924094-7aa8-58a9-934c-bee3db2b1a73",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1973fd5ac5332058013bf203547ef9d2d2d225a0d88060757f195ed6f502327e",
+        "comment": "SHA-256 of extension package for Home Content Blocker (hfnebfgicgkohijodoncncboffkfkpkf)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ab678155-b360-5775-9cb8-c2d1b09a99fa",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kpjlgcaenibhfokmcdjpkdlgkidclckj",
+        "comment": "Verity | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-20 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "420722af-78e1-5a2c-8d96-b4b1477bcaa6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kpjlgcaenibhfokmcdjpkdlgkidclckj",
+        "comment": "Chrome Web Store entry for Verity (kpjlgcaenibhfokmcdjpkdlgkidclckj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "80b60cf9-291a-5d75-ad35-e4f2f9c31b8c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8736b00bbffa3f504ffa5dde2fb493c505418be6603415633d9a98e1d09de1ba",
+        "comment": "SHA-256 of extension package for Verity (kpjlgcaenibhfokmcdjpkdlgkidclckj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "f9a1a329-541f-5ac9-9edb-7a024a4cb190",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cnongeebpacaoppmniamfomdbcfdphha",
+        "comment": "Cursorify \u2013 Change Mouse | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-19 | Version: 0.3.15",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.3.15\""
+          }
+        ]
+      },
+      {
+        "uuid": "1df6d2ab-0620-5cdf-9ce5-f8ebfa856ba0",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cnongeebpacaoppmniamfomdbcfdphha",
+        "comment": "Chrome Web Store entry for Cursorify \u2013 Change Mouse (cnongeebpacaoppmniamfomdbcfdphha)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "365ac88b-2d0e-5c9b-9d52-0d36e60a4853",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "a29f096167645ea1a9900f4a659b38ffd0b7feb63f5232ad9112caaba73accfc",
+        "comment": "SHA-256 of extension package for Cursorify \u2013 Change Mouse (cnongeebpacaoppmniamfomdbcfdphha)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "f0ff29a2-8c05-555d-a5ab-6c065c0260e8",
         "type": "text",
@@ -33376,52 +34112,6 @@
         "to_ids": true,
         "value": "adc8831ed68a7265c44bf7f2f3f8fb7ffdd247e7e11de6eb08e685d4d1197563",
         "comment": "SHA-256 of extension package for Chatgpt For Gmail (mllkpgcojiooenmengajhkailfjocond)",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          }
-        ]
-      },
-      {
-        "uuid": "f9a1a329-541f-5ac9-9edb-7a024a4cb190",
-        "type": "text",
-        "category": "Other",
-        "to_ids": false,
-        "value": "cnongeebpacaoppmniamfomdbcfdphha",
-        "comment": "Cursorify \u2013 Change Mouse | Source: Store Monitoring | Store: Google Chrome | Added: 2026-10-18 | Version: 0.3.15",
-        "distribution": "5",
-        "Tag": [
-          {
-            "name": "malware:category=\"browser-extension\""
-          },
-          {
-            "name": "malext:source=\"Store Monitoring\""
-          },
-          {
-            "name": "malext:store=\"Google Chrome\""
-          },
-          {
-            "name": "malext:version=\"0.3.15\""
-          }
-        ]
-      },
-      {
-        "uuid": "1df6d2ab-0620-5cdf-9ce5-f8ebfa856ba0",
-        "type": "url",
-        "category": "External analysis",
-        "to_ids": false,
-        "value": "https://chromewebstore.google.com/detail/cnongeebpacaoppmniamfomdbcfdphha",
-        "comment": "Chrome Web Store entry for Cursorify \u2013 Change Mouse (cnongeebpacaoppmniamfomdbcfdphha)",
-        "distribution": "5"
-      },
-      {
-        "uuid": "365ac88b-2d0e-5c9b-9d52-0d36e60a4853",
-        "type": "sha256",
-        "category": "Payload delivery",
-        "to_ids": true,
-        "value": "a29f096167645ea1a9900f4a659b38ffd0b7feb63f5232ad9112caaba73accfc",
-        "comment": "SHA-256 of extension package for Cursorify \u2013 Change Mouse (cnongeebpacaoppmniamfomdbcfdphha)",
         "distribution": "5",
         "Tag": [
           {
