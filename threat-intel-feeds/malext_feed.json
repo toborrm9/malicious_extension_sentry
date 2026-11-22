@@ -1,12 +1,852 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-21T17:42:29Z",
+  "generated": "2026-11-22T21:27:26Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8571,
+  "total_indicators": 8663,
   "indicators": [
+    {
+      "extension_id": "caikpfmljlmeojmnipjalmpidilddhli",
+      "name": "Skola Broadcast",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/caikpfmljlmeojmnipjalmpidilddhli",
+      "sha256": "4119876b776d7abec73e98188ba4d2345572365832bf555081784184c02f0f1a",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "pbaiefkophdaogblabkbohomjegojjld",
+      "name": "App Store App Scraper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/pbaiefkophdaogblabkbohomjegojjld",
+      "sha256": "5961f8f6da1bc080c9088f7999da41e413d41f5ecd32ccbbf8f3cf17e56ced9e",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "jcgkmngmiphpjekjbdlceibkclkknlpg",
+      "name": "Wikipedia Search",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/jcgkmngmiphpjekjbdlceibkclkknlpg",
+      "sha256": "4f96489bcf225e60e075a2f9ea51e8071befc39e4e8cf702db1fbe538170c5e9",
+      "version": "1.4"
+    },
+    {
+      "extension_id": "mpicpppokknccmldbcmckkcmlkjlecge",
+      "name": "VPN for Threads \u0412\u041f\u041d",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/mpicpppokknccmldbcmckkcmlkjlecge",
+      "sha256": "bc3c0c58b7e16de0393818fed42b8e476fc61120fd487e60b12a0f608dfa16e6",
+      "version": "2.5"
+    },
+    {
+      "extension_id": "gjoaiiohfnpmmfocbmokajcfocejknaa",
+      "name": "\u0428\u0435\u0434\u0435\u0432\u0440\u0443\u043c \u0431\u0435\u0437 \u0440\u0435\u043a\u043b\u0430\u043c\u044b / Shedevrum AI no Ads",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/gjoaiiohfnpmmfocbmokajcfocejknaa",
+      "sha256": "8c8fa59c5adcb9fa3e4f495db1e4f41e99e9929e64c02e346f821e937bd1145e",
+      "version": "1.6"
+    },
+    {
+      "extension_id": "dobldhlkenkbfnobeamcakkkconpfkci",
+      "name": "\u0412\u041f\u041d \u0434\u043b\u044f Netflix / VPN for Netflix",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/dobldhlkenkbfnobeamcakkkconpfkci",
+      "sha256": "7f83fae6783ecc6007953802685917c9a596a3d2f38dadc17c294124db6381ae",
+      "version": "1.5"
+    },
+    {
+      "extension_id": "glodgpbaomekodokhkmalbfghplgmekb",
+      "name": "\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0444\u043e\u0442\u043e \u0441 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/glodgpbaomekodokhkmalbfghplgmekb",
+      "sha256": "29ecbcd44d9e1121c2ba2edad26c214036ab83eeb41f7758e4252ae8f92e3393",
+      "version": "1.2"
+    },
+    {
+      "extension_id": "jejpmoiaandpclbkdniphnoadfhcmfnl",
+      "name": "\u0412\u041f\u041d \u0434\u043b\u044f Notion / VPN for Notion",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/jejpmoiaandpclbkdniphnoadfhcmfnl",
+      "sha256": "84429d31af29467f86c96229fcb85c4beb9efb7280140a9570f9cab0cb0621e0",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "ijnjjlcjfcbapohffjomckphjoiallkk",
+      "name": "\u0412\u041f\u041d \u0434\u043b\u044f Deepseek Ai / VPN for Deepseek",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/ijnjjlcjfcbapohffjomckphjoiallkk",
+      "sha256": "b6a296b48185b7ba54f32dc24ba6fcf35b1019441aa02d63edf2c7a0208501c7",
+      "version": "1.7"
+    },
+    {
+      "extension_id": "mdedbdlgcfpolgpfnbohlnjllabgfmbh",
+      "name": "\u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u043e\u0442\u043a\u043b\u0438\u043a\u043e\u0432 \u043d\u0430 \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0438",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/mdedbdlgcfpolgpfnbohlnjllabgfmbh",
+      "sha256": "64863903877f3acc948b4e27b3dcaa0da9b210c209f5c602e0ff901596dedf1c",
+      "version": "3.4"
+    },
+    {
+      "extension_id": "kpihclggiainmgliibljojpbnjhjdcfm",
+      "name": "\u0432\u043f\u043d \u0434\u043b\u044f \u0447\u0430\u0442\u0433\u043f\u0442 Chatgpt",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/kpihclggiainmgliibljojpbnjhjdcfm",
+      "sha256": "6a36994ea46e789cef5aed702b48e91762dff32c2e5d880db45801d61463a4ce",
+      "version": "2.5"
+    },
+    {
+      "extension_id": "cihojiankbfanmhielbfonlcadfkjnhb",
+      "name": "\u0412\u041f\u041d \u0434\u043b\u044f \u0422\u0432\u0438\u0442\u0442\u0435\u0440\u0430 - VPN for Twitter X",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/cihojiankbfanmhielbfonlcadfkjnhb",
+      "sha256": "dd603f364f0ba58316fa103db4bfc6a03556d00f8a972a6d22fd046991df3964",
+      "version": "3.3"
+    },
+    {
+      "extension_id": "dfodeplpollimglabmiikhbnkjblidhk",
+      "name": "\u0412\u041f\u041d \u0434\u043b\u044f \u042e\u0442\u0443\u0431\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0434\u043b\u044f Google Chrome",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/dfodeplpollimglabmiikhbnkjblidhk",
+      "sha256": "2e92889bca9a9af3dc654780a80c3017ffe0164f8fa5ac83b623f7c829ec89e4",
+      "version": "2.9"
+    },
+    {
+      "extension_id": "mlfkfkkgegnabglnbdeifpmkllfonepb",
+      "name": "\u0412\u041f\u041d \u0434\u043b\u044f Claude Ai / VPN for Claude",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/mlfkfkkgegnabglnbdeifpmkllfonepb",
+      "sha256": "a0c8e8c03f1b11b84e24e3bd12e7002f1eea1cba855b8f318912c4e08e63a611",
+      "version": "2.9"
+    },
+    {
+      "extension_id": "fdeliflkcpdjdefinolnkojjcfoagdmk",
+      "name": "VPN Facebook - vpn \u0434\u043b\u044f \u0444\u0435\u0439\u0441\u0431\u0443\u043a\u0430",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/fdeliflkcpdjdefinolnkojjcfoagdmk",
+      "sha256": "611415ddd9c614582b8205d55a6793fc39dde6900d2047777c9f6fe2b18fdb39",
+      "version": "3.4"
+    },
+    {
+      "extension_id": "lolaehmdekfdaaelkejabcmpgdhgjcpg",
+      "name": "VPN \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430 \u043e\u0442 SecureBrowser",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/lolaehmdekfdaaelkejabcmpgdhgjcpg",
+      "sha256": "8bc7faf26555af80d943808be5ed89599ae19df6f78ef38a7c62dc2cf717baf4",
+      "version": "1.4.8"
+    },
+    {
+      "extension_id": "gcjimlpnleplhdjkfnamojkpikceohmp",
+      "name": "VPN \u0434\u043b\u044f LinkedIn",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/gcjimlpnleplhdjkfnamojkpikceohmp",
+      "sha256": "7d5379a257d36469b963a321603db868c3634b64c6124c51a35b17f1c7e32db5",
+      "version": "2.6"
+    },
+    {
+      "extension_id": "kjjhafbfhjdchklgnkenbeihmcpbldao",
+      "name": "\u0412\u041f\u041d \u0434\u043b\u044f \u042e\u0442\u0443\u0431 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430 - \u0428\u0443\u0441\u0442\u0440\u044b\u0439 \u042e\u0442\u0443\u0431\u0447\u0438\u043a",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/kjjhafbfhjdchklgnkenbeihmcpbldao",
+      "sha256": "76fa58449b15814cfdf4e10120f6edaaa00660e4cc992def2634b7d4d8443af4",
+      "version": "3.7"
+    },
+    {
+      "extension_id": "hlmbijdehkmgmfeocjcpabpjbocpkoda",
+      "name": "Vpn \u0434\u043b\u044f \u044e\u0442\u0443\u0431\u0430 \u2014 Youtubepr",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/hlmbijdehkmgmfeocjcpabpjbocpkoda",
+      "sha256": "",
+      "version": ""
+    },
+    {
+      "extension_id": "cdfdngobhlmjlcogpjibhclobjniohmb",
+      "name": "BLACK VPN \u2014 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 VPN \u0434\u043b\u044f Google Chrome",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/cdfdngobhlmjlcogpjibhclobjniohmb",
+      "sha256": "aee7413034beccb36ce9b13eb8bebb3c008b4e2f6a092ec1a74c571c2b9ec0dd",
+      "version": "2.4"
+    },
+    {
+      "extension_id": "pbmchlbpmommkfpafninfdcjheapdkfi",
+      "name": "Post Translator For Twitt",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/pbmchlbpmommkfpafninfdcjheapdkfi",
+      "sha256": "",
+      "version": ""
+    },
+    {
+      "extension_id": "fonbiaalonekgmohkleimpdemngjbleg",
+      "name": "ChatGpt VPN - \u0412\u041f\u041d \u0434\u043b\u044f ChatGpt Ai",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/fonbiaalonekgmohkleimpdemngjbleg",
+      "sha256": "57436513f2eb13cb0565b9a2851c7013c3ee27a8153e57612259a7a273fc3335",
+      "version": "2.5"
+    },
+    {
+      "extension_id": "cfhifhoonlggibeojpjdfanmlnphmdah",
+      "name": "INSTAVPN - \u0418\u043d\u0441\u0442\u0430\u0433\u0440\u0430\u043c \u0431\u0435\u0437 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/cfhifhoonlggibeojpjdfanmlnphmdah",
+      "sha256": "5056c305bdb4bd4dee82892d7b96230e32e61dc3b3ebd045d46fd0c73c0d75a2",
+      "version": "4.1"
+    },
+    {
+      "extension_id": "empknjidkidealjmmcjiojconcndgmlg",
+      "name": "Spotify VPN - \u043e\u0442\u043a\u0440\u043e\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043a Spotify \u043a\u0430\u043a \u0440\u0430\u043d\u044c\u0448\u0435",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/empknjidkidealjmmcjiojconcndgmlg",
+      "sha256": "42214acf020e9d2b394da8f5b3ece7c25b09d240efa4bbb17a7259495b50c102",
+      "version": "2.5"
+    },
+    {
+      "extension_id": "dadllnmheklilihjjlobfhgjmopbcalo",
+      "name": "UnlockTube - \u0412\u041f\u041d \u0434\u043b\u044f YouTube \u0431\u0435\u0437 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u0439 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u0423\u0441\u043a\u043e\u0440\u0438\u0442\u044c \u042e\u0442\u0443\u0431 \u043d\u0430 \u041f\u041a",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/dadllnmheklilihjjlobfhgjmopbcalo",
+      "sha256": "8a509c926d2a1e3bba524c1aeb87058a08a2e52c3048e01ef1ac8a6fae07ce4e",
+      "version": "2.5"
+    },
+    {
+      "extension_id": "cmedikogigjehignnkmcbjpgihpgooph",
+      "name": "Discord VPN | \u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430 \u2013 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043a Discord",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/cmedikogigjehignnkmcbjpgihpgooph",
+      "sha256": "3d5474b8c852791b8342c32db431d34a7564c6ceafd7262f91b0fd65f31ddd3b",
+      "version": "3.1"
+    },
+    {
+      "extension_id": "npcgbbelbceloaodjiafnmblekanmabe",
+      "name": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0412\u041f\u041d \u0434\u043b\u044f \u042e\u0442\u0443\u0431 \u0431\u0435\u0437 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u0439 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/npcgbbelbceloaodjiafnmblekanmabe",
+      "sha256": "2052a339947490fb10296e6e1f9857a83705a3716a528ed22c65e098b1a593e1",
+      "version": "3.3"
+    },
+    {
+      "extension_id": "fjoidkibidcnhioonfecibdgggjehfgd",
+      "name": "VPNtube - \u042e\u0442\u0443\u0431 \u0431\u0435\u0437 \u0437\u0430\u043c\u0435\u0434\u043b\u0435\u043d\u0438\u044f",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/fjoidkibidcnhioonfecibdgggjehfgd",
+      "sha256": "f5fef1fdb44b78653d6826a16fcb886b080f95b21f94474979ef7283c2e5376e",
+      "version": "5.9"
+    },
+    {
+      "extension_id": "akdkpiglbicjkebnjgohheaecgohjall",
+      "name": "\u0412\u041f\u041d \u0434\u043b\u044f \u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c / VPN for Telegram",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/akdkpiglbicjkebnjgohheaecgohjall",
+      "sha256": "d8a42924fe433f50babe00be88e434e53960244b6b3a52090863f803b08b0190",
+      "version": "2.1"
+    },
+    {
+      "extension_id": "cjndkboajlopnhbaeeegnbaghdbggenm",
+      "name": "\u0412\u041f\u041d \u0434\u043b\u044f Gemini / VPN for Gemini",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/cjndkboajlopnhbaeeegnbaghdbggenm",
+      "sha256": "2a5a967d232d97ff3a4983eefeac69347eaf88d19efdd1e783b2d0268226e894",
+      "version": "3.0"
+    },
+    {
+      "extension_id": "nkhfdlilombfkfbnbdfephaaaifaollp",
+      "name": "Total VPN - \u043e\u0434\u0438\u043d \u0412\u041f\u041d \u0434\u043b\u044f \u0432\u0441\u0435\u0433\u043e",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/nkhfdlilombfkfbnbdfephaaaifaollp",
+      "sha256": "5a02f7f8498d2fc90fa19cf9f0d93fdad0ef7fb78b04fbf712039e22c06dba29",
+      "version": "2.0"
+    },
+    {
+      "extension_id": "mcbbkppinglngggemoflhaajipkapgml",
+      "name": "Vpn \u0434\u043b\u044f Chatgpt",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/mcbbkppinglngggemoflhaajipkapgml",
+      "sha256": "",
+      "version": ""
+    },
+    {
+      "extension_id": "llngkcnndicadfcbikbjnhbcikpmaknj",
+      "name": "\u0420\u0443\u0422\u0440\u0435\u043a\u0435\u0440 VPN - \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0434\u043e\u0441\u0442\u0443\u043f\u0430 \u043a \u0441\u0430\u0439\u0442\u0443",
+      "source": "https://riskyplugins.com/threat-library/russian-vpn-proxy-farm",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/llngkcnndicadfcbikbjnhbcikpmaknj",
+      "sha256": "e72c9abb39a7be23230d6dcdaa13c89e0606783f4ede14acef48e610159bf80e",
+      "version": "2.4"
+    },
+    {
+      "extension_id": "eekhejllgogjkchlgdodifakbpghjaeg",
+      "name": "\u0413\u0440\u043e\u043c VPN \u2014 \u043c\u043e\u0449\u043d\u044b\u0439 VPN \u0434\u043b\u044f Chrome, Telegram \u0438 YouTube",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/eekhejllgogjkchlgdodifakbpghjaeg",
+      "sha256": "aad6b8d2c476011032c3958131de3c3cbf202434848db35f580ddf615599ac47",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "idcnimeiokhbbkfpdgkbbbldagmahind",
+      "name": "Flyra: VPN \u0434\u043b\u044f Chrome \u0432 \u043e\u0434\u0438\u043d \u043a\u043b\u0438\u043a, \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/idcnimeiokhbbkfpdgkbbbldagmahind",
+      "sha256": "b65109461a6574a0e1c195a1a9f4badfeba941c2a4ecdfe1f3d39869bb6de026",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ijpnadnhaeiodjlpmdhpgfbiohhnohll",
+      "name": "\u0412\u0435\u0442\u0435\u0440\u043e\u043a \u2014 \u043b\u0435\u0433\u043a\u0438\u0439 VPN \u0434\u043b\u044f Chrome, \u0441\u0430\u0439\u0442\u044b \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0431\u044b\u0441\u0442\u0440\u043e",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/ijpnadnhaeiodjlpmdhpgfbiohhnohll",
+      "sha256": "862047aa071bc5ea334f4733b47acedb54f6d2a1f78e482694124f8707d0c4b5",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "obekdiohgehgjjhmnlgbgokejgenogcd",
+      "name": "\u0424\u0438\u0441\u0442\u0430\u0448\u043a\u0430 VPN \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u043e\u0435 VPN-\u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430 \u0438 \u0437\u0430\u0449\u0438\u0442\u044b \u0434\u0430\u043d\u043d\u044b\u0445",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/obekdiohgehgjjhmnlgbgokejgenogcd",
+      "sha256": "735af039cd846a7cb055ffcc7bb2513f0a8bce5daf96f917d678a1e331bd31cd",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "gmlhoeeoobkphaabeicjbapkkobmhkij",
+      "name": "\u0414\u044f\u0434\u044e\u0448\u043a\u0430 VPN \u2014 VPN \u0434\u043b\u044f Chrome, \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0421\u041d\u0413 \u0432 2026 \u0433\u043e\u0434\u0443",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/gmlhoeeoobkphaabeicjbapkkobmhkij",
+      "sha256": "14137f6087d0c268d887d5ab6b3053e713ad002db17a9aa63937d9261028e14c",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "nlpjhbjkbndgcokmbimklfdigacandaj",
+      "name": "Tundrix \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 VPN \u0434\u043b\u044f Chrome \u0441\u043e \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u043c \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435\u043c",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/nlpjhbjkbndgcokmbimklfdigacandaj",
+      "sha256": "d37377388961863a1a56ed39e641068a083b2ca779727a31fc14cce3290f1edf",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "dappijdmbljeepdgbjlknpchflmmdflc",
+      "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0412\u041f\u041d - \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 VPN \u0434\u043b\u044f Chrome, \u0432 2026",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/dappijdmbljeepdgbjlknpchflmmdflc",
+      "sha256": "8d7acba87c6cec35d986601e78c2a4f1e91801493c37da34af1e7e43464ca0c5",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "cfeofhoipkiagcdafdnbpappemcfigei",
+      "name": "\u0421\u043c\u0435\u0433\u043c\u0430 \u0432\u043f\u043d \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0432\u043f\u043d",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/cfeofhoipkiagcdafdnbpappemcfigei",
+      "sha256": "c717f4fffc857bf572c1b39cf51a6a1a45fecb82efe45c8b59da1ec83e2c0bf0",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "gmfdljpbjobcpekjopfnalcfnlcgkeki",
+      "name": "Nyxeon: \u0431\u044b\u0441\u0442\u0440\u044b\u0439 VPN \u0434\u043b\u044f Chrome, \u0432\u0438\u0434\u0435\u043e \u0438 \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u044b \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/gmfdljpbjobcpekjopfnalcfnlcgkeki",
+      "sha256": "f614d670ba70f64a323fb1ca62b766b268304e6b129fb4aad79862cad6345e75",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "abcbeefnlpcgcdibdlljgaccmdghceen",
+      "name": "\u0411\u0430\u043b\u0430\u043b\u0430\u0439\u043a\u0430 VPN \u2014 \u043b\u0435\u0433\u043a\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0434\u043b\u044f YouTube \u0438 Telegram \u0432 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0435",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/abcbeefnlpcgcdibdlljgaccmdghceen",
+      "sha256": "21f3223a1010f9cad9531d413fb266aa268129cbf46c7cb2efc698454603aba5",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "doedadnhhmpbjimpkifdkbfphbncgbpb",
+      "name": "\u0411\u0430\u043d\u0430\u043d VPN \u2014 VPN \u0434\u043b\u044f Chrome, \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u043c \u0441\u0430\u0439\u0442\u0430\u043c",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/doedadnhhmpbjimpkifdkbfphbncgbpb",
+      "sha256": "58e1dffb453bbe3fd871d21fac36d256e028fd6614f5827d00f1e09b78e7ea47",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "lbonpooplfbmaagfcjdnnjajapmjbfbe",
+      "name": "\u0414\u0435\u0434\u0443\u0448\u043a\u0430 \u0432\u043f\u043d - VPN \u0434\u043b\u044f Chrome, \u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d \u0432 \u0420\u0424 \u0432 2026 \u0433\u043e\u0434\u0443",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/lbonpooplfbmaagfcjdnnjajapmjbfbe",
+      "sha256": "04c246f0dd2eaa85cd03454e679b5ef6af5a5129443983fc0e246367cc710c3e",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "keejkpjbjcmbncmaomhpbgpjhnbpdcba",
+      "name": "\u041a\u0430\u0441\u043f\u0435\u0440 VPN \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 VPN \u0434\u043b\u044f Chrome, \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0437\u0430\u043a\u0440\u044b\u0442\u044b\u043c \u0441\u0430\u0439\u0442\u0430\u043c",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/keejkpjbjcmbncmaomhpbgpjhnbpdcba",
+      "sha256": "051805d41417477fbc4e9843edf6bedfa30f83dcafb9f8c41d0df3b9c558a1b7",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "onjhjemkoafkajpadigopahcddddjnjm",
+      "name": "\u041b\u0430\u0434\u0430 VPN \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 VPN \u0434\u043b\u044f Chrome, \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/onjhjemkoafkajpadigopahcddddjnjm",
+      "sha256": "deb3059ad314a2d0312c171c8ce4c9471a4cce09eedb6b8ed090ead9f170c1fb",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "pmpglogjpboekommdeljhedgfbmndocd",
+      "name": "Skyro VPN: \u0431\u044b\u0441\u0442\u0440\u044b\u0439 VPN \u0434\u043b\u044f \u0432\u0438\u0434\u0435\u043e, \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u043e\u0432 \u0438 \u0441\u0430\u0439\u0442\u043e\u0432",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/pmpglogjpboekommdeljhedgfbmndocd",
+      "sha256": "bd64a19113a20dc07fb4a8d5975b7f0f4804fb1b2be74ee12569defdef174883",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "kaojdkdgmdpcllofadghlhgcmeopbfmb",
+      "name": "\u0418\u0441\u043a\u0440\u0430 \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 VPN \u0434\u043b\u044f \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0421\u041d\u0413, \u0443\u0434\u043e\u0431\u043d\u044b\u0439 \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/kaojdkdgmdpcllofadghlhgcmeopbfmb",
+      "sha256": "56aedf7eb5f1bb10e9db60094e8dfe03f4c3f649a0a6f3981be5907413ae639d",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "bdbfkhfkmblihnkcbndefheflhhfoegn",
+      "name": "\u041e\u0442\u0435\u0446 VPn",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/bdbfkhfkmblihnkcbndefheflhhfoegn",
+      "sha256": "3df73f2ab576e51d23519d026b23a8c189a546c4934187907a8dc99839636712",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "kkmlebmebdnjomnknkpfpjjpeebpojkp",
+      "name": "Nimbo: \u043f\u0440\u043e\u0441\u0442\u043e\u0439 VPN \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430, \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0441\u0430\u0439\u0442\u0430\u043c",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/kkmlebmebdnjomnknkpfpjjpeebpojkp",
+      "sha256": "06bcb7dd3c77cd5b121dfdb21ebf8629838184a41dc12ad1453fb326b9ac3a91",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "lifkngfjbpogckepjkbhcgdlnomfgdia",
+      "name": "Teleporta VPN \u2014 Telegram \u0438 YouTube \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0431\u044b\u0441\u0442\u0440\u043e, \u0432 \u043e\u0434\u0438\u043d \u043a\u043b\u0438\u043a",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/lifkngfjbpogckepjkbhcgdlnomfgdia",
+      "sha256": "2cde42e4be5878b139d4e965ca7588aa06f50cbb5caea665f7c9c562cb541d47",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ccnfmbegphplkmbebkjohnjgjmbelmjo",
+      "name": "\u041d\u0438\u0432\u0430 VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0438 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 VPN \u0434\u043b\u044f Chrome \u0432 2026 \u0433\u043e\u0434\u0443",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/ccnfmbegphplkmbebkjohnjgjmbelmjo",
+      "sha256": "39a5b20aa6593299bd58ccbdffb78861cc8432d70b85d96079877b1fc05603d9",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "kiahlmlpgcgmbkfmioimgcdpklmabghj",
+      "name": "\u041b\u0438\u043c\u043e\u043d VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 VPN \u0434\u043b\u044f Chrome, \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 \u0432 2026 \u0433\u043e\u0434\u0443",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/kiahlmlpgcgmbkfmioimgcdpklmabghj",
+      "sha256": "56ac12ce20a45d55581a63b6f5b936b3d25241fe040866f0926d7713fda2e973",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ldogjhlfofbabgfkpejphemmdhpahbcl",
+      "name": "\u0417\u0435\u0442\u0442\u0430 VPN \u2014 \u0432\u044b\u0441\u043e\u043a\u043e\u0441\u043a\u043e\u0440\u043e\u0441\u0442\u043d\u043e\u0439 VPN \u0434\u043b\u044f Chrome, \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0441\u0430\u0439\u0442\u0430\u043c",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/ldogjhlfofbabgfkpejphemmdhpahbcl",
+      "sha256": "ca4703af3c59458eb3b3c7acd654f4cddfc86b96b8822bfe45dcb1ff9267435b",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "aabnlcbjffdcnmhaljbolebldfgfdcdd",
+      "name": "\u041f\u0430\u043f\u0430\u0439\u044f VPN \u2014 \u0432\u044b\u0441\u043e\u043a\u043e\u0441\u043a\u043e\u0440\u043e\u0441\u0442\u043d\u043e\u0439 VPN \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430, \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/aabnlcbjffdcnmhaljbolebldfgfdcdd",
+      "sha256": "e531fee99b3778ee8336d696a862f711381d06d9cafbbbe207ed292e25420b5d",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "hifeodddiocjgmgemhhlcfbalilfpjik",
+      "name": "\u0412\u043e\u043b\u044c\u0442 VPN \u2014 \u0432\u044b\u0441\u043e\u043a\u043e\u0441\u043a\u043e\u0440\u043e\u0441\u0442\u043d\u043e\u0439 VPN \u0434\u043b\u044f \u0420\u0424 \u0438 \u0421\u041d\u0413, \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e \u0432 2026 \u0433\u043e\u0434\u0443",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/hifeodddiocjgmgemhhlcfbalilfpjik",
+      "sha256": "f696799fc115f61c59bd90c84c571efea6a37bd61595f3ca8be85e19c457e11e",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "lflloojocbhdahkpejfnndjifegiabil",
+      "name": "\u0417\u0435\u0444\u0438\u0440 VPN \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 VPN \u0434\u043b\u044f Chrome, \u043f\u0440\u043e\u0441\u0442\u043e\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043d\u0443\u0436\u043d\u044b\u043c \u0441\u0430\u0439\u0442\u0430\u043c",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/lflloojocbhdahkpejfnndjifegiabil",
+      "sha256": "6142cdef80e5aa87388317c95ea39ad72a0e2db468a7e8144b9b5f0a00237380",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "nakfddackihlnoiohmpijlfhpeaplafm",
+      "name": "\u041f\u043e\u043d\u0447\u0438\u043a VPN \u2014 VPN \u0434\u043b\u044f Chrome \u0441 \u0431\u044b\u0441\u0442\u0440\u044b\u043c \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435\u043c \u0438 \u0437\u0430\u0449\u0438\u0442\u043e\u0439 \u0442\u0440\u0430\u0444\u0438\u043a\u0430",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/nakfddackihlnoiohmpijlfhpeaplafm",
+      "sha256": "05cc93d62318b692cfcca968c3cc6a575770b8b01084f41ce1c2be129f32692e",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "lckfidngbfedjohdjmfknlgdfogdpcgp",
+      "name": "\u0413\u0443\u0430\u0432\u0430 vpn - \u0421\u0432\u0435\u0440\u0445\u0431\u044b\u0441\u0442\u0440\u044b\u0439, vpn",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/lckfidngbfedjohdjmfknlgdfogdpcgp",
+      "sha256": "ab0a62bf85dee9e88ffd198f6eaf945a7d3be725e3da4d1c10cf7868adaa868c",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ehckpkpeiajihkombmciafecidmnliaa",
+      "name": "\u0411\u0430\u0442\u044e\u0448\u043a\u0430 VPN \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 VPN \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430, \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0432 2026 \u0433\u043e\u0434\u0443",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/ehckpkpeiajihkombmciafecidmnliaa",
+      "sha256": "4e061d3ef8312ea0f99751b057f26b404dabe8fd84511dbae0d7455d2262b28a",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "obbdghiojjmnigiciechnbcpmokiilmc",
+      "name": "\u0421\u043f\u0435\u043a\u0442\u0440\u0430 VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439, \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 VPN \u0434\u043b\u044f Chrome, \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0441\u0430\u0439\u0442\u0430\u043c \u0432 2026 \u0433\u043e\u0434\u0443",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/obbdghiojjmnigiciechnbcpmokiilmc",
+      "sha256": "68b23fd394bd94fbc1350c0a3767104727aa70138138a42efc0ebd48a9ca13a0",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ojegalpdchekohgmehgcpickejeimbpd",
+      "name": "Zenvo \u2014 VPN \u0434\u043b\u044f YouTube \u0438 Telegram \u0432 Chrome, \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/ojegalpdchekohgmehgcpickejeimbpd",
+      "sha256": "503c1ee3845b2ca4ddac0ff16dd598e16f3c5fb614edf74f9937710f3eb6b9dd",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "cbhlpolffmloopbijkjleaojehmmmbmm",
+      "name": "\u041a\u043e\u043a\u043e\u0441 VPN \u2014 \u0432\u044b\u0441\u043e\u043a\u043e\u0441\u043a\u043e\u0440\u043e\u0441\u0442\u043d\u043e\u0439 VPN \u0434\u043b\u044f Chrome, \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/cbhlpolffmloopbijkjleaojehmmmbmm",
+      "sha256": "87aa31cf51f41d97cc96a514be07a91d600f18a92268e6092c42d292301ba657",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ahcdkklanfcodefdlagmkjobcjloeafl",
+      "name": "\u0411\u043e\u043d\u0431\u043e\u043d VPN \u2014 \u043f\u0440\u043e\u0441\u0442\u043e\u0439 VPN \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430, \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0441\u0430\u0439\u0442\u0430\u043c",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/ahcdkklanfcodefdlagmkjobcjloeafl",
+      "sha256": "db2c3ac26154408a8efbb3cb8195ddc57c7d6a7f949e6fe406221c449700728d",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ffmkbkojkaceccfnmpogihgoodlfiljp",
+      "name": "\u0421\u0435\u0432\u0435\u0440 \u2014 VPN \u0434\u043b\u044f Chrome \u0441 \u0431\u044b\u0441\u0442\u0440\u044b\u043c \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435\u043c \u0438 \u0437\u0430\u0449\u0438\u0442\u043e\u0439 \u0434\u0430\u043d\u043d\u044b\u0445",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/ffmkbkojkaceccfnmpogihgoodlfiljp",
+      "sha256": "ca3fde3620a425ab52e423d9cb18ea2e015460c1126e18bbab2aff0a7d779632",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "mepikklnbpcmjmagpfnlodibgginmpjp",
+      "name": "\u041f\u043e\u0435\u0445\u0430\u043b\u0438! VPN \u0434\u043b\u044f Chrome \u2014 \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0432 \u043e\u0434\u0438\u043d \u043a\u043b\u0438\u043a",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/mepikklnbpcmjmagpfnlodibgginmpjp",
+      "sha256": "bd8ab989ed0128ddfae657d810bf694dbee14dcdc7b849e5ec8a37d565b862d0",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "nodcapihdngmffidggekkoaegfbjgbkp",
+      "name": "\u0431\u0430\u0431\u0443\u0448\u043a\u0430 \u0432\u043f\u043d - \u0411\u044b\u0441\u0442\u0440\u044b\u0439, \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 vpn \u0434\u043b\u044f Chrome",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/nodcapihdngmffidggekkoaegfbjgbkp",
+      "sha256": "bef613737f66d7a278e2202ec749d3b99cd557c88a035de002b94a1835d7e5ef",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "nmiffajjdfabmhkceoeinnpeajjhlhmi",
+      "name": "VPN \u0434\u043b\u044f Telegram \u0438 YouTube \u2014 Kairo, \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0432 \u043e\u0434\u0438\u043d \u043a\u043b\u0438\u043a",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/nmiffajjdfabmhkceoeinnpeajjhlhmi",
+      "sha256": "30fdff1ea2189cadc4f320ca3d93dc2ef767b1f4d7312d37e73d9df29601de00",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "jdhbhejdefnjddkdfdnejinamagkolpk",
+      "name": "Lumio \u2014 \u043f\u0440\u043e\u0441\u0442\u043e\u0439 VPN \u0434\u043b\u044f Chrome, YouTube \u0438 Telegram \u0432\u0441\u0435\u0433\u0434\u0430 \u043f\u043e\u0434 \u0440\u0443\u043a\u043e\u0439",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/jdhbhejdefnjddkdfdnejinamagkolpk",
+      "sha256": "0a1c658d513731db84e7fd6bf66bc1a681e5655668e6cd8bf95874f3a7d1d24c",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "dilcplabaalccjahpiepgmfkconhahfe",
+      "name": "\u041f\u043b\u043e\u043c\u0431\u0438\u0440 VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0438 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 VPN \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/dilcplabaalccjahpiepgmfkconhahfe",
+      "sha256": "38a3e14270770ea2514cf1918a63d1cbd2e70a3a96c6793322afa62b99f3c36d",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "folgfkcebehcpddoijjjpfonkldjjfio",
+      "name": "Quorix VPN \u0434\u043b\u044f YouTube: \u0432\u044b\u0441\u043e\u043a\u0430\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438 \u0437\u0430\u0449\u0438\u0442\u0430 \u0442\u0440\u0430\u0444\u0438\u043a\u0430",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/folgfkcebehcpddoijjjpfonkldjjfio",
+      "sha256": "7a2d851bceaa5326562ea8764af11ed8b621936afe2cca21d3e5aba3627c76e9",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "fcieicdgbodchaccpibfhkgigopldddl",
+      "name": "\u041e\u043f\u0435\u043b\u044c VPN \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 VPN \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430, \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0441\u0430\u0439\u0442\u0430\u043c \u0432 2026 \u0433\u043e\u0434\u0443",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/fcieicdgbodchaccpibfhkgigopldddl",
+      "sha256": "7574bdf1243d971f26937aec68e64887d16960a81bd00a0684fb030d5a075af6",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "kdcbanefhceneolaniegheojjdkkionb",
+      "name": "\u041c\u0430\u044f\u043a \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 VPN \u0434\u043b\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430, \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0441\u0430\u0439\u0442\u0430\u043c",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/kdcbanefhceneolaniegheojjdkkionb",
+      "sha256": "5e45fd08b2b132c45d288f4ddcb32b268499551ce40c1f8c09375bbbdc98b58a",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "gcgammhdfiimcdopgblklkfciefhpoij",
+      "name": "\u0420\u044b\u0432\u043e\u043a VPN \u2014 \u0432\u044b\u0441\u043e\u043a\u043e\u0441\u043a\u043e\u0440\u043e\u0441\u0442\u043d\u043e\u0435 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0434\u043b\u044f Chrome",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/gcgammhdfiimcdopgblklkfciefhpoij",
+      "sha256": "4708e9e3f1c08f5d629e0946d879df738925b295c622899be65a032121209401",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ebfhhkpjgalnacmagjagccfpkacmfhfg",
+      "name": "\u041f\u0440\u043e\u0440\u044b\u0432 VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 VPN \u0434\u043b\u044f YouTube, Telegram \u0438 \u043f\u0440\u0438\u0432\u044b\u0447\u043d\u044b\u0445 \u0441\u0430\u0439\u0442\u043e\u0432",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/ebfhhkpjgalnacmagjagccfpkacmfhfg",
+      "sha256": "4494578d1d430ce604a4f467f6c2d4fb7909004b3da7b1e7518e0d768e1af155",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "eamabpkobaeaiknnpbdhpepfbaejaoip",
+      "name": "\u041a\u0438\u0432\u0430\u043d\u043e VPN \u2014 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0438 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 VPN \u0434\u043b\u044f Chrome, \u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d \u0432 \u0420\u0424 \u0432 2026 \u0433\u043e\u0434\u0443",
+      "source": "MalExt Analysis",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-22",
+      "store_url": "https://chromewebstore.google.com/detail/eamabpkobaeaiknnpbdhpepfbaejaoip",
+      "sha256": "e4171995a24bae60d87042dd4e0f6a624cae38a537eeed7c79ec5ab8925d0f47",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "oidoijeihgbngoghaahcinfijgkbgmke",
+      "name": "Hello Kitty 4K Ultra HD 15 Wallpapers",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/oidoijeihgbngoghaahcinfijgkbgmke",
+      "sha256": "f4e61f2bd68001b4c470eef1161d722d01e306b9799de5d83ab6a49a5f752a08",
+      "version": "4.4"
+    },
+    {
+      "extension_id": "mecpljccfdkdfgnpcdcoloakgkanddod",
+      "name": "XXXTentacion 4K Ultra HD 15 Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/mecpljccfdkdfgnpcdcoloakgkanddod",
+      "sha256": "d53c36f9767cc1bf518502158bf27231688f112a12b8c0618507e53536876a2e",
+      "version": "4.4"
+    },
+    {
+      "extension_id": "hmkgikpicilghddjbjalhpfheibnebcj",
+      "name": "Super Sports Car 4K Ultra HD 15 Wallpapers",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/hmkgikpicilghddjbjalhpfheibnebcj",
+      "sha256": "6b9ac24a6c85a311ca750184b5acac96bc4b69669d97b25575da6a1d21e4a39f",
+      "version": "4.4"
+    },
+    {
+      "extension_id": "cjafedhlmgdffcjnieijmfifdopjpbdi",
+      "name": "Spain National Team \u2013 FIFA World Cup 2026 USA Squad | Top 20 Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/cjafedhlmgdffcjnieijmfifdopjpbdi",
+      "sha256": "1be0ad960f1bec69348fd16473b99104fd4fa0c9d04d0723685423f2588bfb09",
+      "version": "4.4"
+    },
+    {
+      "extension_id": "cpcdopooldlokggogkofdpmgailppkpm",
+      "name": "Argentina Team \u2013 FIFA 2026 Top 20 Wallpapers",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/cpcdopooldlokggogkofdpmgailppkpm",
+      "sha256": "29cf5796442ee351181a1b6e97f7026558c222b3679b3844a921b2489c6527d9",
+      "version": "4.9"
+    },
+    {
+      "extension_id": "nmkmpjgbdaiopknojmdhidlejmflobed",
+      "name": "67 Meme Funk 4K Ultra HD 15 Wallpaper",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/nmkmpjgbdaiopknojmdhidlejmflobed",
+      "sha256": "4da2818d0469363dac0833ed6731b78e82a8e4f89fbc0165630c5c1e3ccaed17",
+      "version": "4.4"
+    },
+    {
+      "extension_id": "jlegmgcjddobmpklhlphhelafmhlkmlb",
+      "name": "Anime Cute Girls 4K Ultra HD 15 Wallpapers",
+      "source": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-21",
+      "store_url": "https://chromewebstore.google.com/detail/jlegmgcjddobmpklhlphhelafmhlkmlb",
+      "sha256": "ea3b5d071a381197b959640f5078d4d61139836b22259708fb112d79f774b674",
+      "version": "4.4"
+    },
     {
       "extension_id": "cggoopngfemgjnokohjbomendhifbmlj",
       "name": "VibeLex - A Dictionary/Translator Extension",
@@ -7818,6 +8658,66 @@
       "version": "1.0.1"
     },
     {
+      "extension_id": "iphaoiabjcdamkamohhjchkbppceklip",
+      "name": "Jev Tab Groups",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/iphaoiabjcdamkamohhjchkbppceklip",
+      "sha256": "9cb30a8217cfb98775e68af30d910c23b0db5af1e6daed7cffa896bff588449f",
+      "version": "1.3.11"
+    },
+    {
+      "extension_id": "gefoonbnjjolhnejbffaihlacpbbeiia",
+      "name": "Promogator \u00b7 Conectar Conta de Afiliado",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/gefoonbnjjolhnejbffaihlacpbbeiia",
+      "sha256": "3a35bd5c5db0fa9ba69305dff6908e7e415acf14c863f39b9e8f69c9ede49bcf",
+      "version": "1.6"
+    },
+    {
+      "extension_id": "onehjapmbjcnhgjdphnogmaaagpielpb",
+      "name": "Koseller \uc0c1\ud488 \uc218\uc9d1\uae30",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/onehjapmbjcnhgjdphnogmaaagpielpb",
+      "sha256": "a4b3c86533ffe34d570dc8fc77a299066776eb6c7af1d4130c701d9812f4e72b",
+      "version": "1.0.6"
+    },
+    {
+      "extension_id": "iebfcbnfccclcebakmpafibbngpodlfb",
+      "name": "FB Auto Poster Pro",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/iebfcbnfccclcebakmpafibbngpodlfb",
+      "sha256": "dfe409ac6ad02746760dc680a5a21b8f78f150f0eb06cd862d053c0c3bb5ab9b",
+      "version": "1.2"
+    },
+    {
+      "extension_id": "pfadbhoppaclohjnecfdmkllbohkcblg",
+      "name": "App Store Reviews Scraper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/pfadbhoppaclohjnecfdmkllbohkcblg",
+      "sha256": "2565ce7a5648565a5ae3a16927d8f4d7e2a59669ac5fd0dda3d490c8e790242c",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "fdklpdnphfljchaaelcdfmjbhanlmmbf",
+      "name": "Amazon Scraper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-18",
+      "store_url": "https://chromewebstore.google.com/detail/fdklpdnphfljchaaelcdfmjbhanlmmbf",
+      "sha256": "01fcf81250663104f6368804bc998231ac590352662f83c3048391b2006fcc02",
+      "version": "1.0.0"
+    },
+    {
       "extension_id": "okdkohiaklhiajonhgebakjpahokojml",
       "name": "FlowBulk",
       "source": "Store Monitoring",
@@ -8245,6 +9145,26 @@
       "insert_date": "2026-10-18",
       "store_url": "https://chromewebstore.google.com/detail/nmpilknjfdfdfhdhdnllfngbknpdgpfh",
       "sha256": "50f684695c7867d2af0961e331c03de27cf26db951df3022d89ce450f8fb9a3b",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "jmgehkenckaodiekkblabohhanflfalg",
+      "name": "WebIngest",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/jmgehkenckaodiekkblabohhanflfalg",
+      "sha256": "1111276417fd9139008b46a47f9a1997a0ed9f997c2f10db375baf048484d499",
+      "version": "0.1.2"
+    },
+    {
+      "extension_id": "ncgcododdgogbjageinjbbaccmhjadnm",
+      "name": "Advance Auto Parts Product Collector",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-10-17",
+      "store_url": "https://chromewebstore.google.com/detail/ncgcododdgogbjageinjbbaccmhjadnm",
+      "sha256": "43e8cf30f8ac288f42fa37449a60379a49ba433fddd4321ab069d1a627053cad",
       "version": "1.0.0"
     },
     {
@@ -17128,6 +18048,16 @@
       "version": "1.0"
     },
     {
+      "extension_id": "oliiideaalkijolilhhaibhbjfhbdcnm",
+      "name": "Link shortener",
+      "source": "https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-30",
+      "store_url": "https://chromewebstore.google.com/detail/oliiideaalkijolilhhaibhbjfhbdcnm",
+      "sha256": "5abece102b17a289cd50d0c24a16e6e6445fb43e930e19008243e810cebbce4e",
+      "version": "2.6"
+    },
+    {
       "extension_id": "bkkbcggnhapdmkeljlodobbkopceiche",
       "name": "Pop up blocker for Chrome\u2122 - Poper Blocker",
       "source": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
@@ -20458,6 +21388,16 @@
       "version": "1.1"
     },
     {
+      "extension_id": "fmncmpginchogfdnjfeopdopoiegjjjp",
+      "name": "AI Search GPT for Chrome",
+      "source": "https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-09",
+      "store_url": "https://chromewebstore.google.com/detail/fmncmpginchogfdnjfeopdopoiegjjjp",
+      "sha256": "3dc8ef67eb6edad88540c683fb17563dc1f53c4f13c5644c022d9843f0680faa",
+      "version": "2.5.12"
+    },
+    {
       "extension_id": "njlnfkifnhnbhclecinmajfccpenpbol",
       "name": "Github Packagejson Enhanc",
       "source": "Store Monitoring",
@@ -20636,6 +21576,16 @@
       "store_url": "https://chromewebstore.google.com/detail/hoemclmeahebepfmbfpgmfddiomgopfg",
       "sha256": "e8170886c4c63920e2bc85e9a23dbb701b10252b378def4ac3496a510ce1b96d",
       "version": "1.0.0"
+    },
+    {
+      "extension_id": "igmblpicjfppdloljoabpiafdlokogno",
+      "name": "Fallout Cursor - Custom Game Cursor for Chrome",
+      "source": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt",
+      "store": "Google Chrome",
+      "insert_date": "2026-09-07",
+      "store_url": "https://chromewebstore.google.com/detail/igmblpicjfppdloljoabpiafdlokogno",
+      "sha256": "4a70a1f1f92a0143a56aadf0225fbcdd55dafac192fd3c91cb528fd940a7d336",
+      "version": "1.0.4"
     },
     {
       "extension_id": "ipihfpalipjpdoboegoemfhfldcpdeke",
@@ -79068,16 +80018,6 @@
       "version": ""
     },
     {
-      "extension_id": "fmncmpginchogfdnjfeopdopoiegjjjp",
-      "name": "Search GPT for Chrome",
-      "source": "https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys",
-      "store": "Google Chrome",
-      "insert_date": "2026-02-04",
-      "store_url": "https://chromewebstore.google.com/detail/fmncmpginchogfdnjfeopdopoiegjjjp",
-      "sha256": "3dc8ef67eb6edad88540c683fb17563dc1f53c4f13c5644c022d9843f0680faa",
-      "version": "2.5.12"
-    },
-    {
       "extension_id": "mehpokgiebgcnelgnlfkeldlfnpdhdha",
       "name": "ChatGPT Extension",
       "source": "https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys",
@@ -82368,16 +83308,6 @@
       "version": "1.0.5"
     },
     {
-      "extension_id": "igmblpicjfppdloljoabpiafdlokogno",
-      "name": "Fallout Cursor",
-      "source": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt",
-      "store": "Google Chrome",
-      "insert_date": "2025-08-19",
-      "store_url": "https://chromewebstore.google.com/detail/igmblpicjfppdloljoabpiafdlokogno",
-      "sha256": "4a70a1f1f92a0143a56aadf0225fbcdd55dafac192fd3c91cb528fd940a7d336",
-      "version": "1.0.4"
-    },
-    {
       "extension_id": "hdholjicmhinpjcbmigoffjedkiihlen",
       "name": "Death Note Cursor",
       "source": "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt",
@@ -83146,16 +84076,6 @@
       "store_url": "https://chromewebstore.google.com/detail/odmmidbmgkkbabilcljmljbeopneabkn",
       "sha256": "",
       "version": ""
-    },
-    {
-      "extension_id": "oliiideaalkijolilhhaibhbjfhbdcnm",
-      "name": "Link shortener",
-      "source": "https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/",
-      "store": "Google Chrome",
-      "insert_date": "2025-05-22",
-      "store_url": "https://chromewebstore.google.com/detail/oliiideaalkijolilhhaibhbjfhbdcnm",
-      "sha256": "5abece102b17a289cd50d0c24a16e6e6445fb43e930e19008243e810cebbce4e",
-      "version": "2.6"
     },
     {
       "extension_id": "bhahpmoebdipfoaadcclkcnieeokebnf",
