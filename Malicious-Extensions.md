@@ -1,5 +1,89 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| caikpfmljlmeojmnipjalmpidilddhli | Skola Broadcast | Policy Violation | Store Monitoring | 22/11/26 | No | Google Chrome
+| pbaiefkophdaogblabkbohomjegojjld | App Store App Scraper | Policy Violation | Store Monitoring | 22/11/26 | No | Google Chrome
+| jcgkmngmiphpjekjbdlceibkclkknlpg | Wikipedia Search | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| mpicpppokknccmldbcmckkcmlkjlecge | VPN for Threads ВПН | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| gjoaiiohfnpmmfocbmokajcfocejknaa | Шедеврум без рекламы / Shedevrum AI no Ads | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| dobldhlkenkbfnobeamcakkkconpfkci | ВПН для Netflix / VPN for Netflix | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| glodgpbaomekodokhkmalbfghplgmekb | Скачать фото с телеграм | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| jejpmoiaandpclbkdniphnoadfhcmfnl | ВПН для Notion / VPN for Notion | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| ijnjjlcjfcbapohffjomckphjoiallkk | ВПН для Deepseek Ai / VPN for Deepseek | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| mdedbdlgcfpolgpfnbohlnjllabgfmbh | Расширение для откликов на вакансии | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| kpihclggiainmgliibljojpbnjhjdcfm | впн для чатгпт Chatgpt | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| cihojiankbfanmhielbfonlcadfkjnhb | ВПН для Твиттера - VPN for Twitter X | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| dfodeplpollimglabmiikhbnkjblidhk | ВПН для Ютуба в России расширение для Google Chrome | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| mlfkfkkgegnabglnbdeifpmkllfonepb | ВПН для Claude Ai / VPN for Claude | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| fdeliflkcpdjdefinolnkojjcfoagdmk | VPN Facebook - vpn для фейсбука | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| lolaehmdekfdaaelkejabcmpgdhgjcpg | VPN расширение для браузера от SecureBrowser | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| gcjimlpnleplhdjkfnamojkpikceohmp | VPN для LinkedIn | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| kjjhafbfhjdchklgnkenbeihmcpbldao | ВПН для Ютуб расширение для браузера - Шустрый Ютубчик | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| hlmbijdehkmgmfeocjcpabpjbocpkoda | Vpn для ютуба — Youtubepr | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| cdfdngobhlmjlcogpjibhclobjniohmb | BLACK VPN — бесплатный VPN для Google Chrome | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| pbmchlbpmommkfpafninfdcjheapdkfi | Post Translator For Twitt | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| fonbiaalonekgmohkleimpdemngjbleg | ChatGpt VPN - ВПН для ChatGpt Ai | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| cfhifhoonlggibeojpjdfanmlnphmdah | INSTAVPN - Инстаграм без блокировки | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| empknjidkidealjmmcjiojconcndgmlg | Spotify VPN - открой доступ к Spotify как раньше | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| dadllnmheklilihjjlobfhgjmopbcalo | UnlockTube - ВПН для YouTube без ограничений в России. Ускорить Ютуб на ПК | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| cmedikogigjehignnkmcbjpgihpgooph | Discord VPN \| Расширение для браузера – надежный доступ к Discord | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| npcgbbelbceloaodjiafnmblekanmabe | Бесплатный ВПН для Ютуб без ограничений в России | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| fjoidkibidcnhioonfecibdgggjehfgd | VPNtube - Ютуб без замедления | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| akdkpiglbicjkebnjgohheaecgohjall | ВПН для Телеграм / VPN for Telegram | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| cjndkboajlopnhbaeeegnbaghdbggenm | ВПН для Gemini / VPN for Gemini | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| nkhfdlilombfkfbnbdfephaaaifaollp | Total VPN - один ВПН для всего | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| mcbbkppinglngggemoflhaajipkapgml | Vpn для Chatgpt | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| llngkcnndicadfcbikbjnhbcikpmaknj | РуТрекер VPN - расширение для доступа к сайту | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
+| eekhejllgogjkchlgdodifakbpghjaeg | Гром VPN — мощный VPN для Chrome, Telegram и YouTube | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| idcnimeiokhbbkfpdgkbbbldagmahind | Flyra: VPN для Chrome в один клик, быстрое подключение | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| ijpnadnhaeiodjlpmdhpgfbiohhnohll | Ветерок — легкий VPN для Chrome, сайты открываются быстро | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| obekdiohgehgjjhmnlgbgokejgenogcd | Фисташка VPN — надежное VPN-подключение для браузера и защиты данных | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| gmlhoeeoobkphaabeicjbapkkobmhkij | Дядюшка VPN — VPN для Chrome, работает в России и СНГ в 2026 году | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| nlpjhbjkbndgcokmbimklfdigacandaj | Tundrix — надежный VPN для Chrome со стабильным подключением | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| dappijdmbljeepdgbjlknpchflmmdflc | Русский ВПН - надежный VPN для Chrome, в 2026 | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| cfeofhoipkiagcdafdnbpappemcfigei | Смегма впн — быстрый надежный впн | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| gmfdljpbjobcpekjopfnalcfnlcgkeki | Nyxeon: быстрый VPN для Chrome, видео и мессенджеры без лишних настроек | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| abcbeefnlpcgcdibdlljgaccmdghceen | Балалайка VPN — легкое подключение для YouTube и Telegram в браузере | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| doedadnhhmpbjimpkifdkbfphbncgbpb | Банан VPN — VPN для Chrome, быстрый доступ к заблокированным сайтам | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| lbonpooplfbmaagfcjdnnjajapmjbfbe | Дедушка впн - VPN для Chrome, доступен в РФ в 2026 году | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| keejkpjbjcmbncmaomhpbgpjhnbpdcba | Каспер VPN — надежный VPN для Chrome, быстрый доступ к закрытым сайтам | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| onjhjemkoafkajpadigopahcddddjnjm | Лада VPN — надежный VPN для Chrome, стабильное подключение | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| pmpglogjpboekommdeljhedgfbmndocd | Skyro VPN: быстрый VPN для видео, мессенджеров и сайтов | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| kaojdkdgmdpcllofadghlhgcmeopbfmb | Искра — быстрый VPN для России и СНГ, удобный для браузера | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| bdbfkhfkmblihnkcbndefheflhhfoegn | Отец VPn | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| kkmlebmebdnjomnknkpfpjjpeebpojkp | Nimbo: простой VPN для браузера, быстрый доступ к сайтам | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| lifkngfjbpogckepjkbhcgdlnomfgdia | Teleporta VPN — Telegram и YouTube открываются быстро, в один клик | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| ccnfmbegphplkmbebkjohnjgjmbelmjo | Нива VPN — быстрый и удобный VPN для Chrome в 2026 году | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| kiahlmlpgcgmbkfmioimgcdpklmabghj | Лимон VPN — быстрый VPN для Chrome, стабильное соединение в 2026 году | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| ldogjhlfofbabgfkpejphemmdhpahbcl | Зетта VPN — высокоскоростной VPN для Chrome, быстрый доступ к сайтам | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| aabnlcbjffdcnmhaljbolebldfgfdcdd | Папайя VPN — высокоскоростной VPN для браузера, стабильное подключение | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| hifeodddiocjgmgemhhlcfbalilfpjik | Вольт VPN — высокоскоростной VPN для РФ и СНГ, стабильно в 2026 году | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| lflloojocbhdahkpejfnndjifegiabil | Зефир VPN — надежный VPN для Chrome, простой доступ к нужным сайтам | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| nakfddackihlnoiohmpijlfhpeaplafm | Пончик VPN — VPN для Chrome с быстрым подключением и защитой трафика | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| lckfidngbfedjohdjmfknlgdfogdpcgp | Гуава vpn - Сверхбыстрый, vpn | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| ehckpkpeiajihkombmciafecidmnliaa | Батюшка VPN — надежный VPN для браузера, стабильное подключение в 2026 году | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| obbdghiojjmnigiciechnbcpmokiilmc | Спектра VPN — быстрый, надежный VPN для Chrome, доступ к сайтам в 2026 году | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| ojegalpdchekohgmehgcpickejeimbpd | Zenvo — VPN для YouTube и Telegram в Chrome, быстро и стабильно | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| cbhlpolffmloopbijkjleaojehmmmbmm | Кокос VPN — высокоскоростной VPN для Chrome, стабильная работа | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| ahcdkklanfcodefdlagmkjobcjloeafl | Бонбон VPN — простой VPN для браузера, быстрый доступ к сайтам | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| ffmkbkojkaceccfnmpogihgoodlfiljp | Север — VPN для Chrome с быстрым подключением и защитой данных | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| mepikklnbpcmjmagpfnlodibgginmpjp | Поехали! VPN для Chrome — быстрое подключение в один клик | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| nodcapihdngmffidggekkoaegfbjgbkp | бабушка впн - Быстрый, надежный vpn для Chrome | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| nmiffajjdfabmhkceoeinnpeajjhlhmi | VPN для Telegram и YouTube — Kairo, подключение в один клик | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| jdhbhejdefnjddkdfdnejinamagkolpk | Lumio — простой VPN для Chrome, YouTube и Telegram всегда под рукой | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| dilcplabaalccjahpiepgmfkconhahfe | Пломбир VPN — быстрый и удобный VPN для браузера в России | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| folgfkcebehcpddoijjjpfonkldjjfio | Quorix VPN для YouTube: высокая скорость и защита трафика | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| fcieicdgbodchaccpibfhkgigopldddl | Опель VPN — надежный VPN для браузера, доступ к сайтам в 2026 году | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| kdcbanefhceneolaniegheojjdkkionb | Маяк — надежный VPN для браузера, стабильный доступ к сайтам | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| gcgammhdfiimcdopgblklkfciefhpoij | Рывок VPN — высокоскоростное подключение для Chrome | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| ebfhhkpjgalnacmagjagccfpkacmfhfg | Прорыв VPN — быстрый VPN для YouTube, Telegram и привычных сайтов | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| eamabpkobaeaiknnpbdhpepfbaejaoip | Кивано VPN — быстрый и надежный VPN для Chrome, доступен в РФ в 2026 году | Potentially Unwanted Software | MalExt Analysis | 22/11/26 | No | Google Chrome
+| oidoijeihgbngoghaahcinfijgkbgmke | Hello Kitty 4K Ultra HD 15 Wallpapers | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/11/26 | No | Google Chrome
+| mecpljccfdkdfgnpcdcoloakgkanddod | XXXTentacion 4K Ultra HD 15 Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/11/26 | No | Google Chrome
+| hmkgikpicilghddjbjalhpfheibnebcj | Super Sports Car 4K Ultra HD 15 Wallpapers | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/11/26 | No | Google Chrome
+| cjafedhlmgdffcjnieijmfifdopjpbdi | Spain National Team – FIFA World Cup 2026 USA Squad \| Top 20 Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/11/26 | No | Google Chrome
+| cpcdopooldlokggogkofdpmgailppkpm | Argentina Team – FIFA 2026 Top 20 Wallpapers | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/11/26 | No | Google Chrome
+| nmkmpjgbdaiopknojmdhidlejmflobed | 67 Meme Funk 4K Ultra HD 15 Wallpaper | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/11/26 | No | Google Chrome
+| jlegmgcjddobmpklhlphhelafmhlkmlb | Anime Cute Girls 4K Ultra HD 15 Wallpapers | Adware | [raw.githubusercontent.com](https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-06-01-Adware-Wallpaper-Chrome-Extension-Campaign.txt) | 21/11/26 | No | Google Chrome
 | cggoopngfemgjnokohjbomendhifbmlj | VibeLex - A Dictionary/Translator Extension | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
 | pilihkgmgnbmfbbhmnhahapnpckmodkj | แวะทัก (Wae-Tak) | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
 | fbapgngopibomemgmgghnppfgcibdcoe | VU Magic - All in One Extention for VULMS , DigiSkill and CISCO | Policy Violation | Store Monitoring | 21/11/26 | No | Google Chrome
@@ -293,30 +377,30 @@
 | jhmoakjolfkmlgdmajnhlnplckkdimep | Airbnb scraper | Policy Violation | Store Monitoring | 06/11/26 | No | Google Chrome
 | fmjnjkeohdibdlamgfaclmolefamleib | TeXbridge – ChatGPT & Gemini Math to Word & PowerPoint Equations - Free | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
 | mgcackamefdfmipooepaibkbeclecjma | GitHub reactions minimap | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
-| melojeghidmomfldeeiacfcjmkfamole | 成材 | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
-| goefnhckoclcfkhogmmkngiceodneihk | Totally Awesome Roblox Ex | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
-| icafolcomlioggclbdjphfnbchhkpgdc | Video Downloader For Vime | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| melojeghidmomfldeeiacfcjmkfamole | 成材 | Potentially Unwanted Software | Store Monitoring | 05/11/26 | No | Google Chrome
+| goefnhckoclcfkhogmmkngiceodneihk | Totally Awesome Roblox Ex | Potentially Unwanted Software | Store Monitoring | 05/11/26 | No | Google Chrome
+| icafolcomlioggclbdjphfnbchhkpgdc | Video Downloader For Vime | Potentially Unwanted Software | Store Monitoring | 05/11/26 | No | Google Chrome
 | beflajbdgikphkebmjakmclhgbladjcl | Kthulu | Malware | Store Monitoring | 05/11/26 | No | Google Chrome
 | bibdombdcdbbnfdjkaajfgnfhlapibde | Shoptimate : automatic price comparison | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
-| dokhapgdoekmhhncfdbngojghcdgkmmk | EditAnyCookie - Edit any cookies | Potentially Unwanted | Store Monitoring | 05/11/26 | Yes | Google Chrome
+| dokhapgdoekmhhncfdbngojghcdgkmmk | EditAnyCookie - Edit any cookies | Potentially Unwanted Software | Store Monitoring | 05/11/26 | Yes | Google Chrome
 | jiebfaaodnpnbaiclagpedapmkmkjfgn | Guardvio Adult Content Bl | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
 | ealmhabecnpjcnklpfagcggfddagalmh | Github Repository Recommendation | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
 | lkjkhcgnlppmckhhclgefgjloapbbjkh | MetaMusk NFTs | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
 | lanegoepmpcdfabhabmjaaolokjofioi | github-story-points-calculator | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
 | bkkbicciaifjlkkjojdpkncmohlfokeh | GitHub Musical Score Extension | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
-| commmogajofnlijhefhlbaaimnloliii | Custom Cursor Trails by Crazy Cursors | Potentially Unwanted | Store Monitoring | 05/11/26 | Yes | Google Chrome
-| gjodpnjmkbcnhhacmeohdpibgbolkmdn | Gimkit Hacker Pro | Potentially Unwanted | Store Monitoring | 05/11/26 | Yes | Google Chrome
+| commmogajofnlijhefhlbaaimnloliii | Custom Cursor Trails by Crazy Cursors | Potentially Unwanted Software | Store Monitoring | 05/11/26 | Yes | Google Chrome
+| gjodpnjmkbcnhhacmeohdpibgbolkmdn | Gimkit Hacker Pro | Potentially Unwanted Software | Store Monitoring | 05/11/26 | Yes | Google Chrome
 | okhabijfblkaigenbkddghigohkhapii | Cookie Scope | Malware | Store Monitoring | 05/11/26 | No | Google Chrome
-| lababplgapanflcgajlmhmckeopjpgci | Platform Climber | Potentially Unwanted | Store Monitoring | 05/11/26 | Yes | Google Chrome
-| ikodfghngidmmafejplohojbcndhgoio | Tiktok Unblocked | Potentially Unwanted | Store Monitoring | 05/11/26 | Yes | Google Chrome
+| lababplgapanflcgajlmhmckeopjpgci | Platform Climber | Potentially Unwanted Software | Store Monitoring | 05/11/26 | Yes | Google Chrome
+| ikodfghngidmmafejplohojbcndhgoio | Tiktok Unblocked | Potentially Unwanted Software | Store Monitoring | 05/11/26 | Yes | Google Chrome
 | pkbmkapbefglhkkijhpoghmhbajloblc | Vimeo Video Downloader Hd | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
-| hkljdllhocbafciddnnceodolcimingn | Arbitrum Pulse | Potentially Unwanted | Store Monitoring | 05/11/26 | Yes | Google Chrome
+| hkljdllhocbafciddnnceodolcimingn | Arbitrum Pulse | Potentially Unwanted Software | Store Monitoring | 05/11/26 | Yes | Google Chrome
 | ooimkpbkcglgofdcbadcgjbidlkpggkc | Moonlight Wallet | Malware | Store Monitoring | 05/11/26 | No | Google Chrome
-| edcogfiojgdkmkbeffocnehppbgeolbg | Volume Booster Smax \| Free Sound Booster | Potentially Unwanted | Store Monitoring | 05/11/26 | Yes | Google Chrome
-| jflpehlcejekgpgpdfbcnmbkclbaighm | Video Downloader for Tiktok | Potentially Unwanted | Store Monitoring | 05/11/26 | Yes | Google Chrome
+| edcogfiojgdkmkbeffocnehppbgeolbg | Volume Booster Smax \| Free Sound Booster | Potentially Unwanted Software | Store Monitoring | 05/11/26 | Yes | Google Chrome
+| jflpehlcejekgpgpdfbcnmbkclbaighm | Video Downloader for Tiktok | Potentially Unwanted Software | Store Monitoring | 05/11/26 | Yes | Google Chrome
 | ebligfajbedgdngapjplbcmahoofmnio | VERIDICA - Forensic Evidence Capture | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
 | ndjpllenomnodfoahfnjmgpagdjipefl | Xendra — Ai Crypto Analyt | Malware | Store Monitoring | 05/11/26 | No | Google Chrome
-| ambbpgjiiielnmnnihfndemhlbancppp | 智云台 小红书蒲公英星图ai助手 | Potentially Unwanted | Store Monitoring | 05/11/26 | No | Google Chrome
+| ambbpgjiiielnmnnihfndemhlbancppp | 智云台 小红书蒲公英星图ai助手 | Potentially Unwanted Software | Store Monitoring | 05/11/26 | No | Google Chrome
 | ojopbahcpbdegflnmocbkmcdgfkeppll | Zentos | Malware | Store Monitoring | 03/11/26 | No | Google Chrome
 | mnpopjepnclgacgbfheejifcblhlceef | Ask Chat Gpt Extension | Policy Violation | Store Monitoring | 03/11/26 | No | Google Chrome
 | nncbfmnhlnpmncahkpgmobdcjgdbgjme | Chromegpt For Chatgpt | Policy Violation | Store Monitoring | 03/11/26 | No | Google Chrome
@@ -781,6 +865,12 @@
 | njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| iphaoiabjcdamkamohhjchkbppceklip | Jev Tab Groups | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| gefoonbnjjolhnejbffaihlacpbbeiia | Promogator · Conectar Conta de Afiliado | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| onehjapmbjcnhgjdphnogmaaagpielpb | Koseller 상품 수집기 | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| iebfcbnfccclcebakmpafibbngpodlfb | FB Auto Poster Pro | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| pfadbhoppaclohjnecfdmkllbohkcblg | App Store Reviews Scraper | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| fdklpdnphfljchaaelcdfmjbhanlmmbf | Amazon Scraper | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | okdkohiaklhiajonhgebakjpahokojml | FlowBulk | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | ndbiekgckmjfcdmekbkdmoioohdjfhmg | Claude AI Prompt Manager | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | icijpbhieinkgbbjigheefojikmblada | Depression: SpongeBob & Gary (Live Wallpaper) | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
@@ -824,6 +914,8 @@
 | njoajiajcpfbaclllemflffnhchblnem | Nomination Crm | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | eaddpginckbggngfiipmjigfdfgfplef | Gerar Chave de Conexão do WhatsApp | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | nmpilknjfdfdfhdhdnllfngbknpdgpfh | Odin Chat Passkey | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
+| jmgehkenckaodiekkblabohhanflfalg | WebIngest | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
+| ncgcododdgogbjageinjbbaccmhjadnm | Advance Auto Parts Product Collector | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | ojocbpdkpjdgldocigehjodijopkifba | CrossPost | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | ldealfkelhonhhdpfmobioombfojifnc | seecache | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
 | nijjbnmnifhocfkppoeicpcoigldmpko | ClaudeTrack - Claude Token Counter | Policy Violation | Store Monitoring | 17/10/26 | No | Google Chrome
@@ -1712,6 +1804,7 @@
 | nppeakfdbipcbbgkbjhfkcgnpgeofmba | The Elder Scrolls Online | Policy Violation | Store Monitoring | 30/09/26 | No | Google Chrome
 | acakkiphjmkiobanaddhcicflfloodkp | Gestão 360° CRM de CHAT Atendimento Web | Policy Violation | Store Monitoring | 30/09/26 | No | Google Chrome
 | npdnjifcapmndlinpglfmjhgmcaigekf | Dishonored Dishonored Def | Policy Violation | Store Monitoring | 30/09/26 | No | Google Chrome
+| oliiideaalkijolilhhaibhbjfhbdcnm | Link shortener | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 30/09/26 | No | Google Chrome
 | bkkbcggnhapdmkeljlodobbkopceiche | Pop up blocker for Chrome™ - Poper Blocker | Spyware | [www.darkreading.com](https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions) | 29/09/26 | No | Google Chrome
 | fndkoopalankcpdahendaibfcldhnfei | Sound Recorder | Policy Violation | Store Monitoring | 28/09/26 | No | Google Chrome
 | fpdmbflbbohnojfkojinkgbjddkeagpm | Chessr Review Unlocker | Policy Violation | Store Monitoring | 28/09/26 | No | Google Chrome
@@ -2045,6 +2138,7 @@
 | fmmbelaicccdkandcahkhelconjiokil | Gofullpage Full Page Scre | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
 | ieplcgpmefghbhilagpemdpjekaadpnc | Screen Capture Editor Go | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
 | alenijgcmniiflkindapempdamibcekn | Gofullpage Premium Pro | Policy Violation | Store Monitoring | 09/09/26 | No | Google Chrome
+| fmncmpginchogfdnjfeopdopoiegjjjp | AI Search GPT for Chrome | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 09/09/26 | No | Google Chrome
 | njlnfkifnhnbhclecinmajfccpenpbol | Github Packagejson Enhanc | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
 | ojpipmhmkeialjmgepiomippphlcoijn | Github Jira Ticket Linker | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
 | apldahmlgadlacfhdnheilfhhhaaaddo | Pip Boy Fallout Theme | Policy Violation | Store Monitoring | 08/09/26 | No | Google Chrome
@@ -2063,6 +2157,7 @@
 | llocongcggofebnijjhhkmdcccbcnlga | Github Roadmap Weekend Ho | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
 | ncmbmhhgfbmdcopgnpmjpjpicjoeflbi | Github Tree Downloader | Policy Violation | Store Monitoring | 07/09/26 | No | Google Chrome
 | hoemclmeahebepfmbfpgmfddiomgopfg | Hashhunter Blockchain Sea | Malware | Store Monitoring | 07/09/26 | No | Google Chrome
+| igmblpicjfppdloljoabpiafdlokogno | Fallout Cursor - Custom Game Cursor for Chrome | Policy Violation | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 07/09/26 | No | Google Chrome
 | ipihfpalipjpdoboegoemfhfldcpdeke | Zmetrics – Crypto Price Tracker | Policy Violation | Store Monitoring | 06/09/26 | No | Google Chrome
 | goocncdclobemgahjikidjomjmbffabg | Skyrimbmw | Policy Violation | Store Monitoring | 06/09/26 | No | Google Chrome
 | nmpojdflbpoepmmchmffpiccbhncpllf | Github Pr Pretty Link | Policy Violation | Store Monitoring | 06/09/26 | No | Google Chrome
@@ -7665,7 +7760,7 @@
 | ipijpioemaopkhpjhihdibldodmdpfjl | Smoji - Emoji and Sound Messaging | Policy Violation | Store Monitoring | 03/03/26 | No | Google Chrome
 | ojdagjoeaaooofmeofppefbnebclnmkh | GitLab Reviewer Auto Add | Policy Violation | Store Monitoring | 02/03/26 | No | Google Chrome
 | gkoaehhpdkfkjgjbnlahcneebidamclf | Multi Wallet | Policy Violation | Store Monitoring | 28/02/26 | No | Google Chrome
-| kdenlnncndfnhkognokgfpabgkgehodd | QuickLens - Search Screen with Google Lens | Removal reason Unknown | [www.bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/?utm_source=dlvr.it&utm_medium=linkedin) | 28/02/26 | Yes | Google Chrome
+| kdenlnncndfnhkognokgfpabgkgehodd | QuickLens - Search Screen with Google Lens | Potentially Unwanted Software | [www.bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/?utm_source=dlvr.it&utm_medium=linkedin) | 28/02/26 | Yes | Google Chrome
 | pgabmkcldlelbhcookaealohoeknnapn | Закладки Top Page | Policy Violation | Store Monitoring | 27/02/26 | No | Google Chrome
 | bnjgeaohcnpcianfippccjdpiejgdfgj | TikTok Analytics & Sort Video by Engagement | Policy Violation | Store Monitoring | 27/02/26 | No | Google Chrome
 | gphjkkbkmaiccfnhcoiibpkfpmpnkfeb | Spotify Web Player | Policy Violation | Store Monitoring | 26/02/26 | No | 
@@ -7825,7 +7920,7 @@
 | fmiefmaepcnjahoajkfckenfngfehhma | Translate Man Plus | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | fmgaogkbodhdhhbgkphhbokciiecllno | Download Manager Pro | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | Yes | Google Chrome
 | fllcifcfhgmmfpogmpedgbjccnjalpjo | lazy-new-tab/懒标签 | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
-| epepbcdeelckgplpmmmnmjplbeipgllo | One-click Image Reader (OCR) | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | Yes | Google Chrome
+| epepbcdeelckgplpmmmnmjplbeipgllo | One-click Image Reader (OCR) | Policy Violation | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | Yes | Google Chrome
 | eoimljninkkepafoijpgbedkkieobfek | Btools | Malware | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Microsoft Edge
 | eijnkinhnplaekpllmgbbfieecdhcmcp | Github Profile | In store but Suspicious | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | edojphplonjclmfckdiolpahpgcanjnh | 抓鱼鸭 - 一个有趣的新标签页 | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
@@ -7841,7 +7936,7 @@
 | dihekmadkkcgnffajefocfamnpimlhah | Zoom.us Always Show "Join From Web" | Policy Violation | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | dekjibpkbhgbnmnfibnibnjoccaphfog | WeTab-History | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | dbfmnekepjoapopniengjbcpnbljalfg | Infinity New Tab | In store but Suspicious | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
-| dakebdbeofhmlnmjlmhjdmmjmfohiicn | Google Meet Tweak (Emojis, Text, Cam Effects) | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
+| dakebdbeofhmlnmjlmhjdmmjmfohiicn | Google Meet Tweak (Emojis, Text, Cam Effects) | Policy Violation | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | dacliiapfipnlipdmifioaijepgmhdga | Dream Afar New Tab | Malware | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Microsoft Edge
 | cpbbiepjnljbnngpepgeaojjeneacpld | WeTab bookmarks | Malware | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Microsoft Edge
 | codgofkgobbmgglciccjabipdlgefnch | Btools | In store but Suspicious | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
@@ -7854,7 +7949,7 @@
 | cahdpfhnokmnnjhoaoliabdbcbbokmgc | Bing Rewards Assistant | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | bjehnpiidogpaocjjfhnopdjcahigggm | Fantastic Bookmark | In store but Suspicious | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | bhoebgegnjoehioianjnjakeeggajanb | 百度药丸 Baidu Capsule | Malware | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Microsoft Edge
-| bgkdocoihppjkdfaghndpjlfoehjcmka | Pkaaa New Tab | Removal reason Unknown | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | Yes | Google Chrome
+| bgkdocoihppjkdfaghndpjlfoehjcmka | Pkaaa New Tab | Potentially Unwanted Software | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | Yes | Google Chrome
 | bajoeadpdidoahbhphmhejmbdmgnbdci | YUYI-NewTab | In store but Suspicious | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
 | apoklfecapckgpbbcpaiebemaghmkncf | minitab | Malware | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Microsoft Edge
 | ambcheakfbokmebglefpbbphbccekhhl | GTab New Tab (with ChatGPT & Claude 4.0) | Malware | [www.koi.ai](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) | 10/02/26 | No | Google Chrome
@@ -7906,7 +8001,6 @@
 | bdcimkinofohfmldheklgfbjkfehfdhl | Chat GPT 5 | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | jlbpahgopcmomkgegpbmopfodolajhbl | ChatGPT for Chrome - GPT Search | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | hiiildgldbpfbegcfgemoliikibfhaeh | ChatGPT to PDF | Removal reason Unknown | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
-| fmncmpginchogfdnjfeopdopoiegjjjp | Search GPT for Chrome | In store but Suspicious | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | mehpokgiebgcnelgnlfkeldlfnpdhdha | ChatGPT Extension | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | feeonheemodpkdckaljcjogdncpiiban | Zuvu AI: The Ultimate AI Agent Sidebar for Google Search & Beyond | Policy Violation | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
 | adjiljljjoeielcjmafljkicjncjpbha | DeepSeek app | Removal reason Unknown | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 | No | Google Chrome
@@ -8236,7 +8330,6 @@
 | lmnmfkhppclolpdbdabpbhladegibpgi | Demon Slayer Cursor | Adware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No | Google Chrome
 | lmjdeimbphcbnfekpgblhlbhknpmaoij | Hello Kitty Cursor | Adware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No | Google Chrome
 | kfnphajojmcoapplfnocpegelkfjndom | Country Flags Cursor | Adware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No | Google Chrome
-| igmblpicjfppdloljoabpiafdlokogno | Fallout Cursor | In store but Suspicious | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No | Google Chrome
 | hdholjicmhinpjcbmigoffjedkiihlen | Death Note Cursor | In store but Suspicious | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No | Google Chrome
 | gmjibldihkpammmelmkiipjcgmhdcdmb | Dogs Cursor | Adware | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No | Google Chrome
 | gkjbbfabeojdbiabpjapkjnhpnjcckbf | FNaF Cursor | In store but Suspicious | [github.com](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-08-19-IOCs-for-Chrome-extensions-leading-to-adware-or-PUP.txt) | 19/08/25 | No | Google Chrome
@@ -8314,7 +8407,6 @@
 | kgmeffmlnkfnjpgmdndccklfigfhajen | Emoji keyboard online — copy&past your emoji. | Malware | [www.malwarebytes.com](https://www.malwarebytes.com/blog/news/2025/07/millions-of-people-spied-on-by-malicious-browser-extensions-in-chrome-and-edge) | 09/07/25 | Yes | Google Chrome
 | gaiceihehajjahakcglkhmdbbdclbnlf | Video Speed Controller — Video manager | Malware | Store Monitoring | 08/07/25 | Yes | Google Chrome
 | odmmidbmgkkbabilcljmljbeopneabkn | Enable Right Click | Malware | Store Monitoring | 16/06/25 | Yes | Google Chrome
-| oliiideaalkijolilhhaibhbjfhbdcnm | Link shortener | In store but Suspicious | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No | Google Chrome
 | bhahpmoebdipfoaadcclkcnieeokebnf | Bitcoin price live | Malware | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No | Google Chrome
 | mllkmmdaapekjehapekhjjiednchgmag | Web Metrics – Website Traffic & SEO Checker | Policy Violation | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No | Google Chrome
 | dcnjgfafcnopabhpgoekkgckgkkddpjg | Youtube Vision | Policy Violation | [layerxsecurity.com](https://layerxsecurity.com/blog/layerx-reveals-40malicious-browser-extensions/) | 22/05/25 | No | Google Chrome
@@ -8540,7 +8632,7 @@
 | mabloidgodmbnmnhoenmhlcjkfelomgp | EasyDocMerge | Malware | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) | 16/08/22 | Yes | Google Chrome
 | ceopoaldcnmhechacafgagdkklcogkgd | OnlineMapFinder | Removal reason Unknown | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) | 16/08/22 | Yes | Google Chrome
 | fncbkmmlcehhipmmofdhejcggdapcmon | EasyPDFCombine | Malware | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) | 16/08/22 | Yes | Google Chrome
-| mallpejgeafdahhflmliiahjdpgbegpk | PDF Viewer & Converter by FromDocToPDF | Removal reason Unknown | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) | 16/08/22 | No | Google Chrome
+| mallpejgeafdahhflmliiahjdpgbegpk | PDF Viewer & Converter by FromDocToPDF | Potentially Unwanted Software | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) | 16/08/22 | No | Google Chrome
 | kpocjpoifmommoiiiamepombpeoaehfh | EasyPDFCombine | Malware | [securelist.com](https://securelist.com/threat-in-your-browser-extensions/107181/) | 16/08/22 | No | Google Chrome
 | jejifplcapdlbhjagfeginbledjpggod | Fine Video Tuning | Malware | Store Monitoring | 19/05/22 | No | Google Chrome
 | lldibibpehfomjljogedjhaldedlmfck | ott-party | Malware | [www.mcafee.com](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/) | 10/03/22 | Yes | 
