@@ -1,12 +1,172 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-22T21:27:26Z",
+  "generated": "2026-11-23T13:11:26Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8663,
+  "total_indicators": 8679,
   "indicators": [
+    {
+      "extension_id": "cgoechfdadfddfadjhilfebpdnlmcnbm",
+      "name": "Glossary For Confluence",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/cgoechfdadfddfadjhilfebpdnlmcnbm",
+      "sha256": "d0e7b4e552df734bef3d9a5a2aa3f2351914dc9027f80e9a4afbd02d6310ffe0",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "cjbfncdohijffeobhjpmaiddenhjgpjl",
+      "name": "Angi Near Me Scraper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/cjbfncdohijffeobhjpmaiddenhjgpjl",
+      "sha256": "45c7271d0aa11b42bd589b70be8e5c003fb0d9ede2de8bde6bf4d89fb26f3c08",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "eliddbadoefkldbmdidcnkeigplmidne",
+      "name": "Tradio - Fastest Live audio translation & subtitles",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/eliddbadoefkldbmdidcnkeigplmidne",
+      "sha256": "db5df6c2a256c767af31c11ad50919f9e56d39cdf584e8e1ea60e02db8abdb2b",
+      "version": "1.0.3"
+    },
+    {
+      "extension_id": "bhcohbnnjifjhbifmiefhbbcdpjhjeji",
+      "name": "Airbnb Availability",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/bhcohbnnjifjhbifmiefhbbcdpjhjeji",
+      "sha256": "aa4a5dcf4514b6791def136ff0d89afd4f2a4d3035fdebdeafbc25ae224364bc",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "pblfddllcigbnodgjdbgaekalihdfopl",
+      "name": "StylePilot AI",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/pblfddllcigbnodgjdbgaekalihdfopl",
+      "sha256": "cb8a1eb5c07485785065812c33aad9b2d36ec24aa929d39f567c7ab63392177b",
+      "version": "0.12.3"
+    },
+    {
+      "extension_id": "jgiaiajjdohcolaonagfmfalincodbkg",
+      "name": "Analyzzi Research Agent",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/jgiaiajjdohcolaonagfmfalincodbkg",
+      "sha256": "392916bc97b3d118ae00df9f3cbe49381933e718d2869f846fa925c3d9f31467",
+      "version": "2.6"
+    },
+    {
+      "extension_id": "kepjmcegdnmbklmmipmkbbdffgijjhjm",
+      "name": "App Store Reviews Scraper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/kepjmcegdnmbklmmipmkbbdffgijjhjm",
+      "sha256": "fced756a9f9dc214d2a0e4491e43ae504d13a7c761cfdb8d5b3eb005a7973bae",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "caiokbhpijfenmciakbkchlojddphjdg",
+      "name": "Tabbager",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/caiokbhpijfenmciakbkchlojddphjdg",
+      "sha256": "ceee131450fdf7509cbbf1a7bc0aba64945a01e02fda43235463c47d7f148dd1",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "aadblkehkipligbkejkhlenfdkdecfoe",
+      "name": "Send to Rehearsal",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/aadblkehkipligbkejkhlenfdkdecfoe",
+      "sha256": "fc1599cdc94d320eb51e4a2f6c6df29c9ddce6d1b2ae0e4754fdf401606ed296",
+      "version": "0.10.0"
+    },
+    {
+      "extension_id": "edaoaagbaodickcocmlcfnanbjbjeipg",
+      "name": "Telugu Bible Lite",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/edaoaagbaodickcocmlcfnanbjbjeipg",
+      "sha256": "2640894bec4f6757d49f50f4f248fea7776ccdf44000609f23e00af4d3745f83",
+      "version": "1.3.0"
+    },
+    {
+      "extension_id": "epcchmlcmdeajnfbpgoolfhfghlnnnim",
+      "name": "Amex Merchant Map Collector",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/epcchmlcmdeajnfbpgoolfhfghlnnnim",
+      "sha256": "24c1b064de01849f683985d163ff65ab789847920bd182eced1b8c274470f79e",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "bhbpbapbckemocbiclniepheiglhckca",
+      "name": "Kopi \u6587\u672c\u590d\u5236",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/bhbpbapbckemocbiclniepheiglhckca",
+      "sha256": "ee81b20f55f98d2200bc7585e0aff8ac2134d1193dee8533c26896049241c98f",
+      "version": "1.0.3.0"
+    },
+    {
+      "extension_id": "jaoehkmcamigglagkbaebdafljgdineh",
+      "name": "Veil \u2013 The Intelligent Website Blocker",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/jaoehkmcamigglagkbaebdafljgdineh",
+      "sha256": "a05d6441c0e0648ec0622659987d9c74af559d0bd1ee80230e6be0c81c26facb",
+      "version": "0.0.0.9"
+    },
+    {
+      "extension_id": "bjijgbobkbijiegmnbieoglihgdlpljh",
+      "name": "AliExpress Scraper",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/bjijgbobkbijiegmnbieoglihgdlpljh",
+      "sha256": "bb7706c28f5207e8550ef4051b4d9a3674a426051792acf340269943f3c9f0b1",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "jlbkjcbpcanfakedjojmigambkjepncp",
+      "name": "CacControl",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/jlbkjcbpcanfakedjojmigambkjepncp",
+      "sha256": "59db20ca00dc037ddf26cd4bac4eeee80186f1ae7cf67c872a967756be590e19",
+      "version": "0.2.0"
+    },
+    {
+      "extension_id": "hebppmfgnmgdfpnijikehfecjdpbjdpn",
+      "name": "Savepoint - Pick up where you left off",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-23",
+      "store_url": "https://chromewebstore.google.com/detail/hebppmfgnmgdfpnijikehfecjdpbjdpn",
+      "sha256": "a468302014ecdf1c7529b86e78685d12f379aa422854aa86343c3ead2174d913",
+      "version": "1.1"
+    },
     {
       "extension_id": "caikpfmljlmeojmnipjalmpidilddhli",
       "name": "Skola Broadcast",
