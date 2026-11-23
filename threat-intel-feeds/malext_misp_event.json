@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-11-23",
-    "timestamp": "1795439488",
+    "timestamp": "1795464236",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,512 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "0297125a-640e-5bff-8b90-490838ed3e83",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dinlmjhadlkhpfdhkpgimodmaphaoopk",
+        "comment": "Tiktok Saver | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-23 | Version: 1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "7c27b28e-1f47-5321-a30f-9b3e28e06f4c",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dinlmjhadlkhpfdhkpgimodmaphaoopk",
+        "comment": "Chrome Web Store entry for Tiktok Saver (dinlmjhadlkhpfdhkpgimodmaphaoopk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "00ae74d4-54f6-53b6-8940-67864fc7dda6",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "38aa1d6d8720617a908ce858b783f22cf2bfc133683ec7f5361aa3511bed4061",
+        "comment": "SHA-256 of extension package for Tiktok Saver (dinlmjhadlkhpfdhkpgimodmaphaoopk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4d15bd0d-cb04-5923-bb26-f38f3b9670a3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kembbkgnbgpconaiggekhlclokaffhbg",
+        "comment": "Nitro Type Mod Menu | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-23 | Version: 4.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "b0c6b0d9-be63-5373-81fa-f5c92ad62ca8",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kembbkgnbgpconaiggekhlclokaffhbg",
+        "comment": "Chrome Web Store entry for Nitro Type Mod Menu (kembbkgnbgpconaiggekhlclokaffhbg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "d5912345-f58e-5673-839e-c1514bbb59ec",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "aa7cca681f683166f0e087cb539bc06b36a7d07589e6001765608106ff04388f",
+        "comment": "SHA-256 of extension package for Nitro Type Mod Menu (kembbkgnbgpconaiggekhlclokaffhbg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8cf5b55d-c36d-5d1a-8c72-2f38736db97d",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "inobkhbikkgienhinhdcekcehbeijhed",
+        "comment": "Solflare Wallet Tracker Crypto | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-23 | Version: 2.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "85c7c781-cfaa-5551-a1dd-3a7d2b4d9035",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/inobkhbikkgienhinhdcekcehbeijhed",
+        "comment": "Chrome Web Store entry for Solflare Wallet Tracker Crypto (inobkhbikkgienhinhdcekcehbeijhed)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a7a4065a-8628-5005-9293-d348179bf71c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9c6d0a501fac775ab1dcea140bea0895c7a5f306efc7735a054835462c9f05b7",
+        "comment": "SHA-256 of extension package for Solflare Wallet Tracker Crypto (inobkhbikkgienhinhdcekcehbeijhed)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "3e2325cc-cf8e-585c-8f9c-bf936f1c98ea",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hnlkongpamangphfnllibgjefmjbbghm",
+        "comment": "NeoPlus For Kotak | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-23 | Version: 2.968",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.968\""
+          }
+        ]
+      },
+      {
+        "uuid": "d11d4092-d714-532c-8138-3e38c79d200d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hnlkongpamangphfnllibgjefmjbbghm",
+        "comment": "Chrome Web Store entry for NeoPlus For Kotak (hnlkongpamangphfnllibgjefmjbbghm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a2331729-39cb-5868-b9ff-f4918e25525e",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cc6bd8c3b27ef69ca897cf63dd215f5e1be53a0ba1148b9052cd181ff66b6564",
+        "comment": "SHA-256 of extension package for NeoPlus For Kotak (hnlkongpamangphfnllibgjefmjbbghm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "935d71c1-7a12-5651-a324-d07818e0a489",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "oicpbdehooiingjicgfhbhllpaiicopm",
+        "comment": "TikTok Video Downloader - TokSaver.app | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-23 | Version: 1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "2f4bbbe7-6e36-5179-98e4-4ffebe7b07fd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/oicpbdehooiingjicgfhbhllpaiicopm",
+        "comment": "Chrome Web Store entry for TikTok Video Downloader - TokSaver.app (oicpbdehooiingjicgfhbhllpaiicopm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "ce06b193-a538-54a6-9ddd-cd78ad6e95ce",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "231b44d07bf2f8c26c442eab2d5573da5161733c6289adc5355323d5c63ac73c",
+        "comment": "SHA-256 of extension package for TikTok Video Downloader - TokSaver.app (oicpbdehooiingjicgfhbhllpaiicopm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e6463507-59bc-5842-86fe-0e6ee003eb8b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "abplnfpomdopcgamdncpegchpmmkkaap",
+        "comment": "OPP Form Filler | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-23 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "45348ed9-0b5e-53b3-ae75-8ec393f10f5a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/abplnfpomdopcgamdncpegchpmmkkaap",
+        "comment": "Chrome Web Store entry for OPP Form Filler (abplnfpomdopcgamdncpegchpmmkkaap)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "24b7c816-c758-5063-86db-e920ee7b740f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "bffc717770dc4af3037b51fdf374118f1cf98243a8a914f402c1397ec4acd35e",
+        "comment": "SHA-256 of extension package for OPP Form Filler (abplnfpomdopcgamdncpegchpmmkkaap)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "96ec42ed-7c65-5bc9-ac6e-ec01bccd4715",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hpekpajjakjahjhffchbpehciilipemk",
+        "comment": "Nitro Type - Race Options | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-23 | Version: 3.0.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.0.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "78582da6-23b7-560e-b5c7-9673ebf0279a",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hpekpajjakjahjhffchbpehciilipemk",
+        "comment": "Chrome Web Store entry for Nitro Type - Race Options (hpekpajjakjahjhffchbpehciilipemk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bc54c6c6-fa57-5791-bb0f-50b6ef9281c1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "17bb8a83fb11b08733e2768c753efdc4e39f03a036b01322e1550fe48a84c201",
+        "comment": "SHA-256 of extension package for Nitro Type - Race Options (hpekpajjakjahjhffchbpehciilipemk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "a2b3de9b-4eb8-573d-bec7-effc5a32942a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ieoliapdbmoimjagcgfpjjefmgmnijgl",
+        "comment": "GlobalLink WEB Demo Tool | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-23 | Version: 3.0.32",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.0.32\""
+          }
+        ]
+      },
+      {
+        "uuid": "3922cb6b-c667-53bd-9a97-cfdedd13b4dd",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ieoliapdbmoimjagcgfpjjefmgmnijgl",
+        "comment": "Chrome Web Store entry for GlobalLink WEB Demo Tool (ieoliapdbmoimjagcgfpjjefmgmnijgl)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9314c09c-97fc-5332-918c-cb0c8fe713c8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fc08c586f6e77be96544da53945f64c82e513e76dcac1cf6f31ba17d3cd7f76e",
+        "comment": "SHA-256 of extension package for GlobalLink WEB Demo Tool (ieoliapdbmoimjagcgfpjjefmgmnijgl)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "10ae0d06-0916-550e-a36b-1a8e23ef8c0a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "eabnhikkhgjfhlegpdedcjpnihpmpmlj",
+        "comment": "TikTok Saver | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-23 | Version: 1.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "4db81323-0cab-56ba-98ef-120ce020881f",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/eabnhikkhgjfhlegpdedcjpnihpmpmlj",
+        "comment": "Chrome Web Store entry for TikTok Saver (eabnhikkhgjfhlegpdedcjpnihpmpmlj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b1e19a44-9491-5e37-8f71-7241542b3cb5",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "725927a88da6912789e798fce909b38e6aa23cd4891448470689fa33c4180f27",
+        "comment": "SHA-256 of extension package for TikTok Saver (eabnhikkhgjfhlegpdedcjpnihpmpmlj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "03ec7ecb-df8f-5ed6-bf76-7b04f98e1ccc",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "plloffajechmoeeihfaeonbfdbpddmfd",
+        "comment": "ChainLink Crypto Price Widget | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-23 | Version: 2.6",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.6\""
+          }
+        ]
+      },
+      {
+        "uuid": "745785df-403f-5232-97f6-f82059638f23",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/plloffajechmoeeihfaeonbfdbpddmfd",
+        "comment": "Chrome Web Store entry for ChainLink Crypto Price Widget (plloffajechmoeeihfaeonbfdbpddmfd)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "18a299f8-bde5-586d-bcc4-c67a240ae37c",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "383871588312998ab8ed71798742100f17670534f5fc452f5f9342accf039af1",
+        "comment": "SHA-256 of extension package for ChainLink Crypto Price Widget (plloffajechmoeeihfaeonbfdbpddmfd)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "4891162a-345f-5755-8e77-9707b6f312a9",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "akiljllkbielkidmammnifcnibaigelm",
+        "comment": "WebToEpub | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-23 | Version: 1.0.15.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.15.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "8c1e909b-3af7-57c6-9538-df951f89ee50",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/akiljllkbielkidmammnifcnibaigelm",
+        "comment": "Chrome Web Store entry for WebToEpub (akiljllkbielkidmammnifcnibaigelm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "94fe7e34-b528-5848-aec8-e6fa92f4e7a7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d45b42f2b6736ddebbdcde893bb196f79f42644f24e690e5957ab96c7951ea8c",
+        "comment": "SHA-256 of extension package for WebToEpub (akiljllkbielkidmammnifcnibaigelm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "e5365268-9afb-5d8d-a8f1-d83ff966195b",
         "type": "text",
