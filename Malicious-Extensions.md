@@ -1,5 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| dinlmjhadlkhpfdhkpgimodmaphaoopk | Tiktok Saver | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| kembbkgnbgpconaiggekhlclokaffhbg | Nitro Type Mod Menu | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| inobkhbikkgienhinhdcekcehbeijhed | Solflare Wallet Tracker Crypto | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| hnlkongpamangphfnllibgjefmjbbghm | NeoPlus For Kotak | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| oicpbdehooiingjicgfhbhllpaiicopm | TikTok Video Downloader - TokSaver.app | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| abplnfpomdopcgamdncpegchpmmkkaap | OPP Form Filler | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| hpekpajjakjahjhffchbpehciilipemk | Nitro Type - Race Options | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| ieoliapdbmoimjagcgfpjjefmgmnijgl | GlobalLink WEB Demo Tool | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| eabnhikkhgjfhlegpdedcjpnihpmpmlj | TikTok Saver | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| plloffajechmoeeihfaeonbfdbpddmfd | ChainLink Crypto Price Widget | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| akiljllkbielkidmammnifcnibaigelm | WebToEpub | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
 | cgoechfdadfddfadjhilfebpdnlmcnbm | Glossary For Confluence | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
 | cjbfncdohijffeobhjpmaiddenhjgpjl | Angi Near Me Scraper | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
 | eliddbadoefkldbmdidcnkeigplmidne | Tradio - Fastest Live audio translation & subtitles | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
