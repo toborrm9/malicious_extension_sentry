@@ -1,5 +1,79 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| hjhmilgocomhhedddnjpiogobikgdima | Draw Climber Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| kjpdighckcieflaiicnoadknkbgfiecj | Skibidi Toilet Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| akgagjakhlcekciokfimbelkjgmbdhgj | Cookie Clicker 2 Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| nojmegejolkncohgmmddcnfpkojijhhl | Dirt Bike Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| pfdaakjnmalggpoglkbpjeefffhiiahk | Color Tunnel Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| abcckjboifajbnnljmoekidlnijnjmno | Level Devil Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| onkomddlceebkfnfliakmgmpbeekppjj | Doodle Jump Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| cmjcdmcoenpmcfpgldijioohkddbdmfe | Helix Jump Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| holmhockpfdphjkhebojmmpheafbplel | Choppy Orc HTML5 | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| jmlggodmhnldgjnhofcmcdamlmoobejp | Age of War Unblocked | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| lokiglfleklilbfgebebklgamofkjbdj | Fireboy and Watergirl 1 - HTML5 Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| glokedfghelecbjpbkbekdcfdmlgghbi | A Dance of Fire and Ice Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| bjapbfejpeciloekjmpjkijchidfbfmo | World's Hardest - HTML 5 | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| mkfnbnhdndhfljklmemacikhfogiphid | Block Blast Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| ifpkolmekekoadfdcchaladmihdokobj | Retro Bowl Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| hijkccolghllcbdkijemglajnmbglcaf | Sprunki 2 Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| lffdhodomcokbcfoonikfjoecbehpenl | Funny Shooter 2 Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| gckjaeinlfennjgagomlggbfihjhalhe | Password Game Unblocked | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| oofjemagpnohkcfgdciohcmcdfhhkhbk | NFL Retro Bowl '25 | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| dlcehbmnnhmghdhehkjfkbjhkcjhbbcc | 1v1.LOL for Chrome | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| dfcglhfgclodlgodnhddhdnmfichibae | Cookie Clicker 2 Unblocked | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| alnkjbijpgobkfloilcimnbcdinibgmn | Tomb of the Mask Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| lhofccmfbcolaigbkbmlhfllcficdbpo | Guess Who Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| fdhoaliphhokodceafkamopppfaldeee | The Visitor Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| pobakomkinmcjihmabomiglomgbhkfci | Basketball HTML5 | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| knkmkaknopjkjhomamgmooijkpepjocb | Bacon May Die Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| jmabcmmbblajbakddkldjcmbijlhcfhd | X Trench Run Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| ebcelamdggmkfidhcfkfhgelemgfmabe | Crazy Cars Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| dbkoemphijblhjpadfdcabjlmmbljofg | Happy Glass Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| oacjiieehagmlnfoliphnpifejmddgap | Basketball Stars Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| kplnolpdklamdmmomgnknaihalmbapdk | Level Devil Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| kjghkoeobpfgamicdflmkbkndnngikef | Slope 911 Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| omoeoalehiajdjjgbnjlocnokehhdpda | Tiny Fishing Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| ibcekelbjalimmifidijcaeiocnggamk | War Games Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| peccjapgofakeghhnpgmodadjpacnkha | Basketball Legends 2020 Unblocked | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| nonlopmagcbgiefcifkgnpekbfdnecid | PolyTrack Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| ijpfcmdbffpeolilionalhbhpkbgnkpi | Sand Tetris Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| cpebaoifbggiiajfjipmaoimifnadhoi | Hill Climb Racing Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| bpoapceiemjmhegfbldmdaibgjchmnpd | Amanda the Adventurer | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| keokogphjlgdgefojkficboomieonebn | Basketball Stars HTML5 | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| dglkbcadbcnemepdbpieaifcbagahnbb | Bloons TD Unblocked | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| dablgcknopnhgfplaolbliekghplhpkn | Sandtris Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| liikdihjadicmgcologjgeiplpponlef | Spacebar Clicker Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| iiogcljhoagehdofioddbpefkccmmjmg | Slope 3 Unblocked | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| lepilpbloddhococdnaboemccedkeifl | Funny Shooter 2 Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| jepcmjjlpmnpehlnedoldheefegmdpho | Smash Karts Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| eaanbgjkmldaeokhfebogodnkclpfdhm | Eggy Car Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| cdgablhbgfpfjdnijdnkhhghkccfbpep | Basketball Legends 2020 for Chrome | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| ddnckaagibfncbogiekkbgkkhkifcpci | Cookie Clicker Unblocked | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| jgfdgiikcbnllecidknafkmplcmdcgjb | Wormate Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| obenlmpeckkldfckginllddbllcnhpje | Taming.io Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| hlmeojnalnaedpcplbgfkfadlbjgfgii | Drift Hunters 2 Unblocked | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| ekenaaohcfnokgoeciffkhhakdlddola | Sprunki Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| aaomjccipmognfdkbdidbgnidajdbnkh | Backyard Baseball | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| ekgjbedfngcgjndoglephgaelbikikkb | Geometry Dash Html5 | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| icppjdhegejigfejjnlkheohgpchblbh | Idle Dice Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| iklfnbclemmnoedgdgdfnnklmbjgplio | Cookie Clicker Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| jlcaobicahjepdnbhbjkeakgogogopki | Adventure Dental Unblocked | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| ohmhhfodpgfakimkimlhpoliknecagim | Diner Dash Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| nlnjieipmjendgkmopgekendeimfmhnl | Snow Rider 3D Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| ghkhojopidmfjicceionlaldjldamndi | Geometry Dash Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| igegepdchficlofadlpoedceeijllkgp | Icy Purple Head Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| dikbgigfodidgccagmljdaamjcnnjbeb | Five Nights at Freddy's Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| hgdfpjcpghokddjjdgkhmniiiejogkfb | Run 3 Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| kcojmgbffkkmcknfbphjcheeklbaglpb | Basketball Legends Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| afojgmbgnndmeflbfnbglbecfiihffck | Drive Mad 2 Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| fdehejhjnjfcinigldcipjeemmblcmbj | FNAF 2 Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| hnccnnkpeapkddaalmniodlgligkjdem | Slope HTML5 | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| kbcicflcjnjhenfcakkieloiopffdfhk | Retro Bowl Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| dhicebjcghblicgdpbonpieipopaabkm | Short Life - HTML5 Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| pmpgdmikbndcgojpnahblcpjgbfgmdji | Retro Bowl College Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| jgebdgigbopkphebdjdfhkjpacomkcmg | Retro Bowl College Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| ngnnmpflcfgigcmmmieamlkdnclfgfci | Jacksmith Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
+| ebdfnkfkmlnmidnicgebhnofobfjpnoc | Cabybara Clicker HTML5 | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
 | dinlmjhadlkhpfdhkpgimodmaphaoopk | Tiktok Saver | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
 | kembbkgnbgpconaiggekhlclokaffhbg | Nitro Type Mod Menu | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
 | inobkhbikkgienhinhdcekcehbeijhed | Solflare Wallet Tracker Crypto | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
