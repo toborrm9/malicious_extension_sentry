@@ -1,5 +1,21 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| cgoechfdadfddfadjhilfebpdnlmcnbm | Glossary For Confluence | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| cjbfncdohijffeobhjpmaiddenhjgpjl | Angi Near Me Scraper | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| eliddbadoefkldbmdidcnkeigplmidne | Tradio - Fastest Live audio translation & subtitles | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| bhcohbnnjifjhbifmiefhbbcdpjhjeji | Airbnb Availability | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| pblfddllcigbnodgjdbgaekalihdfopl | StylePilot AI | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| jgiaiajjdohcolaonagfmfalincodbkg | Analyzzi Research Agent | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| kepjmcegdnmbklmmipmkbbdffgijjhjm | App Store Reviews Scraper | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| caiokbhpijfenmciakbkchlojddphjdg | Tabbager | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| aadblkehkipligbkejkhlenfdkdecfoe | Send to Rehearsal | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| edaoaagbaodickcocmlcfnanbjbjeipg | Telugu Bible Lite | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| epcchmlcmdeajnfbpgoolfhfghlnnnim | Amex Merchant Map Collector | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| bhbpbapbckemocbiclniepheiglhckca | Kopi 文本复制 | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| jaoehkmcamigglagkbaebdafljgdineh | Veil – The Intelligent Website Blocker | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| bjijgbobkbijiegmnbieoglihgdlpljh | AliExpress Scraper | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| jlbkjcbpcanfakedjojmigambkjepncp | CacControl | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
+| hebppmfgnmgdfpnijikehfecjdpbjdpn | Savepoint - Pick up where you left off | Policy Violation | Store Monitoring | 23/11/26 | No | Google Chrome
 | caikpfmljlmeojmnipjalmpidilddhli | Skola Broadcast | Policy Violation | Store Monitoring | 22/11/26 | No | Google Chrome
 | pbaiefkophdaogblabkbohomjegojjld | App Store App Scraper | Policy Violation | Store Monitoring | 22/11/26 | No | Google Chrome
 | jcgkmngmiphpjekjbdlceibkclkknlpg | Wikipedia Search | Malware | [riskyplugins.com](https://riskyplugins.com/threat-library/russian-vpn-proxy-farm) | 22/11/26 | No | Google Chrome
