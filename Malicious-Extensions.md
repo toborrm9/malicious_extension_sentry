@@ -1,5 +1,25 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ckcfcgpbckidfomaicbnnjgmhjhbkinl | Whatsapp Bulk Message Sen | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| obfmefdlppoagegjcadlnbdponlpaekp | EA FC Sniping Bot & Gallery Solver (Easy Snipe Fut) | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| fgiioojkahdebffemiclkoinddglinnp | PolyWhale — Polymarket Whale Tracker | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| abfbcnoemiciiljhpngefacedfgebdcn | Github Aid - displays repo file sizes | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| cemcgjibfonmgpeogcdliccbadooimdc | GitHub Save | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| anpdlkennocldohhpfdnbjijoeaelmig | WhatsApp Scheduler and Shared Inbox by SyncMate | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| idkkaokkmeofkpgkfgbhnkdokcpjjbdk | Dealfor - The best Amazon Coupons | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| ioakhcjlledhimdgkppifpffapgjlkmm | FOMO Alerts | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| oacmnbbidjggofgedgcagjnjihjinfol | TikTok Downloader - Tools Automation on Tiktok.com | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| gmlacekgeplnggglpadiacjfngejdimf | SecureCheck AI Web Scanner | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| okcdlkbggehbhaiingpndibbimijhocl | TikTok Unfollow Tool – Following & Friends | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| jkiaeopijbbaoodifhbbbbeakmeieipk | Flappy Birds Game | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| figafkdhhgepjmbligadelibflnakfii | Flappy Bird 2 | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| bmngmikecppjnlcbmdblgnngpmalnpcp | WhatsApp Bulk Sender & CRM AI Auto-Reply integration | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| jbgjbaplcikhbbkdgehgoobfocdpbcmj | Donkey Kong Original | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| apdcjogjnicmfcdphicalhjeakccphag | Meta Pixel Helper | Bundling Unwanted Software | Store Monitoring | 24/11/26 | No | Google Chrome
+| djceddokkdjiadbajlldgjppkhfikagk |  | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| gddonialdhbldcdbnbloangmjnpcnhhd | RediTop – Scroll to Top for Reddit | Malware | Store Monitoring | 24/11/26 | No | Google Chrome
+| pgbifldoomdcgaemeipneldklmacncpa | Seedance3 | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
+| dbmmbbelpcfgihjofpfffcjkdkajnoak | Lead Finder | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
 | hjhmilgocomhhedddnjpiogobikgdima | Draw Climber Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
 | kjpdighckcieflaiicnoadknkbgfiecj | Skibidi Toilet Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
 | akgagjakhlcekciokfimbelkjgmbdhgj | Cookie Clicker 2 Unblocked Game | Adware | MalExt Analysis | 23/11/26 | No | Google Chrome
@@ -502,6 +522,7 @@
 | ebligfajbedgdngapjplbcmahoofmnio | VERIDICA - Forensic Evidence Capture | Policy Violation | Store Monitoring | 05/11/26 | No | Google Chrome
 | ndjpllenomnodfoahfnjmgpagdjipefl | Xendra — Ai Crypto Analyt | Malware | Store Monitoring | 05/11/26 | No | Google Chrome
 | ambbpgjiiielnmnnihfndemhlbancppp | 智云台 小红书蒲公英星图ai助手 | Potentially Unwanted Software | Store Monitoring | 05/11/26 | No | Google Chrome
+| ihgolbphckjlokjfolbmffgnnamkdbhf | AutoMeasure – Railway Bill Entry | Policy Violation | Store Monitoring | 03/11/26 | No | Google Chrome
 | ojopbahcpbdegflnmocbkmcdgfkeppll | Zentos | Malware | Store Monitoring | 03/11/26 | No | Google Chrome
 | mnpopjepnclgacgbfheejifcblhlceef | Ask Chat Gpt Extension | Policy Violation | Store Monitoring | 03/11/26 | No | Google Chrome
 | nncbfmnhlnpmncahkpgmobdcjgdbgjme | Chromegpt For Chatgpt | Policy Violation | Store Monitoring | 03/11/26 | No | Google Chrome
@@ -966,6 +987,7 @@
 | njibjcjojblgkcoldniggljlokplbjhb | Land Automation Software | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | elnanopkpogbhmgppdoapkjlfigecncf | ChatGPT For Chrome - ChatGPT assistant | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
 | mllkpgcojiooenmengajhkailfjocond | Chatgpt For Gmail | Policy Violation | Store Monitoring | 19/10/26 | No | Google Chrome
+| fgmddiabkenakmceobcpjmkpkklljgig | ClassJoner — Автопроходження тестів (На Урок, Всеосвіта) | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | iphaoiabjcdamkamohhjchkbppceklip | Jev Tab Groups | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | gefoonbnjjolhnejbffaihlacpbbeiia | Promogator · Conectar Conta de Afiliado | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
 | onehjapmbjcnhgjdphnogmaaagpielpb | Koseller 상품 수집기 | Policy Violation | Store Monitoring | 18/10/26 | No | Google Chrome
