@@ -1,12 +1,122 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-25T19:05:13Z",
+  "generated": "2026-11-25T19:24:54Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8789,
+  "total_indicators": 8800,
   "indicators": [
+    {
+      "extension_id": "dmdnmhdljggmpoldekiaibijgphhnjpc",
+      "name": "Monitor de Rendimiento",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-25",
+      "store_url": "https://chromewebstore.google.com/detail/dmdnmhdljggmpoldekiaibijgphhnjpc",
+      "sha256": "efb1dc5430c25985d6f7f1fb81a7af8bf2b5a25c4bb9d49a8725e53677cc1463",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "flikipekplnpeadeiepjifndeijgeimk",
+      "name": "Reviews.chat",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-25",
+      "store_url": "https://chromewebstore.google.com/detail/flikipekplnpeadeiepjifndeijgeimk",
+      "sha256": "dc138929acbbad2ac32eec8bdd1968539eda5c8862ec29c14004eecb15d09dc6",
+      "version": "4.0.3"
+    },
+    {
+      "extension_id": "hoimfljhmnagmnphpniaghenjghgicpm",
+      "name": "Blackjack Basic Strategy Chart & Card Counter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-25",
+      "store_url": "https://chromewebstore.google.com/detail/hoimfljhmnagmnphpniaghenjghgicpm",
+      "sha256": "eebe5c1e9f65d41748a4e54c0232988c49b8a9d8dad7ceb55b007154d6562c8a",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "hcpfjfbjhjfchngedpcleckmkkpinbam",
+      "name": "Broken Links Finder",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-25",
+      "store_url": "https://chromewebstore.google.com/detail/hcpfjfbjhjfchngedpcleckmkkpinbam",
+      "sha256": "2bb8ee2ea677d45158ee972edaae1912ab331cc9d7614de931a8cfee6a1ab860",
+      "version": "0.7.3"
+    },
+    {
+      "extension_id": "hfiifcbkfbiceobcikopfiniegjiikgi",
+      "name": "Imagine Manager Unleashed",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-25",
+      "store_url": "https://chromewebstore.google.com/detail/hfiifcbkfbiceobcikopfiniegjiikgi",
+      "sha256": "ed6b3bcf58714f95461cd6292d82af34681a4bc8deae06f102ce157fff9b8557",
+      "version": "22.0.95"
+    },
+    {
+      "extension_id": "epfackmlmaeaengfeoebpjpeohgilnln",
+      "name": "PolyExport - Polymarket Exporter",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-25",
+      "store_url": "https://chromewebstore.google.com/detail/epfackmlmaeaengfeoebpjpeohgilnln",
+      "sha256": "5b88ff9fcd9db2ffad8943c0ca7cf1ebdb5a30940a65db0bb0d2fe3abb22195c",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "fkkmoefnafcllleoimabkhomhboaogoo",
+      "name": "Magpie",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-25",
+      "store_url": "https://chromewebstore.google.com/detail/fkkmoefnafcllleoimabkhomhboaogoo",
+      "sha256": "8aa7c7c41b30c3fd1ce42e34b5ddb47895a666c5a5a5e67996b038b9b560b142",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "npbielgbmnjkgiblpgjajncjhdbbecfh",
+      "name": "BlancVPN \u2014 \u0427\u0438\u0441\u0442\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u0438 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-25",
+      "store_url": "https://chromewebstore.google.com/detail/npbielgbmnjkgiblpgjajncjhdbbecfh",
+      "sha256": "c82b304918a6c5b2b1fc65ad09360cd272a0cb650ce2bf14d810c576452ef722",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "jlnkefenodddimelgalggjiapghdacfj",
+      "name": "GitHub Actions Workflow Search",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-25",
+      "store_url": "https://chromewebstore.google.com/detail/jlnkefenodddimelgalggjiapghdacfj",
+      "sha256": "ba7cbfc95bfe37180cf891691984beb69981fe0ae90f817a4c705c5c20543393",
+      "version": "1.1"
+    },
+    {
+      "extension_id": "mikcgffoambjekbehnaofmpejcpkokle",
+      "name": "Binah Wallet Bitcoin",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-25",
+      "store_url": "https://chromewebstore.google.com/detail/mikcgffoambjekbehnaofmpejcpkokle",
+      "sha256": "8340b93babf86d7a8d111273a55e1e0b3cd54972abd14a6aca7c9fb7ec97ae9f",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "bmdpngpeeocckleacjnmmkpogjhbcbkg",
+      "name": "JUST SEO",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-25",
+      "store_url": "https://chromewebstore.google.com/detail/bmdpngpeeocckleacjnmmkpogjhbcbkg",
+      "sha256": "91a978af100ce11d5bd9c04a49589c2d542af260379657a5580729eb5af987a5",
+      "version": "3.7.0"
+    },
     {
       "extension_id": "dahbkndkpjkpahhldlkeoodleojbcokn",
       "name": "Block YouTube Shorts",
