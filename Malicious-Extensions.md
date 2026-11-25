@@ -1,5 +1,16 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| dmdnmhdljggmpoldekiaibijgphhnjpc | Monitor de Rendimiento | Bundling Unwanted Software | Store Monitoring | 25/11/26 | No | Google Chrome
+| flikipekplnpeadeiepjifndeijgeimk | Reviews.chat | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
+| hoimfljhmnagmnphpniaghenjghgicpm | Blackjack Basic Strategy Chart & Card Counter | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
+| hcpfjfbjhjfchngedpcleckmkkpinbam | Broken Links Finder | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
+| hfiifcbkfbiceobcikopfiniegjiikgi | Imagine Manager Unleashed | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
+| epfackmlmaeaengfeoebpjpeohgilnln | PolyExport - Polymarket Exporter | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
+| fkkmoefnafcllleoimabkhomhboaogoo | Magpie | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
+| npbielgbmnjkgiblpgjajncjhdbbecfh | BlancVPN — Чистый интерфейс и быстрый канал | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
+| jlnkefenodddimelgalggjiapghdacfj | GitHub Actions Workflow Search | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
+| mikcgffoambjekbehnaofmpejcpkokle | Binah Wallet Bitcoin | Bundling Unwanted Software | Store Monitoring | 25/11/26 | No | Google Chrome
+| bmdpngpeeocckleacjnmmkpogjhbcbkg | JUST SEO | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
 | dahbkndkpjkpahhldlkeoodleojbcokn | Block YouTube Shorts | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
 | mglpilakfpbekopncibpfdfbndbklcfn | Nossa Defensoria | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
 | ckcfcgpbckidfomaicbnnjgmhjhbkinl | Whatsapp Bulk Message Sen | Policy Violation | Store Monitoring | 24/11/26 | No | Google Chrome
