@@ -5,7 +5,7 @@
     "analysis": "2",
     "distribution": "3",
     "date": "2026-11-25",
-    "timestamp": "1795633515",
+    "timestamp": "1795634695",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,512 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "2a97e91a-c3bb-58c2-b947-b4246533376a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dmdnmhdljggmpoldekiaibijgphhnjpc",
+        "comment": "Monitor de Rendimiento | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-25 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "b6b2c8e1-87b1-52f9-906a-2ce2f44d313d",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dmdnmhdljggmpoldekiaibijgphhnjpc",
+        "comment": "Chrome Web Store entry for Monitor de Rendimiento (dmdnmhdljggmpoldekiaibijgphhnjpc)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "bb4a40bf-c0f0-543f-aaa0-e1f939a18527",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "efb1dc5430c25985d6f7f1fb81a7af8bf2b5a25c4bb9d49a8725e53677cc1463",
+        "comment": "SHA-256 of extension package for Monitor de Rendimiento (dmdnmhdljggmpoldekiaibijgphhnjpc)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8935473e-55f0-5642-b2c9-dd7dec98bbbb",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "flikipekplnpeadeiepjifndeijgeimk",
+        "comment": "Reviews.chat | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-25 | Version: 4.0.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"4.0.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "258ed401-e99d-5785-891f-26e9f5e2e548",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/flikipekplnpeadeiepjifndeijgeimk",
+        "comment": "Chrome Web Store entry for Reviews.chat (flikipekplnpeadeiepjifndeijgeimk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2eafa8f2-a45a-5e07-9c5d-e9f38529df1f",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "dc138929acbbad2ac32eec8bdd1968539eda5c8862ec29c14004eecb15d09dc6",
+        "comment": "SHA-256 of extension package for Reviews.chat (flikipekplnpeadeiepjifndeijgeimk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "07777aaa-c24a-5557-8d3d-34b19e66477e",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hoimfljhmnagmnphpniaghenjghgicpm",
+        "comment": "Blackjack Basic Strategy Chart & Card Counter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-25 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "275faa76-d622-597e-912d-451515d86a83",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hoimfljhmnagmnphpniaghenjghgicpm",
+        "comment": "Chrome Web Store entry for Blackjack Basic Strategy Chart & Card Counter (hoimfljhmnagmnphpniaghenjghgicpm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5a4162db-7c7d-5a81-af4f-ef9fc01c6769",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "eebe5c1e9f65d41748a4e54c0232988c49b8a9d8dad7ceb55b007154d6562c8a",
+        "comment": "SHA-256 of extension package for Blackjack Basic Strategy Chart & Card Counter (hoimfljhmnagmnphpniaghenjghgicpm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0329edfd-36cb-5093-8b64-012b9097d8cf",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hcpfjfbjhjfchngedpcleckmkkpinbam",
+        "comment": "Broken Links Finder | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-25 | Version: 0.7.3",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.7.3\""
+          }
+        ]
+      },
+      {
+        "uuid": "dc68a7ff-ace0-57e1-a364-0416ad6840fa",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hcpfjfbjhjfchngedpcleckmkkpinbam",
+        "comment": "Chrome Web Store entry for Broken Links Finder (hcpfjfbjhjfchngedpcleckmkkpinbam)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "b9190263-16c8-50fd-be5f-d2c1b147b203",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2bb8ee2ea677d45158ee972edaae1912ab331cc9d7614de931a8cfee6a1ab860",
+        "comment": "SHA-256 of extension package for Broken Links Finder (hcpfjfbjhjfchngedpcleckmkkpinbam)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0304b950-6a13-5989-b008-bcbeb3f927f8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hfiifcbkfbiceobcikopfiniegjiikgi",
+        "comment": "Imagine Manager Unleashed | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-25 | Version: 22.0.95",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"22.0.95\""
+          }
+        ]
+      },
+      {
+        "uuid": "abecbcff-c66c-5462-9d3b-987747cc97f6",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hfiifcbkfbiceobcikopfiniegjiikgi",
+        "comment": "Chrome Web Store entry for Imagine Manager Unleashed (hfiifcbkfbiceobcikopfiniegjiikgi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f65bdad7-8acf-5c07-b996-a7ce666bc407",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ed6b3bcf58714f95461cd6292d82af34681a4bc8deae06f102ce157fff9b8557",
+        "comment": "SHA-256 of extension package for Imagine Manager Unleashed (hfiifcbkfbiceobcikopfiniegjiikgi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b9815ac6-52f8-509b-b63d-3c3989cf9cf3",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "epfackmlmaeaengfeoebpjpeohgilnln",
+        "comment": "PolyExport - Polymarket Exporter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-25 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "65bc0372-c199-5afc-9cc1-1386f6199957",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/epfackmlmaeaengfeoebpjpeohgilnln",
+        "comment": "Chrome Web Store entry for PolyExport - Polymarket Exporter (epfackmlmaeaengfeoebpjpeohgilnln)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6125f085-c860-5c8f-80d5-394dfe974895",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5b88ff9fcd9db2ffad8943c0ca7cf1ebdb5a30940a65db0bb0d2fe3abb22195c",
+        "comment": "SHA-256 of extension package for PolyExport - Polymarket Exporter (epfackmlmaeaengfeoebpjpeohgilnln)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "07ea3b75-2476-5da9-a153-f12a4854bc84",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fkkmoefnafcllleoimabkhomhboaogoo",
+        "comment": "Magpie | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-25 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "9b4c5115-7906-5be7-a343-939944df416e",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fkkmoefnafcllleoimabkhomhboaogoo",
+        "comment": "Chrome Web Store entry for Magpie (fkkmoefnafcllleoimabkhomhboaogoo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3eb46908-1442-5fd7-acf8-04dcf2621487",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8aa7c7c41b30c3fd1ce42e34b5ddb47895a666c5a5a5e67996b038b9b560b142",
+        "comment": "SHA-256 of extension package for Magpie (fkkmoefnafcllleoimabkhomhboaogoo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "d985a1b1-5fc4-5bdb-b42c-ffc1df8fba12",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "npbielgbmnjkgiblpgjajncjhdbbecfh",
+        "comment": "BlancVPN \u2014 \u0427\u0438\u0441\u0442\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u0438 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043a\u0430\u043d\u0430\u043b | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-25 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "b3c93f95-51b2-5072-a99b-f78bfce4fd35",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/npbielgbmnjkgiblpgjajncjhdbbecfh",
+        "comment": "Chrome Web Store entry for BlancVPN \u2014 \u0427\u0438\u0441\u0442\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u0438 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043a\u0430\u043d\u0430\u043b (npbielgbmnjkgiblpgjajncjhdbbecfh)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a8bc0dae-3d5e-5c8a-8225-65f691612cce",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "c82b304918a6c5b2b1fc65ad09360cd272a0cb650ce2bf14d810c576452ef722",
+        "comment": "SHA-256 of extension package for BlancVPN \u2014 \u0427\u0438\u0441\u0442\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u0438 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043a\u0430\u043d\u0430\u043b (npbielgbmnjkgiblpgjajncjhdbbecfh)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "951636cf-66f2-5532-affe-16230db5b136",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "jlnkefenodddimelgalggjiapghdacfj",
+        "comment": "GitHub Actions Workflow Search | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-25 | Version: 1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "03f90b38-ae7b-52b6-b4f6-200ce8a9e920",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/jlnkefenodddimelgalggjiapghdacfj",
+        "comment": "Chrome Web Store entry for GitHub Actions Workflow Search (jlnkefenodddimelgalggjiapghdacfj)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "848b3b2d-24bf-5b4c-bfd5-d8d460980d1b",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ba7cbfc95bfe37180cf891691984beb69981fe0ae90f817a4c705c5c20543393",
+        "comment": "SHA-256 of extension package for GitHub Actions Workflow Search (jlnkefenodddimelgalggjiapghdacfj)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "647c03c2-5039-53cd-bcf1-9f7f4b07009b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "mikcgffoambjekbehnaofmpejcpkokle",
+        "comment": "Binah Wallet Bitcoin | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-25 | Version: 1.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "fdd8f632-364d-58e0-89f4-079e3eebad89",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/mikcgffoambjekbehnaofmpejcpkokle",
+        "comment": "Chrome Web Store entry for Binah Wallet Bitcoin (mikcgffoambjekbehnaofmpejcpkokle)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e02d7123-fcc1-559a-a955-407e8b2a09e0",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "8340b93babf86d7a8d111273a55e1e0b3cd54972abd14a6aca7c9fb7ec97ae9f",
+        "comment": "SHA-256 of extension package for Binah Wallet Bitcoin (mikcgffoambjekbehnaofmpejcpkokle)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b45dca6b-b5d1-517b-bbb6-3646d0ef3d05",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "bmdpngpeeocckleacjnmmkpogjhbcbkg",
+        "comment": "JUST SEO | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-25 | Version: 3.7.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"3.7.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "200cb951-5e48-57bc-9764-947558e1f3cb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/bmdpngpeeocckleacjnmmkpogjhbcbkg",
+        "comment": "Chrome Web Store entry for JUST SEO (bmdpngpeeocckleacjnmmkpogjhbcbkg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "dc9dc642-472c-5284-8175-100f3b5888fb",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "91a978af100ce11d5bd9c04a49589c2d542af260379657a5580729eb5af987a5",
+        "comment": "SHA-256 of extension package for JUST SEO (bmdpngpeeocckleacjnmmkpogjhbcbkg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "9d47a8e1-9d2b-50ee-ba30-b52c5e578791",
         "type": "text",
