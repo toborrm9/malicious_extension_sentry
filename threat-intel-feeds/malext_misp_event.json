@@ -4,8 +4,8 @@
     "threat_level_id": "2",
     "analysis": "2",
     "distribution": "3",
-    "date": "2026-11-25",
-    "timestamp": "1795634695",
+    "date": "2026-11-26",
+    "timestamp": "1795705362",
     "published": false,
     "uuid": "9e2a5419-1124-5382-a39f-fd4332780413",
     "Orgc": {
@@ -27,6 +27,650 @@
       }
     ],
     "Attribute": [
+      {
+        "uuid": "92fa753f-9c8a-5725-969c-037e595a18d8",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ckmakcjodnokbhoopmikgebllgkanapg",
+        "comment": "Trazia \u2014 Image to Coloring Page | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 1.1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "54ca0d96-b70a-533b-812c-0b22600994d7",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ckmakcjodnokbhoopmikgebllgkanapg",
+        "comment": "Chrome Web Store entry for Trazia \u2014 Image to Coloring Page (ckmakcjodnokbhoopmikgebllgkanapg)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "e57c23af-ddd3-5be6-8656-466777243ab2",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "d129e2b8d1aed460bb727b592420aa9ad95f007130636bcabdae4602007dc0dd",
+        "comment": "SHA-256 of extension package for Trazia \u2014 Image to Coloring Page (ckmakcjodnokbhoopmikgebllgkanapg)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c1383a61-6a4d-5126-91d6-a288162a5649",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fbdhpcenjhhbagklanmdgddekbepgbdo",
+        "comment": "Nodestory Campaign Image Prep | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 0.1.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "b6a696dc-eb5f-5d3d-9ac3-72e77ff20802",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fbdhpcenjhhbagklanmdgddekbepgbdo",
+        "comment": "Chrome Web Store entry for Nodestory Campaign Image Prep (fbdhpcenjhhbagklanmdgddekbepgbdo)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "5c4b8339-3e38-5585-81d4-5cd0894525d7",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "cb9455f232145c408e8f87b5220db8133766b6344a822cddd48cf67e0dfedb78",
+        "comment": "SHA-256 of extension package for Nodestory Campaign Image Prep (fbdhpcenjhhbagklanmdgddekbepgbdo)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "8de82345-be75-56ab-9507-bd38b633146b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ommlnhmhcolplbehahfldcmdcnhddame",
+        "comment": "Brawl Stars Cursors | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 2.0.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.0.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "9a4f2135-c87b-5a11-b26d-5a2a9fa9d341",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ommlnhmhcolplbehahfldcmdcnhddame",
+        "comment": "Chrome Web Store entry for Brawl Stars Cursors (ommlnhmhcolplbehahfldcmdcnhddame)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f4d7c37c-deee-54f4-8559-8c0a50c06cb8",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "83bc1dd5afe305edecf7482be6b7daf5fd31b78bd3e114dd5b2639a5ca625d3b",
+        "comment": "SHA-256 of extension package for Brawl Stars Cursors (ommlnhmhcolplbehahfldcmdcnhddame)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "42154c62-dac0-5c2c-91ea-530d85f52b3c",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "kehbjnkflkjolkaihlegmlknemfbldel",
+        "comment": "ChatCapture \u2014 WhatsApp Chat Exporter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 1.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "13ee37a4-50b3-523c-8345-564dcaf5d4e1",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/kehbjnkflkjolkaihlegmlknemfbldel",
+        "comment": "Chrome Web Store entry for ChatCapture \u2014 WhatsApp Chat Exporter (kehbjnkflkjolkaihlegmlknemfbldel)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "a08c8616-22f4-5de8-99d9-5f7785f56c60",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7a53fde7229d7e1821bf60272876309d41c8ccf4f788dd7b95f9b8817f152fa6",
+        "comment": "SHA-256 of extension package for ChatCapture \u2014 WhatsApp Chat Exporter (kehbjnkflkjolkaihlegmlknemfbldel)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "46a348a6-9647-567e-9f39-f4af79ac5f69",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "doekackjafjnchgcfmhgmmjoneklidah",
+        "comment": "VU Deadlines | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 1.2.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.2.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "cb000dfb-19cb-57c9-9f7e-47f015a5eb42",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/doekackjafjnchgcfmhgmmjoneklidah",
+        "comment": "Chrome Web Store entry for VU Deadlines (doekackjafjnchgcfmhgmmjoneklidah)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6724131d-4ffe-5cba-acb7-c9d68ab84d4d",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "44dc6ea281161ad609da3e9e2e54697f777479a7ebc409b007d15ae4a2b83663",
+        "comment": "SHA-256 of extension package for VU Deadlines (doekackjafjnchgcfmhgmmjoneklidah)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "0cebd8c1-755e-5e4f-b5b7-7061cb0937c1",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "nafkkkfgenjogcciafbloebegbghmfbi",
+        "comment": "ShopeeMaxZap | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 2.9.19",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"2.9.19\""
+          }
+        ]
+      },
+      {
+        "uuid": "90700b3d-ea5a-5fa6-8686-76b7e525b436",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/nafkkkfgenjogcciafbloebegbghmfbi",
+        "comment": "Chrome Web Store entry for ShopeeMaxZap (nafkkkfgenjogcciafbloebegbghmfbi)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2bd3c2a5-6016-5081-b657-0f25ae8ab796",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1ac4e2ca8c285dec1d8c7e10e4613b93cf505901f82e1961abe9684967a59c6b",
+        "comment": "SHA-256 of extension package for ShopeeMaxZap (nafkkkfgenjogcciafbloebegbghmfbi)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "b357f641-7686-5cf3-b9f3-4d97708f7107",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "aehakbcopmedipkacgjikkcdhpdkmiah",
+        "comment": "VideoForge | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 1.0.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.0.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "cecebaba-29ed-5891-b591-20760242c429",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/aehakbcopmedipkacgjikkcdhpdkmiah",
+        "comment": "Chrome Web Store entry for VideoForge (aehakbcopmedipkacgjikkcdhpdkmiah)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "3bb8a721-7254-5977-b872-51c7d27b6505",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "508f65697ff9c11d5aa0bb247108022f6ddce74b50cdabd94bd71e89d40396e5",
+        "comment": "SHA-256 of extension package for VideoForge (aehakbcopmedipkacgjikkcdhpdkmiah)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "674de24a-21b4-531e-8d63-afa217525c9b",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "hflhdlpgfmnjlilgfihojioodcokgmag",
+        "comment": "MTGDC500 Reporter | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 0.2.0",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.2.0\""
+          }
+        ]
+      },
+      {
+        "uuid": "c04d842d-850d-5e10-822b-5a889d303328",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/hflhdlpgfmnjlilgfihojioodcokgmag",
+        "comment": "Chrome Web Store entry for MTGDC500 Reporter (hflhdlpgfmnjlilgfihojioodcokgmag)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "6d8f7a37-5285-5972-9d8e-e37cbdc3bbb9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "ebbfea7a820082df903de1fdfaa49d2f15a1e5bc9deb83d01b7b2927c32a00be",
+        "comment": "SHA-256 of extension package for MTGDC500 Reporter (hflhdlpgfmnjlilgfihojioodcokgmag)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "e2bcea7e-e1f8-5ecb-98cd-26e3b9969045",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "cmopjlgmnnpojdbjhmobfelclgdkmjlm",
+        "comment": "Gudaeme | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 0.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "58383f9a-8cfc-582e-914f-f8d99d6aa7a9",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/cmopjlgmnnpojdbjhmobfelclgdkmjlm",
+        "comment": "Chrome Web Store entry for Gudaeme (cmopjlgmnnpojdbjhmobfelclgdkmjlm)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "830629ae-b0aa-50b9-8793-81d23d457cc9",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "16b8d4412ade85f1c657d7f13571a0b617cf5d1ca048678055ce15ee269a7b6d",
+        "comment": "SHA-256 of extension package for Gudaeme (cmopjlgmnnpojdbjhmobfelclgdkmjlm)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "ce0a0605-9934-590a-baaa-c1de609b44f2",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "pifdeipjcoohafmjmkdidenglendhglb",
+        "comment": "Portal Automation Bridge | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 1.3.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.3.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "1b9735c6-ff51-578e-b376-79e9781b2beb",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/pifdeipjcoohafmjmkdidenglendhglb",
+        "comment": "Chrome Web Store entry for Portal Automation Bridge (pifdeipjcoohafmjmkdidenglendhglb)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "9a5385ad-03a3-5d09-ba6e-3e9e8b849154",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "1c578a9419423ccd84bd5fd4c58e4f54fc4c565152a0f05df1217087393c23b2",
+        "comment": "SHA-256 of extension package for Portal Automation Bridge (pifdeipjcoohafmjmkdidenglendhglb)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "606311c4-9da4-57ce-bae1-1f8e3efc9b31",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ldfegajmokfejjngmdmkjcbkibgeblem",
+        "comment": "Vita For Pc,windows and Mac(Free to Use) | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "59ecb53b-f222-5f19-85b6-7b1506b17630",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ldfegajmokfejjngmdmkjcbkibgeblem",
+        "comment": "Chrome Web Store entry for Vita For Pc,windows and Mac(Free to Use) (ldfegajmokfejjngmdmkjcbkibgeblem)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "8cac57aa-9735-5dcd-86e1-913d4ee75ae1",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "bf81d7f7ffa391537d9037fd3b44caf534980d6d5ebff9ccd0a1954760628522",
+        "comment": "SHA-256 of extension package for Vita For Pc,windows and Mac(Free to Use) (ldfegajmokfejjngmdmkjcbkibgeblem)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "c03354c1-be4e-5a03-9f38-35f5c31fa243",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "fndmihhhpfhicfodpicmogpkdmniddae",
+        "comment": "EasySupply Meesho Prefill | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 0.8.5",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.8.5\""
+          }
+        ]
+      },
+      {
+        "uuid": "fffe9e47-3555-5313-af33-ac9b36b329ff",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/fndmihhhpfhicfodpicmogpkdmniddae",
+        "comment": "Chrome Web Store entry for EasySupply Meesho Prefill (fndmihhhpfhicfodpicmogpkdmniddae)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "2c36283c-3b05-517b-a22f-7239130b5f02",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "e9452cd6b99b899578465bfa791881730d353715444eb144f18c4edc863931d2",
+        "comment": "SHA-256 of extension package for EasySupply Meesho Prefill (fndmihhhpfhicfodpicmogpkdmniddae)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "5647b8b7-0c65-5b3d-9d16-0ce7dd15009a",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "ihomcempfmnmccbapadhppbnkolidbpk",
+        "comment": "Longevity Protocol | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 0.1.1",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"0.1.1\""
+          }
+        ]
+      },
+      {
+        "uuid": "87bedcab-3e5b-5aaf-ab0a-d6fa3a036683",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/ihomcempfmnmccbapadhppbnkolidbpk",
+        "comment": "Chrome Web Store entry for Longevity Protocol (ihomcempfmnmccbapadhppbnkolidbpk)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "f8f814c4-f1f8-51b8-8162-333afd94f3be",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "7c6940da06afac3a506b6c3cceccf1f39d7600b285ec2295eadf9d3a7120c695",
+        "comment": "SHA-256 of extension package for Longevity Protocol (ihomcempfmnmccbapadhppbnkolidbpk)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
+      {
+        "uuid": "55e44050-8d4b-5df6-9f2d-4e7a502831e7",
+        "type": "text",
+        "category": "Other",
+        "to_ids": false,
+        "value": "dcjnjphelnoddnldhdmlnilfjnjpbnol",
+        "comment": "Boss Hub | Whatsapp | Source: Store Monitoring | Store: Google Chrome | Added: 2026-11-26 | Version: 1.4.2",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          },
+          {
+            "name": "malext:source=\"Store Monitoring\""
+          },
+          {
+            "name": "malext:store=\"Google Chrome\""
+          },
+          {
+            "name": "malext:version=\"1.4.2\""
+          }
+        ]
+      },
+      {
+        "uuid": "ae2e49ad-956d-5652-8483-601b1a185c02",
+        "type": "url",
+        "category": "External analysis",
+        "to_ids": false,
+        "value": "https://chromewebstore.google.com/detail/dcjnjphelnoddnldhdmlnilfjnjpbnol",
+        "comment": "Chrome Web Store entry for Boss Hub | Whatsapp (dcjnjphelnoddnldhdmlnilfjnjpbnol)",
+        "distribution": "5"
+      },
+      {
+        "uuid": "29082730-44b8-5501-b1fc-0440891b03f3",
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "62c9efe62a3d154e6c7e9137173abb87b219b85617987032bf56aab2ce0a7d8c",
+        "comment": "SHA-256 of extension package for Boss Hub | Whatsapp (dcjnjphelnoddnldhdmlnilfjnjpbnol)",
+        "distribution": "5",
+        "Tag": [
+          {
+            "name": "malware:category=\"browser-extension\""
+          }
+        ]
+      },
       {
         "uuid": "2a97e91a-c3bb-58c2-b947-b4246533376a",
         "type": "text",
