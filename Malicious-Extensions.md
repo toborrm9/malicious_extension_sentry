@@ -1,5 +1,19 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ckmakcjodnokbhoopmikgebllgkanapg | Trazia — Image to Coloring Page | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
+| fbdhpcenjhhbagklanmdgddekbepgbdo | Nodestory Campaign Image Prep | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
+| ommlnhmhcolplbehahfldcmdcnhddame | Brawl Stars Cursors | Malware | Store Monitoring | 26/11/26 | No | Google Chrome
+| kehbjnkflkjolkaihlegmlknemfbldel | ChatCapture — WhatsApp Chat Exporter | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
+| doekackjafjnchgcfmhgmmjoneklidah | VU Deadlines | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
+| nafkkkfgenjogcciafbloebegbghmfbi | ShopeeMaxZap | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
+| aehakbcopmedipkacgjikkcdhpdkmiah | VideoForge | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
+| hflhdlpgfmnjlilgfihojioodcokgmag | MTGDC500 Reporter | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
+| cmopjlgmnnpojdbjhmobfelclgdkmjlm | Gudaeme | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
+| pifdeipjcoohafmjmkdidenglendhglb | Portal Automation Bridge | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
+| ldfegajmokfejjngmdmkjcbkibgeblem | Vita For Pc,windows and Mac(Free to Use) | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
+| fndmihhhpfhicfodpicmogpkdmniddae | EasySupply Meesho Prefill | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
+| ihomcempfmnmccbapadhppbnkolidbpk | Longevity Protocol | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
+| dcjnjphelnoddnldhdmlnilfjnjpbnol | Boss Hub \| Whatsapp | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
 | dmdnmhdljggmpoldekiaibijgphhnjpc | Monitor de Rendimiento | Bundling Unwanted Software | Store Monitoring | 25/11/26 | No | Google Chrome
 | flikipekplnpeadeiepjifndeijgeimk | Reviews.chat | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
 | hoimfljhmnagmnphpniaghenjghgicpm | Blackjack Basic Strategy Chart & Card Counter | Policy Violation | Store Monitoring | 25/11/26 | No | Google Chrome
