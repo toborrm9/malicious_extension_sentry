@@ -1,12 +1,172 @@
 {
   "feed_name": "malext_ - Community & Automated browser Extensions sentry",
   "feed_version": "1.0",
-  "generated": "2026-11-27T11:08:06Z",
+  "generated": "2026-11-27T12:07:13Z",
   "source": "https://github.com/toborrm9/malicious_extension_sentry",
   "dashboard": "https://malext.toborrm.com",
   "license": "TLP:CLEAR",
-  "total_indicators": 8814,
+  "total_indicators": 8830,
   "indicators": [
+    {
+      "extension_id": "mgggekjcdcdaiagafcbdhcdapifehhmc",
+      "name": "Google Sheets",
+      "source": "https://www.gendigital.com/blog/insights/research/remus-stealer-email-interception-analysis#indicators-of-compromise-(iocs)",
+      "store": "Sideloaded",
+      "insert_date": "2026-11-27",
+      "store_url": "",
+      "sha256": "",
+      "version": "0.5.4"
+    },
+    {
+      "extension_id": "cfmepkojgnkahbmgablgdahdomjdppgf",
+      "name": "Google Sheets",
+      "source": "https://www.gendigital.com/blog/insights/research/remus-stealer-email-interception-analysis#indicators-of-compromise-(iocs)",
+      "store": "Sideloaded",
+      "insert_date": "2026-11-27",
+      "store_url": "",
+      "sha256": "",
+      "version": "0.5.4"
+    },
+    {
+      "extension_id": "ibadghfioadciiaghmjlmfkffhjhklce",
+      "name": "SyncParty",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/ibadghfioadciiaghmjlmfkffhjhklce",
+      "sha256": "2363ccd078226babbde82aa183dac9072c71508bc534eaacc131462cc6a7d66c",
+      "version": "0.13.0"
+    },
+    {
+      "extension_id": "kaeohoiccfdmelobpnfodfehlaeoacje",
+      "name": "MarcaLEI",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/kaeohoiccfdmelobpnfodfehlaeoacje",
+      "sha256": "07f3a0cdf0c3a0265db8d499cf7f0b90163c401c3f1e5ea44532071dbf302e49",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "fmncjjkhghoggndiamniclnpghjondng",
+      "name": "QuickQR \u2014 QR Code Generator & Scanner",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/fmncjjkhghoggndiamniclnpghjondng",
+      "sha256": "e9b19bfa7e5f09660bfcae099c785edc1688cf0fcd1ad9078e52285c839d74b6",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "eonnpfcoddgfpjieelknofkoocjdlaed",
+      "name": "TubeCraft \u2014 YouTube Creator Suite",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/eonnpfcoddgfpjieelknofkoocjdlaed",
+      "sha256": "f7e6f2bab160384e77bbe30244fecf42dd95b39def4fbede522b4d1e76c9b357",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "bhdkenahehhmimnjnaldjifiekeadkef",
+      "name": "Friday's Watchlist",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/bhdkenahehhmimnjnaldjifiekeadkef",
+      "sha256": "f1485764d01786274cf022d04f3914fd8142280a6b4b0587d9092c4427b0efb2",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "ejofegaknegboilcniodglfhnjioadch",
+      "name": "Solas \u2014 Academic Research & Citations",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/ejofegaknegboilcniodglfhnjioadch",
+      "sha256": "9cd1d905c403780c729071e4505eb5c1777d971c7e4b2a9c6f84d734a756457a",
+      "version": "1.10.265"
+    },
+    {
+      "extension_id": "lpnkcjhnakeghaclmkdjokjbemehfiaj",
+      "name": "StudyMonk \u2014 Basit Adam Ders \u00c7al\u0131\u015f\u0131yor",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/lpnkcjhnakeghaclmkdjokjbemehfiaj",
+      "sha256": "8fabd78e1099cbf6679b41df0bbd86f6a599eb59e1690dfa7038d9cecd3632cf",
+      "version": "1.2.0"
+    },
+    {
+      "extension_id": "ajjbadihghbjcfpiiincpfjkblnpohjb",
+      "name": "KRYPTOEARN",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/ajjbadihghbjcfpiiincpfjkblnpohjb",
+      "sha256": "708c289224d881e4c5609d6210ac4113e462caddf9c5ff1df4250696f7337cee",
+      "version": "2.2"
+    },
+    {
+      "extension_id": "gmeihnhjkooenpihmacbdbledekiofhg",
+      "name": "Performance Monitor",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/gmeihnhjkooenpihmacbdbledekiofhg",
+      "sha256": "0317b30e57df265dc72407c9ded54725cc153fb33562b55f0cf0dee8f421c9f8",
+      "version": "1.0.1"
+    },
+    {
+      "extension_id": "aikoallciimnnpoedjnghnjdjpnacmej",
+      "name": "Dprime Woo Product Importer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/aikoallciimnnpoedjnghnjdjpnacmej",
+      "sha256": "13dd773f95d28013c96ee1d872f4bac94336540f11b58bb11d80ed8e89ea6e4e",
+      "version": "1.3.2"
+    },
+    {
+      "extension_id": "gfelgjbnhldenncoeobmkhlghdbkcogm",
+      "name": "KDP Profit Analyzer",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/gfelgjbnhldenncoeobmkhlghdbkcogm",
+      "sha256": "92b81848081dd24a67a73dd46b022f15295d5a0c79f633bf7e1980944b3f2550",
+      "version": "2.2.0"
+    },
+    {
+      "extension_id": "jadpnhbdcoiobigopfbkakcdacomopcg",
+      "name": "PolyHeat \u2014 Polymarket Heatmap",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/jadpnhbdcoiobigopfbkakcdacomopcg",
+      "sha256": "03652fd42ff4aaef0f45cd32d7b895ba497602f69993a3eceeac0b384ec12808",
+      "version": "1.0.0"
+    },
+    {
+      "extension_id": "ahkgfeaondknnomofelaogdefndmapak",
+      "name": "In Private Mode",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/ahkgfeaondknnomofelaogdefndmapak",
+      "sha256": "16cc5788b834a9bdc5c34e87ae8cf93e047144c28ab7dcd99bf1fd5addb8ad60",
+      "version": "1.1.6"
+    },
+    {
+      "extension_id": "bgobahbncpjdfeloncbhedojmaciikag",
+      "name": "TubeTranscriber - YouTube Transcript & AI Summary",
+      "source": "Store Monitoring",
+      "store": "Google Chrome",
+      "insert_date": "2026-11-27",
+      "store_url": "https://chromewebstore.google.com/detail/bgobahbncpjdfeloncbhedojmaciikag",
+      "sha256": "60e87b524b1aa037b50c542e3e523ce77d0c6736d524a76501c1bf1cb47484cf",
+      "version": "2.0.0"
+    },
     {
       "extension_id": "ckmakcjodnokbhoopmikgebllgkanapg",
       "name": "Trazia \u2014 Image to Coloring Page",
