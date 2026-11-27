@@ -1,5 +1,19 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| ibadghfioadciiaghmjlmfkffhjhklce | SyncParty | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
+| kaeohoiccfdmelobpnfodfehlaeoacje | MarcaLEI | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
+| fmncjjkhghoggndiamniclnpghjondng | QuickQR — QR Code Generator & Scanner | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
+| eonnpfcoddgfpjieelknofkoocjdlaed | TubeCraft — YouTube Creator Suite | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
+| bhdkenahehhmimnjnaldjifiekeadkef | Friday's Watchlist | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
+| ejofegaknegboilcniodglfhnjioadch | Solas — Academic Research & Citations | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
+| lpnkcjhnakeghaclmkdjokjbemehfiaj | StudyMonk — Basit Adam Ders Çalışıyor | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
+| ajjbadihghbjcfpiiincpfjkblnpohjb | KRYPTOEARN | Bundling Unwanted Software | Store Monitoring | 27/11/26 | No | Google Chrome
+| gmeihnhjkooenpihmacbdbledekiofhg | Performance Monitor | Malware | Store Monitoring | 27/11/26 | No | Google Chrome
+| aikoallciimnnpoedjnghnjdjpnacmej | Dprime Woo Product Importer | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
+| gfelgjbnhldenncoeobmkhlghdbkcogm | KDP Profit Analyzer | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
+| jadpnhbdcoiobigopfbkakcdacomopcg | PolyHeat — Polymarket Heatmap | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
+| ahkgfeaondknnomofelaogdefndmapak | In Private Mode | Malware | Store Monitoring | 27/11/26 | No | Google Chrome
+| bgobahbncpjdfeloncbhedojmaciikag | TubeTranscriber - YouTube Transcript & AI Summary | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
 | ckmakcjodnokbhoopmikgebllgkanapg | Trazia — Image to Coloring Page | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
 | fbdhpcenjhhbagklanmdgddekbepgbdo | Nodestory Campaign Image Prep | Policy Violation | Store Monitoring | 26/11/26 | No | Google Chrome
 | ommlnhmhcolplbehahfldcmdcnhddame | Brawl Stars Cursors | Malware | Store Monitoring | 26/11/26 | No | Google Chrome
