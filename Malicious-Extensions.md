@@ -1,5 +1,7 @@
 | Extension ID | Name | Reason | Source | Insert Date | Blocklist | Browser |
 | ------------- | ---- | ------ | ------ | ----------- |--------| ----------- | 
+| mgggekjcdcdaiagafcbdhcdapifehhmc | Google Sheets | Malware | [www.gendigital.com](https://www.gendigital.com/blog/insights/research/remus-stealer-email-interception-analysis#indicators-of-compromise-(iocs)) | 27/11/26 | No | Sideloaded
+| cfmepkojgnkahbmgablgdahdomjdppgf | Google Sheets | Malware | [www.gendigital.com](https://www.gendigital.com/blog/insights/research/remus-stealer-email-interception-analysis#indicators-of-compromise-(iocs)) | 27/11/26 | No | Sideloaded
 | ibadghfioadciiaghmjlmfkffhjhklce | SyncParty | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
 | kaeohoiccfdmelobpnfodfehlaeoacje | MarcaLEI | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
 | fmncjjkhghoggndiamniclnpghjondng | QuickQR — QR Code Generator & Scanner | Policy Violation | Store Monitoring | 27/11/26 | No | Google Chrome
